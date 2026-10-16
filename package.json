@@ -1,0 +1,45 @@
+{
+  "name": "lexiphon",
+  "version": "0.1.0",
+  "description": "LexiPhon — offline-first Modern RP & lexical compression coach (100% voice-in PWA).",
+  "scripts": {
+    "copy-ort": "node scripts/copy-ort.mjs",
+    "predev": "npm run copy-ort",
+    "dev": "vite",
+    "prebuild": "npm run copy-ort",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "annotate": "vite-node scripts/annotate-data.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preetsingh-007/schwa.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/preetsingh-007/schwa/issues"
+  },
+  "homepage": "https://github.com/preetsingh-007/schwa#readme",
+  "dependencies": {
+    "@huggingface/transformers": "^3.8.1",
+    "dexie": "^4.4.6",
+    "phonemizer": "^1.2.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.5",
+    "@types/react": "^18.3.31",
+    "@types/react-dom": "^18.3.7",
+    "@vitejs/plugin-react": "^4.7.0",
+    "fake-indexeddb": "^6.2.6",
+    "typescript": "^5.9.3",
+    "vite": "^6.4.4",
+    "vite-plugin-pwa": "^1.3.0",
+    "vitest": "^3.2.7"
+  },
+  "private": true,
+  "type": "module"
+}

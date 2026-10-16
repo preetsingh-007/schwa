@@ -1,0 +1,965 @@
+[
+ {
+  "symbol": "iː",
+  "kind": "vowel",
+  "keyword": "FLEECE",
+  "examples": [
+   "see",
+   "meet",
+   "key",
+   "people"
+  ],
+  "description": "Long close front unrounded vowel.",
+  "mechanics": "Tongue high and front, lips spread, held long. Contrasts with short /ɪ/.",
+  "chart": {
+   "x": 0.02,
+   "y": 0.02
+  },
+  "interference": [
+   {
+    "phone": "ɪ",
+    "label": "shortened to KIT",
+    "fix": "Hold it longer and spread the lips: sheep, not ship."
+   }
+  ]
+ },
+ {
+  "symbol": "ɪ",
+  "kind": "vowel",
+  "keyword": "KIT",
+  "examples": [
+   "sit",
+   "build",
+   "women",
+   "busy"
+  ],
+  "description": "Short near-close near-front lax vowel.",
+  "mechanics": "Slightly lower and more central than /iː/, relaxed, short.",
+  "chart": {
+   "x": 0.2,
+   "y": 0.17
+  },
+  "interference": [
+   {
+    "phone": "iː",
+    "label": "lengthened to FLEECE",
+    "fix": "Keep it short and lax: ship, not sheep."
+   }
+  ]
+ },
+ {
+  "symbol": "e",
+  "kind": "vowel",
+  "keyword": "DRESS",
+  "examples": [
+   "bed",
+   "said",
+   "head",
+   "any"
+  ],
+  "description": "Short mid front unrounded vowel (phonetically [ɛ] in modern RP).",
+  "mechanics": "Jaw half-open, tongue front, lips neutral. Don't raise it to [eː].",
+  "chart": {
+   "x": 0.1,
+   "y": 0.45
+  },
+  "interference": [
+   {
+    "phone": "eː",
+    "label": "raised close-mid [eː]",
+    "fix": "Open the jaw a little more; DRESS is short and open-mid."
+   }
+  ]
+ },
+ {
+  "symbol": "æ",
+  "kind": "vowel",
+  "keyword": "TRAP",
+  "examples": [
+   "cat",
+   "plan",
+   "black",
+   "have"
+  ],
+  "description": "Short open front unrounded vowel (modern RP [a]).",
+  "mechanics": "Jaw open, tongue low and front. In modern RP it is quite open — between [æ] and [a].",
+  "chart": {
+   "x": 0.15,
+   "y": 0.88
+  },
+  "interference": [
+   {
+    "phone": "e",
+    "label": "raised to DRESS",
+    "fix": "Drop the jaw further for TRAP."
+   }
+  ]
+ },
+ {
+  "symbol": "ʌ",
+  "kind": "vowel",
+  "keyword": "STRUT",
+  "examples": [
+   "cup",
+   "love",
+   "blood",
+   "come"
+  ],
+  "description": "Short open-mid central unrounded vowel (modern RP [ɐ]).",
+  "mechanics": "Jaw half-open, tongue central and relaxed, lips unrounded. Not [ɑ] and not [ə]-weak.",
+  "chart": {
+   "x": 0.55,
+   "y": 0.72
+  },
+  "interference": [
+   {
+    "phone": "ɑː",
+    "label": "backed / lengthened",
+    "fix": "Keep it short and central."
+   }
+  ]
+ },
+ {
+  "symbol": "ɑː",
+  "kind": "vowel",
+  "keyword": "PALM / BATH / START",
+  "examples": [
+   "father",
+   "bath",
+   "ask",
+   "car"
+  ],
+  "description": "Long open back unrounded vowel.",
+  "mechanics": "Jaw wide open, tongue low and back, lips neutral and unrounded. No /r/ after it unless a vowel follows.",
+  "chart": {
+   "x": 0.76,
+   "y": 0.97
+  },
+  "interference": [
+   {
+    "phone": "æ",
+    "label": "BATH said with TRAP",
+    "fix": "BATH words (ask, chance, demand) take /ɑː/ in RP."
+   },
+   {
+    "phone": "r",
+    "label": "rhotic /r/ after START",
+    "fix": "car /kɑː/ — no /r/."
+   }
+  ]
+ },
+ {
+  "symbol": "ɒ",
+  "kind": "vowel",
+  "keyword": "LOT",
+  "examples": [
+   "lot",
+   "want",
+   "project",
+   "what"
+  ],
+  "description": "Short open back rounded vowel.",
+  "mechanics": "Jaw open, tongue low and back, lips lightly rounded. Short.",
+  "chart": {
+   "x": 0.97,
+   "y": 0.86
+  },
+  "interference": [
+   {
+    "phone": "ɔ",
+    "label": "closer [ɔ]",
+    "fix": "Open the jaw more and keep it short."
+   },
+   {
+    "phone": "ɑ",
+    "label": "unrounded (American) [ɑ]",
+    "fix": "Add light lip-rounding."
+   }
+  ]
+ },
+ {
+  "symbol": "ɔː",
+  "kind": "vowel",
+  "keyword": "THOUGHT / NORTH / FORCE",
+  "examples": [
+   "thought",
+   "board",
+   "water",
+   "law"
+  ],
+  "description": "Long mid back rounded vowel (close-mid in modern RP).",
+  "mechanics": "Tongue back and mid-high, lips firmly rounded, long. Non-rhotic: board /bɔːd/.",
+  "chart": {
+   "x": 0.9,
+   "y": 0.42
+  },
+  "interference": [
+   {
+    "phone": "ɒ",
+    "label": "shortened to LOT",
+    "fix": "Lengthen and round more firmly."
+   },
+   {
+    "phone": "oː",
+    "label": "too close [oː]",
+    "fix": "Slightly lower the tongue."
+   }
+  ]
+ },
+ {
+  "symbol": "ʊ",
+  "kind": "vowel",
+  "keyword": "FOOT",
+  "examples": [
+   "put",
+   "book",
+   "could",
+   "woman"
+  ],
+  "description": "Short near-close near-back rounded vowel (centralised in modern RP).",
+  "mechanics": "Short and lax, lips lightly rounded.",
+  "chart": {
+   "x": 0.66,
+   "y": 0.2
+  },
+  "interference": [
+   {
+    "phone": "uː",
+    "label": "lengthened to GOOSE",
+    "fix": "Keep it short: full, not fool."
+   }
+  ]
+ },
+ {
+  "symbol": "uː",
+  "kind": "vowel",
+  "keyword": "GOOSE",
+  "examples": [
+   "food",
+   "blue",
+   "through",
+   "shoe"
+  ],
+  "description": "Long close back (fronted in modern RP) rounded vowel.",
+  "mechanics": "Lips rounded, tongue high; modern RP fronts it towards [ʉː].",
+  "chart": {
+   "x": 0.84,
+   "y": 0.02
+  },
+  "interference": [
+   {
+    "phone": "ʊ",
+    "label": "shortened to FOOT",
+    "fix": "Lengthen: pool, not pull."
+   }
+  ]
+ },
+ {
+  "symbol": "ɜː",
+  "kind": "vowel",
+  "keyword": "NURSE",
+  "examples": [
+   "bird",
+   "work",
+   "learn",
+   "first"
+  ],
+  "description": "Long mid central unrounded vowel.",
+  "mechanics": "Tongue central and relaxed, lips neutral, long. Absolutely no /r/ colouring.",
+  "chart": {
+   "x": 0.5,
+   "y": 0.36
+  },
+  "interference": [
+   {
+    "phone": "r",
+    "label": "rhotic NURSE [ɝ]",
+    "fix": "Keep the tongue tip down; work /wɜːk/."
+   }
+  ]
+ },
+ {
+  "symbol": "ə",
+  "kind": "vowel",
+  "keyword": "COMMA (schwa)",
+  "examples": [
+   "about",
+   "banana",
+   "the",
+   "doctor"
+  ],
+  "description": "Short mid central unstressed vowel — the most frequent vowel in English.",
+  "mechanics": "Completely relaxed tongue and lips, very short. Occurs only in unstressed syllables and weak forms.",
+  "chart": {
+   "x": 0.48,
+   "y": 0.56
+  },
+  "interference": [
+   {
+    "phone": "ʌ",
+    "label": "full STRUT",
+    "fix": "Relax and shorten; it should almost disappear."
+   },
+   {
+    "phone": "æ",
+    "label": "spelling pronunciation",
+    "fix": "Unstressed \"a\" is /ə/: about /əˈbaʊt/."
+   }
+  ]
+ },
+ {
+  "symbol": "eɪ",
+  "kind": "vowel",
+  "keyword": "FACE",
+  "examples": [
+   "day",
+   "make",
+   "late",
+   "basic"
+  ],
+  "description": "Closing diphthong from [e] towards [ɪ].",
+  "mechanics": "Start mid-front and glide up: the jaw closes slightly during the vowel.",
+  "chart": {
+   "x": 0.12,
+   "y": 0.42
+  },
+  "interference": [
+   {
+    "phone": "eː",
+    "label": "monophthong [eː]",
+    "fix": "Add the glide up to /ɪ/: make /meɪk/."
+   }
+  ]
+ },
+ {
+  "symbol": "aɪ",
+  "kind": "vowel",
+  "keyword": "PRICE",
+  "examples": [
+   "my",
+   "time",
+   "high",
+   "buy"
+  ],
+  "description": "Closing diphthong from an open central [a] to [ɪ].",
+  "mechanics": "Open jaw, then glide up and forward.",
+  "chart": {
+   "x": 0.4,
+   "y": 0.95
+  }
+ },
+ {
+  "symbol": "ɔɪ",
+  "kind": "vowel",
+  "keyword": "CHOICE",
+  "examples": [
+   "boy",
+   "join",
+   "point",
+   "noise"
+  ],
+  "description": "Closing diphthong from [ɔ] to [ɪ].",
+  "mechanics": "Rounded back start, then glide to front unrounded.",
+  "chart": {
+   "x": 0.85,
+   "y": 0.45
+  }
+ },
+ {
+  "symbol": "əʊ",
+  "kind": "vowel",
+  "keyword": "GOAT",
+  "examples": [
+   "go",
+   "code",
+   "post",
+   "hold"
+  ],
+  "description": "Closing diphthong from central [ə] to [ʊ] — the signature RP vowel.",
+  "mechanics": "Start with an unrounded central schwa, then round the lips as the tongue glides back and up. Never a flat [oː].",
+  "chart": {
+   "x": 0.5,
+   "y": 0.48
+  },
+  "interference": [
+   {
+    "phone": "oː",
+    "label": "monophthong [oː]",
+    "fix": "Start unrounded and central, then glide: go /ɡəʊ/."
+   },
+   {
+    "phone": "oʊ",
+    "label": "back start [oʊ]",
+    "fix": "Begin centrally, not back-rounded."
+   }
+  ]
+ },
+ {
+  "symbol": "aʊ",
+  "kind": "vowel",
+  "keyword": "MOUTH",
+  "examples": [
+   "now",
+   "out",
+   "house",
+   "down"
+  ],
+  "description": "Closing diphthong from open [a] to [ʊ].",
+  "mechanics": "Open jaw, then glide back and round the lips.",
+  "chart": {
+   "x": 0.45,
+   "y": 0.95
+  }
+ },
+ {
+  "symbol": "ɪə",
+  "kind": "vowel",
+  "keyword": "NEAR",
+  "examples": [
+   "here",
+   "idea",
+   "clear",
+   "beer"
+  ],
+  "description": "Centring diphthong from [ɪ] to [ə] (often [ɪː] in modern RP).",
+  "mechanics": "Glide from KIT towards schwa. No /r/.",
+  "chart": {
+   "x": 0.2,
+   "y": 0.18
+  },
+  "interference": [
+   {
+    "phone": "r",
+    "label": "rhotic NEAR",
+    "fix": "here /hɪə/ — no /r/ before a consonant or pause."
+   }
+  ]
+ },
+ {
+  "symbol": "eə",
+  "kind": "vowel",
+  "keyword": "SQUARE",
+  "examples": [
+   "hair",
+   "care",
+   "where",
+   "there"
+  ],
+  "description": "Centring diphthong, monophthongised to long [ɛː] in modern RP.",
+  "mechanics": "Long open-mid front vowel; no /r/.",
+  "chart": {
+   "x": 0.15,
+   "y": 0.55
+  },
+  "interference": [
+   {
+    "phone": "r",
+    "label": "rhotic SQUARE",
+    "fix": "care /keə/ — no /r/."
+   }
+  ]
+ },
+ {
+  "symbol": "ʊə",
+  "kind": "vowel",
+  "keyword": "CURE",
+  "examples": [
+   "tour",
+   "pure",
+   "jury",
+   "sure"
+  ],
+  "description": "Centring diphthong from [ʊ] to [ə]; many speakers now use /ɔː/ in sure/poor.",
+  "mechanics": "Glide from FOOT to schwa, or use /ɔː/. No /r/.",
+  "chart": {
+   "x": 0.72,
+   "y": 0.2
+  }
+ },
+ {
+  "symbol": "p",
+  "kind": "consonant",
+  "keyword": "pen",
+  "examples": [
+   "pen",
+   "happy",
+   "stop"
+  ],
+  "description": "Voiceless bilabial plosive.",
+  "mechanics": "Close both lips, release with aspiration [pʰ] at the start of a stressed syllable.",
+  "chart": {
+   "place": "bilabial",
+   "manner": "plosive",
+   "voiced": false
+  }
+ },
+ {
+  "symbol": "b",
+  "kind": "consonant",
+  "keyword": "bad",
+  "examples": [
+   "bad",
+   "rubber",
+   "job"
+  ],
+  "description": "Voiced bilabial plosive.",
+  "mechanics": "Close both lips; voicing is weak word-initially.",
+  "chart": {
+   "place": "bilabial",
+   "manner": "plosive",
+   "voiced": true
+  }
+ },
+ {
+  "symbol": "t",
+  "kind": "consonant",
+  "keyword": "tea",
+  "examples": [
+   "tea",
+   "better",
+   "cat"
+  ],
+  "description": "Voiceless alveolar plosive.",
+  "mechanics": "Tongue tip on the alveolar ridge, released with aspiration [tʰ]; often a glottal stop [ʔ] before consonants in modern RP.",
+  "chart": {
+   "place": "alveolar",
+   "manner": "plosive",
+   "voiced": false
+  },
+  "interference": [
+   {
+    "phone": "ʈ",
+    "label": "retroflex [ʈ]",
+    "fix": "Tongue tip forward on the alveolar ridge, not curled back."
+   },
+   {
+    "phone": "t̪",
+    "label": "dental [t̪]",
+    "fix": "Move the tip back off the teeth onto the ridge."
+   }
+  ]
+ },
+ {
+  "symbol": "d",
+  "kind": "consonant",
+  "keyword": "did",
+  "examples": [
+   "did",
+   "ladder",
+   "odd"
+  ],
+  "description": "Voiced alveolar plosive.",
+  "mechanics": "Tongue tip on the alveolar ridge; voiced.",
+  "chart": {
+   "place": "alveolar",
+   "manner": "plosive",
+   "voiced": true
+  },
+  "interference": [
+   {
+    "phone": "ɖ",
+    "label": "retroflex [ɖ]",
+    "fix": "Flat tongue tip on the alveolar ridge."
+   }
+  ]
+ },
+ {
+  "symbol": "k",
+  "kind": "consonant",
+  "keyword": "cat",
+  "examples": [
+   "cat",
+   "school",
+   "back"
+  ],
+  "description": "Voiceless velar plosive.",
+  "mechanics": "Back of the tongue against the soft palate; aspirated [kʰ] initially.",
+  "chart": {
+   "place": "velar",
+   "manner": "plosive",
+   "voiced": false
+  }
+ },
+ {
+  "symbol": "ɡ",
+  "kind": "consonant",
+  "keyword": "get",
+  "examples": [
+   "get",
+   "bigger",
+   "bag"
+  ],
+  "description": "Voiced velar plosive.",
+  "mechanics": "Back of the tongue against the soft palate; voiced.",
+  "chart": {
+   "place": "velar",
+   "manner": "plosive",
+   "voiced": true
+  }
+ },
+ {
+  "symbol": "f",
+  "kind": "consonant",
+  "keyword": "fall",
+  "examples": [
+   "fall",
+   "coffee",
+   "laugh"
+  ],
+  "description": "Voiceless labiodental fricative.",
+  "mechanics": "Upper teeth lightly on the lower lip, steady airflow.",
+  "chart": {
+   "place": "labiodental",
+   "manner": "fricative",
+   "voiced": false
+  }
+ },
+ {
+  "symbol": "v",
+  "kind": "consonant",
+  "keyword": "van",
+  "examples": [
+   "van",
+   "very",
+   "over"
+  ],
+  "description": "Voiced labiodental fricative.",
+  "mechanics": "Upper teeth on the inside of the lower lip with audible friction and voicing — not a frictionless [ʋ].",
+  "chart": {
+   "place": "labiodental",
+   "manner": "fricative",
+   "voiced": true
+  },
+  "interference": [
+   {
+    "phone": "ʋ",
+    "label": "approximant [ʋ]",
+    "fix": "Press the teeth into the lip and make it buzz."
+   },
+   {
+    "phone": "w",
+    "label": "merged with /w/",
+    "fix": "Teeth contact for /v/; none for /w/."
+   }
+  ]
+ },
+ {
+  "symbol": "θ",
+  "kind": "consonant",
+  "keyword": "thin",
+  "examples": [
+   "thin",
+   "author",
+   "path"
+  ],
+  "description": "Voiceless dental fricative.",
+  "mechanics": "Tongue tip lightly behind or between the teeth, continuous airflow — no stop.",
+  "chart": {
+   "place": "dental",
+   "manner": "fricative",
+   "voiced": false
+  },
+  "interference": [
+   {
+    "phone": "t",
+    "label": "stopped to [t]/[t̪]",
+    "fix": "Let air flow continuously over the tongue."
+   }
+  ]
+ },
+ {
+  "symbol": "ð",
+  "kind": "consonant",
+  "keyword": "this",
+  "examples": [
+   "this",
+   "mother",
+   "breathe"
+  ],
+  "description": "Voiced dental fricative.",
+  "mechanics": "As /θ/ but voiced — feel the buzz.",
+  "chart": {
+   "place": "dental",
+   "manner": "fricative",
+   "voiced": true
+  },
+  "interference": [
+   {
+    "phone": "d",
+    "label": "stopped to [d]/[d̪]",
+    "fix": "Continuous voiced friction, no closure."
+   }
+  ]
+ },
+ {
+  "symbol": "s",
+  "kind": "consonant",
+  "keyword": "see",
+  "examples": [
+   "see",
+   "city",
+   "pass"
+  ],
+  "description": "Voiceless alveolar fricative.",
+  "mechanics": "Tongue blade near the alveolar ridge, sharp hiss.",
+  "chart": {
+   "place": "alveolar",
+   "manner": "fricative",
+   "voiced": false
+  }
+ },
+ {
+  "symbol": "z",
+  "kind": "consonant",
+  "keyword": "zoo",
+  "examples": [
+   "zoo",
+   "busy",
+   "is"
+  ],
+  "description": "Voiced alveolar fricative.",
+  "mechanics": "As /s/ with voicing. Plural -s after voiced sounds is /z/.",
+  "chart": {
+   "place": "alveolar",
+   "manner": "fricative",
+   "voiced": true
+  }
+ },
+ {
+  "symbol": "ʃ",
+  "kind": "consonant",
+  "keyword": "she",
+  "examples": [
+   "she",
+   "nation",
+   "wish"
+  ],
+  "description": "Voiceless postalveolar fricative.",
+  "mechanics": "Tongue further back than /s/, lips slightly rounded.",
+  "chart": {
+   "place": "postalveolar",
+   "manner": "fricative",
+   "voiced": false
+  }
+ },
+ {
+  "symbol": "ʒ",
+  "kind": "consonant",
+  "keyword": "measure",
+  "examples": [
+   "measure",
+   "vision",
+   "beige"
+  ],
+  "description": "Voiced postalveolar fricative.",
+  "mechanics": "As /ʃ/ with voicing.",
+  "chart": {
+   "place": "postalveolar",
+   "manner": "fricative",
+   "voiced": true
+  }
+ },
+ {
+  "symbol": "h",
+  "kind": "consonant",
+  "keyword": "hat",
+  "examples": [
+   "hat",
+   "behind",
+   "who"
+  ],
+  "description": "Voiceless glottal fricative.",
+  "mechanics": "Breathy release before a vowel; never after a vowel.",
+  "chart": {
+   "place": "glottal",
+   "manner": "fricative",
+   "voiced": false
+  }
+ },
+ {
+  "symbol": "tʃ",
+  "kind": "consonant",
+  "keyword": "church",
+  "examples": [
+   "church",
+   "nature",
+   "watch"
+  ],
+  "description": "Voiceless postalveolar affricate.",
+  "mechanics": "Stop + /ʃ/ release as one sound.",
+  "chart": {
+   "place": "postalveolar",
+   "manner": "affricate",
+   "voiced": false
+  }
+ },
+ {
+  "symbol": "dʒ",
+  "kind": "consonant",
+  "keyword": "judge",
+  "examples": [
+   "judge",
+   "age",
+   "soldier"
+  ],
+  "description": "Voiced postalveolar affricate.",
+  "mechanics": "Stop + /ʒ/ release as one sound.",
+  "chart": {
+   "place": "postalveolar",
+   "manner": "affricate",
+   "voiced": true
+  }
+ },
+ {
+  "symbol": "m",
+  "kind": "consonant",
+  "keyword": "man",
+  "examples": [
+   "man",
+   "summer",
+   "some"
+  ],
+  "description": "Bilabial nasal.",
+  "mechanics": "Lips closed, air through the nose.",
+  "chart": {
+   "place": "bilabial",
+   "manner": "nasal",
+   "voiced": true
+  }
+ },
+ {
+  "symbol": "n",
+  "kind": "consonant",
+  "keyword": "no",
+  "examples": [
+   "no",
+   "dinner",
+   "sun"
+  ],
+  "description": "Alveolar nasal.",
+  "mechanics": "Tongue tip on the alveolar ridge, air through the nose.",
+  "chart": {
+   "place": "alveolar",
+   "manner": "nasal",
+   "voiced": true
+  },
+  "interference": [
+   {
+    "phone": "ɳ",
+    "label": "retroflex [ɳ]",
+    "fix": "Tip forward on the ridge."
+   }
+  ]
+ },
+ {
+  "symbol": "ŋ",
+  "kind": "consonant",
+  "keyword": "sing",
+  "examples": [
+   "sing",
+   "finger",
+   "think"
+  ],
+  "description": "Velar nasal.",
+  "mechanics": "Back of the tongue on the soft palate; in \"-ing\" no [ɡ] release.",
+  "chart": {
+   "place": "velar",
+   "manner": "nasal",
+   "voiced": true
+  }
+ },
+ {
+  "symbol": "l",
+  "kind": "consonant",
+  "keyword": "leg",
+  "examples": [
+   "leg",
+   "hello",
+   "feel"
+  ],
+  "description": "Alveolar lateral approximant (clear before vowels, dark [ɫ] before consonants and pauses).",
+  "mechanics": "Tongue tip on the ridge, air over the sides.",
+  "chart": {
+   "place": "alveolar",
+   "manner": "lateral",
+   "voiced": true
+  },
+  "interference": [
+   {
+    "phone": "ɭ",
+    "label": "retroflex [ɭ]",
+    "fix": "Tip forward on the ridge."
+   }
+  ]
+ },
+ {
+  "symbol": "r",
+  "kind": "consonant",
+  "keyword": "red",
+  "examples": [
+   "red",
+   "very",
+   "sorry"
+  ],
+  "description": "Postalveolar approximant [ɹ] — only before vowels in RP.",
+  "mechanics": "Tongue tip approaches (but doesn't touch) the back of the ridge, lips slightly rounded. Never after a vowel unless a vowel follows.",
+  "chart": {
+   "place": "postalveolar",
+   "manner": "approximant",
+   "voiced": true
+  },
+  "interference": [
+   {
+    "phone": "ɾ",
+    "label": "tap/trill",
+    "fix": "No contact — an approximant."
+   }
+  ]
+ },
+ {
+  "symbol": "w",
+  "kind": "consonant",
+  "keyword": "wet",
+  "examples": [
+   "wet",
+   "one",
+   "quick"
+  ],
+  "description": "Labial-velar approximant.",
+  "mechanics": "Tightly rounded, protruded lips with no tooth contact, gliding into the vowel.",
+  "chart": {
+   "place": "velar",
+   "manner": "approximant",
+   "voiced": true
+  },
+  "interference": [
+   {
+    "phone": "ʋ",
+    "label": "labiodental [ʋ]",
+    "fix": "Keep the teeth away from the lip; round instead."
+   },
+   {
+    "phone": "v",
+    "label": "merged with /v/",
+    "fix": "No friction for /w/."
+   }
+  ]
+ },
+ {
+  "symbol": "j",
+  "kind": "consonant",
+  "keyword": "yes",
+  "examples": [
+   "yes",
+   "use",
+   "new"
+  ],
+  "description": "Palatal approximant.",
+  "mechanics": "Tongue front raised towards the hard palate; RP keeps /j/ in new /njuː/, tune /tjuːn/.",
+  "chart": {
+   "place": "palatal",
+   "manner": "approximant",
+   "voiced": true
+  }
+ }
+]

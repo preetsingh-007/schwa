@@ -1,0 +1,6375 @@
+[
+ {
+  "id": "rr_001",
+  "pattern": "\\bactually\\s+what\\s+i\\s+am\\s+trying\\s+to\\s+say\\s+is(\\s+that)?(\\s+the\\s+main\\s+problem\\s+is)?(?![\\w'])",
+  "replacements": [
+   "the crux of the issue is"
+  ],
+  "category": "upgrade",
+  "severity": "critical",
+  "note": "Circumlocution opener → name the point directly.",
+  "vocab": [
+   "lex_crux_01"
+  ]
+ },
+ {
+  "id": "rr_002",
+  "pattern": "\\bthe\\s+main\\s+problem\\s+(here\\s+)?is(\\s+that)?(?![\\w'])",
+  "replacements": [
+   "the crux of the issue is",
+   "the bottleneck is"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "'The crux of the issue is' / 'The bottleneck is' is crisper.",
+  "vocab": [
+   "lex_crux_01",
+   "lex_bottleneck_01"
+  ]
+ },
+ {
+  "id": "rr_003",
+  "pattern": "\\b(there\\s+are|we\\s+are\\s+having)\\s+(many|a\\s+lot\\s+of|so\\s+many)\\s+small-?\\s+?small\\s+(issues|problems)(\\s+coming\\s+up)?(\\s+in\\s+the\\s+beginning)?(?![\\w'])",
+  "replacements": [
+   "we're seeing a few teething problems"
+  ],
+  "category": "upgrade",
+  "severity": "critical",
+  "note": "'Small-small' is Indian English reduplication; 'teething problems' is the British idiom.",
+  "vocab": [
+   "lex_teething_01"
+  ]
+ },
+ {
+  "id": "rr_004",
+  "pattern": "\\bsmall-?\\s+?small(?![\\w'])",
+  "replacements": [
+   "minor"
+  ],
+  "category": "upgrade",
+  "severity": "critical",
+  "note": "Reduplication ('small-small') isn't used in British English."
+ },
+ {
+  "id": "rr_005",
+  "pattern": "\\b(please\\s+|kindly\\s+)?do\\s+the\\s+needful(?![\\w'])",
+  "replacements": [
+   "please action this"
+  ],
+  "category": "upgrade",
+  "severity": "critical",
+  "note": "'Do the needful' is an Indian-English set phrase; UK offices say 'please action this'.",
+  "vocab": [
+   "lex_action_01"
+  ]
+ },
+ {
+  "id": "rr_006",
+  "pattern": "\\brevert\\s+back\\s+to\\s+me(\\s+at\\s+the\\s+earliest)?(?![\\w'])",
+  "replacements": [
+   "keep me posted"
+  ],
+  "category": "upgrade",
+  "severity": "critical",
+  "note": "'Revert' means 'go back to a previous state' in UK English; 'keep me posted' / 'get back to me'.",
+  "vocab": [
+   "lex_keep_posted_01"
+  ]
+ },
+ {
+  "id": "rr_007",
+  "pattern": "\\brevert\\s+(to\\s+me\\s+)?at\\s+the\\s+earliest(?![\\w'])",
+  "replacements": [
+   "get back to me as soon as you can"
+  ],
+  "category": "upgrade",
+  "severity": "critical",
+  "note": "'Revert' for 'reply' is non-standard in the UK."
+ },
+ {
+  "id": "rr_008",
+  "pattern": "\\bat\\s+the\\s+earliest(\\s+possible)?(?![\\w'])",
+  "replacements": [
+   "as soon as you can"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "'At the earliest' dangles; 'as soon as you can' is natural."
+ },
+ {
+  "id": "rr_009",
+  "pattern": "\\bi\\s+don'?t\\s+think\\s+(this|the)\\s+(deadline|timeline)\\s+is\\s+possible(\\s+at\\s+all)?(,\\s+it\\s+is\\s+too\\s+risky)?(?![\\w'])",
+  "replacements": [
+   "that timeline might be a bit of a stretch"
+  ],
+  "category": "upgrade",
+  "severity": "critical",
+  "note": "British polite understatement beats blunt negation.",
+  "vocab": [
+   "lex_stretch_01"
+  ]
+ },
+ {
+  "id": "rr_010",
+  "pattern": "\\bmy\\s+(schedule|calendar)\\s+is\\s+(completely\\s+|totally\\s+|fully\\s+)?full\\s+because\\s+of\\s+too\\s+much\\s+work(?![\\w'])",
+  "replacements": [
+   "I'm at capacity"
+  ],
+  "category": "upgrade",
+  "severity": "critical",
+  "note": "'I'm at capacity' (formal) / 'swamped' (colleague).",
+  "vocab": [
+   "lex_at_capacity_01",
+   "lex_swamped_01"
+  ]
+ },
+ {
+  "id": "rr_011",
+  "pattern": "\\bi\\s+(have|am\\s+having)\\s+too\\s+much\\s+work(?![\\w'])",
+  "replacements": [
+   "I'm at capacity"
+  ],
+  "category": "upgrade",
+  "severity": "critical",
+  "note": "Factual, unemotional capacity statement.",
+  "vocab": [
+   "lex_at_capacity_01"
+  ]
+ },
+ {
+  "id": "rr_012",
+  "pattern": "\\bwe\\s+wasted\\s+(two|a\\s+few|many|some)\\s+hours\\s+doing\\s+(random\\s+)?(unproductive\\s+)?(setup\\s+)?things(?![\\w'])",
+  "replacements": [
+   "we got bogged down in admin"
+  ],
+  "category": "upgrade",
+  "severity": "critical",
+  "note": "'Bogged down in admin' (pro) / 'faffing about' (casual).",
+  "vocab": [
+   "lex_bogged_down_01",
+   "lex_faffing_01"
+  ]
+ },
+ {
+  "id": "rr_013",
+  "pattern": "\\b(the\\s+)?thing\\s+that\\s+is\\s+slowing\\s+(everything|everyone|us)\\s+down(?![\\w'])",
+  "replacements": [
+   "the bottleneck"
+  ],
+  "category": "upgrade",
+  "severity": "critical",
+  "note": "One word does it.",
+  "vocab": [
+   "lex_bottleneck_01"
+  ]
+ },
+ {
+  "id": "rr_014",
+  "pattern": "\\bnot\\s+able\\s+to\\s+be\\s+continued\\s+(any\\s+?more\\s+)?because\\s+of\\s+(too\\s+many|many)\\s+problems(?![\\w'])",
+  "replacements": [
+   "untenable"
+  ],
+  "category": "upgrade",
+  "severity": "critical",
+  "note": "Exactly what 'untenable' means.",
+  "vocab": [
+   "lex_untenable_01"
+  ]
+ },
+ {
+  "id": "rr_015",
+  "pattern": "\\b(reduce|lessen)\\s+the\\s+(bad\\s+)?(effects?|impact)\\s+of\\s+the\\s+(risk|problem)(\\s+as\\s+much\\s+as\\s+possible)?(?![\\w'])",
+  "replacements": [
+   "mitigate the risk"
+  ],
+  "category": "upgrade",
+  "severity": "critical",
+  "note": "",
+  "vocab": [
+   "lex_mitigate_01"
+  ]
+ },
+ {
+  "id": "rr_016",
+  "pattern": "\\b(make|making)\\s+the\\s+(whole\\s+)?process\\s+(more\\s+)?(simple|simpler|easy|easier)(\\s+and\\s+(easy|fast|faster|quick))*(?![\\w'])",
+  "replacements": [
+   "streamline the process"
+  ],
+  "category": "upgrade",
+  "severity": "critical",
+  "note": "",
+  "vocab": [
+   "lex_streamline_01"
+  ]
+ },
+ {
+  "id": "rr_017",
+  "pattern": "\\b(a\\s+)?backup\\s+plan\\s+in\\s+case\\s+(something|anything)\\s+goes\\s+wrong(?![\\w'])",
+  "replacements": [
+   "a contingency plan"
+  ],
+  "category": "upgrade",
+  "severity": "critical",
+  "note": "",
+  "vocab": [
+   "lex_contingency_01"
+  ]
+ },
+ {
+  "id": "rr_018",
+  "pattern": "\\b(the\\s+)?most\\s+important\\s+(points?|things?)\\s+(that\\s+)?(we\\s+should|to)\\s+(notice|remember)(?![\\w'])",
+  "replacements": [
+   "the salient points"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_salient_01"
+  ]
+ },
+ {
+  "id": "rr_019",
+  "pattern": "\\bspecially\\s+made\\s+(only\\s+)?for\\s+(this|the)\\s+(particular\\s+)?(customer|client)(?![\\w'])",
+  "replacements": [
+   "bespoke"
+  ],
+  "category": "upgrade",
+  "severity": "critical",
+  "note": "",
+  "vocab": [
+   "lex_bespoke_01"
+  ]
+ },
+ {
+  "id": "rr_020",
+  "pattern": "\\b(it\\s+is\\s+|it's\\s+)?(possible|able)\\s+to\\s+(actually\\s+)?work\\s+in\\s+practice(?![\\w'])",
+  "replacements": [
+   "viable"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_viable_01"
+  ]
+ },
+ {
+  "id": "rr_021",
+  "pattern": "\\b(the\\s+)?numbers\\s+are\\s+not\\s+matching(\\s+with\\s+each\\s+other)?(?![\\w'])",
+  "replacements": [
+   "there's a discrepancy in the figures"
+  ],
+  "category": "upgrade",
+  "severity": "critical",
+  "note": "",
+  "vocab": [
+   "lex_discrepancy_01"
+  ]
+ },
+ {
+  "id": "rr_022",
+  "pattern": "\\b(give|show)\\s+(proof|evidence)\\s+that\\s+(what\\s+we\\s+are\\s+saying|it)\\s+is\\s+(actually\\s+)?true(?![\\w'])",
+  "replacements": [
+   "substantiate it"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_substantiate_01"
+  ]
+ },
+ {
+  "id": "rr_023",
+  "pattern": "\\b(if\\s+we\\s+get|to\\s+get)\\s+one\\s+(benefit|thing),?\\s+(then\\s+)?we\\s+(will|have\\s+to)\\s+(lose|give\\s+up)\\s+(some\\s+)?(other|another)\\s+(benefit|thing)(?![\\w'])",
+  "replacements": [
+   "it's a trade-off"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_trade_off_01"
+  ]
+ },
+ {
+  "id": "rr_024",
+  "pattern": "\\bi\\s+(want|wanted)\\s+to\\s+bring\\s+(it\\s+)?to\\s+your\\s+(kind\\s+)?notice(\\s+that)?(?![\\w'])",
+  "replacements": [
+   "just to flag,"
+  ],
+  "category": "upgrade",
+  "severity": "critical",
+  "note": "'Just to flag' is the light British way to raise a concern.",
+  "vocab": [
+   "lex_flag_01"
+  ]
+ },
+ {
+  "id": "rr_025",
+  "pattern": "\\bi\\s+understand\\s+what\\s+you\\s+are\\s+saying,?\\s+but\\s+i\\s+(still\\s+)?(feel|think)(\\s+that)?(?![\\w'])",
+  "replacements": [
+   "I take your point, but"
+  ],
+  "category": "upgrade",
+  "severity": "critical",
+  "note": "",
+  "vocab": [
+   "lex_take_point_01"
+  ]
+ },
+ {
+  "id": "rr_026",
+  "pattern": "\\bafter\\s+(thinking\\s+about|considering)\\s+all\\s+the\\s+(good\\s+and\\s+bad\\s+)?(points|things),?\\s+i\\s+(feel|think)(\\s+that)?(?![\\w'])",
+  "replacements": [
+   "on balance,"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_on_balance_01"
+  ]
+ },
+ {
+  "id": "rr_027",
+  "pattern": "\\b(this|that|it)\\s+is\\s+a\\s+very\\s+(big|serious)\\s+problem(\\s+and\\s+very\\s+bad\\s+for\\s+us)?(?![\\w'])",
+  "replacements": [
+   "that's not ideal"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "British understatement.",
+  "vocab": [
+   "lex_not_ideal_01"
+  ]
+ },
+ {
+  "id": "rr_028",
+  "pattern": "\\b(the\\s+project|it)\\s+is\\s+taking\\s+more\\s+time\\s+than\\s+(we\\s+)?planned(?![\\w'])",
+  "replacements": [
+   "we've overrun"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_overrun_01"
+  ]
+ },
+ {
+  "id": "rr_029",
+  "pattern": "\\bi\\s+(did\\s+not|didn't)\\s+understand\\s+what\\s+you\\s+(are|were)\\s+saying,?\\s+can\\s+you\\s+(please\\s+)?explain\\s+(it\\s+)?again(?![\\w'])",
+  "replacements": [
+   "could you clarify?"
+  ],
+  "category": "upgrade",
+  "severity": "critical",
+  "note": "",
+  "vocab": [
+   "lex_clarify_01"
+  ]
+ },
+ {
+  "id": "rr_030",
+  "pattern": "\\b(we\\s+will|let'?s)\\s+do\\s+(this|it)\\s+later,?\\s+not\\s+now(?![\\w'])",
+  "replacements": [
+   "let's put it on the back burner"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_back_burner_01"
+  ]
+ },
+ {
+  "id": "rr_031",
+  "pattern": "\\bi\\s+am\\s+very\\s+(very\\s+)?much\\s+interested\\s+(and\\s+excited\\s+)?to\\s+(do|join)(?![\\w'])",
+  "replacements": [
+   "I'm keen to"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_keen_01"
+  ]
+ },
+ {
+  "id": "rr_032",
+  "pattern": "\\bdo\\s+not\\s+(believe|trust)\\s+it\\s+(fully|completely)(?![\\w'])",
+  "replacements": [
+   "take it with a pinch of salt"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_pinch_of_salt_01"
+  ]
+ },
+ {
+  "id": "rr_033",
+  "pattern": "\\b(nothing\\s+is|it\\s+is\\s+not|it's\\s+not)\\s+(decided|finalised|finalized)\\s+yet(?![\\w'])",
+  "replacements": [
+   "it's still up in the air"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_up_in_air_01"
+  ]
+ },
+ {
+  "id": "rr_034",
+  "pattern": "\\bwe\\s+are\\s+already\\s+working\\s+on\\s+it\\s+and\\s+it\\s+will\\s+come\\s+soon(?![\\w'])",
+  "replacements": [
+   "it's in the pipeline"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_pipeline_01"
+  ]
+ },
+ {
+  "id": "rr_035",
+  "pattern": "\\b(the\\s+)?problem\\s+has\\s+been\\s+(solved|resolved)\\s+completely(?![\\w'])",
+  "replacements": [
+   "it's sorted"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_sorted_01"
+  ]
+ },
+ {
+  "id": "rr_036",
+  "pattern": "\\blet\\s+me\\s+think\\s+about\\s+it\\s+(properly\\s+)?and\\s+(then\\s+)?i\\s+will\\s+(tell|inform)\\s+you(?![\\w'])",
+  "replacements": [
+   "let me mull it over"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_mull_over_01"
+  ]
+ },
+ {
+  "id": "rr_037",
+  "pattern": "\\b(please\\s+)?(manage|handle)\\s+everything\\s+while\\s+i\\s+am\\s+(on\\s+leave|away)(?![\\w'])",
+  "replacements": [
+   "could you hold the fort?"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_hold_fort_01"
+  ]
+ },
+ {
+  "id": "rr_038",
+  "pattern": "\\b(one\\s+)?unexpected\\s+problem\\s+has\\s+(come|happened)\\s+and\\s+(spoiled|spoilt|disturbed)\\s+the\\s+plan(?![\\w'])",
+  "replacements": [
+   "that's thrown a spanner in the works"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_spanner_01"
+  ]
+ },
+ {
+  "id": "rr_039",
+  "pattern": "\\b(do|doing)\\s+the\\s+work\\s+quickly\\s+without\\s+proper\\s+quality(?![\\w'])",
+  "replacements": [
+   "cut corners"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_cut_corners_01"
+  ]
+ },
+ {
+  "id": "rr_040",
+  "pattern": "\\b(the\\s+)?point\\s+where\\s+the\\s+discussion\\s+is\\s+getting\\s+stuck(?![\\w'])",
+  "replacements": [
+   "the sticking point"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_sticking_point_01"
+  ]
+ },
+ {
+  "id": "rr_041",
+  "pattern": "\\bnow\\s+that\\s+it\\s+has\\s+(already\\s+)?happened,?\\s+we\\s+can\\s+understand\\s+that(?![\\w'])",
+  "replacements": [
+   "in hindsight,"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_hindsight_01"
+  ]
+ },
+ {
+  "id": "rr_042",
+  "pattern": "\\bboth\\s+of\\s+(these|those|the)\\s+two(?![\\w'])",
+  "replacements": [
+   "$1 two"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "'Both' and 'two' say the same thing."
+ },
+ {
+  "id": "rr_043",
+  "pattern": "\\b(is|are)\\s+not\\s+able\\s+to\\s+be\\s+continued(\\s+any\\s+?more)?(?![\\w'])",
+  "replacements": [
+   "$1 untenable"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_untenable_01"
+  ]
+ },
+ {
+  "id": "rr_044",
+  "pattern": "\\b(try\\s+to\\s+)?(reduce|lessen)\\s+the\\s+bad\\s+effects\\s+of(?![\\w'])",
+  "replacements": [
+   "mitigate"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_mitigate_01"
+  ]
+ },
+ {
+  "id": "rr_045",
+  "pattern": "\\bas\\s+much\\s+as\\s+possible(?![\\w'])",
+  "replacements": [
+   "where we can"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "Often redundant — cut or say 'where we can'."
+ },
+ {
+  "id": "rr_046",
+  "pattern": "\\bmore\\s+simple\\s+and\\s+easy(\\s+and\\s+(fast|quick))?(?![\\w'])",
+  "replacements": [
+   "simpler"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_streamline_01"
+  ]
+ },
+ {
+  "id": "rr_047",
+  "pattern": "\\b(strong|solid)\\s+and\\s+reliable(?![\\w'])",
+  "replacements": [
+   "robust"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_robust_01"
+  ]
+ },
+ {
+  "id": "rr_048",
+  "pattern": "\\b(in\\s+a\\s+)?practical\\s+and\\s+realistic(\\s+way)?(?![\\w'])",
+  "replacements": [
+   "pragmatic"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_pragmatic_01"
+  ]
+ },
+ {
+  "id": "rr_049",
+  "pattern": "\\bwise\\s+and\\s+careful(?![\\w'])",
+  "replacements": [
+   "prudent"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_prudent_01"
+  ]
+ },
+ {
+  "id": "rr_050",
+  "pattern": "\\b(fully\\s+)?support\\s+and\\s+agree\\s+with(?![\\w'])",
+  "replacements": [
+   "endorse"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_endorse_01"
+  ]
+ },
+ {
+  "id": "rr_051",
+  "pattern": "\\bone\\s+small\\s+condition(?![\\w'])",
+  "replacements": [
+   "one caveat"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_caveat_01"
+  ]
+ },
+ {
+  "id": "rr_052",
+  "pattern": "\\b(be\\s+|been\\s+|is\\s+|are\\s+)?changed\\s+completely\\s+from\\s+the\\s+beginning(?![\\w'])",
+  "replacements": [
+   "a complete overhaul"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_overhaul_01"
+  ]
+ },
+ {
+  "id": "rr_053",
+  "pattern": "\\b(is|are)\\s+not\\s+working\\s+properly(\\s+at\\s+all)?(?![\\w'])",
+  "replacements": [
+   "$1n't working"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": ""
+ },
+ {
+  "id": "rr_054",
+  "pattern": "\\bdecide\\s+which\\s+(work|task|tasks|one)\\s+is\\s+(more|most)\\s+important(\\s+and\\s+do\\s+that\\s+first)?(?![\\w'])",
+  "replacements": [
+   "prioritise"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_prioritise_01"
+  ]
+ },
+ {
+  "id": "rr_055",
+  "pattern": "\\btogether\\s+into\\s+one(\\s+single)?(?![\\w'])",
+  "replacements": [
+   "into one"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "Pleonasm: 'together' and 'into one' overlap.",
+  "vocab": [
+   "lex_consolidate_01"
+  ]
+ },
+ {
+  "id": "rr_056",
+  "pattern": "\\binto\\s+one\\s+single(?![\\w'])",
+  "replacements": [
+   "into one"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": ""
+ },
+ {
+  "id": "rr_057",
+  "pattern": "\\b(make|making)\\s+(both\\s+of\\s+)?(these|the|those)\\s+(two\\s+)?(sets\\s+of\\s+)?(numbers|figures)\\s+match(\\s+with\\s+each\\s+other)?(?![\\w'])",
+  "replacements": [
+   "reconcile the figures"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_reconcile_01"
+  ]
+ },
+ {
+  "id": "rr_058",
+  "pattern": "\\bstep\\s+by\\s+step,?\\s+little\\s+by\\s+little(?![\\w'])",
+  "replacements": [
+   "incrementally"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_incremental_01"
+  ]
+ },
+ {
+  "id": "rr_059",
+  "pattern": "\\blittle\\s+by\\s+little(?![\\w'])",
+  "replacements": [
+   "gradually"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_incremental_01"
+  ]
+ },
+ {
+  "id": "rr_060",
+  "pattern": "\\b(will|would)\\s+create\\s+a\\s+lot\\s+of\\s+(arguments|fights)(?![\\w'])",
+  "replacements": [
+   "is contentious"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_contentious_01"
+  ]
+ },
+ {
+  "id": "rr_061",
+  "pattern": "\\bis\\s+there\\s+any\\s+way\\s+(that\\s+)?we\\s+can(?![\\w'])",
+  "replacements": [
+   "could we"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": ""
+ },
+ {
+  "id": "rr_062",
+  "pattern": "\\bfaster\\s+than\\s+the\\s+normal\\s+time(\\s+it\\s+takes)?(?![\\w'])",
+  "replacements": [
+   "sooner"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_expedite_01"
+  ]
+ },
+ {
+  "id": "rr_063",
+  "pattern": "\\bthat\\s+does\\s+not\\s+mean\\s+that\\s+we\\s+cannot(\\s+also)?(?![\\w'])",
+  "replacements": [
+   "that doesn't preclude"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_preclude_01"
+  ]
+ },
+ {
+  "id": "rr_064",
+  "pattern": "\\b(are|is)\\s+not\\s+matching(\\s+with\\s+each\\s+other)?(?![\\w'])",
+  "replacements": [
+   "don't match"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_discrepancy_01"
+  ]
+ },
+ {
+  "id": "rr_065",
+  "pattern": "\\bslowly\\s+reduces\\s+the\\s+confidence(\\s+that\\s+people\\s+have)?(?![\\w'])",
+  "replacements": [
+   "undermines confidence"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_undermine_01"
+  ]
+ },
+ {
+  "id": "rr_066",
+  "pattern": "\\bon\\s+which\\s+both\\s+sides\\s+are\\s+not\\s+agreeing(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "Name it: the sticking point.",
+  "vocab": [
+   "lex_sticking_point_01"
+  ]
+ },
+ {
+  "id": "rr_067",
+  "pattern": "\\bso\\s+that\\s+nobody\\s+else\\s+can\\s+use\\s+it(\\s+for\\s+any\\s+other\\s+purpose)?(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "Say it in one word: ring-fence it.",
+  "vocab": [
+   "lex_ring_fence_01"
+  ]
+ },
+ {
+  "id": "rr_068",
+  "pattern": "\\b(we\\s+)?have\\s+to\\s+choose\\s+which\\s+one\\s+is\\s+more\\s+important(\\s+for\\s+us)?(?![\\w'])",
+  "replacements": [
+   "it's a trade-off"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_trade_off_01"
+  ]
+ },
+ {
+  "id": "rr_069",
+  "pattern": "\\bis\\s+a\\s+very\\s+(big|serious)\\s+problem(\\s+and\\s+very\\s+bad\\s+for\\s+us)?(?![\\w'])",
+  "replacements": [
+   "is not ideal"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "British understatement.",
+  "vocab": [
+   "lex_not_ideal_01"
+  ]
+ },
+ {
+  "id": "rr_070",
+  "pattern": "\\btaking\\s+more\\s+time\\s+than\\s+(we\\s+)?(planned|expected)(?![\\w'])",
+  "replacements": [
+   "overrunning"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_overrun_01"
+  ]
+ },
+ {
+  "id": "rr_071",
+  "pattern": "\\bcan\\s+you\\s+(please\\s+)?explain\\s+(it\\s+)?again(?![\\w'])",
+  "replacements": [
+   "could you clarify"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_clarify_01"
+  ]
+ },
+ {
+  "id": "rr_072",
+  "pattern": "\\bdo\\s+not\\s+(believe|trust)\\s+(\\w+\\s+){0,2}(fully|completely)(?![\\w'])",
+  "replacements": [
+   "take it with a pinch of salt"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_pinch_of_salt_01"
+  ]
+ },
+ {
+  "id": "rr_073",
+  "pattern": "\\b(may|might)\\s+not\\s+be\\s+true\\s+at\\s+all(?![\\w'])",
+  "replacements": [
+   "may be unreliable"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": ""
+ },
+ {
+  "id": "rr_074",
+  "pattern": "\\blater,?\\s+not\\s+now(?![\\w'])",
+  "replacements": [
+   "later"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_back_burner_01"
+  ]
+ },
+ {
+  "id": "rr_075",
+  "pattern": "\\b(tell\\s+me\\s+)?approximately\\s+how\\s+much\\s+it\\s+will\\s+cost(?![\\w'])",
+  "replacements": [
+   "a ballpark figure"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_ballpark_01"
+  ]
+ },
+ {
+  "id": "rr_076",
+  "pattern": "\\bjust\\s+a\\s+rough\\s+(number|figure|estimate)\\s+is\\s+fine(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_ballpark_01"
+  ]
+ },
+ {
+  "id": "rr_077",
+  "pattern": "\\bdiscuss\\s+my\\s+idea\\s+with\\s+you\\s+to\\s+get\\s+your\\s+opinion(?![\\w'])",
+  "replacements": [
+   "use you as a sounding board"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_sounding_board_01"
+  ]
+ },
+ {
+  "id": "rr_078",
+  "pattern": "\\b(has|have)\\s+spoiled\\s+(our|the)\\s+(whole\\s+)?plan(?![\\w'])",
+  "replacements": [
+   "$1 thrown a spanner in the works"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_spanner_01"
+  ]
+ },
+ {
+  "id": "rr_079",
+  "pattern": "\\b(has\\s+been|is)\\s+solved\\s+completely(?![\\w'])",
+  "replacements": [
+   "is sorted"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_sorted_01"
+  ]
+ },
+ {
+  "id": "rr_080",
+  "pattern": "\\band\\s+everything\\s+is\\s+fine\\s+now(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": ""
+ },
+ {
+  "id": "rr_081",
+  "pattern": "\\bdoing\\s+useless\\s+things\\s+and\\s+wasting\\s+time(?![\\w'])",
+  "replacements": [
+   "faffing about"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_faffing_01"
+  ]
+ },
+ {
+  "id": "rr_082",
+  "pattern": "\\bone\\s+full\\s+hour(?![\\w'])",
+  "replacements": [
+   "an hour"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": ""
+ },
+ {
+  "id": "rr_083",
+  "pattern": "\\bthe\\s+month\\s+of\\s+(january|february|march|april|may|june|july|august|september|october|november|december)(?![\\w'])",
+  "replacements": [
+   "$1"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "'In the month of May' → 'in May'."
+ },
+ {
+  "id": "rr_084",
+  "pattern": "\\bbefore\\s+the\\s+(release|launch)\\s+date\\s+comes(?![\\w'])",
+  "replacements": [
+   "before $1"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": ""
+ },
+ {
+  "id": "rr_085",
+  "pattern": "\\bdoing\\s+everything\\s+at\\s+one\\s+time(?![\\w'])",
+  "replacements": [
+   "all at once"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": ""
+ },
+ {
+  "id": "rr_086",
+  "pattern": "\\b(is|are)\\s+feeling\\s+very(\\s+very)?\\s+tired(?![\\w'])",
+  "replacements": [
+   "$1 exhausted"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_knackered_01"
+  ]
+ },
+ {
+  "id": "rr_087",
+  "pattern": "\\b(is|are|was|were)\\s+very(\\s+very)?\\s+happy\\s+(about|with)(?![\\w'])",
+  "replacements": [
+   "$1 delighted $3"
+  ],
+  "category": "upgrade",
+  "severity": "minor",
+  "note": "",
+  "vocab": [
+   "lex_chuffed_01"
+  ]
+ },
+ {
+  "id": "rr_088",
+  "pattern": "\\bwhat\\s+i\\s+am\\s+trying\\s+to\\s+say\\s+is(\\s+that)?(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_089",
+  "pattern": "\\bwhat\\s+i'?m\\s+trying\\s+to\\s+say\\s+is(\\s+that)?(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_090",
+  "pattern": "\\bwhat\\s+i\\s+(mean|meant)\\s+to\\s+say\\s+is(\\s+that)?(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_091",
+  "pattern": "\\bwhat\\s+i\\s+want\\s+to\\s+say\\s+is(\\s+that)?(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_092",
+  "pattern": "\\bthe\\s+thing\\s+is(\\s+that)?(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_093",
+  "pattern": "\\bthe\\s+point\\s+(that\\s+)?i\\s+am\\s+trying\\s+to\\s+make\\s+is(\\s+that)?(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_094",
+  "pattern": "\\bi\\s+just\\s+wanted\\s+to\\s+(say|tell\\s+you|mention)(\\s+that)?(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_095",
+  "pattern": "\\bi\\s+would\\s+like\\s+to\\s+(say|tell\\s+you|mention)(\\s+that)?(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_096",
+  "pattern": "\\bi\\s+want\\s+to\\s+tell\\s+(you\\s+)?(that|one\\s+thing)(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_097",
+  "pattern": "\\blet\\s+me\\s+tell\\s+you\\s+(one\\s+thing|something)(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_098",
+  "pattern": "\\bto\\s+be\\s+(very\\s+)?honest(\\s+with\\s+you)?(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_099",
+  "pattern": "\\bto\\s+tell\\s+you\\s+the\\s+truth(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_100",
+  "pattern": "\\bif\\s+you\\s+(see|look\\s+at\\s+it)(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_101",
+  "pattern": "\\bas\\s+i\\s+(already\\s+)?(told|said)(\\s+you)?(\\s+before|\\s+earlier)?(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_102",
+  "pattern": "\\bas\\s+i\\s+was\\s+saying(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_103",
+  "pattern": "\\bwhat\\s+happened\\s+(was|is)\\s+that(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_104",
+  "pattern": "\\bthe\\s+reason\\s+(why\\s+)?(is|was)\\s+because(?![\\w'])",
+  "replacements": [
+   "because"
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_105",
+  "pattern": "\\bthe\\s+reason\\s+why\\s+(is|was)\\s+that(?![\\w'])",
+  "replacements": [
+   "because"
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_106",
+  "pattern": "\\bit\\s+is\\s+(very\\s+)?important\\s+to\\s+(note|mention)\\s+that(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_107",
+  "pattern": "\\bit\\s+should\\s+be\\s+noted\\s+that(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_108",
+  "pattern": "\\bi\\s+would\\s+like\\s+to\\s+point\\s+out\\s+that(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_109",
+  "pattern": "\\bi\\s+think\\s+that\\s+i\\s+(feel|believe)\\s+that(?![\\w'])",
+  "replacements": [
+   "I think"
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_110",
+  "pattern": "\\bin\\s+my\\s+personal\\s+opinion(?![\\w'])",
+  "replacements": [
+   "I think"
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_111",
+  "pattern": "\\bmy\\s+personal\\s+opinion\\s+is\\s+that(?![\\w'])",
+  "replacements": [
+   "I think"
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_112",
+  "pattern": "\\baccording\\s+to\\s+me(?![\\w'])",
+  "replacements": [
+   "I think"
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_113",
+  "pattern": "\\bfrom\\s+my\\s+side(?![\\w'])",
+  "replacements": [
+   "from me"
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_114",
+  "pattern": "\\bat\\s+the\\s+end\\s+of\\s+the\\s+day(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_115",
+  "pattern": "\\bwhen\\s+all\\s+is\\s+said\\s+and\\s+done(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_116",
+  "pattern": "\\ball\\s+things\\s+considered(?![\\w'])",
+  "replacements": [
+   "on balance"
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_117",
+  "pattern": "\\bhaving\\s+said\\s+that(?![\\w'])",
+  "replacements": [
+   "still"
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_118",
+  "pattern": "\\bthat\\s+being\\s+said(?![\\w'])",
+  "replacements": [
+   "still"
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_119",
+  "pattern": "\\bwith\\s+(all\\s+)?that\\s+being\\s+said(?![\\w'])",
+  "replacements": [
+   "still"
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_120",
+  "pattern": "\\bso\\s+basically\\s+what\\s+happened\\s+(was|is)(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_121",
+  "pattern": "\\bso\\s+(the\\s+)?thing\\s+is(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_122",
+  "pattern": "\\byou\\s+know\\s+what\\s+i\\s+mean(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_123",
+  "pattern": "\\bif\\s+you\\s+know\\s+what\\s+i\\s+mean(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_124",
+  "pattern": "\\bdo\\s+you\\s+get\\s+(what\\s+i\\s+mean|my\\s+point)(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_125",
+  "pattern": "\\bi\\s+hope\\s+(you\\s+)?(understand|got)\\s+(what\\s+i\\s+am\\s+saying|my\\s+point)(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_126",
+  "pattern": "\\bneedless\\s+to\\s+say(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_127",
+  "pattern": "\\bit\\s+goes\\s+without\\s+saying(\\s+that)?(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_128",
+  "pattern": "\\bin\\s+terms\\s+of(?![\\w'])",
+  "replacements": [
+   "on"
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_129",
+  "pattern": "\\bwhen\\s+it\\s+comes\\s+to(?![\\w'])",
+  "replacements": [
+   "for"
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_130",
+  "pattern": "\\bwith\\s+regard(s)?\\s+to(?![\\w'])",
+  "replacements": [
+   "on"
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_131",
+  "pattern": "\\bwith\\s+respect\\s+to(?![\\w'])",
+  "replacements": [
+   "on"
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_132",
+  "pattern": "\\bin\\s+relation\\s+to(?![\\w'])",
+  "replacements": [
+   "on"
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_133",
+  "pattern": "\\bin\\s+connection\\s+with(?![\\w'])",
+  "replacements": [
+   "about"
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_134",
+  "pattern": "\\bfor\\s+all\\s+intents\\s+and\\s+purposes(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_135",
+  "pattern": "\\bthe\\s+fact\\s+(of\\s+the\\s+matter\\s+)?is(\\s+that)?(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_136",
+  "pattern": "\\bit\\s+is\\s+what\\s+it\\s+is(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_137",
+  "pattern": "\\bone\\s+thing\\s+(that\\s+)?i\\s+(want|would\\s+like)\\s+to\\s+(add|say)\\s+is(\\s+that)?(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_138",
+  "pattern": "\\bi\\s+am\\s+of\\s+the\\s+opinion\\s+that(?![\\w'])",
+  "replacements": [
+   "I think"
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_139",
+  "pattern": "\\bi\\s+am\\s+of\\s+the\\s+view\\s+that(?![\\w'])",
+  "replacements": [
+   "I think"
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_140",
+  "pattern": "\\bit\\s+is\\s+my\\s+belief\\s+that(?![\\w'])",
+  "replacements": [
+   "I believe"
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_141",
+  "pattern": "\\bi\\s+would\\s+say\\s+that(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_142",
+  "pattern": "\\bif\\s+i\\s+am\\s+not\\s+wrong(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_143",
+  "pattern": "\\bif\\s+i'?m\\s+not\\s+mistaken(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_144",
+  "pattern": "\\bas\\s+you\\s+(all\\s+)?know(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_145",
+  "pattern": "\\bas\\s+we\\s+all\\s+know(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_146",
+  "pattern": "\\blike\\s+i\\s+said(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_147",
+  "pattern": "\\blong\\s+story\\s+short(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_148",
+  "pattern": "\\bto\\s+make\\s+a\\s+long\\s+story\\s+short(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_149",
+  "pattern": "\\bfirst\\s+of\\s+all(?![\\w'])",
+  "replacements": [
+   "first"
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_150",
+  "pattern": "\\blast\\s+but\\s+not\\s+least(?![\\w'])",
+  "replacements": [
+   "finally"
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_151",
+  "pattern": "\\bin\\s+conclusion\\s+i\\s+would\\s+like\\s+to\\s+say(\\s+that)?(?![\\w'])",
+  "replacements": [
+   "in short"
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_152",
+  "pattern": "\\bto\\s+sum\\s+(it\\s+)?up(?![\\w'])",
+  "replacements": [
+   "in short"
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_153",
+  "pattern": "\\bwhat\\s+we\\s+need\\s+to\\s+(do|understand)\\s+is(\\s+that)?(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_154",
+  "pattern": "\\bthe\\s+main\\s+thing\\s+(that\\s+)?we\\s+need\\s+to\\s+(understand|know)\\s+is(\\s+that)?(?![\\w'])",
+  "replacements": [
+   "the crux is"
+  ],
+  "category": "scaffold",
+  "severity": "critical",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_155",
+  "pattern": "\\bmy\\s+question\\s+is(\\s+that)?(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_156",
+  "pattern": "\\bi\\s+have\\s+a\\s+small\\s+(doubt|query)(?![\\w'])",
+  "replacements": [
+   "quick question"
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Verbal scaffolding: it delays the point. Start with the point itself."
+ },
+ {
+  "id": "rr_157",
+  "pattern": "\\bbasically(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_158",
+  "pattern": "\\bactually(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_159",
+  "pattern": "\\bliterally(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_160",
+  "pattern": "\\bkind\\s+of(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_161",
+  "pattern": "\\bsort\\s+of(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_162",
+  "pattern": "\\byou\\s+know(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_163",
+  "pattern": "\\bi\\s+mean(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_164",
+  "pattern": "\\blike,(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_165",
+  "pattern": "\\bum+(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_166",
+  "pattern": "\\buh+(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_167",
+  "pattern": "\\berm+(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_168",
+  "pattern": "\\bso\\s+yeah(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_169",
+  "pattern": "\\band\\s+all\\s+that(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_170",
+  "pattern": "\\band\\s+stuff(\\s+like\\s+that)?(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_171",
+  "pattern": "\\band\\s+so\\s+on\\s+and\\s+so\\s+forth(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_172",
+  "pattern": "\\band\\s+things\\s+like\\s+that(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_173",
+  "pattern": "\\bor\\s+something(\\s+like\\s+that)?(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_174",
+  "pattern": "\\bper\\s+se(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_175",
+  "pattern": "\\bjust\\s+basically(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_176",
+  "pattern": "\\breally\\s+really(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_177",
+  "pattern": "\\bvery\\s+very(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_178",
+  "pattern": "\\bokay\\s+so(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_179",
+  "pattern": "\\bright\\s+so(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_180",
+  "pattern": "\\banyway(s)?,?\\s+as\\s+i\\s+said(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_181",
+  "pattern": "\\bmore\\s+or\\s+less(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_182",
+  "pattern": "\\bin\\s+a\\s+way(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_183",
+  "pattern": "\\bto\\s+some\\s+extent,?\\s+you\\s+know(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "filler",
+  "severity": "minor",
+  "note": "Filler — a short silence is better than a filler."
+ },
+ {
+  "id": "rr_184",
+  "pattern": "\\bin\\s+order\\s+to(?![\\w'])",
+  "replacements": [
+   "to"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'to' says the same."
+ },
+ {
+  "id": "rr_185",
+  "pattern": "\\bso\\s+as\\s+to(?![\\w'])",
+  "replacements": [
+   "to"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'to' says the same."
+ },
+ {
+  "id": "rr_186",
+  "pattern": "\\bdue\\s+to\\s+the\\s+fact\\s+that(?![\\w'])",
+  "replacements": [
+   "because"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'because' says the same."
+ },
+ {
+  "id": "rr_187",
+  "pattern": "\\bowing\\s+to\\s+the\\s+fact\\s+that(?![\\w'])",
+  "replacements": [
+   "because"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'because' says the same."
+ },
+ {
+  "id": "rr_188",
+  "pattern": "\\bin\\s+view\\s+of\\s+the\\s+fact\\s+that(?![\\w'])",
+  "replacements": [
+   "because"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'because' says the same."
+ },
+ {
+  "id": "rr_189",
+  "pattern": "\\bon\\s+account\\s+of\\s+the\\s+fact\\s+that(?![\\w'])",
+  "replacements": [
+   "because"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'because' says the same."
+ },
+ {
+  "id": "rr_190",
+  "pattern": "\\bin\\s+light\\s+of\\s+the\\s+fact\\s+that(?![\\w'])",
+  "replacements": [
+   "because"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'because' says the same."
+ },
+ {
+  "id": "rr_191",
+  "pattern": "\\bgiven\\s+the\\s+fact\\s+that(?![\\w'])",
+  "replacements": [
+   "given that"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'given that' says the same."
+ },
+ {
+  "id": "rr_192",
+  "pattern": "\\bdespite\\s+the\\s+fact\\s+that(?![\\w'])",
+  "replacements": [
+   "although"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'although' says the same."
+ },
+ {
+  "id": "rr_193",
+  "pattern": "\\bin\\s+spite\\s+of\\s+the\\s+fact\\s+that(?![\\w'])",
+  "replacements": [
+   "although"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'although' says the same."
+ },
+ {
+  "id": "rr_194",
+  "pattern": "\\bregardless\\s+of\\s+the\\s+fact\\s+that(?![\\w'])",
+  "replacements": [
+   "although"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'although' says the same."
+ },
+ {
+  "id": "rr_195",
+  "pattern": "\\bthe\\s+fact\\s+that(?![\\w'])",
+  "replacements": [
+   "that"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'that' says the same."
+ },
+ {
+  "id": "rr_196",
+  "pattern": "\\bat\\s+this\\s+point\\s+in\\s+time(?![\\w'])",
+  "replacements": [
+   "now"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'now' says the same."
+ },
+ {
+  "id": "rr_197",
+  "pattern": "\\bat\\s+this\\s+moment\\s+in\\s+time(?![\\w'])",
+  "replacements": [
+   "now"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'now' says the same."
+ },
+ {
+  "id": "rr_198",
+  "pattern": "\\bat\\s+the\\s+present\\s+time(?![\\w'])",
+  "replacements": [
+   "now"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'now' says the same."
+ },
+ {
+  "id": "rr_199",
+  "pattern": "\\bat\\s+the\\s+present\\s+moment(?![\\w'])",
+  "replacements": [
+   "now"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'now' says the same."
+ },
+ {
+  "id": "rr_200",
+  "pattern": "\\bin\\s+this\\s+day\\s+and\\s+age(?![\\w'])",
+  "replacements": [
+   "today"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'today' says the same."
+ },
+ {
+  "id": "rr_201",
+  "pattern": "\\bat\\s+that\\s+point\\s+in\\s+time(?![\\w'])",
+  "replacements": [
+   "then"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'then' says the same."
+ },
+ {
+  "id": "rr_202",
+  "pattern": "\\bin\\s+the\\s+near\\s+future(?![\\w'])",
+  "replacements": [
+   "soon"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'soon' says the same."
+ },
+ {
+  "id": "rr_203",
+  "pattern": "\\bin\\s+the\\s+not\\s+too\\s+distant\\s+future(?![\\w'])",
+  "replacements": [
+   "soon"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'soon' says the same."
+ },
+ {
+  "id": "rr_204",
+  "pattern": "\\bat\\s+some\\s+point\\s+in\\s+the\\s+future(?![\\w'])",
+  "replacements": [
+   "later"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'later' says the same."
+ },
+ {
+  "id": "rr_205",
+  "pattern": "\\bin\\s+the\\s+event\\s+that(?![\\w'])",
+  "replacements": [
+   "if"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'if' says the same."
+ },
+ {
+  "id": "rr_206",
+  "pattern": "\\bin\\s+the\\s+case\\s+that(?![\\w'])",
+  "replacements": [
+   "if"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'if' says the same."
+ },
+ {
+  "id": "rr_207",
+  "pattern": "\\bon\\s+the\\s+condition\\s+that(?![\\w'])",
+  "replacements": [
+   "if"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'if' says the same."
+ },
+ {
+  "id": "rr_208",
+  "pattern": "\\bin\\s+the\\s+eventuality\\s+that(?![\\w'])",
+  "replacements": [
+   "if"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'if' says the same."
+ },
+ {
+  "id": "rr_209",
+  "pattern": "\\bfor\\s+the\\s+purpose\\s+of(?![\\w'])",
+  "replacements": [
+   "to"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'to' says the same."
+ },
+ {
+  "id": "rr_210",
+  "pattern": "\\bwith\\s+the\\s+purpose\\s+of(?![\\w'])",
+  "replacements": [
+   "to"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'to' says the same."
+ },
+ {
+  "id": "rr_211",
+  "pattern": "\\bwith\\s+the\\s+aim\\s+of(?![\\w'])",
+  "replacements": [
+   "to"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'to' says the same."
+ },
+ {
+  "id": "rr_212",
+  "pattern": "\\bwith\\s+a\\s+view\\s+to(?![\\w'])",
+  "replacements": [
+   "to"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'to' says the same."
+ },
+ {
+  "id": "rr_213",
+  "pattern": "\\ba\\s+large\\s+number\\s+of(?![\\w'])",
+  "replacements": [
+   "many"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'many' says the same."
+ },
+ {
+  "id": "rr_214",
+  "pattern": "\\ba\\s+great\\s+number\\s+of(?![\\w'])",
+  "replacements": [
+   "many"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'many' says the same."
+ },
+ {
+  "id": "rr_215",
+  "pattern": "\\ba\\s+significant\\s+number\\s+of(?![\\w'])",
+  "replacements": [
+   "many"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'many' says the same."
+ },
+ {
+  "id": "rr_216",
+  "pattern": "\\ba\\s+huge\\s+number\\s+of(?![\\w'])",
+  "replacements": [
+   "many"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'many' says the same."
+ },
+ {
+  "id": "rr_217",
+  "pattern": "\\ba\\s+small\\s+number\\s+of(?![\\w'])",
+  "replacements": [
+   "a few"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'a few' says the same."
+ },
+ {
+  "id": "rr_218",
+  "pattern": "\\ba\\s+majority\\s+of(?![\\w'])",
+  "replacements": [
+   "most"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'most' says the same."
+ },
+ {
+  "id": "rr_219",
+  "pattern": "\\bthe\\s+majority\\s+of(?![\\w'])",
+  "replacements": [
+   "most"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'most' says the same."
+ },
+ {
+  "id": "rr_220",
+  "pattern": "\\ba\\s+large\\s+amount\\s+of(?![\\w'])",
+  "replacements": [
+   "much"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'much' says the same."
+ },
+ {
+  "id": "rr_221",
+  "pattern": "\\ba\\s+sufficient\\s+amount\\s+of(?![\\w'])",
+  "replacements": [
+   "enough"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'enough' says the same."
+ },
+ {
+  "id": "rr_222",
+  "pattern": "\\ban\\s+adequate\\s+amount\\s+of(?![\\w'])",
+  "replacements": [
+   "enough"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'enough' says the same."
+ },
+ {
+  "id": "rr_223",
+  "pattern": "\\ba\\s+lot\\s+of\\s+different(?![\\w'])",
+  "replacements": [
+   "many"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'many' says the same."
+ },
+ {
+  "id": "rr_224",
+  "pattern": "\\bhas\\s+the\\s+ability\\s+to(?![\\w'])",
+  "replacements": [
+   "can"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'can' says the same."
+ },
+ {
+  "id": "rr_225",
+  "pattern": "\\bhave\\s+the\\s+ability\\s+to(?![\\w'])",
+  "replacements": [
+   "can"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'can' says the same."
+ },
+ {
+  "id": "rr_226",
+  "pattern": "\\bis\\s+able\\s+to(?![\\w'])",
+  "replacements": [
+   "can"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'can' says the same."
+ },
+ {
+  "id": "rr_227",
+  "pattern": "\\bare\\s+able\\s+to(?![\\w'])",
+  "replacements": [
+   "can"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'can' says the same."
+ },
+ {
+  "id": "rr_228",
+  "pattern": "\\bhas\\s+the\\s+capacity\\s+to(?![\\w'])",
+  "replacements": [
+   "can"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'can' says the same."
+ },
+ {
+  "id": "rr_229",
+  "pattern": "\\bis\\s+in\\s+a\\s+position\\s+to(?![\\w'])",
+  "replacements": [
+   "can"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'can' says the same."
+ },
+ {
+  "id": "rr_230",
+  "pattern": "\\bare\\s+in\\s+a\\s+position\\s+to(?![\\w'])",
+  "replacements": [
+   "can"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'can' says the same."
+ },
+ {
+  "id": "rr_231",
+  "pattern": "\\bis\\s+unable\\s+to(?![\\w'])",
+  "replacements": [
+   "can't"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'can't' says the same."
+ },
+ {
+  "id": "rr_232",
+  "pattern": "\\bmake\\s+a\\s+decision(?![\\w'])",
+  "replacements": [
+   "decide"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'decide' says the same."
+ },
+ {
+  "id": "rr_233",
+  "pattern": "\\bmade\\s+a\\s+decision(?![\\w'])",
+  "replacements": [
+   "decided"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'decided' says the same."
+ },
+ {
+  "id": "rr_234",
+  "pattern": "\\bcome\\s+to\\s+a\\s+decision(?![\\w'])",
+  "replacements": [
+   "decide"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'decide' says the same."
+ },
+ {
+  "id": "rr_235",
+  "pattern": "\\breach\\s+a\\s+decision(?![\\w'])",
+  "replacements": [
+   "decide"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'decide' says the same."
+ },
+ {
+  "id": "rr_236",
+  "pattern": "\\bmake\\s+an\\s+assumption(?![\\w'])",
+  "replacements": [
+   "assume"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'assume' says the same."
+ },
+ {
+  "id": "rr_237",
+  "pattern": "\\bgive\\s+consideration\\s+to(?![\\w'])",
+  "replacements": [
+   "consider"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'consider' says the same."
+ },
+ {
+  "id": "rr_238",
+  "pattern": "\\btake\\s+into\\s+consideration(?![\\w'])",
+  "replacements": [
+   "consider"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'consider' says the same."
+ },
+ {
+  "id": "rr_239",
+  "pattern": "\\bgive\\s+an\\s+explanation\\s+of(?![\\w'])",
+  "replacements": [
+   "explain"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'explain' says the same."
+ },
+ {
+  "id": "rr_240",
+  "pattern": "\\bprovide\\s+an\\s+explanation\\s+for(?![\\w'])",
+  "replacements": [
+   "explain"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'explain' says the same."
+ },
+ {
+  "id": "rr_241",
+  "pattern": "\\bmake\\s+a\\s+recommendation(?![\\w'])",
+  "replacements": [
+   "recommend"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'recommend' says the same."
+ },
+ {
+  "id": "rr_242",
+  "pattern": "\\bmake\\s+an\\s+improvement(?![\\w'])",
+  "replacements": [
+   "improve"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'improve' says the same."
+ },
+ {
+  "id": "rr_243",
+  "pattern": "\\bmake\\s+a\\s+suggestion(?![\\w'])",
+  "replacements": [
+   "suggest"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'suggest' says the same."
+ },
+ {
+  "id": "rr_244",
+  "pattern": "\\bmake\\s+a\\s+request(?![\\w'])",
+  "replacements": [
+   "ask"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'ask' says the same."
+ },
+ {
+  "id": "rr_245",
+  "pattern": "\\bmake\\s+an\\s+attempt(?![\\w'])",
+  "replacements": [
+   "try"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'try' says the same."
+ },
+ {
+  "id": "rr_246",
+  "pattern": "\\bmake\\s+an\\s+effort\\s+to(?![\\w'])",
+  "replacements": [
+   "try to"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'try to' says the same."
+ },
+ {
+  "id": "rr_247",
+  "pattern": "\\bconduct\\s+an\\s+investigation(?![\\w'])",
+  "replacements": [
+   "investigate"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'investigate' says the same."
+ },
+ {
+  "id": "rr_248",
+  "pattern": "\\bcarry\\s+out\\s+an\\s+analysis\\s+of(?![\\w'])",
+  "replacements": [
+   "analyse"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'analyse' says the same."
+ },
+ {
+  "id": "rr_249",
+  "pattern": "\\bperform\\s+an\\s+analysis\\s+of(?![\\w'])",
+  "replacements": [
+   "analyse"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'analyse' says the same."
+ },
+ {
+  "id": "rr_250",
+  "pattern": "\\bdo\\s+an\\s+analysis\\s+of(?![\\w'])",
+  "replacements": [
+   "analyse"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'analyse' says the same."
+ },
+ {
+  "id": "rr_251",
+  "pattern": "\\bhold\\s+a\\s+meeting(?![\\w'])",
+  "replacements": [
+   "meet"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'meet' says the same."
+ },
+ {
+  "id": "rr_252",
+  "pattern": "\\bhave\\s+a\\s+discussion\\s+about(?![\\w'])",
+  "replacements": [
+   "discuss"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'discuss' says the same."
+ },
+ {
+  "id": "rr_253",
+  "pattern": "\\bhave\\s+a\\s+discussion(?![\\w'])",
+  "replacements": [
+   "discuss"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'discuss' says the same."
+ },
+ {
+  "id": "rr_254",
+  "pattern": "\\bgive\\s+a\\s+presentation(?![\\w'])",
+  "replacements": [
+   "present"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'present' says the same."
+ },
+ {
+  "id": "rr_255",
+  "pattern": "\\bprovide\\s+assistance(?![\\w'])",
+  "replacements": [
+   "help"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'help' says the same."
+ },
+ {
+  "id": "rr_256",
+  "pattern": "\\boffer\\s+assistance(?![\\w'])",
+  "replacements": [
+   "help"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'help' says the same."
+ },
+ {
+  "id": "rr_257",
+  "pattern": "\\bprovide\\s+support\\s+to(?![\\w'])",
+  "replacements": [
+   "support"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'support' says the same."
+ },
+ {
+  "id": "rr_258",
+  "pattern": "\\bbe\\s+of\\s+assistance(?![\\w'])",
+  "replacements": [
+   "help"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'help' says the same."
+ },
+ {
+  "id": "rr_259",
+  "pattern": "\\bis\\s+of\\s+the\\s+opinion(?![\\w'])",
+  "replacements": [
+   "thinks"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'thinks' says the same."
+ },
+ {
+  "id": "rr_260",
+  "pattern": "\\bare\\s+of\\s+the\\s+opinion(?![\\w'])",
+  "replacements": [
+   "think"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'think' says the same."
+ },
+ {
+  "id": "rr_261",
+  "pattern": "\\bput\\s+an\\s+end\\s+to(?![\\w'])",
+  "replacements": [
+   "end"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'end' says the same."
+ },
+ {
+  "id": "rr_262",
+  "pattern": "\\bbring\\s+to\\s+an\\s+end(?![\\w'])",
+  "replacements": [
+   "end"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'end' says the same."
+ },
+ {
+  "id": "rr_263",
+  "pattern": "\\bcome\\s+to\\s+an\\s+end(?![\\w'])",
+  "replacements": [
+   "end"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'end' says the same."
+ },
+ {
+  "id": "rr_264",
+  "pattern": "\\btake\\s+action(?![\\w'])",
+  "replacements": [
+   "act"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'act' says the same."
+ },
+ {
+  "id": "rr_265",
+  "pattern": "\\bmake\\s+contact\\s+with(?![\\w'])",
+  "replacements": [
+   "contact"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'contact' says the same."
+ },
+ {
+  "id": "rr_266",
+  "pattern": "\\bget\\s+in\\s+touch\\s+with(?![\\w'])",
+  "replacements": [
+   "contact"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'contact' says the same."
+ },
+ {
+  "id": "rr_267",
+  "pattern": "\\breach\\s+out\\s+to(?![\\w'])",
+  "replacements": [
+   "contact"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'contact' says the same."
+ },
+ {
+  "id": "rr_268",
+  "pattern": "\\btouch\\s+base\\s+with(?![\\w'])",
+  "replacements": [
+   "check in with"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'check in with' says the same."
+ },
+ {
+  "id": "rr_269",
+  "pattern": "\\bis\\s+indicative\\s+of(?![\\w'])",
+  "replacements": [
+   "shows"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'shows' says the same."
+ },
+ {
+  "id": "rr_270",
+  "pattern": "\\bare\\s+indicative\\s+of(?![\\w'])",
+  "replacements": [
+   "show"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'show' says the same."
+ },
+ {
+  "id": "rr_271",
+  "pattern": "\\bis\\s+in\\s+need\\s+of(?![\\w'])",
+  "replacements": [
+   "needs"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'needs' says the same."
+ },
+ {
+  "id": "rr_272",
+  "pattern": "\\bare\\s+in\\s+need\\s+of(?![\\w'])",
+  "replacements": [
+   "need"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'need' says the same."
+ },
+ {
+  "id": "rr_273",
+  "pattern": "\\bis\\s+dependent\\s+on(?![\\w'])",
+  "replacements": [
+   "depends on"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'depends on' says the same."
+ },
+ {
+  "id": "rr_274",
+  "pattern": "\\bare\\s+dependent\\s+on(?![\\w'])",
+  "replacements": [
+   "depend on"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'depend on' says the same."
+ },
+ {
+  "id": "rr_275",
+  "pattern": "\\bis\\s+reliant\\s+on(?![\\w'])",
+  "replacements": [
+   "relies on"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'relies on' says the same."
+ },
+ {
+  "id": "rr_276",
+  "pattern": "\\bis\\s+aware\\s+of\\s+the\\s+fact\\s+that(?![\\w'])",
+  "replacements": [
+   "knows"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'knows' says the same."
+ },
+ {
+  "id": "rr_277",
+  "pattern": "\\bin\\s+close\\s+proximity\\s+to(?![\\w'])",
+  "replacements": [
+   "near"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'near' says the same."
+ },
+ {
+  "id": "rr_278",
+  "pattern": "\\bin\\s+the\\s+vicinity\\s+of(?![\\w'])",
+  "replacements": [
+   "near"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'near' says the same."
+ },
+ {
+  "id": "rr_279",
+  "pattern": "\\bin\\s+the\\s+region\\s+of(?![\\w'])",
+  "replacements": [
+   "about"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'about' says the same."
+ },
+ {
+  "id": "rr_280",
+  "pattern": "\\bin\\s+excess\\s+of(?![\\w'])",
+  "replacements": [
+   "over"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'over' says the same."
+ },
+ {
+  "id": "rr_281",
+  "pattern": "\\ba\\s+period\\s+of\\s+time(?![\\w'])",
+  "replacements": [
+   "a period"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'a period' says the same."
+ },
+ {
+  "id": "rr_282",
+  "pattern": "\\bfor\\s+a\\s+period\\s+of(?![\\w'])",
+  "replacements": [
+   "for"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'for' says the same."
+ },
+ {
+  "id": "rr_283",
+  "pattern": "\\bduring\\s+the\\s+course\\s+of(?![\\w'])",
+  "replacements": [
+   "during"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'during' says the same."
+ },
+ {
+  "id": "rr_284",
+  "pattern": "\\bin\\s+the\\s+course\\s+of(?![\\w'])",
+  "replacements": [
+   "during"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'during' says the same."
+ },
+ {
+  "id": "rr_285",
+  "pattern": "\\bover\\s+the\\s+course\\s+of(?![\\w'])",
+  "replacements": [
+   "over"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'over' says the same."
+ },
+ {
+  "id": "rr_286",
+  "pattern": "\\bthroughout\\s+the\\s+entire(?![\\w'])",
+  "replacements": [
+   "throughout the"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'throughout the' says the same."
+ },
+ {
+  "id": "rr_287",
+  "pattern": "\\bon\\s+a\\s+daily\\s+basis(?![\\w'])",
+  "replacements": [
+   "daily"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'daily' says the same."
+ },
+ {
+  "id": "rr_288",
+  "pattern": "\\bon\\s+a\\s+weekly\\s+basis(?![\\w'])",
+  "replacements": [
+   "weekly"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'weekly' says the same."
+ },
+ {
+  "id": "rr_289",
+  "pattern": "\\bon\\s+a\\s+monthly\\s+basis(?![\\w'])",
+  "replacements": [
+   "monthly"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'monthly' says the same."
+ },
+ {
+  "id": "rr_290",
+  "pattern": "\\bon\\s+a\\s+regular\\s+basis(?![\\w'])",
+  "replacements": [
+   "regularly"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'regularly' says the same."
+ },
+ {
+  "id": "rr_291",
+  "pattern": "\\bon\\s+a\\s+yearly\\s+basis(?![\\w'])",
+  "replacements": [
+   "annually"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'annually' says the same."
+ },
+ {
+  "id": "rr_292",
+  "pattern": "\\bon\\s+an\\s+ongoing\\s+basis(?![\\w'])",
+  "replacements": [
+   "continually"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'continually' says the same."
+ },
+ {
+  "id": "rr_293",
+  "pattern": "\\bon\\s+a\\s+case\\s+by\\s+case\\s+basis(?![\\w'])",
+  "replacements": [
+   "case by case"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'case by case' says the same."
+ },
+ {
+  "id": "rr_294",
+  "pattern": "\\bin\\s+a\\s+timely\\s+manner(?![\\w'])",
+  "replacements": [
+   "promptly"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'promptly' says the same."
+ },
+ {
+  "id": "rr_295",
+  "pattern": "\\bin\\s+a\\s+timely\\s+fashion(?![\\w'])",
+  "replacements": [
+   "promptly"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'promptly' says the same."
+ },
+ {
+  "id": "rr_296",
+  "pattern": "\\bin\\s+an\\s+efficient\\s+manner(?![\\w'])",
+  "replacements": [
+   "efficiently"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'efficiently' says the same."
+ },
+ {
+  "id": "rr_297",
+  "pattern": "\\bin\\s+a\\s+careful\\s+manner(?![\\w'])",
+  "replacements": [
+   "carefully"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'carefully' says the same."
+ },
+ {
+  "id": "rr_298",
+  "pattern": "\\bin\\s+a\\s+quick\\s+manner(?![\\w'])",
+  "replacements": [
+   "quickly"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'quickly' says the same."
+ },
+ {
+  "id": "rr_299",
+  "pattern": "\\bin\\s+a\\s+similar\\s+fashion(?![\\w'])",
+  "replacements": [
+   "similarly"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'similarly' says the same."
+ },
+ {
+  "id": "rr_300",
+  "pattern": "\\bin\\s+the\\s+same\\s+way\\s+as(?![\\w'])",
+  "replacements": [
+   "like"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'like' says the same."
+ },
+ {
+  "id": "rr_301",
+  "pattern": "\\balong\\s+the\\s+lines\\s+of(?![\\w'])",
+  "replacements": [
+   "like"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'like' says the same."
+ },
+ {
+  "id": "rr_302",
+  "pattern": "\\bin\\s+the\\s+form\\s+of(?![\\w'])",
+  "replacements": [
+   "as"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'as' says the same."
+ },
+ {
+  "id": "rr_303",
+  "pattern": "\\bby\\s+means\\s+of(?![\\w'])",
+  "replacements": [
+   "by"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'by' says the same."
+ },
+ {
+  "id": "rr_304",
+  "pattern": "\\bby\\s+way\\s+of(?![\\w'])",
+  "replacements": [
+   "via"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'via' says the same."
+ },
+ {
+  "id": "rr_305",
+  "pattern": "\\bby\\s+virtue\\s+of(?![\\w'])",
+  "replacements": [
+   "because of"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'because of' says the same."
+ },
+ {
+  "id": "rr_306",
+  "pattern": "\\bas\\s+a\\s+result\\s+of(?![\\w'])",
+  "replacements": [
+   "because of"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'because of' says the same."
+ },
+ {
+  "id": "rr_307",
+  "pattern": "\\bas\\s+a\\s+consequence\\s+of(?![\\w'])",
+  "replacements": [
+   "because of"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'because of' says the same."
+ },
+ {
+  "id": "rr_308",
+  "pattern": "\\bfor\\s+the\\s+reason\\s+that(?![\\w'])",
+  "replacements": [
+   "because"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'because' says the same."
+ },
+ {
+  "id": "rr_309",
+  "pattern": "\\bfor\\s+the\\s+simple\\s+reason\\s+that(?![\\w'])",
+  "replacements": [
+   "because"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'because' says the same."
+ },
+ {
+  "id": "rr_310",
+  "pattern": "\\bin\\s+the\\s+absence\\s+of(?![\\w'])",
+  "replacements": [
+   "without"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'without' says the same."
+ },
+ {
+  "id": "rr_311",
+  "pattern": "\\bprior\\s+to(?![\\w'])",
+  "replacements": [
+   "before"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'before' says the same."
+ },
+ {
+  "id": "rr_312",
+  "pattern": "\\bsubsequent\\s+to(?![\\w'])",
+  "replacements": [
+   "after"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'after' says the same."
+ },
+ {
+  "id": "rr_313",
+  "pattern": "\\bin\\s+advance\\s+of(?![\\w'])",
+  "replacements": [
+   "before"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'before' says the same."
+ },
+ {
+  "id": "rr_314",
+  "pattern": "\\bfollowing\\s+on\\s+from(?![\\w'])",
+  "replacements": [
+   "after"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'after' says the same."
+ },
+ {
+  "id": "rr_315",
+  "pattern": "\\buntil\\s+such\\s+time\\s+as(?![\\w'])",
+  "replacements": [
+   "until"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'until' says the same."
+ },
+ {
+  "id": "rr_316",
+  "pattern": "\\bat\\s+all\\s+times(?![\\w'])",
+  "replacements": [
+   "always"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'always' says the same."
+ },
+ {
+  "id": "rr_317",
+  "pattern": "\\beach\\s+and\\s+every\\s+time(?![\\w'])",
+  "replacements": [
+   "every time"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'every time' says the same."
+ },
+ {
+  "id": "rr_318",
+  "pattern": "\\btime\\s+and\\s+time\\s+again(?![\\w'])",
+  "replacements": [
+   "repeatedly"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'repeatedly' says the same."
+ },
+ {
+  "id": "rr_319",
+  "pattern": "\\bin\\s+most\\s+cases(?![\\w'])",
+  "replacements": [
+   "usually"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'usually' says the same."
+ },
+ {
+  "id": "rr_320",
+  "pattern": "\\bin\\s+many\\s+cases(?![\\w'])",
+  "replacements": [
+   "often"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'often' says the same."
+ },
+ {
+  "id": "rr_321",
+  "pattern": "\\bin\\s+some\\s+cases(?![\\w'])",
+  "replacements": [
+   "sometimes"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'sometimes' says the same."
+ },
+ {
+  "id": "rr_322",
+  "pattern": "\\bin\\s+all\\s+cases(?![\\w'])",
+  "replacements": [
+   "always"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'always' says the same."
+ },
+ {
+  "id": "rr_323",
+  "pattern": "\\ba\\s+number\\s+of(?![\\w'])",
+  "replacements": [
+   "several"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'several' says the same."
+ },
+ {
+  "id": "rr_324",
+  "pattern": "\\bwhether\\s+or\\s+not(?![\\w'])",
+  "replacements": [
+   "whether"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'whether' says the same."
+ },
+ {
+  "id": "rr_325",
+  "pattern": "\\bit\\s+is\\s+possible\\s+that(?![\\w'])",
+  "replacements": [
+   "perhaps"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'perhaps' says the same."
+ },
+ {
+  "id": "rr_326",
+  "pattern": "\\bthere\\s+is\\s+a\\s+chance\\s+that(?![\\w'])",
+  "replacements": [
+   "perhaps"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'perhaps' says the same."
+ },
+ {
+  "id": "rr_327",
+  "pattern": "\\bit\\s+may\\s+be\\s+the\\s+case\\s+that(?![\\w'])",
+  "replacements": [
+   "perhaps"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'perhaps' says the same."
+ },
+ {
+  "id": "rr_328",
+  "pattern": "\\bit\\s+is\\s+clear\\s+that(?![\\w'])",
+  "replacements": [
+   "clearly"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'clearly' says the same."
+ },
+ {
+  "id": "rr_329",
+  "pattern": "\\bit\\s+is\\s+obvious\\s+that(?![\\w'])",
+  "replacements": [
+   "clearly"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'clearly' says the same."
+ },
+ {
+  "id": "rr_330",
+  "pattern": "\\bit\\s+is\\s+evident\\s+that(?![\\w'])",
+  "replacements": [
+   "clearly"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'clearly' says the same."
+ },
+ {
+  "id": "rr_331",
+  "pattern": "\\bit\\s+is\\s+likely\\s+that(?![\\w'])",
+  "replacements": [
+   "probably"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'probably' says the same."
+ },
+ {
+  "id": "rr_332",
+  "pattern": "\\bit\\s+is\\s+necessary\\s+that(?![\\w'])",
+  "replacements": [
+   "we must"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'we must' says the same."
+ },
+ {
+  "id": "rr_333",
+  "pattern": "\\bit\\s+is\\s+essential\\s+that(?![\\w'])",
+  "replacements": [
+   "we must"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'we must' says the same."
+ },
+ {
+  "id": "rr_334",
+  "pattern": "\\bit\\s+is\\s+imperative\\s+that(?![\\w'])",
+  "replacements": [
+   "we must"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'we must' says the same."
+ },
+ {
+  "id": "rr_335",
+  "pattern": "\\bthere\\s+is\\s+a\\s+need\\s+for(?![\\w'])",
+  "replacements": [
+   "we need"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'we need' says the same."
+ },
+ {
+  "id": "rr_336",
+  "pattern": "\\bthere\\s+is\\s+no\\s+doubt\\s+that(?![\\w'])",
+  "replacements": [
+   "certainly"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'certainly' says the same."
+ },
+ {
+  "id": "rr_337",
+  "pattern": "\\bit\\s+is\\s+interesting\\s+to\\s+note\\s+that(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — cut it."
+ },
+ {
+  "id": "rr_338",
+  "pattern": "\\bit\\s+is\\s+worth\\s+noting\\s+that(?![\\w'])",
+  "replacements": [
+   "note that"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'note that' says the same."
+ },
+ {
+  "id": "rr_339",
+  "pattern": "\\bin\\s+addition\\s+to\\s+this(?![\\w'])",
+  "replacements": [
+   "also"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'also' says the same."
+ },
+ {
+  "id": "rr_340",
+  "pattern": "\\bin\\s+addition\\s+to\\s+that(?![\\w'])",
+  "replacements": [
+   "also"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'also' says the same."
+ },
+ {
+  "id": "rr_341",
+  "pattern": "\\bas\\s+well\\s+as\\s+that(?![\\w'])",
+  "replacements": [
+   "also"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'also' says the same."
+ },
+ {
+  "id": "rr_342",
+  "pattern": "\\bnot\\s+only\\s+that\\s+but\\s+also(?![\\w'])",
+  "replacements": [
+   "also"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'also' says the same."
+ },
+ {
+  "id": "rr_343",
+  "pattern": "\\balong\\s+with\\s+this(?![\\w'])",
+  "replacements": [
+   "also"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'also' says the same."
+ },
+ {
+  "id": "rr_344",
+  "pattern": "\\bapart\\s+from\\s+this(?![\\w'])",
+  "replacements": [
+   "also"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'also' says the same."
+ },
+ {
+  "id": "rr_345",
+  "pattern": "\\bother\\s+than\\s+that(?![\\w'])",
+  "replacements": [
+   "otherwise"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'otherwise' says the same."
+ },
+ {
+  "id": "rr_346",
+  "pattern": "\\bin\\s+a\\s+nutshell(?![\\w'])",
+  "replacements": [
+   "in short"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'in short' says the same."
+ },
+ {
+  "id": "rr_347",
+  "pattern": "\\bto\\s+put\\s+it\\s+simply(?![\\w'])",
+  "replacements": [
+   "simply"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'simply' says the same."
+ },
+ {
+  "id": "rr_348",
+  "pattern": "\\bso\\s+that\\s+is\\s+why(?![\\w'])",
+  "replacements": [
+   "so"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'so' says the same."
+ },
+ {
+  "id": "rr_349",
+  "pattern": "\\bthat\\s+is\\s+the\\s+reason\\s+why(?![\\w'])",
+  "replacements": [
+   "so"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'so' says the same."
+ },
+ {
+  "id": "rr_350",
+  "pattern": "\\bthis\\s+is\\s+the\\s+reason\\s+why(?![\\w'])",
+  "replacements": [
+   "so"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'so' says the same."
+ },
+ {
+  "id": "rr_351",
+  "pattern": "\\bbecause\\s+of\\s+the\\s+reason\\s+that(?![\\w'])",
+  "replacements": [
+   "because"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'because' says the same."
+ },
+ {
+  "id": "rr_352",
+  "pattern": "\\bthe\\s+way\\s+in\\s+which(?![\\w'])",
+  "replacements": [
+   "how"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'how' says the same."
+ },
+ {
+  "id": "rr_353",
+  "pattern": "\\bthe\\s+manner\\s+in\\s+which(?![\\w'])",
+  "replacements": [
+   "how"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'how' says the same."
+ },
+ {
+  "id": "rr_354",
+  "pattern": "\\bthe\\s+extent\\s+to\\s+which(?![\\w'])",
+  "replacements": [
+   "how far"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'how far' says the same."
+ },
+ {
+  "id": "rr_355",
+  "pattern": "\\bthe\\s+question\\s+as\\s+to\\s+whether(?![\\w'])",
+  "replacements": [
+   "whether"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'whether' says the same."
+ },
+ {
+  "id": "rr_356",
+  "pattern": "\\bthere\\s+are\\s+(many|a\\s+lot\\s+of|several)\\s+people\\s+who(?![\\w'])",
+  "replacements": [
+   "many people"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'many people' says the same."
+ },
+ {
+  "id": "rr_357",
+  "pattern": "\\bthere\\s+is\\s+someone\\s+who(?![\\w'])",
+  "replacements": [
+   "someone"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'someone' says the same."
+ },
+ {
+  "id": "rr_358",
+  "pattern": "\\bthere\\s+are\\s+some\\s+(people|ones)\\s+who(?![\\w'])",
+  "replacements": [
+   "some people"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'some people' says the same."
+ },
+ {
+  "id": "rr_359",
+  "pattern": "\\bwho\\s+is\\s+in\\s+charge\\s+of(?![\\w'])",
+  "replacements": [
+   "who runs"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'who runs' says the same."
+ },
+ {
+  "id": "rr_360",
+  "pattern": "\\bis\\s+responsible\\s+for\\s+(handling|managing)(?![\\w'])",
+  "replacements": [
+   "handles"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'handles' says the same."
+ },
+ {
+  "id": "rr_361",
+  "pattern": "\\bin\\s+charge\\s+of\\s+looking\\s+after(?![\\w'])",
+  "replacements": [
+   "responsible for"
+  ],
+  "category": "wordy",
+  "severity": "minor",
+  "note": "Wordy — 'responsible for' says the same."
+ },
+ {
+  "id": "rr_362",
+  "pattern": "\\brevert\\s+back(?![\\w'])",
+  "replacements": [
+   "reply"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_363",
+  "pattern": "\\breturn\\s+back(?![\\w'])",
+  "replacements": [
+   "return"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_364",
+  "pattern": "\\brepeat\\s+again(?![\\w'])",
+  "replacements": [
+   "repeat"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_365",
+  "pattern": "\\brepeat\\s+the\\s+same(?![\\w'])",
+  "replacements": [
+   "repeat"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_366",
+  "pattern": "\\breply\\s+back(?![\\w'])",
+  "replacements": [
+   "reply"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_367",
+  "pattern": "\\brefer\\s+back(?![\\w'])",
+  "replacements": [
+   "refer"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_368",
+  "pattern": "\\bgo\\s+back\\s+again(?![\\w'])",
+  "replacements": [
+   "go back"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_369",
+  "pattern": "\\brecur\\s+again(?![\\w'])",
+  "replacements": [
+   "recur"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_370",
+  "pattern": "\\brestart\\s+again(?![\\w'])",
+  "replacements": [
+   "restart"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_371",
+  "pattern": "\\breiterate\\s+again(?![\\w'])",
+  "replacements": [
+   "reiterate"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_372",
+  "pattern": "\\bfuture\\s+plans(?![\\w'])",
+  "replacements": [
+   "plans"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_373",
+  "pattern": "\\badvance\\s+planning(?![\\w'])",
+  "replacements": [
+   "planning"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_374",
+  "pattern": "\\bplan\\s+ahead(?![\\w'])",
+  "replacements": [
+   "plan"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_375",
+  "pattern": "\\bplan\\s+in\\s+advance(?![\\w'])",
+  "replacements": [
+   "plan"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_376",
+  "pattern": "\\bpre-plan(?![\\w'])",
+  "replacements": [
+   "plan"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_377",
+  "pattern": "\\bpast\\s+history(?![\\w'])",
+  "replacements": [
+   "history"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_378",
+  "pattern": "\\bpast\\s+experience(?![\\w'])",
+  "replacements": [
+   "experience"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_379",
+  "pattern": "\\bpast\\s+records(?![\\w'])",
+  "replacements": [
+   "records"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_380",
+  "pattern": "\\bend\\s+result(?![\\w'])",
+  "replacements": [
+   "result"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_381",
+  "pattern": "\\bfinal\\s+outcome(?![\\w'])",
+  "replacements": [
+   "outcome"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_382",
+  "pattern": "\\bfinal\\s+conclusion(?![\\w'])",
+  "replacements": [
+   "conclusion"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_383",
+  "pattern": "\\bfinal\\s+result(?![\\w'])",
+  "replacements": [
+   "result"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_384",
+  "pattern": "\\bfinal\\s+completion(?![\\w'])",
+  "replacements": [
+   "completion"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_385",
+  "pattern": "\\bultimate\\s+goal(?![\\w'])",
+  "replacements": [
+   "goal"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_386",
+  "pattern": "\\beach\\s+and\\s+every(?![\\w'])",
+  "replacements": [
+   "every"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_387",
+  "pattern": "\\bfirst\\s+and\\s+foremost(?![\\w'])",
+  "replacements": [
+   "first"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_388",
+  "pattern": "\\bone\\s+and\\s+only(?![\\w'])",
+  "replacements": [
+   "only"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_389",
+  "pattern": "\\bany\\s+and\\s+all(?![\\w'])",
+  "replacements": [
+   "all"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_390",
+  "pattern": "\\bvarious\\s+different(?![\\w'])",
+  "replacements": [
+   "various"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_391",
+  "pattern": "\\bbasic\\s+fundamentals(?![\\w'])",
+  "replacements": [
+   "fundamentals"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_392",
+  "pattern": "\\bbasic\\s+essentials(?![\\w'])",
+  "replacements": [
+   "essentials"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_393",
+  "pattern": "\\babsolutely\\s+essential(?![\\w'])",
+  "replacements": [
+   "essential"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_394",
+  "pattern": "\\babsolutely\\s+necessary(?![\\w'])",
+  "replacements": [
+   "necessary"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_395",
+  "pattern": "\\bcompletely\\s+finished(?![\\w'])",
+  "replacements": [
+   "finished"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_396",
+  "pattern": "\\bcompletely\\s+eliminate(?![\\w'])",
+  "replacements": [
+   "eliminate"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_397",
+  "pattern": "\\bcompletely\\s+full(?![\\w'])",
+  "replacements": [
+   "full"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_398",
+  "pattern": "\\btotally\\s+unique(?![\\w'])",
+  "replacements": [
+   "unique"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_399",
+  "pattern": "\\bvery\\s+unique(?![\\w'])",
+  "replacements": [
+   "unique"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_400",
+  "pattern": "\\bnew\\s+innovation(?![\\w'])",
+  "replacements": [
+   "innovation"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_401",
+  "pattern": "\\bnew\\s+invention(?![\\w'])",
+  "replacements": [
+   "invention"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_402",
+  "pattern": "\\bbrand\\s+new\\s+innovation(?![\\w'])",
+  "replacements": [
+   "innovation"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_403",
+  "pattern": "\\badded\\s+bonus(?![\\w'])",
+  "replacements": [
+   "bonus"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_404",
+  "pattern": "\\bfree\\s+gift(?![\\w'])",
+  "replacements": [
+   "gift"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_405",
+  "pattern": "\\bunexpected\\s+surprise(?![\\w'])",
+  "replacements": [
+   "surprise"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_406",
+  "pattern": "\\bclose\\s+proximity(?![\\w'])",
+  "replacements": [
+   "proximity"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_407",
+  "pattern": "\\bbrief\\s+summary(?![\\w'])",
+  "replacements": [
+   "summary"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_408",
+  "pattern": "\\bshort\\s+summary(?![\\w'])",
+  "replacements": [
+   "summary"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_409",
+  "pattern": "\\bexact\\s+same(?![\\w'])",
+  "replacements": [
+   "same"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_410",
+  "pattern": "\\bsame\\s+identical(?![\\w'])",
+  "replacements": [
+   "identical"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_411",
+  "pattern": "\\bjoin\\s+together(?![\\w'])",
+  "replacements": [
+   "join"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_412",
+  "pattern": "\\bcombine\\s+together(?![\\w'])",
+  "replacements": [
+   "combine"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_413",
+  "pattern": "\\bmerge\\s+together(?![\\w'])",
+  "replacements": [
+   "merge"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_414",
+  "pattern": "\\bcollaborate\\s+together(?![\\w'])",
+  "replacements": [
+   "collaborate"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_415",
+  "pattern": "\\bcooperate\\s+together(?![\\w'])",
+  "replacements": [
+   "cooperate"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_416",
+  "pattern": "\\bconnect\\s+together(?![\\w'])",
+  "replacements": [
+   "connect"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_417",
+  "pattern": "\\bgather\\s+together(?![\\w'])",
+  "replacements": [
+   "gather"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_418",
+  "pattern": "\\bmix\\s+together(?![\\w'])",
+  "replacements": [
+   "mix"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_419",
+  "pattern": "\\bstill\\s+remains(?![\\w'])",
+  "replacements": [
+   "remains"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_420",
+  "pattern": "\\bstill\\s+continues(?![\\w'])",
+  "replacements": [
+   "continues"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_421",
+  "pattern": "\\bcontinue\\s+on(?![\\w'])",
+  "replacements": [
+   "continue"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_422",
+  "pattern": "\\bcontinue\\s+to\\s+remain(?![\\w'])",
+  "replacements": [
+   "remain"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_423",
+  "pattern": "\\bpostpone\\s+until\\s+later(?![\\w'])",
+  "replacements": [
+   "postpone"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_424",
+  "pattern": "\\bdelay\\s+until\\s+later(?![\\w'])",
+  "replacements": [
+   "delay"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_425",
+  "pattern": "\\bprepone(?![\\w'])",
+  "replacements": [
+   "bring forward"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_426",
+  "pattern": "\\bpre-pone(?![\\w'])",
+  "replacements": [
+   "bring forward"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_427",
+  "pattern": "\\bdiscuss\\s+about(?![\\w'])",
+  "replacements": [
+   "discuss"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_428",
+  "pattern": "\\bdiscussed\\s+about(?![\\w'])",
+  "replacements": [
+   "discussed"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_429",
+  "pattern": "\\bdiscussing\\s+about(?![\\w'])",
+  "replacements": [
+   "discussing"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_430",
+  "pattern": "\\bmention\\s+about(?![\\w'])",
+  "replacements": [
+   "mention"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_431",
+  "pattern": "\\bemphasise\\s+on(?![\\w'])",
+  "replacements": [
+   "emphasise"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_432",
+  "pattern": "\\bemphasize\\s+on(?![\\w'])",
+  "replacements": [
+   "emphasise"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_433",
+  "pattern": "\\bstress\\s+on(?![\\w'])",
+  "replacements": [
+   "stress"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_434",
+  "pattern": "\\bexplain\\s+about(?![\\w'])",
+  "replacements": [
+   "explain"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_435",
+  "pattern": "\\bdescribe\\s+about(?![\\w'])",
+  "replacements": [
+   "describe"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_436",
+  "pattern": "\\bcomprise\\s+of(?![\\w'])",
+  "replacements": [
+   "comprise"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_437",
+  "pattern": "\\bcope\\s+up\\s+with(?![\\w'])",
+  "replacements": [
+   "cope with"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_438",
+  "pattern": "\\breturn\\s+it\\s+back(?![\\w'])",
+  "replacements": [
+   "return it"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_439",
+  "pattern": "\\bascend\\s+up(?![\\w'])",
+  "replacements": [
+   "ascend"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_440",
+  "pattern": "\\bdescend\\s+down(?![\\w'])",
+  "replacements": [
+   "descend"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_441",
+  "pattern": "\\braise\\s+up(?![\\w'])",
+  "replacements": [
+   "raise"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_442",
+  "pattern": "\\blift\\s+up(?![\\w'])",
+  "replacements": [
+   "lift"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_443",
+  "pattern": "\\bseparate\\s+out(?![\\w'])",
+  "replacements": [
+   "separate"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_444",
+  "pattern": "\\bdivide\\s+up(?![\\w'])",
+  "replacements": [
+   "divide"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_445",
+  "pattern": "\\bestimated\\s+at\\s+about(?![\\w'])",
+  "replacements": [
+   "estimated at"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_446",
+  "pattern": "\\bapproximately\\s+about(?![\\w'])",
+  "replacements": [
+   "about"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_447",
+  "pattern": "\\baround\\s+about(?![\\w'])",
+  "replacements": [
+   "about"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_448",
+  "pattern": "\\broughly\\s+around(?![\\w'])",
+  "replacements": [
+   "roughly"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_449",
+  "pattern": "\\bmay\\s+possibly(?![\\w'])",
+  "replacements": [
+   "may"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_450",
+  "pattern": "\\bmight\\s+possibly(?![\\w'])",
+  "replacements": [
+   "might"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_451",
+  "pattern": "\\bcould\\s+possibly(?![\\w'])",
+  "replacements": [
+   "could"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_452",
+  "pattern": "\\bmust\\s+necessarily(?![\\w'])",
+  "replacements": [
+   "must"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_453",
+  "pattern": "\\btrue\\s+facts(?![\\w'])",
+  "replacements": [
+   "facts"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_454",
+  "pattern": "\\bactual\\s+facts(?![\\w'])",
+  "replacements": [
+   "facts"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_455",
+  "pattern": "\\bhonest\\s+truth(?![\\w'])",
+  "replacements": [
+   "truth"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_456",
+  "pattern": "\\bpersonal\\s+opinion(?![\\w'])",
+  "replacements": [
+   "opinion"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_457",
+  "pattern": "\\bpersonal\\s+friend(?![\\w'])",
+  "replacements": [
+   "friend"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_458",
+  "pattern": "\\bgeneral\\s+consensus(?![\\w'])",
+  "replacements": [
+   "consensus"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_459",
+  "pattern": "\\bconsensus\\s+of\\s+opinion(?![\\w'])",
+  "replacements": [
+   "consensus"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_460",
+  "pattern": "\\bmutual\\s+cooperation(?![\\w'])",
+  "replacements": [
+   "cooperation"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_461",
+  "pattern": "\\bmutually\\s+agreed(?![\\w'])",
+  "replacements": [
+   "agreed"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_462",
+  "pattern": "\\bboth\\s+of\\s+them\\s+together(?![\\w'])",
+  "replacements": [
+   "both"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_463",
+  "pattern": "\\bboth\\s+of\\s+the\\s+two(?![\\w'])",
+  "replacements": [
+   "both"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_464",
+  "pattern": "\\bthe\\s+both\\s+of(?![\\w'])",
+  "replacements": [
+   "both"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_465",
+  "pattern": "\\badvance\\s+warning(?![\\w'])",
+  "replacements": [
+   "warning"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_466",
+  "pattern": "\\badvance\\s+notice(?![\\w'])",
+  "replacements": [
+   "notice"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_467",
+  "pattern": "\\bover\\s+exaggerate(?![\\w'])",
+  "replacements": [
+   "exaggerate"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_468",
+  "pattern": "\\boverexaggerate(?![\\w'])",
+  "replacements": [
+   "exaggerate"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_469",
+  "pattern": "\\bmajor\\s+breakthrough(?![\\w'])",
+  "replacements": [
+   "breakthrough"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_470",
+  "pattern": "\\bcritical\\s+crisis(?![\\w'])",
+  "replacements": [
+   "crisis"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_471",
+  "pattern": "\\bserious\\s+crisis(?![\\w'])",
+  "replacements": [
+   "crisis"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_472",
+  "pattern": "\\btwelve\\s+noon(?![\\w'])",
+  "replacements": [
+   "noon"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_473",
+  "pattern": "\\btwelve\\s+midnight(?![\\w'])",
+  "replacements": [
+   "midnight"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_474",
+  "pattern": "\\bam\\s+in\\s+the\\s+morning(?![\\w'])",
+  "replacements": [
+   "am"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_475",
+  "pattern": "\\bpm\\s+in\\s+the\\s+evening(?![\\w'])",
+  "replacements": [
+   "pm"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_476",
+  "pattern": "\\bpm\\s+in\\s+the\\s+afternoon(?![\\w'])",
+  "replacements": [
+   "pm"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_477",
+  "pattern": "\\bin\\s+the\\s+morning\\s+time(?![\\w'])",
+  "replacements": [
+   "in the morning"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_478",
+  "pattern": "\\bperiod\\s+of\\s+time(?![\\w'])",
+  "replacements": [
+   "period"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_479",
+  "pattern": "\\btime\\s+period(?![\\w'])",
+  "replacements": [
+   "period"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_480",
+  "pattern": "\\bsmall\\s+in\\s+size(?![\\w'])",
+  "replacements": [
+   "small"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_481",
+  "pattern": "\\blarge\\s+in\\s+size(?![\\w'])",
+  "replacements": [
+   "large"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_482",
+  "pattern": "\\bred\\s+in\\s+colour(?![\\w'])",
+  "replacements": [
+   "red"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_483",
+  "pattern": "\\bshorter\\s+in\\s+length(?![\\w'])",
+  "replacements": [
+   "shorter"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_484",
+  "pattern": "\\bfew\\s+in\\s+number(?![\\w'])",
+  "replacements": [
+   "few"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_485",
+  "pattern": "\\bsquare\\s+in\\s+shape(?![\\w'])",
+  "replacements": [
+   "square"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_486",
+  "pattern": "\\bsum\\s+total(?![\\w'])",
+  "replacements": [
+   "total"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_487",
+  "pattern": "\\bgrand\\s+total(?![\\w'])",
+  "replacements": [
+   "total"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_488",
+  "pattern": "\\breason\\s+is\\s+because(?![\\w'])",
+  "replacements": [
+   "reason is that"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_489",
+  "pattern": "\\bif\\s+and\\s+when(?![\\w'])",
+  "replacements": [
+   "if"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_490",
+  "pattern": "\\bunless\\s+and\\s+until(?![\\w'])",
+  "replacements": [
+   "until"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_491",
+  "pattern": "\\bfirst\\s+began(?![\\w'])",
+  "replacements": [
+   "began"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_492",
+  "pattern": "\\bfirst\\s+started(?![\\w'])",
+  "replacements": [
+   "started"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_493",
+  "pattern": "\\boriginally\\s+created(?![\\w'])",
+  "replacements": [
+   "created"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_494",
+  "pattern": "\\bnew\\s+beginning(?![\\w'])",
+  "replacements": [
+   "beginning"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_495",
+  "pattern": "\\bcurrent\\s+status(?![\\w'])",
+  "replacements": [
+   "status"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_496",
+  "pattern": "\\bcurrent\\s+trend(?![\\w'])",
+  "replacements": [
+   "trend"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_497",
+  "pattern": "\\bpresent\\s+time(?![\\w'])",
+  "replacements": [
+   "now"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_498",
+  "pattern": "\\bstill\\s+pending(?![\\w'])",
+  "replacements": [
+   "pending"
+  ],
+  "category": "pleonasm",
+  "severity": "minor",
+  "note": "Redundant pair (pleonasm): one word already carries the meaning."
+ },
+ {
+  "id": "rr_499",
+  "pattern": "\\bdo\\s+one\\s+thing,?(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Instruction opener not used in UK English — just give the instruction."
+ },
+ {
+  "id": "rr_500",
+  "pattern": "\\bkindly(?![\\w'])",
+  "replacements": [
+   "please"
+  ],
+  "category": "indianism",
+  "severity": "minor",
+  "note": "'Kindly' reads as stiff or passive-aggressive in modern UK English; use 'please'."
+ },
+ {
+  "id": "rr_501",
+  "pattern": "\\bplease\\s+do\\s+revert(?![\\w'])",
+  "replacements": [
+   "please reply"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "'Revert' ≠ reply in UK English."
+ },
+ {
+  "id": "rr_502",
+  "pattern": "\\brevert(?![\\w'])",
+  "replacements": [
+   "reply"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "In UK English 'revert' means 'go back to a previous state', not 'reply'."
+ },
+ {
+  "id": "rr_503",
+  "pattern": "\\bintimate\\s+(me|us|you|them)(?![\\w'])",
+  "replacements": [
+   "let $1 know"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "'Intimate' (to inform) is archaic in the UK and can sound odd."
+ },
+ {
+  "id": "rr_504",
+  "pattern": "\\bupdation(?![\\w'])",
+  "replacements": [
+   "update"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "'Updation' isn't a British English word."
+ },
+ {
+  "id": "rr_505",
+  "pattern": "\\bout\\s+of\\s+station(?![\\w'])",
+  "replacements": [
+   "away"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "'Out of station' is Indian English; say 'away' or 'travelling'."
+ },
+ {
+  "id": "rr_506",
+  "pattern": "\\bpassed\\s+out\\s+(of|from)\\s+(college|university)(?![\\w'])",
+  "replacements": [
+   "graduated"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "In the UK 'passed out' means 'fainted'."
+ },
+ {
+  "id": "rr_507",
+  "pattern": "\\bwhat\\s+is\\s+your\\s+good\\s+name(?![\\w'])",
+  "replacements": [
+   "what's your name"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_508",
+  "pattern": "\\b(i\\s+am|i'm)\\s+having\\s+a\\s+(doubt|query)(?![\\w'])",
+  "replacements": [
+   "I have a question"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "'Doubt' = disbelief in UK English; say 'question'."
+ },
+ {
+  "id": "rr_509",
+  "pattern": "\\bi\\s+have\\s+a\\s+doubt(?![\\w'])",
+  "replacements": [
+   "I have a question"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "'Doubt' = disbelief in UK English."
+ },
+ {
+  "id": "rr_510",
+  "pattern": "\\b(we|i)\\s+will\\s+do\\s+the\\s+needful(?![\\w'])",
+  "replacements": [
+   "I'll take care of it"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_511",
+  "pattern": "\\bsame\\s+to\\s+same(?![\\w'])",
+  "replacements": [
+   "identical"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_512",
+  "pattern": "\\bcent\\s+percent(?![\\w'])",
+  "replacements": [
+   "100%"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_513",
+  "pattern": "\\btimepass(?![\\w'])",
+  "replacements": [
+   "killing time"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_514",
+  "pattern": "\\bco-?brother(?![\\w'])",
+  "replacements": [
+   "brother-in-law"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_515",
+  "pattern": "\\bon\\s+leave\\s+from\\s+tomorrow\\s+onwards(?![\\w'])",
+  "replacements": [
+   "on leave from tomorrow"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_516",
+  "pattern": "\\bas\\s+per\\s+my\\s+(knowledge|understanding)(?![\\w'])",
+  "replacements": [
+   "as far as I know"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_517",
+  "pattern": "\\bas\\s+per\\s+our\\s+(knowledge|understanding)(?![\\w'])",
+  "replacements": [
+   "as far as we know"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_518",
+  "pattern": "\\bas\\s+per(?![\\w'])",
+  "replacements": [
+   "according to"
+  ],
+  "category": "indianism",
+  "severity": "minor",
+  "note": "'As per' sounds bureaucratic; prefer 'according to' / 'as'."
+ },
+ {
+  "id": "rr_519",
+  "pattern": "\\bplease\\s+find\\s+(attached|enclosed)\\s+herewith(?![\\w'])",
+  "replacements": [
+   "I've attached"
+  ],
+  "category": "indianism",
+  "severity": "minor",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_520",
+  "pattern": "\\bherewith(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "indianism",
+  "severity": "minor",
+  "note": "Archaic in modern UK business English."
+ },
+ {
+  "id": "rr_521",
+  "pattern": "\\bthe\\s+same\\s+(has\\s+been|was)\\s+(shared|sent|done)(?![\\w'])",
+  "replacements": [
+   "it's been $2"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Using 'the same' as a pronoun is Indian-English business style."
+ },
+ {
+  "id": "rr_522",
+  "pattern": "\\btoo\\s+much\\s+(good|nice|happy)(?![\\w'])",
+  "replacements": [
+   "really $1"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "'Too much' implies excess in UK English."
+ },
+ {
+  "id": "rr_523",
+  "pattern": "\\b(he|she|they)\\s+(is|are)\\s+very\\s+much\\s+(busy|happy|interested)(?![\\w'])",
+  "replacements": [
+   "$1 $2 $3"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_524",
+  "pattern": "\\bvery\\s+much\\s+(busy|happy|interested)(?![\\w'])",
+  "replacements": [
+   "$1"
+  ],
+  "category": "indianism",
+  "severity": "minor",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_525",
+  "pattern": "\\bi\\s+am\\s+telling\\s+you(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "indianism",
+  "severity": "minor",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_526",
+  "pattern": "\\btell\\s+me\\s+one\\s+thing(?![\\w'])",
+  "replacements": [
+   "quick question"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_527",
+  "pattern": "\\bno\\?$(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Tag 'no?' at the end of statements isn't used in British English; use 'isn't it?' or drop it."
+ },
+ {
+  "id": "rr_528",
+  "pattern": "\\bisn'?t\\s+it\\?(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Invariant 'isn't it?' tag — match the verb ('don't you?', 'won't they?') or drop it."
+ },
+ {
+  "id": "rr_529",
+  "pattern": "\\bonly\\s+(itself|myself)(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_530",
+  "pattern": "\\bitself\\s+only(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Emphatic 'only/itself' doesn't carry over into British English."
+ },
+ {
+  "id": "rr_531",
+  "pattern": "\\bgood\\s+name(?![\\w'])",
+  "replacements": [
+   "name"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_532",
+  "pattern": "\\bpass(ed)?\\s+out\\s+year(?![\\w'])",
+  "replacements": [
+   "graduation year"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_533",
+  "pattern": "\\bkindly\\s+adjust(?![\\w'])",
+  "replacements": [
+   "please bear with us"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_534",
+  "pattern": "\\bopen\\s+the\\s+light(?![\\w'])",
+  "replacements": [
+   "turn on the light"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_535",
+  "pattern": "\\bclose\\s+the\\s+light(?![\\w'])",
+  "replacements": [
+   "turn off the light"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_536",
+  "pattern": "\\bi\\s+will\\s+be\\s+reaching(?![\\w'])",
+  "replacements": [
+   "I'll arrive"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_537",
+  "pattern": "\\bwe\\s+are\\s+reaching(?![\\w'])",
+  "replacements": [
+   "we'll arrive"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_538",
+  "pattern": "\\bon\\s+priority(\\s+basis)?(?![\\w'])",
+  "replacements": [
+   "as a priority"
+  ],
+  "category": "indianism",
+  "severity": "minor",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_539",
+  "pattern": "\\bwith\\s+immediate\\s+effect(?![\\w'])",
+  "replacements": [
+   "immediately"
+  ],
+  "category": "indianism",
+  "severity": "minor",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_540",
+  "pattern": "\\bat\\s+your\\s+earliest\\s+convenience(?![\\w'])",
+  "replacements": [
+   "when you can"
+  ],
+  "category": "indianism",
+  "severity": "minor",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_541",
+  "pattern": "\\bwe\\s+are\\s+planning\\s+to\\s+prepone(?![\\w'])",
+  "replacements": [
+   "we're planning to bring forward"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_542",
+  "pattern": "\\bkindly\\s+let\\s+me\\s+know(?![\\w'])",
+  "replacements": [
+   "let me know"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_543",
+  "pattern": "\\blet\\s+me\\s+know\\s+the\\s+same(?![\\w'])",
+  "replacements": [
+   "let me know"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_544",
+  "pattern": "\\btell\\s+me\\s+(the\\s+)?same(?![\\w'])",
+  "replacements": [
+   "let me know"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "Indian-English usage that reads oddly to British listeners."
+ },
+ {
+  "id": "rr_545",
+  "pattern": "\\btoday\\s+(morning|afternoon|evening)(?![\\w'])",
+  "replacements": [
+   "this $1"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "UK English says 'this morning', not 'today morning'."
+ },
+ {
+  "id": "rr_546",
+  "pattern": "\\btoday\\s+night(?![\\w'])",
+  "replacements": [
+   "tonight"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "'Tonight', not 'today night'."
+ },
+ {
+  "id": "rr_547",
+  "pattern": "\\byesterday\\s+night(?![\\w'])",
+  "replacements": [
+   "last night"
+  ],
+  "category": "indianism",
+  "severity": "critical",
+  "note": "'Last night', not 'yesterday night'."
+ },
+ {
+  "id": "rr_548",
+  "pattern": "\\b(he|she|it)\\s+is\\s+having\\s+(a\\s+)?(fever|cold|headache)(?![\\w'])",
+  "replacements": [
+   "$1 has a $3"
+  ],
+  "category": "indianism",
+  "severity": "minor",
+  "note": "Stative 'have' isn't used in the progressive in UK English."
+ },
+ {
+  "id": "rr_549",
+  "pattern": "\\b(i|we|they|you)\\s+(am|are)\\s+having\\s+(a\\s+)?(fever|cold|headache)(?![\\w'])",
+  "replacements": [
+   "$1 have a $4"
+  ],
+  "category": "indianism",
+  "severity": "minor",
+  "note": "Stative 'have' isn't used in the progressive in UK English."
+ },
+ {
+  "id": "rr_550",
+  "pattern": "\\btoo\\s+good(?!\\s+to)(?![\\w'])",
+  "replacements": [
+   "excellent"
+  ],
+  "category": "indianism",
+  "severity": "minor",
+  "note": "'Too good' means 'excessively good' in UK English."
+ },
+ {
+  "id": "rr_551",
+  "pattern": "\\bas\\s+far\\s+as\\s+(\\w+)\\s+(is|are)\\s+concerned(?![\\w'])",
+  "replacements": [
+   "on $1"
+  ],
+  "category": "scaffold",
+  "severity": "minor",
+  "note": "Shorter: 'On cost, …'."
+ },
+ {
+  "id": "rr_552",
+  "pattern": "\\bi\\s+think\\s+maybe(\\s+possibly)?(?![\\w'])",
+  "replacements": [
+   "perhaps"
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_553",
+  "pattern": "\\bmaybe\\s+possibly(?![\\w'])",
+  "replacements": [
+   "perhaps"
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_554",
+  "pattern": "\\bperhaps\\s+maybe(?![\\w'])",
+  "replacements": [
+   "perhaps"
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_555",
+  "pattern": "\\bi\\s+guess\\s+maybe(?![\\w'])",
+  "replacements": [
+   "perhaps"
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_556",
+  "pattern": "\\bi\\s+feel\\s+like\\s+i\\s+think(?![\\w'])",
+  "replacements": [
+   "I think"
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_557",
+  "pattern": "\\bi\\s+think\\s+i\\s+feel(?![\\w'])",
+  "replacements": [
+   "I think"
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_558",
+  "pattern": "\\bi\\s+was\\s+just\\s+wondering\\s+if\\s+maybe(?![\\w'])",
+  "replacements": [
+   "could"
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_559",
+  "pattern": "\\bi\\s+was\\s+wondering\\s+whether\\s+maybe(?![\\w'])",
+  "replacements": [
+   "could"
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_560",
+  "pattern": "\\bif\\s+it\\s+is\\s+possible,?\\s+(then\\s+)?(could|can)\\s+you(?![\\w'])",
+  "replacements": [
+   "could you"
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_561",
+  "pattern": "\\bis\\s+it\\s+possible\\s+(for\\s+you\\s+)?to(?![\\w'])",
+  "replacements": [
+   "could you"
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_562",
+  "pattern": "\\bwould\\s+it\\s+be\\s+possible\\s+(for\\s+you\\s+)?to(?![\\w'])",
+  "replacements": [
+   "could you"
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_563",
+  "pattern": "\\bi\\s+would\\s+like\\s+to\\s+request\\s+you\\s+to(?![\\w'])",
+  "replacements": [
+   "could you"
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_564",
+  "pattern": "\\bi\\s+request\\s+you\\s+to(?![\\w'])",
+  "replacements": [
+   "could you"
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_565",
+  "pattern": "\\bi\\s+wanted\\s+to\\s+ask\\s+(you\\s+)?(if|whether)(?![\\w'])",
+  "replacements": [
+   "could"
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_566",
+  "pattern": "\\bsort\\s+of\\s+kind\\s+of(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_567",
+  "pattern": "\\bkind\\s+of\\s+sort\\s+of(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_568",
+  "pattern": "\\ba\\s+little\\s+bit(?![\\w'])",
+  "replacements": [
+   "a bit"
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_569",
+  "pattern": "\\ba\\s+little\\s+bit\\s+of(?![\\w'])",
+  "replacements": [
+   "some"
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_570",
+  "pattern": "\\bsomewhat\\s+kind\\s+of(?![\\w'])",
+  "replacements": [
+   "somewhat"
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_571",
+  "pattern": "\\bmore\\s+or\\s+less\\s+kind\\s+of(?![\\w'])",
+  "replacements": [
+   "roughly"
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_572",
+  "pattern": "\\bi\\s+am\\s+not\\s+sure\\s+but\\s+i\\s+think(?![\\w'])",
+  "replacements": [
+   "I suspect"
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_573",
+  "pattern": "\\bi'?m\\s+not\\s+sure\\s+but\\s+i\\s+think(?![\\w'])",
+  "replacements": [
+   "I suspect"
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_574",
+  "pattern": "\\bi\\s+may\\s+be\\s+wrong\\s+but(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_575",
+  "pattern": "\\bcorrect\\s+me\\s+if\\s+i\\s+am\\s+wrong\\s+but(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_576",
+  "pattern": "\\bi\\s+don'?t\\s+know\\s+but(?![\\w'])",
+  "replacements": [
+   ""
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_577",
+  "pattern": "\\bjust\\s+a\\s+small(?![\\w'])",
+  "replacements": [
+   "a quick"
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_578",
+  "pattern": "\\bi\\s+think,?\\s+in\\s+my\\s+opinion(?![\\w'])",
+  "replacements": [
+   "I think"
+  ],
+  "category": "hedge",
+  "severity": "minor",
+  "note": "Stacked hedges sound unsure; one well-placed hedge is very British."
+ },
+ {
+  "id": "rr_579",
+  "pattern": "\\bso\\s+so\\s+much(?![\\w'])",
+  "replacements": [
+   "so much"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_580",
+  "pattern": "\\btoo\\s+much\\s+important(?![\\w'])",
+  "replacements": [
+   "very important"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_581",
+  "pattern": "\\bvery\\s+much\\s+important(?![\\w'])",
+  "replacements": [
+   "very important"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_582",
+  "pattern": "\\bvery\\s+important\\s+and\\s+crucial(?![\\w'])",
+  "replacements": [
+   "crucial"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_583",
+  "pattern": "\\bvery\\s+very\\s+important(?![\\w'])",
+  "replacements": [
+   "pivotal"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_584",
+  "pattern": "\\bextremely\\s+very(?![\\w'])",
+  "replacements": [
+   "extremely"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_585",
+  "pattern": "\\breally\\s+very(?![\\w'])",
+  "replacements": [
+   "very"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_586",
+  "pattern": "\\btotally\\s+completely(?![\\w'])",
+  "replacements": [
+   "completely"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_587",
+  "pattern": "\\bcompletely\\s+and\\s+totally(?![\\w'])",
+  "replacements": [
+   "completely"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_588",
+  "pattern": "\\babsolutely\\s+and\\s+completely(?![\\w'])",
+  "replacements": [
+   "completely"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_589",
+  "pattern": "\\bvery\\s+excellent(?![\\w'])",
+  "replacements": [
+   "excellent"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_590",
+  "pattern": "\\bvery\\s+perfect(?![\\w'])",
+  "replacements": [
+   "perfect"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_591",
+  "pattern": "\\bvery\\s+essential(?![\\w'])",
+  "replacements": [
+   "essential"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_592",
+  "pattern": "\\bvery\\s+critical(?![\\w'])",
+  "replacements": [
+   "critical"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_593",
+  "pattern": "\\bvery\\s+fantastic(?![\\w'])",
+  "replacements": [
+   "fantastic"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_594",
+  "pattern": "\\bvery\\s+huge(?![\\w'])",
+  "replacements": [
+   "huge"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_595",
+  "pattern": "\\bvery\\s+tiny(?![\\w'])",
+  "replacements": [
+   "tiny"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_596",
+  "pattern": "\\bvery\\s+massive(?![\\w'])",
+  "replacements": [
+   "massive"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_597",
+  "pattern": "\\bmost\\s+(optimal|ideal|unique|perfect)(?![\\w'])",
+  "replacements": [
+   "$1"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_598",
+  "pattern": "\\bmore\\s+better(?![\\w'])",
+  "replacements": [
+   "better"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_599",
+  "pattern": "\\bmore\\s+worse(?![\\w'])",
+  "replacements": [
+   "worse"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_600",
+  "pattern": "\\bmost\\s+best(?![\\w'])",
+  "replacements": [
+   "best"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_601",
+  "pattern": "\\bvery\\s+very\\s+big(?![\\w'])",
+  "replacements": [
+   "huge"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_602",
+  "pattern": "\\bvery\\s+very\\s+small(?![\\w'])",
+  "replacements": [
+   "tiny"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_603",
+  "pattern": "\\bvery\\s+very\\s+good(?![\\w'])",
+  "replacements": [
+   "excellent"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_604",
+  "pattern": "\\bvery\\s+very\\s+bad(?![\\w'])",
+  "replacements": [
+   "dreadful"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_605",
+  "pattern": "\\bvery\\s+very\\s+tired(?![\\w'])",
+  "replacements": [
+   "exhausted"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_606",
+  "pattern": "\\bvery\\s+very\\s+happy(?![\\w'])",
+  "replacements": [
+   "delighted"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_607",
+  "pattern": "\\bvery\\s+very\\s+sad(?![\\w'])",
+  "replacements": [
+   "devastated"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_608",
+  "pattern": "\\bvery\\s+very\\s+fast(?![\\w'])",
+  "replacements": [
+   "rapid"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_609",
+  "pattern": "\\bvery\\s+very\\s+difficult(?![\\w'])",
+  "replacements": [
+   "tough"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_610",
+  "pattern": "\\bvery\\s+very\\s+easy(?![\\w'])",
+  "replacements": [
+   "straightforward"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_611",
+  "pattern": "\\bvery\\s+very\\s+busy(?![\\w'])",
+  "replacements": [
+   "swamped"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_612",
+  "pattern": "\\bvery\\s+very\\s+angry(?![\\w'])",
+  "replacements": [
+   "furious"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_613",
+  "pattern": "\\bvery\\s+very\\s+surprised(?![\\w'])",
+  "replacements": [
+   "astonished"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_614",
+  "pattern": "\\bvery\\s+very\\s+interesting(?![\\w'])",
+  "replacements": [
+   "fascinating"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ },
+ {
+  "id": "rr_615",
+  "pattern": "\\bvery\\s+very\\s+old(?![\\w'])",
+  "replacements": [
+   "ancient"
+  ],
+  "category": "intensifier",
+  "severity": "minor",
+  "note": "Stacked intensifiers — pick one precise word instead."
+ }
+]

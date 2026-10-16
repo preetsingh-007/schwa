@@ -1,0 +1,3085 @@
+[
+ {
+  "id": "lex_untenable_01",
+  "headword": "untenable",
+  "ipa_rp": "/ʌnˈten.ə.bəl/",
+  "syllable_stress": "un-TEN-uh-buhl",
+  "audio_uri": null,
+  "phonetic_trap": "Keep the first vowel short central /ʌ/, crisp alveolar /t/ on the stressed second syllable, and crush the third syllable to a schwa /ə/.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "Used to describe a position, argument, schedule, or architectural design that cannot be defended or maintained in the long run.",
+  "pragmatic_note": "In British professional culture, calling a proposal 'untenable' is a firm, intellectually rigorous way to reject it without sounding emotional.",
+  "replaces_verbose": [
+   "not able to be continued anymore because of too many problems",
+   "impossible to defend or keep doing in the future"
+  ],
+  "collocations": [
+   "untenable position",
+   "increasingly untenable",
+   "render untenable"
+  ],
+  "examples_rp": [
+   {
+    "text": "Maintaining two separate codebases has become untenable.",
+    "ipa_connected": "/meɪntˈeɪnɪŋ tˈuː sˈeprət kˈəʊdbeɪsɪz hˈæz bɪkˈʌm ʌntˈenəbəl/"
+   },
+   {
+    "text": "That position is untenable once the audit lands.",
+    "ipa_connected": "/ðˈæt pəzˈɪʃən ˈɪz ʌntˈenəbəl wˈʌns ðɪ ˈɔːdɪt lˈændz/"
+   }
+  ],
+  "phonemes": [
+   "ʌ",
+   "n",
+   "t",
+   "e",
+   "ə",
+   "b",
+   "l"
+  ]
+ },
+ {
+  "id": "lex_crux_01",
+  "headword": "crux",
+  "ipa_rp": "/krʌks/",
+  "syllable_stress": "KRUKS",
+  "audio_uri": null,
+  "phonetic_trap": "Short open-mid /ʌ/ (STRUT), not /ɑː/ or /ɒ/. The /r/ is an approximant — no tap.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "The single most important or difficult point of a problem or argument.",
+  "pragmatic_note": "'The crux of the issue is…' signals you have cut through detail to the essential point — an executive move.",
+  "replaces_verbose": [
+   "actually what I am trying to say is that the main problem is",
+   "the most important thing that we need to understand is"
+  ],
+  "collocations": [
+   "the crux of the issue",
+   "the crux of the matter",
+   "the crux of the argument"
+  ],
+  "examples_rp": [
+   {
+    "text": "The crux of the issue is data quality, not tooling.",
+    "ipa_connected": "/ðə krˈʌks əv ðɪ ˈɪʃuː ˈɪz dˈeɪtə kwˈɒlɪtɪ nˈɒt tˈuːlɪŋ/"
+   }
+  ],
+  "phonemes": [
+   "k",
+   "r",
+   "ʌ",
+   "s"
+  ]
+ },
+ {
+  "id": "lex_bottleneck_01",
+  "headword": "bottleneck",
+  "ipa_rp": "/ˈbɒt.əl.nek/",
+  "syllable_stress": "BOT-uhl-nek",
+  "audio_uri": null,
+  "phonetic_trap": "LOT vowel /ɒ/ — short and lightly rounded. Glottalise or crisply release the /t/; never retroflex [ʈ].",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "The one stage that limits the throughput of a whole process.",
+  "pragmatic_note": "Neutral, analytical and blame-free: it names the constraint rather than a person.",
+  "replaces_verbose": [
+   "the main thing that is slowing everything down",
+   "the place where everything gets stuck and delayed"
+  ],
+  "collocations": [
+   "the main bottleneck",
+   "remove a bottleneck",
+   "a bottleneck in the pipeline"
+  ],
+  "examples_rp": [
+   {
+    "text": "Code review is the bottleneck, so let's add a second reviewer.",
+    "ipa_connected": "/kˈəʊd rɪvjˈuː ˈɪz ðə bˈɒtəlnˌek sˈəʊ lˈets ˈæd ə sˈekənd rɪvjˈuːə/"
+   }
+  ],
+  "forms": [
+   "bottlenecks"
+  ],
+  "phonemes": [
+   "b",
+   "ɒ",
+   "t",
+   "ə",
+   "l",
+   "n",
+   "e",
+   "k"
+  ]
+ },
+ {
+  "id": "lex_mitigate_01",
+  "headword": "mitigate",
+  "ipa_rp": "/ˈmɪt.ɪ.ɡeɪt/",
+  "syllable_stress": "MIT-ih-gayt",
+  "audio_uri": null,
+  "phonetic_trap": "Full FACE glide /eɪ/ in the final syllable — not a flat [eː]. Alveolar /t/ in the middle.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "To make a risk, impact or harm less severe.",
+  "pragmatic_note": "Pairs naturally with 'risk' and 'impact'. Sounds measured and responsible in risk discussions.",
+  "replaces_verbose": [
+   "reduce the bad effects of the problem as much as possible",
+   "try to make the damage smaller"
+  ],
+  "collocations": [
+   "mitigate the risk",
+   "mitigating factors",
+   "risk mitigation"
+  ],
+  "examples_rp": [
+   {
+    "text": "We can mitigate the risk with a phased rollout.",
+    "ipa_connected": "/wˈiː kən mˈɪtɪɡˌeɪt ðə rˈɪsk wˈɪð ə fˈeɪzd rˈəʊlaʊt/"
+   }
+  ],
+  "forms": [
+   "mitigating",
+   "mitigated",
+   "mitigation"
+  ],
+  "phonemes": [
+   "m",
+   "ɪ",
+   "t",
+   "ɡ",
+   "eɪ"
+  ]
+ },
+ {
+  "id": "lex_caveat_01",
+  "headword": "caveat",
+  "ipa_rp": "/ˈkæv.i.æt/",
+  "syllable_stress": "KAV-ee-at",
+  "audio_uri": null,
+  "phonetic_trap": "TRAP /æ/ in both the first and last syllables; labiodental /v/ with audible friction — not [ʋ].",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "A warning or condition attached to a statement or agreement.",
+  "pragmatic_note": "'With one caveat…' lets you agree while protecting yourself — classic British hedged agreement.",
+  "replaces_verbose": [
+   "but there is one small condition that we have to keep in mind",
+   "there is one warning I want to add"
+  ],
+  "collocations": [
+   "one caveat",
+   "with the caveat that",
+   "add a caveat"
+  ],
+  "examples_rp": [
+   {
+    "text": "I agree, with one caveat: the budget is provisional.",
+    "ipa_connected": "/ˈaɪ əɡrˈiː wˈɪð wˈɒn kˈævɪˌæt ðə bˈʌdʒɪt ˈɪz prəvˈɪʒənəl/"
+   }
+  ],
+  "forms": [
+   "caveats"
+  ],
+  "phonemes": [
+   "k",
+   "æ",
+   "v",
+   "ɪ",
+   "t"
+  ]
+ },
+ {
+  "id": "lex_bespoke_01",
+  "headword": "bespoke",
+  "ipa_rp": "/bɪˈspəʊk/",
+  "syllable_stress": "bih-SPOHK",
+  "audio_uri": null,
+  "phonetic_trap": "GOAT diphthong /əʊ/ — start central and glide; never [oː]. Weak first syllable /bɪ/.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "Made or designed for a particular client or purpose.",
+  "pragmatic_note": "Distinctly British (tailoring origin). In tech it means 'custom-built', often with a hint of 'expensive to maintain'.",
+  "replaces_verbose": [
+   "specially made only for this particular customer",
+   "custom made according to the requirement of the client"
+  ],
+  "collocations": [
+   "bespoke solution",
+   "bespoke software",
+   "bespoke tailoring"
+  ],
+  "examples_rp": [
+   {
+    "text": "We'd rather avoid a bespoke solution here.",
+    "ipa_connected": "/wˈiːd rˈɑːðər əvˈɔɪd ə bɪspˈəʊk səlˈuːʃən hˈɪə/"
+   }
+  ],
+  "phonemes": [
+   "b",
+   "ɪ",
+   "s",
+   "p",
+   "əʊ",
+   "k"
+  ]
+ },
+ {
+  "id": "lex_pivotal_01",
+  "headword": "pivotal",
+  "ipa_rp": "/ˈpɪv.ə.təl/",
+  "syllable_stress": "PIV-uh-tuhl",
+  "audio_uri": null,
+  "phonetic_trap": "Labiodental /v/ (teeth on lip), schwa in the second syllable, syllabic final /təl/.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "Of crucial importance; the point on which everything turns.",
+  "pragmatic_note": "Stronger and more precise than \"very important\"; keep it for genuine turning points.",
+  "replaces_verbose": [
+   "very very important for everything else",
+   "the most important turning point"
+  ],
+  "collocations": [
+   "a pivotal role",
+   "a pivotal moment",
+   "pivotal to the outcome"
+  ],
+  "examples_rp": [
+   {
+    "text": "Her analysis was pivotal to the decision.",
+    "ipa_connected": "/hər ənˈæləsˌɪs wəz pˈɪvətəl tə ðə dɪsˈɪʒən/"
+   }
+  ],
+  "phonemes": [
+   "p",
+   "ɪ",
+   "v",
+   "ə",
+   "t",
+   "l"
+  ]
+ },
+ {
+  "id": "lex_streamline_01",
+  "headword": "streamline",
+  "ipa_rp": "/ˈstriːm.laɪn/",
+  "syllable_stress": "STREEM-lyne",
+  "audio_uri": null,
+  "phonetic_trap": "Long FLEECE /iː/; the /str/ cluster has an approximant /r/, no epenthetic vowel (\"i-stream\").",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "To make a process simpler and more efficient.",
+  "pragmatic_note": "Positive, change-friendly verb; avoids implying anyone was doing it badly.",
+  "replaces_verbose": [
+   "make the whole process more simple and easy and fast",
+   "remove the unnecessary steps from the process"
+  ],
+  "collocations": [
+   "streamline the process",
+   "a streamlined workflow",
+   "streamline approvals"
+  ],
+  "examples_rp": [
+   {
+    "text": "Let's streamline the approval process.",
+    "ipa_connected": "/lˈets strˈiːmlaɪn ðɪ əprˈuːvəl prˈəʊses/"
+   }
+  ],
+  "forms": [
+   "streamlining",
+   "streamlined"
+  ],
+  "phonemes": [
+   "s",
+   "t",
+   "r",
+   "iː",
+   "m",
+   "l",
+   "aɪ",
+   "n"
+  ]
+ },
+ {
+  "id": "lex_viable_01",
+  "headword": "viable",
+  "ipa_rp": "/ˈvaɪ.ə.bəl/",
+  "syllable_stress": "VY-uh-buhl",
+  "audio_uri": null,
+  "phonetic_trap": "Labiodental /v/ — teeth on lip, audible buzz. Three syllables: /ˈvaɪ.ə.bəl/.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "Capable of working successfully; realistic.",
+  "pragmatic_note": "'Is that viable?' is a polite, analytical challenge — far softer than 'that won't work'.",
+  "replaces_verbose": [
+   "something that can actually work in practice",
+   "possible to do successfully"
+  ],
+  "collocations": [
+   "a viable option",
+   "commercially viable",
+   "a viable alternative"
+  ],
+  "examples_rp": [
+   {
+    "text": "Is a phased approach viable given the deadline?",
+    "ipa_connected": "/ˈɪz ə fˈeɪzd əprˈəʊtʃ vˈaɪəbəl ɡˈɪvən ðə dˈedlaɪn/"
+   }
+  ],
+  "forms": [
+   "viability"
+  ],
+  "phonemes": [
+   "v",
+   "aɪ",
+   "ə",
+   "b",
+   "l"
+  ]
+ },
+ {
+  "id": "lex_overhaul_01",
+  "headword": "overhaul",
+  "ipa_rp": "/ˈəʊ.və.hɔːl/",
+  "syllable_stress": "OH-vuh-hawl",
+  "audio_uri": null,
+  "phonetic_trap": "GOAT /əʊ/ glide at the start, non-rhotic /və/ (no /r/), long THOUGHT /ɔː/ — lips rounded.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "A thorough examination and repair, or a complete restructuring.",
+  "pragmatic_note": "Signals ambition; 'a complete overhaul' implies the current system is beyond patching.",
+  "replaces_verbose": [
+   "change the whole thing completely from the beginning",
+   "completely redo and repair everything"
+  ],
+  "collocations": [
+   "a complete overhaul",
+   "overhaul the process",
+   "in need of an overhaul"
+  ],
+  "examples_rp": [
+   {
+    "text": "The onboarding process needs a complete overhaul.",
+    "ipa_connected": "/ðɪ ˈɒnbɔːdɪŋ prˈəʊses nˈiːdz ə kəmplˈiːt ˌəʊvəhˈɔːl/"
+   }
+  ],
+  "forms": [
+   "overhauled",
+   "overhauling"
+  ],
+  "phonemes": [
+   "əʊ",
+   "v",
+   "ə",
+   "h",
+   "ɔː",
+   "l"
+  ]
+ },
+ {
+  "id": "lex_robust_01",
+  "headword": "robust",
+  "ipa_rp": "/rəʊˈbʌst/",
+  "syllable_stress": "roh-BUST",
+  "audio_uri": null,
+  "phonetic_trap": "GOAT /əʊ/ in the unstressed first syllable is acceptable in RP (also /rə-/); stress the second.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "Strong, resilient and unlikely to fail.",
+  "pragmatic_note": "Widely used in engineering, finance and policy. 'A robust case' = a well-evidenced argument.",
+  "replaces_verbose": [
+   "strong and will not break easily even if there are problems",
+   "very strong and reliable"
+  ],
+  "collocations": [
+   "a robust case",
+   "robust evidence",
+   "robust testing"
+  ],
+  "examples_rp": [
+   {
+    "text": "We need more robust testing before launch.",
+    "ipa_connected": "/wˈiː nˈiːd mˈɔː rəʊbˈʌst tˈestɪŋ bɪfˈɔː lˈɔːntʃ/"
+   }
+  ],
+  "phonemes": [
+   "r",
+   "əʊ",
+   "b",
+   "ʌ",
+   "s",
+   "t"
+  ]
+ },
+ {
+  "id": "lex_contingency_01",
+  "headword": "contingency",
+  "ipa_rp": "/kənˈtɪn.dʒən.si/",
+  "syllable_stress": "kuhn-TIN-juhn-see",
+  "audio_uri": null,
+  "phonetic_trap": "Weak first syllable /kən/ — not /kɒn/. Stress on TIN; /dʒ/ is a single affricate.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "A provision for a possible future event, especially a problem.",
+  "pragmatic_note": "'Contingency' sounds prepared rather than pessimistic.",
+  "replaces_verbose": [
+   "a backup plan in case something goes wrong",
+   "extra plan if the first plan fails"
+  ],
+  "collocations": [
+   "a contingency plan",
+   "contingency budget",
+   "build in contingency"
+  ],
+  "examples_rp": [
+   {
+    "text": "We've built in two weeks of contingency.",
+    "ipa_connected": "/wˈiːv bˈɪlt ˈɪn tˈuː wˈiːks əv kəntˈɪndʒənsɪ/"
+   }
+  ],
+  "phonemes": [
+   "k",
+   "ə",
+   "n",
+   "t",
+   "ɪ",
+   "dʒ",
+   "s"
+  ]
+ },
+ {
+  "id": "lex_prioritise_01",
+  "headword": "prioritise",
+  "ipa_rp": "/praɪˈɒr.ɪ.taɪz/",
+  "syllable_stress": "pry-ORR-ih-tyze",
+  "audio_uri": null,
+  "phonetic_trap": "British spelling and stress: /praɪˈɒr.ɪ.taɪz/ with LOT /ɒ/ — the /r/ is pronounced because a vowel follows.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "To decide the order of importance of tasks.",
+  "pragmatic_note": "'Let's prioritise X' is a constructive way to push something else down the list without saying no.",
+  "replaces_verbose": [
+   "decide which work is more important and do that first",
+   "give more importance to this task than others"
+  ],
+  "collocations": [
+   "prioritise the backlog",
+   "ruthlessly prioritise",
+   "a clear set of priorities"
+  ],
+  "examples_rp": [
+   {
+    "text": "Let's prioritise the security fixes.",
+    "ipa_connected": "/lˈets praɪˈɒrɪtˌaɪz ðə sɪkjˈɔːrɪtɪ fˈɪksɪz/"
+   }
+  ],
+  "forms": [
+   "prioritising",
+   "prioritised",
+   "prioritize",
+   "priorities"
+  ],
+  "phonemes": [
+   "p",
+   "r",
+   "aɪ",
+   "ɒ",
+   "ɪ",
+   "t",
+   "z"
+  ]
+ },
+ {
+  "id": "lex_consolidate_01",
+  "headword": "consolidate",
+  "ipa_rp": "/kənˈsɒl.ɪ.deɪt/",
+  "syllable_stress": "kuhn-SOL-ih-dayt",
+  "audio_uri": null,
+  "phonetic_trap": "Weak /kən/; stressed LOT /ɒ/; final FACE /eɪ/ glide.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "To combine several things into a single, more effective whole; to strengthen a position.",
+  "pragmatic_note": "Useful for merging tools, teams or budgets without implying anyone loses out.",
+  "replaces_verbose": [
+   "combine all these different things together into one",
+   "merge everything together into a single one"
+  ],
+  "collocations": [
+   "consolidate our position",
+   "consolidate the tooling",
+   "a period of consolidation"
+  ],
+  "examples_rp": [
+   {
+    "text": "We should consolidate the three dashboards into one.",
+    "ipa_connected": "/wˈiː ʃəd kənsˈɒlɪdˌeɪt ðə θrˈiː dˈæʃbɔːdz ˈɪntʊ wˈɒn/"
+   }
+  ],
+  "forms": [
+   "consolidating",
+   "consolidated",
+   "consolidation"
+  ],
+  "phonemes": [
+   "k",
+   "ə",
+   "n",
+   "s",
+   "ɒ",
+   "l",
+   "ɪ",
+   "d",
+   "eɪ",
+   "t"
+  ]
+ },
+ {
+  "id": "lex_substantiate_01",
+  "headword": "substantiate",
+  "ipa_rp": "/səbˈstæn.ʃi.eɪt/",
+  "syllable_stress": "suhb-STAN-shee-ayt",
+  "audio_uri": null,
+  "phonetic_trap": "Weak /səb/; TRAP /æ/ under stress; final FACE /eɪ/.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "To provide evidence that proves a claim.",
+  "pragmatic_note": "'Can we substantiate that?' challenges a claim politely by asking for evidence.",
+  "replaces_verbose": [
+   "give proof that what we are saying is actually true",
+   "show evidence for the claim"
+  ],
+  "collocations": [
+   "substantiate the claim",
+   "unsubstantiated rumours"
+  ],
+  "examples_rp": [
+   {
+    "text": "Can we substantiate that figure before we share it?",
+    "ipa_connected": "/kən wˈiː səbstˈænʃɪˌeɪt ðˈæt fˈɪɡə bɪfˈɔː wˈiː ʃˈeər ˈɪt/"
+   }
+  ],
+  "forms": [
+   "substantiated",
+   "unsubstantiated"
+  ],
+  "phonemes": [
+   "s",
+   "ə",
+   "b",
+   "t",
+   "æ",
+   "n",
+   "ʃ",
+   "ɪ",
+   "eɪ"
+  ]
+ },
+ {
+  "id": "lex_salient_01",
+  "headword": "salient",
+  "ipa_rp": "/ˈseɪ.li.ənt/",
+  "syllable_stress": "SAY-lee-uhnt",
+  "audio_uri": null,
+  "phonetic_trap": "FACE /eɪ/ glide in the first syllable; three syllables, final schwa.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "Most noticeable or important.",
+  "pragmatic_note": "'The salient points' is a crisp way to summarise in meetings.",
+  "replaces_verbose": [
+   "the most important points that we should notice",
+   "the main noticeable things"
+  ],
+  "collocations": [
+   "the salient points",
+   "a salient feature"
+  ],
+  "examples_rp": [
+   {
+    "text": "Let me run through the salient points.",
+    "ipa_connected": "/lˈet mˈiː rˈʌn θrˈuː ðə sˈeɪlɪənt pˈɔɪnts/"
+   }
+  ],
+  "phonemes": [
+   "s",
+   "eɪ",
+   "l",
+   "ɪə",
+   "n",
+   "t"
+  ]
+ },
+ {
+  "id": "lex_pragmatic_01",
+  "headword": "pragmatic",
+  "ipa_rp": "/præɡˈmæt.ɪk/",
+  "syllable_stress": "prag-MAT-ik",
+  "audio_uri": null,
+  "phonetic_trap": "Two TRAP /æ/ vowels; crisp alveolar /t/ (or a tap would sound American).",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "Dealing with things sensibly and realistically.",
+  "pragmatic_note": "Framing your proposal as 'the pragmatic option' makes alternatives sound idealistic.",
+  "replaces_verbose": [
+   "practical and realistic and not too theoretical",
+   "sensible way of doing it in real life"
+  ],
+  "collocations": [
+   "a pragmatic approach",
+   "a pragmatic compromise"
+  ],
+  "examples_rp": [
+   {
+    "text": "The pragmatic approach is to ship the smaller fix first.",
+    "ipa_connected": "/ðə præɡmˈætɪk əprˈəʊtʃ ˈɪz tə ʃˈɪp ðə smˈɔːlə fˈɪks fˈɜːst/"
+   }
+  ],
+  "forms": [
+   "pragmatically",
+   "pragmatism"
+  ],
+  "phonemes": [
+   "p",
+   "r",
+   "æ",
+   "ɡ",
+   "m",
+   "t",
+   "ɪ",
+   "k"
+  ]
+ },
+ {
+  "id": "lex_nuance_01",
+  "headword": "nuance",
+  "ipa_rp": "/ˈnjuː.ɑːns/",
+  "syllable_stress": "NYOO-ahns",
+  "audio_uri": null,
+  "phonetic_trap": "RP keeps yod: /njuː/. Long BATH-type /ɑː/ in the second syllable.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "A subtle difference in meaning, expression or sound.",
+  "pragmatic_note": "'There's a nuance here' slows a discussion down without contradicting anyone.",
+  "replaces_verbose": [
+   "a small small difference which is not very obvious",
+   "subtle difference in meaning"
+  ],
+  "collocations": [
+   "a subtle nuance",
+   "nuanced view",
+   "the nuances of"
+  ],
+  "examples_rp": [
+   {
+    "text": "There's a nuance here that the summary misses.",
+    "ipa_connected": "/ðˈeəz ə njˈuːɑːns hˈɪə ðˈæt ðə sˈʌmərɪ mˈɪsɪz/"
+   }
+  ],
+  "forms": [
+   "nuanced",
+   "nuances"
+  ],
+  "phonemes": [
+   "n",
+   "j",
+   "uː",
+   "ɑː",
+   "s"
+  ]
+ },
+ {
+  "id": "lex_at_capacity_01",
+  "headword": "at capacity",
+  "ipa_rp": "/ət kəˈpæs.ə.ti/",
+  "syllable_stress": "uht kuh-PAS-uh-tee",
+  "audio_uri": null,
+  "phonetic_trap": "Crush \"at\" to /ət/ and the first syllable of capacity to /kə/; stress PAS with TRAP /æ/.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "Fully occupied; unable to take on more work.",
+  "pragmatic_note": "'I'm at capacity' declines extra work factually rather than emotionally.",
+  "replaces_verbose": [
+   "my schedule is completely full because of too much work",
+   "I have no time left to take any more work"
+  ],
+  "collocations": [
+   "at full capacity",
+   "running at capacity",
+   "over capacity"
+  ],
+  "examples_rp": [
+   {
+    "text": "I'm at capacity this sprint, so it would have to wait.",
+    "ipa_connected": "/ˈaɪm ət kəpˈæsɪtɪ ðˈɪs sprˈɪnt sˈəʊ ˈɪt wəd hˈæv tə wˈeɪt/"
+   }
+  ],
+  "forms": [
+   "capacity"
+  ],
+  "phonemes": [
+   "ə",
+   "t",
+   "k",
+   "p",
+   "æ",
+   "s",
+   "ɪ"
+  ]
+ },
+ {
+  "id": "lex_action_01",
+  "headword": "action",
+  "ipa_rp": "/ˈæk.ʃən/",
+  "syllable_stress": "AK-shuhn",
+  "audio_uri": null,
+  "phonetic_trap": "TRAP /æ/; final syllable reduced to /ʃən/.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "As a verb: to take the necessary steps to deal with something.",
+  "pragmatic_note": "Modern UK office verb: 'Could you action this?' — the natural replacement for 'do the needful'.",
+  "replaces_verbose": [
+   "please do the needful",
+   "take the necessary steps and do what is required"
+  ],
+  "collocations": [
+   "action this",
+   "action points",
+   "actioned"
+  ],
+  "examples_rp": [
+   {
+    "text": "Could you action this by Friday and keep me posted?",
+    "ipa_connected": "/kəd jˈuː ˈækʃən ðˈɪs bˈaɪ frˈaɪdeɪ ən kˈiːp mˈiː pˈəʊstɪd/"
+   }
+  ],
+  "forms": [
+   "actioned",
+   "actioning"
+  ],
+  "phonemes": [
+   "æ",
+   "k",
+   "ʃ",
+   "ə",
+   "n"
+  ]
+ },
+ {
+  "id": "lex_escalate_01",
+  "headword": "escalate",
+  "ipa_rp": "/ˈes.kə.leɪt/",
+  "syllable_stress": "ES-kuh-layt",
+  "audio_uri": null,
+  "phonetic_trap": "Schwa in the middle syllable; final FACE /eɪ/ — not [eː].",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "To raise an issue to a higher level of authority; or to increase in intensity.",
+  "pragmatic_note": "'I'll escalate this' is neutral process language, not a threat, in UK workplaces.",
+  "replaces_verbose": [
+   "take this problem to the higher management people",
+   "inform the senior people about the problem"
+  ],
+  "collocations": [
+   "escalate the issue",
+   "an escalation path"
+  ],
+  "examples_rp": [
+   {
+    "text": "If it isn't resolved by noon, I'll escalate it.",
+    "ipa_connected": "/ˈɪf ˈɪt ˈɪzənt rɪzˈɒlvd bˈaɪ nˈuːn ˈaɪl ˈeskəlˌeɪt ˈɪt/"
+   }
+  ],
+  "forms": [
+   "escalated",
+   "escalating",
+   "escalation"
+  ],
+  "phonemes": [
+   "e",
+   "s",
+   "k",
+   "ə",
+   "l",
+   "eɪ",
+   "t"
+  ]
+ },
+ {
+  "id": "lex_flag_01",
+  "headword": "flag up",
+  "ipa_rp": "/flæɡ ʌp/",
+  "syllable_stress": "FLAG UP",
+  "audio_uri": null,
+  "phonetic_trap": "TRAP /æ/; link the /ɡ/ straight into \"up\" — /flæ.ɡʌp/.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "To draw attention to something, typically a risk.",
+  "pragmatic_note": "'Just to flag…' is the standard British way of raising a concern lightly.",
+  "replaces_verbose": [
+   "I want to bring to your notice that",
+   "I wanted to inform you about one issue"
+  ],
+  "collocations": [
+   "flag up a risk",
+   "just to flag",
+   "flagged it"
+  ],
+  "examples_rp": [
+   {
+    "text": "Just to flag: the vendor contract expires in May.",
+    "ipa_connected": "/dʒˈʌst tə flˈæɡ ðə vˈendə kˈɒntrækt ɪkspˈaɪəz ˈɪn mˈeɪ/"
+   }
+  ],
+  "forms": [
+   "flag",
+   "flagged",
+   "flagging"
+  ],
+  "phonemes": [
+   "f",
+   "l",
+   "æ",
+   "ɡ",
+   "ʌ",
+   "p"
+  ]
+ },
+ {
+  "id": "lex_proviso_01",
+  "headword": "proviso",
+  "ipa_rp": "/prəˈvaɪ.zəʊ/",
+  "syllable_stress": "pruh-VY-zoh",
+  "audio_uri": null,
+  "phonetic_trap": "Weak /prə/; /v/ with teeth contact; final GOAT /əʊ/ glide.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "A condition attached to an agreement.",
+  "pragmatic_note": "More formal than 'caveat'; common in legal and board settings.",
+  "replaces_verbose": [
+   "on the condition that this one thing is also done",
+   "only if this condition is met"
+  ],
+  "collocations": [
+   "with the proviso that",
+   "on the proviso that"
+  ],
+  "examples_rp": [
+   {
+    "text": "We agreed, with the proviso that legal signs it off.",
+    "ipa_connected": "/wˈiː əɡrˈiːd wˈɪð ðə prəvˈaɪzəʊ ðˈæt lˈiːɡəl sˈaɪnz ˈɪt ˈɒf/"
+   }
+  ],
+  "phonemes": [
+   "p",
+   "r",
+   "ə",
+   "v",
+   "aɪ",
+   "z",
+   "əʊ"
+  ]
+ },
+ {
+  "id": "lex_prudent_01",
+  "headword": "prudent",
+  "ipa_rp": "/ˈpruː.dənt/",
+  "syllable_stress": "PROO-duhnt",
+  "audio_uri": null,
+  "phonetic_trap": "Long GOOSE /uː/; schwa in the second syllable; alveolar /d/.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "Acting with care and thought for the future.",
+  "pragmatic_note": "'It would be prudent to…' recommends caution without sounding fearful.",
+  "replaces_verbose": [
+   "it will be wise and careful to do this",
+   "better to be careful and safe"
+  ],
+  "collocations": [
+   "it would be prudent to",
+   "a prudent approach"
+  ],
+  "examples_rp": [
+   {
+    "text": "It would be prudent to wait for the audit.",
+    "ipa_connected": "/ˈɪt wəd bˈiː prˈuːdənt tə wˈeɪt fə ðɪ ˈɔːdɪt/"
+   }
+  ],
+  "forms": [
+   "prudence"
+  ],
+  "phonemes": [
+   "p",
+   "r",
+   "uː",
+   "d",
+   "ə",
+   "n",
+   "t"
+  ]
+ },
+ {
+  "id": "lex_tangible_01",
+  "headword": "tangible",
+  "ipa_rp": "/ˈtæn.dʒə.bəl/",
+  "syllable_stress": "TAN-juh-buhl",
+  "audio_uri": null,
+  "phonetic_trap": "TRAP /æ/ under stress; middle syllable crushed to /dʒə/.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "Clear and definite; real rather than imagined.",
+  "pragmatic_note": "Executives love 'tangible results'; it anchors abstract talk.",
+  "replaces_verbose": [
+   "something real that we can actually see and measure",
+   "concrete visible results"
+  ],
+  "collocations": [
+   "tangible results",
+   "tangible benefits",
+   "tangible progress"
+  ],
+  "examples_rp": [
+   {
+    "text": "We need tangible results by the end of the quarter.",
+    "ipa_connected": "/wˈiː nˈiːd tˈændʒɪbəl rɪzˈʌlts bˈaɪ ðɪ ˈend əv ðə kwˈɔːtə/"
+   }
+  ],
+  "phonemes": [
+   "t",
+   "æ",
+   "n",
+   "dʒ",
+   "ɪ",
+   "b",
+   "ə",
+   "l"
+  ]
+ },
+ {
+  "id": "lex_endorse_01",
+  "headword": "endorse",
+  "ipa_rp": "/ɪnˈdɔːs/",
+  "syllable_stress": "in-DAWS",
+  "audio_uri": null,
+  "phonetic_trap": "Non-rhotic: /ɪnˈdɔːs/ — long rounded THOUGHT vowel, no /r/.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "To declare public approval or support.",
+  "pragmatic_note": "Stronger than \"agree with\"; implies you will stand behind it.",
+  "replaces_verbose": [
+   "I fully support and agree with this proposal",
+   "give official approval and support"
+  ],
+  "collocations": [
+   "endorse the proposal",
+   "fully endorse"
+  ],
+  "examples_rp": [
+   {
+    "text": "I fully endorse the revised plan.",
+    "ipa_connected": "/ˈaɪ fˈʊlɪ endˈɔːs ðə rɪvˈaɪzd plˈæn/"
+   }
+  ],
+  "forms": [
+   "endorsed",
+   "endorsement"
+  ],
+  "phonemes": [
+   "e",
+   "n",
+   "d",
+   "ɔː",
+   "s"
+  ]
+ },
+ {
+  "id": "lex_reconcile_01",
+  "headword": "reconcile",
+  "ipa_rp": "/ˈrek.ən.saɪl/",
+  "syllable_stress": "REK-uhn-syle",
+  "audio_uri": null,
+  "phonetic_trap": "Stress on the first syllable; schwa in the second; PRICE /aɪ/ at the end.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "To make two things consistent; or to restore friendly relations.",
+  "pragmatic_note": "Useful in finance ('reconcile the accounts') and diplomacy ('reconcile the two positions').",
+  "replaces_verbose": [
+   "make both these numbers match with each other",
+   "bring the two sides into agreement"
+  ],
+  "collocations": [
+   "reconcile the figures",
+   "reconcile the two views"
+  ],
+  "examples_rp": [
+   {
+    "text": "We need to reconcile the two sets of figures.",
+    "ipa_connected": "/wˈiː nˈiːd tə rˈekənsˌaɪl ðə tˈuː sˈets əv fˈɪɡəz/"
+   }
+  ],
+  "forms": [
+   "reconciled",
+   "reconciliation"
+  ],
+  "phonemes": [
+   "r",
+   "e",
+   "k",
+   "ə",
+   "n",
+   "s",
+   "aɪ",
+   "l"
+  ]
+ },
+ {
+  "id": "lex_provisional_01",
+  "headword": "provisional",
+  "ipa_rp": "/prəˈvɪʒ.ən.əl/",
+  "syllable_stress": "pruh-VIZH-uh-nuhl",
+  "audio_uri": null,
+  "phonetic_trap": "Weak /prə/; voiced /ʒ/ (as in \"measure\"); reduced final syllables.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "Arranged for now, possibly to be changed later.",
+  "pragmatic_note": "Labelling a figure 'provisional' protects you if it changes.",
+  "replaces_verbose": [
+   "this is not final and can change later on",
+   "temporary for now and may change"
+  ],
+  "collocations": [
+   "provisional figures",
+   "a provisional date",
+   "provisionally agreed"
+  ],
+  "examples_rp": [
+   {
+    "text": "These figures are provisional until Friday.",
+    "ipa_connected": "/ðˈiːz fˈɪɡəz ˈɑː prəvˈɪʒənəl ʌntˈɪl frˈaɪdeɪ/"
+   }
+  ],
+  "forms": [
+   "provisionally"
+  ],
+  "phonemes": [
+   "p",
+   "r",
+   "ə",
+   "v",
+   "ɪ",
+   "ʒ",
+   "n",
+   "l"
+  ]
+ },
+ {
+  "id": "lex_incremental_01",
+  "headword": "incremental",
+  "ipa_rp": "/ˌɪŋ.krəˈmen.təl/",
+  "syllable_stress": "ing-kruh-MEN-tuhl",
+  "audio_uri": null,
+  "phonetic_trap": "Assimilated /ŋ/ before /k/; schwa in the second syllable; stress on MEN.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "Increasing or progressing in small steps.",
+  "pragmatic_note": "'An incremental approach' reassures risk-averse stakeholders.",
+  "replaces_verbose": [
+   "step by step little by little",
+   "in small small steps"
+  ],
+  "collocations": [
+   "incremental changes",
+   "an incremental approach",
+   "incremental gains"
+  ],
+  "examples_rp": [
+   {
+    "text": "Let's take an incremental approach to the migration.",
+    "ipa_connected": "/lˈets tˈeɪk ən ˌɪŋkrɪmˈentəl əprˈəʊtʃ tə ðə maɪɡrˈeɪʃən/"
+   }
+  ],
+  "forms": [
+   "incrementally"
+  ],
+  "phonemes": [
+   "ɪ",
+   "ŋ",
+   "k",
+   "r",
+   "m",
+   "e",
+   "n",
+   "t",
+   "ə",
+   "l"
+  ]
+ },
+ {
+  "id": "lex_contentious_01",
+  "headword": "contentious",
+  "ipa_rp": "/kənˈten.ʃəs/",
+  "syllable_stress": "kuhn-TEN-shuhs",
+  "audio_uri": null,
+  "phonetic_trap": "Weak /kən/; crisp alveolar /t/; final /ʃəs/.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "Likely to cause disagreement or argument.",
+  "pragmatic_note": "Naming an item 'contentious' signals you expect pushback and are handling it calmly.",
+  "replaces_verbose": [
+   "this topic will create a lot of fights and arguments",
+   "something people will disagree about"
+  ],
+  "collocations": [
+   "a contentious issue",
+   "highly contentious"
+  ],
+  "examples_rp": [
+   {
+    "text": "Pricing is the contentious item, so let's take it last.",
+    "ipa_connected": "/prˈaɪsɪŋ ˈɪz ðə kəntˈenʃəs ˈaɪtəm sˈəʊ lˈets tˈeɪk ˈɪt lˈɑːst/"
+   }
+  ],
+  "phonemes": [
+   "k",
+   "ə",
+   "n",
+   "t",
+   "e",
+   "ʃ",
+   "s"
+  ]
+ },
+ {
+  "id": "lex_expedite_01",
+  "headword": "expedite",
+  "ipa_rp": "/ˈek.spə.daɪt/",
+  "syllable_stress": "EK-spuh-dyte",
+  "audio_uri": null,
+  "phonetic_trap": "Stress on the first syllable; schwa in the second; PRICE /aɪ/ at the end.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "To make an action or process happen sooner.",
+  "pragmatic_note": "Formal and efficient — common in procurement and legal.",
+  "replaces_verbose": [
+   "make it happen faster than the normal time",
+   "speed up the process quickly"
+  ],
+  "collocations": [
+   "expedite the process",
+   "expedite delivery"
+  ],
+  "examples_rp": [
+   {
+    "text": "Could we expedite the security review?",
+    "ipa_connected": "/kəd wˈiː ˈekspədˌaɪt ðə sɪkjˈɔːrɪtɪ rɪvjˈuː/"
+   }
+  ],
+  "forms": [
+   "expedited",
+   "expediting"
+  ],
+  "phonemes": [
+   "e",
+   "k",
+   "s",
+   "p",
+   "ə",
+   "d",
+   "aɪ",
+   "t"
+  ]
+ },
+ {
+  "id": "lex_preclude_01",
+  "headword": "preclude",
+  "ipa_rp": "/prɪˈkluːd/",
+  "syllable_stress": "prih-KLOOD",
+  "audio_uri": null,
+  "phonetic_trap": "Weak /prɪ/; long GOOSE /uː/; voiced final /d/.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "To prevent from happening; make impossible.",
+  "pragmatic_note": "'That doesn't preclude…' keeps options open in negotiations.",
+  "replaces_verbose": [
+   "that does not mean that we cannot also do",
+   "stop something from being possible"
+  ],
+  "collocations": [
+   "preclude the possibility",
+   "does not preclude"
+  ],
+  "examples_rp": [
+   {
+    "text": "That doesn't preclude a later review.",
+    "ipa_connected": "/ðˈæt dˈʌzənt prɪklˈuːd ə lˈeɪtə rɪvjˈuː/"
+   }
+  ],
+  "forms": [
+   "precludes",
+   "precluded"
+  ],
+  "phonemes": [
+   "p",
+   "r",
+   "ɪ",
+   "k",
+   "l",
+   "uː",
+   "d"
+  ]
+ },
+ {
+  "id": "lex_discrepancy_01",
+  "headword": "discrepancy",
+  "ipa_rp": "/dɪˈskrep.ən.si/",
+  "syllable_stress": "dih-SKREP-uhn-see",
+  "audio_uri": null,
+  "phonetic_trap": "Weak /dɪ/; stressed DRESS /e/; reduced /ən/.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "A lack of compatibility between facts or figures that should match.",
+  "pragmatic_note": "Neutral and non-accusatory: 'there's a discrepancy' rather than 'you made a mistake'.",
+  "replaces_verbose": [
+   "the numbers are not matching with each other",
+   "there is some mismatch in the data"
+  ],
+  "collocations": [
+   "a discrepancy between",
+   "minor discrepancies"
+  ],
+  "examples_rp": [
+   {
+    "text": "There's a discrepancy between the two reports.",
+    "ipa_connected": "/ðˈeəz ə dɪskrˈepənsɪ bɪtwˈiːn ðə tˈuː rɪpˈɔːts/"
+   }
+  ],
+  "forms": [
+   "discrepancies"
+  ],
+  "phonemes": [
+   "d",
+   "ɪ",
+   "s",
+   "k",
+   "r",
+   "e",
+   "p",
+   "ə",
+   "n"
+  ]
+ },
+ {
+  "id": "lex_undermine_01",
+  "headword": "undermine",
+  "ipa_rp": "/ˌʌn.dəˈmaɪn/",
+  "syllable_stress": "un-duh-MYNE",
+  "audio_uri": null,
+  "phonetic_trap": "Non-rhotic middle syllable /də/ — no /r/; main stress on the last syllable.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "To weaken gradually or insidiously.",
+  "pragmatic_note": "Strong but professional; use about arguments and plans, sparingly about people.",
+  "replaces_verbose": [
+   "slowly make it weaker and spoil it from inside",
+   "reduce the strength of the argument"
+  ],
+  "collocations": [
+   "undermine confidence",
+   "undermine the case"
+  ],
+  "examples_rp": [
+   {
+    "text": "Late changes undermine confidence in the release.",
+    "ipa_connected": "/lˈeɪt tʃˈeɪndʒɪz ˌʌndəmˈaɪn kˈɒnfɪdəns ˈɪn ðə rɪlˈiːs/"
+   }
+  ],
+  "forms": [
+   "undermines",
+   "undermined",
+   "undermining"
+  ],
+  "phonemes": [
+   "ʌ",
+   "n",
+   "d",
+   "ə",
+   "m",
+   "aɪ"
+  ]
+ },
+ {
+  "id": "lex_stretch_01",
+  "headword": "a bit of a stretch",
+  "ipa_rp": "/ə ˈbɪt əv ə ˈstretʃ/",
+  "syllable_stress": "uh BIT uhv uh STRETCH",
+  "audio_uri": null,
+  "phonetic_trap": "Weak forms throughout: /ə/, /əv/, /ə/. Glottal /t/ in \"bit\" before /əv/ is fine in modern RP.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "Ambitious to the point of being unrealistic.",
+  "pragmatic_note": "Polite British understatement: 'that might be a bit of a stretch' means 'that won't happen'.",
+  "replaces_verbose": [
+   "I don't think this deadline is possible at all, it is too risky",
+   "this is not at all realistic"
+  ],
+  "collocations": [
+   "might be a bit of a stretch",
+   "quite a stretch"
+  ],
+  "examples_rp": [
+   {
+    "text": "A March launch might be a bit of a stretch.",
+    "ipa_connected": "/ə mˈɑːtʃ lˈɔːntʃ mˈaɪt bˈiː ə bˈɪt əv ə strˈetʃ/"
+   }
+  ],
+  "forms": [
+   "stretch"
+  ],
+  "phonemes": [
+   "ə",
+   "b",
+   "ɪ",
+   "t",
+   "v",
+   "s",
+   "r",
+   "e",
+   "tʃ"
+  ]
+ },
+ {
+  "id": "lex_keep_posted_01",
+  "headword": "keep me posted",
+  "ipa_rp": "/ˌkiːp mi ˈpəʊs.tɪd/",
+  "syllable_stress": "keep mee POHS-tid",
+  "audio_uri": null,
+  "phonetic_trap": "GOAT /əʊ/ in \"posted\" — glide, never [oː]. Weak /mi/.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "Keep me informed of developments.",
+  "pragmatic_note": "The natural modern UK replacement for 'revert back to me'.",
+  "replaces_verbose": [
+   "revert back to me at the earliest",
+   "please keep updating me about the status"
+  ],
+  "collocations": [
+   "keep me posted",
+   "keep you posted"
+  ],
+  "examples_rp": [
+   {
+    "text": "Please action this and keep me posted.",
+    "ipa_connected": "/plˈiːz ˈækʃən ðˈɪs ən kˈiːp mˈiː pˈəʊstɪd/"
+   }
+  ],
+  "forms": [
+   "keep you posted",
+   "keep us posted"
+  ],
+  "phonemes": [
+   "k",
+   "iː",
+   "p",
+   "m",
+   "əʊ",
+   "s",
+   "t",
+   "ɪ",
+   "d"
+  ]
+ },
+ {
+  "id": "lex_bogged_down_01",
+  "headword": "bogged down",
+  "ipa_rp": "/ˌbɒɡd ˈdaʊn/",
+  "syllable_stress": "BOGD DOWN",
+  "audio_uri": null,
+  "phonetic_trap": "LOT /ɒ/ in \"bogged\"; MOUTH /aʊ/ glide in \"down\".",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "Stuck and unable to make progress, usually because of detail or admin.",
+  "pragmatic_note": "'Bogged down in admin' is professional and slightly self-deprecating.",
+  "replaces_verbose": [
+   "we wasted two hours doing random unproductive setup things",
+   "stuck in many small unnecessary tasks"
+  ],
+  "collocations": [
+   "bogged down in detail",
+   "get bogged down"
+  ],
+  "examples_rp": [
+   {
+    "text": "We got bogged down in admin this morning.",
+    "ipa_connected": "/wˈiː ɡˈɒt bˈɒɡd dˈaʊn ˈɪn ˈædmɪn ðˈɪs mˈɔːnɪŋ/"
+   }
+  ],
+  "forms": [
+   "get bogged down"
+  ],
+  "phonemes": [
+   "b",
+   "ɒ",
+   "ɡ",
+   "d",
+   "aʊ",
+   "n"
+  ]
+ },
+ {
+  "id": "lex_sticking_point_01",
+  "headword": "sticking point",
+  "ipa_rp": "/ˈstɪk.ɪŋ ˌpɔɪnt/",
+  "syllable_stress": "STIK-ing poynt",
+  "audio_uri": null,
+  "phonetic_trap": "CHOICE /ɔɪ/ glide in \"point\"; glottal or released final /t/.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "An issue that blocks agreement or progress.",
+  "pragmatic_note": "Neutral negotiation vocabulary — names the obstacle, not the opponent.",
+  "replaces_verbose": [
+   "the main issue on which both sides are not agreeing",
+   "the point where the discussion is getting stuck"
+  ],
+  "collocations": [
+   "the main sticking point",
+   "remains a sticking point"
+  ],
+  "examples_rp": [
+   {
+    "text": "Pricing remains the main sticking point.",
+    "ipa_connected": "/prˈaɪsɪŋ rɪmˈeɪnz ðə mˈeɪn stˈɪkɪŋ pˈɔɪnt/"
+   }
+  ],
+  "phonemes": [
+   "s",
+   "t",
+   "ɪ",
+   "k",
+   "ŋ",
+   "p",
+   "ɔɪ",
+   "n"
+  ]
+ },
+ {
+  "id": "lex_ring_fence_01",
+  "headword": "ring-fence",
+  "ipa_rp": "/ˈrɪŋ.fens/",
+  "syllable_stress": "RING-fens",
+  "audio_uri": null,
+  "phonetic_trap": "Velar nasal /ŋ/ — no /ɡ/ release after it.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "To protect money or time so it can only be used for one purpose.",
+  "pragmatic_note": "Very British public-sector/finance term.",
+  "replaces_verbose": [
+   "keep this budget separate so that nobody else can use it",
+   "protect this money only for this purpose"
+  ],
+  "collocations": [
+   "ring-fence the budget",
+   "ring-fenced time"
+  ],
+  "examples_rp": [
+   {
+    "text": "Let's ring-fence Friday afternoons for deep work.",
+    "ipa_connected": "/lˈets rˈɪŋfˈens frˈaɪdeɪ ˌɑːftənˈuːnz fə dˈiːp wˈɜːk/"
+   }
+  ],
+  "forms": [
+   "ring-fenced",
+   "ring fence"
+  ],
+  "phonemes": [
+   "r",
+   "ɪ",
+   "ŋ",
+   "f",
+   "e",
+   "n",
+   "s"
+  ]
+ },
+ {
+  "id": "lex_trade_off_01",
+  "headword": "trade-off",
+  "ipa_rp": "/ˈtreɪd.ɒf/",
+  "syllable_stress": "TRAYD-off",
+  "audio_uri": null,
+  "phonetic_trap": "FACE /eɪ/ glide; LOT /ɒ/ in \"off\" — short, lightly rounded.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "A balance achieved between two desirable but incompatible features.",
+  "pragmatic_note": "Framing a disagreement as a trade-off depersonalises it.",
+  "replaces_verbose": [
+   "if we get one benefit then we will lose some other benefit",
+   "we have to give up something to get something"
+  ],
+  "collocations": [
+   "a trade-off between",
+   "an acceptable trade-off"
+  ],
+  "examples_rp": [
+   {
+    "text": "It's a trade-off between speed and accuracy.",
+    "ipa_connected": "/ˈɪts ə trˈeɪdˈɒf bɪtwˈiːn spˈiːd ən ˈækjʊrəsɪ/"
+   }
+  ],
+  "forms": [
+   "trade-offs",
+   "trade off"
+  ],
+  "phonemes": [
+   "t",
+   "r",
+   "eɪ",
+   "d",
+   "ɒ",
+   "f"
+  ]
+ },
+ {
+  "id": "lex_feasible_01",
+  "headword": "feasible",
+  "ipa_rp": "/ˈfiː.zə.bəl/",
+  "syllable_stress": "FEE-zuh-buhl",
+  "audio_uri": null,
+  "phonetic_trap": "Long FLEECE /iː/; voiced /z/; schwa in the middle.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "Possible to do easily or conveniently.",
+  "pragmatic_note": "'Is that feasible?' invites a reality check without confrontation.",
+  "replaces_verbose": [
+   "possible to do in practice",
+   "something that can be done"
+  ],
+  "collocations": [
+   "technically feasible",
+   "a feasibility study"
+  ],
+  "examples_rp": [
+   {
+    "text": "Is a two-week turnaround feasible?",
+    "ipa_connected": "/ˈɪz ə tˈuːwˈiːk tˈɜːnərˌaʊnd fˈiːzɪbəl/"
+   }
+  ],
+  "forms": [
+   "feasibility"
+  ],
+  "phonemes": [
+   "f",
+   "iː",
+   "z",
+   "ɪ",
+   "b",
+   "ə",
+   "l"
+  ]
+ },
+ {
+  "id": "lex_allocate_01",
+  "headword": "allocate",
+  "ipa_rp": "/ˈæl.ə.keɪt/",
+  "syllable_stress": "AL-uh-kayt",
+  "audio_uri": null,
+  "phonetic_trap": "TRAP /æ/ stressed; schwa in the middle; FACE /eɪ/ at the end.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "To distribute resources or duties for a particular purpose.",
+  "pragmatic_note": "Neutral resourcing verb.",
+  "replaces_verbose": [
+   "give some amount of the resources to each person",
+   "distribute the budget among"
+  ],
+  "collocations": [
+   "allocate resources",
+   "allocate budget"
+  ],
+  "examples_rp": [
+   {
+    "text": "We'll allocate two engineers to the migration.",
+    "ipa_connected": "/wˈiːl ˈæləkˌeɪt tˈuː ˌendʒɪnˈɪəz tə ðə maɪɡrˈeɪʃən/"
+   }
+  ],
+  "forms": [
+   "allocated",
+   "allocation"
+  ],
+  "phonemes": [
+   "æ",
+   "l",
+   "ə",
+   "k",
+   "eɪ",
+   "t"
+  ]
+ },
+ {
+  "id": "lex_hindsight_01",
+  "headword": "in hindsight",
+  "ipa_rp": "/ɪn ˈhaɪnd.saɪt/",
+  "syllable_stress": "in HYND-syte",
+  "audio_uri": null,
+  "phonetic_trap": "Two PRICE /aɪ/ glides; the /d/ may be elided before /s/.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "Understanding a situation only after it has happened.",
+  "pragmatic_note": "'In hindsight, we should have…' admits a mistake gracefully — valued in British post-mortems.",
+  "replaces_verbose": [
+   "now that it has already happened we can understand that",
+   "after seeing what happened, we realise"
+  ],
+  "collocations": [
+   "in hindsight",
+   "with the benefit of hindsight"
+  ],
+  "examples_rp": [
+   {
+    "text": "In hindsight, we should have tested on real devices.",
+    "ipa_connected": "/ˈɪn hˈaɪndsaɪt wˈiː ʃəd hˈæv tˈestɪd ˈɒn rˈɪəl dɪvˈaɪsɪz/"
+   }
+  ],
+  "forms": [
+   "hindsight"
+  ],
+  "phonemes": [
+   "ɪ",
+   "n",
+   "h",
+   "aɪ",
+   "d",
+   "s",
+   "t"
+  ]
+ },
+ {
+  "id": "lex_take_point_01",
+  "headword": "I take your point",
+  "ipa_rp": "/aɪ ˌteɪk jə ˈpɔɪnt/",
+  "syllable_stress": "eye TAYK yuh POYNT",
+  "audio_uri": null,
+  "phonetic_trap": "Weak /jə/ for \"your\"; FACE /eɪ/ and CHOICE /ɔɪ/ glides.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "I understand and partly accept your argument (often before disagreeing).",
+  "pragmatic_note": "The classic British polite-disagreement opener: 'I take your point, but…'.",
+  "replaces_verbose": [
+   "I understand what you are saying but I still feel that",
+   "you are right but"
+  ],
+  "collocations": [
+   "I take your point, but",
+   "point taken"
+  ],
+  "examples_rp": [
+   {
+    "text": "I take your point, but the risk is still too high.",
+    "ipa_connected": "/ˈaɪ tˈeɪk jə pˈɔɪnt bət ðə rˈɪsk ˈɪz stˈɪl tˈuː hˈaɪ/"
+   }
+  ],
+  "forms": [
+   "take your point",
+   "point taken"
+  ],
+  "phonemes": [
+   "aɪ",
+   "t",
+   "eɪ",
+   "k",
+   "j",
+   "ə",
+   "p",
+   "ɔɪ",
+   "n"
+  ]
+ },
+ {
+  "id": "lex_on_balance_01",
+  "headword": "on balance",
+  "ipa_rp": "/ɒn ˈbæl.əns/",
+  "syllable_stress": "on BAL-uhns",
+  "audio_uri": null,
+  "phonetic_trap": "LOT /ɒ/ in \"on\"; TRAP /æ/ stressed; schwa in \"-ance\".",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "After considering all the factors.",
+  "pragmatic_note": "Signals a weighed, reasonable judgement — hard to argue against.",
+  "replaces_verbose": [
+   "after thinking about all the good and bad points I feel that",
+   "considering everything"
+  ],
+  "collocations": [
+   "on balance",
+   "on balance, I think"
+  ],
+  "examples_rp": [
+   {
+    "text": "On balance, I'd go with the cheaper vendor.",
+    "ipa_connected": "/ˈɒn bˈæləns ˈaɪd ɡˈəʊ wˈɪð ðə tʃˈiːpə vˈendə/"
+   }
+  ],
+  "phonemes": [
+   "ɒ",
+   "n",
+   "b",
+   "æ",
+   "l",
+   "ə",
+   "s"
+  ]
+ },
+ {
+  "id": "lex_not_ideal_01",
+  "headword": "not ideal",
+  "ipa_rp": "/nɒt aɪˈdɪəl/",
+  "syllable_stress": "not eye-DEER-uhl",
+  "audio_uri": null,
+  "phonetic_trap": "Non-rhotic NEAR /ɪə/ in \"ideal\" — no /r/; LOT /ɒ/ in \"not\".",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "Bad, said with understatement.",
+  "pragmatic_note": "British understatement: 'that's not ideal' often means 'that's a serious problem'.",
+  "replaces_verbose": [
+   "this is a very big problem and very bad for us",
+   "this situation is really very bad"
+  ],
+  "collocations": [
+   "not ideal",
+   "far from ideal"
+  ],
+  "examples_rp": [
+   {
+    "text": "Losing the staging server is not ideal.",
+    "ipa_connected": "/lˈuːzɪŋ ðə stˈeɪdʒɪŋ sˈɜːvər ˈɪz nˈɒt aɪdˈɪəl/"
+   }
+  ],
+  "forms": [
+   "far from ideal"
+  ],
+  "phonemes": [
+   "n",
+   "ɒ",
+   "t",
+   "aɪ",
+   "d",
+   "ɪə",
+   "l"
+  ]
+ },
+ {
+  "id": "lex_overrun_01",
+  "headword": "overrun",
+  "ipa_rp": "/ˌəʊ.vəˈrʌn/",
+  "syllable_stress": "oh-vuh-RUN",
+  "audio_uri": null,
+  "phonetic_trap": "GOAT /əʊ/ start; non-rhotic /və/ then linking /r/ into the stressed /ʌn/.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "To exceed a planned time or budget.",
+  "pragmatic_note": "Neutral way to report delays: 'we've overrun by a week'.",
+  "replaces_verbose": [
+   "the project is taking more time than we planned",
+   "exceeded the time that was given"
+  ],
+  "collocations": [
+   "overrun the budget",
+   "cost overrun",
+   "overran by a week"
+  ],
+  "examples_rp": [
+   {
+    "text": "We've overrun by a week on the data migration.",
+    "ipa_connected": "/wˈiːv ˌəʊvərˈʌn bˈaɪ ə wˈiːk ˈɒn ðə dˈeɪtə maɪɡrˈeɪʃən/"
+   }
+  ],
+  "forms": [
+   "overran",
+   "overruns",
+   "overrunning"
+  ],
+  "phonemes": [
+   "əʊ",
+   "v",
+   "ə",
+   "r",
+   "ʌ",
+   "n"
+  ]
+ },
+ {
+  "id": "lex_clarify_01",
+  "headword": "clarify",
+  "ipa_rp": "/ˈklær.ə.faɪ/",
+  "syllable_stress": "KLAR-uh-fy",
+  "audio_uri": null,
+  "phonetic_trap": "TRAP /æ/ under stress, linking /r/ before the schwa; PRICE /aɪ/ at the end.",
+  "register_badge": "GREEN_EXECUTIVE_SAFE",
+  "register_label": "Boardroom, Academic & Formal Written Safe",
+  "usage_context": "To make a statement or situation less confused.",
+  "pragmatic_note": "'Could you clarify…?' is the polite way to say 'I don't understand what you mean'.",
+  "replaces_verbose": [
+   "I did not understand what you are saying, can you explain again",
+   "please tell me clearly what you mean"
+  ],
+  "collocations": [
+   "could you clarify",
+   "just to clarify",
+   "clarification"
+  ],
+  "examples_rp": [
+   {
+    "text": "Could you clarify what \"done\" means here?",
+    "ipa_connected": "/kəd jˈuː klˈærɪfˌaɪ wˈɒt dˈʌn mˈiːnz hˈɪə/"
+   }
+  ],
+  "forms": [
+   "clarification",
+   "clarified"
+  ],
+  "phonemes": [
+   "k",
+   "l",
+   "æ",
+   "r",
+   "ɪ",
+   "f",
+   "aɪ"
+  ]
+ },
+ {
+  "id": "lex_keen_01",
+  "headword": "keen",
+  "ipa_rp": "/kiːn/",
+  "syllable_stress": "KEEN",
+  "audio_uri": null,
+  "phonetic_trap": "Long FLEECE /iː/ with spread lips; aspirated /kʰ/.",
+  "register_badge": "AMBER_COLLEAGUE",
+  "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
+  "usage_context": "Eager or enthusiastic.",
+  "pragmatic_note": "'I'm keen to…' is warm, natural British enthusiasm; 'not overly keen' is understated refusal.",
+  "replaces_verbose": [
+   "I am very much interested and excited to do this",
+   "I really want to do this"
+  ],
+  "collocations": [
+   "keen to help",
+   "not overly keen",
+   "keen on"
+  ],
+  "examples_rp": [
+   {
+    "text": "I'm keen to get this over the line.",
+    "ipa_connected": "/ˈaɪm kˈiːn tə ɡˈet ðˈɪs ˈəʊvə ðə lˈaɪn/"
+   }
+  ],
+  "phonemes": [
+   "k",
+   "iː",
+   "n"
+  ]
+ },
+ {
+  "id": "lex_touch_and_go_01",
+  "headword": "touch and go",
+  "ipa_rp": "/ˌtʌtʃ ən ˈɡəʊ/",
+  "syllable_stress": "TUCH uhn GOH",
+  "audio_uri": null,
+  "phonetic_trap": "Crush \"and\" to /ən/; GOAT /əʊ/ glide in \"go\".",
+  "register_badge": "AMBER_COLLEAGUE",
+  "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
+  "usage_context": "Uncertain; the outcome could go either way.",
+  "pragmatic_note": "Honest about risk without sounding alarmed.",
+  "replaces_verbose": [
+   "it is not sure whether it will happen or not",
+   "it is very uncertain"
+  ],
+  "collocations": [
+   "it was touch and go"
+  ],
+  "examples_rp": [
+   {
+    "text": "It was touch and go, but we made the deadline.",
+    "ipa_connected": "/ˈɪt wəz tˈʌtʃ ən ɡˈəʊ bət wˈiː mˈeɪd ðə dˈedlaɪn/"
+   }
+  ],
+  "phonemes": [
+   "t",
+   "ʌ",
+   "tʃ",
+   "ə",
+   "n",
+   "ɡ",
+   "əʊ"
+  ]
+ },
+ {
+  "id": "lex_pinch_of_salt_01",
+  "headword": "pinch of salt",
+  "ipa_rp": "/ˈpɪntʃ əv ˈsɒlt/",
+  "syllable_stress": "PINCH uhv SAWLT",
+  "audio_uri": null,
+  "phonetic_trap": "Weak /əv/; \"salt\" is /sɒlt/ or /sɔːlt/ in RP (both fine) with a dark /l/ — never an American [sɑlt].",
+  "register_badge": "AMBER_COLLEAGUE",
+  "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
+  "usage_context": "Take something with a pinch of salt: don't completely believe it.",
+  "pragmatic_note": "British version of the US 'grain of salt'.",
+  "replaces_verbose": [
+   "do not believe it fully because it may not be true",
+   "do not trust this information completely"
+  ],
+  "collocations": [
+   "take it with a pinch of salt"
+  ],
+  "examples_rp": [
+   {
+    "text": "I'd take those estimates with a pinch of salt.",
+    "ipa_connected": "/ˈaɪd tˈeɪk ðˈəʊz ˈestɪməts wˈɪð ə pˈɪntʃ əv sˈɒlt/"
+   }
+  ],
+  "phonemes": [
+   "p",
+   "ɪ",
+   "n",
+   "tʃ",
+   "ə",
+   "v",
+   "s",
+   "ɒ",
+   "l",
+   "t"
+  ]
+ },
+ {
+  "id": "lex_back_burner_01",
+  "headword": "back burner",
+  "ipa_rp": "/ˌbæk ˈbɜː.nə/",
+  "syllable_stress": "BAK BUR-nuh",
+  "audio_uri": null,
+  "phonetic_trap": "Non-rhotic: /ˈbɜː.nə/ — long NURSE vowel, no /r/ anywhere.",
+  "register_badge": "AMBER_COLLEAGUE",
+  "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
+  "usage_context": "On the back burner: deliberately postponed.",
+  "pragmatic_note": "Softer than \"cancelled\"; implies it may return.",
+  "replaces_verbose": [
+   "we will do this later, not now",
+   "keep this aside for some time"
+  ],
+  "collocations": [
+   "put it on the back burner"
+  ],
+  "examples_rp": [
+   {
+    "text": "Let's put the redesign on the back burner for now.",
+    "ipa_connected": "/lˈets pˈʊt ðə rˌiːdɪzˈaɪn ˈɒn ðə bˈæk bˈɜːnə fə nˈaʊ/"
+   }
+  ],
+  "phonemes": [
+   "b",
+   "æ",
+   "k",
+   "ɜː",
+   "n",
+   "ə"
+  ]
+ },
+ {
+  "id": "lex_snowed_under_01",
+  "headword": "snowed under",
+  "ipa_rp": "/ˌsnəʊd ˈʌn.də/",
+  "syllable_stress": "SNOHD UN-duh",
+  "audio_uri": null,
+  "phonetic_trap": "GOAT /əʊ/; non-rhotic final /də/.",
+  "register_badge": "AMBER_COLLEAGUE",
+  "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
+  "usage_context": "Overwhelmed with work.",
+  "pragmatic_note": "Friendly, slightly self-deprecating way to decline extra work with colleagues.",
+  "replaces_verbose": [
+   "I have too much work and I am very busy",
+   "my schedule is completely full"
+  ],
+  "collocations": [
+   "snowed under with"
+  ],
+  "examples_rp": [
+   {
+    "text": "I'm snowed under this week — could it wait till Monday?",
+    "ipa_connected": "/ˈaɪm snˈəʊd ˈʌndə ðˈɪs wˈiːk kəd ˈɪt wˈeɪt tˈɪl mˈʌndeɪ/"
+   }
+  ],
+  "phonemes": [
+   "s",
+   "n",
+   "əʊ",
+   "d",
+   "ʌ",
+   "ə"
+  ]
+ },
+ {
+  "id": "lex_teething_01",
+  "headword": "teething problems",
+  "ipa_rp": "/ˈtiː.ðɪŋ ˌprɒb.ləmz/",
+  "syllable_stress": "TEE-thing PROB-luhmz",
+  "audio_uri": null,
+  "phonetic_trap": "Voiced dental fricative /ð/ — tongue between teeth, continuous buzz, no [d].",
+  "register_badge": "AMBER_COLLEAGUE",
+  "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
+  "usage_context": "Minor problems that occur in the early stages of something new.",
+  "pragmatic_note": "Minimises early issues calmly — great for status updates.",
+  "replaces_verbose": [
+   "there are many small-small issues coming up in the beginning",
+   "some small problems at the start"
+  ],
+  "collocations": [
+   "teething problems",
+   "teething troubles"
+  ],
+  "examples_rp": [
+   {
+    "text": "We're seeing a few teething problems with the new system.",
+    "ipa_connected": "/wˈɪə sˈiːɪŋ ə fjˈuː tˈiːðɪŋ prˈɒbləmz wˈɪð ðə njˈuː sˈɪstəm/"
+   }
+  ],
+  "forms": [
+   "teething troubles"
+  ],
+  "phonemes": [
+   "t",
+   "iː",
+   "ð",
+   "ɪ",
+   "ŋ",
+   "p",
+   "r",
+   "ɒ",
+   "b",
+   "l",
+   "ə",
+   "m",
+   "z"
+  ]
+ },
+ {
+  "id": "lex_swamped_01",
+  "headword": "swamped",
+  "ipa_rp": "/swɒmpt/",
+  "syllable_stress": "SWOMPT",
+  "audio_uri": null,
+  "phonetic_trap": "LOT /ɒ/ after /w/ (not TRAP). /mpt/ cluster released cleanly.",
+  "register_badge": "AMBER_COLLEAGUE",
+  "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
+  "usage_context": "Overwhelmed with too much to do.",
+  "pragmatic_note": "Colleague register; for formal contexts use \"at capacity\".",
+  "replaces_verbose": [
+   "too much work is there and I am not able to manage",
+   "very very busy with work"
+  ],
+  "collocations": [
+   "swamped with work",
+   "absolutely swamped"
+  ],
+  "examples_rp": [
+   {
+    "text": "I'm swamped until Thursday.",
+    "ipa_connected": "/ˈaɪm swˈɒmpt ʌntˈɪl θˈɜːzdeɪ/"
+   }
+  ],
+  "forms": [
+   "swamp"
+  ],
+  "phonemes": [
+   "s",
+   "w",
+   "ɒ",
+   "m",
+   "p",
+   "t"
+  ]
+ },
+ {
+  "id": "lex_chock_01",
+  "headword": "chock-a-block",
+  "ipa_rp": "/ˌtʃɒk.əˈblɒk/",
+  "syllable_stress": "CHOK-uh-BLOK",
+  "audio_uri": null,
+  "phonetic_trap": "Two LOT /ɒ/ vowels; weak /ə/ in the middle.",
+  "register_badge": "AMBER_COLLEAGUE",
+  "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
+  "usage_context": "Completely full.",
+  "pragmatic_note": "Playful British idiom for diaries, roads and rooms.",
+  "replaces_verbose": [
+   "my calendar is completely full",
+   "totally full with no space"
+  ],
+  "collocations": [
+   "chock-a-block with meetings"
+  ],
+  "examples_rp": [
+   {
+    "text": "My diary is chock-a-block until Friday.",
+    "ipa_connected": "/mˈaɪ dˈaɪərɪ ˈɪz tʃˈɒkəblˈɒk ʌntˈɪl frˈaɪdeɪ/"
+   }
+  ],
+  "forms": [
+   "chock a block"
+  ],
+  "phonemes": [
+   "tʃ",
+   "ɒ",
+   "k",
+   "ə",
+   "b",
+   "l"
+  ]
+ },
+ {
+  "id": "lex_ballpark_01",
+  "headword": "ballpark",
+  "ipa_rp": "/ˈbɔːl.pɑːk/",
+  "syllable_stress": "BAWL-pahk",
+  "audio_uri": null,
+  "phonetic_trap": "Non-rhotic /pɑːk/; THOUGHT /ɔː/ in \"ball\".",
+  "register_badge": "AMBER_COLLEAGUE",
+  "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
+  "usage_context": "An approximate figure.",
+  "pragmatic_note": "'A ballpark figure' invites a rough answer without commitment.",
+  "replaces_verbose": [
+   "approximately how much it will cost",
+   "a rough estimate"
+  ],
+  "collocations": [
+   "a ballpark figure",
+   "in the right ballpark"
+  ],
+  "examples_rp": [
+   {
+    "text": "Can you give me a ballpark figure?",
+    "ipa_connected": "/kən jˈuː ɡˈɪv mˈiː ə bˈɔːlpɑːk fˈɪɡə/"
+   }
+  ],
+  "phonemes": [
+   "b",
+   "ɔː",
+   "l",
+   "p",
+   "ɑː",
+   "k"
+  ]
+ },
+ {
+  "id": "lex_tall_order_01",
+  "headword": "a tall order",
+  "ipa_rp": "/ə ˌtɔːl ˈɔː.də/",
+  "syllable_stress": "uh TAWL AW-duh",
+  "audio_uri": null,
+  "phonetic_trap": "Non-rhotic \"order\" /ˈɔː.də/; long THOUGHT vowels.",
+  "register_badge": "AMBER_COLLEAGUE",
+  "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
+  "usage_context": "A demand that is difficult to meet.",
+  "pragmatic_note": "Polite pushback: acknowledges the ask while signalling difficulty.",
+  "replaces_verbose": [
+   "this is very difficult to do in this time",
+   "it is a very big demand"
+  ],
+  "collocations": [
+   "that's a tall order"
+  ],
+  "examples_rp": [
+   {
+    "text": "Two weeks is a tall order for a full rewrite.",
+    "ipa_connected": "/tˈuː wˈiːks ˈɪz ə tˈɔːl ˈɔːdə fər ə fˈʊl rɪrˈaɪt/"
+   }
+  ],
+  "forms": [
+   "tall order"
+  ],
+  "phonemes": [
+   "ə",
+   "t",
+   "ɔː",
+   "l",
+   "d"
+  ]
+ },
+ {
+  "id": "lex_up_in_air_01",
+  "headword": "up in the air",
+  "ipa_rp": "/ˌʌp ɪn ði ˈeə/",
+  "syllable_stress": "UP in thee AIR",
+  "audio_uri": null,
+  "phonetic_trap": "Weak \"the\" before a vowel: /ði/ or /ðə/; non-rhotic SQUARE /eə/.",
+  "register_badge": "AMBER_COLLEAGUE",
+  "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
+  "usage_context": "Undecided.",
+  "pragmatic_note": "Honest about uncertainty without sounding disorganised.",
+  "replaces_verbose": [
+   "nothing is decided yet and it can change",
+   "still not finalised"
+  ],
+  "collocations": [
+   "still up in the air"
+  ],
+  "examples_rp": [
+   {
+    "text": "The launch date is still up in the air.",
+    "ipa_connected": "/ðə lˈɔːntʃ dˈeɪt ˈɪz stˈɪl ˈʌp ˈɪn ðɪ ˈeə/"
+   }
+  ],
+  "phonemes": [
+   "ʌ",
+   "p",
+   "ɪ",
+   "n",
+   "ð",
+   "eə"
+  ]
+ },
+ {
+  "id": "lex_pipeline_01",
+  "headword": "in the pipeline",
+  "ipa_rp": "/ɪn ðə ˈpaɪp.laɪn/",
+  "syllable_stress": "in thuh PYPE-lyne",
+  "audio_uri": null,
+  "phonetic_trap": "Weak \"the\" /ðə/; two PRICE /aɪ/ glides.",
+  "register_badge": "AMBER_COLLEAGUE",
+  "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
+  "usage_context": "Being planned or developed.",
+  "pragmatic_note": "Reassuring and vague in a useful way.",
+  "replaces_verbose": [
+   "we are already working on it and it will come soon",
+   "it is under preparation"
+  ],
+  "collocations": [
+   "in the pipeline"
+  ],
+  "examples_rp": [
+   {
+    "text": "A fix is in the pipeline.",
+    "ipa_connected": "/ə fˈɪks ˈɪz ˈɪn ðə pˈaɪplaɪn/"
+   }
+  ],
+  "phonemes": [
+   "ɪ",
+   "n",
+   "ð",
+   "ə",
+   "p",
+   "aɪ",
+   "l"
+  ]
+ },
+ {
+  "id": "lex_sounding_board_01",
+  "headword": "sounding board",
+  "ipa_rp": "/ˈsaʊn.dɪŋ ˌbɔːd/",
+  "syllable_stress": "SOWN-ding BAWD",
+  "audio_uri": null,
+  "phonetic_trap": "MOUTH /aʊ/; non-rhotic /bɔːd/.",
+  "register_badge": "AMBER_COLLEAGUE",
+  "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
+  "usage_context": "Someone whose reactions you use to test ideas.",
+  "pragmatic_note": "'Could I use you as a sounding board?' is a warm, low-stakes ask.",
+  "replaces_verbose": [
+   "can I discuss my idea with you to get your opinion",
+   "someone to discuss ideas with"
+  ],
+  "collocations": [
+   "use someone as a sounding board"
+  ],
+  "examples_rp": [
+   {
+    "text": "Could I use you as a sounding board for this?",
+    "ipa_connected": "/kəd ˈaɪ jˈuːs jˈuː əz ə sˈaʊndɪŋ bˈɔːd fə ðˈɪs/"
+   }
+  ],
+  "phonemes": [
+   "s",
+   "aʊ",
+   "n",
+   "d",
+   "ɪ",
+   "ŋ",
+   "b",
+   "ɔː"
+  ]
+ },
+ {
+  "id": "lex_fiddly_01",
+  "headword": "fiddly",
+  "ipa_rp": "/ˈfɪd.li/",
+  "syllable_stress": "FID-lee",
+  "audio_uri": null,
+  "phonetic_trap": "Short KIT /ɪ/; alveolar /d/, not [ɖ].",
+  "register_badge": "AMBER_COLLEAGUE",
+  "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
+  "usage_context": "Complicated and awkward to do, requiring care.",
+  "pragmatic_note": "Understates difficulty: 'it's a bit fiddly' rather than 'it's very hard'.",
+  "replaces_verbose": [
+   "it is very complicated and needs a lot of small adjustments",
+   "a little bit difficult to handle"
+  ],
+  "collocations": [
+   "a bit fiddly"
+  ],
+  "examples_rp": [
+   {
+    "text": "The config is a bit fiddly, but it works.",
+    "ipa_connected": "/ðə kənfˈɪɡ ˈɪz ə bˈɪt fˈɪdlɪ bət ˈɪt wˈɜːks/"
+   }
+  ],
+  "phonemes": [
+   "f",
+   "ɪ",
+   "d",
+   "l"
+  ]
+ },
+ {
+  "id": "lex_run_past_01",
+  "headword": "run it past",
+  "ipa_rp": "/ˈrʌn ɪt ˌpɑːst/",
+  "syllable_stress": "RUN it PAHST",
+  "audio_uri": null,
+  "phonetic_trap": "BATH vowel /ɑː/ in \"past\" — long and back, not [æ].",
+  "register_badge": "AMBER_COLLEAGUE",
+  "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
+  "usage_context": "To show someone an idea to get their opinion.",
+  "pragmatic_note": "Collaborative, consultative — good for cross-team courtesy.",
+  "replaces_verbose": [
+   "I will show it to him and take his opinion",
+   "check with them once"
+  ],
+  "collocations": [
+   "run it past legal",
+   "run something past someone"
+  ],
+  "examples_rp": [
+   {
+    "text": "Let me run it past legal first.",
+    "ipa_connected": "/lˈet mˈiː rˈʌn ˈɪt pˈɑːst lˈiːɡəl fˈɜːst/"
+   }
+  ],
+  "forms": [
+   "run this past",
+   "run that past"
+  ],
+  "phonemes": [
+   "r",
+   "ʌ",
+   "n",
+   "ɪ",
+   "t",
+   "p",
+   "ɑː",
+   "s"
+  ]
+ },
+ {
+  "id": "lex_hold_fort_01",
+  "headword": "hold the fort",
+  "ipa_rp": "/ˌhəʊld ðə ˈfɔːt/",
+  "syllable_stress": "HOHLD thuh FAWT",
+  "audio_uri": null,
+  "phonetic_trap": "GOAT /əʊ/ before dark /l/; non-rhotic /fɔːt/.",
+  "register_badge": "AMBER_COLLEAGUE",
+  "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
+  "usage_context": "To take responsibility while someone is away.",
+  "pragmatic_note": "Friendly delegation idiom.",
+  "replaces_verbose": [
+   "please manage everything while I am on leave",
+   "take care of the work in my absence"
+  ],
+  "collocations": [
+   "hold the fort"
+  ],
+  "examples_rp": [
+   {
+    "text": "Could you hold the fort while I'm on leave?",
+    "ipa_connected": "/kəd jˈuː hˈəʊld ðə fˈɔːt wˈaɪl ˈaɪm ˈɒn lˈiːv/"
+   }
+  ],
+  "phonemes": [
+   "h",
+   "əʊ",
+   "l",
+   "d",
+   "ð",
+   "ə",
+   "f",
+   "ɔː",
+   "t"
+  ]
+ },
+ {
+  "id": "lex_spanner_01",
+  "headword": "spanner in the works",
+  "ipa_rp": "/ˈspæn.ər ɪn ðə ˈwɜːks/",
+  "syllable_stress": "SPAN-uh rin thuh WURKS",
+  "audio_uri": null,
+  "phonetic_trap": "Linking /r/ in \"spanner in\"; non-rhotic NURSE /ɜː/ in \"works\".",
+  "register_badge": "AMBER_COLLEAGUE",
+  "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
+  "usage_context": "Something that disrupts a plan.",
+  "pragmatic_note": "British (US: \"monkey wrench\").",
+  "replaces_verbose": [
+   "one unexpected problem has come and spoiled the plan",
+   "something has disturbed our plan"
+  ],
+  "collocations": [
+   "throw a spanner in the works"
+  ],
+  "examples_rp": [
+   {
+    "text": "The vendor delay has thrown a spanner in the works.",
+    "ipa_connected": "/ðə vˈendə dɪlˈeɪ hˈæz θrˈəʊn ə spˈænər ˈɪn ðə wˈɜːks/"
+   }
+  ],
+  "phonemes": [
+   "s",
+   "p",
+   "æ",
+   "n",
+   "ə",
+   "r",
+   "ɪ",
+   "ð",
+   "w",
+   "ɜː",
+   "k"
+  ]
+ },
+ {
+  "id": "lex_mull_over_01",
+  "headword": "mull over",
+  "ipa_rp": "/ˌmʌl ˈəʊ.və/",
+  "syllable_stress": "MUL OH-vuh",
+  "audio_uri": null,
+  "phonetic_trap": "STRUT /ʌ/; GOAT /əʊ/; non-rhotic /və/.",
+  "register_badge": "AMBER_COLLEAGUE",
+  "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
+  "usage_context": "To think about something carefully before deciding.",
+  "pragmatic_note": "'Let me mull it over' buys time politely.",
+  "replaces_verbose": [
+   "let me think about it properly and then I will tell you",
+   "I need some time to think"
+  ],
+  "collocations": [
+   "mull it over"
+  ],
+  "examples_rp": [
+   {
+    "text": "Let me mull it over and come back to you.",
+    "ipa_connected": "/lˈet mˈiː mˈʌl ˈɪt ˈəʊvər ən kˈʌm bˈæk tə jˈuː/"
+   }
+  ],
+  "forms": [
+   "mull it over",
+   "mulling over"
+  ],
+  "phonemes": [
+   "m",
+   "ʌ",
+   "l",
+   "əʊ",
+   "v",
+   "ə"
+  ]
+ },
+ {
+  "id": "lex_rule_thumb_01",
+  "headword": "rule of thumb",
+  "ipa_rp": "/ˌruːl əv ˈθʌm/",
+  "syllable_stress": "ROOL uhv THUM",
+  "audio_uri": null,
+  "phonetic_trap": "Voiceless dental /θ/ — tongue on teeth, continuous air, not [t].",
+  "register_badge": "AMBER_COLLEAGUE",
+  "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
+  "usage_context": "A practical principle based on experience.",
+  "pragmatic_note": "Signals experience-based judgement.",
+  "replaces_verbose": [
+   "generally the practical principle that we follow is",
+   "as per general experience"
+  ],
+  "collocations": [
+   "as a rule of thumb"
+  ],
+  "examples_rp": [
+   {
+    "text": "As a rule of thumb, estimate, then double it.",
+    "ipa_connected": "/əz ə rˈuːl əv θˈʌm ˈestɪmət ðˈen dˈʌbəl ˈɪt/"
+   }
+  ],
+  "phonemes": [
+   "r",
+   "uː",
+   "l",
+   "ə",
+   "v",
+   "θ",
+   "ʌ",
+   "m"
+  ]
+ },
+ {
+  "id": "lex_cut_corners_01",
+  "headword": "cut corners",
+  "ipa_rp": "/ˌkʌt ˈkɔː.nəz/",
+  "syllable_stress": "KUT KAW-nuhz",
+  "audio_uri": null,
+  "phonetic_trap": "Non-rhotic /ˈkɔː.nəz/; glottal /t/ in \"cut\" before /k/ is natural RP.",
+  "register_badge": "AMBER_COLLEAGUE",
+  "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
+  "usage_context": "To do something badly or cheaply to save time.",
+  "pragmatic_note": "Useful for pushing back on quality-risking shortcuts.",
+  "replaces_verbose": [
+   "do the work quickly without proper quality",
+   "skip the important steps to save time"
+  ],
+  "collocations": [
+   "we shouldn't cut corners"
+  ],
+  "examples_rp": [
+   {
+    "text": "We can go faster, but I don't want to cut corners on testing.",
+    "ipa_connected": "/wˈiː kən ɡˈəʊ fˈɑːstə bət ˈaɪ dˈəʊnt wˈɒnt tə kˈʌt kˈɔːnəz ˈɒn tˈestɪŋ/"
+   }
+  ],
+  "forms": [
+   "cutting corners"
+  ],
+  "phonemes": [
+   "k",
+   "ʌ",
+   "t",
+   "ɔː",
+   "n",
+   "ə",
+   "z"
+  ]
+ },
+ {
+  "id": "lex_hit_ground_01",
+  "headword": "hit the ground running",
+  "ipa_rp": "/ˌhɪt ðə ˌɡraʊnd ˈrʌn.ɪŋ/",
+  "syllable_stress": "HIT thuh GROWND RUN-ing",
+  "audio_uri": null,
+  "phonetic_trap": "Weak /ðə/; MOUTH /aʊ/ in \"ground\"; final /ŋ/ without [ɡ].",
+  "register_badge": "AMBER_COLLEAGUE",
+  "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
+  "usage_context": "To start something new with energy and immediate effect.",
+  "pragmatic_note": "Popular in hiring and onboarding talk.",
+  "replaces_verbose": [
+   "start working fast from the very first day",
+   "begin immediately with full speed"
+  ],
+  "collocations": [
+   "hit the ground running"
+  ],
+  "examples_rp": [
+   {
+    "text": "We need someone who can hit the ground running.",
+    "ipa_connected": "/wˈiː nˈiːd sˈʌmwɒn hˈuː kən hˈɪt ðə ɡrˈaʊnd rˈʌnɪŋ/"
+   }
+  ],
+  "phonemes": [
+   "h",
+   "ɪ",
+   "t",
+   "ð",
+   "ə",
+   "ɡ",
+   "r",
+   "aʊ",
+   "n",
+   "d",
+   "ʌ",
+   "ŋ"
+  ]
+ },
+ {
+  "id": "lex_push_back_01",
+  "headword": "push back",
+  "ipa_rp": "/ˌpʊʃ ˈbæk/",
+  "syllable_stress": "PUSH BAK",
+  "audio_uri": null,
+  "phonetic_trap": "FOOT /ʊ/ (short, lightly rounded) — not /uː/.",
+  "register_badge": "AMBER_COLLEAGUE",
+  "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
+  "usage_context": "To resist or challenge a request; or to postpone.",
+  "pragmatic_note": "Normal workplace verb: 'I'd push back on that' = respectful disagreement.",
+  "replaces_verbose": [
+   "I do not agree and I want to oppose this",
+   "resist this request"
+  ],
+  "collocations": [
+   "push back on",
+   "pushed back to"
+  ],
+  "examples_rp": [
+   {
+    "text": "I'd push back on that timeline.",
+    "ipa_connected": "/ˈaɪd pˈʊʃ bˈæk ˈɒn ðˈæt tˈaɪmlaɪn/"
+   }
+  ],
+  "forms": [
+   "pushback",
+   "pushed back",
+   "pushing back"
+  ],
+  "phonemes": [
+   "p",
+   "ʊ",
+   "ʃ",
+   "b",
+   "æ",
+   "k"
+  ]
+ },
+ {
+  "id": "lex_sorted_01",
+  "headword": "sorted",
+  "ipa_rp": "/ˈsɔː.tɪd/",
+  "syllable_stress": "SAW-tid",
+  "audio_uri": null,
+  "phonetic_trap": "Non-rhotic THOUGHT /ɔː/; crisp alveolar /t/.",
+  "register_badge": "AMBER_COLLEAGUE",
+  "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
+  "usage_context": "Arranged or resolved satisfactorily.",
+  "pragmatic_note": "Very British; 'That's sorted' closes a topic cheerfully.",
+  "replaces_verbose": [
+   "the problem has been solved completely and everything is fine now",
+   "this issue is resolved"
+  ],
+  "collocations": [
+   "that's sorted",
+   "get it sorted"
+  ],
+  "examples_rp": [
+   {
+    "text": "The access issue is sorted.",
+    "ipa_connected": "/ðɪ ˈækses ˈɪʃuː ˈɪz sˈɔːtɪd/"
+   }
+  ],
+  "forms": [
+   "sort out",
+   "sorted out"
+  ],
+  "phonemes": [
+   "s",
+   "ɔː",
+   "t",
+   "ɪ",
+   "d"
+  ]
+ },
+ {
+  "id": "lex_quick_win_01",
+  "headword": "quick win",
+  "ipa_rp": "/ˌkwɪk ˈwɪn/",
+  "syllable_stress": "KWIK WIN",
+  "audio_uri": null,
+  "phonetic_trap": "Bilabial /w/ — rounded lips, no teeth contact (not [ʋ] or [v]).",
+  "register_badge": "AMBER_COLLEAGUE",
+  "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
+  "usage_context": "An improvement that is easy and fast to deliver.",
+  "pragmatic_note": "Builds momentum in planning discussions.",
+  "replaces_verbose": [
+   "some easy small improvement that we can do fast",
+   "an easy benefit to get quickly"
+  ],
+  "collocations": [
+   "a quick win",
+   "quick wins"
+  ],
+  "examples_rp": [
+   {
+    "text": "Caching is a quick win; let's start there.",
+    "ipa_connected": "/kˈæʃɪŋ ˈɪz ə kwˈɪk wˈɪn lˈets stˈɑːt ðˈeə/"
+   }
+  ],
+  "forms": [
+   "quick wins"
+  ],
+  "phonemes": [
+   "k",
+   "w",
+   "ɪ",
+   "n"
+  ]
+ },
+ {
+  "id": "lex_faffing_01",
+  "headword": "faffing about",
+  "ipa_rp": "/ˈfæf.ɪŋ əˌbaʊt/",
+  "syllable_stress": "FAF-ing uh-BOWT",
+  "audio_uri": null,
+  "phonetic_trap": "TRAP /æ/; weak /ə/ in \"about\"; MOUTH /aʊ/ glide.",
+  "register_badge": "RED_COLLOQUIAL",
+  "register_label": "Colloquial / Social Only — understand it, but keep it out of the workplace",
+  "usage_context": "Wasting time on unimportant activity.",
+  "pragmatic_note": "Fine in the pub or with close teammates; in meetings say \"bogged down in admin\".",
+  "replaces_verbose": [
+   "we wasted two hours doing random unproductive setup things",
+   "doing useless things and wasting time"
+  ],
+  "collocations": [
+   "faffing about",
+   "a bit of a faff"
+  ],
+  "examples_rp": [
+   {
+    "text": "We spent an hour faffing about with the projector.",
+    "ipa_connected": "/wˈiː spˈent ən ˈaʊə fˈæfɪŋ əbˈaʊt wˈɪð ðə prədʒˈektə/"
+   }
+  ],
+  "forms": [
+   "faff",
+   "faffing around"
+  ],
+  "phonemes": [
+   "f",
+   "æ",
+   "ɪ",
+   "ŋ",
+   "ə",
+   "b",
+   "aʊ",
+   "t"
+  ]
+ },
+ {
+  "id": "lex_gutted_01",
+  "headword": "gutted",
+  "ipa_rp": "/ˈɡʌt.ɪd/",
+  "syllable_stress": "GUT-id",
+  "audio_uri": null,
+  "phonetic_trap": "STRUT /ʌ/; alveolar /t/ — or a glottal stop in casual speech.",
+  "register_badge": "RED_COLLOQUIAL",
+  "register_label": "Colloquial / Social Only — understand it, but keep it out of the workplace",
+  "usage_context": "Extremely disappointed.",
+  "pragmatic_note": "Social only — at work, try \"really disappointed\".",
+  "replaces_verbose": [
+   "I am very very sad and disappointed",
+   "I felt really bad about it"
+  ],
+  "collocations": [
+   "absolutely gutted"
+  ],
+  "examples_rp": [
+   {
+    "text": "I was gutted when the match got cancelled.",
+    "ipa_connected": "/ˈaɪ wəz ɡˈʌtɪd wˈen ðə mˈætʃ ɡˈɒt kˈænsəld/"
+   }
+  ],
+  "phonemes": [
+   "ɡ",
+   "ʌ",
+   "t",
+   "ɪ",
+   "d"
+  ]
+ },
+ {
+  "id": "lex_knackered_01",
+  "headword": "knackered",
+  "ipa_rp": "/ˈnæk.əd/",
+  "syllable_stress": "NAK-uhd",
+  "audio_uri": null,
+  "phonetic_trap": "Silent k; non-rhotic /əd/ ending.",
+  "register_badge": "RED_COLLOQUIAL",
+  "register_label": "Colloquial / Social Only — understand it, but keep it out of the workplace",
+  "usage_context": "Extremely tired.",
+  "pragmatic_note": "Casual; at work prefer \"exhausted\" or \"running on empty\".",
+  "replaces_verbose": [
+   "I am feeling very very tired",
+   "totally tired and exhausted"
+  ],
+  "collocations": [
+   "absolutely knackered",
+   "completely knackered"
+  ],
+  "examples_rp": [
+   {
+    "text": "I'm knackered after that flight.",
+    "ipa_connected": "/ˈaɪm nˈækəd ˈɑːftə ðˈæt flˈaɪt/"
+   }
+  ],
+  "phonemes": [
+   "n",
+   "æ",
+   "k",
+   "ə",
+   "d"
+  ]
+ },
+ {
+  "id": "lex_chuffed_01",
+  "headword": "chuffed",
+  "ipa_rp": "/tʃʌft/",
+  "syllable_stress": "CHUFT",
+  "audio_uri": null,
+  "phonetic_trap": "STRUT /ʌ/; /ft/ cluster.",
+  "register_badge": "RED_COLLOQUIAL",
+  "register_label": "Colloquial / Social Only — understand it, but keep it out of the workplace",
+  "usage_context": "Very pleased.",
+  "pragmatic_note": "Warm and informal; 'chuffed to bits' is extra cheerful.",
+  "replaces_verbose": [
+   "I am very very happy about this",
+   "extremely pleased"
+  ],
+  "collocations": [
+   "chuffed to bits",
+   "really chuffed"
+  ],
+  "examples_rp": [
+   {
+    "text": "She was chuffed with the result.",
+    "ipa_connected": "/ʃˈiː wəz tʃˈʌft wˈɪð ðə rɪzˈʌlt/"
+   }
+  ],
+  "phonemes": [
+   "tʃ",
+   "ʌ",
+   "f",
+   "t"
+  ]
+ },
+ {
+  "id": "lex_dodgy_01",
+  "headword": "dodgy",
+  "ipa_rp": "/ˈdɒdʒ.i/",
+  "syllable_stress": "DOJ-ee",
+  "audio_uri": null,
+  "phonetic_trap": "LOT /ɒ/ — short and rounded, not [ɑ].",
+  "register_badge": "RED_COLLOQUIAL",
+  "register_label": "Colloquial / Social Only — understand it, but keep it out of the workplace",
+  "usage_context": "Dishonest, unreliable or of poor quality.",
+  "pragmatic_note": "Informal; in a code review say \"fragile\" or \"unreliable\" instead.",
+  "replaces_verbose": [
+   "this does not look correct and seems suspicious",
+   "not reliable and suspicious"
+  ],
+  "collocations": [
+   "a bit dodgy",
+   "dodgy wi-fi"
+  ],
+  "examples_rp": [
+   {
+    "text": "The hotel wi-fi was a bit dodgy.",
+    "ipa_connected": "/ðə həʊtˈel wˈaɪfˌaɪ wəz ə bˈɪt dˈɒdʒɪ/"
+   }
+  ],
+  "phonemes": [
+   "d",
+   "ɒ",
+   "dʒ",
+   "ɪ"
+  ]
+ },
+ {
+  "id": "lex_mick_01",
+  "headword": "taking the mick",
+  "ipa_rp": "/ˌteɪ.kɪŋ ðə ˈmɪk/",
+  "syllable_stress": "TAY-king thuh MIK",
+  "audio_uri": null,
+  "phonetic_trap": "FACE /eɪ/ glide; weak /ðə/.",
+  "register_badge": "RED_COLLOQUIAL",
+  "register_label": "Colloquial / Social Only — understand it, but keep it out of the workplace",
+  "usage_context": "Teasing or mocking someone; or being unreasonable.",
+  "pragmatic_note": "Banter only — can sound aggressive in a professional setting.",
+  "replaces_verbose": [
+   "he is making fun of me",
+   "this is unreasonable and they are mocking us"
+  ],
+  "collocations": [
+   "taking the mick",
+   "are you taking the mick?"
+  ],
+  "examples_rp": [
+   {
+    "text": "He's taking the mick with that price.",
+    "ipa_connected": "/hˈiːz tˈeɪkɪŋ ðə mˈɪk wˈɪð ðˈæt prˈaɪs/"
+   }
+  ],
+  "forms": [
+   "take the mick",
+   "taking the mickey"
+  ],
+  "phonemes": [
+   "t",
+   "eɪ",
+   "k",
+   "ɪ",
+   "ŋ",
+   "ð",
+   "ə",
+   "m"
+  ]
+ },
+ {
+  "id": "lex_skint_01",
+  "headword": "skint",
+  "ipa_rp": "/skɪnt/",
+  "syllable_stress": "SKINT",
+  "audio_uri": null,
+  "phonetic_trap": "Short KIT /ɪ/; no epenthetic vowel before /sk/.",
+  "register_badge": "RED_COLLOQUIAL",
+  "register_label": "Colloquial / Social Only — understand it, but keep it out of the workplace",
+  "usage_context": "Having no money.",
+  "pragmatic_note": "Casual only.",
+  "replaces_verbose": [
+   "I do not have any money right now",
+   "I have no money at all"
+  ],
+  "collocations": [
+   "completely skint"
+  ],
+  "examples_rp": [
+   {
+    "text": "I'm skint until payday.",
+    "ipa_connected": "/ˈaɪm skˈɪnt ʌntˈɪl pˈeɪdeɪ/"
+   }
+  ],
+  "phonemes": [
+   "s",
+   "k",
+   "ɪ",
+   "n",
+   "t"
+  ]
+ },
+ {
+  "id": "lex_gobsmacked_01",
+  "headword": "gobsmacked",
+  "ipa_rp": "/ˈɡɒb.smækt/",
+  "syllable_stress": "GOB-smakt",
+  "audio_uri": null,
+  "phonetic_trap": "LOT /ɒ/ then TRAP /æ/.",
+  "register_badge": "RED_COLLOQUIAL",
+  "register_label": "Colloquial / Social Only — understand it, but keep it out of the workplace",
+  "usage_context": "Utterly astonished.",
+  "pragmatic_note": "Expressive and informal.",
+  "replaces_verbose": [
+   "I was very very surprised and shocked",
+   "completely shocked"
+  ],
+  "collocations": [],
+  "examples_rp": [
+   {
+    "text": "I was gobsmacked by the turnout.",
+    "ipa_connected": "/ˈaɪ wəz ɡˈɒbsmækt bˈaɪ ðə tˈɜːnaʊt/"
+   }
+  ],
+  "phonemes": [
+   "ɡ",
+   "ɒ",
+   "b",
+   "s",
+   "m",
+   "æ",
+   "k",
+   "t"
+  ]
+ },
+ {
+  "id": "lex_cockup_01",
+  "headword": "cock-up",
+  "ipa_rp": "/ˈkɒk.ʌp/",
+  "syllable_stress": "KOK-up",
+  "audio_uri": null,
+  "phonetic_trap": "LOT /ɒ/; STRUT /ʌ/.",
+  "register_badge": "RED_COLLOQUIAL",
+  "register_label": "Colloquial / Social Only — understand it, but keep it out of the workplace",
+  "usage_context": "A mistake that ruins something.",
+  "pragmatic_note": "Informal, slightly rude; at work use 'a mix-up' or 'an error'.",
+  "replaces_verbose": [
+   "a big mistake happened and everything got spoiled",
+   "there was a big blunder"
+  ],
+  "collocations": [
+   "a bit of a cock-up"
+  ],
+  "examples_rp": [
+   {
+    "text": "There was a cock-up with the booking.",
+    "ipa_connected": "/ðə wəz ə kˈɒkˈʌp wˈɪð ðə bˈʊkɪŋ/"
+   }
+  ],
+  "forms": [
+   "cock up"
+  ],
+  "phonemes": [
+   "k",
+   "ɒ",
+   "ʌ",
+   "p"
+  ]
+ },
+ {
+  "id": "lex_all_over_shop_01",
+  "headword": "all over the shop",
+  "ipa_rp": "/ˌɔːl ˌəʊ.və ðə ˈʃɒp/",
+  "syllable_stress": "AWL OH-vuh thuh SHOP",
+  "audio_uri": null,
+  "phonetic_trap": "Non-rhotic \"over\" /ˈəʊ.və/; weak /ðə/; LOT /ɒ/.",
+  "register_badge": "RED_COLLOQUIAL",
+  "register_label": "Colloquial / Social Only — understand it, but keep it out of the workplace",
+  "usage_context": "Disorganised; chaotic.",
+  "pragmatic_note": "Casual; at work say \"a bit disorganised\".",
+  "replaces_verbose": [
+   "everything is very disorganised and not in order",
+   "totally messy and confusing"
+  ],
+  "collocations": [
+   "all over the shop"
+  ],
+  "examples_rp": [
+   {
+    "text": "The meeting was all over the shop.",
+    "ipa_connected": "/ðə mˈiːtɪŋ wəz ˈɔːl ˈəʊvə ðə ʃˈɒp/"
+   }
+  ],
+  "phonemes": [
+   "ɔː",
+   "l",
+   "əʊ",
+   "v",
+   "ə",
+   "ð",
+   "ʃ",
+   "ɒ",
+   "p"
+  ]
+ },
+ {
+  "id": "lex_sods_law_01",
+  "headword": "sod's law",
+  "ipa_rp": "/ˌsɒdz ˈlɔː/",
+  "syllable_stress": "SODZ LAW",
+  "audio_uri": null,
+  "phonetic_trap": "Non-rhotic /lɔː/ — and no intrusive /r/ before a consonant.",
+  "register_badge": "RED_COLLOQUIAL",
+  "register_label": "Colloquial / Social Only — understand it, but keep it out of the workplace",
+  "usage_context": "The idea that if something can go wrong, it will.",
+  "pragmatic_note": "Mildly rude; Murphy's law is the safe version.",
+  "replaces_verbose": [
+   "whatever can go wrong will definitely go wrong",
+   "bad luck always comes at the worst time"
+  ],
+  "collocations": [
+   "it's sod's law"
+  ],
+  "examples_rp": [
+   {
+    "text": "Sod's law — it rained on the one day we planned outside.",
+    "ipa_connected": "/sˈɒdz lˈɔː ˈɪt rˈeɪnd ˈɒn ðə wˈɒn dˈeɪ wˈiː plˈænd aʊtsˈaɪd/"
+   }
+  ],
+  "forms": [
+   "sods law"
+  ],
+  "phonemes": [
+   "s",
+   "ɒ",
+   "l",
+   "ɔː"
+  ]
+ }
+]
