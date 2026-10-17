@@ -1,0 +1,5185 @@
+[
+  {
+    "headword": "aubergine",
+    "register": "GREEN",
+    "us_equivalent": "eggplant",
+    "gloss": "A large glossy purple vegetable with soft flesh, used in moussaka and curries.",
+    "usage": "The standard word in UK shops, menus and recipes.",
+    "pragmatic_note": null,
+    "pitfall": "Indian English 'brinjal' is understood by some but sounds unfamiliar to most Britons.",
+    "examples": [
+      "Could you pick up two aubergines for the moussaka?",
+      "The roasted aubergine was the best thing on the menu."
+    ],
+    "collocations": [
+      "roasted aubergine",
+      "aubergine curry"
+    ],
+    "wiki": "Eggplant",
+    "forms": [
+      "aubergines"
+    ]
+  },
+  {
+    "headword": "courgette",
+    "register": "GREEN",
+    "us_equivalent": "zucchini",
+    "gloss": "A small green summer squash, eaten cooked or raw.",
+    "usage": "The everyday British word in supermarkets, recipes and menus.",
+    "pragmatic_note": "If you leave a courgette to grow huge, Britons call it a marrow.",
+    "pitfall": "Americans say 'zucchini', which many Britons recognise but rarely use.",
+    "examples": [
+      "Slice the courgettes thinly and fry them in olive oil.",
+      "We've got far too many courgettes from the allotment."
+    ],
+    "collocations": [
+      "grated courgette",
+      "courgette fritters"
+    ],
+    "wiki": "Zucchini",
+    "forms": [
+      "courgettes"
+    ]
+  },
+  {
+    "headword": "coriander",
+    "register": "GREEN",
+    "us_equivalent": "cilantro",
+    "gloss": "A fragrant herb; in the UK the word covers both the fresh leaves and the seeds.",
+    "usage": "Used in recipes, shops and restaurants for the fresh leaves and the dried seeds alike.",
+    "pragmatic_note": null,
+    "pitfall": "In the US 'coriander' usually means only the seeds; the leaves are 'cilantro'.",
+    "examples": [
+      "Scatter some fresh coriander over the curry before serving.",
+      "I can't stand coriander; it tastes like soap to me."
+    ],
+    "collocations": [
+      "fresh coriander",
+      "ground coriander",
+      "coriander seeds"
+    ],
+    "wiki": "Coriander",
+    "forms": []
+  },
+  {
+    "headword": "rocket",
+    "register": "GREEN",
+    "us_equivalent": "arugula",
+    "gloss": "A peppery salad leaf, often served with Parmesan or on pizza.",
+    "usage": "Standard on British menus and supermarket salad bags.",
+    "pragmatic_note": null,
+    "pitfall": "'Arugula' is the American word and sounds foreign in a UK shop.",
+    "examples": [
+      "The pizza comes topped with rocket and Parmesan.",
+      "Could I have a rocket salad on the side, please?"
+    ],
+    "collocations": [
+      "rocket salad",
+      "wild rocket"
+    ],
+    "wiki": "Eruca vesicaria",
+    "forms": []
+  },
+  {
+    "headword": "mangetout",
+    "register": "GREEN",
+    "us_equivalent": "snow peas",
+    "gloss": "Flat pea pods eaten whole, usually lightly stir-fried or steamed.",
+    "usage": "Common in British supermarkets and recipes; borrowed from French 'eat all'.",
+    "pragmatic_note": null,
+    "pitfall": "Pronounced 'monzh-TOO' in Britain; the final 't' is silent.",
+    "examples": [
+      "Stir-fry the mangetout for just a minute or two.",
+      "This pack of mangetout is from Kenya."
+    ],
+    "collocations": [
+      "sugar snaps and mangetout"
+    ],
+    "wiki": "Snow pea",
+    "forms": []
+  },
+  {
+    "headword": "swede",
+    "register": "GREEN",
+    "us_equivalent": "rutabaga",
+    "gloss": "A large root vegetable with yellow-orange flesh, often mashed.",
+    "usage": "Common in winter cooking in England and Wales; in Scotland it is called 'neeps'.",
+    "pragmatic_note": "In parts of northern England and Scotland people may call it a turnip.",
+    "pitfall": null,
+    "examples": [
+      "Mash the swede with plenty of butter and black pepper.",
+      "Haggis is traditionally served with mashed swede and potato."
+    ],
+    "collocations": [
+      "mashed swede",
+      "carrot and swede"
+    ],
+    "wiki": "Rutabaga",
+    "forms": [
+      "swedes"
+    ]
+  },
+  {
+    "headword": "spring onion",
+    "register": "GREEN",
+    "us_equivalent": "scallion / green onion",
+    "gloss": "A young onion with a small white bulb and long green leaves.",
+    "usage": "The standard British term in shops and recipes.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Finely slice two spring onions for the garnish.",
+      "Can you add spring onions to the shopping list?"
+    ],
+    "collocations": [
+      "chopped spring onion",
+      "spring onion and cheese"
+    ],
+    "wiki": "Scallion",
+    "forms": [
+      "spring onions"
+    ]
+  },
+  {
+    "headword": "beetroot",
+    "register": "GREEN",
+    "us_equivalent": "beet",
+    "gloss": "A dark red root vegetable, often sold cooked and eaten in salads.",
+    "usage": "The usual British word; 'beet' alone sounds American.",
+    "pragmatic_note": "Britons often buy beetroot pre-cooked or pickled in jars.",
+    "pitfall": null,
+    "examples": [
+      "The beetroot has stained my fingers bright pink.",
+      "There's goat's cheese and beetroot salad to start."
+    ],
+    "collocations": [
+      "pickled beetroot",
+      "roasted beetroot"
+    ],
+    "wiki": "Beetroot",
+    "forms": []
+  },
+  {
+    "headword": "broad beans",
+    "register": "GREEN",
+    "us_equivalent": "fava beans",
+    "gloss": "Large flat pale-green beans that grow in thick pods.",
+    "usage": "The usual UK name in recipes and on allotments.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We grew broad beans on the allotment this year.",
+      "Pod the broad beans and blanch them briefly."
+    ],
+    "collocations": [
+      "fresh broad beans"
+    ],
+    "wiki": "Vicia faba",
+    "forms": [
+      "broad bean"
+    ]
+  },
+  {
+    "headword": "French beans",
+    "register": "GREEN",
+    "us_equivalent": "green beans / string beans",
+    "gloss": "Thin green bean pods eaten whole after boiling or steaming.",
+    "usage": "Common in UK shops; 'green beans' is also widely used.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Serve the salmon with new potatoes and French beans.",
+      "Top and tail the French beans before you cook them."
+    ],
+    "collocations": [
+      "fine French beans"
+    ],
+    "wiki": "Green bean",
+    "forms": [
+      "French bean"
+    ]
+  },
+  {
+    "headword": "sweetcorn",
+    "register": "GREEN",
+    "us_equivalent": "corn",
+    "gloss": "The sweet yellow kernels of maize, eaten as a vegetable.",
+    "usage": "Standard UK word on tins, menus and pizza toppings.",
+    "pragmatic_note": null,
+    "pitfall": "In Britain 'corn' alone can mean any cereal crop, so say 'sweetcorn' for the vegetable.",
+    "examples": [
+      "Would you like sweetcorn on your jacket potato?",
+      "Drain a tin of sweetcorn and stir it in."
+    ],
+    "collocations": [
+      "tinned sweetcorn",
+      "corn on the cob"
+    ],
+    "wiki": "Sweet corn",
+    "forms": []
+  },
+  {
+    "headword": "pak choi",
+    "register": "GREEN",
+    "us_equivalent": "bok choy",
+    "gloss": "A Chinese cabbage with white stalks and dark green leaves.",
+    "usage": "The spelling and name used in British supermarkets and recipes.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Steam the pak choi and drizzle it with soy sauce.",
+      "Baby pak choi is lovely in a noodle soup."
+    ],
+    "collocations": [
+      "baby pak choi"
+    ],
+    "wiki": "Bok choy",
+    "forms": []
+  },
+  {
+    "headword": "pepper",
+    "register": "GREEN",
+    "us_equivalent": "bell pepper",
+    "gloss": "A hollow, sweet vegetable in red, green, yellow or orange; also called a sweet pepper.",
+    "usage": "Britons say 'a red pepper' or 'a green pepper' in shops and recipes.",
+    "pragmatic_note": null,
+    "pitfall": "Indian English 'capsicum' is rarely used in Britain; 'bell pepper' sounds American.",
+    "examples": [
+      "Chop one red pepper and one onion.",
+      "Stuffed peppers are on the menu tonight."
+    ],
+    "collocations": [
+      "red pepper",
+      "stuffed peppers",
+      "roasted peppers"
+    ],
+    "wiki": "Bell pepper",
+    "forms": [
+      "peppers"
+    ]
+  },
+  {
+    "headword": "chilli",
+    "register": "GREEN",
+    "us_equivalent": "chili pepper",
+    "gloss": "A small hot pepper, or a spicy stew made with it.",
+    "usage": "British spelling is 'chilli' with two Ls, for both the pepper and the dish.",
+    "pragmatic_note": null,
+    "pitfall": "Spelling 'chili' looks American; 'chilli con carne' is the UK menu spelling.",
+    "examples": [
+      "Go easy on the chilli; the kids won't eat it.",
+      "We're having chilli con carne for tea."
+    ],
+    "collocations": [
+      "chilli con carne",
+      "red chilli",
+      "chilli flakes"
+    ],
+    "wiki": "Chili pepper",
+    "forms": [
+      "chillies"
+    ]
+  },
+  {
+    "headword": "marrow",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A very large, mild-tasting green squash, like an overgrown courgette.",
+    "usage": "Associated with British vegetable gardens and village shows.",
+    "pragmatic_note": "Growing the biggest marrow is a classic competition at British village fêtes.",
+    "pitfall": "Not to be confused with bone marrow, which is also eaten.",
+    "examples": [
+      "He won first prize for his marrow at the village show.",
+      "Stuffed marrow was a staple of my gran's cooking."
+    ],
+    "collocations": [
+      "stuffed marrow"
+    ],
+    "wiki": "Marrow (vegetable)",
+    "forms": [
+      "marrows"
+    ]
+  },
+  {
+    "headword": "cos lettuce",
+    "register": "GREEN",
+    "us_equivalent": "romaine lettuce",
+    "gloss": "A tall lettuce with long crisp leaves, used in Caesar salad.",
+    "usage": "Standard UK name in shops; 'romaine' is increasingly seen too.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "A Caesar salad really needs crisp cos lettuce.",
+      "Grab a cos lettuce and some tomatoes, please."
+    ],
+    "collocations": [
+      "cos lettuce leaves"
+    ],
+    "wiki": "Romaine lettuce",
+    "forms": []
+  },
+  {
+    "headword": "sultanas",
+    "register": "GREEN",
+    "us_equivalent": "golden raisins",
+    "gloss": "Pale dried seedless grapes, used in cakes, scones and cereal.",
+    "usage": "Very common in British baking; distinguished from darker raisins and smaller currants.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Do you want plain scones or ones with sultanas?",
+      "Soak the sultanas in tea overnight for the fruit loaf."
+    ],
+    "collocations": [
+      "fruit scones with sultanas"
+    ],
+    "wiki": "Sultana (grape)",
+    "forms": [
+      "sultana"
+    ]
+  },
+  {
+    "headword": "satsuma",
+    "register": "GREEN",
+    "us_equivalent": "mandarin",
+    "gloss": "A small, sweet, easy-peeling citrus fruit, popular at Christmas.",
+    "usage": "The everyday British word for most small easy-peel oranges.",
+    "pragmatic_note": "A satsuma in the toe of a Christmas stocking is a long-standing British tradition.",
+    "pitfall": null,
+    "examples": [
+      "There's a satsuma in the bottom of every stocking.",
+      "I've packed you a satsuma for your break."
+    ],
+    "collocations": [
+      "a bag of satsumas"
+    ],
+    "wiki": "Citrus unshiu",
+    "forms": [
+      "satsumas"
+    ]
+  },
+  {
+    "headword": "spud",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "An informal word for a potato.",
+    "usage": "Friendly, everyday British word, common in conversation and cheerful menus.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Can you peel the spuds while I do the gravy?",
+      "Nothing beats a baked spud on a cold day."
+    ],
+    "collocations": [
+      "baked spud",
+      "peel the spuds"
+    ],
+    "wiki": "Potato",
+    "forms": [
+      "spuds"
+    ]
+  },
+  {
+    "headword": "veg",
+    "register": "AMBER",
+    "us_equivalent": "veggies",
+    "gloss": "Short for vegetables, used as a singular or plural noun.",
+    "usage": "Extremely common in everyday British speech and on menus.",
+    "pragmatic_note": "'Meat and two veg' describes a traditional, plain British dinner.",
+    "pitfall": "Britons say 'veg' where Americans say 'veggies'; 'veggie' in the UK usually means vegetarian.",
+    "examples": [
+      "Make sure you eat your veg.",
+      "It's a proper meat-and-two-veg kind of place."
+    ],
+    "collocations": [
+      "meat and two veg",
+      "fruit and veg",
+      "seasonal veg"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "stone",
+    "register": "GREEN",
+    "us_equivalent": "pit",
+    "gloss": "The single hard seed in the middle of fruit such as cherries, plums or peaches.",
+    "usage": "Standard British word in recipes and on packaging ('may contain stones').",
+    "pragmatic_note": null,
+    "pitfall": "Saying 'pit' sounds American; Britons 'stone' cherries rather than 'pit' them.",
+    "examples": [
+      "Careful, the olives still have their stones in.",
+      "Halve the plums and remove the stones."
+    ],
+    "collocations": [
+      "cherry stone",
+      "remove the stones"
+    ],
+    "wiki": null,
+    "forms": [
+      "stones",
+      "stoned"
+    ]
+  },
+  {
+    "headword": "plain flour",
+    "register": "GREEN",
+    "us_equivalent": "all-purpose flour",
+    "gloss": "Ordinary wheat flour with no raising agent added.",
+    "usage": "Standard term in British recipes and on supermarket shelves.",
+    "pragmatic_note": null,
+    "pitfall": "Do not swap it for self-raising flour, or your sauce or pastry will behave differently.",
+    "examples": [
+      "You'll need 200 grams of plain flour.",
+      "Dust the worktop with a little plain flour."
+    ],
+    "collocations": [
+      "sift the plain flour"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "self-raising flour",
+    "register": "GREEN",
+    "us_equivalent": "self-rising flour",
+    "gloss": "Flour with baking powder already mixed in, used for cakes and scones.",
+    "usage": "A staple in British kitchens and in almost every classic sponge recipe.",
+    "pragmatic_note": null,
+    "pitfall": "Note the UK spelling 'raising' rather than the American 'rising'.",
+    "examples": [
+      "Use self-raising flour, or add baking powder to plain.",
+      "We've run out of self-raising flour."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "wholemeal",
+    "register": "GREEN",
+    "us_equivalent": "whole wheat",
+    "gloss": "Made from the whole grain of wheat, including the bran.",
+    "usage": "Standard British word for bread and flour; 'brown bread' is also common.",
+    "pragmatic_note": null,
+    "pitfall": "'Whole wheat' is American; 'wholegrain' is used in the UK too, but for a broader category.",
+    "examples": [
+      "Could I have that on wholemeal bread, please?",
+      "Wholemeal pasta keeps you fuller for longer."
+    ],
+    "collocations": [
+      "wholemeal bread",
+      "wholemeal flour"
+    ],
+    "wiki": "Whole wheat bread",
+    "forms": []
+  },
+  {
+    "headword": "caster sugar",
+    "register": "GREEN",
+    "us_equivalent": "superfine sugar",
+    "gloss": "Very fine white sugar that dissolves quickly, used in baking and meringues.",
+    "usage": "Found in almost every British cake recipe.",
+    "pragmatic_note": null,
+    "pitfall": "Not the same as icing sugar, which is a powder.",
+    "examples": [
+      "Beat the butter and caster sugar until pale and fluffy.",
+      "Sprinkle a little caster sugar over the strawberries."
+    ],
+    "collocations": [
+      "golden caster sugar"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "icing sugar",
+    "register": "GREEN",
+    "us_equivalent": "powdered sugar / confectioners' sugar",
+    "gloss": "Sugar ground to a fine powder, used for icing and dusting cakes.",
+    "usage": "Standard British term in recipes and on packets.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Dust the cake with icing sugar just before serving.",
+      "Mix the icing sugar with a little lemon juice."
+    ],
+    "collocations": [
+      "a dusting of icing sugar",
+      "sifted icing sugar"
+    ],
+    "wiki": "Powdered sugar",
+    "forms": []
+  },
+  {
+    "headword": "icing",
+    "register": "GREEN",
+    "us_equivalent": "frosting",
+    "gloss": "A sweet coating or decoration for cakes, made mainly from sugar.",
+    "usage": "The usual British word for any cake topping, including buttercream.",
+    "pragmatic_note": null,
+    "pitfall": "'Frosting' is understood but sounds American; Britons 'ice' a cake.",
+    "examples": [
+      "Wait until the cake has cooled before you add the icing.",
+      "She's piped the icing beautifully."
+    ],
+    "collocations": [
+      "royal icing",
+      "glacé icing",
+      "ice a cake"
+    ],
+    "wiki": "Icing (food)",
+    "forms": [
+      "iced"
+    ]
+  },
+  {
+    "headword": "golden syrup",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A thick, golden, sweet syrup made from sugar refining, used in baking.",
+    "usage": "A classic British store-cupboard item for flapjacks, treacle tart and porridge.",
+    "pragmatic_note": null,
+    "pitfall": "Corn syrup is not quite the same; British recipes rely on golden syrup's flavour.",
+    "examples": [
+      "Warm the golden syrup with the butter for the flapjacks.",
+      "I like a spoonful of golden syrup on my porridge."
+    ],
+    "collocations": [
+      "a tin of golden syrup"
+    ],
+    "wiki": "Golden syrup",
+    "forms": []
+  },
+  {
+    "headword": "treacle",
+    "register": "GREEN",
+    "us_equivalent": "molasses",
+    "gloss": "A thick dark sugar syrup; 'black treacle' is close to American molasses.",
+    "usage": "Used in traditional British baking such as parkin and treacle toffee.",
+    "pragmatic_note": "Despite the name, treacle tart is made with golden syrup, not black treacle.",
+    "pitfall": null,
+    "examples": [
+      "Parkin gets its dark colour from black treacle.",
+      "Add a tablespoon of treacle to the gingerbread."
+    ],
+    "collocations": [
+      "black treacle",
+      "treacle toffee"
+    ],
+    "wiki": "Treacle",
+    "forms": []
+  },
+  {
+    "headword": "bicarbonate of soda",
+    "register": "GREEN",
+    "us_equivalent": "baking soda",
+    "gloss": "A white powder used as a raising agent in baking.",
+    "usage": "Common in British recipes, often shortened to 'bicarb'.",
+    "pragmatic_note": null,
+    "pitfall": "It is not the same as baking powder, though both help cakes rise.",
+    "examples": [
+      "Add half a teaspoon of bicarbonate of soda.",
+      "Have we got any bicarb left?"
+    ],
+    "collocations": [
+      "a pinch of bicarb"
+    ],
+    "wiki": "Sodium bicarbonate",
+    "forms": [
+      "bicarb"
+    ]
+  },
+  {
+    "headword": "cornflour",
+    "register": "GREEN",
+    "us_equivalent": "cornstarch",
+    "gloss": "A fine white starch from maize, used to thicken sauces.",
+    "usage": "Standard term in British recipes and shops.",
+    "pragmatic_note": null,
+    "pitfall": "In the US 'corn flour' can mean finely ground cornmeal, which is different.",
+    "examples": [
+      "Thicken the sauce with a teaspoon of cornflour.",
+      "Mix the cornflour with a little cold water first."
+    ],
+    "collocations": [
+      "cornflour paste"
+    ],
+    "wiki": "Corn starch",
+    "forms": []
+  },
+  {
+    "headword": "hundreds and thousands",
+    "register": "AMBER",
+    "us_equivalent": "sprinkles / nonpareils",
+    "gloss": "Tiny coloured sugar balls or strands scattered over cakes and desserts.",
+    "usage": "A nostalgic British term, especially for children's party food.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The kids want hundreds and thousands on their fairy cakes.",
+      "Top the trifle with a few hundreds and thousands."
+    ],
+    "collocations": [],
+    "wiki": "Sprinkles",
+    "forms": []
+  },
+  {
+    "headword": "stock cube",
+    "register": "GREEN",
+    "us_equivalent": "bouillon cube",
+    "gloss": "A small cube of dried, concentrated stock, dissolved in hot water.",
+    "usage": "A standard item in British kitchens and recipes.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Crumble a chicken stock cube into the boiling water.",
+      "We need vegetable stock cubes for the soup."
+    ],
+    "collocations": [
+      "chicken stock cube",
+      "vegetable stock cube"
+    ],
+    "wiki": "Bouillon cube",
+    "forms": [
+      "stock cubes"
+    ]
+  },
+  {
+    "headword": "tomato purée",
+    "register": "GREEN",
+    "us_equivalent": "tomato paste",
+    "gloss": "A thick, concentrated tomato paste sold in tubes or tins.",
+    "usage": "Standard UK term on packaging and in recipes.",
+    "pragmatic_note": null,
+    "pitfall": "In Britain this is the thick paste; American 'tomato puree' is thinner, closer to passata.",
+    "examples": [
+      "Squeeze in a tablespoon of tomato purée.",
+      "We're nearly out of tomato purée."
+    ],
+    "collocations": [
+      "a tube of tomato purée"
+    ],
+    "wiki": "Tomato paste",
+    "forms": []
+  },
+  {
+    "headword": "passata",
+    "register": "GREEN",
+    "us_equivalent": "tomato puree / strained tomatoes",
+    "gloss": "Smooth, uncooked sieved tomatoes, sold in jars or cartons.",
+    "usage": "Very common in British supermarkets and pasta recipes.",
+    "pragmatic_note": null,
+    "pitfall": "Do not confuse with British 'tomato purée', which is a thick paste.",
+    "examples": [
+      "Pour in a carton of passata and simmer.",
+      "Passata makes a quick pizza sauce."
+    ],
+    "collocations": [
+      "a carton of passata"
+    ],
+    "wiki": "Tomato purée",
+    "forms": []
+  },
+  {
+    "headword": "rapeseed oil",
+    "register": "GREEN",
+    "us_equivalent": "canola oil",
+    "gloss": "A light cooking oil pressed from the seeds of the yellow rapeseed plant.",
+    "usage": "Widely sold in British supermarkets; often British-grown.",
+    "pragmatic_note": "The bright yellow fields seen across the British countryside in spring are rapeseed.",
+    "pitfall": null,
+    "examples": [
+      "Cold-pressed rapeseed oil is great for roast potatoes.",
+      "Fry the onions in a little rapeseed oil."
+    ],
+    "collocations": [
+      "cold-pressed rapeseed oil"
+    ],
+    "wiki": "Rapeseed oil",
+    "forms": []
+  },
+  {
+    "headword": "single cream",
+    "register": "GREEN",
+    "us_equivalent": "light cream",
+    "gloss": "Thin pouring cream with a lower fat content, used in coffee and over desserts.",
+    "usage": "Standard British supermarket label.",
+    "pragmatic_note": null,
+    "pitfall": "Single cream cannot be whipped; you need double cream for that.",
+    "examples": [
+      "Would you like single cream with your crumble?",
+      "Add a splash of single cream to the soup."
+    ],
+    "collocations": [
+      "a jug of single cream"
+    ],
+    "wiki": "Cream",
+    "forms": []
+  },
+  {
+    "headword": "double cream",
+    "register": "GREEN",
+    "us_equivalent": "heavy cream",
+    "gloss": "Thick, rich cream that can be whipped or poured over puddings.",
+    "usage": "Standard British supermarket label and recipe ingredient.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Whip the double cream until it forms soft peaks.",
+      "Pour a little double cream over the apple pie."
+    ],
+    "collocations": [
+      "whipped double cream",
+      "a pot of double cream"
+    ],
+    "wiki": "Cream",
+    "forms": []
+  },
+  {
+    "headword": "clotted cream",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Very thick, rich, yellowish cream from Devon and Cornwall, eaten with scones.",
+    "usage": "Essential to a cream tea in the West Country and in tearooms nationwide.",
+    "pragmatic_note": "Devon and Cornwall famously disagree on whether cream or jam goes on the scone first.",
+    "pitfall": null,
+    "examples": [
+      "The scones come with strawberry jam and clotted cream.",
+      "Clotted cream ice cream is a Cornish treat."
+    ],
+    "collocations": [
+      "Cornish clotted cream",
+      "scones with clotted cream"
+    ],
+    "wiki": "Clotted cream",
+    "forms": []
+  },
+  {
+    "headword": "semi-skimmed",
+    "register": "GREEN",
+    "us_equivalent": "2% milk / reduced-fat milk",
+    "gloss": "Milk with about half the fat removed; the most popular milk in Britain.",
+    "usage": "Used in shops and cafés; colour-coded caps help shoppers (often green).",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Can you get two pints of semi-skimmed?",
+      "Is that semi-skimmed or full-fat?"
+    ],
+    "collocations": [
+      "semi-skimmed milk"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "full-fat",
+    "register": "GREEN",
+    "us_equivalent": "whole (milk)",
+    "gloss": "Describes milk or dairy products with none of the fat removed.",
+    "usage": "Standard British label: 'full-fat milk', 'full-fat yoghurt'.",
+    "pragmatic_note": null,
+    "pitfall": "Britons rarely say 'whole milk' in shops, though it appears on some labels.",
+    "examples": [
+      "The baby's on full-fat milk now.",
+      "Use full-fat yoghurt or the sauce might split."
+    ],
+    "collocations": [
+      "full-fat milk",
+      "full-fat yoghurt"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "yoghurt",
+    "register": "GREEN",
+    "us_equivalent": "yogurt",
+    "gloss": "A thick, slightly sour food made from fermented milk.",
+    "usage": "Usual British spelling, pronounced 'YOG-urt' with a short 'o'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'YOH-gurt'; 'natural yoghurt' in the UK means plain yogurt.",
+    "examples": [
+      "I'll just have yoghurt and fruit for breakfast.",
+      "A spoonful of natural yoghurt cools the curry down."
+    ],
+    "collocations": [
+      "natural yoghurt",
+      "Greek yoghurt"
+    ],
+    "wiki": "Yogurt",
+    "forms": [
+      "yoghurts"
+    ]
+  },
+  {
+    "headword": "mince",
+    "register": "GREEN",
+    "us_equivalent": "ground beef / ground meat",
+    "gloss": "Meat, usually beef, finely chopped by machine; also 'minced beef'.",
+    "usage": "The standard British word on butchers' counters and in recipes.",
+    "pragmatic_note": null,
+    "pitfall": "Saying 'ground beef' sounds American; in Scotland 'mince and tatties' is a classic dish.",
+    "examples": [
+      "Pick up 500 grams of beef mince for the lasagne.",
+      "Brown the mince in batches."
+    ],
+    "collocations": [
+      "beef mince",
+      "lamb mince",
+      "mince and tatties"
+    ],
+    "wiki": "Ground meat",
+    "forms": [
+      "minced beef",
+      "minced"
+    ]
+  },
+  {
+    "headword": "streaky bacon",
+    "register": "GREEN",
+    "us_equivalent": "bacon",
+    "gloss": "Bacon from the pork belly, with stripes of fat; the standard American kind.",
+    "usage": "A common British supermarket choice, often for wrapping or crisping.",
+    "pragmatic_note": null,
+    "pitfall": "In Britain plain 'bacon' usually means back bacon, not streaky.",
+    "examples": [
+      "Wrap each chicken breast in streaky bacon.",
+      "I prefer crispy streaky bacon in my BLT."
+    ],
+    "collocations": [
+      "smoked streaky bacon"
+    ],
+    "wiki": "Bacon",
+    "forms": []
+  },
+  {
+    "headword": "back bacon",
+    "register": "GREEN",
+    "us_equivalent": "Canadian bacon (roughly)",
+    "gloss": "Lean bacon cut from the pork loin, with a strip of fat on one side.",
+    "usage": "The default bacon in a British fry-up or bacon sandwich.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Two rashers of back bacon, please.",
+      "The full English comes with back bacon and sausage."
+    ],
+    "collocations": [
+      "unsmoked back bacon"
+    ],
+    "wiki": "Back bacon",
+    "forms": []
+  },
+  {
+    "headword": "rasher",
+    "register": "GREEN",
+    "us_equivalent": "slice / strip (of bacon)",
+    "gloss": "A single thin slice of bacon.",
+    "usage": "The everyday British word for a slice of bacon.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "How many rashers do you want?",
+      "Grill four rashers of bacon until crisp."
+    ],
+    "collocations": [
+      "a rasher of bacon"
+    ],
+    "wiki": "Bacon",
+    "forms": [
+      "rashers"
+    ]
+  },
+  {
+    "headword": "gammon",
+    "register": "GREEN",
+    "us_equivalent": "ham steak",
+    "gloss": "Cured pork leg, cooked as a thick steak or a whole joint.",
+    "usage": "Classic pub menu item ('gammon, egg and chips') and Christmas joint.",
+    "pragmatic_note": "'Gammon steak with pineapple' is a retro pub-menu favourite.",
+    "pitfall": "Britons call it 'ham' once it has been cooked and is served cold.",
+    "examples": [
+      "I'll have the gammon with egg and chips.",
+      "We're glazing a gammon joint for Boxing Day."
+    ],
+    "collocations": [
+      "gammon steak",
+      "gammon joint",
+      "gammon, egg and chips"
+    ],
+    "wiki": "Gammon (meat)",
+    "forms": []
+  },
+  {
+    "headword": "joint",
+    "register": "GREEN",
+    "us_equivalent": "roast (cut of meat)",
+    "gloss": "A large piece of meat for roasting, such as beef, lamb or pork.",
+    "usage": "Standard British word for the centrepiece of a Sunday roast.",
+    "pragmatic_note": null,
+    "pitfall": "In this sense it has nothing to do with body joints or slang meanings.",
+    "examples": [
+      "We'll get a joint of beef for Sunday.",
+      "Let the joint rest before you carve it."
+    ],
+    "collocations": [
+      "a joint of beef",
+      "lamb joint",
+      "carve the joint"
+    ],
+    "wiki": null,
+    "forms": [
+      "joints"
+    ]
+  },
+  {
+    "headword": "fillet",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A boneless cut of meat or fish.",
+    "usage": "Pronounced 'FILL-it' in Britain, with the final 't' sounded.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'fil-AY'; the British pronunciation sounds the 't'.",
+    "examples": [
+      "I'll have the fillet steak, medium rare.",
+      "Season the salmon fillets on both sides."
+    ],
+    "collocations": [
+      "fillet steak",
+      "salmon fillet",
+      "chicken fillet"
+    ],
+    "wiki": null,
+    "forms": [
+      "fillets"
+    ]
+  },
+  {
+    "headword": "chipolata",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A small, thin pork sausage.",
+    "usage": "Common in Britain at Christmas, wrapped in bacon as 'pigs in blankets'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Wrap the chipolatas in streaky bacon.",
+      "The kids always eat all the chipolatas first."
+    ],
+    "collocations": [
+      "cocktail chipolatas"
+    ],
+    "wiki": "Chipolata",
+    "forms": [
+      "chipolatas"
+    ]
+  },
+  {
+    "headword": "banger",
+    "register": "AMBER",
+    "us_equivalent": "sausage",
+    "gloss": "An informal British word for a sausage.",
+    "usage": "Friendly, everyday word, famous in 'bangers and mash'.",
+    "pragmatic_note": null,
+    "pitfall": "Also slang for an old car, but in food contexts it always means sausage.",
+    "examples": [
+      "Shall we stick some bangers on the barbecue?",
+      "These are proper butcher's bangers."
+    ],
+    "collocations": [
+      "bangers and mash"
+    ],
+    "wiki": "Sausage",
+    "forms": [
+      "bangers"
+    ]
+  },
+  {
+    "headword": "black pudding",
+    "register": "GREEN",
+    "us_equivalent": "blood sausage",
+    "gloss": "A dark sausage made from pork blood, fat and oatmeal, sliced and fried.",
+    "usage": "A traditional part of a full breakfast, especially in the north and Scotland.",
+    "pragmatic_note": "Bury in Lancashire and Stornoway in Scotland are famous for it.",
+    "pitfall": "Despite the name, it is not a dessert.",
+    "examples": [
+      "Would you like black pudding with your breakfast?",
+      "Black pudding is surprisingly good with scallops."
+    ],
+    "collocations": [
+      "slice of black pudding"
+    ],
+    "wiki": "Black pudding",
+    "forms": []
+  },
+  {
+    "headword": "pork scratchings",
+    "register": "AMBER",
+    "us_equivalent": "pork rinds",
+    "gloss": "Crunchy deep-fried pieces of pork skin and fat, sold in packets in pubs.",
+    "usage": "A classic British pub snack, eaten with a pint.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Do you want crisps or pork scratchings?",
+      "He always orders a pint and a bag of pork scratchings."
+    ],
+    "collocations": [
+      "a bag of pork scratchings"
+    ],
+    "wiki": "Pork rind",
+    "forms": []
+  },
+  {
+    "headword": "crackling",
+    "register": "GREEN",
+    "us_equivalent": "cracklings (roughly)",
+    "gloss": "The crisp, salty roasted skin on a joint of pork.",
+    "usage": "A prized part of a British roast pork dinner.",
+    "pragmatic_note": "Getting good crackling is a point of pride for British home cooks.",
+    "pitfall": null,
+    "examples": [
+      "Score the skin well if you want good crackling.",
+      "Who gets the last bit of crackling?"
+    ],
+    "collocations": [
+      "pork crackling"
+    ],
+    "wiki": "Pork rind",
+    "forms": []
+  },
+  {
+    "headword": "suet",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Hard fat from around the kidneys of cattle or sheep, used in puddings and dumplings.",
+    "usage": "A key ingredient in traditional British puddings, pastry and dumplings.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Suet pastry gives the pie its soft, rich crust.",
+      "You can buy vegetable suet for vegetarians."
+    ],
+    "collocations": [
+      "suet pudding",
+      "vegetable suet"
+    ],
+    "wiki": "Suet",
+    "forms": []
+  },
+  {
+    "headword": "prawns",
+    "register": "GREEN",
+    "us_equivalent": "shrimp",
+    "gloss": "Small shellfish; 'prawn' is the general British word.",
+    "usage": "Standard in British shops and menus; 'shrimp' is used only for very small ones.",
+    "pragmatic_note": null,
+    "pitfall": "American 'shrimp' covers sizes Britons call prawns or king prawns.",
+    "examples": [
+      "I'll have the garlic king prawns to start.",
+      "A prawn sandwich is a lunchtime classic."
+    ],
+    "collocations": [
+      "king prawns",
+      "prawn cocktail",
+      "prawn curry"
+    ],
+    "wiki": "Prawn",
+    "forms": [
+      "prawn"
+    ]
+  },
+  {
+    "headword": "scampi",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Breaded and fried langoustine tails, served with chips and tartare sauce.",
+    "usage": "A familiar British pub-menu dish, 'scampi and chips'.",
+    "pragmatic_note": null,
+    "pitfall": "In Britain it means the breaded seafood, not the Italian-American garlic shrimp dish.",
+    "examples": [
+      "I'll have scampi and chips, please.",
+      "Scampi comes with tartare sauce and a wedge of lemon."
+    ],
+    "collocations": [
+      "scampi and chips"
+    ],
+    "wiki": "Scampi",
+    "forms": []
+  },
+  {
+    "headword": "fish fingers",
+    "register": "GREEN",
+    "us_equivalent": "fish sticks",
+    "gloss": "Rectangular strips of white fish coated in breadcrumbs.",
+    "usage": "A British freezer staple and children's favourite.",
+    "pragmatic_note": "A fish finger sandwich is a nostalgic British comfort food.",
+    "pitfall": null,
+    "examples": [
+      "The kids want fish fingers, chips and beans.",
+      "A fish finger sandwich with ketchup is pure comfort food."
+    ],
+    "collocations": [
+      "fish finger sandwich"
+    ],
+    "wiki": "Fish finger",
+    "forms": [
+      "fish finger"
+    ]
+  },
+  {
+    "headword": "kipper",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A whole herring, split, salted and smoked, often eaten for breakfast.",
+    "usage": "Traditional British breakfast food, now somewhat old-fashioned.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Grandad always has kippers on a Sunday morning.",
+      "The hotel serves grilled kippers at breakfast."
+    ],
+    "collocations": [
+      "grilled kippers"
+    ],
+    "wiki": "Kipper",
+    "forms": [
+      "kippers"
+    ]
+  },
+  {
+    "headword": "sweets",
+    "register": "GREEN",
+    "us_equivalent": "candy",
+    "gloss": "Small sugary treats such as toffees, gums and boiled sweets.",
+    "usage": "The everyday British word; 'candy' sounds American.",
+    "pragmatic_note": null,
+    "pitfall": "In Britain 'a sweet' can also mean the dessert course in some households.",
+    "examples": [
+      "Don't eat all those sweets before dinner.",
+      "We bought a bag of sweets for the car journey."
+    ],
+    "collocations": [
+      "a bag of sweets",
+      "sweet shop"
+    ],
+    "wiki": "Candy",
+    "forms": [
+      "sweet"
+    ]
+  },
+  {
+    "headword": "pick 'n' mix",
+    "register": "AMBER",
+    "us_equivalent": "bulk candy",
+    "gloss": "Loose sweets that you choose yourself and pay for by weight or bag.",
+    "usage": "A nostalgic British treat, found at cinemas and sweet shops.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Let's get some pick 'n' mix for the film.",
+      "The cinema still has a pick 'n' mix stand."
+    ],
+    "collocations": [],
+    "wiki": "Bulk confectionery",
+    "forms": [
+      "pick and mix"
+    ]
+  },
+  {
+    "headword": "rock",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A hard stick of brightly coloured sugar sold at British seaside resorts.",
+    "usage": "Classic souvenir from seaside towns such as Blackpool and Brighton.",
+    "pragmatic_note": "Seaside rock traditionally has the resort's name running right through it.",
+    "pitfall": null,
+    "examples": [
+      "We brought back a stick of rock from Blackpool.",
+      "The name runs all the way through the rock."
+    ],
+    "collocations": [
+      "a stick of rock",
+      "seaside rock"
+    ],
+    "wiki": "Rock (confectionery)",
+    "forms": []
+  },
+  {
+    "headword": "candyfloss",
+    "register": "GREEN",
+    "us_equivalent": "cotton candy",
+    "gloss": "Spun sugar served as a fluffy cloud on a stick.",
+    "usage": "Sold at British funfairs, piers and seaside resorts.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The kids want candyfloss on the pier.",
+      "Candyfloss always makes my hands sticky."
+    ],
+    "collocations": [
+      "pink candyfloss"
+    ],
+    "wiki": "Cotton candy",
+    "forms": []
+  },
+  {
+    "headword": "toffee apple",
+    "register": "GREEN",
+    "us_equivalent": "candy apple",
+    "gloss": "An apple on a stick coated in hard toffee.",
+    "usage": "Traditional around Bonfire Night and at autumn funfairs.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We always had toffee apples on Bonfire Night.",
+      "Careful, toffee apples are murder on your teeth."
+    ],
+    "collocations": [],
+    "wiki": "Candy apple",
+    "forms": [
+      "toffee apples"
+    ]
+  },
+  {
+    "headword": "ice lolly",
+    "register": "GREEN",
+    "us_equivalent": "popsicle",
+    "gloss": "Frozen flavoured water or juice on a stick.",
+    "usage": "Everyday British word; often shortened to 'lolly'.",
+    "pragmatic_note": null,
+    "pitfall": "In Britain a 'lolly' can mean a lollipop or an ice lolly depending on context.",
+    "examples": [
+      "It's boiling; shall we get an ice lolly?",
+      "The kids are eating ice lollies in the garden."
+    ],
+    "collocations": [
+      "orange ice lolly"
+    ],
+    "wiki": "Ice pop",
+    "forms": [
+      "ice lollies",
+      "lolly"
+    ]
+  },
+  {
+    "headword": "99",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A soft-serve ice cream cone with a chocolate flake pushed into it.",
+    "usage": "A British ice-cream-van classic, said 'ninety-nine'.",
+    "pragmatic_note": "Nobody agrees on why it is called a 99; it is simply part of a British summer.",
+    "pitfall": null,
+    "examples": [
+      "Can I have a 99 with strawberry sauce?",
+      "Nothing says summer like a 99 from the van."
+    ],
+    "collocations": [
+      "a 99 with a flake"
+    ],
+    "wiki": "99 Flake",
+    "forms": [
+      "ninety-nine"
+    ]
+  },
+  {
+    "headword": "sherbet",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A fizzy, sweet, flavoured powder eaten as a sweet.",
+    "usage": "A traditional British children's sweet, often in a 'sherbet dip'.",
+    "pragmatic_note": null,
+    "pitfall": "In the US 'sherbet' is a fruity frozen dessert; in Britain it is a fizzy powder.",
+    "examples": [
+      "We used to buy sherbet dips from the corner shop.",
+      "Lemon sherbets are my favourite sweets."
+    ],
+    "collocations": [
+      "sherbet lemons",
+      "sherbet dip"
+    ],
+    "wiki": "Sherbet (powder)",
+    "forms": []
+  },
+  {
+    "headword": "wine gums",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Chewy, firm fruit-flavoured sweets, despite the name containing no wine.",
+    "usage": "A long-standing British sweet, popular on car journeys.",
+    "pragmatic_note": null,
+    "pitfall": "They contain no alcohol, so they are fine for children and non-drinkers.",
+    "examples": [
+      "Pass me the wine gums, would you?",
+      "Wine gums don't actually contain any wine."
+    ],
+    "collocations": [],
+    "wiki": "Wine gum",
+    "forms": [
+      "wine gum"
+    ]
+  },
+  {
+    "headword": "biscuit",
+    "register": "GREEN",
+    "us_equivalent": "cookie",
+    "gloss": "A small, flat, usually crisp baked treat, often dunked in tea.",
+    "usage": "Universal British word; 'cookie' is used only for large, chewy American-style ones.",
+    "pragmatic_note": "Offering a biscuit with a cup of tea is basic British hospitality.",
+    "pitfall": "In the US a 'biscuit' is a soft savoury bread roll, closer to a British scone.",
+    "examples": [
+      "Would you like a biscuit with your tea?",
+      "Who's eaten all the chocolate biscuits?"
+    ],
+    "collocations": [
+      "biscuit tin",
+      "chocolate biscuits",
+      "tea and biscuits"
+    ],
+    "wiki": "Biscuit",
+    "forms": [
+      "biscuits"
+    ]
+  },
+  {
+    "headword": "digestive",
+    "register": "GREEN",
+    "us_equivalent": "graham cracker (roughly)",
+    "gloss": "A semi-sweet wholemeal biscuit, plain or coated in chocolate.",
+    "usage": "Probably Britain's best-known biscuit, also used for cheesecake bases.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Crush some digestives for the cheesecake base.",
+      "A chocolate digestive with a cup of tea is perfect."
+    ],
+    "collocations": [
+      "chocolate digestives",
+      "digestive biscuit"
+    ],
+    "wiki": "Digestive biscuit",
+    "forms": [
+      "digestives"
+    ]
+  },
+  {
+    "headword": "custard cream",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A biscuit sandwich with a vanilla cream filling.",
+    "usage": "One of Britain's favourite everyday biscuits.",
+    "pragmatic_note": null,
+    "pitfall": "There is no actual custard inside.",
+    "examples": [
+      "Pass the custard creams, please.",
+      "Custard creams are always the first to go."
+    ],
+    "collocations": [
+      "a packet of custard creams"
+    ],
+    "wiki": "Custard cream",
+    "forms": [
+      "custard creams"
+    ]
+  },
+  {
+    "headword": "bourbon",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A chocolate biscuit sandwich with chocolate cream filling.",
+    "usage": "A familiar British biscuit, found in most biscuit tins.",
+    "pragmatic_note": null,
+    "pitfall": "In the biscuit aisle it has nothing to do with whiskey.",
+    "examples": [
+      "Do you prefer bourbons or custard creams?",
+      "I always eat the cream out of a bourbon first."
+    ],
+    "collocations": [
+      "bourbon biscuit"
+    ],
+    "wiki": "Bourbon biscuit",
+    "forms": [
+      "bourbons"
+    ]
+  },
+  {
+    "headword": "shortbread",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A rich, crumbly Scottish biscuit made from butter, sugar and flour.",
+    "usage": "Associated with Scotland, Christmas tins and afternoon tea.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We brought back a tin of shortbread from Edinburgh.",
+      "Homemade shortbread only needs three ingredients."
+    ],
+    "collocations": [
+      "shortbread fingers",
+      "all-butter shortbread"
+    ],
+    "wiki": "Shortbread",
+    "forms": []
+  },
+  {
+    "headword": "flapjack",
+    "register": "GREEN",
+    "us_equivalent": "granola bar / oat bar",
+    "gloss": "A chewy baked bar made from oats, butter, sugar and golden syrup.",
+    "usage": "A staple of British cafés, bake sales and lunchboxes.",
+    "pragmatic_note": null,
+    "pitfall": "In the US a 'flapjack' is a pancake.",
+    "examples": [
+      "I'll have a coffee and a flapjack, please.",
+      "Flapjacks are the easiest thing to bake for a bake sale."
+    ],
+    "collocations": [
+      "cherry flapjack"
+    ],
+    "wiki": "Flapjack (oat bar)",
+    "forms": [
+      "flapjacks"
+    ]
+  },
+  {
+    "headword": "Jaffa Cake",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A small sponge disc topped with orange jelly and chocolate.",
+    "usage": "An iconic British snack; the name is used generically for supermarket versions too.",
+    "pragmatic_note": "Britons love arguing whether it is a cake or a biscuit; a court once ruled it a cake.",
+    "pitfall": null,
+    "examples": [
+      "Is a Jaffa Cake a cake or a biscuit?",
+      "I could eat a whole packet of Jaffa Cakes."
+    ],
+    "collocations": [],
+    "wiki": "Jaffa Cakes",
+    "forms": [
+      "Jaffa Cakes"
+    ]
+  },
+  {
+    "headword": "dunk",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "To dip a biscuit briefly into tea or coffee before eating it.",
+    "usage": "A cherished British habit; everyone has a view on the best biscuit for dunking.",
+    "pragmatic_note": "Losing half a biscuit in your tea is a small, very British tragedy.",
+    "pitfall": "In basketball contexts it means something else entirely.",
+    "examples": [
+      "Do you dunk your biscuits?",
+      "I dunked it too long and it fell in my tea."
+    ],
+    "collocations": [
+      "dunk a biscuit"
+    ],
+    "wiki": null,
+    "forms": [
+      "dunked",
+      "dunking",
+      "dunks"
+    ]
+  },
+  {
+    "headword": "cheese and biscuits",
+    "register": "GREEN",
+    "us_equivalent": "cheese and crackers",
+    "gloss": "A selection of cheeses served with savoury crackers, often after a meal.",
+    "usage": "Served at the end of a dinner party or at Christmas.",
+    "pragmatic_note": "Offering cheese and biscuits after pudding is a traditional British dinner-party touch.",
+    "pitfall": "The 'biscuits' here are savoury crackers, not sweet biscuits.",
+    "examples": [
+      "Shall we have cheese and biscuits instead of pudding?",
+      "There's port, cheese and biscuits after dinner."
+    ],
+    "collocations": [],
+    "wiki": "Cheese and crackers",
+    "forms": []
+  },
+  {
+    "headword": "scone",
+    "register": "GREEN",
+    "us_equivalent": "biscuit (roughly)",
+    "gloss": "A small, lightly sweet baked bread, split and eaten with butter, jam and cream.",
+    "usage": "Central to a British cream tea; also sold plain, fruit or cheese.",
+    "pragmatic_note": "Britons argue over whether it rhymes with 'gone' or 'bone'; both are correct.",
+    "pitfall": "An American 'scone' is often sweeter and triangular; British scones are round and plainer.",
+    "examples": [
+      "Would you like a scone with jam and cream?",
+      "These cheese scones are still warm."
+    ],
+    "collocations": [
+      "fruit scone",
+      "cheese scone",
+      "scones with clotted cream"
+    ],
+    "wiki": "Scone",
+    "forms": [
+      "scones"
+    ]
+  },
+  {
+    "headword": "crumpet",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A soft, round griddle cake full of holes, toasted and eaten with butter.",
+    "usage": "A British teatime and breakfast favourite, especially in winter.",
+    "pragmatic_note": null,
+    "pitfall": "Different from an English muffin, which is a smoother bread roll.",
+    "examples": [
+      "Nothing beats a hot buttered crumpet in winter.",
+      "Shall I toast some crumpets?"
+    ],
+    "collocations": [
+      "buttered crumpets",
+      "toasted crumpets"
+    ],
+    "wiki": "Crumpet",
+    "forms": [
+      "crumpets"
+    ]
+  },
+  {
+    "headword": "muffin",
+    "register": "GREEN",
+    "us_equivalent": "English muffin / muffin",
+    "gloss": "Either a flat, round bread roll toasted for breakfast, or a sweet American-style cake.",
+    "usage": "Both meanings are current in Britain; context usually makes it clear.",
+    "pragmatic_note": null,
+    "pitfall": "Ask whether someone means an 'English muffin' or a 'blueberry muffin' if unclear.",
+    "examples": [
+      "I'll have eggs Benedict on a toasted muffin.",
+      "They sell blueberry muffins at the station café."
+    ],
+    "collocations": [
+      "toasted muffin",
+      "blueberry muffin"
+    ],
+    "wiki": "English muffin",
+    "forms": [
+      "muffins"
+    ]
+  },
+  {
+    "headword": "teacake",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A light, sweet yeasted bun with dried fruit, split, toasted and buttered.",
+    "usage": "Traditional British café and teatime food; meaning varies by region.",
+    "pragmatic_note": "In parts of northern England 'teacake' can simply mean a bread roll.",
+    "pitfall": null,
+    "examples": [
+      "A toasted teacake and a pot of tea, please.",
+      "The café does lovely toasted teacakes."
+    ],
+    "collocations": [
+      "toasted teacake"
+    ],
+    "wiki": "Teacake",
+    "forms": [
+      "teacakes"
+    ]
+  },
+  {
+    "headword": "hot cross bun",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A spiced sweet bun with dried fruit and a cross on top, eaten at Easter.",
+    "usage": "Traditionally eaten on Good Friday; now sold for weeks around Easter.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We always have hot cross buns on Good Friday.",
+      "Toast the hot cross buns and butter them."
+    ],
+    "collocations": [
+      "toasted hot cross buns"
+    ],
+    "wiki": "Hot cross bun",
+    "forms": [
+      "hot cross buns"
+    ]
+  },
+  {
+    "headword": "Victoria sponge",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A light sponge cake sandwiched with jam and cream or buttercream.",
+    "usage": "Britain's classic teatime cake, named after Queen Victoria.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She's made a Victoria sponge for the village fête.",
+      "A slice of Victoria sponge with my tea, please."
+    ],
+    "collocations": [
+      "a slice of Victoria sponge"
+    ],
+    "wiki": null,
+    "forms": [
+      "Victoria sandwich"
+    ]
+  },
+  {
+    "headword": "sponge",
+    "register": "GREEN",
+    "us_equivalent": "sponge cake",
+    "gloss": "A light, airy cake made with eggs, sugar, flour and butter.",
+    "usage": "Common British shorthand in recipes, cafés and puddings.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The sponge has sunk in the middle.",
+      "Treacle sponge and custard is a proper school pudding."
+    ],
+    "collocations": [
+      "sponge pudding",
+      "lemon sponge"
+    ],
+    "wiki": "Sponge cake",
+    "forms": [
+      "sponges"
+    ]
+  },
+  {
+    "headword": "fairy cake",
+    "register": "GREEN",
+    "us_equivalent": "cupcake",
+    "gloss": "A small, light sponge cake baked in a paper case and iced.",
+    "usage": "Traditional British name, especially for small, simple ones at children's parties.",
+    "pragmatic_note": null,
+    "pitfall": "'Cupcake' is also common in Britain now, usually for larger, heavily iced ones.",
+    "examples": [
+      "We made fairy cakes for her birthday party.",
+      "Fairy cakes with hundreds and thousands are a childhood classic."
+    ],
+    "collocations": [],
+    "wiki": "Cupcake",
+    "forms": [
+      "fairy cakes"
+    ]
+  },
+  {
+    "headword": "Swiss roll",
+    "register": "GREEN",
+    "us_equivalent": "jelly roll",
+    "gloss": "A thin sponge spread with jam or cream and rolled into a spiral.",
+    "usage": "A familiar British supermarket and homemade cake.",
+    "pragmatic_note": null,
+    "pitfall": "Despite the name, it is not specifically Swiss.",
+    "examples": [
+      "Roll the Swiss roll while the sponge is still warm.",
+      "A chocolate Swiss roll makes a quick yule log."
+    ],
+    "collocations": [
+      "chocolate Swiss roll"
+    ],
+    "wiki": "Swiss roll",
+    "forms": [
+      "Swiss rolls"
+    ]
+  },
+  {
+    "headword": "Bakewell tart",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A shortcrust tart with jam, almond sponge filling and flaked almonds or icing.",
+    "usage": "A traditional English bake named after Bakewell in Derbyshire.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The café's Bakewell tart is still warm.",
+      "Cherry Bakewells have a glacé cherry on top."
+    ],
+    "collocations": [
+      "cherry Bakewell"
+    ],
+    "wiki": "Bakewell tart",
+    "forms": [
+      "Bakewell"
+    ]
+  },
+  {
+    "headword": "tiffin",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "In Britain, a no-bake chocolate traybake with crushed biscuits and dried fruit.",
+    "usage": "A popular café and bake-sale treat, especially in Scotland.",
+    "pragmatic_note": null,
+    "pitfall": "In India 'tiffin' means a light meal or lunch box; in Britain it usually means this chocolate bake.",
+    "examples": [
+      "They do a lovely chocolate tiffin at the café.",
+      "Tiffin is easy because you don't need to bake it."
+    ],
+    "collocations": [
+      "chocolate tiffin"
+    ],
+    "wiki": "Tiffin (confectionery)",
+    "forms": []
+  },
+  {
+    "headword": "Christmas cake",
+    "register": "GREEN",
+    "us_equivalent": "fruitcake",
+    "gloss": "A rich, dark fruit cake covered with marzipan and white icing.",
+    "usage": "Made weeks before Christmas and 'fed' with brandy in many British homes.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I've been feeding the Christmas cake with brandy for weeks.",
+      "Do you want a slice of Christmas cake?"
+    ],
+    "collocations": [],
+    "wiki": "Christmas cake",
+    "forms": []
+  },
+  {
+    "headword": "mince pie",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A small sweet pie filled with mincemeat: dried fruit, spices and suet.",
+    "usage": "Eaten throughout the British Christmas season, often warm with cream or brandy butter.",
+    "pragmatic_note": null,
+    "pitfall": "Modern 'mincemeat' in a mince pie contains no meat.",
+    "examples": [
+      "Have a mince pie and a mulled wine.",
+      "We leave a mince pie out for Father Christmas."
+    ],
+    "collocations": [
+      "warm mince pies",
+      "mince pies and mulled wine"
+    ],
+    "wiki": "Mince pie",
+    "forms": [
+      "mince pies"
+    ]
+  },
+  {
+    "headword": "bread roll",
+    "register": "GREEN",
+    "us_equivalent": "dinner roll / bun",
+    "gloss": "A small individual loaf of bread.",
+    "usage": "Universal British term, but local names vary hugely by region.",
+    "pragmatic_note": "Bap, barm, cob, bun and batch are all regional words for a roll, and Britons love to argue about them.",
+    "pitfall": null,
+    "examples": [
+      "Could I have a bread roll with my soup?",
+      "Grab a pack of bread rolls for the barbecue."
+    ],
+    "collocations": [
+      "crusty bread roll",
+      "soft white roll"
+    ],
+    "wiki": "Bread roll",
+    "forms": [
+      "roll",
+      "rolls"
+    ]
+  },
+  {
+    "headword": "bap",
+    "register": "AMBER",
+    "us_equivalent": "bun / soft roll",
+    "gloss": "A large, soft, round bread roll.",
+    "usage": "Common across much of Britain, especially for breakfast and burgers.",
+    "pragmatic_note": "Regional: in the north-west a roll is often a 'barm' and in the Midlands a 'cob'.",
+    "pitfall": null,
+    "examples": [
+      "I'll have a bacon and egg bap, please.",
+      "Get some floury baps for the burgers."
+    ],
+    "collocations": [
+      "bacon bap",
+      "floury bap"
+    ],
+    "wiki": null,
+    "forms": [
+      "baps"
+    ]
+  },
+  {
+    "headword": "pitta",
+    "register": "GREEN",
+    "us_equivalent": "pita",
+    "gloss": "A flat, oval bread that opens into a pocket.",
+    "usage": "British spelling, pronounced 'PIT-uh' with a short 'i'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans spell it 'pita' and say 'PEE-tuh'.",
+    "examples": [
+      "Warm the pittas and fill them with falafel.",
+      "Serve the hummus with toasted pitta bread."
+    ],
+    "collocations": [
+      "pitta bread",
+      "pitta pocket"
+    ],
+    "wiki": "Pita",
+    "forms": [
+      "pittas"
+    ]
+  },
+  {
+    "headword": "pudding",
+    "register": "GREEN",
+    "us_equivalent": "dessert",
+    "gloss": "The sweet course of a meal, or a specific baked or steamed sweet dish.",
+    "usage": "Very common in British homes and restaurants for the dessert course.",
+    "pragmatic_note": "Some Britons consider 'pudding' less formal or more upper-class than 'dessert'; both are fine.",
+    "pitfall": "American 'pudding' usually means a creamy custard-like dessert; British puddings can even be savoury.",
+    "examples": [
+      "What's for pudding?",
+      "I'm too full for pudding, thanks."
+    ],
+    "collocations": [
+      "sticky toffee pudding",
+      "room for pudding",
+      "pudding menu"
+    ],
+    "wiki": null,
+    "forms": [
+      "puddings",
+      "pud"
+    ]
+  },
+  {
+    "headword": "afters",
+    "register": "AMBER",
+    "us_equivalent": "dessert",
+    "gloss": "An informal British word for the dessert course.",
+    "usage": "Used casually at home, especially in the north and among older speakers.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Is there anything for afters?",
+      "Eat your veg or there's no afters."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "sweet",
+    "register": "AMBER",
+    "us_equivalent": "dessert",
+    "gloss": "The dessert course of a meal.",
+    "usage": "Used in some British households and older menus: 'Would you like a sweet?'",
+    "pragmatic_note": "Word choice for the dessert course (pudding, sweet, dessert, afters) carries subtle class signals in Britain.",
+    "pitfall": null,
+    "examples": [
+      "Would anyone like a sweet?",
+      "There's a choice of sweet on the set menu."
+    ],
+    "collocations": [
+      "sweet trolley"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "custard",
+    "register": "GREEN",
+    "us_equivalent": "custard sauce / vanilla sauce",
+    "gloss": "A sweet, pourable yellow sauce made from milk, eggs or custard powder.",
+    "usage": "The classic British accompaniment to crumbles, pies and steamed puddings.",
+    "pragmatic_note": null,
+    "pitfall": "British custard is usually a hot pouring sauce, not the set American custard.",
+    "examples": [
+      "Would you like custard or cream with your crumble?",
+      "Apple pie and custard is my idea of heaven."
+    ],
+    "collocations": [
+      "hot custard",
+      "custard powder",
+      "a jug of custard"
+    ],
+    "wiki": "Custard",
+    "forms": []
+  },
+  {
+    "headword": "jelly",
+    "register": "GREEN",
+    "us_equivalent": "Jell-O / gelatin dessert",
+    "gloss": "A wobbly, fruit-flavoured dessert set with gelatine.",
+    "usage": "A British children's party favourite, often served with ice cream.",
+    "pragmatic_note": null,
+    "pitfall": "American 'jelly' is a fruit spread; Britons call that jam.",
+    "examples": [
+      "We're having jelly and ice cream at the party.",
+      "Put the jelly in the fridge to set."
+    ],
+    "collocations": [
+      "jelly and ice cream",
+      "strawberry jelly"
+    ],
+    "wiki": "Gelatine dessert",
+    "forms": [
+      "jellies"
+    ]
+  },
+  {
+    "headword": "jam",
+    "register": "GREEN",
+    "us_equivalent": "jelly / preserves",
+    "gloss": "A thick, sweet spread made from fruit boiled with sugar.",
+    "usage": "The normal British word for any fruit spread except citrus marmalade.",
+    "pragmatic_note": null,
+    "pitfall": "Britons say 'jam sandwich' where Americans say 'jelly sandwich'.",
+    "examples": [
+      "Would you like jam or marmalade on your toast?",
+      "Strawberry jam and clotted cream on a scone is perfect."
+    ],
+    "collocations": [
+      "strawberry jam",
+      "jam sandwich",
+      "jam and cream"
+    ],
+    "wiki": "Fruit preserves",
+    "forms": [
+      "jams"
+    ]
+  },
+  {
+    "headword": "marmalade",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A bitter-sweet preserve made from citrus fruit, usually Seville oranges.",
+    "usage": "A classic British breakfast spread on toast.",
+    "pragmatic_note": null,
+    "pitfall": "In Britain 'marmalade' means citrus only; in other languages it can mean any jam.",
+    "examples": [
+      "Toast and marmalade is all I need in the morning.",
+      "Seville oranges are in season for marmalade-making."
+    ],
+    "collocations": [
+      "orange marmalade",
+      "thick-cut marmalade"
+    ],
+    "wiki": "Marmalade",
+    "forms": []
+  },
+  {
+    "headword": "crumble",
+    "register": "GREEN",
+    "us_equivalent": "crisp / crumble",
+    "gloss": "Baked fruit topped with a crumbly mix of flour, butter and sugar.",
+    "usage": "One of Britain's favourite home-made puddings, almost always with custard.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Apple and blackberry crumble is perfect in autumn.",
+      "Rhubarb crumble and custard, please."
+    ],
+    "collocations": [
+      "apple crumble",
+      "rhubarb crumble",
+      "crumble and custard"
+    ],
+    "wiki": "Crumble",
+    "forms": [
+      "crumbles"
+    ]
+  },
+  {
+    "headword": "trifle",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Layers of sponge, fruit or jelly, custard and cream in a glass bowl.",
+    "usage": "A traditional British party and Christmas dessert.",
+    "pragmatic_note": null,
+    "pitfall": "'A trifle' also means 'slightly', as in 'a trifle cold', which is unrelated.",
+    "examples": [
+      "Nan makes a sherry trifle every Christmas.",
+      "Who wants a bowl of trifle?"
+    ],
+    "collocations": [
+      "sherry trifle"
+    ],
+    "wiki": "Trifle",
+    "forms": [
+      "trifles"
+    ]
+  },
+  {
+    "headword": "Eton mess",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A dessert of crushed meringue, whipped cream and strawberries.",
+    "usage": "A popular British summer pudding, linked to Eton College.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Eton mess is the easiest summer pudding.",
+      "Fold the strawberries through the cream for the Eton mess."
+    ],
+    "collocations": [],
+    "wiki": "Eton mess",
+    "forms": []
+  },
+  {
+    "headword": "sticky toffee pudding",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A moist date sponge covered in hot toffee sauce.",
+    "usage": "A favourite on British pub and restaurant pudding menus.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll have the sticky toffee pudding with ice cream.",
+      "Their sticky toffee pudding is legendary."
+    ],
+    "collocations": [],
+    "wiki": "Sticky toffee pudding",
+    "forms": []
+  },
+  {
+    "headword": "bread and butter pudding",
+    "register": "GREEN",
+    "us_equivalent": "bread pudding (roughly)",
+    "gloss": "Buttered bread layered with dried fruit and baked in egg custard.",
+    "usage": "Traditional British comfort food, a thrifty way to use stale bread.",
+    "pragmatic_note": null,
+    "pitfall": "In Britain 'bread pudding' is a different, denser cake-like bake.",
+    "examples": [
+      "Bread and butter pudding is the best use of stale bread.",
+      "Mum's bread and butter pudding is the best."
+    ],
+    "collocations": [],
+    "wiki": "Bread and butter pudding",
+    "forms": []
+  },
+  {
+    "headword": "Christmas pudding",
+    "register": "GREEN",
+    "us_equivalent": "plum pudding",
+    "gloss": "A dark, rich steamed pudding of dried fruit and spices, served at Christmas.",
+    "usage": "Served after Christmas dinner in Britain, often set alight with brandy.",
+    "pragmatic_note": "Families traditionally stir the mixture and make a wish on 'Stir-up Sunday'.",
+    "pitfall": null,
+    "examples": [
+      "Pour warm brandy over the Christmas pudding and light it.",
+      "Do you want brandy butter or custard with your pudding?"
+    ],
+    "collocations": [
+      "brandy butter"
+    ],
+    "wiki": "Christmas pudding",
+    "forms": [
+      "Christmas pud"
+    ]
+  },
+  {
+    "headword": "chips",
+    "register": "GREEN",
+    "us_equivalent": "French fries",
+    "gloss": "Thick-cut strips of potato, deep-fried, as in fish and chips.",
+    "usage": "Everyday word in shops, pubs and restaurants; a 'chippy' is a fish-and-chip shop.",
+    "pragmatic_note": "Thin American-style fries are often still called 'fries' in the UK, especially at fast-food chains.",
+    "pitfall": "In the US 'chips' means what Britons call crisps.",
+    "examples": [
+      "Shall we grab fish and chips on the way home?",
+      "Do you want salt and vinegar on your chips?"
+    ],
+    "collocations": [
+      "fish and chips",
+      "chip shop",
+      "oven chips"
+    ],
+    "wiki": "French fries",
+    "forms": [
+      "chip"
+    ]
+  },
+  {
+    "headword": "crisps",
+    "register": "GREEN",
+    "us_equivalent": "potato chips",
+    "gloss": "Thin slices of potato fried until crunchy, sold in packets.",
+    "usage": "Universal British word; a packet of crisps is a standard lunchbox and pub snack.",
+    "pragmatic_note": "Britons buy crisps in single 'packets', and multipacks for lunchboxes.",
+    "pitfall": "Asking for 'chips' in a UK shop will get you hot chips, not crisps.",
+    "examples": [
+      "Could I have a packet of crisps with that?",
+      "Cheese and onion crisps are my weakness."
+    ],
+    "collocations": [
+      "a packet of crisps",
+      "cheese and onion crisps",
+      "crisp sandwich"
+    ],
+    "wiki": "Potato chips",
+    "forms": [
+      "crisp"
+    ]
+  },
+  {
+    "headword": "salt and vinegar",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The classic seasoning for chips, and a popular crisp flavour.",
+    "usage": "Asked as standard in British chip shops: 'Salt and vinegar?'",
+    "pragmatic_note": null,
+    "pitfall": "British chip shops use malt vinegar, which tastes different from white vinegar.",
+    "examples": [
+      "Salt and vinegar on your chips, love?",
+      "Salt and vinegar crisps make my mouth sting."
+    ],
+    "collocations": [
+      "salt and vinegar crisps",
+      "malt vinegar"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "jacket potato",
+    "register": "GREEN",
+    "us_equivalent": "baked potato",
+    "gloss": "A whole potato baked in its skin and filled with toppings.",
+    "usage": "Common in British cafés, pubs and canteens as a lunchtime option.",
+    "pragmatic_note": null,
+    "pitfall": "'Baked potato' is also understood in the UK; 'jacket' refers to the skin.",
+    "examples": [
+      "I'll have a jacket potato with cheese and beans.",
+      "Jacket potatoes take about an hour in the oven."
+    ],
+    "collocations": [
+      "jacket potato with beans",
+      "jacket spud"
+    ],
+    "wiki": "Baked potato",
+    "forms": [
+      "jacket potatoes",
+      "jacket"
+    ]
+  },
+  {
+    "headword": "mash",
+    "register": "GREEN",
+    "us_equivalent": "mashed potatoes",
+    "gloss": "Potatoes boiled and crushed with butter and milk until smooth.",
+    "usage": "The usual British word on menus and at home.",
+    "pragmatic_note": null,
+    "pitfall": "Britons treat 'mash' as uncountable: 'some mash', not 'some mashes'.",
+    "examples": [
+      "Sausages and mash for tea tonight.",
+      "Could I swap the chips for mash?"
+    ],
+    "collocations": [
+      "bangers and mash",
+      "creamy mash",
+      "pie and mash"
+    ],
+    "wiki": "Mashed potato",
+    "forms": [
+      "mashed potato"
+    ]
+  },
+  {
+    "headword": "roast potatoes",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Potatoes parboiled then roasted in hot fat until crisp outside and fluffy inside.",
+    "usage": "An essential part of a British Sunday roast or Christmas dinner.",
+    "pragmatic_note": "Many Britons think their own roast potatoes are the best, and say so.",
+    "pitfall": "Not the same as American 'roasted potatoes', which are usually chunks tossed in oil.",
+    "examples": [
+      "The secret to good roast potatoes is goose fat.",
+      "Can I have more roast potatoes, please?"
+    ],
+    "collocations": [
+      "crispy roast potatoes",
+      "roasties"
+    ],
+    "wiki": null,
+    "forms": [
+      "roasties",
+      "roast potato"
+    ]
+  },
+  {
+    "headword": "mushy peas",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Soft, mashed marrowfat peas, served with fish and chips.",
+    "usage": "A chip-shop classic, especially in the north of England.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Fish, chips and mushy peas, please.",
+      "Mushy peas are an acquired taste for some visitors."
+    ],
+    "collocations": [],
+    "wiki": "Mushy peas",
+    "forms": []
+  },
+  {
+    "headword": "full English",
+    "register": "GREEN",
+    "us_equivalent": "big breakfast",
+    "gloss": "A cooked breakfast of bacon, sausages, eggs, beans, tomatoes, mushrooms and toast.",
+    "usage": "Served in British cafés, hotels and pubs; regional versions include the full Scottish and Ulster fry.",
+    "pragmatic_note": "Ordering a full English at a weekend is a British ritual, especially after a late night.",
+    "pitfall": null,
+    "examples": [
+      "I'll have the full English with extra toast.",
+      "Nothing cures a hangover like a full English."
+    ],
+    "collocations": [
+      "full English breakfast",
+      "full Scottish"
+    ],
+    "wiki": "Full breakfast",
+    "forms": [
+      "full English breakfast"
+    ]
+  },
+  {
+    "headword": "fry-up",
+    "register": "AMBER",
+    "us_equivalent": "big breakfast",
+    "gloss": "An informal word for a cooked breakfast of fried foods.",
+    "usage": "Common in everyday British speech, especially at weekends.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Fancy a fry-up on Saturday morning?",
+      "The café does a cracking fry-up."
+    ],
+    "collocations": [
+      "a full fry-up"
+    ],
+    "wiki": "Full breakfast",
+    "forms": [
+      "fry-ups"
+    ]
+  },
+  {
+    "headword": "beans on toast",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Baked beans in tomato sauce, heated and poured over buttered toast.",
+    "usage": "A quick, cheap British meal, classic for students and lazy evenings.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm just having beans on toast tonight.",
+      "Beans on toast with grated cheese is the best version."
+    ],
+    "collocations": [
+      "cheesy beans on toast"
+    ],
+    "wiki": "Beans on toast",
+    "forms": []
+  },
+  {
+    "headword": "cheese on toast",
+    "register": "GREEN",
+    "us_equivalent": "open-faced grilled cheese",
+    "gloss": "Cheese melted on toast under the grill.",
+    "usage": "A simple British snack or light supper.",
+    "pragmatic_note": null,
+    "pitfall": "It is made open, under the grill, unlike an American grilled cheese sandwich.",
+    "examples": [
+      "I'll just make myself some cheese on toast.",
+      "A dash of Worcestershire sauce on cheese on toast is lovely."
+    ],
+    "collocations": [],
+    "wiki": "Cheese on toast",
+    "forms": []
+  },
+  {
+    "headword": "Welsh rarebit",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Toast topped with a savoury sauce of cheese, mustard, ale and Worcestershire sauce, then grilled.",
+    "usage": "A traditional British savoury, often on café and gastropub menus.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The Welsh rarebit comes with a side salad.",
+      "Welsh rarebit is posh cheese on toast."
+    ],
+    "collocations": [],
+    "wiki": "Welsh rarebit",
+    "forms": [
+      "rarebit"
+    ]
+  },
+  {
+    "headword": "soldiers",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Thin strips of buttered toast for dipping into a soft-boiled egg.",
+    "usage": "A classic British children's breakfast: 'egg and soldiers'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Do you want a boiled egg with soldiers?",
+      "Dip your soldiers in the yolk."
+    ],
+    "collocations": [
+      "egg and soldiers",
+      "dippy egg"
+    ],
+    "wiki": "Soldiers (food)",
+    "forms": []
+  },
+  {
+    "headword": "bubble and squeak",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Fried leftover potatoes and vegetables, especially cabbage, from a roast dinner.",
+    "usage": "Traditional British dish, often eaten on Boxing Day or with a fry-up.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We'll have bubble and squeak with the leftovers.",
+      "Bubble and squeak goes well with a fried egg."
+    ],
+    "collocations": [],
+    "wiki": "Bubble and squeak",
+    "forms": []
+  },
+  {
+    "headword": "porridge",
+    "register": "GREEN",
+    "us_equivalent": "oatmeal",
+    "gloss": "Oats cooked in milk or water, eaten hot for breakfast.",
+    "usage": "The usual British word, especially associated with Scotland.",
+    "pragmatic_note": null,
+    "pitfall": "In Britain 'oatmeal' means the ground oats themselves, not the cooked dish.",
+    "examples": [
+      "I have porridge with honey every morning.",
+      "Porridge keeps me going until lunch."
+    ],
+    "collocations": [
+      "a bowl of porridge",
+      "porridge oats"
+    ],
+    "wiki": "Porridge",
+    "forms": []
+  },
+  {
+    "headword": "kedgeree",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A dish of rice, smoked fish, hard-boiled eggs and curry spices.",
+    "usage": "An Anglo-Indian dish that became a British country-house breakfast; now rather traditional.",
+    "pragmatic_note": "Its name comes from the Indian dish khichdi, which is quite different.",
+    "pitfall": null,
+    "examples": [
+      "The hotel serves kedgeree at breakfast.",
+      "Kedgeree is a great way to use smoked haddock."
+    ],
+    "collocations": [],
+    "wiki": "Kedgeree",
+    "forms": []
+  },
+  {
+    "headword": "sarnie",
+    "register": "RED",
+    "us_equivalent": "sandwich",
+    "gloss": "A very informal word for a sandwich.",
+    "usage": "Common in casual British speech, especially in the north.",
+    "pragmatic_note": null,
+    "pitfall": "Fine among friends, but say 'sandwich' in formal or work emails.",
+    "examples": [
+      "I've made you a cheese sarnie for later.",
+      "Fancy a bacon sarnie?"
+    ],
+    "collocations": [
+      "bacon sarnie",
+      "chip sarnie"
+    ],
+    "wiki": "Sandwich",
+    "forms": [
+      "sarnies"
+    ]
+  },
+  {
+    "headword": "butty",
+    "register": "RED",
+    "us_equivalent": "sandwich",
+    "gloss": "An informal northern English word for a sandwich, especially a hot one.",
+    "usage": "Typical in northern England; heard nationwide in fixed phrases like 'bacon butty'.",
+    "pragmatic_note": "Strongly associated with Lancashire, Merseyside and Yorkshire speech.",
+    "pitfall": null,
+    "examples": [
+      "I'll have a sausage butty and a brew.",
+      "There's nothing like a butty on a cold morning."
+    ],
+    "collocations": [
+      "chip butty",
+      "bacon butty",
+      "sausage butty"
+    ],
+    "wiki": "Sandwich",
+    "forms": [
+      "butties"
+    ]
+  },
+  {
+    "headword": "bacon butty",
+    "register": "AMBER",
+    "us_equivalent": "bacon sandwich",
+    "gloss": "A sandwich filled with hot bacon, often with brown or tomato sauce.",
+    "usage": "A classic British café and breakfast food.",
+    "pragmatic_note": "Whether a bacon butty needs brown sauce or ketchup is a serious British debate.",
+    "pitfall": null,
+    "examples": [
+      "A bacon butty with brown sauce, please.",
+      "Builders love a bacon butty for breakfast."
+    ],
+    "collocations": [
+      "bacon butty with brown sauce"
+    ],
+    "wiki": "Bacon sandwich",
+    "forms": [
+      "bacon sandwich",
+      "bacon sarnie"
+    ]
+  },
+  {
+    "headword": "chip butty",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A soft white roll or bread filled with hot chips.",
+    "usage": "A beloved, carb-heavy chip-shop staple in northern England.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "A chip butty is the ultimate comfort food.",
+      "I'll have a chip butty with plenty of vinegar."
+    ],
+    "collocations": [],
+    "wiki": "Chip butty",
+    "forms": [
+      "chip barm",
+      "chip sandwich"
+    ]
+  },
+  {
+    "headword": "toastie",
+    "register": "AMBER",
+    "us_equivalent": "grilled cheese / toasted sandwich",
+    "gloss": "A toasted sandwich, often filled with cheese and ham.",
+    "usage": "Very common in British cafés and homes; made in a sandwich toaster or pan.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll have a cheese and ham toastie, please.",
+      "A toastie and soup is perfect for lunch."
+    ],
+    "collocations": [
+      "cheese toastie",
+      "toastie maker"
+    ],
+    "wiki": null,
+    "forms": [
+      "toasties"
+    ]
+  },
+  {
+    "headword": "ploughman's lunch",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A cold meal of cheese, bread, pickle, salad and often ham or a pork pie.",
+    "usage": "A traditional British pub lunch, often shortened to 'a ploughman's'.",
+    "pragmatic_note": null,
+    "pitfall": "Note the British spelling 'plough', not 'plow'.",
+    "examples": [
+      "I'll have a ploughman's and a half of cider.",
+      "The ploughman's comes with Cheddar, pickle and crusty bread."
+    ],
+    "collocations": [],
+    "wiki": "Ploughman's lunch",
+    "forms": [
+      "ploughman's"
+    ]
+  },
+  {
+    "headword": "Scotch egg",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A hard- or soft-boiled egg wrapped in sausage meat, coated in breadcrumbs and fried.",
+    "usage": "A British picnic and pub snack.",
+    "pragmatic_note": null,
+    "pitfall": "It is not Scottish in origin, despite the name.",
+    "examples": [
+      "We packed Scotch eggs for the picnic.",
+      "The pub does a gorgeous runny Scotch egg."
+    ],
+    "collocations": [],
+    "wiki": "Scotch egg",
+    "forms": [
+      "Scotch eggs"
+    ]
+  },
+  {
+    "headword": "sausage roll",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Sausage meat wrapped in flaky pastry and baked.",
+    "usage": "Eaten everywhere in Britain, from bakeries to party buffets.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll grab a sausage roll from the bakery.",
+      "There are mini sausage rolls on the buffet."
+    ],
+    "collocations": [
+      "vegan sausage roll"
+    ],
+    "wiki": "Sausage roll",
+    "forms": [
+      "sausage rolls"
+    ]
+  },
+  {
+    "headword": "pork pie",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A raised pie of chopped pork and jelly in hot-water crust pastry, eaten cold.",
+    "usage": "A traditional British picnic, buffet and pub food; Melton Mowbray is famous for it.",
+    "pragmatic_note": null,
+    "pitfall": "'Porky pies' is rhyming slang for lies; in food contexts it means the pie.",
+    "examples": [
+      "A slice of pork pie with some pickle, please.",
+      "Melton Mowbray pork pies have protected status."
+    ],
+    "collocations": [
+      "Melton Mowbray pork pie"
+    ],
+    "wiki": "Pork pie",
+    "forms": [
+      "pork pies"
+    ]
+  },
+  {
+    "headword": "pasty",
+    "register": "GREEN",
+    "us_equivalent": "hand pie (roughly)",
+    "gloss": "A pastry case folded around a savoury filling such as beef, potato and swede.",
+    "usage": "Associated with Cornwall; sold in bakeries across Britain.",
+    "pragmatic_note": null,
+    "pitfall": "Pronounced 'PASS-tee' with a short 'a'; 'PAY-stee' means pale and unhealthy-looking.",
+    "examples": [
+      "I'll have a Cornish pasty and a cup of tea.",
+      "Pasties were made for Cornish miners to eat underground."
+    ],
+    "collocations": [
+      "Cornish pasty",
+      "cheese and onion pasty"
+    ],
+    "wiki": "Pasty",
+    "forms": [
+      "pasties"
+    ]
+  },
+  {
+    "headword": "fish and chips",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Battered, deep-fried white fish served with chips.",
+    "usage": "Britain's best-known takeaway, traditionally eaten on a Friday or at the seaside.",
+    "pragmatic_note": "Eating fish and chips out of the paper by the sea is a classic British treat.",
+    "pitfall": null,
+    "examples": [
+      "Shall we get fish and chips on Friday?",
+      "Cod and chips twice, please."
+    ],
+    "collocations": [
+      "fish and chip shop",
+      "cod and chips"
+    ],
+    "wiki": "Fish and chips",
+    "forms": []
+  },
+  {
+    "headword": "Sunday roast",
+    "register": "GREEN",
+    "us_equivalent": "Sunday dinner",
+    "gloss": "A traditional Sunday meal of roast meat, potatoes, vegetables, Yorkshire puddings and gravy.",
+    "usage": "Eaten at home or in pubs, usually at Sunday lunchtime.",
+    "pragmatic_note": "Being invited for a Sunday roast is a warm sign of friendship or family welcome.",
+    "pitfall": null,
+    "examples": [
+      "Come round for a Sunday roast this weekend.",
+      "The pub's Sunday roast is booked up weeks ahead."
+    ],
+    "collocations": [
+      "roast dinner",
+      "Sunday lunch"
+    ],
+    "wiki": "Sunday roast",
+    "forms": [
+      "roast dinner",
+      "a roast"
+    ]
+  },
+  {
+    "headword": "Yorkshire pudding",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A puffed, crisp batter pudding baked in hot fat, served with roast beef and gravy.",
+    "usage": "An essential part of a British Sunday roast, often shortened to 'Yorkshires'.",
+    "pragmatic_note": "Some families serve Yorkshire puddings with every roast, not just beef.",
+    "pitfall": "It is savoury, not a dessert.",
+    "examples": [
+      "The secret to good Yorkshire puddings is very hot oil.",
+      "Can I have extra Yorkshires?"
+    ],
+    "collocations": [
+      "roast beef and Yorkshire pudding"
+    ],
+    "wiki": "Yorkshire pudding",
+    "forms": [
+      "Yorkshires",
+      "Yorkshire puddings"
+    ]
+  },
+  {
+    "headword": "toad in the hole",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Sausages baked in Yorkshire pudding batter, served with gravy.",
+    "usage": "A traditional British family supper.",
+    "pragmatic_note": null,
+    "pitfall": "There is no toad in it; the name is simply playful.",
+    "examples": [
+      "We're having toad in the hole for tea.",
+      "Toad in the hole needs plenty of onion gravy."
+    ],
+    "collocations": [],
+    "wiki": "Toad in the hole",
+    "forms": []
+  },
+  {
+    "headword": "bangers and mash",
+    "register": "AMBER",
+    "us_equivalent": "sausages and mashed potatoes",
+    "gloss": "Sausages served with mashed potato and onion gravy.",
+    "usage": "A classic British pub meal and home supper.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Bangers and mash with onion gravy, please.",
+      "Bangers and mash is the ultimate comfort food."
+    ],
+    "collocations": [],
+    "wiki": "Bangers and mash",
+    "forms": [
+      "sausage and mash"
+    ]
+  },
+  {
+    "headword": "shepherd's pie",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Minced lamb in gravy, topped with mashed potato and baked.",
+    "usage": "A traditional British family dish, also common in pubs.",
+    "pragmatic_note": null,
+    "pitfall": "Strictly, shepherd's pie is lamb; the beef version is cottage pie.",
+    "examples": [
+      "Shepherd's pie is a great way to use leftover lamb.",
+      "We're having shepherd's pie tonight."
+    ],
+    "collocations": [],
+    "wiki": "Shepherd's pie",
+    "forms": []
+  },
+  {
+    "headword": "cottage pie",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Minced beef in gravy, topped with mashed potato and baked.",
+    "usage": "A traditional British family dish, the beef version of shepherd's pie.",
+    "pragmatic_note": null,
+    "pitfall": "Many people mix up cottage and shepherd's pie; the meat is what differs.",
+    "examples": [
+      "Cottage pie is made with beef, not lamb.",
+      "I'll make a big cottage pie for the freezer."
+    ],
+    "collocations": [],
+    "wiki": "Shepherd's pie",
+    "forms": []
+  },
+  {
+    "headword": "steak and kidney pie",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A pie filled with chunks of beef and kidney in thick gravy.",
+    "usage": "A traditional British pub dish, often made with ale.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The pub's steak and kidney pie comes with mash.",
+      "Steak and ale pie is the more popular version now."
+    ],
+    "collocations": [
+      "steak and ale pie"
+    ],
+    "wiki": "Steak and kidney pie",
+    "forms": []
+  },
+  {
+    "headword": "pie and mash",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A minced-beef pie with mashed potato and green parsley sauce called 'liquor'.",
+    "usage": "A traditional working-class London dish, served in old-fashioned pie shops.",
+    "pragmatic_note": null,
+    "pitfall": "The parsley sauce is called 'liquor' but contains no alcohol.",
+    "examples": [
+      "Pie and mash with liquor, please.",
+      "There are still a few old pie and mash shops in the East End."
+    ],
+    "collocations": [
+      "pie and mash shop"
+    ],
+    "wiki": "Pie and mash",
+    "forms": []
+  },
+  {
+    "headword": "Lancashire hotpot",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Lamb and onions slow-cooked under a topping of sliced potatoes.",
+    "usage": "A traditional dish from Lancashire in north-west England.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Lancashire hotpot is perfect on a cold night.",
+      "The hotpot needs a good three hours in the oven."
+    ],
+    "collocations": [],
+    "wiki": "Lancashire hotpot",
+    "forms": [
+      "hotpot"
+    ]
+  },
+  {
+    "headword": "casserole",
+    "register": "GREEN",
+    "us_equivalent": "stew",
+    "gloss": "A slow-cooked stew made in the oven, or the heavy pot it is cooked in.",
+    "usage": "Very common British word for a stew baked in the oven.",
+    "pragmatic_note": null,
+    "pitfall": "An American 'casserole' is often a baked dish with a creamy or cheesy topping.",
+    "examples": [
+      "I'll put a chicken casserole in the oven.",
+      "Brown the meat before it goes in the casserole."
+    ],
+    "collocations": [
+      "beef casserole",
+      "casserole dish"
+    ],
+    "wiki": "Casserole",
+    "forms": [
+      "casseroles"
+    ]
+  },
+  {
+    "headword": "haggis",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A Scottish dish of sheep's offal, oatmeal, onion and spices, cooked in a casing.",
+    "usage": "Scotland's national dish, especially eaten on Burns Night with neeps and tatties.",
+    "pragmatic_note": "Visitors are often teased that haggis is a small Highland animal.",
+    "pitfall": null,
+    "examples": [
+      "We had haggis, neeps and tatties on Burns Night.",
+      "Vegetarian haggis is surprisingly tasty."
+    ],
+    "collocations": [
+      "haggis, neeps and tatties",
+      "vegetarian haggis"
+    ],
+    "wiki": "Haggis",
+    "forms": []
+  },
+  {
+    "headword": "coronation chicken",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Cold cooked chicken in a creamy, mildly curried mayonnaise sauce.",
+    "usage": "Created for the 1953 coronation; a staple sandwich filling and buffet dish.",
+    "pragmatic_note": null,
+    "pitfall": "It is very mild and sweet, nothing like an Indian curry.",
+    "examples": [
+      "A coronation chicken sandwich, please.",
+      "Coronation chicken is a classic at British buffets."
+    ],
+    "collocations": [],
+    "wiki": "Coronation chicken",
+    "forms": []
+  },
+  {
+    "headword": "chicken tikka masala",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Grilled chicken pieces in a creamy, spiced tomato sauce.",
+    "usage": "One of Britain's most popular curry-house dishes, widely seen as a British creation.",
+    "pragmatic_note": "It was once famously called 'a true British national dish' by a Foreign Secretary.",
+    "pitfall": null,
+    "examples": [
+      "I'll have a chicken tikka masala and pilau rice.",
+      "Tikka masala is the nation's favourite curry."
+    ],
+    "collocations": [
+      "chicken tikka masala with naan"
+    ],
+    "wiki": "Chicken tikka masala",
+    "forms": [
+      "tikka masala"
+    ]
+  },
+  {
+    "headword": "doner kebab",
+    "register": "GREEN",
+    "us_equivalent": "gyro (roughly)",
+    "gloss": "Spiced meat sliced from a vertical rotating spit, served in pitta or flatbread.",
+    "usage": "A classic late-night British takeaway after the pub.",
+    "pragmatic_note": "A 'kebab after the pub' is a stereotypical British end to a night out.",
+    "pitfall": null,
+    "examples": [
+      "They grabbed a doner kebab on the way home.",
+      "Do you want chilli sauce on your doner?"
+    ],
+    "collocations": [
+      "doner kebab with chilli sauce",
+      "kebab shop"
+    ],
+    "wiki": "Doner kebab",
+    "forms": [
+      "doner",
+      "kebab"
+    ]
+  },
+  {
+    "headword": "pigs in blankets",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Small sausages wrapped in streaky bacon and roasted, eaten at Christmas.",
+    "usage": "An essential side dish of a British Christmas dinner.",
+    "pragmatic_note": "Many Britons say pigs in blankets are the best part of Christmas dinner.",
+    "pitfall": "In the US 'pigs in a blanket' are sausages wrapped in pastry.",
+    "examples": [
+      "You can never have too many pigs in blankets.",
+      "Who's eaten all the pigs in blankets?"
+    ],
+    "collocations": [],
+    "wiki": "Pigs in blankets",
+    "forms": []
+  },
+  {
+    "headword": "brown sauce",
+    "register": "GREEN",
+    "us_equivalent": "steak sauce (roughly)",
+    "gloss": "A dark, tangy, fruity sauce made with tamarind, vinegar and spices.",
+    "usage": "A classic British condiment for bacon sandwiches and fry-ups.",
+    "pragmatic_note": "People are fiercely loyal to either brown sauce or ketchup on a bacon sandwich.",
+    "pitfall": null,
+    "examples": [
+      "Brown sauce or red sauce on your bacon butty?",
+      "Pass the brown sauce, would you?"
+    ],
+    "collocations": [
+      "red or brown sauce"
+    ],
+    "wiki": "Brown sauce",
+    "forms": []
+  },
+  {
+    "headword": "tomato sauce",
+    "register": "GREEN",
+    "us_equivalent": "ketchup",
+    "gloss": "In everyday British speech, often simply means tomato ketchup.",
+    "usage": "Common in homes and cafés; also called 'red sauce' or 'ketchup'.",
+    "pragmatic_note": null,
+    "pitfall": "On a British menu it can also mean a cooked pasta sauce, so check the context.",
+    "examples": [
+      "Do you want tomato sauce with your chips?",
+      "Can I have some tomato sauce for my sausage roll?"
+    ],
+    "collocations": [
+      "red sauce"
+    ],
+    "wiki": "Ketchup",
+    "forms": []
+  },
+  {
+    "headword": "salad cream",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A pale yellow, tangy, mayonnaise-like dressing.",
+    "usage": "A traditional British condiment, especially on salads and sandwiches.",
+    "pragmatic_note": "Salad cream has a nostalgic, slightly retro feel for many Britons.",
+    "pitfall": "It is thinner and sharper than mayonnaise.",
+    "examples": [
+      "My dad still puts salad cream on everything.",
+      "Egg and salad cream sandwiches remind me of childhood."
+    ],
+    "collocations": [],
+    "wiki": "Salad cream",
+    "forms": []
+  },
+  {
+    "headword": "piccalilli",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A bright yellow pickle of chopped vegetables in a mustard and turmeric sauce.",
+    "usage": "A traditional British relish, eaten with cold meats, cheese and pork pies.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Ham, cheese and a dollop of piccalilli is perfect.",
+      "Piccalilli is lovely with a pork pie."
+    ],
+    "collocations": [],
+    "wiki": "Piccalilli",
+    "forms": []
+  },
+  {
+    "headword": "pickle",
+    "register": "GREEN",
+    "us_equivalent": "relish / chutney",
+    "gloss": "In Britain, often a sweet-sour brown chunky relish eaten with cheese.",
+    "usage": "Common in sandwiches like 'cheese and pickle' and with a ploughman's lunch.",
+    "pragmatic_note": null,
+    "pitfall": "An American 'pickle' is a pickled cucumber, which Britons call a gherkin.",
+    "examples": [
+      "A cheese and pickle sandwich, please.",
+      "The ploughman's comes with Cheddar and pickle."
+    ],
+    "collocations": [
+      "cheese and pickle",
+      "pickled onions"
+    ],
+    "wiki": null,
+    "forms": [
+      "pickles"
+    ]
+  },
+  {
+    "headword": "gherkin",
+    "register": "GREEN",
+    "us_equivalent": "pickle",
+    "gloss": "A small cucumber pickled in vinegar.",
+    "usage": "The usual British word, found in burgers and jars.",
+    "pragmatic_note": "London's tower at 30 St Mary Axe is nicknamed 'the Gherkin'.",
+    "pitfall": "Asking for 'a pickle' in Britain may get you chutney rather than a gherkin.",
+    "examples": [
+      "Can I have my burger without the gherkin?",
+      "There's a jar of gherkins in the fridge."
+    ],
+    "collocations": [
+      "sliced gherkins"
+    ],
+    "wiki": "Pickled cucumber",
+    "forms": [
+      "gherkins"
+    ]
+  },
+  {
+    "headword": "mint sauce",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A sharp sauce of chopped mint leaves in vinegar and sugar, served with roast lamb.",
+    "usage": "A traditional British accompaniment to lamb.",
+    "pragmatic_note": null,
+    "pitfall": "It is thin and vinegary, not a sweet mint jelly.",
+    "examples": [
+      "Roast lamb isn't the same without mint sauce.",
+      "Pass the mint sauce, please."
+    ],
+    "collocations": [
+      "roast lamb and mint sauce"
+    ],
+    "wiki": "Mint sauce",
+    "forms": []
+  },
+  {
+    "headword": "bread sauce",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A thick white sauce of milk, breadcrumbs, onion and cloves, served with roast poultry.",
+    "usage": "A traditional part of British Christmas dinner.",
+    "pragmatic_note": "Bread sauce divides opinion; some families love it and others never serve it.",
+    "pitfall": null,
+    "examples": [
+      "Do you want bread sauce with your turkey?",
+      "Mum makes bread sauce every Christmas."
+    ],
+    "collocations": [],
+    "wiki": "Bread sauce",
+    "forms": []
+  },
+  {
+    "headword": "English mustard",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A very hot, bright yellow mustard, served with roast beef and ham.",
+    "usage": "A traditional British condiment, much hotter than American mustard.",
+    "pragmatic_note": null,
+    "pitfall": "Use it sparingly; it is far stronger than the mild yellow American kind.",
+    "examples": [
+      "Careful, English mustard is really hot.",
+      "Ham sandwiches need a bit of English mustard."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "Worcestershire sauce",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A thin, dark, savoury sauce made with vinegar, anchovies and tamarind.",
+    "usage": "Common in British cooking; pronounced 'WUSS-ter-sher'.",
+    "pragmatic_note": null,
+    "pitfall": "Learners often over-pronounce it; Britons say about three syllables, 'WUSS-tuh-shuh'.",
+    "examples": [
+      "Add a dash of Worcestershire sauce to the cheese on toast.",
+      "A Bloody Mary needs Worcestershire sauce."
+    ],
+    "collocations": [
+      "a dash of Worcestershire sauce"
+    ],
+    "wiki": "Worcestershire sauce",
+    "forms": []
+  },
+  {
+    "headword": "Marmite",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A sticky, dark, salty yeast-extract spread, eaten thinly on toast.",
+    "usage": "An iconic British spread; the name is also used to describe anything divisive.",
+    "pragmatic_note": "Calling something 'a bit Marmite' means people either love it or hate it.",
+    "pitfall": "Spread it very thinly; first-timers often use far too much.",
+    "examples": [
+      "I love Marmite on hot buttered toast.",
+      "That film is a bit Marmite: you'll love it or hate it."
+    ],
+    "collocations": [
+      "Marmite on toast"
+    ],
+    "wiki": "Marmite",
+    "forms": []
+  },
+  {
+    "headword": "Cheddar",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A firm cheese, originally from Cheddar in Somerset; Britain's most popular cheese.",
+    "usage": "Sold by strength in Britain: mild, medium, mature, extra mature.",
+    "pragmatic_note": null,
+    "pitfall": "British Cheddar is usually pale, not orange like some American versions.",
+    "examples": [
+      "A mature Cheddar sandwich with pickle, please.",
+      "Grate some Cheddar over the top."
+    ],
+    "collocations": [
+      "mature Cheddar",
+      "extra mature Cheddar"
+    ],
+    "wiki": "Cheddar cheese",
+    "forms": [
+      "cheddar"
+    ]
+  },
+  {
+    "headword": "Stilton",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A rich, crumbly English blue cheese with protected status.",
+    "usage": "A traditional British Christmas cheese, often eaten with port.",
+    "pragmatic_note": null,
+    "pitfall": "Pronounced 'STIL-tun' with a weak second syllable.",
+    "examples": [
+      "Stilton and port is a classic Christmas pairing.",
+      "Crumble some Stilton into the soup."
+    ],
+    "collocations": [
+      "blue Stilton",
+      "Stilton and port"
+    ],
+    "wiki": "Stilton cheese",
+    "forms": []
+  },
+  {
+    "headword": "Red Leicester",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A mild, firm, orange-coloured English cheese.",
+    "usage": "Common in British supermarkets; pronounced 'red LESS-ter'.",
+    "pragmatic_note": null,
+    "pitfall": "'Leicester' is pronounced 'LESS-ter', never 'LIE-sester'.",
+    "examples": [
+      "Red Leicester melts beautifully on toast.",
+      "A cheese board with Red Leicester and Stilton."
+    ],
+    "collocations": [],
+    "wiki": "Red Leicester",
+    "forms": []
+  },
+  {
+    "headword": "Double Gloucester",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A hard, mellow, orange English cheese from Gloucestershire.",
+    "usage": "Traditional British cheese; pronounced 'double GLOSS-ter'.",
+    "pragmatic_note": "It is famously used in the annual cheese-rolling race down Cooper's Hill.",
+    "pitfall": "'Gloucester' is pronounced 'GLOSS-ter'; the middle letters are silent.",
+    "examples": [
+      "Double Gloucester is great in a cheese toastie.",
+      "They chase a wheel of Double Gloucester down the hill."
+    ],
+    "collocations": [],
+    "wiki": "Gloucester cheese",
+    "forms": []
+  },
+  {
+    "headword": "elevenses",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A light mid-morning snack, usually tea or coffee and a biscuit.",
+    "usage": "A traditional, slightly old-fashioned but affectionate British term.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Time for elevenses; who wants a cuppa?",
+      "We stopped for elevenses at a little café."
+    ],
+    "collocations": [],
+    "wiki": "Elevenses",
+    "forms": []
+  },
+  {
+    "headword": "tea",
+    "register": "GREEN",
+    "us_equivalent": "dinner (evening meal)",
+    "gloss": "In much of northern England and Scotland, the main evening meal.",
+    "usage": "Regional and class-linked: northerners often say 'tea' for the evening meal.",
+    "pragmatic_note": "Saying 'What's for tea?' marks you as northern or working-class in some people's ears; neither is wrong.",
+    "pitfall": "If invited 'for tea', check whether it means a cuppa or a full meal.",
+    "examples": [
+      "What are we having for tea tonight?",
+      "Come round for your tea on Friday."
+    ],
+    "collocations": [
+      "for your tea",
+      "teatime"
+    ],
+    "wiki": "Tea (meal)",
+    "forms": [
+      "teatime"
+    ]
+  },
+  {
+    "headword": "dinner",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The main meal of the day; in some regions this means the midday meal.",
+    "usage": "Most Britons use it for the evening meal, but many northerners mean lunch.",
+    "pragmatic_note": "Lunch-dinner-tea versus lunch-dinner-supper usage is a classic British class and regional marker.",
+    "pitfall": "School 'dinners' and 'dinner ladies' refer to lunch, not the evening meal.",
+    "examples": [
+      "What time are we having dinner?",
+      "We're having a roast for dinner on Sunday."
+    ],
+    "collocations": [
+      "Sunday dinner",
+      "Christmas dinner",
+      "dinner party"
+    ],
+    "wiki": null,
+    "forms": [
+      "dinners"
+    ]
+  },
+  {
+    "headword": "supper",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An evening meal, often lighter or less formal; also a late snack before bed.",
+    "usage": "Used across Britain; especially common among middle- and upper-class speakers.",
+    "pragmatic_note": "Inviting friends 'for supper' sounds relaxed and informal compared with 'for dinner'.",
+    "pitfall": null,
+    "examples": [
+      "Come over for a kitchen supper on Saturday.",
+      "We had a light supper of soup and bread."
+    ],
+    "collocations": [
+      "kitchen supper",
+      "fish supper"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "fish supper",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "In Scotland, fish and chips; elsewhere, an evening meal of fish.",
+    "usage": "Very common in Scottish chip shops: 'a fish supper' includes the chips.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll have a fish supper and a can of juice.",
+      "Any chippy in Glasgow will do you a fish supper."
+    ],
+    "collocations": [
+      "haddock supper"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "afternoon tea",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A light meal of sandwiches, scones and cakes with tea, served mid-afternoon.",
+    "usage": "Taken in hotels and tearooms as a treat or celebration.",
+    "pragmatic_note": "Afternoon tea is a special-occasion outing, not an everyday habit for most Britons.",
+    "pitfall": "It is not the same as 'high tea', despite frequent confusion abroad.",
+    "examples": [
+      "We're taking Mum for afternoon tea for her birthday.",
+      "Afternoon tea at the hotel comes on a three-tier stand."
+    ],
+    "collocations": [
+      "afternoon tea for two",
+      "cake stand"
+    ],
+    "wiki": "Tea (meal)",
+    "forms": []
+  },
+  {
+    "headword": "high tea",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Traditionally a substantial early-evening meal with tea, rather than an elegant snack.",
+    "usage": "Now uncommon; historically a working-class evening meal.",
+    "pragmatic_note": "Abroad 'high tea' sounds posh, but in Britain the elegant version is 'afternoon tea'.",
+    "pitfall": "Hotels sometimes use 'high tea' for afternoon tea, which Britons may find odd.",
+    "examples": [
+      "High tea was a hearty working-class meal.",
+      "Tourists often confuse high tea with afternoon tea."
+    ],
+    "collocations": [],
+    "wiki": "Tea (meal)",
+    "forms": []
+  },
+  {
+    "headword": "cream tea",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Tea served with scones, clotted cream and jam.",
+    "usage": "Especially associated with Devon and Cornwall, and offered in tearooms nationwide.",
+    "pragmatic_note": "In Devon it's cream then jam; in Cornwall it's jam then cream, and people care.",
+    "pitfall": null,
+    "examples": [
+      "Let's stop for a cream tea in Devon.",
+      "A cream tea for two, please."
+    ],
+    "collocations": [
+      "Devon cream tea",
+      "Cornish cream tea"
+    ],
+    "wiki": "Cream tea",
+    "forms": [
+      "cream teas"
+    ]
+  },
+  {
+    "headword": "brekkie",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "An informal word for breakfast.",
+    "usage": "Used casually in British speech and on café chalkboards.",
+    "pragmatic_note": null,
+    "pitfall": "Fine among friends; use 'breakfast' at work or in writing.",
+    "examples": [
+      "What do you fancy for brekkie?",
+      "The café does an all-day brekkie."
+    ],
+    "collocations": [
+      "all-day brekkie"
+    ],
+    "wiki": null,
+    "forms": [
+      "brekky"
+    ]
+  },
+  {
+    "headword": "packed lunch",
+    "register": "GREEN",
+    "us_equivalent": "bag lunch / sack lunch",
+    "gloss": "A lunch of sandwiches and snacks prepared at home and taken to school or work.",
+    "usage": "Standard British term; school children choose between packed lunch and school dinners.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm taking a packed lunch to save money.",
+      "Do the kids want a packed lunch tomorrow?"
+    ],
+    "collocations": [],
+    "wiki": "Packed lunch",
+    "forms": [
+      "packed lunches"
+    ]
+  },
+  {
+    "headword": "five a day",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The NHS-recommended five portions of fruit and vegetables daily.",
+    "usage": "A well-known public-health guideline in Britain, often printed on food labels.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "This soup counts as two of your five a day.",
+      "Are you getting your five a day?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "5 a day"
+    ]
+  },
+  {
+    "headword": "Shrove Tuesday",
+    "register": "GREEN",
+    "us_equivalent": "Mardi Gras / Fat Tuesday",
+    "gloss": "The day before Lent begins, when Britons traditionally eat pancakes.",
+    "usage": "Commonly called 'Pancake Day'; some towns hold pancake races.",
+    "pragmatic_note": "British pancakes are thin, like crêpes, often with lemon and sugar.",
+    "pitfall": "Americans may know it as Mardi Gras, which to Britons suggests a carnival rather than pancakes.",
+    "examples": [
+      "Are we having pancakes on Pancake Day?",
+      "Lemon and sugar is the classic Shrove Tuesday topping."
+    ],
+    "collocations": [
+      "Pancake Day",
+      "pancake race"
+    ],
+    "wiki": "Shrove Tuesday",
+    "forms": [
+      "Pancake Day"
+    ]
+  },
+  {
+    "headword": "cuppa",
+    "register": "AMBER",
+    "us_equivalent": "cup of tea",
+    "gloss": "A cup of tea, informally.",
+    "usage": "Extremely common and friendly British word, fine with colleagues.",
+    "pragmatic_note": "Offering a cuppa is the default British gesture of welcome or comfort.",
+    "pitfall": null,
+    "examples": [
+      "Fancy a cuppa?",
+      "Let's sit down with a cuppa and sort it out."
+    ],
+    "collocations": [
+      "fancy a cuppa",
+      "a nice cuppa"
+    ],
+    "wiki": "Tea",
+    "forms": [
+      "cuppas"
+    ]
+  },
+  {
+    "headword": "builder's tea",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Strong black tea made with a teabag, served with milk and often sugar.",
+    "usage": "A common British way of describing a very strong, unfussy mug of tea.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll have a builder's tea, two sugars.",
+      "She drinks it builder's: strong, milky and sweet."
+    ],
+    "collocations": [
+      "strong builder's tea"
+    ],
+    "wiki": "Builder's tea",
+    "forms": [
+      "builder's"
+    ]
+  },
+  {
+    "headword": "brew",
+    "register": "AMBER",
+    "us_equivalent": "cup of tea",
+    "gloss": "An informal word for a cup of tea, especially in the north.",
+    "usage": "Common in northern England: 'I'll put a brew on.'",
+    "pragmatic_note": null,
+    "pitfall": "In Britain a 'brew' is usually tea; Americans may assume beer.",
+    "examples": [
+      "Do you want a brew?",
+      "I'm gasping for a brew."
+    ],
+    "collocations": [
+      "put a brew on",
+      "a quick brew"
+    ],
+    "wiki": null,
+    "forms": [
+      "brews"
+    ]
+  },
+  {
+    "headword": "white",
+    "register": "AMBER",
+    "us_equivalent": "with milk / with cream",
+    "gloss": "With milk added, describing tea or coffee.",
+    "usage": "The usual way to say how you take your tea or coffee in Britain.",
+    "pragmatic_note": "'Milk and two sugars' or 'white, no sugar' is a normal British order.",
+    "pitfall": "'White coffee' in Britain simply means coffee with milk.",
+    "examples": [
+      "How do you take it? White, no sugar, please.",
+      "Two white coffees and a tea, please."
+    ],
+    "collocations": [
+      "white with one sugar",
+      "white coffee"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "cafetière",
+    "register": "GREEN",
+    "us_equivalent": "French press",
+    "gloss": "A glass coffee pot with a plunger to press down the grounds.",
+    "usage": "Common British word in homes and cafés.",
+    "pragmatic_note": null,
+    "pitfall": "Pronounced 'caff-uh-TYAIR'; 'French press' is understood but less used.",
+    "examples": [
+      "Shall I make a cafetière of coffee?",
+      "The café serves coffee in a cafetière for two."
+    ],
+    "collocations": [],
+    "wiki": "French press",
+    "forms": [
+      "cafetiere"
+    ]
+  },
+  {
+    "headword": "filter coffee",
+    "register": "GREEN",
+    "us_equivalent": "drip coffee",
+    "gloss": "Coffee made by pouring hot water through ground coffee in a paper filter.",
+    "usage": "The standard British term for drip coffee.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Is there any filter coffee on?",
+      "I prefer filter coffee to instant."
+    ],
+    "collocations": [
+      "filter coffee machine"
+    ],
+    "wiki": "Drip coffee",
+    "forms": []
+  },
+  {
+    "headword": "squash",
+    "register": "GREEN",
+    "us_equivalent": "fruit drink concentrate",
+    "gloss": "A concentrated fruit drink you dilute with water.",
+    "usage": "A staple in British homes, especially for children: 'orange squash'.",
+    "pragmatic_note": null,
+    "pitfall": "Not the vegetable or the sport; context makes it clear.",
+    "examples": [
+      "Do you want some squash?",
+      "Don't make the squash too strong."
+    ],
+    "collocations": [
+      "orange squash",
+      "blackcurrant squash"
+    ],
+    "wiki": "Squash (drink)",
+    "forms": []
+  },
+  {
+    "headword": "cordial",
+    "register": "GREEN",
+    "us_equivalent": "syrup (non-alcoholic)",
+    "gloss": "A sweet, concentrated fruit or flower drink diluted with water.",
+    "usage": "Common British word, especially in 'elderflower cordial'.",
+    "pragmatic_note": null,
+    "pitfall": "In the US 'cordial' can mean a sweet liqueur; British cordial is non-alcoholic.",
+    "examples": [
+      "Elderflower cordial with sparkling water is lovely.",
+      "We make our own lime cordial."
+    ],
+    "collocations": [
+      "elderflower cordial",
+      "lime cordial"
+    ],
+    "wiki": "Elderflower cordial",
+    "forms": []
+  },
+  {
+    "headword": "fizzy drink",
+    "register": "GREEN",
+    "us_equivalent": "soda / pop",
+    "gloss": "A sweet, carbonated soft drink such as cola or lemonade.",
+    "usage": "Standard British term; 'soft drink' and 'pop' are also used.",
+    "pragmatic_note": "'Pop' sounds northern or old-fashioned in much of Britain.",
+    "pitfall": "'Soda' in Britain often means soda water, not a sweet drink.",
+    "examples": [
+      "The kids aren't allowed fizzy drinks at dinner.",
+      "Can I get you a fizzy drink?"
+    ],
+    "collocations": [
+      "sugary fizzy drinks"
+    ],
+    "wiki": "Soft drink",
+    "forms": [
+      "fizzy drinks",
+      "fizzy"
+    ]
+  },
+  {
+    "headword": "lemonade",
+    "register": "GREEN",
+    "us_equivalent": "lemon-lime soda",
+    "gloss": "In Britain, a clear, sweet, fizzy lemon-flavoured drink.",
+    "usage": "Common in pubs, often mixed with beer or spirits.",
+    "pragmatic_note": null,
+    "pitfall": "American lemonade is still and cloudy; ask for 'cloudy' or 'traditional lemonade' in Britain.",
+    "examples": [
+      "A pint of lager with a splash of lemonade, please.",
+      "Can I have a lemonade with ice?"
+    ],
+    "collocations": [
+      "cloudy lemonade",
+      "traditional lemonade"
+    ],
+    "wiki": "Lemonade",
+    "forms": []
+  },
+  {
+    "headword": "tap water",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Ordinary water from the tap, served free in restaurants and pubs.",
+    "usage": "Normal and polite to request in British restaurants and pubs.",
+    "pragmatic_note": "Licensed premises in England, Scotland and Wales must provide free tap water on request.",
+    "pitfall": "Asking for 'water' may get you charged for bottled water; say 'tap water'.",
+    "examples": [
+      "Could we have a jug of tap water, please?",
+      "Just tap water for me, thanks."
+    ],
+    "collocations": [
+      "a jug of tap water",
+      "still or sparkling"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "pint",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A measure of 568 ml, the standard serving of beer or cider in British pubs.",
+    "usage": "Universal in British pubs; 'a pint' alone usually means a pint of beer.",
+    "pragmatic_note": "'Going for a pint' often means a social drink, not necessarily just one.",
+    "pitfall": "A British pint is larger than an American pint, which is 473 ml.",
+    "examples": [
+      "Fancy a pint after work?",
+      "A pint of bitter and a glass of white wine, please."
+    ],
+    "collocations": [
+      "a pint of lager",
+      "go for a pint"
+    ],
+    "wiki": "Pint",
+    "forms": [
+      "pints"
+    ]
+  },
+  {
+    "headword": "half",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Half a pint of beer or cider.",
+    "usage": "Standard way to order a smaller drink in a British pub.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Just a half for me, I'm driving.",
+      "A half of cider, please."
+    ],
+    "collocations": [
+      "a half of bitter",
+      "a swift half"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "bitter",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A traditional British amber-coloured ale, served at cellar temperature.",
+    "usage": "Ordered in pubs as 'a pint of bitter'; associated with traditional pubs.",
+    "pragmatic_note": null,
+    "pitfall": "It is not served ice-cold, and that is intentional, not a mistake.",
+    "examples": [
+      "A pint of bitter, please.",
+      "This local bitter is brewed just down the road."
+    ],
+    "collocations": [
+      "a pint of bitter",
+      "best bitter"
+    ],
+    "wiki": "Bitter (beer)",
+    "forms": []
+  },
+  {
+    "headword": "real ale",
+    "register": "GREEN",
+    "us_equivalent": "cask beer (roughly)",
+    "gloss": "Traditional beer that finishes fermenting in the cask and is hand-pulled at the bar.",
+    "usage": "Valued in traditional British pubs; promoted by CAMRA, the Campaign for Real Ale.",
+    "pragmatic_note": "Real-ale enthusiasts have a slightly comic, beard-and-tankard stereotype in Britain.",
+    "pitfall": null,
+    "examples": [
+      "This pub has six real ales on tap.",
+      "He's really into real ale."
+    ],
+    "collocations": [
+      "cask ale",
+      "real ale pub"
+    ],
+    "wiki": "Real ale",
+    "forms": [
+      "cask ale"
+    ]
+  },
+  {
+    "headword": "lager",
+    "register": "GREEN",
+    "us_equivalent": "beer",
+    "gloss": "A pale, fizzy, cold beer, the most popular type in Britain.",
+    "usage": "Standard pub word; Britons distinguish lager from ale and bitter.",
+    "pragmatic_note": null,
+    "pitfall": "Ordering 'a beer' in Britain is vague; most people specify lager, ale or bitter.",
+    "examples": [
+      "A pint of lager and a packet of crisps, please.",
+      "Is there an alcohol-free lager?"
+    ],
+    "collocations": [
+      "a pint of lager",
+      "lager shandy"
+    ],
+    "wiki": "Lager",
+    "forms": []
+  },
+  {
+    "headword": "cider",
+    "register": "GREEN",
+    "us_equivalent": "hard cider",
+    "gloss": "An alcoholic drink made from fermented apples.",
+    "usage": "Very popular in British pubs, especially in the West Country.",
+    "pragmatic_note": null,
+    "pitfall": "In the US 'cider' often means non-alcoholic apple juice; British cider is always alcoholic.",
+    "examples": [
+      "A pint of cider, please.",
+      "Somerset is famous for its cider."
+    ],
+    "collocations": [
+      "a pint of cider",
+      "dry cider",
+      "cider farm"
+    ],
+    "wiki": "Cider",
+    "forms": []
+  },
+  {
+    "headword": "shandy",
+    "register": "GREEN",
+    "us_equivalent": "radler (roughly)",
+    "gloss": "Beer mixed with lemonade, making a lighter, lower-alcohol drink.",
+    "usage": "A traditional British pub drink, popular on summer days.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll just have a shandy, I'm driving.",
+      "A lager shandy is perfect on a hot day."
+    ],
+    "collocations": [
+      "lager shandy"
+    ],
+    "wiki": "Shandy",
+    "forms": [
+      "shandies"
+    ]
+  },
+  {
+    "headword": "Pimm's",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A gin-based fruit liqueur, mixed with lemonade, fruit and mint as a summer drink.",
+    "usage": "Associated with the British summer, Wimbledon, garden parties and regattas.",
+    "pragmatic_note": "A jug of Pimm's signals a sunny British summer afternoon.",
+    "pitfall": null,
+    "examples": [
+      "Shall I make a jug of Pimm's for the garden?",
+      "Pimm's and strawberries are a Wimbledon tradition."
+    ],
+    "collocations": [
+      "a jug of Pimm's"
+    ],
+    "wiki": "Pimm's",
+    "forms": []
+  },
+  {
+    "headword": "G&T",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A gin and tonic.",
+    "usage": "Widely used in British bars and homes as a casual abbreviation.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll have a G&T, please.",
+      "A G&T in the garden after work is bliss."
+    ],
+    "collocations": [
+      "a large G&T"
+    ],
+    "wiki": "Gin and tonic",
+    "forms": [
+      "gin and tonic"
+    ]
+  },
+  {
+    "headword": "mulled wine",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Red wine heated with spices, sugar and orange, drunk in winter.",
+    "usage": "Popular at Christmas markets and parties across Britain.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Mulled wine and mince pies, anyone?",
+      "The Christmas market sells mulled wine."
+    ],
+    "collocations": [],
+    "wiki": "Mulled wine",
+    "forms": []
+  },
+  {
+    "headword": "Buck's Fizz",
+    "register": "GREEN",
+    "us_equivalent": "mimosa",
+    "gloss": "Sparkling wine mixed with orange juice.",
+    "usage": "Traditional at British celebration breakfasts, weddings and Christmas morning.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We always have Buck's Fizz on Christmas morning.",
+      "A glass of Buck's Fizz to start the wedding breakfast."
+    ],
+    "collocations": [],
+    "wiki": "Buck's fizz",
+    "forms": []
+  },
+  {
+    "headword": "fizz",
+    "register": "AMBER",
+    "us_equivalent": "bubbly",
+    "gloss": "Informal word for sparkling wine such as Champagne or prosecco.",
+    "usage": "Common in British celebrations: 'a glass of fizz'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Shall we open a bottle of fizz?",
+      "There's fizz on arrival at the wedding."
+    ],
+    "collocations": [
+      "a glass of fizz"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "plonk",
+    "register": "RED",
+    "us_equivalent": "cheap wine",
+    "gloss": "Cheap, ordinary wine.",
+    "usage": "Informal and humorous British word, often self-deprecating.",
+    "pragmatic_note": "Calling your own wine 'plonk' is modest; calling a host's wine plonk is rude.",
+    "pitfall": null,
+    "examples": [
+      "It's only cheap plonk, I'm afraid.",
+      "We drank a bottle of plonk in the garden."
+    ],
+    "collocations": [
+      "cheap plonk"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "a cheeky pint",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "An unplanned or slightly naughty drink, usually during the day or after work.",
+    "usage": "Very common in casual British speech among friends.",
+    "pragmatic_note": null,
+    "pitfall": "Avoid in formal settings; 'cheeky' here means mildly indulgent, not rude.",
+    "examples": [
+      "Fancy a cheeky pint after work?",
+      "We stopped for a cheeky pint on the way home."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "a round",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A set of drinks bought by one person for everyone in the group.",
+    "usage": "Central to British pub culture; people take turns buying rounds.",
+    "pragmatic_note": "Not buying your round when it's your turn is a serious social faux pas in Britain.",
+    "pitfall": null,
+    "examples": [
+      "It's my round; what are you having?",
+      "Whose round is it?"
+    ],
+    "collocations": [
+      "my round",
+      "buy a round"
+    ],
+    "wiki": null,
+    "forms": [
+      "round",
+      "rounds"
+    ]
+  },
+  {
+    "headword": "last orders",
+    "register": "GREEN",
+    "us_equivalent": "last call",
+    "gloss": "The final chance to order drinks before a pub closes.",
+    "usage": "Announced in British pubs, often with a bell.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Last orders at the bar, please!",
+      "We got there just before last orders."
+    ],
+    "collocations": [
+      "call last orders"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "the local",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Your nearest or regular pub.",
+    "usage": "Common British phrase: 'Shall we go to the local?'",
+    "pragmatic_note": "Having a 'local' where staff know you is a cherished part of British life.",
+    "pitfall": null,
+    "examples": [
+      "We'll have a quick one at the local.",
+      "The local does a great Sunday roast."
+    ],
+    "collocations": [
+      "my local"
+    ],
+    "wiki": null,
+    "forms": [
+      "local"
+    ]
+  },
+  {
+    "headword": "beer garden",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An outdoor seating area at a pub.",
+    "usage": "Hugely popular in Britain on the first sunny days of the year.",
+    "pragmatic_note": "Britons pack beer gardens the moment the sun appears, whatever the temperature.",
+    "pitfall": null,
+    "examples": [
+      "Let's sit in the beer garden while it's sunny.",
+      "The beer garden was packed all afternoon."
+    ],
+    "collocations": [],
+    "wiki": "Beer garden",
+    "forms": [
+      "beer gardens"
+    ]
+  },
+  {
+    "headword": "order at the bar",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "In most British pubs, you go to the bar to order and pay instead of waiting for table service.",
+    "usage": "Standard practice in British pubs, including for food.",
+    "pragmatic_note": "Visitors often sit waiting for a waiter that never comes; check for a table number instead.",
+    "pitfall": "Many pubs ask you to note your table number when ordering food at the bar.",
+    "examples": [
+      "Do we order at the bar here?",
+      "You order at the bar and they bring the food over."
+    ],
+    "collocations": [
+      "table number"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "starter",
+    "register": "GREEN",
+    "us_equivalent": "appetizer",
+    "gloss": "A small first course before the main meal.",
+    "usage": "Standard term on British restaurant menus.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Shall we share a starter?",
+      "I'll have the soup as a starter."
+    ],
+    "collocations": [
+      "starters and mains"
+    ],
+    "wiki": null,
+    "forms": [
+      "starters"
+    ]
+  },
+  {
+    "headword": "main course",
+    "register": "GREEN",
+    "us_equivalent": "entrée",
+    "gloss": "The principal dish of a meal, often called 'the main' or 'mains'.",
+    "usage": "Standard term on British menus.",
+    "pragmatic_note": null,
+    "pitfall": "In Britain an 'entrée' traditionally means a starter or side dish, not the main course.",
+    "examples": [
+      "What are you having for your main?",
+      "The mains all come with seasonal veg."
+    ],
+    "collocations": [
+      "mains"
+    ],
+    "wiki": null,
+    "forms": [
+      "main",
+      "mains"
+    ]
+  },
+  {
+    "headword": "the bill",
+    "register": "GREEN",
+    "us_equivalent": "the check",
+    "gloss": "The written total for a meal in a restaurant or café.",
+    "usage": "Standard British term; 'Could we have the bill, please?'",
+    "pragmatic_note": "In Britain you usually have to ask for the bill; staff may consider it rude to bring it unasked.",
+    "pitfall": "Asking for 'the check' sounds American, and a 'cheque' is a bank payment.",
+    "examples": [
+      "Could we have the bill, please?",
+      "Shall we split the bill?"
+    ],
+    "collocations": [
+      "split the bill",
+      "ask for the bill"
+    ],
+    "wiki": null,
+    "forms": [
+      "bill"
+    ]
+  },
+  {
+    "headword": "service charge",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An extra percentage added to a restaurant bill for staff, usually optional.",
+    "usage": "Commonly added in British restaurants, especially for larger groups.",
+    "pragmatic_note": "If service is already included, Britons usually leave no further tip.",
+    "pitfall": "It is discretionary; you may politely ask for it to be removed if service was poor.",
+    "examples": [
+      "Is service included?",
+      "There's a discretionary service charge on the bill."
+    ],
+    "collocations": [
+      "discretionary service charge",
+      "service included"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "book a table",
+    "register": "GREEN",
+    "us_equivalent": "make a reservation",
+    "gloss": "To reserve a place at a restaurant in advance.",
+    "usage": "Usual British phrasing; 'booking' is the noun.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I've booked a table for eight o'clock.",
+      "Do you have a booking?"
+    ],
+    "collocations": [
+      "a booking for two"
+    ],
+    "wiki": null,
+    "forms": [
+      "booking",
+      "booked a table"
+    ]
+  },
+  {
+    "headword": "takeaway",
+    "register": "GREEN",
+    "us_equivalent": "takeout",
+    "gloss": "Hot food bought from a shop or restaurant to eat at home, or the shop itself.",
+    "usage": "Standard British word; 'getting a takeaway' is a classic Friday night.",
+    "pragmatic_note": null,
+    "pitfall": "Britons say 'takeaway' for both the food and the shop.",
+    "examples": [
+      "Shall we just get a takeaway tonight?",
+      "There's a Chinese takeaway on the corner."
+    ],
+    "collocations": [
+      "Chinese takeaway",
+      "Indian takeaway",
+      "takeaway menu"
+    ],
+    "wiki": null,
+    "forms": [
+      "takeaways",
+      "take away"
+    ]
+  },
+  {
+    "headword": "eat in",
+    "register": "GREEN",
+    "us_equivalent": "for here",
+    "gloss": "To eat your food inside a café or restaurant rather than take it away.",
+    "usage": "Standard question in British cafés: 'Eat in or take away?'",
+    "pragmatic_note": null,
+    "pitfall": "'For here or to go?' sounds American; Britons ask 'eat in or take away?'",
+    "examples": [
+      "Is that to eat in or take away?",
+      "We'll eat in, thanks."
+    ],
+    "collocations": [
+      "eat in or take away"
+    ],
+    "wiki": null,
+    "forms": [
+      "eating in"
+    ]
+  },
+  {
+    "headword": "an Indian",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "An Indian meal or restaurant, as in 'going for an Indian'.",
+    "usage": "Very common British usage; similarly 'a Chinese' or 'a Thai'; 'going for a curry' is a much-loved ritual.",
+    "pragmatic_note": "Many 'Indian' restaurants in Britain are Bangladeshi- or Pakistani-run, with an Anglo-Indian menu.",
+    "pitfall": null,
+    "examples": [
+      "Shall we go for an Indian on Saturday?",
+      "Let's get an Indian delivered tonight."
+    ],
+    "collocations": [
+      "go for an Indian",
+      "order a Chinese"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "curry house",
+    "register": "GREEN",
+    "us_equivalent": "Indian restaurant",
+    "gloss": "A British-style Indian restaurant serving dishes like korma, madras and tikka masala.",
+    "usage": "Found on almost every British high street.",
+    "pragmatic_note": null,
+    "pitfall": "British curry-house dishes often differ from home cooking in South Asia.",
+    "examples": [
+      "There's a great curry house on the high street.",
+      "Brick Lane is famous for its curry houses."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "curry houses"
+    ]
+  },
+  {
+    "headword": "chippy",
+    "register": "AMBER",
+    "us_equivalent": "fish-and-chip shop",
+    "gloss": "A fish and chip shop.",
+    "usage": "Everyday British word; a Friday 'chippy tea' is a family tradition.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Shall we get a chippy tonight?",
+      "The chippy round the corner does the best chips."
+    ],
+    "collocations": [
+      "chippy tea",
+      "the local chippy"
+    ],
+    "wiki": "Fish-and-chip shop",
+    "forms": [
+      "chippie",
+      "chip shop"
+    ]
+  },
+  {
+    "headword": "greasy spoon",
+    "register": "AMBER",
+    "us_equivalent": "diner",
+    "gloss": "A small, cheap, unpretentious café serving fried breakfasts and tea.",
+    "usage": "Affectionate British term for a no-frills café.",
+    "pragmatic_note": "Calling a place a greasy spoon is usually fond, not an insult.",
+    "pitfall": null,
+    "examples": [
+      "There's a great greasy spoon by the station.",
+      "Nothing beats a fry-up at a proper greasy spoon."
+    ],
+    "collocations": [],
+    "wiki": "Greasy spoon",
+    "forms": [
+      "greasy spoons"
+    ]
+  },
+  {
+    "headword": "caff",
+    "register": "RED",
+    "us_equivalent": "diner",
+    "gloss": "An informal word for a cheap, simple café.",
+    "usage": "Casual British speech, especially for an old-fashioned workers' café or roadside café.",
+    "pragmatic_note": null,
+    "pitfall": "Not the same as a trendy coffee shop; a caff is cheap and basic.",
+    "examples": [
+      "Let's grab a bacon sandwich at the caff.",
+      "The builders all eat at the caff on the corner."
+    ],
+    "collocations": [
+      "transport caff"
+    ],
+    "wiki": "Greasy spoon",
+    "forms": [
+      "caffs"
+    ]
+  },
+  {
+    "headword": "tearoom",
+    "register": "GREEN",
+    "us_equivalent": "tea shop",
+    "gloss": "A small café serving tea, cakes, scones and light lunches.",
+    "usage": "Common in British villages, market towns and stately homes.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Let's stop at the tearoom for a scone.",
+      "The village tearoom does lovely cream teas."
+    ],
+    "collocations": [
+      "village tearoom"
+    ],
+    "wiki": null,
+    "forms": [
+      "tearooms",
+      "tea room"
+    ]
+  },
+  {
+    "headword": "pub grub",
+    "register": "AMBER",
+    "us_equivalent": "bar food",
+    "gloss": "Simple, hearty food served in pubs.",
+    "usage": "Informal British term for traditional pub meals.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The pub does decent pub grub.",
+      "Fancy some pub grub tonight?"
+    ],
+    "collocations": [
+      "proper pub grub"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "gastropub",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A pub that serves high-quality, restaurant-style food.",
+    "usage": "Common British term since the 1990s.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We booked a table at the new gastropub.",
+      "Gastropub food can be pricey."
+    ],
+    "collocations": [],
+    "wiki": "Gastropub",
+    "forms": [
+      "gastropubs"
+    ]
+  },
+  {
+    "headword": "carvery",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A restaurant or buffet where roast meats are carved for you to order.",
+    "usage": "A popular British pub and hotel offering, especially on Sundays.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Let's go to the carvery for Sunday lunch.",
+      "The carvery has turkey, beef and gammon."
+    ],
+    "collocations": [
+      "Sunday carvery"
+    ],
+    "wiki": "Carvery",
+    "forms": [
+      "carveries"
+    ]
+  },
+  {
+    "headword": "cutlery",
+    "register": "GREEN",
+    "us_equivalent": "silverware / flatware",
+    "gloss": "Knives, forks and spoons used for eating.",
+    "usage": "Standard British term in homes and restaurants.",
+    "pragmatic_note": null,
+    "pitfall": "Britons rarely say 'silverware' unless it's actually silver.",
+    "examples": [
+      "The cutlery is on the side.",
+      "Could we have some clean cutlery, please?"
+    ],
+    "collocations": [
+      "cutlery drawer"
+    ],
+    "wiki": "Cutlery",
+    "forms": []
+  },
+  {
+    "headword": "serviette",
+    "register": "GREEN",
+    "us_equivalent": "napkin",
+    "gloss": "A small square of cloth or paper for wiping your mouth and hands at meals.",
+    "usage": "Used across Britain, though 'napkin' is also very common.",
+    "pragmatic_note": "'Serviette' has long been labelled lower-middle-class by snobbish commentators; 'napkin' is the safe choice.",
+    "pitfall": null,
+    "examples": [
+      "Could I have a serviette, please?",
+      "There are paper serviettes by the till."
+    ],
+    "collocations": [
+      "paper serviettes"
+    ],
+    "wiki": "Napkin",
+    "forms": [
+      "serviettes"
+    ]
+  },
+  {
+    "headword": "jug",
+    "register": "GREEN",
+    "us_equivalent": "pitcher",
+    "gloss": "A container with a handle and a lip for pouring water, milk or other liquids.",
+    "usage": "Everyday British word in homes, pubs and restaurants.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Could we have a jug of water for the table?",
+      "Put the milk in a jug."
+    ],
+    "collocations": [
+      "a jug of water",
+      "milk jug"
+    ],
+    "wiki": "Jug",
+    "forms": [
+      "jugs"
+    ]
+  },
+  {
+    "headword": "buffet",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A meal where people serve themselves from dishes laid out on a table.",
+    "usage": "Pronounced 'BUFF-ay' in Britain, with the stress on the first syllable.",
+    "pragmatic_note": null,
+    "pitfall": "Americans stress the second syllable: 'buh-FAY'.",
+    "examples": [
+      "There's a buffet lunch after the ceremony.",
+      "Help yourself from the buffet."
+    ],
+    "collocations": [
+      "buffet lunch",
+      "finger buffet"
+    ],
+    "wiki": "Buffet",
+    "forms": [
+      "buffets"
+    ]
+  },
+  {
+    "headword": "nibbles",
+    "register": "AMBER",
+    "us_equivalent": "snacks / appetizers",
+    "gloss": "Small snacks such as crisps, nuts and olives served with drinks.",
+    "usage": "Common British word at parties and in pubs.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Bring some nibbles for the party.",
+      "There are a few nibbles on the table."
+    ],
+    "collocations": [
+      "drinks and nibbles"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "peckish",
+    "register": "AMBER",
+    "us_equivalent": "snacky",
+    "gloss": "Slightly hungry.",
+    "usage": "Very common British word for a mild urge to eat.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm feeling a bit peckish; is there any cake?",
+      "Grab a biscuit if you're peckish."
+    ],
+    "collocations": [
+      "a bit peckish"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "moreish",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "So tasty that you want to keep eating more.",
+    "usage": "Very common British compliment for snacks and food.",
+    "pragmatic_note": null,
+    "pitfall": "Pronounced 'MOR-ish'; it is not widely known outside Britain.",
+    "examples": [
+      "These crisps are dangerously moreish.",
+      "Your flapjacks are really moreish."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "stuffed",
+    "register": "AMBER",
+    "us_equivalent": "full",
+    "gloss": "Very full after eating.",
+    "usage": "Common in casual British speech after a big meal.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I couldn't eat another bite, I'm stuffed.",
+      "I'm stuffed; no pudding for me."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "tuck in",
+    "register": "AMBER",
+    "us_equivalent": "dig in",
+    "gloss": "To start eating with enthusiasm.",
+    "usage": "Common friendly invitation when food is served: 'Tuck in!'",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Tuck in before it gets cold!",
+      "The kids tucked into their pizza."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "tucked in",
+      "tucking in",
+      "tuck into"
+    ]
+  },
+  {
+    "headword": "nosh",
+    "register": "RED",
+    "us_equivalent": "chow",
+    "gloss": "An informal word for food.",
+    "usage": "Casual British speech; also 'a nosh-up' for a big meal.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The nosh at that pub is excellent.",
+      "Let's have a proper nosh-up."
+    ],
+    "collocations": [
+      "nosh-up"
+    ],
+    "wiki": null,
+    "forms": [
+      "noshing"
+    ]
+  },
+  {
+    "headword": "grub",
+    "register": "RED",
+    "us_equivalent": "chow",
+    "gloss": "An informal word for food, especially simple hearty food.",
+    "usage": "Common in casual British speech.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The grub here is great.",
+      "Grub's up!"
+    ],
+    "collocations": [
+      "grub's up",
+      "pub grub"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "corner shop",
+    "register": "GREEN",
+    "us_equivalent": "convenience store",
+    "gloss": "A small local shop selling groceries, newspapers, sweets and essentials.",
+    "usage": "A familiar part of British neighbourhoods, often family-run.",
+    "pragmatic_note": "Nipping to the corner shop for milk is an everyday British errand.",
+    "pitfall": null,
+    "examples": [
+      "I'll nip to the corner shop for some milk.",
+      "The corner shop is open until eleven."
+    ],
+    "collocations": [
+      "nip to the corner shop"
+    ],
+    "wiki": "Convenience store",
+    "forms": [
+      "corner shops"
+    ]
+  },
+  {
+    "headword": "off-licence",
+    "register": "GREEN",
+    "us_equivalent": "liquor store",
+    "gloss": "A shop licensed to sell alcohol to take away.",
+    "usage": "Standard British term, informally 'the offie'.",
+    "pragmatic_note": null,
+    "pitfall": "Note the British spelling 'licence' for the noun.",
+    "examples": [
+      "I'll pop to the off-licence for some wine.",
+      "The offie closes at ten."
+    ],
+    "collocations": [],
+    "wiki": "Liquor store",
+    "forms": [
+      "offie",
+      "off-licences"
+    ]
+  },
+  {
+    "headword": "greengrocer",
+    "register": "GREEN",
+    "us_equivalent": "produce store",
+    "gloss": "A shop or shopkeeper selling fresh fruit and vegetables.",
+    "usage": "Traditional British term, also 'the greengrocer's'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The greengrocer's on the high street has lovely strawberries.",
+      "I buy my veg from the local greengrocer."
+    ],
+    "collocations": [],
+    "wiki": "Greengrocer",
+    "forms": [
+      "greengrocer's"
+    ]
+  },
+  {
+    "headword": "fishmonger",
+    "register": "GREEN",
+    "us_equivalent": "fish seller",
+    "gloss": "A shop or person selling fresh fish.",
+    "usage": "Standard British term, also 'the fishmonger's'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Ask the fishmonger to fillet it for you.",
+      "The fishmonger's has fresh crab today."
+    ],
+    "collocations": [],
+    "wiki": "Fishmonger",
+    "forms": [
+      "fishmonger's"
+    ]
+  },
+  {
+    "headword": "weekly shop",
+    "register": "GREEN",
+    "us_equivalent": "grocery shopping",
+    "gloss": "The main regular trip to buy household food.",
+    "usage": "Very common British phrase: 'doing the weekly shop'.",
+    "pragmatic_note": null,
+    "pitfall": "'Shop' here is a noun meaning a shopping trip.",
+    "examples": [
+      "I'll do the weekly shop on Saturday.",
+      "We get our weekly shop delivered."
+    ],
+    "collocations": [
+      "do the weekly shop",
+      "big shop"
+    ],
+    "wiki": null,
+    "forms": [
+      "big shop",
+      "food shop"
+    ]
+  },
+  {
+    "headword": "trolley",
+    "register": "GREEN",
+    "us_equivalent": "shopping cart",
+    "gloss": "A large wheeled basket used for shopping in supermarkets.",
+    "usage": "Standard British word in supermarkets.",
+    "pragmatic_note": "Many British supermarket trolleys need a coin or token to unlock them.",
+    "pitfall": null,
+    "examples": [
+      "Grab a trolley; we've got loads to buy.",
+      "Have you got a pound coin for the trolley?"
+    ],
+    "collocations": [
+      "supermarket trolley"
+    ],
+    "wiki": "Shopping cart",
+    "forms": [
+      "trolleys"
+    ]
+  },
+  {
+    "headword": "till",
+    "register": "GREEN",
+    "us_equivalent": "checkout / register",
+    "gloss": "The place in a shop where you pay.",
+    "usage": "Standard British word: 'pay at the till'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Please pay at the till.",
+      "There's a massive queue at the tills."
+    ],
+    "collocations": [
+      "pay at the till",
+      "self-service till"
+    ],
+    "wiki": null,
+    "forms": [
+      "tills"
+    ]
+  },
+  {
+    "headword": "carrier bag",
+    "register": "GREEN",
+    "us_equivalent": "shopping bag",
+    "gloss": "A plastic or paper bag provided by shops for carrying purchases.",
+    "usage": "Standard British term; shops in Britain charge for single-use bags.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Do you need a carrier bag?",
+      "I forgot to bring my carrier bags."
+    ],
+    "collocations": [
+      "plastic carrier bag"
+    ],
+    "wiki": "Plastic bag",
+    "forms": [
+      "carrier bags"
+    ]
+  },
+  {
+    "headword": "bag for life",
+    "register": "GREEN",
+    "us_equivalent": "reusable bag",
+    "gloss": "A sturdy reusable shopping bag sold by supermarkets.",
+    "usage": "Common British term since supermarkets started charging for bags.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I've got a bag for life in the car.",
+      "Don't forget your bags for life."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "bags for life"
+    ]
+  },
+  {
+    "headword": "own brand",
+    "register": "GREEN",
+    "us_equivalent": "store brand",
+    "gloss": "Products sold under a supermarket's own name, usually cheaper.",
+    "usage": "Common British term for supermarket-label goods.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The own-brand cereal is just as good.",
+      "We switched to own brand to save money."
+    ],
+    "collocations": [
+      "own-brand products"
+    ],
+    "wiki": null,
+    "forms": [
+      "own-brand"
+    ]
+  },
+  {
+    "headword": "meal deal",
+    "register": "AMBER",
+    "us_equivalent": "combo",
+    "gloss": "A lunchtime offer combining a sandwich, snack and drink for one fixed price.",
+    "usage": "A British lunchtime institution in supermarkets and chemists.",
+    "pragmatic_note": "Choosing the perfect meal deal combination is a popular British office topic.",
+    "pitfall": null,
+    "examples": [
+      "I'm just grabbing a meal deal for lunch.",
+      "What's your go-to meal deal?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "meal deals"
+    ]
+  },
+  {
+    "headword": "yellow sticker",
+    "register": "AMBER",
+    "us_equivalent": "markdown sticker",
+    "gloss": "A label marking reduced-price food near its use-by date in British supermarkets.",
+    "usage": "Common British shopping talk; bargain hunters look for 'yellow-sticker' items.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I got this salmon on yellow sticker.",
+      "The yellow stickers go on at about seven."
+    ],
+    "collocations": [
+      "reduced to clear"
+    ],
+    "wiki": null,
+    "forms": [
+      "yellow stickers",
+      "yellow-sticker"
+    ]
+  },
+  {
+    "headword": "sell-by date",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The date by which a shop should sell a product.",
+    "usage": "Common British term, though 'use-by' and 'best before' are the official labels.",
+    "pragmatic_note": null,
+    "pitfall": "Britons often say 'sell-by date' when they really mean the use-by date.",
+    "examples": [
+      "This milk is past its sell-by date.",
+      "Check the sell-by date before you buy it."
+    ],
+    "collocations": [
+      "past its sell-by date"
+    ],
+    "wiki": null,
+    "forms": [
+      "sell-by"
+    ]
+  },
+  {
+    "headword": "use-by date",
+    "register": "GREEN",
+    "us_equivalent": "expiration date",
+    "gloss": "The date after which food may be unsafe to eat.",
+    "usage": "Official British food-label term, used on perishable foods.",
+    "pragmatic_note": null,
+    "pitfall": "It is a safety date; 'best before' is only about quality.",
+    "examples": [
+      "Don't eat it after the use-by date.",
+      "Check the use-by date on the chicken."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "use-by"
+    ]
+  },
+  {
+    "headword": "best before",
+    "register": "GREEN",
+    "us_equivalent": "best by",
+    "gloss": "The date until which food is at its best quality.",
+    "usage": "Official British label for longer-lasting foods; eating after it is usually safe.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "These biscuits are past their best before, but they're fine.",
+      "The best before date is on the lid."
+    ],
+    "collocations": [
+      "best before date"
+    ],
+    "wiki": null,
+    "forms": [
+      "best-before"
+    ]
+  },
+  {
+    "headword": "punnet",
+    "register": "GREEN",
+    "us_equivalent": "pint container / basket",
+    "gloss": "A small plastic or cardboard container for soft fruit like strawberries.",
+    "usage": "Standard British term in shops and markets.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Two punnets of strawberries, please.",
+      "A punnet of raspberries for a pound."
+    ],
+    "collocations": [
+      "a punnet of strawberries"
+    ],
+    "wiki": "Punnet",
+    "forms": [
+      "punnets"
+    ]
+  },
+  {
+    "headword": "ready meal",
+    "register": "GREEN",
+    "us_equivalent": "TV dinner / frozen dinner",
+    "gloss": "A pre-cooked meal that only needs heating in the oven or microwave.",
+    "usage": "Very common British term in supermarkets.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll just have a ready meal tonight.",
+      "Ready meals are handy but often salty."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "ready meals"
+    ]
+  },
+  {
+    "headword": "tin",
+    "register": "GREEN",
+    "us_equivalent": "can",
+    "gloss": "A sealed metal container for food; Britons say 'a tin of beans'.",
+    "usage": "Standard British word for food containers; 'can' is used for drinks.",
+    "pragmatic_note": null,
+    "pitfall": "Britons say 'a tin of tomatoes' but 'a can of cola'.",
+    "examples": [
+      "Open a tin of chopped tomatoes.",
+      "There's a tin of beans in the cupboard."
+    ],
+    "collocations": [
+      "a tin of beans",
+      "tinned tomatoes",
+      "tin opener"
+    ],
+    "wiki": "Steel and tin cans",
+    "forms": [
+      "tins",
+      "tinned"
+    ]
+  },
+  {
+    "headword": "tin opener",
+    "register": "GREEN",
+    "us_equivalent": "can opener",
+    "gloss": "A tool for opening tins of food.",
+    "usage": "Standard British word in the kitchen.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Where's the tin opener?",
+      "This tin has a ring pull, so you don't need the tin opener."
+    ],
+    "collocations": [],
+    "wiki": "Can opener",
+    "forms": [
+      "tin openers"
+    ]
+  },
+  {
+    "headword": "hob",
+    "register": "GREEN",
+    "us_equivalent": "stovetop / cooktop",
+    "gloss": "The flat top of a cooker with burners or rings for cooking in pans.",
+    "usage": "Standard British term in kitchens and recipes.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Leave the pan on the hob to simmer.",
+      "We've got an induction hob."
+    ],
+    "collocations": [
+      "induction hob",
+      "gas hob"
+    ],
+    "wiki": null,
+    "forms": [
+      "hobs"
+    ]
+  },
+  {
+    "headword": "cooker",
+    "register": "GREEN",
+    "us_equivalent": "stove / range",
+    "gloss": "A kitchen appliance with an oven and a hob.",
+    "usage": "Standard British term.",
+    "pragmatic_note": null,
+    "pitfall": "In Britain a 'cooker' is an appliance; a 'cook' is a person.",
+    "examples": [
+      "We need a new cooker.",
+      "Turn the cooker off when you're done."
+    ],
+    "collocations": [
+      "gas cooker",
+      "electric cooker"
+    ],
+    "wiki": "Kitchen stove",
+    "forms": [
+      "cookers"
+    ]
+  },
+  {
+    "headword": "grill",
+    "register": "GREEN",
+    "us_equivalent": "broil",
+    "gloss": "To cook food under direct heat from above; also the part of the cooker that does this.",
+    "usage": "Standard British term in recipes and kitchens.",
+    "pragmatic_note": null,
+    "pitfall": "In Britain 'grill' means cooking under heat; Americans say 'broil' and use 'grill' for barbecuing.",
+    "examples": [
+      "Grill the bacon until crisp.",
+      "Pop it under the grill for two minutes."
+    ],
+    "collocations": [
+      "under the grill",
+      "grill pan"
+    ],
+    "wiki": null,
+    "forms": [
+      "grilled",
+      "grilling"
+    ]
+  },
+  {
+    "headword": "oven glove",
+    "register": "GREEN",
+    "us_equivalent": "oven mitt",
+    "gloss": "A padded glove for handling hot dishes.",
+    "usage": "Standard British term.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Use the oven gloves; that tray is boiling.",
+      "Where are the oven gloves?"
+    ],
+    "collocations": [],
+    "wiki": "Oven glove",
+    "forms": [
+      "oven gloves"
+    ]
+  },
+  {
+    "headword": "baking tray",
+    "register": "GREEN",
+    "us_equivalent": "baking sheet / cookie sheet",
+    "gloss": "A flat metal tray for baking food in the oven.",
+    "usage": "Standard British term in recipes.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Line the baking tray with greaseproof paper.",
+      "Spread the chips out on a baking tray."
+    ],
+    "collocations": [],
+    "wiki": "Sheet pan",
+    "forms": [
+      "baking trays"
+    ]
+  },
+  {
+    "headword": "cake tin",
+    "register": "GREEN",
+    "us_equivalent": "cake pan",
+    "gloss": "A metal container for baking cakes.",
+    "usage": "Standard British term; also a tin for storing cakes.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Grease and line a 20 cm cake tin.",
+      "Pour the batter into the cake tin."
+    ],
+    "collocations": [
+      "loose-bottomed cake tin"
+    ],
+    "wiki": null,
+    "forms": [
+      "cake tins"
+    ]
+  },
+  {
+    "headword": "greaseproof paper",
+    "register": "GREEN",
+    "us_equivalent": "parchment paper / wax paper",
+    "gloss": "Paper that resists grease, used for lining tins and wrapping food.",
+    "usage": "Standard British term in baking.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Line the tin with greaseproof paper.",
+      "Wrap the sandwiches in greaseproof paper."
+    ],
+    "collocations": [
+      "baking parchment"
+    ],
+    "wiki": "Parchment paper",
+    "forms": [
+      "baking parchment"
+    ]
+  },
+  {
+    "headword": "cling film",
+    "register": "GREEN",
+    "us_equivalent": "plastic wrap / Saran wrap",
+    "gloss": "Thin, clear plastic film for covering food.",
+    "usage": "Standard British term.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Cover the bowl with cling film.",
+      "Wrap the dough in cling film."
+    ],
+    "collocations": [],
+    "wiki": "Plastic wrap",
+    "forms": [
+      "clingfilm"
+    ]
+  },
+  {
+    "headword": "tin foil",
+    "register": "GREEN",
+    "us_equivalent": "aluminum foil",
+    "gloss": "Thin metal sheet for wrapping or covering food.",
+    "usage": "Common British term; also 'kitchen foil' or 'aluminium foil'.",
+    "pragmatic_note": null,
+    "pitfall": "British spelling and pronunciation is 'aluminium', with five syllables.",
+    "examples": [
+      "Cover the turkey with tin foil.",
+      "Wrap the potatoes in tin foil."
+    ],
+    "collocations": [
+      "kitchen foil",
+      "aluminium foil"
+    ],
+    "wiki": "Aluminium foil",
+    "forms": [
+      "foil",
+      "kitchen foil"
+    ]
+  },
+  {
+    "headword": "kitchen roll",
+    "register": "GREEN",
+    "us_equivalent": "paper towels",
+    "gloss": "Absorbent paper on a roll for kitchen use.",
+    "usage": "Standard British term.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Pass me some kitchen roll.",
+      "Drain the bacon on kitchen roll."
+    ],
+    "collocations": [],
+    "wiki": "Paper towel",
+    "forms": []
+  },
+  {
+    "headword": "sieve",
+    "register": "GREEN",
+    "us_equivalent": "strainer",
+    "gloss": "A mesh utensil for straining liquids or sifting flour.",
+    "usage": "Standard British term.",
+    "pragmatic_note": null,
+    "pitfall": "Pronounced 'siv', rhyming with 'give'.",
+    "examples": [
+      "Pass the flour through a sieve.",
+      "Drain the peas in a sieve."
+    ],
+    "collocations": [],
+    "wiki": "Sieve",
+    "forms": [
+      "sieves",
+      "sieved"
+    ]
+  },
+  {
+    "headword": "kitchen scales",
+    "register": "GREEN",
+    "us_equivalent": "kitchen scale",
+    "gloss": "A device for weighing ingredients.",
+    "usage": "Essential in British kitchens; recipes use grams.",
+    "pragmatic_note": "Britons bake by weight, so American cup measurements can cause confusion.",
+    "pitfall": null,
+    "examples": [
+      "Weigh the flour on the kitchen scales.",
+      "Have you got digital kitchen scales?"
+    ],
+    "collocations": [
+      "digital kitchen scales"
+    ],
+    "wiki": null,
+    "forms": [
+      "scales"
+    ]
+  },
+  {
+    "headword": "gas mark",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A scale for setting the temperature of a gas oven.",
+    "usage": "Common in British recipes alongside Celsius.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Preheat the oven to 180 degrees, gas mark 4.",
+      "Bake at gas mark 6 for twenty minutes."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "fan oven",
+    "register": "GREEN",
+    "us_equivalent": "convection oven",
+    "gloss": "An oven with a fan to circulate hot air.",
+    "usage": "Standard British term; recipes often give a lower 'fan' temperature.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Reduce the temperature by 20 degrees for a fan oven.",
+      "Our fan oven cooks really evenly."
+    ],
+    "collocations": [],
+    "wiki": "Convection oven",
+    "forms": [
+      "fan ovens"
+    ]
+  },
+  {
+    "headword": "knob of butter",
+    "register": "AMBER",
+    "us_equivalent": "pat of butter",
+    "gloss": "A small lump of butter.",
+    "usage": "Common in British recipes and cooking talk.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Add a knob of butter to the pan.",
+      "Finish the sauce with a knob of butter."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "knobs of butter"
+    ]
+  },
+  {
+    "headword": "top and tail",
+    "register": "GREEN",
+    "us_equivalent": "trim",
+    "gloss": "To cut off both ends of a vegetable or fruit.",
+    "usage": "Common British cooking term for beans and gooseberries.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Top and tail the green beans.",
+      "Can you top and tail the gooseberries?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "topped and tailed",
+      "topping and tailing"
+    ]
+  },
+  {
+    "headword": "shortcrust pastry",
+    "register": "GREEN",
+    "us_equivalent": "pie crust",
+    "gloss": "A crumbly pastry made from flour, fat and water.",
+    "usage": "Standard British pastry for pies and tarts.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll make shortcrust pastry for the quiche.",
+      "You can buy ready-rolled shortcrust pastry."
+    ],
+    "collocations": [],
+    "wiki": "Shortcrust pastry",
+    "forms": []
+  },
+  {
+    "headword": "filo",
+    "register": "GREEN",
+    "us_equivalent": "phyllo",
+    "gloss": "Very thin sheets of pastry used in layered dishes.",
+    "usage": "Standard British spelling in shops and recipes.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Brush the filo sheets with butter.",
+      "Filo pastry dries out quickly, so keep it covered."
+    ],
+    "collocations": [
+      "filo pastry"
+    ],
+    "wiki": "Filo",
+    "forms": [
+      "filo pastry"
+    ]
+  }
+]

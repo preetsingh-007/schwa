@@ -1,0 +1,2662 @@
+headword	register	category
+untenable	GREEN	core
+crux	GREEN	core
+bottleneck	GREEN	core
+mitigate	GREEN	core
+caveat	GREEN	core
+bespoke	GREEN	core
+pivotal	GREEN	core
+streamline	GREEN	core
+viable	GREEN	core
+overhaul	GREEN	core
+robust	GREEN	core
+contingency	GREEN	core
+prioritise	GREEN	core
+consolidate	GREEN	core
+substantiate	GREEN	core
+salient	GREEN	core
+pragmatic	GREEN	core
+nuance	GREEN	core
+at capacity	GREEN	core
+action	GREEN	core
+escalate	GREEN	core
+flag up	GREEN	core
+proviso	GREEN	core
+prudent	GREEN	core
+tangible	GREEN	core
+endorse	GREEN	core
+reconcile	GREEN	core
+provisional	GREEN	core
+incremental	GREEN	core
+contentious	GREEN	core
+expedite	GREEN	core
+preclude	GREEN	core
+discrepancy	GREEN	core
+undermine	GREEN	core
+a bit of a stretch	GREEN	core
+keep me posted	GREEN	core
+bogged down	GREEN	core
+sticking point	GREEN	core
+ring-fence	GREEN	core
+trade-off	GREEN	core
+feasible	GREEN	core
+allocate	GREEN	core
+in hindsight	GREEN	core
+I take your point	GREEN	core
+on balance	GREEN	core
+not ideal	GREEN	core
+overrun	GREEN	core
+clarify	GREEN	core
+keen	AMBER	core
+touch and go	AMBER	core
+pinch of salt	AMBER	core
+back burner	AMBER	core
+snowed under	AMBER	core
+teething problems	AMBER	core
+swamped	AMBER	core
+chock-a-block	AMBER	core
+ballpark	AMBER	core
+a tall order	AMBER	core
+up in the air	AMBER	core
+in the pipeline	AMBER	core
+sounding board	AMBER	core
+fiddly	AMBER	core
+run it past	AMBER	core
+hold the fort	AMBER	core
+spanner in the works	AMBER	core
+mull over	AMBER	core
+rule of thumb	AMBER	core
+cut corners	AMBER	core
+hit the ground running	AMBER	core
+push back	AMBER	core
+sorted	AMBER	core
+quick win	AMBER	core
+faffing about	RED	core
+gutted	RED	core
+knackered	RED	core
+chuffed	RED	core
+dodgy	RED	core
+taking the mick	RED	core
+skint	RED	core
+gobsmacked	RED	core
+cock-up	RED	core
+all over the shop	RED	core
+sod's law	RED	core
+ameliorate	GREEN	business
+articulate	GREEN	business
+benchmark	GREEN	business
+buy-in	AMBER	business
+candour	GREEN	business
+cogent	GREEN	business
+compelling	GREEN	business
+concede	GREEN	business
+conducive	GREEN	business
+corroborate	GREEN	business
+crystallise	GREEN	business
+delineate	GREEN	business
+deliverable	GREEN	business
+due diligence	GREEN	business
+envisage	GREEN	business
+exacerbate	GREEN	business
+expedient	GREEN	business
+facilitate	GREEN	business
+feasibility	GREEN	business
+forthcoming	GREEN	business
+galvanise	GREEN	business
+headwinds	AMBER	business
+hinder	GREEN	business
+impetus	GREEN	business
+implement	GREEN	business
+in tandem	GREEN	business
+inherent	GREEN	business
+interim	GREEN	business
+juncture	GREEN	business
+leverage	AMBER	business
+liaise	GREEN	business
+linchpin	GREEN	business
+mandate	GREEN	business
+momentum	GREEN	business
+nuanced	GREEN	business
+onus	GREEN	business
+outlay	GREEN	business
+paradigm	GREEN	business
+pertinent	GREEN	business
+precedent	GREEN	business
+premise	GREEN	business
+prerogative	GREEN	business
+prospective	GREEN	business
+protracted	GREEN	business
+rationale	GREEN	business
+recoup	GREEN	business
+remit	GREEN	business
+scalable	GREEN	business
+scrutinise	GREEN	business
+shortfall	GREEN	business
+stakeholder	GREEN	business
+stipulate	GREEN	business
+succinct	GREEN	business
+synopsis	GREEN	business
+tenable	GREEN	business
+tenure	GREEN	business
+trajectory	GREEN	business
+underpin	GREEN	business
+upshot	GREEN	business
+viability	GREEN	business
+wherewithal	AMBER	business
+line manager	GREEN	business
+away day	AMBER	business
+all-hands	AMBER	business
+minutes	GREEN	business
+AOB	GREEN	business
+chair	GREEN	business
+table	GREEN	business
+quorum	GREEN	business
+secondment	GREEN	business
+gardening leave	AMBER	business
+matters arising	GREEN	business
+apologies for absence	GREEN	business
+terms of reference	GREEN	business
+casting vote	GREEN	business
+agenda	GREEN	business
+tender	GREEN	business
+timescale	GREEN	business
+whilst	GREEN	business
+per cent	GREEN	business
+fit for purpose	GREEN	business
+joined-up	GREEN	business
+value for money	GREEN	business
+headroom	GREEN	business
+slippage	GREEN	business
+handover	GREEN	business
+cascade	GREEN	business
+knock-on effect	AMBER	business
+pro rata	GREEN	business
+in lieu	GREEN	business
+shortlist	GREEN	business
+CV	GREEN	business
+referee	GREEN	business
+appraisal	GREEN	business
+probation	GREEN	business
+annual leave	GREEN	business
+flexitime	GREEN	business
+hot-desking	GREEN	business
+overheads	GREEN	business
+turnover	GREEN	business
+redundancy	GREEN	business
+remuneration	GREEN	business
+headcount	GREEN	business
+sign-off	GREEN	business
+rollout	GREEN	business
+roadmap	GREEN	business
+milestone	GREEN	business
+KPI	GREEN	business
+metric	GREEN	business
+deck	AMBER	business
+debrief	GREEN	business
+onboarding	GREEN	business
+upskill	AMBER	business
+synergy	AMBER	business
+holistic	GREEN	business
+bandwidth	AMBER	business
+learnings	AMBER	business
+proactive	GREEN	business
+utilise	GREEN	business
+seamless	GREEN	business
+best practice	GREEN	business
+actionable	AMBER	business
+apportion	GREEN	business
+ascertain	GREEN	business
+attrition	GREEN	business
+augment	GREEN	business
+bolster	GREEN	business
+brief	GREEN	business
+capitalise on	GREEN	business
+cede	GREEN	business
+circumvent	GREEN	business
+coherent	GREEN	business
+collate	GREEN	business
+commensurate	GREEN	business
+compliance	GREEN	business
+comprehensive	GREEN	business
+concur	GREEN	business
+consensus	GREEN	business
+constraint	GREEN	business
+contingent	GREEN	business
+convene	GREEN	business
+corollary	GREEN	business
+culminate	GREEN	business
+curtail	GREEN	business
+deem	GREEN	business
+defer	GREEN	business
+delegate	GREEN	business
+deploy	GREEN	business
+detrimental	GREEN	business
+disseminate	GREEN	business
+diversify	GREEN	business
+divest	GREEN	business
+efficacy	GREEN	business
+elicit	GREEN	business
+embark on	GREEN	business
+empirical	GREEN	business
+encompass	GREEN	business
+entail	GREEN	business
+equitable	GREEN	business
+exemplify	GREEN	business
+explicit	GREEN	business
+extrapolate	GREEN	business
+fiscal	GREEN	business
+flagship	GREEN	business
+foreseeable	GREEN	business
+formulate	GREEN	business
+forthright	GREEN	business
+fruition	GREEN	business
+garner	GREEN	business
+gauge	GREEN	business
+granular	GREEN	business
+impasse	GREEN	business
+imperative	GREEN	business
+implication	GREEN	business
+incentivise	GREEN	business
+incumbent	GREEN	business
+indispensable	GREEN	business
+integral	GREEN	business
+iteration	GREEN	business
+jeopardise	GREEN	business
+judicious	GREEN	business
+latitude	GREEN	business
+moot	GREEN	business
+negligible	GREEN	business
+notwithstanding	GREEN	business
+obsolete	GREEN	business
+offset	GREEN	business
+outset	GREEN	business
+overarching	GREEN	business
+oversight	GREEN	business
+parameter	GREEN	business
+paramount	GREEN	business
+per se	GREEN	business
+pilot	GREEN	business
+plausible	GREEN	business
+predicated on	GREEN	business
+preliminary	GREEN	business
+prescriptive	GREEN	business
+procurement	GREEN	business
+proposition	GREEN	business
+purview	GREEN	business
+quantify	GREEN	business
+ramifications	GREEN	business
+rapport	GREEN	business
+ratify	GREEN	business
+recalibrate	GREEN	business
+rectify	GREEN	business
+reiterate	GREEN	business
+resilient	GREEN	business
+rigorous	GREEN	business
+spearhead	GREEN	business
+stringent	GREEN	business
+substantive	GREEN	business
+supersede	GREEN	business
+tacit	GREEN	business
+threshold	GREEN	business
+unprecedented	GREEN	business
+unequivocal	GREEN	business
+vested interest	GREEN	business
+comprise	GREEN	business
+disinterested	GREEN	business
+invaluable	GREEN	business
+reticent	GREEN	business
+sanction	GREEN	business
+exponential	GREEN	business
+pre-empt	GREEN	business
+status quo	GREEN	business
+discretion	GREEN	business
+a sticky wicket	AMBER	idioms
+on the back foot	GREEN	idioms
+on the front foot	GREEN	idioms
+bob's your uncle	RED	idioms
+a damp squib	AMBER	idioms
+not my cup of tea	AMBER	idioms
+the full monty	RED	idioms
+a dog's dinner	RED	idioms
+a dog's breakfast	RED	idioms
+as daft as a brush	RED	idioms
+at a loose end	AMBER	idioms
+all mouth and no trousers	RED	idioms
+a storm in a teacup	AMBER	idioms
+keep calm and carry on	AMBER	idioms
+the bee's knees	RED	idioms
+have a butcher's	RED	idioms
+pull your socks up	AMBER	idioms
+on the blink	AMBER	idioms
+on the cards	AMBER	idioms
+by and large	GREEN	idioms
+a turn-up for the books	AMBER	idioms
+take the biscuit	AMBER	idioms
+it's not rocket science	AMBER	idioms
+cost an arm and a leg	AMBER	idioms
+over the moon	AMBER	idioms
+under the weather	AMBER	idioms
+raining cats and dogs	AMBER	idioms
+the elephant in the room	GREEN	idioms
+put a sock in it	RED	idioms
+get the wrong end of the stick	AMBER	idioms
+a different kettle of fish	AMBER	idioms
+cream of the crop	GREEN	idioms
+from scratch	GREEN	idioms
+not up to scratch	GREEN	idioms
+down to the wire	GREEN	idioms
+play it by ear	AMBER	idioms
+jump the gun	AMBER	idioms
+cut to the chase	AMBER	idioms
+call it a day	AMBER	idioms
+off the cuff	GREEN	idioms
+by the book	GREEN	idioms
+toe the line	GREEN	idioms
+in the same boat	AMBER	idioms
+hit the nail on the head	AMBER	idioms
+bite the bullet	AMBER	idioms
+a piece of cake	AMBER	idioms
+a busman's holiday	AMBER	idioms
+a nice little earner	RED	idioms
+daylight robbery	AMBER	idioms
+a load of old cobblers	RED	idioms
+go pear-shaped	AMBER	idioms
+bits and bobs	AMBER	idioms
+odds and sods	RED	idioms
+odds and ends	GREEN	idioms
+not the sharpest tool in the box	RED	idioms
+away with the fairies	RED	idioms
+barking up the wrong tree	AMBER	idioms
+beat about the bush	AMBER	idioms
+let the cat out of the bag	AMBER	idioms
+bury the hatchet	AMBER	idioms
+a blessing in disguise	GREEN	idioms
+break the ice	GREEN	idioms
+burn the midnight oil	AMBER	idioms
+by the skin of your teeth	AMBER	idioms
+no use crying over spilt milk	AMBER	idioms
+cutting it fine	AMBER	idioms
+wet behind the ears	AMBER	idioms
+go the extra mile	GREEN	idioms
+a fly in the ointment	GREEN	idioms
+a flash in the pan	GREEN	idioms
+a red herring	GREEN	idioms
+a white elephant	GREEN	idioms
+a wild goose chase	AMBER	idioms
+at the drop of a hat	AMBER	idioms
+back to square one	AMBER	idioms
+back to the drawing board	AMBER	idioms
+his bark is worse than his bite	AMBER	idioms
+beggars can't be choosers	AMBER	idioms
+bend over backwards	AMBER	idioms
+the best of both worlds	GREEN	idioms
+better late than never	AMBER	idioms
+between a rock and a hard place	AMBER	idioms
+between the devil and the deep blue sea	AMBER	idioms
+bigger fish to fry	AMBER	idioms
+bite off more than you can chew	AMBER	idioms
+bite your tongue	AMBER	idioms
+blow your own trumpet	AMBER	idioms
+born with a silver spoon in your mouth	AMBER	idioms
+a bull in a china shop	AMBER	idioms
+by hook or by crook	AMBER	idioms
+can't make head nor tail of	AMBER	idioms
+carry the can	AMBER	idioms
+cat got your tongue?	RED	idioms
+caught red-handed	AMBER	idioms
+chance would be a fine thing	RED	idioms
+chalk and cheese	AMBER	idioms
+a chip off the old block	AMBER	idioms
+close but no cigar	AMBER	idioms
+get cold feet	AMBER	idioms
+come rain or shine	AMBER	idioms
+as cool as a cucumber	AMBER	idioms
+curry favour	GREEN	idioms
+cut someone some slack	AMBER	idioms
+done and dusted	AMBER	idioms
+dot the i's and cross the t's	GREEN	idioms
+down in the dumps	AMBER	idioms
+drag your feet	AMBER	idioms
+drop a clanger	RED	idioms
+a drop in the ocean	GREEN	idioms
+Dutch courage	RED	idioms
+eat humble pie	AMBER	idioms
+every cloud has a silver lining	AMBER	idioms
+fall on deaf ears	GREEN	idioms
+a far cry from	GREEN	idioms
+few and far between	GREEN	idioms
+as fit as a fiddle	AMBER	idioms
+food for thought	GREEN	idioms
+from pillar to post	AMBER	idioms
+full of beans	AMBER	idioms
+get on like a house on fire	AMBER	idioms
+get the sack	AMBER	idioms
+get your skates on	RED	idioms
+give it a whirl	AMBER	idioms
+give someone the cold shoulder	AMBER	idioms
+go Dutch	AMBER	idioms
+go spare	RED	idioms
+go to pot	AMBER	idioms
+grasp the nettle	GREEN	idioms
+hair of the dog	RED	idioms
+hang fire	AMBER	idioms
+have kittens	RED	idioms
+have a field day	AMBER	idioms
+have a lot on your plate	AMBER	idioms
+head over heels	AMBER	idioms
+hit the roof	AMBER	idioms
+hit the sack	RED	idioms
+hold your horses	AMBER	idioms
+horses for courses	AMBER	idioms
+in a nutshell	GREEN	idioms
+in for a penny, in for a pound	AMBER	idioms
+in the doghouse	RED	idioms
+in the nick of time	AMBER	idioms
+it's not cricket	AMBER	idioms
+jack of all trades	AMBER	idioms
+jam tomorrow	AMBER	idioms
+keep your hair on	RED	idioms
+keep the wolf from the door	AMBER	idioms
+kick the bucket	RED	idioms
+kill two birds with one stone	AMBER	idioms
+know your onions	AMBER	idioms
+lead someone up the garden path	AMBER	idioms
+leave no stone unturned	GREEN	idioms
+let sleeping dogs lie	AMBER	idioms
+like a headless chicken	RED	idioms
+like gold dust	AMBER	idioms
+like the clappers	RED	idioms
+look a gift horse in the mouth	AMBER	idioms
+lose the plot	RED	idioms
+lose your marbles	RED	idioms
+make a mountain out of a molehill	AMBER	idioms
+make ends meet	GREEN	idioms
+mind your p's and q's	AMBER	idioms
+miss the boat	AMBER	idioms
+money for old rope	AMBER	idioms
+more haste, less speed	AMBER	idioms
+neck and neck	GREEN	idioms
+a needle in a haystack	AMBER	idioms
+nip it in the bud	AMBER	idioms
+no room to swing a cat	AMBER	idioms
+a nosy parker	RED	idioms
+off your trolley	RED	idioms
+off the beaten track	GREEN	idioms
+on cloud nine	AMBER	idioms
+on the dot	AMBER	idioms
+sit on the fence	AMBER	idioms
+on the house	AMBER	idioms
+on the off chance	AMBER	idioms
+on the same page	AMBER	idioms
+on the trot	AMBER	idioms
+once in a blue moon	AMBER	idioms
+out of the blue	GREEN	idioms
+out of the woods	AMBER	idioms
+over the top	AMBER	idioms
+paint the town red	RED	idioms
+pass the buck	AMBER	idioms
+pay through the nose	AMBER	idioms
+a penny for your thoughts	AMBER	idioms
+the penny dropped	AMBER	idioms
+pie in the sky	AMBER	idioms
+make a pig's ear of	RED	idioms
+pigs might fly	AMBER	idioms
+pip someone at the post	AMBER	idioms
+play second fiddle	AMBER	idioms
+pull someone's leg	AMBER	idioms
+pull out all the stops	GREEN	idioms
+pull the wool over someone's eyes	AMBER	idioms
+put the cart before the horse	GREEN	idioms
+put your foot in it	AMBER	idioms
+quids in	RED	idioms
+rain on someone's parade	AMBER	idioms
+read the riot act	AMBER	idioms
+ring a bell	GREEN	idioms
+rob Peter to pay Paul	AMBER	idioms
+rub someone up the wrong way	AMBER	idioms
+run of the mill	GREEN	idioms
+send someone to Coventry	AMBER	idioms
+sell like hot cakes	AMBER	idioms
+set the cat among the pigeons	AMBER	idioms
+short shrift	GREEN	idioms
+as sick as a parrot	RED	idioms
+a skeleton in the cupboard	AMBER	idioms
+sleep on it	AMBER	idioms
+smell a rat	AMBER	idioms
+spill the beans	AMBER	idioms
+steal someone's thunder	AMBER	idioms
+stick to your guns	AMBER	idioms
+a stiff upper lip	AMBER	idioms
+straight from the horse's mouth	AMBER	idioms
+take it on the chin	AMBER	idioms
+talk the hind legs off a donkey	RED	idioms
+the ball is in your court	AMBER	idioms
+the last straw	GREEN	idioms
+the proof of the pudding	AMBER	idioms
+the world is your oyster	AMBER	idioms
+through thick and thin	AMBER	idioms
+throw in the towel	AMBER	idioms
+tickled pink	AMBER	idioms
+tie the knot	AMBER	idioms
+the tip of the iceberg	GREEN	idioms
+to a T	AMBER	idioms
+tongue in cheek	GREEN	idioms
+too many cooks spoil the broth	AMBER	idioms
+touch wood	AMBER	idioms
+turn a blind eye	GREEN	idioms
+under the thumb	RED	idioms
+up the creek	RED	idioms
+up to my eyes	AMBER	idioms
+warts and all	AMBER	idioms
+water under the bridge	AMBER	idioms
+wear your heart on your sleeve	AMBER	idioms
+a wet blanket	RED	idioms
+when in Rome	AMBER	idioms
+with flying colours	GREEN	idioms
+you can't have your cake and eat it	AMBER	idioms
+your guess is as good as mine	AMBER	idioms
+all fur coat and no knickers	RED	idioms
+all's well that ends well	AMBER	idioms
+as right as rain	AMBER	idioms
+as thick as thieves	AMBER	idioms
+as thick as two short planks	RED	idioms
+as dull as ditchwater	AMBER	idioms
+as safe as houses	AMBER	idioms
+as good as gold	AMBER	idioms
+as mad as a hatter	RED	idioms
+at sixes and sevens	AMBER	idioms
+at the eleventh hour	GREEN	idioms
+at a push	AMBER	idioms
+at the end of the day	AMBER	idioms
+at a rate of knots	AMBER	idioms
+bang to rights	RED	idioms
+bang on	AMBER	idioms
+on the ball	AMBER	idioms
+not a patch on	AMBER	idioms
+not for all the tea in China	AMBER	idioms
+not half	RED	idioms
+neither here nor there	GREEN	idioms
+no great shakes	AMBER	idioms
+nothing to write home about	AMBER	idioms
+on your bike	RED	idioms
+a pretty penny	AMBER	idioms
+spend a penny	AMBER	idioms
+it's all Greek to me	AMBER	idioms
+throw the baby out with the bathwater	GREEN	idioms
+know which side your bread is buttered	AMBER	idioms
+the icing on the cake	GREEN	idioms
+like a fish out of water	AMBER	idioms
+like a red rag to a bull	AMBER	idioms
+a square peg in a round hole	AMBER	idioms
+like the cat that got the cream	AMBER	idioms
+curiosity killed the cat	AMBER	idioms
+as dead as a dodo	AMBER	idioms
+a dead cert	RED	idioms
+a dead ringer	AMBER	idioms
+donkey's years	RED	idioms
+dressed to the nines	AMBER	idioms
+drive someone round the bend	RED	idioms
+drive a coach and horses through	GREEN	idioms
+elbow grease	AMBER	idioms
+face the music	AMBER	idioms
+a feather in your cap	GREEN	idioms
+feel the pinch	GREEN	idioms
+fingers crossed	AMBER	idioms
+flog a dead horse	AMBER	idioms
+a fool's errand	GREEN	idioms
+foot the bill	GREEN	idioms
+get the ball rolling	AMBER	idioms
+get your knickers in a twist	RED	idioms
+get a word in edgeways	AMBER	idioms
+give someone the benefit of the doubt	GREEN	idioms
+go down like a lead balloon	AMBER	idioms
+go off the boil	AMBER	idioms
+go with the flow	AMBER	idioms
+a good innings	AMBER	idioms
+hang up your boots	AMBER	idioms
+have a whale of a time	AMBER	idioms
+have your work cut out	AMBER	idioms
+have a go at someone	RED	idioms
+hit and miss	AMBER	idioms
+in the bag	AMBER	idioms
+keep someone in the dark	AMBER	idioms
+in the red	GREEN	idioms
+it never rains but it pours	AMBER	idioms
+it takes two to tango	AMBER	idioms
+jump on the bandwagon	AMBER	idioms
+keep it under your hat	AMBER	idioms
+keep your eye on the ball	AMBER	idioms
+learn the ropes	AMBER	idioms
+let off steam	AMBER	idioms
+let your hair down	AMBER	idioms
+the life and soul of the party	AMBER	idioms
+long in the tooth	AMBER	idioms
+make hay while the sun shines	AMBER	idioms
+mum's the word	AMBER	idioms
+nail your colours to the mast	GREEN	idioms
+a nod's as good as a wink	RED	idioms
+old hat	AMBER	idioms
+on a shoestring	GREEN	idioms
+on tenterhooks	AMBER	idioms
+catch someone on the hop	AMBER	idioms
+on the mend	AMBER	idioms
+on the rocks	AMBER	idioms
+on thin ice	AMBER	idioms
+once bitten, twice shy	AMBER	idioms
+out of order	RED	idioms
+out on a limb	AMBER	idioms
+over a barrel	AMBER	idioms
+par for the course	GREEN	idioms
+play devil's advocate	GREEN	idioms
+play to the gallery	GREEN	idioms
+pop your clogs	RED	idioms
+the pot calling the kettle black	AMBER	idioms
+pour oil on troubled waters	GREEN	idioms
+put your feet up	AMBER	idioms
+put your money where your mouth is	AMBER	idioms
+rack your brains	AMBER	idioms
+take a rain check	AMBER	idioms
+rough and ready	AMBER	idioms
+rule the roost	AMBER	idioms
+the salt of the earth	AMBER	idioms
+save someone's bacon	RED	idioms
+second nature	GREEN	idioms
+see red	AMBER	idioms
+shoot yourself in the foot	AMBER	idioms
+six of one and half a dozen of the other	AMBER	idioms
+sleep like a log	AMBER	idioms
+small beer	GREEN	idioms
+smoke and mirrors	GREEN	idioms
+split hairs	AMBER	idioms
+squeaky bum time	RED	idioms
+stand your ground	GREEN	idioms
+stick your oar in	RED	idioms
+take the plunge	AMBER	idioms
+take something in your stride	GREEN	idioms
+the jury is still out	GREEN	idioms
+the lion's share	GREEN	idioms
+the powers that be	AMBER	idioms
+the real McCoy	AMBER	idioms
+the writing is on the wall	GREEN	idioms
+thin on the ground	GREEN	idioms
+throw caution to the wind	AMBER	idioms
+tighten your belt	GREEN	idioms
+till the cows come home	AMBER	idioms
+to boot	AMBER	idioms
+top drawer	AMBER	idioms
+tread on someone's toes	AMBER	idioms
+turn over a new leaf	AMBER	idioms
+turn the tables	GREEN	idioms
+under wraps	GREEN	idioms
+up for grabs	AMBER	idioms
+weather the storm	GREEN	idioms
+well and truly	AMBER	idioms
+when push comes to shove	AMBER	idioms
+pop round	AMBER	phrasal_everyday
+pop in	AMBER	phrasal_everyday
+pop out	AMBER	phrasal_everyday
+nip out	AMBER	phrasal_everyday
+nip to the shops	AMBER	phrasal_everyday
+fancy	AMBER	phrasal_everyday
+crack on	AMBER	phrasal_everyday
+get on with	GREEN	phrasal_everyday
+knuckle down	AMBER	phrasal_everyday
+muck in	AMBER	phrasal_everyday
+chip in	AMBER	phrasal_everyday
+fob off	AMBER	phrasal_everyday
+suss out	AMBER	phrasal_everyday
+pack in	RED	phrasal_everyday
+pack up	AMBER	phrasal_everyday
+kick off	AMBER	phrasal_everyday
+wind up	AMBER	phrasal_everyday
+wind down	AMBER	phrasal_everyday
+tuck in	AMBER	phrasal_everyday
+tidy up	GREEN	phrasal_everyday
+ring	AMBER	phrasal_everyday
+ring back	AMBER	phrasal_everyday
+give someone a bell	RED	phrasal_everyday
+get round to	AMBER	phrasal_everyday
+put up with	GREEN	phrasal_everyday
+look after	GREEN	phrasal_everyday
+see to	AMBER	phrasal_everyday
+sound out	GREEN	phrasal_everyday
+chase up	AMBER	phrasal_everyday
+follow up	GREEN	phrasal_everyday
+run through	GREEN	phrasal_everyday
+talk through	GREEN	phrasal_everyday
+iron out	GREEN	phrasal_everyday
+rule out	GREEN	phrasal_everyday
+bank on	AMBER	phrasal_everyday
+fall through	GREEN	phrasal_everyday
+pull out of	GREEN	phrasal_everyday
+back out	AMBER	phrasal_everyday
+carry on	GREEN	phrasal_everyday
+get by	GREEN	phrasal_everyday
+make do	GREEN	phrasal_everyday
+mind out	AMBER	phrasal_everyday
+budge up	RED	phrasal_everyday
+shove over	RED	phrasal_everyday
+hang on	AMBER	phrasal_everyday
+hold on	GREEN	phrasal_everyday
+cheers then	RED	phrasal_everyday
+you alright?	RED	phrasal_everyday
+I'm not bothered	AMBER	phrasal_everyday
+go on then	AMBER	phrasal_everyday
+you're joking	AMBER	phrasal_everyday
+bless you	GREEN	phrasal_everyday
+mind the gap	GREEN	phrasal_everyday
+have a go	AMBER	phrasal_everyday
+turn up	AMBER	phrasal_everyday
+turn down	GREEN	phrasal_everyday
+put off	GREEN	phrasal_everyday
+call off	GREEN	phrasal_everyday
+put back	GREEN	phrasal_everyday
+bring forward	GREEN	phrasal_everyday
+come round	AMBER	phrasal_everyday
+come across	GREEN	phrasal_everyday
+come up with	GREEN	phrasal_everyday
+crop up	AMBER	phrasal_everyday
+bring up	GREEN	phrasal_everyday
+take on	GREEN	phrasal_everyday
+take up	GREEN	phrasal_everyday
+hand in	GREEN	phrasal_everyday
+fill in	GREEN	phrasal_everyday
+fill in for	GREEN	phrasal_everyday
+set off	GREEN	phrasal_everyday
+head off	AMBER	phrasal_everyday
+get back to	GREEN	phrasal_everyday
+get through	GREEN	phrasal_everyday
+get over	GREEN	phrasal_everyday
+get up to	AMBER	phrasal_everyday
+catch up	AMBER	phrasal_everyday
+hold up	GREEN	phrasal_everyday
+look into	GREEN	phrasal_everyday
+look round	AMBER	phrasal_everyday
+look in on	AMBER	phrasal_everyday
+drop in	AMBER	phrasal_everyday
+drop off	AMBER	phrasal_everyday
+pick up	AMBER	phrasal_everyday
+give someone a lift	AMBER	phrasal_everyday
+work out	GREEN	phrasal_everyday
+point out	GREEN	phrasal_everyday
+go over	GREEN	phrasal_everyday
+go off	AMBER	phrasal_everyday
+go round	AMBER	phrasal_everyday
+run out of	GREEN	phrasal_everyday
+bump into	AMBER	phrasal_everyday
+put up	AMBER	phrasal_everyday
+put the kettle on	AMBER	phrasal_everyday
+knock off	RED	phrasal_everyday
+clock off	AMBER	phrasal_everyday
+rustle up	AMBER	phrasal_everyday
+throw together	AMBER	phrasal_everyday
+cut down on	GREEN	phrasal_everyday
+cut back	GREEN	phrasal_everyday
+drag on	GREEN	phrasal_everyday
+wash up	AMBER	phrasal_everyday
+do up	AMBER	phrasal_everyday
+do without	GREEN	phrasal_everyday
+mess about	AMBER	phrasal_everyday
+potter about	AMBER	phrasal_everyday
+hang about	AMBER	phrasal_everyday
+swot up	RED	phrasal_everyday
+brush up on	GREEN	phrasal_everyday
+rope in	AMBER	phrasal_everyday
+talk round	AMBER	phrasal_everyday
+ring round	AMBER	phrasal_everyday
+put through	GREEN	phrasal_everyday
+own up	AMBER	phrasal_everyday
+back down	GREEN	phrasal_everyday
+stand in for	GREEN	phrasal_everyday
+stick up for	AMBER	phrasal_everyday
+stick around	AMBER	phrasal_everyday
+pass on	GREEN	phrasal_everyday
+pass out	AMBER	phrasal_everyday
+hand out	GREEN	phrasal_everyday
+give in	GREEN	phrasal_everyday
+turn out	GREEN	phrasal_everyday
+tail off	GREEN	phrasal_everyday
+die down	GREEN	phrasal_everyday
+brighten up	GREEN	phrasal_everyday
+cloud over	GREEN	phrasal_everyday
+chucking it down	RED	phrasal_everyday
+nod off	AMBER	phrasal_everyday
+have a lie-in	AMBER	phrasal_everyday
+turn in	AMBER	phrasal_everyday
+eat in or take away?	GREEN	phrasal_everyday
+top up	AMBER	phrasal_everyday
+pull in	GREEN	phrasal_everyday
+queue up	GREEN	phrasal_everyday
+jump the queue	AMBER	phrasal_everyday
+break up	AMBER	phrasal_everyday
+sit an exam	GREEN	phrasal_everyday
+move house	GREEN	phrasal_everyday
+lay the table	GREEN	phrasal_everyday
+put a wash on	AMBER	phrasal_everyday
+hang the washing out	AMBER	phrasal_everyday
+put the bins out	AMBER	phrasal_everyday
+put the heating on	AMBER	phrasal_everyday
+run a bath	GREEN	phrasal_everyday
+have a shower	GREEN	phrasal_everyday
+get changed	GREEN	phrasal_everyday
+hoover up	AMBER	phrasal_everyday
+chuck out	RED	phrasal_everyday
+tidy away	AMBER	phrasal_everyday
+come down with	GREEN	phrasal_everyday
+be sick	AMBER	phrasal_everyday
+off sick	GREEN	phrasal_everyday
+call in sick	GREEN	phrasal_everyday
+pull a sickie	RED	phrasal_everyday
+shake off	GREEN	phrasal_everyday
+pull through	GREEN	phrasal_everyday
+done in	RED	phrasal_everyday
+worn out	GREEN	phrasal_everyday
+fed up	AMBER	phrasal_everyday
+do someone's head in	RED	phrasal_everyday
+get on someone's nerves	AMBER	phrasal_everyday
+tell off	AMBER	phrasal_everyday
+tick off	AMBER	phrasal_everyday
+tick over	AMBER	phrasal_everyday
+rabbit on	RED	phrasal_everyday
+go on about	AMBER	phrasal_everyday
+bang on about	RED	phrasal_everyday
+waffle on	AMBER	phrasal_everyday
+have a natter	RED	phrasal_everyday
+chat up	RED	phrasal_everyday
+ask out	AMBER	phrasal_everyday
+split up	AMBER	phrasal_everyday
+meet up	AMBER	phrasal_everyday
+tag along	AMBER	phrasal_everyday
+join in	GREEN	phrasal_everyday
+go for a quick one	RED	phrasal_everyday
+get a round in	RED	phrasal_everyday
+my shout	RED	phrasal_everyday
+last orders	GREEN	phrasal_everyday
+go halves	AMBER	phrasal_everyday
+settle up	AMBER	phrasal_everyday
+could I have the bill?	GREEN	phrasal_everyday
+what's the damage?	RED	phrasal_everyday
+keep the change	GREEN	phrasal_everyday
+change at	GREEN	phrasal_everyday
+stop off	GREEN	phrasal_everyday
+make tracks	AMBER	phrasal_everyday
+get cracking	AMBER	phrasal_everyday
+get a move on	AMBER	phrasal_everyday
+make a start	GREEN	phrasal_everyday
+take it easy	AMBER	phrasal_everyday
+make yourself at home	GREEN	phrasal_everyday
+how do you take it?	AMBER	phrasal_everyday
+I'll see myself out	GREEN	phrasal_everyday
+mind your head	GREEN	phrasal_everyday
+is anyone sitting here?	GREEN	phrasal_everyday
+I'll be two minutes	AMBER	phrasal_everyday
+just coming	AMBER	phrasal_everyday
+in a bit	AMBER	phrasal_everyday
+just a sec	AMBER	phrasal_everyday
+at the moment	GREEN	phrasal_everyday
+off you go	AMBER	phrasal_everyday
+I'm off	AMBER	phrasal_everyday
+I'd better be off	AMBER	phrasal_everyday
+got to dash	AMBER	phrasal_everyday
+mind how you go	AMBER	phrasal_everyday
+safe journey	GREEN	phrasal_everyday
+I reckon	AMBER	phrasal_everyday
+mind you	AMBER	phrasal_everyday
+as it happens	GREEN	phrasal_everyday
+as it goes	RED	phrasal_everyday
+funnily enough	GREEN	phrasal_everyday
+having said that	GREEN	phrasal_everyday
+then again	GREEN	phrasal_everyday
+tell you what	AMBER	phrasal_everyday
+the thing is	AMBER	phrasal_everyday
+you know what I mean?	RED	phrasal_everyday
+I suppose so	GREEN	phrasal_everyday
+you've lost me	AMBER	phrasal_everyday
+I'm with you	AMBER	phrasal_everyday
+come again?	RED	phrasal_everyday
+you what?	RED	phrasal_everyday
+you're having me on	RED	phrasal_everyday
+come off it	RED	phrasal_everyday
+give over	RED	phrasal_everyday
+leave it out	RED	phrasal_everyday
+cut it out	RED	phrasal_everyday
+pipe down	RED	phrasal_everyday
+tell me about it	AMBER	phrasal_everyday
+I bet	AMBER	phrasal_everyday
+good on you	AMBER	phrasal_everyday
+nice one	RED	phrasal_everyday
+cheers for that	RED	phrasal_everyday
+no bother	AMBER	phrasal_everyday
+sounds good	AMBER	phrasal_everyday
+count me in	AMBER	phrasal_everyday
+up for	AMBER	phrasal_everyday
+I'm game	AMBER	phrasal_everyday
+up to you	GREEN	phrasal_everyday
+suits me	AMBER	phrasal_everyday
+give it a miss	AMBER	phrasal_everyday
+I'm alright, thanks	AMBER	phrasal_everyday
+I don't mind if I do	AMBER	phrasal_everyday
+do you mind?	AMBER	phrasal_everyday
+is it alright if	GREEN	phrasal_everyday
+give someone a hand	AMBER	phrasal_everyday
+can I get you anything?	GREEN	phrasal_everyday
+are you alright there?	AMBER	phrasal_everyday
+just looking, thanks	GREEN	phrasal_everyday
+how much do I owe you?	GREEN	phrasal_everyday
+I owe you one	AMBER	phrasal_everyday
+what's that in aid of?	AMBER	phrasal_everyday
+job done	AMBER	phrasal_everyday
+that'll do	AMBER	phrasal_everyday
+there you go	AMBER	phrasal_everyday
+right then	AMBER	phrasal_everyday
+oh well	AMBER	phrasal_everyday
+I'll leave you to it	AMBER	phrasal_everyday
+I won't keep you	GREEN	phrasal_everyday
+I'll let you know	GREEN	phrasal_everyday
+shall we?	GREEN	phrasal_everyday
+whose turn is it?	GREEN	phrasal_everyday
+sit tight	AMBER	phrasal_everyday
+weigh up	GREEN	phrasal_everyday
+think over	GREEN	phrasal_everyday
+make out	AMBER	phrasal_everyday
+go down well	GREEN	phrasal_everyday
+make up for	GREEN	phrasal_everyday
+get away with	GREEN	phrasal_everyday
+get at	AMBER	phrasal_everyday
+pencil in	GREEN	phrasal_everyday
+fit in	GREEN	phrasal_everyday
+squeeze in	AMBER	phrasal_everyday
+book in	GREEN	phrasal_everyday
+pop up	AMBER	phrasal_everyday
+end up	GREEN	phrasal_everyday
+polish off	AMBER	phrasal_everyday
+wrap up	AMBER	phrasal_everyday
+freshen up	GREEN	phrasal_everyday
+stock up	GREEN	phrasal_everyday
+splash out	AMBER	phrasal_everyday
+shop around	GREEN	phrasal_everyday
+fork out	AMBER	phrasal_everyday
+cough up	RED	phrasal_everyday
+save up	GREEN	phrasal_everyday
+pay back	GREEN	phrasal_everyday
+settle in	GREEN	phrasal_everyday
+cheer up	GREEN	phrasal_everyday
+calm down	GREEN	phrasal_everyday
+speak up	GREEN	phrasal_everyday
+step in	GREEN	phrasal_everyday
+look forward to	GREEN	phrasal_everyday
+look out for	GREEN	phrasal_everyday
+run late	GREEN	phrasal_everyday
+go through	GREEN	phrasal_everyday
+hang out	AMBER	phrasal_everyday
+go out	AMBER	phrasal_everyday
+eat out	GREEN	phrasal_everyday
+dish up	AMBER	phrasal_everyday
+clear up	GREEN	phrasal_everyday
+can't be bothered	AMBER	phrasal_everyday
+with the greatest respect	GREEN	pragmatics
+with all due respect	GREEN	pragmatics
+with respect	GREEN	pragmatics
+I hear what you say	GREEN	pragmatics
+I'll bear it in mind	GREEN	pragmatics
+that's an interesting idea	GREEN	pragmatics
+interesting	AMBER	pragmatics
+not bad	AMBER	pragmatics
+not too bad	AMBER	pragmatics
+quite good	AMBER	pragmatics
+quite	GREEN	pragmatics
+perhaps you could consider	GREEN	pragmatics
+I was a bit disappointed	GREEN	pragmatics
+very brave	AMBER	pragmatics
+I'm sure it's my fault	AMBER	pragmatics
+I almost agree	GREEN	pragmatics
+only a few minor comments	GREEN	pragmatics
+by the way	AMBER	pragmatics
+incidentally	GREEN	pragmatics
+you must come round sometime	AMBER	pragmatics
+it's not the end of the world	AMBER	pragmatics
+could be worse	AMBER	pragmatics
+could be better	AMBER	pragmatics
+a bit of an issue	GREEN	pragmatics
+slightly concerned	GREEN	pragmatics
+that's one way of doing it	AMBER	pragmatics
+I'm not sure that's quite right	GREEN	pragmatics
+not quite what I had in mind	GREEN	pragmatics
+I'd suggest	GREEN	pragmatics
+you might want to	GREEN	pragmatics
+it might be worth	GREEN	pragmatics
+have you thought about	GREEN	pragmatics
+I'd be inclined to	GREEN	pragmatics
+no offence, but	RED	pragmatics
+I'm not being funny, but	RED	pragmatics
+fair enough	AMBER	pragmatics
+fair point	AMBER	pragmatics
+I see where you're coming from	AMBER	pragmatics
+up to a point	GREEN	pragmatics
+to some extent	GREEN	pragmatics
+it's early days	AMBER	pragmatics
+we'll see	AMBER	pragmatics
+I'll think about it	AMBER	pragmatics
+I'll see what I can do	GREEN	pragmatics
+I'm sure you know best	AMBER	pragmatics
+each to their own	AMBER	pragmatics
+it's a bit much	AMBER	pragmatics
+a bit	AMBER	pragmatics
+rather	GREEN	pragmatics
+fairly	GREEN	pragmatics
+ever so slightly	AMBER	pragmatics
+not entirely	GREEN	pragmatics
+not exactly	AMBER	pragmatics
+not great	AMBER	pragmatics
+not the best	AMBER	pragmatics
+I'm not convinced	GREEN	pragmatics
+I have some reservations	GREEN	pragmatics
+I might be wrong, but	GREEN	pragmatics
+correct me if I'm wrong	GREEN	pragmatics
+just a thought	AMBER	pragmatics
+I was wondering if	GREEN	pragmatics
+would you mind	GREEN	pragmatics
+do you mind if	AMBER	pragmatics
+if it's not too much trouble	GREEN	pragmatics
+if you don't mind	GREEN	pragmatics
+I'm afraid	GREEN	pragmatics
+I couldn't possibly	AMBER	pragmatics
+go on, then	AMBER	pragmatics
+I wouldn't say no	AMBER	pragmatics
+I'm all right, thanks	AMBER	pragmatics
+I'm fine	AMBER	pragmatics
+I'd rather not	GREEN	pragmatics
+I'm not sure about that	GREEN	pragmatics
+I'm not sure I'd go that far	GREEN	pragmatics
+that's a bit harsh	AMBER	pragmatics
+I'm no expert, but	AMBER	pragmatics
+for what it's worth	GREEN	pragmatics
+I don't disagree	GREEN	pragmatics
+it's not for me to say	GREEN	pragmatics
+I'm sure there's a good reason	AMBER	pragmatics
+you may well be right	GREEN	pragmatics
+I see what you mean	AMBER	pragmatics
+not my favourite	AMBER	pragmatics
+it's very... different	AMBER	pragmatics
+challenging	GREEN	pragmatics
+a big ask	AMBER	pragmatics
+room for improvement	GREEN	pragmatics
+not quite there yet	GREEN	pragmatics
+hasn't gone entirely to plan	GREEN	pragmatics
+I'm a little confused	GREEN	pragmatics
+I was surprised	GREEN	pragmatics
+I'm sure it'll be fine	AMBER	pragmatics
+these things happen	AMBER	pragmatics
+never mind	AMBER	pragmatics
+not to worry	AMBER	pragmatics
+oh dear	AMBER	pragmatics
+that's a shame	AMBER	pragmatics
+good for you	AMBER	pragmatics
+well done	GREEN	pragmatics
+brilliant	AMBER	pragmatics
+lovely	AMBER	pragmatics
+perfect	AMBER	pragmatics
+marvellous	AMBER	pragmatics
+charming	AMBER	pragmatics
+typical	AMBER	pragmatics
+I'm easy	RED	pragmatics
+I'm not fussed	RED	pragmatics
+whatever suits you	AMBER	pragmatics
+either is fine	GREEN	pragmatics
+if you insist	AMBER	pragmatics
+you shouldn't have	AMBER	pragmatics
+oh, it's nothing	AMBER	pragmatics
+I'm sure you had your reasons	AMBER	pragmatics
+it's not really for me	AMBER	pragmatics
+I'll try	AMBER	pragmatics
+we must do this again	AMBER	pragmatics
+I'm not saying, but	AMBER	pragmatics
+you don't say	AMBER	pragmatics
+possibly	GREEN	pragmatics
+sort of	AMBER	pragmatics
+to be fair	AMBER	pragmatics
+to be honest	AMBER	pragmatics
+frankly	GREEN	pragmatics
+I suppose	AMBER	pragmatics
+I'd have thought	GREEN	pragmatics
+sorry	GREEN	pragmatics
+pardon?	GREEN	pragmatics
+sorry to bother you	GREEN	pragmatics
+sorry to interrupt	GREEN	pragmatics
+sorry to be a pain	AMBER	pragmatics
+sorry to keep you waiting	GREEN	pragmatics
+I'm terribly sorry	GREEN	pragmatics
+my mistake	GREEN	pragmatics
+my bad	RED	pragmatics
+excuse me	GREEN	pragmatics
+thanks ever so much	AMBER	pragmatics
+cheers	AMBER	pragmatics
+ta	RED	pragmatics
+much appreciated	GREEN	pragmatics
+you're a star	AMBER	pragmatics
+that's very kind of you	GREEN	pragmatics
+no worries	AMBER	pragmatics
+not at all	GREEN	pragmatics
+no problem	AMBER	pragmatics
+you're welcome	GREEN	pragmatics
+don't mention it	GREEN	pragmatics
+it's no bother	AMBER	pragmatics
+my pleasure	GREEN	pragmatics
+could you possibly	GREEN	pragmatics
+would it be possible to	GREEN	pragmatics
+I don't suppose you could	AMBER	pragmatics
+any chance you could	AMBER	pragmatics
+I'd be grateful if	GREEN	pragmatics
+I'd appreciate it if	GREEN	pragmatics
+could I have	GREEN	pragmatics
+please	GREEN	pragmatics
+kindly	GREEN	pragmatics
+how are you?	GREEN	pragmatics
+how do you do	GREEN	pragmatics
+you all right?	AMBER	pragmatics
+hiya	RED	pragmatics
+how's it going?	AMBER	pragmatics
+can't complain	AMBER	pragmatics
+mustn't grumble	AMBER	pragmatics
+nice to meet you	GREEN	pragmatics
+take care	AMBER	pragmatics
+see you later	AMBER	pragmatics
+have a good one	AMBER	pragmatics
+after you	GREEN	pragmatics
+help yourself	AMBER	pragmatics
+go ahead	AMBER	pragmatics
+by all means	GREEN	pragmatics
+I'll let you get on	AMBER	pragmatics
+I should make a move	AMBER	pragmatics
+are you sure?	AMBER	pragmatics
+I hope you don't mind	GREEN	pragmatics
+if I may	GREEN	pragmatics
+I don't mind	AMBER	pragmatics
+dear	GREEN	pragmatics
+hi	AMBER	pragmatics
+hello	GREEN	pragmatics
+dear Sir or Madam	GREEN	pragmatics
+kind regards	GREEN	pragmatics
+best wishes	GREEN	pragmatics
+many thanks	GREEN	pragmatics
+regards	GREEN	pragmatics
+best	AMBER	pragmatics
+yours sincerely	GREEN	pragmatics
+yours faithfully	GREEN	pragmatics
+thanks in advance	AMBER	pragmatics
+apologies for the delay	GREEN	pragmatics
+apologies	GREEN	pragmatics
+sorry for any confusion	GREEN	pragmatics
+I hope you're well	GREEN	pragmatics
+I hope this email finds you well	GREEN	pragmatics
+just following up	GREEN	pragmatics
+just a quick reminder	GREEN	pragmatics
+sorry to chase	GREEN	pragmatics
+as per my last email	GREEN	pragmatics
+as discussed	GREEN	pragmatics
+as mentioned	GREEN	pragmatics
+further to	GREEN	pragmatics
+please find attached	GREEN	pragmatics
+I'll leave it with you	GREEN	pragmatics
+leave it with me	GREEN	pragmatics
+happy to discuss	GREEN	pragmatics
+happy to help	GREEN	pragmatics
+do let me know	GREEN	pragmatics
+feel free to	AMBER	pragmatics
+please don't hesitate to contact me	GREEN	pragmatics
+I look forward to hearing from you	GREEN	pragmatics
+speak soon	AMBER	pragmatics
+all the best	AMBER	pragmatics
+does that make sense?	AMBER	pragmatics
+shall we say	GREEN	pragmatics
+shall we make a start?	GREEN	pragmatics
+does that work for you?	GREEN	pragmatics
+let's touch base	AMBER	pragmatics
+let's take this offline	AMBER	pragmatics
+any other business	GREEN	pragmatics
+to recap	GREEN	pragmatics
+I'm conscious of time	GREEN	pragmatics
+in the interests of time	GREEN	pragmatics
+can I just come in here?	GREEN	pragmatics
+over to you	AMBER	pragmatics
+I'd echo that	GREEN	pragmatics
+good question	GREEN	pragmatics
+I'm not sure I follow	GREEN	pragmatics
+could you say a bit more about that?	GREEN	pragmatics
+noted	GREEN	pragmatics
+thanks for your patience	GREEN	pragmatics
+bear with me	GREEN	pragmatics
+have you got a minute?	AMBER	pragmatics
+can I have a quick word?	AMBER	pragmatics
+no rush	AMBER	pragmatics
+when you get a chance	AMBER	pragmatics
+at your earliest convenience	GREEN	pragmatics
+we regret to inform you	GREEN	pragmatics
+on this occasion	GREEN	pragmatics
+we apologise for any inconvenience	GREEN	pragmatics
+I appreciate that	GREEN	pragmatics
+I'll be in touch	GREEN	pragmatics
+bloke	RED	slang
+mate	AMBER	slang
+geezer	RED	slang
+lad	AMBER	slang
+lass	RED	slang
+chap	AMBER	slang
+fella	RED	slang
+guv	RED	slang
+pal	RED	slang
+bruv	RED	slang
+our kid	RED	slang
+duck	RED	slang
+love	AMBER	slang
+pet	RED	slang
+hen	RED	slang
+bach	RED	slang
+missus	RED	slang
+other half	AMBER	slang
+nan	AMBER	slang
+mam	RED	slang
+nipper	RED	slang
+bairn	RED	slang
+toff	RED	slang
+boffin	AMBER	slang
+anorak	AMBER	slang
+swot	RED	slang
+jobsworth	AMBER	slang
+nosy parker	RED	slang
+clever clogs	RED	slang
+chancer	RED	slang
+punter	AMBER	slang
+yob	RED	slang
+toerag	RED	slang
+scallywag	RED	slang
+bezzie	RED	slang
+Scouser	AMBER	slang
+Geordie	AMBER	slang
+Brummie	AMBER	slang
+copper	RED	slang
+Old Bill	RED	slang
+bobby	AMBER	slang
+grass	RED	slang
+plonker	RED	slang
+muppet	RED	slang
+numpty	RED	slang
+pillock	RED	slang
+prat	RED	slang
+twit	RED	slang
+wally	RED	slang
+git	RED	slang
+wazzock	RED	slang
+daft	RED	slang
+dozy	RED	slang
+gormless	RED	slang
+thick	RED	slang
+bonkers	RED	slang
+barmy	RED	slang
+crackers	RED	slang
+cheeky	AMBER	slang
+gobby	RED	slang
+stroppy	RED	slang
+strop	RED	slang
+mardy	RED	slang
+ratty	RED	slang
+miffed	RED	slang
+narked	RED	slang
+cheesed off	RED	slang
+fuming	AMBER	slang
+livid	AMBER	slang
+the hump	RED	slang
+wobbly	RED	slang
+smashing	RED	slang
+cracking	RED	slang
+ace	RED	slang
+wicked	RED	slang
+mint	RED	slang
+lush	RED	slang
+tidy	RED	slang
+boss	RED	slang
+sound	RED	slang
+safe	RED	slang
+quality	RED	slang
+belting	RED	slang
+canny	RED	slang
+fab	RED	slang
+top	RED	slang
+cushy	RED	slang
+spot on	AMBER	slang
+fit	RED	slang
+result	RED	slang
+naff	RED	slang
+rubbish	AMBER	slang
+pants	RED	slang
+duff	RED	slang
+ropey	AMBER	slang
+iffy	AMBER	slang
+hairy	RED	slang
+grotty	RED	slang
+minging	RED	slang
+manky	RED	slang
+rank	RED	slang
+grim	AMBER	slang
+tat	RED	slang
+bog-standard	AMBER	slang
+shambolic	AMBER	slang
+pear-shaped	AMBER	slang
+Pete Tong	RED	slang
+cack-handed	RED	slang
+clapped-out	RED	slang
+wonky	RED	slang
+higgledy-piggledy	RED	slang
+posh	AMBER	slang
+plummy	AMBER	slang
+hoity-toity	RED	slang
+common	RED	slang
+flash	RED	slang
+proper	RED	slang
+well	RED	slang
+dead	RED	slang
+right	RED	slang
+pure	RED	slang
+ever so	AMBER	slang
+jolly	AMBER	slang
+bloody	RED	slang
+blooming	RED	slang
+flipping	RED	slang
+loads	AMBER	slang
+blimey	RED	slang
+crikey	RED	slang
+cor	RED	slang
+gosh	AMBER	slang
+oh my days	RED	slang
+bless	RED	slang
+ey up	RED	slang
+howay	RED	slang
+aye	RED	slang
+ta-ra	RED	slang
+cheerio	RED	slang
+laters	RED	slang
+wagwan	RED	slang
+innit	RED	slang
+wee	AMBER	slang
+dreich	RED	slang
+bonnie	RED	slang
+scunnered	RED	slang
+baltic	RED	slang
+cwtch	RED	slang
+nowt	RED	slang
+owt	RED	slang
+summat	RED	slang
+mither	RED	slang
+nesh	RED	slang
+made up	RED	slang
+quid	AMBER	slang
+fiver	AMBER	slang
+tenner	AMBER	slang
+pony	RED	slang
+bob	RED	slang
+dosh	RED	slang
+lolly	RED	slang
+brass	RED	slang
+minted	RED	slang
+brassic	RED	slang
+tight	RED	slang
+mean	AMBER	slang
+dole	AMBER	slang
+nick	RED	slang
+pinch	RED	slang
+tea leaf	RED	slang
+porkies	RED	slang
+fib	AMBER	slang
+blag	RED	slang
+wangle	RED	slang
+scrounge	RED	slang
+flog	RED	slang
+bung	RED	slang
+tipsy	RED	slang
+squiffy	RED	slang
+sloshed	RED	slang
+plastered	RED	slang
+hammered	RED	slang
+legless	RED	slang
+bevvy	RED	slang
+plonk	RED	slang
+sesh	RED	slang
+round	AMBER	slang
+local	AMBER	slang
+boozer	RED	slang
+offie	RED	slang
+knees-up	RED	slang
+do	AMBER	slang
+cuppa	AMBER	slang
+brew	RED	slang
+char	RED	slang
+sarnie	RED	slang
+butty	RED	slang
+scran	RED	slang
+grub	RED	slang
+nosh	RED	slang
+peckish	AMBER	slang
+starving	AMBER	slang
+stuffed	RED	slang
+brekkie	RED	slang
+chippy	RED	slang
+pud	RED	slang
+bickie	RED	slang
+tea	AMBER	slang
+telly	AMBER	slang
+brolly	RED	slang
+loo	AMBER	slang
+bog	RED	slang
+loo roll	AMBER	slang
+wellies	AMBER	slang
+specs	RED	slang
+trackies	RED	slang
+kecks	RED	slang
+clobber	RED	slang
+thingy	RED	slang
+whatsit	RED	slang
+banger	RED	slang
+prang	RED	slang
+gaff	RED	slang
+the sticks	RED	slang
+Blighty	RED	slang
+natter	AMBER	slang
+chinwag	RED	slang
+goss	RED	slang
+banter	AMBER	slang
+bants	RED	slang
+craic	RED	slang
+waffle	AMBER	slang
+whinge	AMBER	slang
+moan	AMBER	slang
+gob	RED	slang
+tosh	RED	slang
+codswallop	RED	slang
+cobblers	RED	slang
+skive	RED	slang
+sickie	RED	slang
+bodge	AMBER	slang
+faff	AMBER	slang
+graft	AMBER	slang
+doddle	AMBER	slang
+dogsbody	AMBER	slang
+gaffer	RED	slang
+sacked	AMBER	slang
+uni	AMBER	slang
+kip	RED	slang
+shattered	AMBER	slang
+cream crackered	RED	slang
+lie-in	AMBER	slang
+poorly	AMBER	slang
+lurgy	RED	slang
+man flu	RED	slang
+collywobbles	RED	slang
+sick	RED	slang
+kerfuffle	AMBER	slang
+palaver	AMBER	slang
+rigmarole	AMBER	slang
+malarkey	RED	slang
+aggro	RED	slang
+barney	RED	slang
+tiff	AMBER	slang
+row	AMBER	slang
+apples and pears	RED	slang
+butcher's	RED	slang
+dog and bone	RED	slang
+barnet	RED	slang
+loaf	RED	slang
+Scooby	RED	slang
+Hank Marvin	RED	slang
+china	RED	slang
+reckon	AMBER	slang
+suss	RED	slang
+twig	RED	slang
+clock	RED	slang
+chuck	RED	slang
+leg it	RED	slang
+scarper	RED	slang
+nip	AMBER	slang
+pop	AMBER	slang
+potter	AMBER	slang
+mooch	RED	slang
+gawp	RED	slang
+gander	RED	slang
+dekko	RED	slang
+bagsy	RED	slang
+snog	RED	slang
+lark	RED	slang
+yonks	RED	slang
+mo	RED	slang
+tick	AMBER	slang
+sharpish	AMBER	slang
+bottle	RED	slang
+gumption	AMBER	slang
+nous	AMBER	slang
+jammy	RED	slang
+bum	RED	slang
+bonce	RED	slang
+footie	RED	slang
+hols	RED	slang
+pressie	RED	slang
+jab	AMBER	slang
+porridge	RED	slang
+Advent	GREEN	uk_culture
+advent calendar	GREEN	uk_culture
+Christmas Eve	GREEN	uk_culture
+Christmas Day	GREEN	uk_culture
+Boxing Day	GREEN	uk_culture
+Father Christmas	GREEN	uk_culture
+grotto	GREEN	uk_culture
+Christmas cracker	GREEN	uk_culture
+paper hat	AMBER	uk_culture
+mince pie	GREEN	uk_culture
+Christmas pudding	GREEN	uk_culture
+Christmas cake	GREEN	uk_culture
+Christmas dinner	GREEN	uk_culture
+Christmas jumper	GREEN	uk_culture
+Christmas stocking	GREEN	uk_culture
+stocking filler	GREEN	uk_culture
+Secret Santa	AMBER	uk_culture
+Christmas do	AMBER	uk_culture
+Christmas card	GREEN	uk_culture
+Christmas tree	GREEN	uk_culture
+tinsel	GREEN	uk_culture
+bauble	GREEN	uk_culture
+fairy lights	GREEN	uk_culture
+Christmas lights switch-on	AMBER	uk_culture
+Christmas market	GREEN	uk_culture
+mulled wine	GREEN	uk_culture
+carol singing	GREEN	uk_culture
+carol service	GREEN	uk_culture
+nativity play	GREEN	uk_culture
+Christingle	GREEN	uk_culture
+midnight mass	GREEN	uk_culture
+the festive season	GREEN	uk_culture
+Happy Christmas	GREEN	uk_culture
+Christmas number one	GREEN	uk_culture
+royal Christmas message	GREEN	uk_culture
+Boxing Day sales	GREEN	uk_culture
+the January sales	GREEN	uk_culture
+Twelfth Night	GREEN	uk_culture
+panto	AMBER	uk_culture
+panto dame	AMBER	uk_culture
+He's behind you!	AMBER	uk_culture
+Stir-up Sunday	GREEN	uk_culture
+New Year's Eve	GREEN	uk_culture
+New Year's Day	GREEN	uk_culture
+Hogmanay	GREEN	uk_culture
+first-footing	GREEN	uk_culture
+Auld Lang Syne	GREEN	uk_culture
+New Year's resolution	GREEN	uk_culture
+Dry January	AMBER	uk_culture
+Burns Night	GREEN	uk_culture
+ceilidh	GREEN	uk_culture
+barn dance	GREEN	uk_culture
+Highland games	GREEN	uk_culture
+Up Helly Aa	GREEN	uk_culture
+Pancake Day	GREEN	uk_culture
+pancake race	GREEN	uk_culture
+Lent	GREEN	uk_culture
+Mothering Sunday	GREEN	uk_culture
+Good Friday	GREEN	uk_culture
+Easter Monday	GREEN	uk_culture
+hot cross bun	GREEN	uk_culture
+simnel cake	GREEN	uk_culture
+Easter egg hunt	GREEN	uk_culture
+Easter egg	GREEN	uk_culture
+April Fool	AMBER	uk_culture
+St David's Day	GREEN	uk_culture
+St Patrick's Day	GREEN	uk_culture
+St George's Day	GREEN	uk_culture
+St Andrew's Day	GREEN	uk_culture
+May Day	GREEN	uk_culture
+maypole	GREEN	uk_culture
+morris dancing	GREEN	uk_culture
+May Queen	GREEN	uk_culture
+Whitsun	GREEN	uk_culture
+Midsummer	GREEN	uk_culture
+harvest festival	GREEN	uk_culture
+Halloween	GREEN	uk_culture
+trick-or-treating	AMBER	uk_culture
+Bonfire Night	GREEN	uk_culture
+Guy Fawkes	GREEN	uk_culture
+the guy	GREEN	uk_culture
+bonfire	GREEN	uk_culture
+sparkler	GREEN	uk_culture
+firework display	GREEN	uk_culture
+toffee apple	GREEN	uk_culture
+Remembrance Sunday	GREEN	uk_culture
+Armistice Day	GREEN	uk_culture
+poppy	GREEN	uk_culture
+two-minute silence	GREEN	uk_culture
+the Last Post	GREEN	uk_culture
+the Cenotaph	GREEN	uk_culture
+war memorial	GREEN	uk_culture
+wreath	GREEN	uk_culture
+Diwali	GREEN	uk_culture
+Eid	GREEN	uk_culture
+Notting Hill Carnival	GREEN	uk_culture
+Pride	GREEN	uk_culture
+cheese rolling	AMBER	uk_culture
+wassailing	GREEN	uk_culture
+well dressing	GREEN	uk_culture
+Eisteddfod	GREEN	uk_culture
+the Royal Family	GREEN	uk_culture
+the royals	AMBER	uk_culture
+monarch	GREEN	uk_culture
+coronation	GREEN	uk_culture
+jubilee	GREEN	uk_culture
+street party	GREEN	uk_culture
+bunting	GREEN	uk_culture
+Trooping the Colour	GREEN	uk_culture
+Changing of the Guard	GREEN	uk_culture
+Beefeater	GREEN	uk_culture
+God Save the King	GREEN	uk_culture
+Union Jack	GREEN	uk_culture
+St George's Cross	GREEN	uk_culture
+the Saltire	GREEN	uk_culture
+honours list	GREEN	uk_culture
+OBE	GREEN	uk_culture
+knighthood	GREEN	uk_culture
+royal warrant	GREEN	uk_culture
+garden party	GREEN	uk_culture
+balcony appearance	GREEN	uk_culture
+flypast	GREEN	uk_culture
+football	GREEN	uk_culture
+match	GREEN	uk_culture
+pitch	GREEN	uk_culture
+ground	GREEN	uk_culture
+nil	GREEN	uk_culture
+draw	GREEN	uk_culture
+fixture	GREEN	uk_culture
+kit	GREEN	uk_culture
+supporter	GREEN	uk_culture
+away game	GREEN	uk_culture
+home game	GREEN	uk_culture
+season ticket	GREEN	uk_culture
+derby	GREEN	uk_culture
+kick-off	GREEN	uk_culture
+half-time	GREEN	uk_culture
+injury time	GREEN	uk_culture
+extra time	GREEN	uk_culture
+penalty shoot-out	GREEN	uk_culture
+own goal	GREEN	uk_culture
+hat-trick	GREEN	uk_culture
+clean sheet	GREEN	uk_culture
+the league table	GREEN	uk_culture
+relegation	GREEN	uk_culture
+promotion	GREEN	uk_culture
+the Premier League	GREEN	uk_culture
+non-league	GREEN	uk_culture
+the FA Cup	GREEN	uk_culture
+giant-killing	GREEN	uk_culture
+cup tie	GREEN	uk_culture
+five-a-side	AMBER	uk_culture
+Sunday league	AMBER	uk_culture
+pundit	GREEN	uk_culture
+transfer window	GREEN	uk_culture
+the gaffer	RED	uk_culture
+the terraces	GREEN	uk_culture
+the football pools	GREEN	uk_culture
+cricket	GREEN	uk_culture
+Test match	GREEN	uk_culture
+the Ashes	GREEN	uk_culture
+wicket	GREEN	uk_culture
+over	GREEN	uk_culture
+innings	GREEN	uk_culture
+bowled out	GREEN	uk_culture
+batter	GREEN	uk_culture
+bowler	GREEN	uk_culture
+century	GREEN	uk_culture
+LBW	GREEN	uk_culture
+howzat	AMBER	uk_culture
+stumps	GREEN	uk_culture
+the crease	GREEN	uk_culture
+tea interval	GREEN	uk_culture
+rain stopped play	AMBER	uk_culture
+village cricket	GREEN	uk_culture
+county cricket	GREEN	uk_culture
+Lord's	GREEN	uk_culture
+rugby	GREEN	uk_culture
+try	GREEN	uk_culture
+scrum	GREEN	uk_culture
+the Six Nations	GREEN	uk_culture
+the Calcutta Cup	GREEN	uk_culture
+the Grand National	GREEN	uk_culture
+sweepstake	AMBER	uk_culture
+Royal Ascot	GREEN	uk_culture
+Cheltenham Festival	GREEN	uk_culture
+the Derby	GREEN	uk_culture
+bookie	AMBER	uk_culture
+a flutter	RED	uk_culture
+each way	AMBER	uk_culture
+Wimbledon	GREEN	uk_culture
+the Boat Race	GREEN	uk_culture
+Henley	GREEN	uk_culture
+the Open	GREEN	uk_culture
+the London Marathon	GREEN	uk_culture
+parkrun	GREEN	uk_culture
+darts	GREEN	uk_culture
+one hundred and eighty	AMBER	uk_culture
+snooker	GREEN	uk_culture
+pool	GREEN	uk_culture
+bowls	GREEN	uk_culture
+rounders	GREEN	uk_culture
+netball	GREEN	uk_culture
+conkers	GREEN	uk_culture
+Poohsticks	GREEN	uk_culture
+egg-and-spoon race	GREEN	uk_culture
+the pub	GREEN	uk_culture
+What are you having?	AMBER	uk_culture
+time, please	AMBER	uk_culture
+pint	GREEN	uk_culture
+half	AMBER	uk_culture
+shandy	GREEN	uk_culture
+landlord	GREEN	uk_culture
+bar staff	GREEN	uk_culture
+at the bar	GREEN	uk_culture
+beer garden	GREEN	uk_culture
+pub quiz	GREEN	uk_culture
+carvery	GREEN	uk_culture
+pub grub	AMBER	uk_culture
+gastropub	GREEN	uk_culture
+real ale	GREEN	uk_culture
+bitter	GREEN	uk_culture
+lager	GREEN	uk_culture
+cider	GREEN	uk_culture
+on draught	GREEN	uk_culture
+a double	AMBER	uk_culture
+pub crawl	AMBER	uk_culture
+lock-in	RED	uk_culture
+free house	GREEN	uk_culture
+the snug	GREEN	uk_culture
+pub sign	GREEN	uk_culture
+fruit machine	GREEN	uk_culture
+skittles	GREEN	uk_culture
+teetotal	GREEN	uk_culture
+the BBC	GREEN	uk_culture
+the Beeb	RED	uk_culture
+Radio 4	GREEN	uk_culture
+the Shipping Forecast	GREEN	uk_culture
+licence fee	GREEN	uk_culture
+programme	GREEN	uk_culture
+series	GREEN	uk_culture
+soap	AMBER	uk_culture
+box set	GREEN	uk_culture
+panel show	GREEN	uk_culture
+chat show	GREEN	uk_culture
+sitcom	GREEN	uk_culture
+period drama	GREEN	uk_culture
+the watershed	GREEN	uk_culture
+advert	AMBER	uk_culture
+newsreader	GREEN	uk_culture
+presenter	GREEN	uk_culture
+tabloid	GREEN	uk_culture
+broadsheet	GREEN	uk_culture
+the Sunday papers	GREEN	uk_culture
+agony aunt	GREEN	uk_culture
+cryptic crossword	GREEN	uk_culture
+phone-in	GREEN	uk_culture
+the pips	GREEN	uk_culture
+Christmas special	GREEN	uk_culture
+drizzle	GREEN	uk_culture
+mizzle	RED	uk_culture
+spitting	AMBER	uk_culture
+pouring	AMBER	uk_culture
+downpour	GREEN	uk_culture
+shower	GREEN	uk_culture
+sunny spells	GREEN	uk_culture
+overcast	GREEN	uk_culture
+grey	GREEN	uk_culture
+close	AMBER	uk_culture
+muggy	AMBER	uk_culture
+nippy	AMBER	uk_culture
+parky	RED	uk_culture
+chilly	AMBER	uk_culture
+bracing	GREEN	uk_culture
+fresh	AMBER	uk_culture
+mild	GREEN	uk_culture
+scorcher	AMBER	uk_culture
+heatwave	GREEN	uk_culture
+hosepipe ban	GREEN	uk_culture
+cold snap	GREEN	uk_culture
+frost	GREEN	uk_culture
+black ice	GREEN	uk_culture
+sleet	GREEN	uk_culture
+blustery	GREEN	uk_culture
+gale	GREEN	uk_culture
+washout	AMBER	uk_culture
+turned out nice	AMBER	uk_culture
+the clocks go back	GREEN	uk_culture
+the nights are drawing in	AMBER	uk_culture
+weather warning	GREEN	uk_culture
+queue	GREEN	uk_culture
+pardon	GREEN	uk_culture
+small talk	GREEN	uk_culture
+stiff upper lip	GREEN	uk_culture
+understatement	GREEN	uk_culture
+bring a bottle	AMBER	uk_culture
+housewarming	GREEN	uk_culture
+hen do	AMBER	uk_culture
+stag do	AMBER	uk_culture
+fancy dress	AMBER	uk_culture
+black tie	GREEN	uk_culture
+smart casual	GREEN	uk_culture
+fascinator	GREEN	uk_culture
+Oxbridge	GREEN	uk_culture
+the Home Counties	GREEN	uk_culture
+the North–South divide	GREEN	uk_culture
+Middle England	GREEN	uk_culture
+bank holiday	GREEN	uk_culture
+bank holiday weekend	GREEN	uk_culture
+staycation	AMBER	uk_culture
+the seaside	GREEN	uk_culture
+pier	GREEN	uk_culture
+beach hut	GREEN	uk_culture
+promenade	GREEN	uk_culture
+deckchair	GREEN	uk_culture
+Punch and Judy	GREEN	uk_culture
+amusement arcade	GREEN	uk_culture
+stick of rock	GREEN	uk_culture
+day out	AMBER	uk_culture
+garden centre	GREEN	uk_culture
+the National Trust	GREEN	uk_culture
+stately home	GREEN	uk_culture
+village fête	GREEN	uk_culture
+tombola	GREEN	uk_culture
+raffle	GREEN	uk_culture
+coconut shy	GREEN	uk_culture
+car boot sale	GREEN	uk_culture
+jumble sale	GREEN	uk_culture
+village hall	GREEN	uk_culture
+village green	GREEN	uk_culture
+allotment	GREEN	uk_culture
+the Proms	GREEN	uk_culture
+Glastonbury	GREEN	uk_culture
+Edinburgh Fringe	GREEN	uk_culture
+the West End	GREEN	uk_culture
+interval	GREEN	uk_culture
+am-dram	AMBER	uk_culture
+brass band	GREEN	uk_culture
+nursery	GREEN	uk_institutions
+reception	GREEN	uk_institutions
+primary school	GREEN	uk_institutions
+secondary school	GREEN	uk_institutions
+state school	GREEN	uk_institutions
+public school	GREEN	uk_institutions
+independent school	GREEN	uk_institutions
+private school	GREEN	uk_institutions
+prep school	GREEN	uk_institutions
+boarding school	GREEN	uk_institutions
+grammar school	GREEN	uk_institutions
+eleven-plus	GREEN	uk_institutions
+academy	GREEN	uk_institutions
+free school	GREEN	uk_institutions
+faith school	GREEN	uk_institutions
+sixth form	GREEN	uk_institutions
+sixth-form college	GREEN	uk_institutions
+further education	GREEN	uk_institutions
+Year 7	GREEN	uk_institutions
+Year 11	GREEN	uk_institutions
+Key Stage	GREEN	uk_institutions
+GCSEs	GREEN	uk_institutions
+A-levels	GREEN	uk_institutions
+AS level	GREEN	uk_institutions
+BTEC	GREEN	uk_institutions
+T Level	GREEN	uk_institutions
+Highers	GREEN	uk_institutions
+mocks	GREEN	uk_institutions
+resit	GREEN	uk_institutions
+revision	GREEN	uk_institutions
+revise	GREEN	uk_institutions
+marks	GREEN	uk_institutions
+mark scheme	GREEN	uk_institutions
+predicted grades	GREEN	uk_institutions
+invigilator	GREEN	uk_institutions
+head teacher	GREEN	uk_institutions
+form tutor	GREEN	uk_institutions
+form	GREEN	uk_institutions
+take the register	GREEN	uk_institutions
+supply teacher	GREEN	uk_institutions
+teaching assistant	GREEN	uk_institutions
+pupil	GREEN	uk_institutions
+timetable	GREEN	uk_institutions
+assembly	GREEN	uk_institutions
+break time	GREEN	uk_institutions
+playtime	GREEN	uk_institutions
+half-term	GREEN	uk_institutions
+term	GREEN	uk_institutions
+INSET day	GREEN	uk_institutions
+parents' evening	GREEN	uk_institutions
+exclusion	GREEN	uk_institutions
+Ofsted	GREEN	uk_institutions
+league tables	GREEN	uk_institutions
+catchment area	GREEN	uk_institutions
+PE	GREEN	uk_institutions
+maths	GREEN	uk_institutions
+SEND	GREEN	uk_institutions
+head girl	GREEN	uk_institutions
+school leaver	GREEN	uk_institutions
+apprenticeship	GREEN	uk_institutions
+university	GREEN	uk_institutions
+fresher	AMBER	uk_institutions
+Freshers' Week	AMBER	uk_institutions
+halls	AMBER	uk_institutions
+postgraduate	GREEN	uk_institutions
+first	GREEN	uk_institutions
+2:1	GREEN	uk_institutions
+honours degree	GREEN	uk_institutions
+degree	GREEN	uk_institutions
+read	GREEN	uk_institutions
+course	GREEN	uk_institutions
+dissertation	GREEN	uk_institutions
+thesis	GREEN	uk_institutions
+viva	GREEN	uk_institutions
+seminar	GREEN	uk_institutions
+tutorial	GREEN	uk_institutions
+lecturer	GREEN	uk_institutions
+professor	GREEN	uk_institutions
+Russell Group	GREEN	uk_institutions
+redbrick	GREEN	uk_institutions
+don	GREEN	uk_institutions
+UCAS	GREEN	uk_institutions
+personal statement	GREEN	uk_institutions
+conditional offer	GREEN	uk_institutions
+Clearing	GREEN	uk_institutions
+gap year	GREEN	uk_institutions
+student loan	GREEN	uk_institutions
+tuition fees	GREEN	uk_institutions
+Students' Union	GREEN	uk_institutions
+graduation	GREEN	uk_institutions
+graduate scheme	GREEN	uk_institutions
+covering letter	GREEN	uk_institutions
+reference	GREEN	uk_institutions
+payslip	GREEN	uk_institutions
+P45	GREEN	uk_institutions
+P60	GREEN	uk_institutions
+PAYE	GREEN	uk_institutions
+National Insurance	GREEN	uk_institutions
+National Insurance number	GREEN	uk_institutions
+tax code	GREEN	uk_institutions
+tax year	GREEN	uk_institutions
+Self Assessment	GREEN	uk_institutions
+HMRC	GREEN	uk_institutions
+salary	GREEN	uk_institutions
+pay rise	GREEN	uk_institutions
+National Minimum Wage	GREEN	uk_institutions
+Real Living Wage	GREEN	uk_institutions
+holiday	GREEN	uk_institutions
+Statutory Sick Pay	GREEN	uk_institutions
+sick note	GREEN	uk_institutions
+maternity leave	GREEN	uk_institutions
+paternity leave	GREEN	uk_institutions
+notice period	GREEN	uk_institutions
+hand in your notice	GREEN	uk_institutions
+made redundant	GREEN	uk_institutions
+employment tribunal	GREEN	uk_institutions
+Acas	GREEN	uk_institutions
+probationary period	GREEN	uk_institutions
+trade union	GREEN	uk_institutions
+industrial action	GREEN	uk_institutions
+zero-hours contract	GREEN	uk_institutions
+self-employed	GREEN	uk_institutions
+colleague	GREEN	uk_institutions
+time off in lieu	GREEN	uk_institutions
+work experience	GREEN	uk_institutions
+state pension	GREEN	uk_institutions
+workplace pension	GREEN	uk_institutions
+Jobcentre	GREEN	uk_institutions
+Jobseeker's Allowance	GREEN	uk_institutions
+on the dole	RED	uk_institutions
+health and safety	GREEN	uk_institutions
+leaving do	AMBER	uk_institutions
+grand	AMBER	uk_institutions
+pound	GREEN	uk_institutions
+pound coin	GREEN	uk_institutions
+pence	GREEN	uk_institutions
+p	AMBER	uk_institutions
+penny	GREEN	uk_institutions
+note	GREEN	uk_institutions
+current account	GREEN	uk_institutions
+ISA	GREEN	uk_institutions
+building society	GREEN	uk_institutions
+sort code	GREEN	uk_institutions
+direct debit	GREEN	uk_institutions
+standing order	GREEN	uk_institutions
+cheque	GREEN	uk_institutions
+cash machine	GREEN	uk_institutions
+cashpoint	GREEN	uk_institutions
+debit card	GREEN	uk_institutions
+contactless	GREEN	uk_institutions
+chip and PIN	GREEN	uk_institutions
+overdraft	GREEN	uk_institutions
+bank statement	GREEN	uk_institutions
+mortgage	GREEN	uk_institutions
+deposit	GREEN	uk_institutions
+stamp duty	GREEN	uk_institutions
+gazumping	AMBER	uk_institutions
+estate	GREEN	uk_institutions
+probate	GREEN	uk_institutions
+inheritance tax	GREEN	uk_institutions
+VAT	GREEN	uk_institutions
+Premium Bonds	GREEN	uk_institutions
+pocket money	GREEN	uk_institutions
+cashback	GREEN	uk_institutions
+hire purchase	GREEN	uk_institutions
+Bank of England	GREEN	uk_institutions
+the Budget	GREEN	uk_institutions
+council tax	GREEN	uk_institutions
+TV licence	GREEN	uk_institutions
+Child Benefit	GREEN	uk_institutions
+Universal Credit	GREEN	uk_institutions
+benefits	GREEN	uk_institutions
+NHS	GREEN	uk_institutions
+GP	GREEN	uk_institutions
+surgery	GREEN	uk_institutions
+register with a GP	GREEN	uk_institutions
+A&E	GREEN	uk_institutions
+casualty	GREEN	uk_institutions
+999	GREEN	uk_institutions
+111	GREEN	uk_institutions
+ambulance	GREEN	uk_institutions
+paramedic	GREEN	uk_institutions
+prescription	GREEN	uk_institutions
+chemist	GREEN	uk_institutions
+pharmacist	GREEN	uk_institutions
+over the counter	GREEN	uk_institutions
+paracetamol	GREEN	uk_institutions
+locum	GREEN	uk_institutions
+consultant	GREEN	uk_institutions
+resident doctor	GREEN	uk_institutions
+registrar	GREEN	uk_institutions
+ward	GREEN	uk_institutions
+ward sister	GREEN	uk_institutions
+matron	GREEN	uk_institutions
+operating theatre	GREEN	uk_institutions
+outpatient	GREEN	uk_institutions
+referral	GREEN	uk_institutions
+waiting list	GREEN	uk_institutions
+health visitor	GREEN	uk_institutions
+midwife	GREEN	uk_institutions
+NHS number	GREEN	uk_institutions
+smear test	GREEN	uk_institutions
+plaster	GREEN	uk_institutions
+optician	GREEN	uk_institutions
+NHS dentist	GREEN	uk_institutions
+physio	AMBER	uk_institutions
+urgent treatment centre	GREEN	uk_institutions
+private healthcare	GREEN	uk_institutions
+care home	GREEN	uk_institutions
+carer	GREEN	uk_institutions
+being sick	GREEN	uk_institutions
+temperature	GREEN	uk_institutions
+anaesthetist	GREEN	uk_institutions
+Parliament	GREEN	uk_institutions
+Houses of Parliament	GREEN	uk_institutions
+MP	GREEN	uk_institutions
+constituency	GREEN	uk_institutions
+constituency surgery	GREEN	uk_institutions
+seat	GREEN	uk_institutions
+marginal seat	GREEN	uk_institutions
+general election	GREEN	uk_institutions
+by-election	GREEN	uk_institutions
+local elections	GREEN	uk_institutions
+polling station	GREEN	uk_institutions
+ballot paper	GREEN	uk_institutions
+postal vote	GREEN	uk_institutions
+electoral register	GREEN	uk_institutions
+first past the post	GREEN	uk_institutions
+hung parliament	GREEN	uk_institutions
+manifesto	GREEN	uk_institutions
+the Commons	GREEN	uk_institutions
+the Lords	GREEN	uk_institutions
+peer	GREEN	uk_institutions
+the Speaker	GREEN	uk_institutions
+backbencher	GREEN	uk_institutions
+the Cabinet	GREEN	uk_institutions
+the Opposition	GREEN	uk_institutions
+Shadow Cabinet	GREEN	uk_institutions
+PMQs	GREEN	uk_institutions
+Number 10	GREEN	uk_institutions
+Whitehall	GREEN	uk_institutions
+Westminster	GREEN	uk_institutions
+civil service	GREEN	uk_institutions
+civil servant	GREEN	uk_institutions
+minister	GREEN	uk_institutions
+secretary of state	GREEN	uk_institutions
+Chancellor	GREEN	uk_institutions
+the Treasury	GREEN	uk_institutions
+Home Office	GREEN	uk_institutions
+Foreign Office	GREEN	uk_institutions
+bill	GREEN	uk_institutions
+Act of Parliament	GREEN	uk_institutions
+Royal Assent	GREEN	uk_institutions
+white paper	GREEN	uk_institutions
+whip	GREEN	uk_institutions
+devolution	GREEN	uk_institutions
+Scottish Parliament	GREEN	uk_institutions
+Senedd	GREEN	uk_institutions
+council	GREEN	uk_institutions
+councillor	GREEN	uk_institutions
+the Crown	GREEN	uk_institutions
+State Opening of Parliament	GREEN	uk_institutions
+quango	GREEN	uk_institutions
+ombudsman	GREEN	uk_institutions
+Freedom of Information request	GREEN	uk_institutions
+register office	GREEN	uk_institutions
+deed poll	GREEN	uk_institutions
+British passport	GREEN	uk_institutions
+proof of address	GREEN	uk_institutions
+postcode	GREEN	uk_institutions
+first-class stamp	GREEN	uk_institutions
+recorded delivery	GREEN	uk_institutions
+postbox	GREEN	uk_institutions
+jury service	GREEN	uk_institutions
+solicitor	GREEN	uk_institutions
+barrister	GREEN	uk_institutions
+KC	GREEN	uk_institutions
+magistrate	GREEN	uk_institutions
+magistrates' court	GREEN	uk_institutions
+Crown Court	GREEN	uk_institutions
+Crown Prosecution Service	GREEN	uk_institutions
+legal aid	GREEN	uk_institutions
+Citizens Advice	GREEN	uk_institutions
+coroner	GREEN	uk_institutions
+police constable	GREEN	uk_institutions
+PCSO	GREEN	uk_institutions
+the Met	GREEN	uk_institutions
+caution	GREEN	uk_institutions
+on remand	GREEN	uk_institutions
+bail	GREEN	uk_institutions
+flat	GREEN	uk_us_home
+block of flats	GREEN	uk_us_home
+tower block	GREEN	uk_us_home
+lift	GREEN	uk_us_home
+ground floor	GREEN	uk_us_home
+first floor	GREEN	uk_us_home
+storey	GREEN	uk_us_home
+estate agent	GREEN	uk_us_home
+letting agent	GREEN	uk_us_home
+to let	GREEN	uk_us_home
+let	GREEN	uk_us_home
+tenancy agreement	GREEN	uk_us_home
+flatmate	GREEN	uk_us_home
+house share	GREEN	uk_us_home
+lodger	GREEN	uk_us_home
+semi-detached	GREEN	uk_us_home
+semi	AMBER	uk_us_home
+detached house	GREEN	uk_us_home
+terraced house	GREEN	uk_us_home
+end of terrace	GREEN	uk_us_home
+two-up two-down	AMBER	uk_us_home
+bungalow	GREEN	uk_us_home
+council house	GREEN	uk_us_home
+council estate	GREEN	uk_us_home
+housing estate	GREEN	uk_us_home
+bedsit	AMBER	uk_us_home
+studio flat	GREEN	uk_us_home
+maisonette	GREEN	uk_us_home
+granny flat	AMBER	uk_us_home
+annexe	GREEN	uk_us_home
+cottage	GREEN	uk_us_home
+mews	GREEN	uk_us_home
+new build	GREEN	uk_us_home
+doer-upper	AMBER	uk_us_home
+DIY	GREEN	uk_us_home
+mod cons	AMBER	uk_us_home
+gazump	AMBER	uk_us_home
+property chain	GREEN	uk_us_home
+removals	GREEN	uk_us_home
+caretaker	GREEN	uk_us_home
+neighbour	GREEN	uk_us_home
+garden	GREEN	uk_us_home
+back garden	GREEN	uk_us_home
+front garden	GREEN	uk_us_home
+yard	GREEN	uk_us_home
+shed	GREEN	uk_us_home
+conservatory	GREEN	uk_us_home
+loft	GREEN	uk_us_home
+cellar	GREEN	uk_us_home
+box room	AMBER	uk_us_home
+spare room	GREEN	uk_us_home
+en suite	GREEN	uk_us_home
+utility room	GREEN	uk_us_home
+landing	GREEN	uk_us_home
+lounge	GREEN	uk_us_home
+sitting room	GREEN	uk_us_home
+front room	AMBER	uk_us_home
+skirting board	GREEN	uk_us_home
+fitted carpet	GREEN	uk_us_home
+cupboard	GREEN	uk_us_home
+airing cupboard	GREEN	uk_us_home
+garage	GREEN	uk_us_home
+porch	GREEN	uk_us_home
+decking	GREEN	uk_us_home
+double glazing	GREEN	uk_us_home
+toilet	GREEN	uk_us_home
+bathroom	GREEN	uk_us_home
+lavatory	GREEN	uk_us_home
+downstairs loo	AMBER	uk_us_home
+cloakroom	GREEN	uk_us_home
+bath	GREEN	uk_us_home
+tap	GREEN	uk_us_home
+basin	GREEN	uk_us_home
+plughole	GREEN	uk_us_home
+power shower	GREEN	uk_us_home
+flannel	GREEN	uk_us_home
+toilet roll	GREEN	uk_us_home
+shower gel	GREEN	uk_us_home
+wash bag	GREEN	uk_us_home
+cotton wool	GREEN	uk_us_home
+cotton bud	GREEN	uk_us_home
+nail varnish	GREEN	uk_us_home
+hair straighteners	GREEN	uk_us_home
+hairgrip	GREEN	uk_us_home
+hair bobble	AMBER	uk_us_home
+Alice band	GREEN	uk_us_home
+fringe	GREEN	uk_us_home
+plait	GREEN	uk_us_home
+cooker	GREEN	uk_us_home
+hob	GREEN	uk_us_home
+grill	GREEN	uk_us_home
+worktop	GREEN	uk_us_home
+kitchen units	GREEN	uk_us_home
+extractor fan	GREEN	uk_us_home
+kettle	GREEN	uk_us_home
+fridge-freezer	GREEN	uk_us_home
+larder	GREEN	uk_us_home
+washing-up	GREEN	uk_us_home
+washing-up liquid	GREEN	uk_us_home
+washing-up bowl	GREEN	uk_us_home
+draining board	GREEN	uk_us_home
+tea towel	GREEN	uk_us_home
+kitchen roll	GREEN	uk_us_home
+cling film	GREEN	uk_us_home
+tin foil	GREEN	uk_us_home
+oven glove	GREEN	uk_us_home
+tin opener	GREEN	uk_us_home
+fish slice	GREEN	uk_us_home
+jug	GREEN	uk_us_home
+cutlery	GREEN	uk_us_home
+crockery	GREEN	uk_us_home
+bin	GREEN	uk_us_home
+dustbin	GREEN	uk_us_home
+wheelie bin	AMBER	uk_us_home
+bin bag	GREEN	uk_us_home
+bin day	AMBER	uk_us_home
+bin men	AMBER	uk_us_home
+skip	GREEN	uk_us_home
+hoover	AMBER	uk_us_home
+dustpan and brush	GREEN	uk_us_home
+washing powder	GREEN	uk_us_home
+fabric conditioner	GREEN	uk_us_home
+washing	GREEN	uk_us_home
+washing line	GREEN	uk_us_home
+clothes peg	GREEN	uk_us_home
+clothes horse	GREEN	uk_us_home
+tumble dryer	GREEN	uk_us_home
+launderette	GREEN	uk_us_home
+radiator	GREEN	uk_us_home
+central heating	GREEN	uk_us_home
+boiler	GREEN	uk_us_home
+combi boiler	GREEN	uk_us_home
+immersion heater	GREEN	uk_us_home
+plug socket	GREEN	uk_us_home
+plug	GREEN	uk_us_home
+extension lead	GREEN	uk_us_home
+lead	GREEN	uk_us_home
+fuse box	GREEN	uk_us_home
+mains	GREEN	uk_us_home
+torch	GREEN	uk_us_home
+hot water bottle	GREEN	uk_us_home
+duvet	GREEN	uk_us_home
+duvet cover	GREEN	uk_us_home
+tog	GREEN	uk_us_home
+eiderdown	GREEN	uk_us_home
+bedclothes	GREEN	uk_us_home
+bedside table	GREEN	uk_us_home
+chest of drawers	GREEN	uk_us_home
+dresser	GREEN	uk_us_home
+wardrobe	GREEN	uk_us_home
+sofa	GREEN	uk_us_home
+settee	AMBER	uk_us_home
+curtains	GREEN	uk_us_home
+net curtains	GREEN	uk_us_home
+flat-pack	GREEN	uk_us_home
+drawing pin	GREEN	uk_us_home
+Sellotape	GREEN	uk_us_home
+Blu Tack	GREEN	uk_us_home
+rubber	GREEN	uk_us_home
+biro	GREEN	uk_us_home
+post	GREEN	uk_us_home
+postman	GREEN	uk_us_home
+letterbox	GREEN	uk_us_home
+parcel	GREEN	uk_us_home
+hosepipe	GREEN	uk_us_home
+secateurs	GREEN	uk_us_home
+water butt	GREEN	uk_us_home
+jumper	GREEN	uk_us_home
+tank top	GREEN	uk_us_home
+trainers	GREEN	uk_us_home
+plimsolls	GREEN	uk_us_home
+trousers	GREEN	uk_us_home
+knickers	AMBER	uk_us_home
+Y-fronts	AMBER	uk_us_home
+vest	GREEN	uk_us_home
+waistcoat	GREEN	uk_us_home
+gilet	GREEN	uk_us_home
+dressing gown	GREEN	uk_us_home
+nightie	AMBER	uk_us_home
+pyjamas	GREEN	uk_us_home
+jim-jams	RED	uk_us_home
+braces	GREEN	uk_us_home
+suspenders	GREEN	uk_us_home
+tights	GREEN	uk_us_home
+ladder	GREEN	uk_us_home
+mac	AMBER	uk_us_home
+cagoule	GREEN	uk_us_home
+dinner jacket	GREEN	uk_us_home
+polo neck	GREEN	uk_us_home
+tracksuit bottoms	GREEN	uk_us_home
+tracksuit	GREEN	uk_us_home
+swimming costume	GREEN	uk_us_home
+cossie	RED	uk_us_home
+swimming trunks	GREEN	uk_us_home
+turn-ups	GREEN	uk_us_home
+flies	GREEN	uk_us_home
+zip	GREEN	uk_us_home
+popper	AMBER	uk_us_home
+smart	GREEN	uk_us_home
+dungarees	GREEN	uk_us_home
+overalls	GREEN	uk_us_home
+pinafore	GREEN	uk_us_home
+flat cap	GREEN	uk_us_home
+wax jacket	GREEN	uk_us_home
+bobble hat	GREEN	uk_us_home
+balaclava	GREEN	uk_us_home
+court shoes	GREEN	uk_us_home
+charity shop	GREEN	uk_us_home
+nappy	GREEN	uk_us_home
+changing bag	GREEN	uk_us_home
+dummy	GREEN	uk_us_home
+pram	GREEN	uk_us_home
+pushchair	GREEN	uk_us_home
+buggy	AMBER	uk_us_home
+cot	GREEN	uk_us_home
+camp bed	GREEN	uk_us_home
+Moses basket	GREEN	uk_us_home
+babygrow	GREEN	uk_us_home
+muslin	GREEN	uk_us_home
+wind	GREEN	uk_us_home
+mum	GREEN	uk_us_home
+mummy	AMBER	uk_us_home
+gran	AMBER	uk_us_home
+crèche	GREEN	uk_us_home
+childminder	GREEN	uk_us_home
+potty	GREEN	uk_us_home
+climbing frame	GREEN	uk_us_home
+see-saw	GREEN	uk_us_home
+sandpit	GREEN	uk_us_home
+paddling pool	GREEN	uk_us_home
+dolls' house	GREEN	uk_us_home
+noughts and crosses	GREEN	uk_us_home
+jigsaw	GREEN	uk_us_home
+colouring book	GREEN	uk_us_home
+mobile	GREEN	uk_us_home
+handbag	GREEN	uk_us_home
+purse	GREEN	uk_us_home
+bum bag	AMBER	uk_us_home
+rucksack	GREEN	uk_us_home
+holdall	GREEN	uk_us_home
+spectacles	GREEN	uk_us_home
+jewellery	GREEN	uk_us_home
+keyring	GREEN	uk_us_home
+flask	GREEN	uk_us_home
+cool box	GREEN	uk_us_home
+lilo	GREEN	uk_us_home
+pavement	GREEN	uk_us_transport
+footpath	GREEN	uk_us_transport
+kerb	GREEN	uk_us_transport
+verge	GREEN	uk_us_transport
+motorway	GREEN	uk_us_transport
+dual carriageway	GREEN	uk_us_transport
+carriageway	GREEN	uk_us_transport
+A-road	GREEN	uk_us_transport
+B-road	GREEN	uk_us_transport
+roundabout	GREEN	uk_us_transport
+mini-roundabout	GREEN	uk_us_transport
+junction	GREEN	uk_us_transport
+T-junction	GREEN	uk_us_transport
+crossroads	GREEN	uk_us_transport
+box junction	GREEN	uk_us_transport
+slip road	GREEN	uk_us_transport
+hard shoulder	GREEN	uk_us_transport
+central reservation	GREEN	uk_us_transport
+lay-by	GREEN	uk_us_transport
+flyover	GREEN	uk_us_transport
+subway	GREEN	uk_us_transport
+zebra crossing	GREEN	uk_us_transport
+Belisha beacon	GREEN	uk_us_transport
+pelican crossing	GREEN	uk_us_transport
+puffin crossing	GREEN	uk_us_transport
+toucan crossing	GREEN	uk_us_transport
+green man	GREEN	uk_us_transport
+traffic lights	GREEN	uk_us_transport
+amber	GREEN	uk_us_transport
+give way	GREEN	uk_us_transport
+tailback	AMBER	uk_us_transport
+roadworks	GREEN	uk_us_transport
+diversion	GREEN	uk_us_transport
+contraflow	GREEN	uk_us_transport
+one-way system	GREEN	uk_us_transport
+ring road	GREEN	uk_us_transport
+bypass	GREEN	uk_us_transport
+rat run	AMBER	uk_us_transport
+cat's eyes	GREEN	uk_us_transport
+sleeping policeman	AMBER	uk_us_transport
+traffic calming	GREEN	uk_us_transport
+speed camera	GREEN	uk_us_transport
+national speed limit	GREEN	uk_us_transport
+accident black spot	GREEN	uk_us_transport
+high street	GREEN	uk_us_transport
+bollard	GREEN	uk_us_transport
+traffic island	GREEN	uk_us_transport
+level crossing	GREEN	uk_us_transport
+cul-de-sac	GREEN	uk_us_transport
+no through road	GREEN	uk_us_transport
+bus lane	GREEN	uk_us_transport
+cycle lane	GREEN	uk_us_transport
+cycle path	GREEN	uk_us_transport
+cycle	GREEN	uk_us_transport
+push-bike	RED	uk_us_transport
+traffic warden	GREEN	uk_us_transport
+double yellow lines	GREEN	uk_us_transport
+wheel clamp	GREEN	uk_us_transport
+lollipop lady	AMBER	uk_us_transport
+the Highway Code	GREEN	uk_us_transport
+sat nav	AMBER	uk_us_transport
+school run	AMBER	uk_us_transport
+motorway services	AMBER	uk_us_transport
+congestion charge	GREEN	uk_us_transport
+single-track road	GREEN	uk_us_transport
+country lane	GREEN	uk_us_transport
+tarmac	GREEN	uk_us_transport
+ford	GREEN	uk_us_transport
+cattle grid	GREEN	uk_us_transport
+signposted	GREEN	uk_us_transport
+overtake	GREEN	uk_us_transport
+undertake	AMBER	uk_us_transport
+fast lane	AMBER	uk_us_transport
+inside lane	GREEN	uk_us_transport
+middle-lane hogging	AMBER	uk_us_transport
+nearside	GREEN	uk_us_transport
+reverse	GREEN	uk_us_transport
+dipped headlights	GREEN	uk_us_transport
+full beam	GREEN	uk_us_transport
+hazard lights	GREEN	uk_us_transport
+jump the lights	AMBER	uk_us_transport
+write-off	AMBER	uk_us_transport
+breakdown cover	GREEN	uk_us_transport
+recovery vehicle	GREEN	uk_us_transport
+jump leads	GREEN	uk_us_transport
+drink-driving	GREEN	uk_us_transport
+breathalyser	GREEN	uk_us_transport
+penalty points	GREEN	uk_us_transport
+driving ban	GREEN	uk_us_transport
+car hire	GREEN	uk_us_transport
+hire	GREEN	uk_us_transport
+car share	GREEN	uk_us_transport
+motorist	GREEN	uk_us_transport
+petrolhead	RED	uk_us_transport
+boy racer	RED	uk_us_transport
+car park	GREEN	uk_us_transport
+multi-storey	AMBER	uk_us_transport
+pay and display	GREEN	uk_us_transport
+parking bay	GREEN	uk_us_transport
+petrol	GREEN	uk_us_transport
+petrol station	GREEN	uk_us_transport
+forecourt	GREEN	uk_us_transport
+fill up	AMBER	uk_us_transport
+boot	GREEN	uk_us_transport
+bonnet	GREEN	uk_us_transport
+windscreen	GREEN	uk_us_transport
+wing mirror	GREEN	uk_us_transport
+wing	GREEN	uk_us_transport
+number plate	GREEN	uk_us_transport
+reg	AMBER	uk_us_transport
+indicator	GREEN	uk_us_transport
+gear stick	GREEN	uk_us_transport
+manual	GREEN	uk_us_transport
+gearbox	GREEN	uk_us_transport
+handbrake	GREEN	uk_us_transport
+tyre	GREEN	uk_us_transport
+puncture	GREEN	uk_us_transport
+silencer	GREEN	uk_us_transport
+glovebox	GREEN	uk_us_transport
+estate car	GREEN	uk_us_transport
+saloon	GREEN	uk_us_transport
+people carrier	GREEN	uk_us_transport
+4x4	AMBER	uk_us_transport
+lorry	GREEN	uk_us_transport
+articulated lorry	GREEN	uk_us_transport
+HGV	GREEN	uk_us_transport
+juggernaut	AMBER	uk_us_transport
+white van man	RED	uk_us_transport
+bin lorry	AMBER	uk_us_transport
+milk float	GREEN	uk_us_transport
+caravan	GREEN	uk_us_transport
+campervan	GREEN	uk_us_transport
+motorbike	AMBER	uk_us_transport
+MOT	GREEN	uk_us_transport
+road tax	AMBER	uk_us_transport
+driving licence	GREEN	uk_us_transport
+provisional licence	GREEN	uk_us_transport
+learner driver	GREEN	uk_us_transport
+L-plates	GREEN	uk_us_transport
+P plates	AMBER	uk_us_transport
+driving test	GREEN	uk_us_transport
+theory test	GREEN	uk_us_transport
+the Tube	AMBER	uk_us_transport
+the Underground	GREEN	uk_us_transport
+stand on the right	GREEN	uk_us_transport
+tap in	GREEN	uk_us_transport
+single	GREEN	uk_us_transport
+return	GREEN	uk_us_transport
+off-peak	GREEN	uk_us_transport
+railcard	GREEN	uk_us_transport
+advance ticket	GREEN	uk_us_transport
+platform	GREEN	uk_us_transport
+ticket barrier	GREEN	uk_us_transport
+ticket inspector	GREEN	uk_us_transport
+guard	GREEN	uk_us_transport
+penalty fare	GREEN	uk_us_transport
+fare dodger	AMBER	uk_us_transport
+carriage	GREEN	uk_us_transport
+quiet carriage	GREEN	uk_us_transport
+buffet car	GREEN	uk_us_transport
+standard class	GREEN	uk_us_transport
+coach	GREEN	uk_us_transport
+double-decker	GREEN	uk_us_transport
+request stop	GREEN	uk_us_transport
+bus pass	GREEN	uk_us_transport
+railway	GREEN	uk_us_transport
+points	GREEN	uk_us_transport
+signal box	GREEN	uk_us_transport
+signal failure	GREEN	uk_us_transport
+leaves on the line	AMBER	uk_us_transport
+engineering works	GREEN	uk_us_transport
+rail replacement bus	GREEN	uk_us_transport
+all change	GREEN	uk_us_transport
+direct	GREEN	uk_us_transport
+sleeper	GREEN	uk_us_transport
+commuter belt	GREEN	uk_us_transport
+tram	GREEN	uk_us_transport
+park and ride	GREEN	uk_us_transport
+black cab	GREEN	uk_us_transport
+minicab	GREEN	uk_us_transport
+taxi rank	GREEN	uk_us_transport
+the Knowledge	GREEN	uk_us_transport
+hand luggage	GREEN	uk_us_transport
+hold luggage	GREEN	uk_us_transport
+luggage trolley	GREEN	uk_us_transport
+aeroplane	GREEN	uk_us_transport
+departure lounge	GREEN	uk_us_transport
+boarding card	GREEN	uk_us_transport
+passport control	GREEN	uk_us_transport
+bureau de change	GREEN	uk_us_transport
+holidaymaker	GREEN	uk_us_transport
+fortnight	GREEN	uk_us_transport
+city break	GREEN	uk_us_transport
+package holiday	GREEN	uk_us_transport
+self-catering	GREEN	uk_us_transport
+B&B	GREEN	uk_us_transport
+guest house	GREEN	uk_us_transport
+youth hostel	GREEN	uk_us_transport
+holiday let	GREEN	uk_us_transport
+holiday park	GREEN	uk_us_transport
+abroad	GREEN	uk_us_transport
+en route	GREEN	uk_us_transport
+journey	GREEN	uk_us_transport
+booking	GREEN	uk_us_transport
+seafront	GREEN	uk_us_transport
+towpath	GREEN	uk_us_transport
+narrowboat	GREEN	uk_us_transport
+bridleway	GREEN	uk_us_transport
+Ordnance Survey	GREEN	uk_us_transport
+town centre	GREEN	uk_us_transport
+city centre	GREEN	uk_us_transport
+shopping centre	GREEN	uk_us_transport
+retail park	GREEN	uk_us_transport
+shopping parade	GREEN	uk_us_transport
+pedestrian precinct	GREEN	uk_us_transport
+arcade	GREEN	uk_us_transport
+market town	GREEN	uk_us_transport
+market square	GREEN	uk_us_transport
+hamlet	GREEN	uk_us_transport
+county town	GREEN	uk_us_transport
+conurbation	GREEN	uk_us_transport
+city	GREEN	uk_us_transport
+the City	GREEN	uk_us_transport
+post office	GREEN	uk_us_transport
+phone box	GREEN	uk_us_transport
+hole in the wall	RED	uk_us_transport
+town hall	GREEN	uk_us_transport
+leisure centre	GREEN	uk_us_transport
+public toilets	GREEN	uk_us_transport
+shop	GREEN	uk_us_transport
+shop assistant	GREEN	uk_us_transport
+newsagent	GREEN	uk_us_transport
+corner shop	GREEN	uk_us_transport
+off-licence	GREEN	uk_us_transport
+greengrocer's	GREEN	uk_us_transport
+ironmonger's	GREEN	uk_us_transport
+DIY shop	GREEN	uk_us_transport
+optician's	GREEN	uk_us_transport
+cobbler's	AMBER	uk_us_transport
+bookshop	GREEN	uk_us_transport
+till	GREEN	uk_us_transport
+trolley	GREEN	uk_us_transport
+carrier bag	GREEN	uk_us_transport
+opening hours	GREEN	uk_us_transport
+click and collect	GREEN	uk_us_transport
+loyalty card	GREEN	uk_us_transport

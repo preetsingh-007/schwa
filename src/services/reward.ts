@@ -116,6 +116,8 @@ export function compositeReward(o: {
   wordCoverage?: number;
   /** override the tier weights (listen-and-repeat) */
   weights?: [number, number, number];
+  /** blocker text when coverage fails (defaults to the read-aloud wording) */
+  coverageMessage?: string;
 }): RewardResult {
   let [w1, w2, w3] = o.weights ?? TIER_WEIGHTS[o.tier];
   if (o.phonetic === null) {
@@ -127,6 +129,6 @@ export function compositeReward(o: {
   const blockers: string[] = [];
   if (reward < PASS_THRESHOLD) blockers.push(`Reward ${reward.toFixed(0)} < ${PASS_THRESHOLD}`);
   if (o.tier !== 1 && o.criticalRedundancies > 0) blockers.push(`${o.criticalRedundancies} critical redundanc${o.criticalRedundancies === 1 ? 'y' : 'ies'} still present`);
-  if (o.tier === 1 && o.wordCoverage !== undefined && o.wordCoverage < 0.7) blockers.push('Read the whole prompt — some words were not heard');
+  if (o.tier === 1 && o.wordCoverage !== undefined && o.wordCoverage < 0.7) blockers.push(o.coverageMessage ?? 'Read the whole prompt — some words were not heard');
   return { reward, weights: [w1, w2, w3], phonetic: o.phonetic, prosody: o.prosody, lexical: o.lexical, passed: blockers.length === 0, blockers };
 }

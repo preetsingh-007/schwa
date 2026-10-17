@@ -5,6 +5,7 @@
  */
 import { phonemize } from 'phonemizer';
 import { buildConnectedTarget, clauseFinalFlags, splitWords, type TargetWord } from './connectedSpeech';
+import { G2P_OVERRIDES } from './g2pOverrides';
 
 export const G2P_VOICE = 'en-gb-x-rp';
 
@@ -38,7 +39,9 @@ export async function citationIpa(words: string[]): Promise<string[]> {
   const out: string[] = new Array(words.length).fill('');
   const todo: number[] = [];
   words.forEach((w, i) => {
-    const lex = LEXICON[w.toLowerCase()];
+    // Own-property lookups only: "constructor" or "toString" must not hit Object.prototype.
+    const k = w.toLowerCase();
+    const lex = Object.hasOwn(LEXICON, k) ? LEXICON[k] : Object.hasOwn(G2P_OVERRIDES, k) ? G2P_OVERRIDES[k] : undefined;
     if (lex) out[i] = lex; else todo.push(i);
   });
   if (todo.length) {

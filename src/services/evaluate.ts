@@ -10,6 +10,7 @@ import { newCard, review } from './fsrs';
 import { db, getLearner, markDirty } from './db';
 import { withStateLock } from './lock';
 import { nextShadowLevel } from './corpus';
+import { getEntry, nextWordBand } from './lexicon';
 import type { TargetWord } from '../lib/connectedSpeech';
 import { normalizeWord } from '../lib/connectedSpeech';
 import type { ProsodyMetrics } from '../lib/prosody';
@@ -74,6 +75,13 @@ function findWordIndex(target: TargetWord[], v: VocabEntry): number {
   return target.findIndex((w) => forms.some((f) => normalizeWord(w.text).startsWith(f.slice(0, Math.max(4, f.length - 2)))));
 }
 
+/** Core curriculum plus any lexicon entries the prompt targets (cards are looked up in the lexicon registry). */
+function vocabPool(data: CuratedData, ids: string[]): VocabEntry[] {
+  const core = new Set(data.vocab.map((v) => v.id));
+  const extra = ids.filter((id) => !core.has(id)).map((id) => getEntry(id)).filter((v): v is VocabEntry => !!v);
+  return [...data.vocab, ...extra];
+}
+
 export function evaluateTurn(input: TurnInput, data: CuratedData): TurnResult {
   const { prompt } = input;
   const tier = prompt.tier;
@@ -83,7 +91,8 @@ export function evaluateTurn(input: TurnInput, data: CuratedData): TurnResult {
   const prosodyBreakdown = prosodyScore(input.prosody, schwaRate, fillers, input.reference?.prosody);
 
   const concise = tier === 1 ? null : concisenessReport(input.transcript, data.rules);
-  const usedVocab = vocabUsed(input.transcript, data.vocab);
+  const pool = vocabPool(data, prompt.targetVocab);
+  const usedVocab = vocabUsed(input.transcript, pool);
   const lexical = concise
     ? lexicalScore({
       tier, concise, targetVocab: prompt.targetVocab, usedVocab,
@@ -92,7 +101,10 @@ export function evaluateTurn(input: TurnInput, data: CuratedData): TurnResult {
     })
     : null;
 
-  const coverage = tier === 1 ? wordCoverage(prompt.reference ?? prompt.text, input.transcript) : null;
+  // Name-it passes when the British word (or one of its forms) was said; read-aloud needs the words of the text.
+  const coverage = prompt.mode === 'nameit'
+    ? (prompt.cardId && usedVocab.includes(prompt.cardId) ? 1 : 0)
+    : tier === 1 ? wordCoverage(prompt.reference ?? prompt.text, input.transcript) : null;
   const reward = compositeReward({
     tier,
     phonetic: alignment ? phoneticScore(alignment) : null,
@@ -101,11 +113,12 @@ export function evaluateTurn(input: TurnInput, data: CuratedData): TurnResult {
     criticalRedundancies: concise?.critical ?? 0,
     wordCoverage: coverage ?? undefined,
     weights: prompt.mode === 'shadow' ? SHADOW_WEIGHTS : undefined,
+    coverageMessage: prompt.mode === 'nameit' ? `Say the British word — the answer is “${prompt.reference}”` : undefined,
   });
 
   const hesitatedVocab: string[] = [];
   const retrievalPauses: number[] = [];
-  const vocabById = new Map(data.vocab.map((v) => [v.id, v]));
+  const vocabById = new Map(pool.map((v) => [v.id, v]));
   if (alignment) {
     for (const id of usedVocab) {
       const v = vocabById.get(id);
@@ -165,10 +178,11 @@ async function commitTurnUnlocked(r: TurnResult, data: CuratedData): Promise<Ses
   const ids = new Set([...r.prompt.targetVocab, ...(r.tier === 3 ? r.usedVocab : [])]);
   const ctx = r.tier === 1 ? 'tier1' : r.tier === 2 ? 'tier2' : 'tier3';
   const cards = await db.vocab.bulkGet([...ids]);
-  const vocabById = new Map(data.vocab.map((v) => [v.id, v]));
+  const vocabById = new Map(vocabPool(data, [...ids]).map((v) => [v.id, v]));
   const updated = [...ids].map((id, k) => {
     const card = cards[k] ?? newCard(id, now);
-    const deployed = r.tier === 1 ? true : r.usedVocab.includes(id);
+    // Name-it turns only count if the word was actually said; read-aloud turns always deploy it.
+    const deployed = r.tier === 1 && r.prompt.mode !== 'nameit' ? true : r.usedVocab.includes(id);
     const v = vocabById.get(id);
     const wi = v ? findWordIndex(r.target, v) : -1;
     const status = wi >= 0 && r.alignment ? r.alignment.words[wi]?.status ?? 'unknown' : 'unknown';
@@ -182,7 +196,8 @@ async function commitTurnUnlocked(r: TurnResult, data: CuratedData): Promise<Ses
   });
 
   const stat = (await db.promptStats.get(r.prompt.id)) ?? { id: r.prompt.id, n: 0, lastServed: 0, bestReward: 0, passed: false, updatedAt: now };
-  const shadowLevel = r.prompt.mode === 'shadow' ? r.prompt.level ?? learner.shadowLevel ?? 1 : undefined;
+  // Only corpus sentences (which carry a level) drive listen-and-repeat level progression.
+  const shadowLevel = r.prompt.mode === 'shadow' && r.prompt.level !== undefined ? r.prompt.level : undefined;
   const log: SessionLog = {
     id: `${now.toString(36)}-${Math.random().toString(36).slice(2, 8)}`,
     ts: now,
@@ -212,6 +227,15 @@ async function commitTurnUnlocked(r: TurnResult, data: CuratedData): Promise<Ses
   if (shadowLevel !== undefined && shadowLevel === (learner.shadowLevel ?? 1)) {
     const recent = await db.sessions.orderBy('ts').reverse().filter((x) => x.shadowLevel === shadowLevel).limit(20).toArray();
     next.shadowLevel = nextShadowLevel(shadowLevel, [log, ...recent]);
+  }
+
+  // Words mode: move to the next frequency band once 80 % of the current one has been passed.
+  const card = r.prompt.cardId ? getEntry(r.prompt.cardId) : undefined;
+  if (card?.source === 'auto' && card.band && card.band === (learner.wordBand ?? 1) && r.reward.passed) {
+    const bandIds = new Set(r.prompt.cardId ? [r.prompt.id] : []);
+    const passed = await db.promptStats.filter((st) => st.passed && st.id.startsWith('sw:w_') && getEntry(st.id.slice(3))?.band === card.band).count();
+    const total = passed + (bandIds.size && !stat.passed ? 1 : 0);
+    next.wordBand = nextWordBand(card.band, total, 1000, 20);
   }
 
   await db.transaction('rw', [db.learner, db.vocab, db.promptStats, db.sessions], async () => {

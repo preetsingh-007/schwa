@@ -47,6 +47,40 @@ Tap the mode chip until it reads **Repeat** (Auto mode also mixes it in). The ne
 - **Neural RP voice:** [Kokoro-82M](https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX) en-GB voices (Emma, George, Fable, Isabella), q8, about 92 MB once, run in their own worker so they can be unloaded on low-memory devices. Renders are cached in IndexedDB (last 400), and the next sentence is rendered in the background while you work on the current one. The same voice drives "Hear RP", vocabulary cards and Commute Mode. If it is unavailable, the app falls back to the system voice.
 - **Rebuilding the corpus:** `python3 scripts/data-src/corpus.py <eng_sentences_detailed.tsv> <dir of Gutenberg .txt files>`, then `npm run annotate`.
 
+## Lexicon & Words mode
+
+The book icon opens a searchable lexicon. The **Words** mode (mode chip → *Words*) drills it by voice:
+
+- **{{CURATED}} curated British cards** in 11 categories:
+  - UK-vs-US vocabulary for food, home and transport;
+  - education, work, money and the NHS;
+  - culture, customs, sport and the pub;
+  - idioms, slang, phrasal verbs and everyday phrases;
+  - politeness and understatement ("what Britons really mean");
+  - tricky pronunciations and place names;
+  - precise professional vocabulary.
+
+  Each has a register badge, gloss, usage, pragmatics, a false-friend warning where relevant, 1–2 example sentences and RP IPA. Cards with a picture or a different American word become **"name it"** drills: you see the picture or the US term and *say* the British word. Every card also has a listen-and-repeat drill on its example sentence.
+- **{{WORDS}} automatic word cards**: the most frequent English lemmas from `wordfreq`, folded to dictionary headwords, with the most common WordNet sense, a real Tatoeba example sentence where one exists, RP IPA, and pronunciation tips generated from the phonemes (BATH, non-rhoticity, GOAT, yod, weak forms…). They are drilled band by band (top 1,000, then the next 1,000…), moving on once 80% of a band is passed.
+- **Reviews:** FSRS schedules every card you practise. Due reviews take priority over new cards.
+- **Pictures:** Wikipedia lead-image thumbnails for concrete things (every title is validated at build time, and broken or disambiguation pages are dropped), fetched only when shown and cached for offline use. Every card also links to Google Images, Wikipedia and the Cambridge Dictionary.
+- **Place names:** for famously irregular words (Southwark, Leominster, Mainwaring…) the authored RP IPA overrides espeak's spelling-based guess everywhere: the card, the scorer's target and the RP voice (`src/lib/g2pOverrides.ts`, generated).
+
+Build: `python3 scripts/data-src/words.py …` (see the header) → `npx vite-node scripts/build-lexicon.ts words_raw.json`. Curated cards live in `scripts/data-src/lexicon/*.json` (format and quality rules in `BRIEF.md`). They were written with AI assistance, then schema-validated, deduplicated and spot-checked. They have **not** been reviewed line by line by a human linguist.
+
+## More Tier 2 & Tier 3 prompts
+
+On top of the original 640 prompts, `public/prompts/` adds **{{T2}} Tier 2 compression items** and **{{T3}} Tier 3 monologue scenarios**, each written individually (no templates). They cover tech, the public sector, business services, everyday British life, careers and academia, workplace persuasion, explaining and presenting, social life, opinions and stories. `scripts/build-prompts.ts` validates every item:
+
+- the model answer is at most about 45% of the verbose length;
+- it triggers no critical redundancy rule;
+- it actually contains its target vocabulary;
+- targets resolve to real cards;
+- no slang targets appear in work scenarios;
+- duplicates are removed.
+
+The packs load in the background, and the bandit picks from all of them.
+
 ## Calibration against British reference speech
 
 The phoneme model (Stream B) was fine-tuned on transcripts labelled by espeak **en-US**, so part of what it outputs reflects the dictionary rather than the sound. Run on Kokoro's British voices, the uncalibrated scorer "heard" an /r/ in *car park*, an American GOAT vowel in *go*, and unreduced *of*/*but*. In other words, it penalised genuine RP.

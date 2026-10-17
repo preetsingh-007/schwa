@@ -1,0 +1,4931 @@
+[
+  {
+    "headword": "ameliorate",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To make a bad or difficult situation better or more bearable.",
+    "usage": "Rare and very formal, found mostly in academic, policy and legal writing rather than speech.",
+    "pragmatic_note": "In a meeting it can sound showy; 'improve' or 'ease' usually lands better aloud.",
+    "pitfall": "Do not confuse with 'alleviate', which means to lessen pain or a problem rather than improve it overall.",
+    "examples": [
+      "The new rota should ameliorate the worst of the staffing pressures.",
+      "Measures to ameliorate the impact on smaller suppliers are under review."
+    ],
+    "collocations": [
+      "ameliorate the effects",
+      "ameliorate conditions"
+    ],
+    "wiki": null,
+    "forms": [
+      "ameliorates",
+      "ameliorated",
+      "ameliorating",
+      "amelioration"
+    ]
+  },
+  {
+    "headword": "articulate",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "(verb) To express an idea or feeling clearly and coherently in words.",
+    "usage": "Common in meetings, appraisals and academic writing when talking about stating a position or vision clearly.",
+    "pragmatic_note": "Praising a colleague as 'articulate' can sound patronising if it implies surprise, so use it carefully.",
+    "pitfall": "The verb ends /-leɪt/; the adjective ends /-lət/, so the two are pronounced differently.",
+    "examples": [
+      "Could you articulate what you see as the main risk?",
+      "She articulated the case for change far better than the report did."
+    ],
+    "collocations": [
+      "articulate a vision",
+      "clearly articulated",
+      "articulate concerns"
+    ],
+    "wiki": null,
+    "forms": [
+      "articulates",
+      "articulated",
+      "articulating"
+    ]
+  },
+  {
+    "headword": "benchmark",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A standard or reference point against which performance or quality can be measured.",
+    "usage": "Used across business, finance and research as a noun and a verb ('to benchmark against competitors').",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We benchmarked our response times against the rest of the sector.",
+      "That figure has become the benchmark for future bids."
+    ],
+    "collocations": [
+      "industry benchmark",
+      "benchmark against",
+      "set a benchmark"
+    ],
+    "wiki": null,
+    "forms": [
+      "benchmarks",
+      "benchmarked",
+      "benchmarking"
+    ]
+  },
+  {
+    "headword": "buy-in",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Genuine agreement and commitment to a plan from the people who must support or carry it out.",
+    "usage": "Standard corporate noun in British offices, especially around change programmes and new policies.",
+    "pragmatic_note": "It is mild jargon; in formal writing 'support' or 'commitment' can sound less managerial.",
+    "pitfall": "It is a noun with a hyphen; do not say 'we need to buy-in the team'.",
+    "examples": [
+      "Without buy-in from the regional managers, the restructure won't stick.",
+      "We need senior buy-in before we take this any further."
+    ],
+    "collocations": [
+      "get buy-in",
+      "senior buy-in",
+      "stakeholder buy-in"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "candour",
+    "register": "GREEN",
+    "us_equivalent": "candor",
+    "gloss": "The quality of being open, honest and frank, especially about uncomfortable matters.",
+    "usage": "Used in formal and professional contexts; the NHS and public bodies speak of a 'duty of candour'.",
+    "pragmatic_note": "Britons often soften it: 'in all candour' or 'to be candid' signals that a blunt truth is coming.",
+    "pitfall": "UK spelling is 'candour', not 'candor'.",
+    "examples": [
+      "I appreciated his candour about what went wrong.",
+      "In all candour, the figures don't support the plan."
+    ],
+    "collocations": [
+      "in all candour",
+      "duty of candour",
+      "refreshing candour"
+    ],
+    "wiki": null,
+    "forms": [
+      "candid",
+      "candidly"
+    ]
+  },
+  {
+    "headword": "cogent",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Clear, logical and convincing, especially of an argument or explanation.",
+    "usage": "Formal word used in reports, academic feedback and legal or policy discussion.",
+    "pragmatic_note": "Calling a case 'cogent' is high praise in a British meeting, often stronger than it sounds.",
+    "pitfall": "Pronounced /ˈkəʊdʒənt/ with a soft g, not a hard one.",
+    "examples": [
+      "She made a cogent case for delaying the launch.",
+      "The proposal is cogent, but the costings need work."
+    ],
+    "collocations": [
+      "cogent argument",
+      "cogent case",
+      "cogent reasons"
+    ],
+    "wiki": null,
+    "forms": [
+      "cogently"
+    ]
+  },
+  {
+    "headword": "compelling",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "So persuasive or interesting that it is hard to resist or ignore.",
+    "usage": "Very common in business and academic contexts to describe evidence, arguments and cases.",
+    "pragmatic_note": "'A compelling case' is a set phrase in pitches; overuse can make it sound like marketing copy.",
+    "pitfall": null,
+    "examples": [
+      "The evidence for switching suppliers is fairly compelling.",
+      "We need a more compelling story for investors."
+    ],
+    "collocations": [
+      "compelling case",
+      "compelling evidence",
+      "compelling reason"
+    ],
+    "wiki": null,
+    "forms": [
+      "compellingly"
+    ]
+  },
+  {
+    "headword": "concede",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To admit, often reluctantly, that something is true or that the other side has a point.",
+    "usage": "Used in negotiations, debates and reports, and in sport and politics for admitting defeat.",
+    "pragmatic_note": "'I'll concede that...' is a graceful British way to acknowledge a point before disagreeing.",
+    "pitfall": null,
+    "examples": [
+      "I concede the timeline was optimistic.",
+      "They conceded the point on pricing but held firm on delivery dates."
+    ],
+    "collocations": [
+      "concede a point",
+      "concede defeat",
+      "reluctantly concede"
+    ],
+    "wiki": null,
+    "forms": [
+      "concedes",
+      "conceded",
+      "conceding",
+      "concession"
+    ]
+  },
+  {
+    "headword": "conducive",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Making a certain situation or outcome likely or possible.",
+    "usage": "Formal word, almost always followed by 'to', used in reports, HR and academic writing.",
+    "pragmatic_note": null,
+    "pitfall": "It takes 'to', not 'for': 'conducive to learning', not 'conducive for learning'.",
+    "examples": [
+      "An open-plan office isn't always conducive to concentration.",
+      "The current climate is hardly conducive to investment."
+    ],
+    "collocations": [
+      "conducive to",
+      "conducive environment"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "corroborate",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To confirm or give support to a statement, theory or finding with further evidence.",
+    "usage": "Used in reports, research, audits and legal contexts when one source backs up another.",
+    "pragmatic_note": null,
+    "pitfall": "It means to support with evidence, not simply to agree with someone's opinion.",
+    "examples": [
+      "Can anyone corroborate those figures?",
+      "The survey results corroborate what we heard in the focus groups."
+    ],
+    "collocations": [
+      "corroborating evidence",
+      "independently corroborated"
+    ],
+    "wiki": null,
+    "forms": [
+      "corroborates",
+      "corroborated",
+      "corroborating",
+      "corroboration"
+    ]
+  },
+  {
+    "headword": "crystallise",
+    "register": "GREEN",
+    "us_equivalent": "crystallize",
+    "gloss": "To make an idea or plan clear and definite, or to become clear and definite.",
+    "usage": "Common in strategy discussions and academic writing for when thinking takes firm shape.",
+    "pragmatic_note": null,
+    "pitfall": "UK spelling usually takes -ise, though Oxford style permits -ize.",
+    "examples": [
+      "The workshop helped crystallise our thinking on pricing.",
+      "Her doubts crystallised once she saw the contract."
+    ],
+    "collocations": [
+      "crystallise thinking",
+      "crystallise into"
+    ],
+    "wiki": null,
+    "forms": [
+      "crystallises",
+      "crystallised",
+      "crystallising"
+    ]
+  },
+  {
+    "headword": "delineate",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To describe or mark out something precisely, such as boundaries, roles or responsibilities.",
+    "usage": "Formal word used in reports, contracts and project documents.",
+    "pragmatic_note": null,
+    "pitfall": "Pronounced /dɪˈlɪnieɪt/, with four syllables.",
+    "examples": [
+      "The contract should delineate exactly who owns the data.",
+      "Roles weren't clearly delineated, so work fell between the cracks."
+    ],
+    "collocations": [
+      "clearly delineate",
+      "delineate responsibilities",
+      "delineate boundaries"
+    ],
+    "wiki": null,
+    "forms": [
+      "delineates",
+      "delineated",
+      "delineating"
+    ]
+  },
+  {
+    "headword": "deliverable",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A specific product, report or outcome that a project or contract must produce.",
+    "usage": "Standard in project management, consultancy and research funding; usually plural.",
+    "pragmatic_note": "As an adjective ('is that deliverable?') it sounds more like jargon than as a noun.",
+    "pitfall": null,
+    "examples": [
+      "What are the key deliverables for the first phase?",
+      "The final deliverable is a twenty-page report and a presentation."
+    ],
+    "collocations": [
+      "key deliverables",
+      "project deliverables",
+      "agree the deliverables"
+    ],
+    "wiki": null,
+    "forms": [
+      "deliverables"
+    ]
+  },
+  {
+    "headword": "due diligence",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Careful investigation of a business, deal or person before committing to an agreement.",
+    "usage": "Standard in law, finance, mergers and procurement, and more loosely for any careful checking.",
+    "pragmatic_note": null,
+    "pitfall": "It is uncountable: 'carry out due diligence', not 'a due diligence'.",
+    "examples": [
+      "We'll need to do our due diligence before signing anything.",
+      "The deal collapsed during due diligence."
+    ],
+    "collocations": [
+      "carry out due diligence",
+      "do your due diligence",
+      "financial due diligence"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "envisage",
+    "register": "GREEN",
+    "us_equivalent": "envision",
+    "gloss": "To imagine or expect something as a likely or desirable future possibility.",
+    "usage": "The usual British choice in planning and policy talk; 'envision' sounds more American.",
+    "pragmatic_note": null,
+    "pitfall": "Do not say 'envisage to do'; say 'envisage doing' or 'envisage that'.",
+    "examples": [
+      "We envisage the new system being live by spring.",
+      "I don't envisage any major problems."
+    ],
+    "collocations": [
+      "envisage a role",
+      "envisage that",
+      "as envisaged"
+    ],
+    "wiki": null,
+    "forms": [
+      "envisages",
+      "envisaged",
+      "envisaging"
+    ]
+  },
+  {
+    "headword": "exacerbate",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To make a problem, bad situation or negative feeling worse.",
+    "usage": "Common in reports, news and meetings when describing how a decision or event worsens things.",
+    "pragmatic_note": null,
+    "pitfall": "Pronounced /ɪɡˈzæsəbeɪt/; do not confuse with 'exasperate', which means to annoy.",
+    "examples": [
+      "Cutting the training budget would only exacerbate the skills gap.",
+      "Delays were exacerbated by the bad weather."
+    ],
+    "collocations": [
+      "exacerbate the problem",
+      "further exacerbate"
+    ],
+    "wiki": null,
+    "forms": [
+      "exacerbates",
+      "exacerbated",
+      "exacerbating"
+    ]
+  },
+  {
+    "headword": "expedient",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Convenient and practical, though possibly not quite fair, principled or right.",
+    "usage": "Used in politics, business and ethics discussions, often with a hint of criticism.",
+    "pragmatic_note": "Calling a decision 'politically expedient' in Britain usually implies it was cynical.",
+    "pitfall": "It is not the same as 'expeditious' (fast); expedient is about convenience.",
+    "examples": [
+      "It was expedient to delay the announcement until after the results.",
+      "The cheapest option isn't always the most expedient."
+    ],
+    "collocations": [
+      "politically expedient",
+      "expedient solution"
+    ],
+    "wiki": null,
+    "forms": [
+      "expediency"
+    ]
+  },
+  {
+    "headword": "facilitate",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To make an action or process easier, or to run a workshop or discussion neutrally.",
+    "usage": "Very common in British workplaces, training and academia; a 'facilitator' runs sessions.",
+    "pragmatic_note": "It can sound bureaucratic; 'help' or 'make easier' is often fine aloud.",
+    "pitfall": "You facilitate a process, not a person: say 'help staff', not 'facilitate staff'.",
+    "examples": [
+      "The new portal should facilitate quicker approvals.",
+      "Would you be happy to facilitate the afternoon session?"
+    ],
+    "collocations": [
+      "facilitate a discussion",
+      "facilitate access",
+      "facilitate change"
+    ],
+    "wiki": null,
+    "forms": [
+      "facilitates",
+      "facilitated",
+      "facilitating",
+      "facilitator"
+    ]
+  },
+  {
+    "headword": "feasibility",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The degree to which something can realistically be done or achieved.",
+    "usage": "Standard in planning and project work, especially in 'feasibility study'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We've commissioned a feasibility study before committing any funds.",
+      "The feasibility of the timeline is my main concern."
+    ],
+    "collocations": [
+      "feasibility study",
+      "technical feasibility",
+      "assess the feasibility"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "forthcoming",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "About to happen or appear; also, of a person, willing to share information.",
+    "usage": "Used in announcements and reports, and in the negative to say information or money has not appeared.",
+    "pragmatic_note": "'Not very forthcoming' is a polite British way of saying someone was evasive.",
+    "pitfall": null,
+    "examples": [
+      "Details of the forthcoming changes will be shared next week.",
+      "Funding was not forthcoming, so the pilot was shelved."
+    ],
+    "collocations": [
+      "forthcoming changes",
+      "not forthcoming",
+      "forthcoming about"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "galvanise",
+    "register": "GREEN",
+    "us_equivalent": "galvanize",
+    "gloss": "To shock or excite people into taking action.",
+    "usage": "Used in leadership, campaigning and news contexts about motivating a group.",
+    "pragmatic_note": null,
+    "pitfall": "UK spelling usually takes -ise.",
+    "examples": [
+      "The client complaint galvanised the team into action.",
+      "We need something to galvanise support for the campaign."
+    ],
+    "collocations": [
+      "galvanise into action",
+      "galvanise support"
+    ],
+    "wiki": null,
+    "forms": [
+      "galvanises",
+      "galvanised",
+      "galvanising"
+    ]
+  },
+  {
+    "headword": "headwinds",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Economic or business conditions that slow progress or make growth harder.",
+    "usage": "Common in financial reporting, earnings calls and business journalism.",
+    "pragmatic_note": "It is a slightly clichéd metaphor, but finance professionals use it routinely.",
+    "pitfall": "Usually plural in this sense; the opposite is 'tailwinds'.",
+    "examples": [
+      "We're facing significant headwinds from rising costs.",
+      "Despite economic headwinds, sales held up well."
+    ],
+    "collocations": [
+      "economic headwinds",
+      "face headwinds",
+      "significant headwinds"
+    ],
+    "wiki": null,
+    "forms": [
+      "headwind"
+    ]
+  },
+  {
+    "headword": "hinder",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To make it difficult for something to happen or for someone to make progress.",
+    "usage": "Neutral-formal verb used in reports, meetings and everyday speech.",
+    "pragmatic_note": null,
+    "pitfall": "Pronounced /ˈhɪndə/; do not confuse with 'hind' /haɪnd/.",
+    "examples": [
+      "Poor communication hindered progress on the project.",
+      "Unclear guidance may hinder rather than help."
+    ],
+    "collocations": [
+      "hinder progress",
+      "hinder growth",
+      "help or hinder"
+    ],
+    "wiki": null,
+    "forms": [
+      "hinders",
+      "hindered",
+      "hindering",
+      "hindrance"
+    ]
+  },
+  {
+    "headword": "impetus",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Something that gives energy or motivation to a process or activity.",
+    "usage": "Used in business, policy and academic writing about what drives change.",
+    "pragmatic_note": null,
+    "pitfall": "Stress the first syllable: /ˈɪmpɪtəs/.",
+    "examples": [
+      "The merger gave fresh impetus to the restructuring.",
+      "The main impetus for change came from customers."
+    ],
+    "collocations": [
+      "fresh impetus",
+      "give impetus to",
+      "the impetus for"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "implement",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "(verb) To put a plan, decision or system into effect.",
+    "usage": "Standard in project, policy and IT contexts; 'implementation' is equally common.",
+    "pragmatic_note": null,
+    "pitfall": "The verb ends /-ment/ with a full vowel; the noun 'an implement' (a tool) ends /-mənt/.",
+    "examples": [
+      "We'll implement the new process from next quarter.",
+      "The policy was poorly implemented."
+    ],
+    "collocations": [
+      "implement changes",
+      "fully implement",
+      "implementation plan"
+    ],
+    "wiki": null,
+    "forms": [
+      "implements",
+      "implemented",
+      "implementing",
+      "implementation"
+    ]
+  },
+  {
+    "headword": "in tandem",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Together, at the same time, or working alongside each other.",
+    "usage": "Neutral-formal phrase used in reports, meetings and project planning.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The two workstreams will run in tandem.",
+      "We're working in tandem with the legal team."
+    ],
+    "collocations": [
+      "run in tandem",
+      "work in tandem with"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "inherent",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Existing as a permanent, essential part of something.",
+    "usage": "Common in risk, legal and academic discussion, often in 'inherent risk'.",
+    "pragmatic_note": null,
+    "pitfall": "UK pronunciation is usually /ɪnˈhɪərənt/; it takes 'in': 'inherent in the system'.",
+    "examples": [
+      "There are risks inherent in any acquisition.",
+      "The flaw is inherent in the design."
+    ],
+    "collocations": [
+      "inherent risk",
+      "inherent in",
+      "inherently"
+    ],
+    "wiki": null,
+    "forms": [
+      "inherently"
+    ]
+  },
+  {
+    "headword": "interim",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Temporary, for the period before something permanent is arranged.",
+    "usage": "Used for roles, reports and arrangements ('interim chief executive', 'in the interim').",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She's been appointed interim head of department.",
+      "In the interim, please send queries to me."
+    ],
+    "collocations": [
+      "interim report",
+      "in the interim",
+      "interim measure"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "juncture",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A particular point in time, especially a critical one in a process.",
+    "usage": "Formal word, mostly in 'at this juncture', used in meetings, speeches and reports.",
+    "pragmatic_note": "'At this juncture' can sound pompous in casual meetings; 'at this point' is plainer.",
+    "pitfall": null,
+    "examples": [
+      "At this juncture, I'd suggest we pause and review.",
+      "We've reached a critical juncture in the negotiations."
+    ],
+    "collocations": [
+      "at this juncture",
+      "critical juncture"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "leverage",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "(verb) To use something you have to maximum advantage; (noun) power to influence a negotiation.",
+    "usage": "The verb is widespread in corporate British offices, though many still regard it as American jargon.",
+    "pragmatic_note": "Plain-English advocates in the UK dislike 'leverage' as a verb; 'use' or 'build on' often sounds better.",
+    "pitfall": "The British pronunciation is /ˈliːvərɪdʒ/, not the American /ˈlevərɪdʒ/.",
+    "examples": [
+      "We could leverage our existing client base.",
+      "Their deadline gives us some leverage in the negotiation."
+    ],
+    "collocations": [
+      "leverage expertise",
+      "gain leverage",
+      "financial leverage"
+    ],
+    "wiki": null,
+    "forms": [
+      "leverages",
+      "leveraged",
+      "leveraging"
+    ]
+  },
+  {
+    "headword": "liaise",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To work closely and share information with another person or group.",
+    "usage": "Very common in British workplaces; 'liaise with' is the standard pattern.",
+    "pragmatic_note": null,
+    "pitfall": "Pronounced /liˈeɪz/; it takes 'with', and 'liaison' is the noun.",
+    "examples": [
+      "I'll liaise with finance and come back to you.",
+      "Could you liaise between the two teams?"
+    ],
+    "collocations": [
+      "liaise with",
+      "liaise closely",
+      "liaison officer"
+    ],
+    "wiki": null,
+    "forms": [
+      "liaises",
+      "liaised",
+      "liaising",
+      "liaison"
+    ]
+  },
+  {
+    "headword": "linchpin",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The person or thing that is vital to holding a whole system or plan together.",
+    "usage": "Used in business, sport and politics for a key person or element.",
+    "pragmatic_note": null,
+    "pitfall": "Also spelt 'lynchpin' in British English; both are correct.",
+    "examples": [
+      "She's the linchpin of the whole operation.",
+      "Customer trust is the linchpin of our strategy."
+    ],
+    "collocations": [
+      "the linchpin of"
+    ],
+    "wiki": null,
+    "forms": [
+      "lynchpin",
+      "linchpins",
+      "lynchpins"
+    ]
+  },
+  {
+    "headword": "mandate",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "(noun) Official authority to act; (verb) to require something officially.",
+    "usage": "Common in politics, governance and business ('a clear mandate'); the verb sense is more American.",
+    "pragmatic_note": null,
+    "pitfall": "In UK politics a 'mandate' is authority won at an election, so 'a mandate for change' sounds political.",
+    "examples": [
+      "The board has given us a clear mandate to cut costs.",
+      "Training on data protection is mandated for all staff."
+    ],
+    "collocations": [
+      "clear mandate",
+      "a mandate for",
+      "mandated by"
+    ],
+    "wiki": null,
+    "forms": [
+      "mandates",
+      "mandated",
+      "mandating",
+      "mandatory"
+    ]
+  },
+  {
+    "headword": "momentum",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The force or speed of progress that keeps a process moving forward.",
+    "usage": "Used across meetings, sport, politics and project updates.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We mustn't lose momentum over the summer.",
+      "The campaign is gathering momentum."
+    ],
+    "collocations": [
+      "gather momentum",
+      "lose momentum",
+      "maintain momentum"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "nuanced",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Showing awareness of subtle differences, rather than seeing things in simple black and white.",
+    "usage": "Used in academic, policy and professional discussion to praise careful thinking.",
+    "pragmatic_note": "'It's a bit more nuanced than that' is a polite British way to say someone is oversimplifying.",
+    "pitfall": null,
+    "examples": [
+      "We need a more nuanced view of customer behaviour.",
+      "It's a more nuanced picture than the headline suggests."
+    ],
+    "collocations": [
+      "nuanced view",
+      "nuanced approach",
+      "more nuanced"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "onus",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The responsibility or duty to do something, such as prove a claim or take action.",
+    "usage": "Formal word used in meetings, law and reports, especially 'the onus is on'.",
+    "pragmatic_note": null,
+    "pitfall": "Pronounced /ˈəʊnəs/, not /ˈɒnəs/.",
+    "examples": [
+      "The onus is on the supplier to prove the fault.",
+      "That puts the onus on us to follow up."
+    ],
+    "collocations": [
+      "the onus is on",
+      "put the onus on",
+      "onus of proof"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "outlay",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An amount of money spent, especially at the start of a project or investment.",
+    "usage": "Common in finance, small business and household budgeting.",
+    "pragmatic_note": null,
+    "pitfall": "It is a noun stressed on the first syllable: /ˈaʊtleɪ/.",
+    "examples": [
+      "The initial outlay is high, but it pays for itself in two years.",
+      "We need to recover our outlay first."
+    ],
+    "collocations": [
+      "initial outlay",
+      "capital outlay"
+    ],
+    "wiki": null,
+    "forms": [
+      "outlays"
+    ]
+  },
+  {
+    "headword": "paradigm",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A typical model or pattern of thinking within which ideas and practices operate.",
+    "usage": "Precise in academic and scientific writing; widely mocked when used loosely in business.",
+    "pragmatic_note": "'Paradigm shift' is a well-worn corporate cliché, so many British listeners will wince at it.",
+    "pitfall": "Pronounced /ˈpærədaɪm/; the g is silent.",
+    "examples": [
+      "Remote working has changed the paradigm for office design.",
+      "The study challenges the dominant paradigm in the field."
+    ],
+    "collocations": [
+      "paradigm shift",
+      "dominant paradigm"
+    ],
+    "wiki": null,
+    "forms": [
+      "paradigms"
+    ]
+  },
+  {
+    "headword": "pertinent",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Relevant and directly related to the matter being discussed.",
+    "usage": "Formal word common in meetings, reports and academic contexts.",
+    "pragmatic_note": "'That's a very pertinent question' is a polite way to praise a sharp point.",
+    "pitfall": null,
+    "examples": [
+      "That's a very pertinent point.",
+      "Please include only pertinent information in the summary."
+    ],
+    "collocations": [
+      "pertinent question",
+      "pertinent to",
+      "pertinent information"
+    ],
+    "wiki": null,
+    "forms": [
+      "pertinence"
+    ]
+  },
+  {
+    "headword": "precedent",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An earlier action or decision used as an example or justification for later ones.",
+    "usage": "Common in law, policy, HR and negotiations ('set a precedent').",
+    "pragmatic_note": "'I don't want to set a precedent' is a common British way to refuse a one-off request.",
+    "pitfall": "The noun is /ˈpresɪdənt/, sounding very close to 'president'; context makes it clear.",
+    "examples": [
+      "Agreeing to this would set a dangerous precedent.",
+      "There's no precedent for a deal of this size."
+    ],
+    "collocations": [
+      "set a precedent",
+      "without precedent",
+      "legal precedent"
+    ],
+    "wiki": null,
+    "forms": [
+      "precedents"
+    ]
+  },
+  {
+    "headword": "premise",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An idea or statement on which an argument, plan or theory is based.",
+    "usage": "Used in arguments, reports and pitches ('the premise of the proposal').",
+    "pragmatic_note": null,
+    "pitfall": "'Premises' (plural) also means a building and its land: 'on the premises'.",
+    "examples": [
+      "The whole plan rests on a false premise.",
+      "The basic premise is sound, but the numbers aren't."
+    ],
+    "collocations": [
+      "basic premise",
+      "on the premise that",
+      "false premise"
+    ],
+    "wiki": null,
+    "forms": [
+      "premises"
+    ]
+  },
+  {
+    "headword": "prerogative",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A right or privilege belonging to a particular person or role.",
+    "usage": "Formal word used in governance and everyday speech ('that's your prerogative').",
+    "pragmatic_note": "'That's entirely your prerogative' can be a cool, polite way of signalling disapproval.",
+    "pitfall": "Pronounced /prɪˈrɒɡətɪv/; do not drop the first r ('perogative').",
+    "examples": [
+      "Hiring decisions are the director's prerogative.",
+      "It's your prerogative to decline, of course."
+    ],
+    "collocations": [
+      "royal prerogative",
+      "your prerogative"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "prospective",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Expected or likely to become something in the future, such as a client or employee.",
+    "usage": "Common in sales, HR and admissions ('prospective clients', 'prospective students').",
+    "pragmatic_note": null,
+    "pitfall": "Do not confuse with 'perspective' (a point of view).",
+    "examples": [
+      "We're meeting a prospective client on Thursday.",
+      "Prospective candidates should send a CV and covering letter."
+    ],
+    "collocations": [
+      "prospective client",
+      "prospective buyer",
+      "prospective employer"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "protracted",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Lasting much longer than expected or than is usual.",
+    "usage": "Formal word used for negotiations, disputes and legal processes.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "After protracted negotiations, the deal was finally signed.",
+      "We want to avoid a protracted legal dispute."
+    ],
+    "collocations": [
+      "protracted negotiations",
+      "protracted dispute"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "rationale",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The set of reasons or logic behind a decision or course of action.",
+    "usage": "Common in reports, proposals and meetings ('what's the rationale for...?').",
+    "pragmatic_note": null,
+    "pitfall": "Pronounced /ˌræʃəˈnɑːl/, stressed on the last syllable, unlike 'rational'.",
+    "examples": [
+      "Could you explain the rationale behind the price rise?",
+      "The rationale is set out in section two."
+    ],
+    "collocations": [
+      "the rationale behind",
+      "clear rationale",
+      "rationale for"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "recoup",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To get back money or time that has been spent or lost.",
+    "usage": "Common in finance, business planning and everyday talk about costs.",
+    "pragmatic_note": null,
+    "pitfall": "Pronounced /rɪˈkuːp/.",
+    "examples": [
+      "It'll take about three years to recoup the investment.",
+      "We hope to recoup some of the costs through sponsorship."
+    ],
+    "collocations": [
+      "recoup costs",
+      "recoup losses",
+      "recoup the investment"
+    ],
+    "wiki": null,
+    "forms": [
+      "recoups",
+      "recouped",
+      "recouping"
+    ]
+  },
+  {
+    "headword": "remit",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "(noun) The area of responsibility or authority given to a person, team or body.",
+    "usage": "A distinctly British workplace noun ('that's outside my remit'), stressed on the first syllable.",
+    "pragmatic_note": "'That's not really within my remit' is a polite British way to decline a task.",
+    "pitfall": "The noun is /ˈriːmɪt/; the verb 'to remit' money is /rɪˈmɪt/.",
+    "examples": [
+      "That decision falls outside my remit.",
+      "The committee's remit is to review pay and conditions."
+    ],
+    "collocations": [
+      "within my remit",
+      "outside the remit",
+      "broad remit"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "scalable",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Able to grow or be expanded easily without losing effectiveness or efficiency.",
+    "usage": "Common in tech, start-ups, operations and investment discussions.",
+    "pragmatic_note": "It is a buzzword in start-up pitches, so back it up with specifics.",
+    "pitfall": null,
+    "examples": [
+      "The current process isn't scalable beyond a few hundred clients.",
+      "Investors want a scalable business model."
+    ],
+    "collocations": [
+      "scalable solution",
+      "highly scalable",
+      "scalable model"
+    ],
+    "wiki": null,
+    "forms": [
+      "scalability"
+    ]
+  },
+  {
+    "headword": "scrutinise",
+    "register": "GREEN",
+    "us_equivalent": "scrutinize",
+    "gloss": "To examine something very carefully and critically.",
+    "usage": "Used in audits, parliament, journalism and reviewing documents.",
+    "pragmatic_note": "In UK politics, 'scrutiny' is the formal job of committees holding government to account.",
+    "pitfall": "UK spelling usually takes -ise.",
+    "examples": [
+      "The auditors will scrutinise every invoice.",
+      "The proposals are being closely scrutinised by the board."
+    ],
+    "collocations": [
+      "closely scrutinise",
+      "under scrutiny",
+      "public scrutiny"
+    ],
+    "wiki": null,
+    "forms": [
+      "scrutinises",
+      "scrutinised",
+      "scrutinising",
+      "scrutiny"
+    ]
+  },
+  {
+    "headword": "shortfall",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An amount by which something falls short of what is needed or expected.",
+    "usage": "Common in finance, staffing and public sector budgets ('a funding shortfall').",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We're facing a shortfall of about ten per cent.",
+      "The council needs to plug a budget shortfall."
+    ],
+    "collocations": [
+      "funding shortfall",
+      "budget shortfall",
+      "plug the shortfall"
+    ],
+    "wiki": null,
+    "forms": [
+      "shortfalls"
+    ]
+  },
+  {
+    "headword": "stakeholder",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A person or group with an interest in, or affected by, a project or organisation.",
+    "usage": "Standard in British public sector, consultancy and project management.",
+    "pragmatic_note": "It is heavily used; naming the actual group ('parents', 'tenants') is often clearer.",
+    "pitfall": null,
+    "examples": [
+      "We need to consult all the key stakeholders first.",
+      "Stakeholder engagement starts next month."
+    ],
+    "collocations": [
+      "key stakeholders",
+      "stakeholder engagement",
+      "stakeholder management"
+    ],
+    "wiki": null,
+    "forms": [
+      "stakeholders"
+    ]
+  },
+  {
+    "headword": "stipulate",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To state clearly and firmly that something is required, especially in a contract or rule.",
+    "usage": "Common in legal, contractual and policy language.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The contract stipulates a thirty-day notice period.",
+      "The funder stipulates that results must be published."
+    ],
+    "collocations": [
+      "clearly stipulate",
+      "stipulate that",
+      "as stipulated"
+    ],
+    "wiki": null,
+    "forms": [
+      "stipulates",
+      "stipulated",
+      "stipulating",
+      "stipulation"
+    ]
+  },
+  {
+    "headword": "succinct",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Expressed clearly in few words; brief and to the point.",
+    "usage": "Praised in British workplaces for emails, reports and presentations.",
+    "pragmatic_note": "Being succinct is highly valued in British meetings; long preambles can test patience.",
+    "pitfall": "Pronounced /səkˈsɪŋkt/, with a /k/ sound after 'suc'.",
+    "examples": [
+      "Please keep your updates succinct.",
+      "It was a succinct summary of a complicated issue."
+    ],
+    "collocations": [
+      "succinct summary",
+      "short and succinct"
+    ],
+    "wiki": null,
+    "forms": [
+      "succinctly"
+    ]
+  },
+  {
+    "headword": "synopsis",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A brief summary of the main points of a document, book, film or argument.",
+    "usage": "Used in publishing, academia and reports; 'executive summary' is more common in business.",
+    "pragmatic_note": null,
+    "pitfall": "The plural is 'synopses' /sɪˈnɒpsiːz/.",
+    "examples": [
+      "Could you send me a one-page synopsis?",
+      "The synopsis covers the main findings."
+    ],
+    "collocations": [
+      "brief synopsis",
+      "plot synopsis"
+    ],
+    "wiki": null,
+    "forms": [
+      "synopses"
+    ]
+  },
+  {
+    "headword": "tenable",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Able to be defended or maintained, of a position, argument or role.",
+    "usage": "Formal word used in politics, debate and business; more often seen in the negative.",
+    "pragmatic_note": "In UK politics, saying a minister's position 'is no longer tenable' is a call for resignation.",
+    "pitfall": null,
+    "examples": [
+      "Is that position still tenable after the report?",
+      "It's a tenable argument, but a weak one."
+    ],
+    "collocations": [
+      "tenable position",
+      "no longer tenable"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "tenure",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The period of holding an office or job; also, secure permanent status in some academic posts.",
+    "usage": "Common in leadership and academic contexts ('during her tenure as chair').",
+    "pragmatic_note": "Academic tenure in the American sense is uncommon in UK universities; 'permanent contract' is usual.",
+    "pitfall": "UK pronunciation is /ˈtenjə/.",
+    "examples": [
+      "Profits doubled during his tenure as chief executive.",
+      "Her tenure on the board ends next year."
+    ],
+    "collocations": [
+      "during her tenure",
+      "tenure as"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "trajectory",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The path or direction of development that something follows over time.",
+    "usage": "Used in business, career and academic discussion ('growth trajectory').",
+    "pragmatic_note": null,
+    "pitfall": "Stress the second syllable: /trəˈdʒektəri/.",
+    "examples": [
+      "Sales are on an upward trajectory.",
+      "Her career trajectory has been remarkable."
+    ],
+    "collocations": [
+      "growth trajectory",
+      "upward trajectory",
+      "career trajectory"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "underpin",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To support, strengthen or form the basis of an idea, system or argument.",
+    "usage": "Common in reports, policy and academic writing.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "These values underpin everything we do.",
+      "The forecast is underpinned by strong demand."
+    ],
+    "collocations": [
+      "underpinned by",
+      "underpin growth"
+    ],
+    "wiki": null,
+    "forms": [
+      "underpins",
+      "underpinned",
+      "underpinning"
+    ]
+  },
+  {
+    "headword": "upshot",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The final result or outcome of a discussion, event or series of events.",
+    "usage": "Used in meetings and conversation to sum up what something amounts to.",
+    "pragmatic_note": "'The upshot is...' is a neat British way to cut to the conclusion.",
+    "pitfall": null,
+    "examples": [
+      "The upshot is that we'll need more budget.",
+      "The upshot of the meeting was a two-week delay."
+    ],
+    "collocations": [
+      "the upshot is",
+      "the upshot of"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "viability",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The ability of a plan, business or project to work successfully or survive.",
+    "usage": "Common in finance and planning ('commercial viability', 'long-term viability').",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We have doubts about the long-term viability of the scheme.",
+      "The report assesses the commercial viability of each site."
+    ],
+    "collocations": [
+      "commercial viability",
+      "financial viability",
+      "long-term viability"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "wherewithal",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "The money, resources or ability needed to do something.",
+    "usage": "Slightly old-fashioned but common in British speech, usually with 'the'.",
+    "pragmatic_note": "It often carries understated doubt: 'I'm not sure they have the wherewithal.'",
+    "pitfall": null,
+    "examples": [
+      "Do we have the wherewithal to deliver this in-house?",
+      "They lacked the financial wherewithal to expand."
+    ],
+    "collocations": [
+      "the wherewithal to",
+      "financial wherewithal"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "line manager",
+    "register": "GREEN",
+    "us_equivalent": "supervisor",
+    "gloss": "The person you report to directly at work, responsible for your day-to-day management.",
+    "usage": "Standard British HR term used in contracts, appraisals and everyday office talk.",
+    "pragmatic_note": null,
+    "pitfall": "Americans tend to say 'manager', 'boss' or 'direct supervisor'; 'line manager' is distinctly British.",
+    "examples": [
+      "I'll need to check with my line manager first.",
+      "Please send your leave request to your line manager."
+    ],
+    "collocations": [
+      "your line manager",
+      "line management",
+      "line-manage"
+    ],
+    "wiki": null,
+    "forms": [
+      "line managers",
+      "line-manage",
+      "line-managed",
+      "line management"
+    ]
+  },
+  {
+    "headword": "away day",
+    "register": "AMBER",
+    "us_equivalent": "offsite",
+    "gloss": "A day when a team leaves the office to plan, review strategy or build relationships.",
+    "usage": "Common in British organisations of all kinds, from councils to corporates.",
+    "pragmatic_note": "Some staff are cynical about away days, so they are often gently mocked.",
+    "pitfall": "In football, an 'away day' also means a trip to watch your team play away.",
+    "examples": [
+      "The team away day is in a hotel near Reading.",
+      "We'll thrash out the strategy at the away day."
+    ],
+    "collocations": [
+      "team away day",
+      "strategy away day"
+    ],
+    "wiki": null,
+    "forms": [
+      "away days",
+      "awayday"
+    ]
+  },
+  {
+    "headword": "all-hands",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A meeting to which every member of staff is invited, usually led by senior leaders.",
+    "usage": "Common in British tech firms and larger companies; traditional organisations may say 'staff meeting'.",
+    "pragmatic_note": "It has a slightly American, tech-company feel; 'town hall' is a similar import.",
+    "pitfall": null,
+    "examples": [
+      "There's an all-hands at three to announce the results.",
+      "The chief executive will take questions at the all-hands."
+    ],
+    "collocations": [
+      "all-hands meeting",
+      "monthly all-hands"
+    ],
+    "wiki": null,
+    "forms": [
+      "all-hands meeting"
+    ]
+  },
+  {
+    "headword": "minutes",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The official written record of what was discussed and decided at a meeting.",
+    "usage": "Standard in British committees, boards and offices; someone 'takes the minutes'.",
+    "pragmatic_note": "Asking for something to be 'minuted' signals you want a formal record, which can sound pointed.",
+    "pitfall": "It is always plural in this sense; the verb 'to minute' means to record formally.",
+    "examples": [
+      "Could someone take the minutes today?",
+      "I'd like it minuted that I disagreed."
+    ],
+    "collocations": [
+      "take the minutes",
+      "approve the minutes",
+      "circulate the minutes"
+    ],
+    "wiki": null,
+    "forms": [
+      "minute",
+      "minuted",
+      "minuting"
+    ]
+  },
+  {
+    "headword": "AOB",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Any other business: the final agenda item, for points not listed elsewhere.",
+    "usage": "A fixture of British meeting agendas; chairs ask 'Any AOB?' at the end.",
+    "pragmatic_note": "Raising a major item under AOB is considered poor form; it should go on the agenda.",
+    "pitfall": "Said as letters, /ˌeɪ əʊ ˈbiː/, or in full as 'any other business'.",
+    "examples": [
+      "Is there any AOB before we close?",
+      "I've got one quick item under AOB."
+    ],
+    "collocations": [
+      "under AOB",
+      "any other business"
+    ],
+    "wiki": null,
+    "forms": [
+      "any other business"
+    ]
+  },
+  {
+    "headword": "chair",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "(verb) To lead a meeting or committee; (noun) the person who does so.",
+    "usage": "Standard British usage; 'chair' is now preferred over 'chairman' as gender-neutral.",
+    "pragmatic_note": "Addressing remarks 'through the chair' is a formal convention in committees.",
+    "pitfall": null,
+    "examples": [
+      "Who's chairing Thursday's meeting?",
+      "She chaired the panel with great skill."
+    ],
+    "collocations": [
+      "chair a meeting",
+      "chair the committee",
+      "through the chair"
+    ],
+    "wiki": null,
+    "forms": [
+      "chairs",
+      "chaired",
+      "chairing",
+      "chairperson"
+    ]
+  },
+  {
+    "headword": "table",
+    "register": "GREEN",
+    "us_equivalent": "introduce",
+    "gloss": "(verb) In British usage, to formally put forward a proposal or motion for discussion.",
+    "usage": "Used in parliament, councils, committees and boards ('table a motion', 'table an amendment').",
+    "pragmatic_note": "Because of the transatlantic clash, international teams sometimes avoid the word altogether.",
+    "pitfall": "In American English 'to table' means the opposite: to postpone or shelve discussion.",
+    "examples": [
+      "The opposition tabled an amendment to the bill.",
+      "I'd like to table a motion on remote working."
+    ],
+    "collocations": [
+      "table a motion",
+      "table an amendment",
+      "table a proposal"
+    ],
+    "wiki": null,
+    "forms": [
+      "tables",
+      "tabled",
+      "tabling"
+    ]
+  },
+  {
+    "headword": "quorum",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The minimum number of members who must be present for a meeting's decisions to be valid.",
+    "usage": "Standard in boards, committees and associations; 'quorate' is common in British usage.",
+    "pragmatic_note": null,
+    "pitfall": "Pronounced /ˈkwɔːrəm/; the adjective 'quorate' is mostly British.",
+    "examples": [
+      "We don't have a quorum, so we can't vote today.",
+      "Is the meeting quorate?"
+    ],
+    "collocations": [
+      "have a quorum",
+      "quorate",
+      "inquorate"
+    ],
+    "wiki": null,
+    "forms": [
+      "quorate",
+      "inquorate",
+      "quorums"
+    ]
+  },
+  {
+    "headword": "secondment",
+    "register": "GREEN",
+    "us_equivalent": "temporary assignment",
+    "gloss": "A temporary transfer of an employee to another department or organisation.",
+    "usage": "Common in British civil service, NHS, law firms and large companies.",
+    "pragmatic_note": null,
+    "pitfall": "Pronounced /sɪˈkɒndmənt/, stressed on the second syllable, unlike 'second' in a race.",
+    "examples": [
+      "She's on secondment to the Treasury for a year.",
+      "A secondment would be great for your development."
+    ],
+    "collocations": [
+      "on secondment",
+      "secondment to",
+      "seconded to"
+    ],
+    "wiki": null,
+    "forms": [
+      "secondments",
+      "second",
+      "seconded"
+    ]
+  },
+  {
+    "headword": "gardening leave",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A period when a departing employee is paid but told to stay away from work.",
+    "usage": "British employment term, often used for senior staff moving to a competitor.",
+    "pragmatic_note": "It is also called 'garden leave'; it is often mentioned with a knowing smile.",
+    "pitfall": "It is not a holiday or sick leave, and the employee is still bound by their contract.",
+    "examples": [
+      "He's on gardening leave until he joins their rival in March.",
+      "Senior staff are usually put on gardening leave."
+    ],
+    "collocations": [
+      "on gardening leave",
+      "put on gardening leave"
+    ],
+    "wiki": null,
+    "forms": [
+      "garden leave"
+    ]
+  },
+  {
+    "headword": "matters arising",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An agenda item reviewing follow-ups from the previous meeting's minutes.",
+    "usage": "A standard item near the start of formal British meeting agendas.",
+    "pragmatic_note": null,
+    "pitfall": "It refers to items from the last meeting, not new issues; those go elsewhere or under AOB.",
+    "examples": [
+      "Any matters arising from the last minutes?",
+      "Under matters arising, the budget figures have now been confirmed."
+    ],
+    "collocations": [
+      "matters arising from"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "apologies for absence",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Formal notice that a member cannot attend a meeting, recorded in the minutes.",
+    "usage": "Standard in British committee and board meetings; often shortened to 'apologies'.",
+    "pragmatic_note": "Sending apologies is expected courtesy; simply not turning up is considered rude.",
+    "pitfall": "In this sense 'apologies' does not mean you have done anything wrong.",
+    "examples": [
+      "We've received apologies from Sarah and Tom.",
+      "Please send your apologies if you can't make it."
+    ],
+    "collocations": [
+      "send apologies",
+      "receive apologies"
+    ],
+    "wiki": null,
+    "forms": [
+      "apologies"
+    ]
+  },
+  {
+    "headword": "terms of reference",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The agreed scope, purpose and limits of a committee, inquiry or project.",
+    "usage": "Standard in British public bodies, inquiries and project governance.",
+    "pragmatic_note": null,
+    "pitfall": "It is plural in form; you 'agree the terms of reference'.",
+    "examples": [
+      "The terms of reference will be agreed at the first meeting.",
+      "That issue is outside the inquiry's terms of reference."
+    ],
+    "collocations": [
+      "agree the terms of reference",
+      "within the terms of reference"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "casting vote",
+    "register": "GREEN",
+    "us_equivalent": "tie-breaking vote",
+    "gloss": "The deciding vote, usually held by the chair, used when votes are tied.",
+    "usage": "Used in British committees, boards and parliament, where the Speaker has one.",
+    "pragmatic_note": null,
+    "pitfall": "It is not 'casting a vote' in general; it means only the deciding vote in a tie.",
+    "examples": [
+      "The chair used her casting vote to approve the plan.",
+      "With the vote tied, it came down to the casting vote."
+    ],
+    "collocations": [
+      "have the casting vote",
+      "use the casting vote"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "agenda",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A list of items to be discussed at a meeting; also, a person's underlying aims.",
+    "usage": "Universal in British workplaces; agendas are usually circulated in advance.",
+    "pragmatic_note": "'Having an agenda' or 'a hidden agenda' implies concealed motives, which is critical.",
+    "pitfall": null,
+    "examples": [
+      "Could you circulate the agenda by Monday?",
+      "Let's stick to the agenda, or we'll overrun."
+    ],
+    "collocations": [
+      "circulate the agenda",
+      "on the agenda",
+      "hidden agenda"
+    ],
+    "wiki": null,
+    "forms": [
+      "agendas"
+    ]
+  },
+  {
+    "headword": "tender",
+    "register": "GREEN",
+    "us_equivalent": "bid",
+    "gloss": "A formal written offer to supply goods or services at a stated price, often competitive.",
+    "usage": "Central to British public procurement ('put out to tender', 'tender process').",
+    "pragmatic_note": null,
+    "pitfall": "Do not confuse with 'tender' meaning soft or gentle; context separates them.",
+    "examples": [
+      "The contract will be put out to tender in the spring.",
+      "We're preparing a tender for the council's IT services."
+    ],
+    "collocations": [
+      "put out to tender",
+      "win a tender",
+      "tender process"
+    ],
+    "wiki": null,
+    "forms": [
+      "tenders",
+      "tendered",
+      "tendering"
+    ]
+  },
+  {
+    "headword": "timescale",
+    "register": "GREEN",
+    "us_equivalent": "timeline",
+    "gloss": "The period within which something is planned to happen or be completed.",
+    "usage": "The usual British word in project talk; 'timeframe' and 'timeline' are also heard.",
+    "pragmatic_note": "'What sort of timescale are we looking at?' is a polite way to ask about deadlines.",
+    "pitfall": null,
+    "examples": [
+      "What's the timescale for the rollout?",
+      "That's a very tight timescale."
+    ],
+    "collocations": [
+      "tight timescale",
+      "realistic timescale",
+      "agreed timescales"
+    ],
+    "wiki": null,
+    "forms": [
+      "timescales"
+    ]
+  },
+  {
+    "headword": "whilst",
+    "register": "GREEN",
+    "us_equivalent": "while",
+    "gloss": "While: during the time that, or although.",
+    "usage": "Common in British writing and speech, especially formal; Americans rarely use it.",
+    "pragmatic_note": "Some British editors consider it slightly fussy and prefer 'while', so use it sparingly.",
+    "pitfall": "It is interchangeable with 'while' as a conjunction, but cannot replace the noun 'a while'.",
+    "examples": [
+      "Whilst I agree in principle, the costs worry me.",
+      "Please wait whilst I check the figures."
+    ],
+    "collocations": [
+      "whilst I agree"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "per cent",
+    "register": "GREEN",
+    "us_equivalent": "percent",
+    "gloss": "Out of every hundred; used with numbers to express proportions.",
+    "usage": "British style normally writes it as two words; the symbol % is common in tables.",
+    "pragmatic_note": null,
+    "pitfall": "Say 'ten per cent', not 'ten percentage'; 'percentage' is used without a number.",
+    "examples": [
+      "Sales are up eight per cent on last year.",
+      "Only a small percentage of staff responded."
+    ],
+    "collocations": [
+      "per cent increase",
+      "a hundred per cent"
+    ],
+    "wiki": null,
+    "forms": [
+      "percentage"
+    ]
+  },
+  {
+    "headword": "fit for purpose",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Good enough to do the job it was designed or intended to do.",
+    "usage": "A common British phrase in public sector, quality and political debate.",
+    "pragmatic_note": "Saying a system is 'not fit for purpose' is a damning but common British criticism.",
+    "pitfall": null,
+    "examples": [
+      "The current IT system simply isn't fit for purpose.",
+      "We need to make sure the building is fit for purpose."
+    ],
+    "collocations": [
+      "not fit for purpose",
+      "entirely fit for purpose"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "joined-up",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Well coordinated, with different parts of an organisation or system working together sensibly.",
+    "usage": "British phrase from public policy, as in 'joined-up thinking' and 'joined-up government'.",
+    "pragmatic_note": "'Joined-up thinking' is somewhat clichéd but still widely used in UK public sector.",
+    "pitfall": null,
+    "examples": [
+      "We need a more joined-up approach between the two teams.",
+      "This is a lack of joined-up thinking."
+    ],
+    "collocations": [
+      "joined-up thinking",
+      "joined-up approach",
+      "joined-up government"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "value for money",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Good quality or benefit relative to what something costs.",
+    "usage": "Standard in British public spending, procurement and consumer contexts.",
+    "pragmatic_note": "In UK public bodies 'value for money' is a formal test used by auditors.",
+    "pitfall": null,
+    "examples": [
+      "The National Audit Office questioned whether the project was value for money.",
+      "It isn't cheap, but it's good value for money."
+    ],
+    "collocations": [
+      "good value for money",
+      "deliver value for money"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "headroom",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Spare capacity, especially money or margin available before reaching a limit.",
+    "usage": "Used in British finance, budgets and Treasury discussion ('fiscal headroom').",
+    "pragmatic_note": null,
+    "pitfall": "In a car or doorway it also means vertical space above your head.",
+    "examples": [
+      "There isn't much headroom in this year's budget.",
+      "The Chancellor has limited fiscal headroom."
+    ],
+    "collocations": [
+      "fiscal headroom",
+      "budget headroom",
+      "financial headroom"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "slippage",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A delay or falling behind the planned schedule or target in a project.",
+    "usage": "Common in British project management and public sector reporting.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "There's been some slippage on the delivery dates.",
+      "Any further slippage will push us into next year."
+    ],
+    "collocations": [
+      "schedule slippage",
+      "programme slippage"
+    ],
+    "wiki": null,
+    "forms": [
+      "slip",
+      "slipped"
+    ]
+  },
+  {
+    "headword": "handover",
+    "register": "GREEN",
+    "us_equivalent": "transition",
+    "gloss": "The process of passing responsibility for work or a role to another person.",
+    "usage": "Very common in British workplaces, hospitals and shift work.",
+    "pragmatic_note": null,
+    "pitfall": "As a noun it is one word; the verb is 'hand over'.",
+    "examples": [
+      "I'll write a handover note before I go on leave.",
+      "The handover between shifts takes ten minutes."
+    ],
+    "collocations": [
+      "handover notes",
+      "smooth handover",
+      "handover period"
+    ],
+    "wiki": null,
+    "forms": [
+      "handovers"
+    ]
+  },
+  {
+    "headword": "cascade",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "(verb) To pass information down through levels of an organisation.",
+    "usage": "A common British corporate and public sector term ('cascade the message to your teams').",
+    "pragmatic_note": "It is mild management jargon, though widely understood.",
+    "pitfall": null,
+    "examples": [
+      "Please cascade this information to your teams.",
+      "The new guidance will be cascaded through line managers."
+    ],
+    "collocations": [
+      "cascade information",
+      "cascade down"
+    ],
+    "wiki": null,
+    "forms": [
+      "cascades",
+      "cascaded",
+      "cascading"
+    ]
+  },
+  {
+    "headword": "knock-on effect",
+    "register": "AMBER",
+    "us_equivalent": "ripple effect",
+    "gloss": "An indirect consequence of an action that sets off further effects.",
+    "usage": "Very common in British speech, news and business discussion.",
+    "pragmatic_note": null,
+    "pitfall": "Americans tend to say 'ripple effect' or 'domino effect'.",
+    "examples": [
+      "The delay will have a knock-on effect on the other projects.",
+      "Rising fuel costs have a knock-on effect on prices."
+    ],
+    "collocations": [
+      "have a knock-on effect",
+      "knock-on effects"
+    ],
+    "wiki": null,
+    "forms": [
+      "knock-on effects",
+      "knock-on"
+    ]
+  },
+  {
+    "headword": "pro rata",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Proportionally, in line with hours worked or time elapsed.",
+    "usage": "Common in British job adverts for part-time salaries and in finance.",
+    "pragmatic_note": null,
+    "pitfall": "UK pronunciation is /ˌprəʊ ˈrɑːtə/; a salary 'pro rata' is the full-time rate reduced proportionally.",
+    "examples": [
+      "The salary is pro rata for a three-day week.",
+      "Holiday entitlement is calculated pro rata."
+    ],
+    "collocations": [
+      "pro rata basis",
+      "paid pro rata"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "in lieu",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Instead of; in place of.",
+    "usage": "Used in British employment contexts, as in 'time off in lieu' and 'pay in lieu of notice'.",
+    "pragmatic_note": "'Time off in lieu', shortened to TOIL, is a common British workplace arrangement.",
+    "pitfall": "Pronounced /ɪn ˈljuː/ or /ɪn ˈluː/; it is usually followed by 'of'.",
+    "examples": [
+      "You can take time off in lieu for the weekend work.",
+      "They offered payment in lieu of notice."
+    ],
+    "collocations": [
+      "time off in lieu",
+      "in lieu of",
+      "pay in lieu of notice"
+    ],
+    "wiki": null,
+    "forms": [
+      "in lieu of"
+    ]
+  },
+  {
+    "headword": "shortlist",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A final small list of candidates selected from a larger group for consideration.",
+    "usage": "Common in British recruitment, awards and procurement.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "You've been shortlisted for interview.",
+      "We've narrowed it to a shortlist of three suppliers."
+    ],
+    "collocations": [
+      "be shortlisted",
+      "draw up a shortlist"
+    ],
+    "wiki": null,
+    "forms": [
+      "shortlists",
+      "shortlisted",
+      "shortlisting"
+    ]
+  },
+  {
+    "headword": "CV",
+    "register": "GREEN",
+    "us_equivalent": "résumé",
+    "gloss": "A written summary of your education, qualifications and work history, used for job applications.",
+    "usage": "The standard British term; it stands for curriculum vitae.",
+    "pragmatic_note": "British CVs usually omit photos, date of birth and marital status.",
+    "pitfall": "In the US a CV is a long academic document; a shorter business one is a résumé.",
+    "examples": [
+      "Please send your CV and a covering letter.",
+      "Keep your CV to two pages."
+    ],
+    "collocations": [
+      "send your CV",
+      "update your CV",
+      "covering letter"
+    ],
+    "wiki": null,
+    "forms": [
+      "CVs",
+      "curriculum vitae"
+    ]
+  },
+  {
+    "headword": "referee",
+    "register": "GREEN",
+    "us_equivalent": "reference",
+    "gloss": "A person who provides a statement about your character or work for a job application.",
+    "usage": "Standard British recruitment term; most applications ask for two referees.",
+    "pragmatic_note": null,
+    "pitfall": "In American English the person is usually a 'reference'; in Britain the reference is the letter.",
+    "examples": [
+      "Please give the names of two referees.",
+      "My previous manager has agreed to be a referee."
+    ],
+    "collocations": [
+      "two referees",
+      "act as a referee"
+    ],
+    "wiki": null,
+    "forms": [
+      "referees"
+    ]
+  },
+  {
+    "headword": "appraisal",
+    "register": "GREEN",
+    "us_equivalent": "performance review",
+    "gloss": "A formal meeting, often annual, to review an employee's performance and set objectives.",
+    "usage": "Common term in British workplaces, the NHS and the public sector.",
+    "pragmatic_note": "British appraisals tend to understate; 'meets expectations' is often a perfectly good result.",
+    "pitfall": null,
+    "examples": [
+      "My annual appraisal is next week.",
+      "We'll set new objectives at your appraisal."
+    ],
+    "collocations": [
+      "annual appraisal",
+      "performance appraisal"
+    ],
+    "wiki": null,
+    "forms": [
+      "appraisals",
+      "appraise",
+      "appraised"
+    ]
+  },
+  {
+    "headword": "probation",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An initial trial period in a new job during which performance is assessed.",
+    "usage": "Standard British employment term, usually three to six months ('probationary period').",
+    "pragmatic_note": null,
+    "pitfall": "It also means supervision of offenders, so say 'probationary period' if it might be ambiguous.",
+    "examples": [
+      "I passed my probation last month.",
+      "There's a six-month probationary period."
+    ],
+    "collocations": [
+      "probationary period",
+      "pass your probation",
+      "on probation"
+    ],
+    "wiki": null,
+    "forms": [
+      "probationary"
+    ]
+  },
+  {
+    "headword": "annual leave",
+    "register": "GREEN",
+    "us_equivalent": "vacation",
+    "gloss": "Paid holiday time an employee is entitled to each year.",
+    "usage": "The standard British HR term; colleagues usually just say 'holiday' or 'leave'.",
+    "pragmatic_note": null,
+    "pitfall": "Britons say 'I'm on holiday' or 'on leave', not 'on vacation'.",
+    "examples": [
+      "I've got three days of annual leave left.",
+      "She's on annual leave until Monday."
+    ],
+    "collocations": [
+      "on annual leave",
+      "annual leave entitlement",
+      "book annual leave"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "flexitime",
+    "register": "GREEN",
+    "us_equivalent": "flextime",
+    "gloss": "A system allowing employees to vary their start and finish times within agreed limits.",
+    "usage": "Common in British public sector and office jobs; often shortened to 'flexi'.",
+    "pragmatic_note": null,
+    "pitfall": "The British form is 'flexitime'; Americans say 'flextime'.",
+    "examples": [
+      "We work flexitime, so I can start at seven.",
+      "I'm taking a flexi day on Friday."
+    ],
+    "collocations": [
+      "work flexitime",
+      "flexi day"
+    ],
+    "wiki": null,
+    "forms": [
+      "flexi"
+    ]
+  },
+  {
+    "headword": "hot-desking",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An office system in which staff use any available desk rather than having their own.",
+    "usage": "Common in British offices, especially since hybrid working spread.",
+    "pragmatic_note": "It is often unpopular; complaints about hot-desking are a staple of office small talk.",
+    "pitfall": null,
+    "examples": [
+      "We moved to hot-desking after the refurbishment.",
+      "With hot-desking, I never know where I'll sit."
+    ],
+    "collocations": [
+      "hot-desking policy"
+    ],
+    "wiki": null,
+    "forms": [
+      "hot-desk",
+      "hot desk"
+    ]
+  },
+  {
+    "headword": "overheads",
+    "register": "GREEN",
+    "us_equivalent": "overhead",
+    "gloss": "Regular business costs not tied to a specific product, such as rent and utilities.",
+    "usage": "Standard British business term, almost always plural.",
+    "pragmatic_note": null,
+    "pitfall": "British English uses the plural 'overheads'; American English uses the singular 'overhead'.",
+    "examples": [
+      "Moving to a smaller office will cut our overheads.",
+      "Our overheads are too high for a firm this size."
+    ],
+    "collocations": [
+      "cut overheads",
+      "low overheads",
+      "high overheads"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "turnover",
+    "register": "GREEN",
+    "us_equivalent": "revenue",
+    "gloss": "In British business, the total income a company receives from sales in a period.",
+    "usage": "Standard British term for company revenue; also used for 'staff turnover'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans mostly use 'turnover' for staff leaving; for income they say 'revenue' or 'sales'.",
+    "examples": [
+      "The company has an annual turnover of several million.",
+      "Staff turnover is unusually high this year."
+    ],
+    "collocations": [
+      "annual turnover",
+      "staff turnover",
+      "high turnover"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "redundancy",
+    "register": "GREEN",
+    "us_equivalent": "layoff",
+    "gloss": "Dismissal because a job is no longer needed, not because of the employee's performance.",
+    "usage": "The standard British term in employment law and conversation ('made redundant').",
+    "pragmatic_note": "Britons say 'I was made redundant' without stigma, as it is not a reflection on the person.",
+    "pitfall": "Americans say 'laid off'; in Britain 'redundant' about a person is not an insult in this context.",
+    "examples": [
+      "He was made redundant after twenty years.",
+      "The firm has announced fifty redundancies."
+    ],
+    "collocations": [
+      "made redundant",
+      "redundancy pay",
+      "voluntary redundancy"
+    ],
+    "wiki": null,
+    "forms": [
+      "redundancies",
+      "redundant"
+    ]
+  },
+  {
+    "headword": "remuneration",
+    "register": "GREEN",
+    "us_equivalent": "compensation",
+    "gloss": "Money paid for work or services, including salary and benefits.",
+    "usage": "Formal word used in contracts, annual reports and board committees.",
+    "pragmatic_note": "In conversation Britons prefer 'pay' or 'salary'; 'remuneration' is for documents.",
+    "pitfall": "It is often misspelt and mispronounced as 'renumeration'; it is /rɪˌmjuːnəˈreɪʃn/.",
+    "examples": [
+      "Remuneration is reviewed annually.",
+      "The remuneration committee sets executive pay."
+    ],
+    "collocations": [
+      "remuneration package",
+      "remuneration committee"
+    ],
+    "wiki": null,
+    "forms": [
+      "remunerate",
+      "remunerated"
+    ]
+  },
+  {
+    "headword": "headcount",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The total number of people employed by an organisation or team.",
+    "usage": "Common in HR, budgeting and management discussions.",
+    "pragmatic_note": "'Reducing headcount' is a corporate euphemism for job cuts.",
+    "pitfall": null,
+    "examples": [
+      "We can't increase headcount this year.",
+      "The team's headcount has doubled."
+    ],
+    "collocations": [
+      "reduce headcount",
+      "headcount freeze"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "sign-off",
+    "register": "GREEN",
+    "us_equivalent": "approval",
+    "gloss": "Formal approval of a plan, document or budget by someone with authority.",
+    "usage": "Very common in British offices and project work; the verb is 'sign off'.",
+    "pragmatic_note": null,
+    "pitfall": "The noun is hyphenated; the verb 'sign off on' is more American than 'sign off'.",
+    "examples": [
+      "We need sign-off from legal before it goes out.",
+      "Final sign-off is due on Friday."
+    ],
+    "collocations": [
+      "final sign-off",
+      "get sign-off",
+      "sign-off from"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "rollout",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The process of introducing a new product, system or policy in stages.",
+    "usage": "Common in IT, business and government announcements.",
+    "pragmatic_note": null,
+    "pitfall": "The noun is one word or hyphenated (roll-out); the verb is 'roll out'.",
+    "examples": [
+      "The rollout begins in Scotland next month.",
+      "The vaccine rollout was faster than expected."
+    ],
+    "collocations": [
+      "phased rollout",
+      "national rollout"
+    ],
+    "wiki": null,
+    "forms": [
+      "roll-out"
+    ]
+  },
+  {
+    "headword": "roadmap",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A plan showing the stages and timings for achieving a goal.",
+    "usage": "Common in tech, strategy and government policy.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The product roadmap is updated every quarter.",
+      "We'll share a roadmap for the transition."
+    ],
+    "collocations": [
+      "product roadmap",
+      "set out a roadmap"
+    ],
+    "wiki": null,
+    "forms": [
+      "roadmaps",
+      "road map"
+    ]
+  },
+  {
+    "headword": "milestone",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An important stage or event marking progress in a project or process.",
+    "usage": "Common in project management, funding reports and careers.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We hit every milestone in the first phase.",
+      "Payment is linked to agreed milestones."
+    ],
+    "collocations": [
+      "key milestone",
+      "reach a milestone",
+      "project milestones"
+    ],
+    "wiki": null,
+    "forms": [
+      "milestones"
+    ]
+  },
+  {
+    "headword": "KPI",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Key performance indicator: a measurable value showing how well a target is being met.",
+    "usage": "Standard across British businesses and public services.",
+    "pragmatic_note": "Overemphasis on KPIs is a common criticism in UK public services ('target culture').",
+    "pitfall": "Said as letters, /ˌkeɪ piː ˈaɪ/; the plural is KPIs.",
+    "examples": [
+      "Customer satisfaction is one of our core KPIs.",
+      "We'll report against the agreed KPIs each month."
+    ],
+    "collocations": [
+      "key performance indicator",
+      "hit our KPIs"
+    ],
+    "wiki": null,
+    "forms": [
+      "KPIs",
+      "key performance indicator"
+    ]
+  },
+  {
+    "headword": "metric",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A standard of measurement used to track or assess performance.",
+    "usage": "Common in business, tech and analytics; usually plural.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Which metrics are we using to measure success?",
+      "Engagement is a more useful metric than downloads."
+    ],
+    "collocations": [
+      "key metrics",
+      "success metrics",
+      "track metrics"
+    ],
+    "wiki": null,
+    "forms": [
+      "metrics"
+    ]
+  },
+  {
+    "headword": "deck",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A set of presentation slides.",
+    "usage": "Common in British consultancy, finance and tech, often 'slide deck'.",
+    "pragmatic_note": "It is office jargon; in formal contexts 'presentation' or 'slides' is safer.",
+    "pitfall": null,
+    "examples": [
+      "I'll send round the deck after the meeting.",
+      "Can you add a slide to the deck?"
+    ],
+    "collocations": [
+      "slide deck",
+      "pitch deck"
+    ],
+    "wiki": null,
+    "forms": [
+      "decks"
+    ]
+  },
+  {
+    "headword": "debrief",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A meeting after an event or project to review what happened and what was learnt.",
+    "usage": "Common in British business, the military, public services and sport.",
+    "pragmatic_note": null,
+    "pitfall": "Stress the first syllable for the noun, /ˈdiːbriːf/, and often the second for the verb.",
+    "examples": [
+      "Let's have a quick debrief after the pitch.",
+      "We were debriefed by the project lead."
+    ],
+    "collocations": [
+      "quick debrief",
+      "post-project debrief"
+    ],
+    "wiki": null,
+    "forms": [
+      "debriefs",
+      "debriefed",
+      "debriefing"
+    ]
+  },
+  {
+    "headword": "onboarding",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The process of introducing and integrating a new employee or customer.",
+    "usage": "Now standard in British HR and tech, though 'induction' is the older UK term.",
+    "pragmatic_note": "Traditional British organisations still say 'induction'; 'onboarding' sounds more corporate.",
+    "pitfall": null,
+    "examples": [
+      "Onboarding takes about two weeks.",
+      "We've redesigned the onboarding for new clients."
+    ],
+    "collocations": [
+      "employee onboarding",
+      "client onboarding"
+    ],
+    "wiki": null,
+    "forms": [
+      "onboard",
+      "onboarded"
+    ]
+  },
+  {
+    "headword": "upskill",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "To teach someone additional skills, or to learn them yourself.",
+    "usage": "Common in British HR, training and government skills policy.",
+    "pragmatic_note": "It is mild jargon, but widely accepted in UK workplaces.",
+    "pitfall": null,
+    "examples": [
+      "We want to upskill our existing staff rather than recruit.",
+      "The scheme helps workers upskill for digital roles."
+    ],
+    "collocations": [
+      "upskill staff",
+      "upskilling programme"
+    ],
+    "wiki": null,
+    "forms": [
+      "upskills",
+      "upskilled",
+      "upskilling"
+    ]
+  },
+  {
+    "headword": "synergy",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "The extra benefit when two groups or things combine to produce more than separately.",
+    "usage": "Used precisely in mergers and finance, but widely mocked as empty corporate jargon.",
+    "pragmatic_note": "Treat it as a cliché, like 'circle back' and 'low-hanging fruit'; say what the benefit actually is.",
+    "pitfall": null,
+    "examples": [
+      "The merger is expected to deliver cost synergies.",
+      "There's real synergy between the two teams."
+    ],
+    "collocations": [
+      "cost synergies",
+      "create synergies"
+    ],
+    "wiki": null,
+    "forms": [
+      "synergies"
+    ]
+  },
+  {
+    "headword": "holistic",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Dealing with something as a whole, rather than just its separate parts.",
+    "usage": "Common in British healthcare, education and management talk.",
+    "pragmatic_note": "In business it can sound like a buzzword, so explain what the 'whole' includes.",
+    "pitfall": null,
+    "examples": [
+      "We're taking a more holistic approach to wellbeing.",
+      "The review looks at the service holistically."
+    ],
+    "collocations": [
+      "holistic approach",
+      "holistic view"
+    ],
+    "wiki": null,
+    "forms": [
+      "holistically"
+    ]
+  },
+  {
+    "headword": "bandwidth",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "(figurative) The time or mental capacity to deal with something.",
+    "usage": "Widely used in British offices, borrowed from technology.",
+    "pragmatic_note": "It is a well-known jargon term; 'time' or 'capacity' sounds less corporate.",
+    "pitfall": null,
+    "examples": [
+      "I don't have the bandwidth to take that on this week.",
+      "Does the team have the bandwidth for another project?"
+    ],
+    "collocations": [
+      "have the bandwidth"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "learnings",
+    "register": "AMBER",
+    "us_equivalent": "lessons",
+    "gloss": "Lessons or insights gained from experience, especially a project.",
+    "usage": "Common in corporate and consultancy talk, but disliked by many British speakers.",
+    "pragmatic_note": "Many Britons consider 'learnings' ugly jargon; 'lessons learnt' is widely preferred.",
+    "pitfall": "In traditional English 'learning' is uncountable; 'lessons' is the safer plural.",
+    "examples": [
+      "What were the key learnings from the pilot?",
+      "Let's capture the lessons learnt."
+    ],
+    "collocations": [
+      "key learnings",
+      "lessons learnt"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "proactive",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Taking action in advance to prepare for or prevent problems, rather than reacting.",
+    "usage": "Very common in British job adverts, appraisals and management talk.",
+    "pragmatic_note": "It is so overused on CVs that it can sound empty unless backed by an example.",
+    "pitfall": null,
+    "examples": [
+      "We need to be more proactive about client feedback.",
+      "She's very proactive about spotting risks."
+    ],
+    "collocations": [
+      "proactive approach",
+      "be proactive"
+    ],
+    "wiki": null,
+    "forms": [
+      "proactively"
+    ]
+  },
+  {
+    "headword": "utilise",
+    "register": "GREEN",
+    "us_equivalent": "utilize",
+    "gloss": "To make practical and effective use of something.",
+    "usage": "Found in formal and technical writing; often an inflated synonym for 'use'.",
+    "pragmatic_note": "British plain-English guidance recommends 'use' instead; 'utilise' can sound pompous.",
+    "pitfall": "UK spelling usually takes -ise.",
+    "examples": [
+      "We could utilise the spare capacity in the warehouse.",
+      "The space is currently under-utilised."
+    ],
+    "collocations": [
+      "fully utilise",
+      "under-utilised"
+    ],
+    "wiki": null,
+    "forms": [
+      "utilises",
+      "utilised",
+      "utilising",
+      "utilisation"
+    ]
+  },
+  {
+    "headword": "seamless",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Smooth and without any interruptions, problems or visible transitions.",
+    "usage": "Common in marketing, IT and service design talk.",
+    "pragmatic_note": "It is a marketing cliché; promising a 'seamless' experience invites scepticism.",
+    "pitfall": null,
+    "examples": [
+      "We want a seamless handover between the teams.",
+      "The transition was far from seamless."
+    ],
+    "collocations": [
+      "seamless transition",
+      "seamless experience"
+    ],
+    "wiki": null,
+    "forms": [
+      "seamlessly"
+    ]
+  },
+  {
+    "headword": "best practice",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A method or technique accepted as the most effective way of doing something.",
+    "usage": "Standard in British public sector, healthcare and business guidance; usually uncountable.",
+    "pragmatic_note": null,
+    "pitfall": "In British usage it is often uncountable: 'in line with best practice'.",
+    "examples": [
+      "This is in line with industry best practice.",
+      "We'd like to share best practice across the regions."
+    ],
+    "collocations": [
+      "industry best practice",
+      "in line with best practice",
+      "share best practice"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "actionable",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Able to be acted on directly; giving clear practical steps.",
+    "usage": "Common in consultancy, data and management talk ('actionable insights').",
+    "pragmatic_note": "'Actionable insights' is a well-worn buzzword; in law 'actionable' means grounds for a lawsuit.",
+    "pitfall": null,
+    "examples": [
+      "The report needs clearer, more actionable recommendations.",
+      "Is any of this feedback actionable?"
+    ],
+    "collocations": [
+      "actionable insights",
+      "actionable recommendations"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "apportion",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To divide and share out something, such as costs, time or blame, among people.",
+    "usage": "Formal word used in finance, law and reports, especially 'apportion blame'.",
+    "pragmatic_note": "'I'm not here to apportion blame' is a common British way to lower the temperature.",
+    "pitfall": null,
+    "examples": [
+      "Costs will be apportioned according to usage.",
+      "It's too early to apportion blame."
+    ],
+    "collocations": [
+      "apportion blame",
+      "apportion costs"
+    ],
+    "wiki": null,
+    "forms": [
+      "apportions",
+      "apportioned",
+      "apportioning"
+    ]
+  },
+  {
+    "headword": "ascertain",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To find out something for certain, often through investigation.",
+    "usage": "Formal word used in reports, legal writing and careful speech.",
+    "pragmatic_note": "In everyday speech 'find out' or 'check' is more natural.",
+    "pitfall": "Pronounced /ˌæsəˈteɪn/, stressed on the last syllable.",
+    "examples": [
+      "We're trying to ascertain the cause of the outage.",
+      "Could you ascertain whether they've paid?"
+    ],
+    "collocations": [
+      "ascertain whether",
+      "ascertain the facts"
+    ],
+    "wiki": null,
+    "forms": [
+      "ascertains",
+      "ascertained",
+      "ascertaining"
+    ]
+  },
+  {
+    "headword": "attrition",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The gradual reduction in staff or customers as people leave and are not replaced.",
+    "usage": "Used in HR, finance and strategy, often 'natural attrition'.",
+    "pragmatic_note": "'Through natural attrition' is a softer way of saying jobs will go without redundancies.",
+    "pitfall": null,
+    "examples": [
+      "We'll reduce headcount through natural attrition.",
+      "Customer attrition rose after the price increase."
+    ],
+    "collocations": [
+      "natural attrition",
+      "attrition rate",
+      "war of attrition"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "augment",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To make something larger, stronger or more complete by adding to it.",
+    "usage": "Formal word used in business, academic and technical writing.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We'll augment the team with two contractors.",
+      "The grant will augment our existing budget."
+    ],
+    "collocations": [
+      "augment income",
+      "augmented reality"
+    ],
+    "wiki": null,
+    "forms": [
+      "augments",
+      "augmented",
+      "augmenting"
+    ]
+  },
+  {
+    "headword": "bolster",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To support, strengthen or improve something, such as confidence, a case or finances.",
+    "usage": "Common in business, news and political language.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The new data bolsters our case.",
+      "We need to bolster confidence among investors."
+    ],
+    "collocations": [
+      "bolster confidence",
+      "bolster the case",
+      "bolster support"
+    ],
+    "wiki": null,
+    "forms": [
+      "bolsters",
+      "bolstered",
+      "bolstering"
+    ]
+  },
+  {
+    "headword": "brief",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "(noun) A set of instructions defining a task; (verb) to give someone essential information.",
+    "usage": "Common in British agencies, law, government and consultancy ('the client brief').",
+    "pragmatic_note": "In British law a barrister receives a 'brief'; 'that's not in my brief' means not my job.",
+    "pitfall": null,
+    "examples": [
+      "The client brief is quite open-ended.",
+      "I'll brief the team before the meeting."
+    ],
+    "collocations": [
+      "client brief",
+      "brief the team",
+      "creative brief"
+    ],
+    "wiki": null,
+    "forms": [
+      "briefs",
+      "briefed",
+      "briefing"
+    ]
+  },
+  {
+    "headword": "capitalise on",
+    "register": "GREEN",
+    "us_equivalent": "capitalize on",
+    "gloss": "To take advantage of a situation or opportunity for your own benefit.",
+    "usage": "Common in business, sport and politics.",
+    "pragmatic_note": null,
+    "pitfall": "It always takes 'on'; UK spelling usually takes -ise.",
+    "examples": [
+      "We should capitalise on the momentum from the launch.",
+      "They failed to capitalise on their early lead."
+    ],
+    "collocations": [
+      "capitalise on an opportunity",
+      "capitalise on success"
+    ],
+    "wiki": null,
+    "forms": [
+      "capitalises on",
+      "capitalised on",
+      "capitalising on"
+    ]
+  },
+  {
+    "headword": "cede",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To give up power, territory or control, often reluctantly.",
+    "usage": "Formal word used in politics, negotiations and business.",
+    "pragmatic_note": null,
+    "pitfall": "Pronounced /siːd/, like 'seed'.",
+    "examples": [
+      "We don't want to cede control of the brand.",
+      "They ceded ground on the key issue."
+    ],
+    "collocations": [
+      "cede control",
+      "cede ground",
+      "cede power"
+    ],
+    "wiki": null,
+    "forms": [
+      "cedes",
+      "ceded",
+      "ceding"
+    ]
+  },
+  {
+    "headword": "circumvent",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To find a way around a rule, obstacle or problem, sometimes improperly.",
+    "usage": "Used in law, compliance, IT and policy discussions.",
+    "pragmatic_note": "It often implies dodging rules, so use it carefully about colleagues.",
+    "pitfall": null,
+    "examples": [
+      "We can't circumvent the approval process.",
+      "The workaround circumvents the bug for now."
+    ],
+    "collocations": [
+      "circumvent the rules",
+      "circumvent restrictions"
+    ],
+    "wiki": null,
+    "forms": [
+      "circumvents",
+      "circumvented",
+      "circumventing"
+    ]
+  },
+  {
+    "headword": "coherent",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Logical, consistent and clearly connected as a whole.",
+    "usage": "Used of arguments, strategies and plans in business and academic writing.",
+    "pragmatic_note": "'We lack a coherent strategy' is a typical, pointed British criticism.",
+    "pitfall": null,
+    "examples": [
+      "We need a coherent plan, not a list of ideas.",
+      "Her answer wasn't entirely coherent."
+    ],
+    "collocations": [
+      "coherent strategy",
+      "coherent argument"
+    ],
+    "wiki": null,
+    "forms": [
+      "coherence",
+      "coherently"
+    ]
+  },
+  {
+    "headword": "collate",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To collect and arrange information from different sources into one place.",
+    "usage": "Common in British offices for data, feedback and documents.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll collate everyone's comments into one document.",
+      "The results are still being collated."
+    ],
+    "collocations": [
+      "collate feedback",
+      "collate data"
+    ],
+    "wiki": null,
+    "forms": [
+      "collates",
+      "collated",
+      "collating"
+    ]
+  },
+  {
+    "headword": "commensurate",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "In proportion to or appropriate for something else, such as pay with experience.",
+    "usage": "Formal word common in job adverts and contracts ('salary commensurate with experience').",
+    "pragmatic_note": null,
+    "pitfall": "It takes 'with': 'commensurate with experience'.",
+    "examples": [
+      "Salary will be commensurate with experience.",
+      "The penalty should be commensurate with the offence."
+    ],
+    "collocations": [
+      "commensurate with experience",
+      "commensurate with"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "compliance",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The act of following rules, laws or standards; also the team that checks this.",
+    "usage": "Standard in finance, law, health and safety and data protection.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "All suppliers must be in compliance with the new rules.",
+      "Please check with compliance before sending it."
+    ],
+    "collocations": [
+      "regulatory compliance",
+      "in compliance with",
+      "compliance team"
+    ],
+    "wiki": null,
+    "forms": [
+      "comply",
+      "compliant"
+    ]
+  },
+  {
+    "headword": "comprehensive",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Including all or nearly all elements or aspects of something.",
+    "usage": "Used in reports, reviews and insurance ('fully comprehensive').",
+    "pragmatic_note": null,
+    "pitfall": "In Britain a 'comprehensive' is also a state secondary school; it does not mean 'comprehensible'.",
+    "examples": [
+      "We've carried out a comprehensive review.",
+      "The guide is comprehensive but long."
+    ],
+    "collocations": [
+      "comprehensive review",
+      "comprehensive overview"
+    ],
+    "wiki": null,
+    "forms": [
+      "comprehensively"
+    ]
+  },
+  {
+    "headword": "concur",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To agree with someone or an opinion.",
+    "usage": "Formal word used in meetings, reports and legal judgments.",
+    "pragmatic_note": "In casual meetings 'I agree' is warmer; 'I concur' can sound stiff or mock-formal.",
+    "pitfall": "Stress the second syllable: /kənˈkɜː/.",
+    "examples": [
+      "I concur with the chair's assessment.",
+      "The panel concurred that further work was needed."
+    ],
+    "collocations": [
+      "concur with"
+    ],
+    "wiki": null,
+    "forms": [
+      "concurs",
+      "concurred",
+      "concurring"
+    ]
+  },
+  {
+    "headword": "consensus",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "General agreement among a group of people.",
+    "usage": "Common in meetings, politics and academia.",
+    "pragmatic_note": "British meetings often aim for consensus rather than a vote.",
+    "pitfall": "Spelt with an s in the middle, not 'concensus'; 'general consensus' is slightly redundant.",
+    "examples": [
+      "There's a broad consensus that we should delay.",
+      "We couldn't reach a consensus."
+    ],
+    "collocations": [
+      "reach a consensus",
+      "broad consensus",
+      "build consensus"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "constraint",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A limitation or restriction on what can be done.",
+    "usage": "Common in planning, engineering and budgeting.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We're working under tight budget constraints.",
+      "Time is our biggest constraint."
+    ],
+    "collocations": [
+      "budget constraints",
+      "time constraints",
+      "within the constraints"
+    ],
+    "wiki": null,
+    "forms": [
+      "constraints"
+    ]
+  },
+  {
+    "headword": "contingent",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Depending on something else happening first; conditional.",
+    "usage": "Formal word used in contracts and negotiations, with 'on' or 'upon'.",
+    "pragmatic_note": null,
+    "pitfall": "As a noun it also means a group of people: 'a contingent of staff'.",
+    "examples": [
+      "The offer is contingent on references.",
+      "Funding is contingent upon results."
+    ],
+    "collocations": [
+      "contingent on",
+      "contingent upon"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "convene",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To call people together for a meeting, or to come together formally.",
+    "usage": "Formal word used in committees, governance and public bodies.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The board will convene next week.",
+      "We've convened a working group to look at it."
+    ],
+    "collocations": [
+      "convene a meeting",
+      "convene a panel"
+    ],
+    "wiki": null,
+    "forms": [
+      "convenes",
+      "convened",
+      "convening",
+      "convenor"
+    ]
+  },
+  {
+    "headword": "corollary",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A natural consequence or result that follows from something else.",
+    "usage": "Formal word used in academic, legal and policy argument.",
+    "pragmatic_note": null,
+    "pitfall": "UK pronunciation is /kəˈrɒləri/, stressed on the second syllable.",
+    "examples": [
+      "The corollary of lower prices is thinner margins.",
+      "As a corollary, staff will need retraining."
+    ],
+    "collocations": [
+      "natural corollary",
+      "the corollary of"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "culminate",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To reach a final or highest point after a process or series of events.",
+    "usage": "Used in reports, project updates and speeches, with 'in'.",
+    "pragmatic_note": null,
+    "pitfall": "It takes 'in': 'culminate in a launch'.",
+    "examples": [
+      "The project will culminate in a public launch.",
+      "Months of talks culminated in a deal."
+    ],
+    "collocations": [
+      "culminate in",
+      "culminating in"
+    ],
+    "wiki": null,
+    "forms": [
+      "culminates",
+      "culminated",
+      "culminating",
+      "culmination"
+    ]
+  },
+  {
+    "headword": "curtail",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To reduce, limit or cut short something.",
+    "usage": "Formal word used in policy, finance and news.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We've had to curtail spending on travel.",
+      "The trip was curtailed by the strike."
+    ],
+    "collocations": [
+      "curtail spending",
+      "sharply curtail"
+    ],
+    "wiki": null,
+    "forms": [
+      "curtails",
+      "curtailed",
+      "curtailing"
+    ]
+  },
+  {
+    "headword": "deem",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To consider or judge something in a particular way.",
+    "usage": "Formal word common in rules, contracts and official decisions.",
+    "pragmatic_note": "'As you deem fit' or 'as you see fit' gives someone discretion politely.",
+    "pitfall": null,
+    "examples": [
+      "The proposal was deemed too risky.",
+      "Act as you deem appropriate."
+    ],
+    "collocations": [
+      "deemed necessary",
+      "deemed appropriate",
+      "deemed to be"
+    ],
+    "wiki": null,
+    "forms": [
+      "deems",
+      "deemed",
+      "deeming"
+    ]
+  },
+  {
+    "headword": "defer",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To postpone something; also, to yield to someone's judgement or authority.",
+    "usage": "Common in meetings, finance and academia ('defer a decision', 'defer to the chair').",
+    "pragmatic_note": "'I'll defer to you on that' is a gracious British way of acknowledging someone's expertise.",
+    "pitfall": "In Britain you can also 'defer' a university place for a year.",
+    "examples": [
+      "Let's defer the decision until we have the figures.",
+      "I'll defer to Helen on the legal points."
+    ],
+    "collocations": [
+      "defer a decision",
+      "defer to",
+      "deferred payment"
+    ],
+    "wiki": null,
+    "forms": [
+      "defers",
+      "deferred",
+      "deferring",
+      "deferral"
+    ]
+  },
+  {
+    "headword": "delegate",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "(verb) To give a task or responsibility to someone else, usually more junior.",
+    "usage": "Common in management and leadership discussion.",
+    "pragmatic_note": null,
+    "pitfall": "The verb ends /-ɡeɪt/; the noun 'a delegate' (a representative) ends /-ɡət/.",
+    "examples": [
+      "You need to delegate more.",
+      "I've delegated the research to the graduate team."
+    ],
+    "collocations": [
+      "delegate tasks",
+      "delegate responsibility"
+    ],
+    "wiki": null,
+    "forms": [
+      "delegates",
+      "delegated",
+      "delegating",
+      "delegation"
+    ]
+  },
+  {
+    "headword": "deploy",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To bring resources, people or systems into effective use.",
+    "usage": "Common in IT, military and business resource planning.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We'll deploy the update overnight.",
+      "Staff will be deployed where they're most needed."
+    ],
+    "collocations": [
+      "deploy resources",
+      "deploy staff"
+    ],
+    "wiki": null,
+    "forms": [
+      "deploys",
+      "deployed",
+      "deploying",
+      "deployment"
+    ]
+  },
+  {
+    "headword": "detrimental",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Causing harm or damage.",
+    "usage": "Formal word used in reports, health, HR and law, with 'to'.",
+    "pragmatic_note": null,
+    "pitfall": "It takes 'to': 'detrimental to morale'.",
+    "examples": [
+      "Constant changes are detrimental to morale.",
+      "The move could be detrimental to our reputation."
+    ],
+    "collocations": [
+      "detrimental effect",
+      "detrimental to"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "disseminate",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To spread information or knowledge widely.",
+    "usage": "Formal word used in research, public health and communications.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We'll disseminate the findings through a series of webinars.",
+      "The guidance was widely disseminated."
+    ],
+    "collocations": [
+      "disseminate findings",
+      "disseminate information"
+    ],
+    "wiki": null,
+    "forms": [
+      "disseminates",
+      "disseminated",
+      "disseminating",
+      "dissemination"
+    ]
+  },
+  {
+    "headword": "diversify",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To expand into a wider range of products, markets or activities, reducing risk.",
+    "usage": "Common in business, finance and farming.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We need to diversify our client base.",
+      "Many farms have diversified into tourism."
+    ],
+    "collocations": [
+      "diversify into",
+      "diversify revenue"
+    ],
+    "wiki": null,
+    "forms": [
+      "diversifies",
+      "diversified",
+      "diversifying",
+      "diversification"
+    ]
+  },
+  {
+    "headword": "divest",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To sell off a business, asset or investment.",
+    "usage": "Formal word used in corporate finance and ethical investment.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The group plans to divest its retail arm.",
+      "The fund has divested from fossil fuels."
+    ],
+    "collocations": [
+      "divest from",
+      "divest assets"
+    ],
+    "wiki": null,
+    "forms": [
+      "divests",
+      "divested",
+      "divesting",
+      "divestment"
+    ]
+  },
+  {
+    "headword": "efficacy",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The ability of something, especially a treatment or policy, to produce the intended result.",
+    "usage": "Formal word used in medicine, research and policy evaluation.",
+    "pragmatic_note": null,
+    "pitfall": "Stress the first syllable: /ˈefɪkəsi/; 'efficiency' is about doing things with little waste.",
+    "examples": [
+      "There's little evidence of the scheme's efficacy.",
+      "Trials will test the drug's efficacy."
+    ],
+    "collocations": [
+      "proven efficacy",
+      "efficacy of"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "elicit",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To draw out a response, reaction or piece of information from someone.",
+    "usage": "Formal word used in research, interviews and teaching.",
+    "pragmatic_note": null,
+    "pitfall": "Do not confuse with 'illicit' (illegal); both are /ɪˈlɪsɪt/ in many accents.",
+    "examples": [
+      "The survey elicited a strong response.",
+      "Try to elicit their main concerns early on."
+    ],
+    "collocations": [
+      "elicit a response",
+      "elicit information"
+    ],
+    "wiki": null,
+    "forms": [
+      "elicits",
+      "elicited",
+      "eliciting"
+    ]
+  },
+  {
+    "headword": "embark on",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To start a new, important or difficult project or course of action.",
+    "usage": "Common in business, careers and formal speech.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We're about to embark on a major restructure.",
+      "She embarked on a new career in law."
+    ],
+    "collocations": [
+      "embark on a project",
+      "embark on a career"
+    ],
+    "wiki": null,
+    "forms": [
+      "embarks on",
+      "embarked on",
+      "embarking on",
+      "embark upon"
+    ]
+  },
+  {
+    "headword": "empirical",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Based on observation, data or experience rather than theory alone.",
+    "usage": "Common in academic, scientific and policy contexts.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We need empirical evidence, not anecdotes.",
+      "The paper is largely empirical."
+    ],
+    "collocations": [
+      "empirical evidence",
+      "empirical research"
+    ],
+    "wiki": null,
+    "forms": [
+      "empirically"
+    ]
+  },
+  {
+    "headword": "encompass",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To include a wide range of things within a scope.",
+    "usage": "Common in reports, strategy documents and job descriptions.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The role encompasses finance and operations.",
+      "The review will encompass all our sites."
+    ],
+    "collocations": [
+      "encompass a range of"
+    ],
+    "wiki": null,
+    "forms": [
+      "encompasses",
+      "encompassed",
+      "encompassing"
+    ]
+  },
+  {
+    "headword": "entail",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To involve something as a necessary part or consequence.",
+    "usage": "Common in meetings and interviews ('what does the role entail?').",
+    "pragmatic_note": "'What would that entail?' is a polite way to probe the cost of a suggestion.",
+    "pitfall": null,
+    "examples": [
+      "What does the role entail day to day?",
+      "The move would entail some disruption."
+    ],
+    "collocations": [
+      "what does it entail",
+      "entail risk"
+    ],
+    "wiki": null,
+    "forms": [
+      "entails",
+      "entailed",
+      "entailing"
+    ]
+  },
+  {
+    "headword": "equitable",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Fair and impartial, treating people according to their needs.",
+    "usage": "Used in policy, HR, law and finance.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We want a more equitable distribution of work.",
+      "The settlement was fair and equitable."
+    ],
+    "collocations": [
+      "equitable distribution",
+      "fair and equitable"
+    ],
+    "wiki": null,
+    "forms": [
+      "equitably",
+      "equity"
+    ]
+  },
+  {
+    "headword": "exemplify",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To be a typical example of something, or to illustrate it with examples.",
+    "usage": "Formal word used in academic writing, appraisals and speeches.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Her work exemplifies what we mean by quality.",
+      "The case exemplifies the risks of rushing."
+    ],
+    "collocations": [
+      "exemplify best practice"
+    ],
+    "wiki": null,
+    "forms": [
+      "exemplifies",
+      "exemplified",
+      "exemplifying"
+    ]
+  },
+  {
+    "headword": "explicit",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Stated clearly and in detail, leaving no room for confusion.",
+    "usage": "Common in instructions, contracts and feedback.",
+    "pragmatic_note": null,
+    "pitfall": "It also describes sexual or violent content, so context matters.",
+    "examples": [
+      "The guidance is quite explicit on this.",
+      "Could you be more explicit about the deadline?"
+    ],
+    "collocations": [
+      "make explicit",
+      "explicit instructions"
+    ],
+    "wiki": null,
+    "forms": [
+      "explicitly"
+    ]
+  },
+  {
+    "headword": "extrapolate",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To estimate future or unknown values by extending known data or trends.",
+    "usage": "Common in finance, research and forecasting.",
+    "pragmatic_note": "Saying 'I wouldn't extrapolate too much from that' is a polite warning against overreading data.",
+    "pitfall": null,
+    "examples": [
+      "We can't extrapolate from such a small sample.",
+      "If we extrapolate current growth, we'll double in five years."
+    ],
+    "collocations": [
+      "extrapolate from",
+      "extrapolate trends"
+    ],
+    "wiki": null,
+    "forms": [
+      "extrapolates",
+      "extrapolated",
+      "extrapolating",
+      "extrapolation"
+    ]
+  },
+  {
+    "headword": "fiscal",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Relating to government revenue and spending, or to an organisation's finances.",
+    "usage": "Used in economics, government and corporate finance.",
+    "pragmatic_note": null,
+    "pitfall": "In British companies 'financial year' is more usual than the American 'fiscal year'.",
+    "examples": [
+      "The government has very little fiscal room.",
+      "Fiscal policy will be tightened next year."
+    ],
+    "collocations": [
+      "fiscal policy",
+      "fiscal year",
+      "fiscal rules"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "flagship",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The best or most important product, store, policy or project of an organisation.",
+    "usage": "Common in business, retail and politics ('flagship policy').",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "This is our flagship programme.",
+      "The flagship store on Oxford Street reopens next month."
+    ],
+    "collocations": [
+      "flagship policy",
+      "flagship store",
+      "flagship product"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "foreseeable",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Able to be predicted or expected.",
+    "usage": "Common in planning and legal contexts, especially 'for the foreseeable future'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We'll stay in this office for the foreseeable future.",
+      "That was a foreseeable risk."
+    ],
+    "collocations": [
+      "foreseeable future",
+      "reasonably foreseeable"
+    ],
+    "wiki": null,
+    "forms": [
+      "unforeseeable"
+    ]
+  },
+  {
+    "headword": "formulate",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To develop or express a plan, policy or idea carefully and precisely.",
+    "usage": "Common in strategy, policy and academic writing.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We need to formulate a response by Friday.",
+      "The policy was formulated after wide consultation."
+    ],
+    "collocations": [
+      "formulate a plan",
+      "formulate policy",
+      "formulate a response"
+    ],
+    "wiki": null,
+    "forms": [
+      "formulates",
+      "formulated",
+      "formulating"
+    ]
+  },
+  {
+    "headword": "forthright",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Direct and outspoken, saying clearly what you think.",
+    "usage": "Used to describe people's views and manner, often admiringly.",
+    "pragmatic_note": "In British culture, being forthright is respected but may also hint at bluntness.",
+    "pitfall": null,
+    "examples": [
+      "She was forthright in her criticism of the plan.",
+      "He has forthright views on the subject."
+    ],
+    "collocations": [
+      "forthright views",
+      "forthright manner"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "fruition",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The point at which a plan or project is realised or produces results.",
+    "usage": "Used in formal speech, reports and speeches, mostly 'come to fruition'.",
+    "pragmatic_note": null,
+    "pitfall": "Pronounced /fruˈɪʃn/, with four syllables.",
+    "examples": [
+      "The plans finally came to fruition last year.",
+      "It'll take time to bring this to fruition."
+    ],
+    "collocations": [
+      "come to fruition",
+      "bring to fruition"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "garner",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To gather or collect something, especially support, attention or praise.",
+    "usage": "Used in journalism, business and politics.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The proposal has garnered support from both sides.",
+      "The campaign garnered a lot of attention."
+    ],
+    "collocations": [
+      "garner support",
+      "garner attention"
+    ],
+    "wiki": null,
+    "forms": [
+      "garners",
+      "garnered",
+      "garnering"
+    ]
+  },
+  {
+    "headword": "gauge",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "(verb) To estimate or judge something, such as opinion or a mood.",
+    "usage": "Common in meetings and research ('gauge interest', 'gauge the mood').",
+    "pragmatic_note": null,
+    "pitfall": "Pronounced /ɡeɪdʒ/, rhyming with 'page'; note the spelling 'au'.",
+    "examples": [
+      "Let's send a survey to gauge interest.",
+      "It's hard to gauge the mood of the room."
+    ],
+    "collocations": [
+      "gauge interest",
+      "gauge the mood",
+      "gauge opinion"
+    ],
+    "wiki": null,
+    "forms": [
+      "gauges",
+      "gauged",
+      "gauging"
+    ]
+  },
+  {
+    "headword": "granular",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Very detailed, broken down into small parts.",
+    "usage": "Common in data, finance and project discussions ('more granular data').",
+    "pragmatic_note": "It edges towards jargon; 'detailed' works in most conversations.",
+    "pitfall": null,
+    "examples": [
+      "We need more granular data by region.",
+      "Let's not get too granular in this meeting."
+    ],
+    "collocations": [
+      "granular detail",
+      "granular data",
+      "granular level"
+    ],
+    "wiki": null,
+    "forms": [
+      "granularity"
+    ]
+  },
+  {
+    "headword": "impasse",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A situation in which no progress is possible because people cannot agree.",
+    "usage": "Common in negotiations, politics and news.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Talks have reached an impasse.",
+      "We need a way to break the impasse."
+    ],
+    "collocations": [
+      "reach an impasse",
+      "break the impasse"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "imperative",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Extremely important and urgent; also, a necessary duty or need.",
+    "usage": "Used in formal speech and writing ('it is imperative that...').",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "It's imperative that we meet the deadline.",
+      "There's a commercial imperative to cut costs."
+    ],
+    "collocations": [
+      "it is imperative that",
+      "moral imperative"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "implication",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A likely consequence of something; also something suggested without being said directly.",
+    "usage": "Common in reports, meetings and analysis.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "What are the implications for staff?",
+      "The implication was that we'd been careless."
+    ],
+    "collocations": [
+      "implications for",
+      "by implication",
+      "cost implications"
+    ],
+    "wiki": null,
+    "forms": [
+      "implications",
+      "imply"
+    ]
+  },
+  {
+    "headword": "incentivise",
+    "register": "GREEN",
+    "us_equivalent": "incentivize",
+    "gloss": "To motivate someone to do something by offering a reward.",
+    "usage": "Common in business, HR and policy.",
+    "pragmatic_note": "Some British speakers consider it jargon; 'encourage' or 'reward' can be plainer.",
+    "pitfall": "UK spelling usually takes -ise.",
+    "examples": [
+      "We want to incentivise early payment.",
+      "Staff are incentivised to hit sales targets."
+    ],
+    "collocations": [
+      "incentivise staff",
+      "financially incentivised"
+    ],
+    "wiki": null,
+    "forms": [
+      "incentivises",
+      "incentivised",
+      "incentivising"
+    ]
+  },
+  {
+    "headword": "incumbent",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "(adjective) Necessary as a duty; (noun) the current holder of an office or post.",
+    "usage": "Formal word used in politics, business and job descriptions ('incumbent on').",
+    "pragmatic_note": null,
+    "pitfall": "With 'on' or 'upon' it means a duty: 'it is incumbent on managers to...'.",
+    "examples": [
+      "It's incumbent on all of us to follow the rules.",
+      "The incumbent is standing for re-election."
+    ],
+    "collocations": [
+      "incumbent on",
+      "the incumbent"
+    ],
+    "wiki": null,
+    "forms": [
+      "incumbents",
+      "incumbency"
+    ]
+  },
+  {
+    "headword": "indispensable",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Absolutely necessary; impossible to do without.",
+    "usage": "Used of people, tools and skills in work and everyday speech.",
+    "pragmatic_note": "'Nobody is indispensable' is a common British reminder in workplace contexts.",
+    "pitfall": null,
+    "examples": [
+      "Her local knowledge has been indispensable.",
+      "A good project manager is indispensable."
+    ],
+    "collocations": [
+      "absolutely indispensable",
+      "indispensable to"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "integral",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Essential and necessary to make something complete.",
+    "usage": "Common in business, job descriptions and academic writing.",
+    "pragmatic_note": null,
+    "pitfall": "British speakers usually stress the first syllable, /ˈɪntɪɡrəl/; /ɪnˈteɡrəl/ is also heard.",
+    "examples": [
+      "Customer feedback is integral to the design process.",
+      "She's been an integral part of the team."
+    ],
+    "collocations": [
+      "integral part",
+      "integral to"
+    ],
+    "wiki": null,
+    "forms": [
+      "integrally"
+    ]
+  },
+  {
+    "headword": "iteration",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A new version of something, produced by repeating and refining a process.",
+    "usage": "Common in tech, design and product development.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "This is the third iteration of the design.",
+      "We'll improve it with each iteration."
+    ],
+    "collocations": [
+      "next iteration",
+      "early iteration"
+    ],
+    "wiki": null,
+    "forms": [
+      "iterations",
+      "iterate",
+      "iterative"
+    ]
+  },
+  {
+    "headword": "jeopardise",
+    "register": "GREEN",
+    "us_equivalent": "jeopardize",
+    "gloss": "To put something at risk of harm, loss or failure.",
+    "usage": "Common in business, law and news.",
+    "pragmatic_note": null,
+    "pitfall": "Pronounced /ˈdʒepədaɪz/; UK spelling usually takes -ise.",
+    "examples": [
+      "We mustn't jeopardise the relationship with the client.",
+      "Further delays could jeopardise the whole project."
+    ],
+    "collocations": [
+      "jeopardise the deal",
+      "jeopardise safety"
+    ],
+    "wiki": null,
+    "forms": [
+      "jeopardises",
+      "jeopardised",
+      "jeopardising",
+      "jeopardy"
+    ]
+  },
+  {
+    "headword": "judicious",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Showing good judgement and careful thought.",
+    "usage": "Formal word used in management, finance and editorial contexts.",
+    "pragmatic_note": "'A judicious use of...' is a tactful way to recommend restraint.",
+    "pitfall": "It is not related to 'judicial' (to do with courts), despite the shared root.",
+    "examples": [
+      "A judicious use of contractors could help.",
+      "It was a judicious decision to wait."
+    ],
+    "collocations": [
+      "judicious use",
+      "judicious choice"
+    ],
+    "wiki": null,
+    "forms": [
+      "judiciously"
+    ]
+  },
+  {
+    "headword": "latitude",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Freedom to act or decide as you think best, within limits.",
+    "usage": "Used in management and negotiation ('give someone latitude').",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Managers have some latitude over working hours.",
+      "We need more latitude on pricing."
+    ],
+    "collocations": [
+      "give latitude",
+      "considerable latitude"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "moot",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "(adjective) Open to debate and uncertain; (verb) to raise an idea for discussion.",
+    "usage": "In British English 'a moot point' means debatable; 'mooted' means proposed.",
+    "pragmatic_note": null,
+    "pitfall": "In American English 'moot' often means irrelevant or no longer worth discussing; 'mute point' is a common error.",
+    "examples": [
+      "Whether it'll be ready by June is a moot point.",
+      "A merger was mooted last year."
+    ],
+    "collocations": [
+      "moot point",
+      "first mooted"
+    ],
+    "wiki": null,
+    "forms": [
+      "mooted",
+      "mooting"
+    ]
+  },
+  {
+    "headword": "negligible",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "So small or unimportant that it is not worth considering.",
+    "usage": "Common in finance, science and risk discussion.",
+    "pragmatic_note": null,
+    "pitfall": "Do not confuse with 'negligent', which means careless.",
+    "examples": [
+      "The cost difference is negligible.",
+      "The risk to staff is negligible."
+    ],
+    "collocations": [
+      "negligible cost",
+      "negligible risk",
+      "negligible impact"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "notwithstanding",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Despite; in spite of something.",
+    "usage": "Formal word used in legal documents, reports and careful speech.",
+    "pragmatic_note": "It can follow its noun: 'these concerns notwithstanding, we'll proceed'.",
+    "pitfall": null,
+    "examples": [
+      "Notwithstanding the delays, the project came in on budget.",
+      "These concerns notwithstanding, we'll go ahead."
+    ],
+    "collocations": [
+      "notwithstanding the above"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "obsolete",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "No longer used or useful, because something newer has replaced it.",
+    "usage": "Common in tech, manufacturing and business.",
+    "pragmatic_note": null,
+    "pitfall": "UK pronunciation stresses the first syllable: /ˈɒbsəliːt/.",
+    "examples": [
+      "The old software is now obsolete.",
+      "Automation could make some roles obsolete."
+    ],
+    "collocations": [
+      "become obsolete",
+      "render obsolete"
+    ],
+    "wiki": null,
+    "forms": [
+      "obsolescence"
+    ]
+  },
+  {
+    "headword": "offset",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To balance or counteract one thing with another of equal effect.",
+    "usage": "Common in finance, accounting and environmental contexts ('carbon offset').",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Higher prices were offset by lower costs.",
+      "The savings will help offset the outlay."
+    ],
+    "collocations": [
+      "offset costs",
+      "offset against",
+      "carbon offset"
+    ],
+    "wiki": null,
+    "forms": [
+      "offsets",
+      "offsetting"
+    ]
+  },
+  {
+    "headword": "outset",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The beginning or start of something.",
+    "usage": "Used in meetings and writing, mostly 'at the outset' and 'from the outset'.",
+    "pragmatic_note": "'I should say at the outset...' is a polite way to flag a limitation early.",
+    "pitfall": null,
+    "examples": [
+      "I should say at the outset that I'm not an expert.",
+      "We were clear from the outset about the budget."
+    ],
+    "collocations": [
+      "at the outset",
+      "from the outset"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "overarching",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Covering or influencing everything; most important or comprehensive.",
+    "usage": "Common in strategy, policy and academic writing.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Our overarching aim is to improve access.",
+      "There's no overarching strategy."
+    ],
+    "collocations": [
+      "overarching aim",
+      "overarching strategy",
+      "overarching theme"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "oversight",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Supervision of an activity; also an unintentional failure to notice something.",
+    "usage": "Used in governance, regulation and everyday apologies.",
+    "pragmatic_note": "'It was an oversight' is a common, face-saving British way to admit a mistake.",
+    "pitfall": "Its two meanings are almost opposites: careful supervision versus a careless mistake.",
+    "examples": [
+      "The board has oversight of all major spending.",
+      "Missing you off the list was an oversight."
+    ],
+    "collocations": [
+      "regulatory oversight",
+      "an oversight on my part"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "parameter",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A limit or rule that defines the scope of a task or system.",
+    "usage": "Common in technical, project and research contexts; usually plural.",
+    "pragmatic_note": null,
+    "pitfall": "Stress the second syllable: /pəˈræmɪtə/; do not confuse with 'perimeter'.",
+    "examples": [
+      "We need to agree the parameters of the review.",
+      "Within those parameters, you have a free hand."
+    ],
+    "collocations": [
+      "within the parameters",
+      "set parameters"
+    ],
+    "wiki": null,
+    "forms": [
+      "parameters"
+    ]
+  },
+  {
+    "headword": "paramount",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "More important than anything else.",
+    "usage": "Formal word common in safety, health and legal contexts.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Safety is paramount.",
+      "Client confidentiality is of paramount importance."
+    ],
+    "collocations": [
+      "of paramount importance",
+      "paramount concern"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "per se",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "By or in itself; intrinsically.",
+    "usage": "Used in careful speech and writing to make a precise distinction.",
+    "pragmatic_note": "'It's not a problem per se' is a typically British hedge suggesting a related concern.",
+    "pitfall": "Pronounced /ˌpɜː ˈseɪ/; it is Latin, so it is not spelt 'per say'.",
+    "examples": [
+      "The price isn't the issue per se.",
+      "I'm not against the idea per se."
+    ],
+    "collocations": [
+      "not per se"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "pilot",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "(noun) A small-scale trial of a scheme; (verb) to test it on a small scale first.",
+    "usage": "Very common in British public services, business and research.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We'll pilot the scheme in two regions first.",
+      "The pilot was a success."
+    ],
+    "collocations": [
+      "pilot scheme",
+      "pilot project",
+      "run a pilot"
+    ],
+    "wiki": null,
+    "forms": [
+      "pilots",
+      "piloted",
+      "piloting"
+    ]
+  },
+  {
+    "headword": "plausible",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Seeming reasonable or likely to be true.",
+    "usage": "Common in analysis, research and everyday argument.",
+    "pragmatic_note": "Calling someone 'plausible' can imply they are convincing but not entirely trustworthy.",
+    "pitfall": null,
+    "examples": [
+      "That's a plausible explanation.",
+      "Is that a plausible timeline?"
+    ],
+    "collocations": [
+      "plausible explanation",
+      "entirely plausible"
+    ],
+    "wiki": null,
+    "forms": [
+      "plausibly",
+      "plausibility",
+      "implausible"
+    ]
+  },
+  {
+    "headword": "predicated on",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Based on or depending on something being true.",
+    "usage": "Formal phrase used in business, law and academic argument.",
+    "pragmatic_note": null,
+    "pitfall": "It takes 'on' or 'upon': 'predicated on growth'.",
+    "examples": [
+      "The forecast is predicated on steady growth.",
+      "The plan is predicated on the funding coming through."
+    ],
+    "collocations": [
+      "predicated on the assumption",
+      "predicated upon"
+    ],
+    "wiki": null,
+    "forms": [
+      "predicated upon",
+      "predicate"
+    ]
+  },
+  {
+    "headword": "preliminary",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Coming before the main part; early and not yet final.",
+    "usage": "Common in reports, research and negotiations ('preliminary findings').",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "These are only preliminary findings.",
+      "We've had some preliminary discussions."
+    ],
+    "collocations": [
+      "preliminary findings",
+      "preliminary results",
+      "preliminary talks"
+    ],
+    "wiki": null,
+    "forms": [
+      "preliminaries"
+    ]
+  },
+  {
+    "headword": "prescriptive",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Setting out exact rules or instructions about how something must be done.",
+    "usage": "Used in policy, education, management and language debates.",
+    "pragmatic_note": "Calling guidance 'too prescriptive' is a common British criticism of micromanagement.",
+    "pitfall": null,
+    "examples": [
+      "The new guidance is too prescriptive.",
+      "We don't want to be overly prescriptive."
+    ],
+    "collocations": [
+      "overly prescriptive",
+      "too prescriptive"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "procurement",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The process of obtaining goods or services, especially for an organisation.",
+    "usage": "Standard in British public sector, NHS and large companies.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "All contracts must go through procurement.",
+      "The procurement process can take months."
+    ],
+    "collocations": [
+      "public procurement",
+      "procurement process",
+      "procurement team"
+    ],
+    "wiki": null,
+    "forms": [
+      "procure",
+      "procured"
+    ]
+  },
+  {
+    "headword": "proposition",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An offer or proposal, especially in business; also a statement to consider.",
+    "usage": "Common in business ('value proposition') and in judging prospects ('a different proposition').",
+    "pragmatic_note": "'That's a different proposition altogether' is a British way to say something is harder.",
+    "pitfall": null,
+    "examples": [
+      "It's an attractive proposition for investors.",
+      "Selling abroad is a different proposition entirely."
+    ],
+    "collocations": [
+      "value proposition",
+      "attractive proposition",
+      "different proposition"
+    ],
+    "wiki": null,
+    "forms": [
+      "propositions"
+    ]
+  },
+  {
+    "headword": "purview",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The range of authority, responsibility or concern of a person or body.",
+    "usage": "Formal word used in law, governance and business.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "That falls outside the committee's purview.",
+      "Pay is within HR's purview."
+    ],
+    "collocations": [
+      "within the purview of",
+      "outside the purview of"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "quantify",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To express or measure something as a number or amount.",
+    "usage": "Common in finance, research and risk assessment.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Can we quantify the benefits?",
+      "The impact is hard to quantify."
+    ],
+    "collocations": [
+      "quantify the impact",
+      "hard to quantify"
+    ],
+    "wiki": null,
+    "forms": [
+      "quantifies",
+      "quantified",
+      "quantifying",
+      "quantifiable"
+    ]
+  },
+  {
+    "headword": "ramifications",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Complex and often unwanted consequences of an action or decision.",
+    "usage": "Common in legal, business and political discussion.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Have we considered the legal ramifications?",
+      "The decision could have serious ramifications."
+    ],
+    "collocations": [
+      "serious ramifications",
+      "legal ramifications",
+      "wider ramifications"
+    ],
+    "wiki": null,
+    "forms": [
+      "ramification"
+    ]
+  },
+  {
+    "headword": "rapport",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A close, friendly relationship in which people understand each other well.",
+    "usage": "Common in sales, interviews, teaching and healthcare.",
+    "pragmatic_note": null,
+    "pitfall": "The t is silent: /ræˈpɔː/.",
+    "examples": [
+      "She builds rapport with clients very quickly.",
+      "There's a good rapport within the team."
+    ],
+    "collocations": [
+      "build rapport",
+      "good rapport",
+      "rapport with"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "ratify",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To give formal approval to an agreement or decision, making it valid.",
+    "usage": "Used in governance, trade unions, treaties and boards.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The deal still has to be ratified by members.",
+      "The board will ratify the appointment next week."
+    ],
+    "collocations": [
+      "ratify a treaty",
+      "ratify an agreement"
+    ],
+    "wiki": null,
+    "forms": [
+      "ratifies",
+      "ratified",
+      "ratifying",
+      "ratification"
+    ]
+  },
+  {
+    "headword": "recalibrate",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To adjust plans, expectations or methods in response to new circumstances.",
+    "usage": "Common in strategy, finance and management discussions.",
+    "pragmatic_note": "It is somewhat corporate; 'adjust' or 'rethink' is plainer.",
+    "pitfall": null,
+    "examples": [
+      "We need to recalibrate our expectations for this year.",
+      "The strategy has been recalibrated after the review."
+    ],
+    "collocations": [
+      "recalibrate expectations"
+    ],
+    "wiki": null,
+    "forms": [
+      "recalibrates",
+      "recalibrated",
+      "recalibrating"
+    ]
+  },
+  {
+    "headword": "rectify",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To put right a mistake or problem.",
+    "usage": "Formal word used in customer service, complaints and compliance.",
+    "pragmatic_note": "'We'll rectify this as a matter of urgency' is a standard British formal apology.",
+    "pitfall": null,
+    "examples": [
+      "We'll rectify the error straight away.",
+      "Steps have been taken to rectify the problem."
+    ],
+    "collocations": [
+      "rectify the situation",
+      "rectify the error"
+    ],
+    "wiki": null,
+    "forms": [
+      "rectifies",
+      "rectified",
+      "rectifying"
+    ]
+  },
+  {
+    "headword": "reiterate",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To say something again, usually for emphasis or clarity.",
+    "usage": "Common in meetings, speeches and formal emails.",
+    "pragmatic_note": "'Just to reiterate...' can signal firm insistence in a British meeting.",
+    "pitfall": "'Reiterate again' is redundant.",
+    "examples": [
+      "Just to reiterate, the deadline is Friday.",
+      "I'd like to reiterate my thanks to the team."
+    ],
+    "collocations": [
+      "just to reiterate",
+      "reiterate a point"
+    ],
+    "wiki": null,
+    "forms": [
+      "reiterates",
+      "reiterated",
+      "reiterating"
+    ]
+  },
+  {
+    "headword": "resilient",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Able to recover quickly from difficulties or to withstand shocks.",
+    "usage": "Common in HR, wellbeing, supply chains and infrastructure.",
+    "pragmatic_note": "Overused in wellbeing talk, where 'resilience training' can seem to shift blame onto staff.",
+    "pitfall": null,
+    "examples": [
+      "We need a more resilient supply chain.",
+      "The team has been incredibly resilient this year."
+    ],
+    "collocations": [
+      "resilient to",
+      "build resilience"
+    ],
+    "wiki": null,
+    "forms": [
+      "resilience"
+    ]
+  },
+  {
+    "headword": "rigorous",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Extremely thorough, careful and accurate.",
+    "usage": "Common in research, testing and assessment.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "All suppliers go through a rigorous vetting process.",
+      "The analysis wasn't rigorous enough."
+    ],
+    "collocations": [
+      "rigorous testing",
+      "rigorous process",
+      "academic rigour"
+    ],
+    "wiki": null,
+    "forms": [
+      "rigorously",
+      "rigour"
+    ]
+  },
+  {
+    "headword": "spearhead",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To lead an initiative, campaign or attack.",
+    "usage": "Common in business, campaigning and journalism.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She spearheaded the move into Europe.",
+      "Who will spearhead the new project?"
+    ],
+    "collocations": [
+      "spearhead a campaign",
+      "spearhead efforts"
+    ],
+    "wiki": null,
+    "forms": [
+      "spearheads",
+      "spearheaded",
+      "spearheading"
+    ]
+  },
+  {
+    "headword": "stringent",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Strict, precise and demanding.",
+    "usage": "Formal word used in regulation, safety and finance.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The regulations are much more stringent now.",
+      "Stringent checks are carried out on every batch."
+    ],
+    "collocations": [
+      "stringent rules",
+      "stringent checks",
+      "stringent standards"
+    ],
+    "wiki": null,
+    "forms": [
+      "stringently"
+    ]
+  },
+  {
+    "headword": "substantive",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Real, important and meaningful rather than superficial.",
+    "usage": "Formal word used in law, negotiations and HR ('substantive post').",
+    "pragmatic_note": "In British HR a 'substantive post' is your permanent role, as opposed to an acting one.",
+    "pitfall": "UK pronunciation is /səbˈstæntɪv/ or /ˈsʌbstəntɪv/.",
+    "examples": [
+      "We haven't had any substantive discussions yet.",
+      "She was confirmed in her substantive role."
+    ],
+    "collocations": [
+      "substantive issues",
+      "substantive post",
+      "substantive changes"
+    ],
+    "wiki": null,
+    "forms": [
+      "substantively"
+    ]
+  },
+  {
+    "headword": "supersede",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To replace something older or less effective.",
+    "usage": "Common in policy, legal and technical documents.",
+    "pragmatic_note": null,
+    "pitfall": "Spelt with an s, not 'supercede'.",
+    "examples": [
+      "This policy supersedes all previous guidance.",
+      "The old model has been superseded."
+    ],
+    "collocations": [
+      "superseded by"
+    ],
+    "wiki": null,
+    "forms": [
+      "supersedes",
+      "superseded",
+      "superseding"
+    ]
+  },
+  {
+    "headword": "tacit",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Understood or implied without being stated directly.",
+    "usage": "Formal word used in law, management and academic writing.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "There was a tacit agreement not to raise it.",
+      "His silence was taken as tacit approval."
+    ],
+    "collocations": [
+      "tacit agreement",
+      "tacit approval",
+      "tacit knowledge"
+    ],
+    "wiki": null,
+    "forms": [
+      "tacitly"
+    ]
+  },
+  {
+    "headword": "threshold",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The level or point at which something starts to happen or apply.",
+    "usage": "Common in tax, finance, regulation and science.",
+    "pragmatic_note": null,
+    "pitfall": "Spelt with one h in the middle; pronounced /ˈθreʃhəʊld/.",
+    "examples": [
+      "Contracts above that threshold must go to tender.",
+      "The pain threshold varies between people."
+    ],
+    "collocations": [
+      "above the threshold",
+      "tax threshold",
+      "threshold for"
+    ],
+    "wiki": null,
+    "forms": [
+      "thresholds"
+    ]
+  },
+  {
+    "headword": "unprecedented",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Never having happened or existed before.",
+    "usage": "Common in news, business and politics.",
+    "pragmatic_note": "It became heavily overused during the pandemic, so it can now sound clichéd.",
+    "pitfall": null,
+    "examples": [
+      "Demand has reached unprecedented levels.",
+      "This is an unprecedented situation for the firm."
+    ],
+    "collocations": [
+      "unprecedented levels",
+      "unprecedented times"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "unequivocal",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Leaving no doubt; completely clear and unambiguous.",
+    "usage": "Formal word used in statements, politics and law.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The answer was an unequivocal no.",
+      "We've had unequivocal support from the board."
+    ],
+    "collocations": [
+      "unequivocal support",
+      "unequivocal answer"
+    ],
+    "wiki": null,
+    "forms": [
+      "unequivocally"
+    ]
+  },
+  {
+    "headword": "vested interest",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A personal reason, often financial, for wanting something to happen.",
+    "usage": "Common in business, politics and conflict-of-interest discussions.",
+    "pragmatic_note": "Saying someone has a 'vested interest' implies their view may not be impartial.",
+    "pitfall": null,
+    "examples": [
+      "He has a vested interest in keeping the current system.",
+      "Everyone at the table has a vested interest."
+    ],
+    "collocations": [
+      "have a vested interest in"
+    ],
+    "wiki": null,
+    "forms": [
+      "vested interests"
+    ]
+  },
+  {
+    "headword": "comprise",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To consist of or be made up of particular parts.",
+    "usage": "Formal word used in reports, legal and academic writing.",
+    "pragmatic_note": null,
+    "pitfall": "Strictly the whole comprises the parts; 'comprised of' is common but criticised by careful writers.",
+    "examples": [
+      "The committee comprises six members.",
+      "The course comprises three modules."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "comprises",
+      "comprised",
+      "comprising"
+    ]
+  },
+  {
+    "headword": "disinterested",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Impartial; not influenced by personal advantage.",
+    "usage": "Used in law, journalism and formal writing about neutral judgement.",
+    "pragmatic_note": null,
+    "pitfall": "Careful British speakers distinguish it from 'uninterested', which means not interested.",
+    "examples": [
+      "We need a disinterested party to review the dispute.",
+      "Her advice was entirely disinterested."
+    ],
+    "collocations": [
+      "disinterested party",
+      "disinterested advice"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "invaluable",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Extremely useful or valuable; too valuable to measure.",
+    "usage": "Common in thank-you messages, references and appraisals.",
+    "pragmatic_note": "'Your help has been invaluable' is a standard British expression of sincere thanks.",
+    "pitfall": "It means extremely valuable, not 'not valuable'; the opposite is 'worthless'.",
+    "examples": [
+      "Your input has been invaluable.",
+      "Her experience will be invaluable to the team."
+    ],
+    "collocations": [
+      "invaluable help",
+      "invaluable experience"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "reticent",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Not revealing your thoughts or feelings readily; reserved.",
+    "usage": "Used in formal and journalistic contexts about people's communication.",
+    "pragmatic_note": null,
+    "pitfall": "It is widely used to mean 'reluctant', but careful speakers keep it for being unwilling to speak.",
+    "examples": [
+      "He's been reticent about his plans.",
+      "She was reticent about the reasons for leaving."
+    ],
+    "collocations": [
+      "reticent about"
+    ],
+    "wiki": null,
+    "forms": [
+      "reticence"
+    ]
+  },
+  {
+    "headword": "sanction",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "(verb) To give official permission; (noun) a penalty for breaking a rule.",
+    "usage": "Used in governance, law, international relations and HR.",
+    "pragmatic_note": null,
+    "pitfall": "It has opposite meanings: 'sanction' a plan means approve it, but 'sanctions' are penalties.",
+    "examples": [
+      "The board has sanctioned the expenditure.",
+      "Staff who breach the policy face sanctions."
+    ],
+    "collocations": [
+      "impose sanctions",
+      "officially sanctioned"
+    ],
+    "wiki": null,
+    "forms": [
+      "sanctions",
+      "sanctioned",
+      "sanctioning"
+    ]
+  },
+  {
+    "headword": "exponential",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "(of growth) Increasing ever faster, in proportion to the current size.",
+    "usage": "Precise in maths and science; often used loosely in business to mean 'very fast'.",
+    "pragmatic_note": "Data-literate British listeners may challenge loose use, so keep it for genuinely compounding growth.",
+    "pitfall": null,
+    "examples": [
+      "We've seen exponential growth in demand.",
+      "Costs rise exponentially with each extra user."
+    ],
+    "collocations": [
+      "exponential growth",
+      "grow exponentially"
+    ],
+    "wiki": null,
+    "forms": [
+      "exponentially"
+    ]
+  },
+  {
+    "headword": "pre-empt",
+    "register": "GREEN",
+    "us_equivalent": "preempt",
+    "gloss": "To act in advance to prevent something or deal with it before it happens.",
+    "usage": "Common in negotiations, planning and debates.",
+    "pragmatic_note": "'I don't want to pre-empt the review' is a polite way to avoid committing early.",
+    "pitfall": "British spelling usually keeps the hyphen: 'pre-empt'.",
+    "examples": [
+      "I don't want to pre-empt the board's decision.",
+      "We tried to pre-empt the obvious objections."
+    ],
+    "collocations": [
+      "pre-empt a decision",
+      "pre-empt questions"
+    ],
+    "wiki": null,
+    "forms": [
+      "pre-empts",
+      "pre-empted",
+      "pre-empting",
+      "pre-emptive"
+    ]
+  },
+  {
+    "headword": "status quo",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The existing state of affairs.",
+    "usage": "Common in politics, business and debate.",
+    "pragmatic_note": null,
+    "pitfall": "UK pronunciation is usually /ˌsteɪtəs ˈkwəʊ/, with 'stay' rather than 'stat'.",
+    "examples": [
+      "Maintaining the status quo isn't an option.",
+      "Many staff prefer the status quo."
+    ],
+    "collocations": [
+      "maintain the status quo",
+      "challenge the status quo"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "discretion",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The freedom to decide; also, care not to share sensitive information.",
+    "usage": "Common in HR, law and professional services ('at the manager's discretion').",
+    "pragmatic_note": "'Discretion is assured' signals confidentiality in British professional settings.",
+    "pitfall": null,
+    "examples": [
+      "Bonuses are paid at the manager's discretion.",
+      "I'd appreciate your discretion on this."
+    ],
+    "collocations": [
+      "at your discretion",
+      "use your discretion",
+      "discretionary"
+    ],
+    "wiki": null,
+    "forms": [
+      "discretionary",
+      "discreet"
+    ]
+  }
+]

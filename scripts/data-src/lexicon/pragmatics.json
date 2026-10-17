@@ -1,0 +1,4233 @@
+[
+  {
+    "headword": "with the greatest respect",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A formal preface to strong disagreement, signalling that the speaker thinks the listener is wrong.",
+    "usage": "Used in meetings, interviews and debates just before a firm contradiction.",
+    "pragmatic_note": "Decoder: it usually means 'I think you are wrong, possibly foolish'; the more respect claimed, the less is felt.",
+    "pitfall": "Learners use it as genuine deference to seniors; British listeners will hear an impending put-down.",
+    "examples": [
+      "With the greatest respect, I don't think the figures support that.",
+      "With the greatest respect, Minister, that isn't what you said last week."
+    ],
+    "collocations": [
+      "with the greatest respect to"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "with all due respect",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A preface to disagreement that politely flags you are about to contradict someone.",
+    "usage": "Common in meetings, broadcast interviews and complaints, slightly less loaded than 'with the greatest respect'.",
+    "pragmatic_note": "Decoder: 'I disagree and I'm about to say so'; it is a warning shot, not a compliment.",
+    "pitfall": "Indian-English speakers often use it to sound deferential to elders, but in Britain it signals pushback.",
+    "examples": [
+      "With all due respect, we tried that approach last year and it failed.",
+      "With all due respect, that's not really the point."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "with respect",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A short, formal preface to disagreement or correction.",
+    "usage": "Heard in committee meetings, Parliament and legal settings before a contradiction.",
+    "pragmatic_note": "Decoder: 'You are mistaken'; in Parliament and courts it is ritualised but still pointed.",
+    "pitfall": "Does not mean 'regarding'; for that say 'with respect to' or simply 'about'.",
+    "examples": [
+      "With respect, that's not quite what the report says.",
+      "With respect, I think we're getting ahead of ourselves."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I hear what you say",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A formula acknowledging someone's point while implying you have not been persuaded.",
+    "usage": "Used by managers and in negotiations to close down a point without conceding it.",
+    "pragmatic_note": "Decoder: 'I disagree and do not wish to discuss it further.'",
+    "pitfall": "It is not a sign of agreement or empathy; do not report back that your manager 'agreed'.",
+    "examples": [
+      "I hear what you say, but we'll be sticking with the original plan.",
+      "I hear what you say, Tom, and I'll take it under advisement."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'll bear it in mind",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite promise to remember a suggestion, often without any intention of acting on it.",
+    "usage": "Used at work and socially to receive advice graciously.",
+    "pragmatic_note": "Decoder: frequently 'I've already forgotten it' or 'I won't be doing that'; context and tone decide.",
+    "pitfall": "Do not treat it as a commitment; if you need action, ask for a specific next step.",
+    "examples": [
+      "Thanks for the suggestion, I'll bear it in mind.",
+      "We'll certainly bear that in mind for next year."
+    ],
+    "collocations": [
+      "bear that in mind",
+      "worth bearing in mind"
+    ],
+    "wiki": null,
+    "forms": [
+      "bear that in mind",
+      "bearing in mind"
+    ]
+  },
+  {
+    "headword": "that's an interesting idea",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite response to a proposal that the speaker often considers unworkable or odd.",
+    "usage": "Common in meetings when a colleague floats something the group is unlikely to adopt.",
+    "pragmatic_note": "Decoder: usually 'that's a bad idea' or 'that's never going to happen'; real enthusiasm sounds warmer and adds detail.",
+    "pitfall": "Learners hear genuine praise and push the idea further, which can embarrass everyone.",
+    "examples": [
+      "That's an interesting idea. Let's see how the budget looks first.",
+      "Hmm, that's an interesting idea, Priya."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "interesting",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A word whose meaning depends heavily on intonation: genuine curiosity, polite doubt or open scepticism.",
+    "usage": "Used constantly in conversation; a flat or drawn-out 'interesting' is often a verdict, not a compliment.",
+    "pragmatic_note": "Decoder: a falling, lengthened 'interesting...' often means 'odd', 'wrong' or 'I don't like it'.",
+    "pitfall": "Practise the warm rising version for real interest; the flat version can sound sarcastic.",
+    "examples": [
+      "Oh, interesting, tell me more.",
+      "Purple walls in the office? Interesting."
+    ],
+    "collocations": [
+      "how interesting",
+      "very interesting"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "not bad",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Classic British understatement meaning good, sometimes very good.",
+    "usage": "Used in everyday speech to praise food, work, results or performance.",
+    "pragmatic_note": "Decoder: 'not bad at all' is warm praise; British speakers avoid gushing, so negated criticism carries the compliment.",
+    "pitfall": "American listeners may hear it as lukewarm; Britons usually mean it positively.",
+    "examples": [
+      "Not bad at all, that's a really solid first draft.",
+      "This curry's not bad, is it?"
+    ],
+    "collocations": [
+      "not bad at all",
+      "not a bad idea"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "not too bad",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A modest reply meaning fine or reasonably well, used for health, mood or progress.",
+    "usage": "The standard British answer to 'How are you?' or 'How's it going?'.",
+    "pragmatic_note": "Britons rarely say 'great!' about themselves; 'not too bad' is neutral-to-positive, not a cry for help.",
+    "pitfall": "Do not ask what's wrong; it is the default cheerful response, not a complaint.",
+    "examples": [
+      "Not too bad, thanks. You?",
+      "The project's not too bad, just a few loose ends."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "quite good",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Meaning shifts with stress: stressed 'QUITE good' sounds lukewarm; stressed 'quite GOOD' sounds positive.",
+    "usage": "Used in feedback and everyday opinions; British 'quite' usually weakens rather than strengthens.",
+    "pragmatic_note": "Decoder: in a performance review, 'quite good' often means 'a bit disappointing'.",
+    "pitfall": "In American English 'quite good' means very good; in Britain it is often only moderate praise.",
+    "examples": [
+      "The presentation was quite good, but it ran over.",
+      "The food was quite good, actually."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "quite",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "In British English usually 'fairly, moderately'; with absolute adjectives it means 'completely'.",
+    "usage": "Everyday hedge in speech and writing; 'quite right' and 'quite sure' mean 'completely'.",
+    "pragmatic_note": "On its own, a clipped 'Quite.' is a dry, slightly old-fashioned way of saying 'I agree entirely.'",
+    "pitfall": "Americans use 'quite' as 'very', so 'quite nice' is often misread as stronger praise than intended.",
+    "examples": [
+      "It's quite cold today, isn't it?",
+      "You're quite right, I'd forgotten."
+    ],
+    "collocations": [
+      "quite right",
+      "quite sure",
+      "not quite"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "perhaps you could consider",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A softened instruction that is really a request or an order.",
+    "usage": "Common in feedback, emails from managers and academic marking.",
+    "pragmatic_note": "Decoder: 'Do this.' British managers often wrap instructions in optional-sounding language.",
+    "pitfall": "Learners treat it as optional advice and ignore it; it is usually a firm expectation.",
+    "examples": [
+      "Perhaps you could consider shortening the introduction.",
+      "Perhaps you could consider copying Sarah in next time."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I was a bit disappointed",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Understated way of expressing real annoyance or dissatisfaction.",
+    "usage": "Used in feedback, complaints and personal conversations to signal displeasure without drama.",
+    "pragmatic_note": "Decoder: often 'I'm quite upset' or 'I'm annoyed'; British understatement means the true feeling is stronger.",
+    "pitfall": "Do not dismiss it as mild; in Britain this can be a serious rebuke.",
+    "examples": [
+      "I was a bit disappointed that nobody let me know.",
+      "Honestly, I was a bit disappointed with the service."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "very brave",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Ironic description of a decision the speaker thinks is risky, unwise or foolish.",
+    "usage": "Heard about career moves, fashion, design choices and bold proposals.",
+    "pragmatic_note": "Decoder: 'That's very brave' often means 'you're making a mistake'; 'Yes Minister' made 'a courageous decision' the classic example.",
+    "pitfall": "Learners hear praise for courage; take it as gentle scepticism unless the context is genuine heroism.",
+    "examples": [
+      "Quitting without another job lined up? That's very brave.",
+      "A white sofa with two toddlers. Very brave."
+    ],
+    "collocations": [
+      "a very brave decision",
+      "very courageous"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'm sure it's my fault",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A polite, self-blaming formula that frequently implies the other person is responsible.",
+    "usage": "Used in complaints and workplace mix-ups to avoid open accusation.",
+    "pragmatic_note": "Decoder: often 'I think it's your fault'; the self-blame gives the other person room to apologise.",
+    "pitfall": "Do not agree with it ('Yes, it was'); the expected reply is 'No, no, it's probably mine.'",
+    "examples": [
+      "I'm sure it's my fault, but I don't seem to have received the invite.",
+      "I'm sure it's my fault for not explaining it properly."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I almost agree",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite way of introducing substantial disagreement.",
+    "usage": "Used in meetings and seminars to soften an objection.",
+    "pragmatic_note": "Decoder: 'I don't really agree'; the important part is what follows.",
+    "pitfall": "Do not count it as support for your proposal.",
+    "examples": [
+      "I almost agree, but I think the timing's wrong.",
+      "I almost agree with you there."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "only a few minor comments",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A reviewer's understated preface that may precede extensive or significant changes.",
+    "usage": "Common in document reviews, academic feedback and email replies to drafts.",
+    "pragmatic_note": "Decoder: can mean 'please rewrite much of this'; check the attachment before relaxing.",
+    "pitfall": "Learners assume the feedback is trivial and under-allocate time to it.",
+    "examples": [
+      "I've got only a few minor comments, mostly on section three.",
+      "Just a few minor comments, nothing major."
+    ],
+    "collocations": [
+      "just a few minor comments"
+    ],
+    "wiki": null,
+    "forms": [
+      "a few minor comments"
+    ]
+  },
+  {
+    "headword": "by the way",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Introduces a new topic as if it were an afterthought.",
+    "usage": "Used in speech and emails to raise a point casually.",
+    "pragmatic_note": "Decoder: in British workplace speech the 'afterthought' is sometimes the main reason for the conversation.",
+    "pitfall": "Avoid using it to raise genuinely urgent issues in formal writing; it can bury the message.",
+    "examples": [
+      "Oh, by the way, the meeting's moved to Thursday.",
+      "By the way, did you ever hear back from finance?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "incidentally",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A more formal 'by the way', introducing a related or new point.",
+    "usage": "Used in speech and writing to add information without seeming to insist on it.",
+    "pragmatic_note": "Decoder: 'Oh, incidentally...' can introduce the point the speaker most wanted to make.",
+    "pitfall": null,
+    "examples": [
+      "Incidentally, the deadline has been brought forward.",
+      "Incidentally, have you spoken to the client yet?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "you must come round sometime",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A friendly, vague invitation that may not be a firm offer.",
+    "usage": "Said at the end of social encounters with neighbours, acquaintances and colleagues.",
+    "pragmatic_note": "Decoder: without a date it is often goodwill rather than a real invitation; a genuine one gets a day attached.",
+    "pitfall": "Turning up uninvited or pressing for a date immediately can feel awkward to British hosts.",
+    "examples": [
+      "You must come round sometime and meet the kids.",
+      "We must have you round for dinner sometime."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "you must come round for dinner"
+    ]
+  },
+  {
+    "headword": "it's not the end of the world",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A reassurance that a problem is manageable.",
+    "usage": "Used to comfort someone after a mistake or setback.",
+    "pragmatic_note": "Often a genuine kindness, but can also signal 'this is a bit annoying, but I'll let it go'.",
+    "pitfall": null,
+    "examples": [
+      "Don't worry, it's not the end of the world.",
+      "We'll miss the train, but it's not the end of the world."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "could be worse",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A stoical reply meaning things are acceptable, or bad but bearable.",
+    "usage": "Classic answer to 'How are you?' and comment on weather, traffic or results.",
+    "pragmatic_note": "Reflects British stoicism: complaining mildly while refusing to make a fuss.",
+    "pitfall": "Not a sign of distress requiring follow-up questions.",
+    "examples": [
+      "How's the new job? Oh, could be worse.",
+      "It's raining, but could be worse."
+    ],
+    "collocations": [
+      "it could be worse",
+      "could have been worse"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "could be better",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "An understated admission that things are not going well.",
+    "usage": "Used about health, mood, results or work.",
+    "pragmatic_note": "Decoder: often means 'quite bad'; Britons downplay their troubles.",
+    "pitfall": "Listeners may need to probe gently; it can conceal a real problem.",
+    "examples": [
+      "How was the review? Could be better, to be honest.",
+      "Sales could be better this quarter."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "a bit of an issue",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Understated description of a problem, sometimes a serious one.",
+    "usage": "Used in meetings and emails to raise problems without alarm.",
+    "pragmatic_note": "Decoder: 'a bit of an issue' can mean 'a major problem'; British speakers shrink bad news.",
+    "pitfall": "Learners may under-react; ask how serious it is before moving on.",
+    "examples": [
+      "We've got a bit of an issue with the server.",
+      "There's a bit of an issue with the invoice."
+    ],
+    "collocations": [
+      "bit of a problem"
+    ],
+    "wiki": null,
+    "forms": [
+      "a bit of a problem"
+    ]
+  },
+  {
+    "headword": "slightly concerned",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Formal understatement for real worry or disapproval.",
+    "usage": "Common in emails, meetings and official feedback.",
+    "pragmatic_note": "Decoder: often 'very worried' or 'unhappy'; the 'slightly' is politeness, not measurement.",
+    "pitfall": "Treat it as a significant warning, especially from a senior colleague.",
+    "examples": [
+      "I'm slightly concerned about the timeline.",
+      "We're slightly concerned that the costs are rising."
+    ],
+    "collocations": [
+      "a little concerned"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "that's one way of doing it",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A dry comment implying the method is odd, inefficient or wrong.",
+    "usage": "Said when watching someone tackle a task unusually.",
+    "pragmatic_note": "Decoder: 'That's not how I'd do it' or 'that's wrong'.",
+    "pitfall": "Not an endorsement of your method.",
+    "examples": [
+      "You've written it all by hand? Well, that's one way of doing it.",
+      "That's one way of doing it, I suppose."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'm not sure that's quite right",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite way of saying something is wrong.",
+    "usage": "Used in meetings, reviews and conversation to correct someone gently.",
+    "pragmatic_note": "Decoder: 'That's wrong'; the double hedge ('not sure', 'quite') is politeness.",
+    "pitfall": "Learners may think the speaker is uncertain and repeat the claim.",
+    "examples": [
+      "I'm not sure that's quite right. The deadline's Friday, isn't it?",
+      "Hmm, I'm not sure that's quite right."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "not quite what I had in mind",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite way of rejecting work that missed the brief.",
+    "usage": "Used by managers and clients giving feedback.",
+    "pragmatic_note": "Decoder: 'This is wrong, please redo it.'",
+    "pitfall": "It is not a minor tweak request; clarify expectations before revising.",
+    "examples": [
+      "It's not quite what I had in mind, but it's a start.",
+      "That's not quite what I had in mind, to be honest."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'd suggest",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A softened recommendation that often functions as an instruction.",
+    "usage": "Common in feedback, emails and meetings, especially from seniors.",
+    "pragmatic_note": "Decoder: from a manager, 'I'd suggest...' usually means 'do this'.",
+    "pitfall": "Learners treat it as optional; ignoring it can cause friction.",
+    "examples": [
+      "I'd suggest we leave that until after lunch.",
+      "I'd suggest checking with legal before sending it."
+    ],
+    "collocations": [
+      "I'd suggest that",
+      "may I suggest"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "you might want to",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A gentle way of telling someone to do something.",
+    "usage": "Used in feedback, instructions and friendly warnings.",
+    "pragmatic_note": "Decoder: 'You should do this', sometimes 'you must do this'.",
+    "pitfall": "American speakers use it similarly; Indian-English speakers may read it as purely optional.",
+    "examples": [
+      "You might want to double-check those numbers.",
+      "You might want to bring an umbrella."
+    ],
+    "collocations": [
+      "you may want to"
+    ],
+    "wiki": null,
+    "forms": [
+      "you may want to"
+    ]
+  },
+  {
+    "headword": "it might be worth",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A tentative suggestion that something should be done.",
+    "usage": "Used in meetings, emails and advice to propose actions without pushing.",
+    "pragmatic_note": "Decoder: often a firm recommendation phrased as a possibility.",
+    "pitfall": null,
+    "examples": [
+      "It might be worth giving them a ring first.",
+      "It might be worth asking IT about that."
+    ],
+    "collocations": [
+      "might be worth checking",
+      "worth a try"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "have you thought about",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A soft way of proposing an alternative or pointing out an oversight.",
+    "usage": "Common in coaching, feedback and meetings.",
+    "pragmatic_note": "Decoder: 'You should do this' or 'you've missed this'.",
+    "pitfall": "Answering 'No' and moving on misses that it is a suggestion.",
+    "examples": [
+      "Have you thought about asking Mark? He's done this before.",
+      "Have you thought about the cost of shipping?"
+    ],
+    "collocations": [
+      "have you considered"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'd be inclined to",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A tentative way of stating your preference or advice.",
+    "usage": "Used in professional advice and meetings by speakers avoiding sounding bossy.",
+    "pragmatic_note": "Decoder: usually a clear recommendation, softened.",
+    "pitfall": null,
+    "examples": [
+      "I'd be inclined to wait until the new year.",
+      "I'd be inclined to say no, actually."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "no offence, but",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "A preface warning that the speaker is about to say something potentially offensive.",
+    "usage": "Casual speech among friends; it rarely softens the blow.",
+    "pragmatic_note": "Decoder: offence is about to be given.",
+    "pitfall": "Avoid at work; it draws attention to the rudeness rather than removing it.",
+    "examples": [
+      "No offence, but that shirt's seen better days.",
+      "No offence, but I'd rather do it myself."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'm not being funny, but",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "A colloquial preface to a blunt complaint or criticism.",
+    "usage": "Informal speech, especially in England; not used in formal settings.",
+    "pragmatic_note": "Decoder: 'I'm about to be blunt or critical.'",
+    "pitfall": "It does not mean the speaker isn't joking; it means they are about to complain.",
+    "examples": [
+      "I'm not being funny, but that's the third time this week.",
+      "I'm not being funny, but who left this mess?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "fair enough",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Acceptance that a point or decision is reasonable, even if you don't fully like it.",
+    "usage": "Very common in conversation and informal meetings.",
+    "pragmatic_note": "Can be genuine acceptance or a mild 'fine, I'll drop it'; tone decides.",
+    "pitfall": "A clipped, flat 'fair enough' can signal irritation; say it warmly to show real acceptance.",
+    "examples": [
+      "You'd rather leave it till Monday? Fair enough.",
+      "Fair enough, I hadn't thought of that."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "fair point",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A concession that someone has made a valid argument.",
+    "usage": "Used in meetings and discussions to acknowledge a good point.",
+    "pragmatic_note": "Usually genuine, but often followed by 'but...' to restate your view.",
+    "pitfall": null,
+    "examples": [
+      "Fair point, we should check the budget first.",
+      "That's a fair point, actually."
+    ],
+    "collocations": [
+      "that's a fair point"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I see where you're coming from",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "An acknowledgement that you understand someone's reasoning, often before disagreeing.",
+    "usage": "Common in meetings, negotiations and personal discussions.",
+    "pragmatic_note": "Decoder: frequently 'I understand you, but I disagree'.",
+    "pitfall": "It is empathy, not agreement.",
+    "examples": [
+      "I see where you're coming from, but I think it's too risky.",
+      "I do see where you're coming from."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "up to a point",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Partial agreement that signals significant reservations.",
+    "usage": "Used in discussion, debate and academic writing.",
+    "pragmatic_note": "Decoder: famously 'no' in polite form (as in Evelyn Waugh's 'Scoop').",
+    "pitfall": "Do not record it as agreement.",
+    "examples": [
+      "I agree up to a point, but the costs worry me.",
+      "That's true up to a point."
+    ],
+    "collocations": [
+      "agree up to a point"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "to some extent",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A hedge indicating partial truth or partial agreement.",
+    "usage": "Used in speech and formal writing to qualify claims.",
+    "pragmatic_note": "Often signals that the speaker's real view lies in the qualification that follows.",
+    "pitfall": null,
+    "examples": [
+      "To some extent, yes, but it's more complicated than that.",
+      "I agree to some extent."
+    ],
+    "collocations": [
+      "to a certain extent",
+      "to a large extent"
+    ],
+    "wiki": null,
+    "forms": [
+      "to a certain extent"
+    ]
+  },
+  {
+    "headword": "it's early days",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A cautious way of saying it is too soon to judge results.",
+    "usage": "Used about projects, relationships, recoveries and new ventures.",
+    "pragmatic_note": "Can be a polite way of managing expectations when early results are poor.",
+    "pitfall": null,
+    "examples": [
+      "It's early days, but the feedback's been positive.",
+      "It's still early days with the new system."
+    ],
+    "collocations": [
+      "still early days"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "we'll see",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A non-committal reply postponing a decision.",
+    "usage": "Used at work and at home, famously by parents to children.",
+    "pragmatic_note": "Decoder: often 'probably not'.",
+    "pitfall": "Do not treat it as a yes.",
+    "examples": [
+      "Can we go to the beach tomorrow? We'll see.",
+      "We'll see how the numbers look in March."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'll think about it",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A non-committal reply to a request or suggestion.",
+    "usage": "Used socially and at work when the speaker does not want to say no outright.",
+    "pragmatic_note": "Decoder: frequently a soft no, unless followed by a timescale.",
+    "pitfall": null,
+    "examples": [
+      "I'll think about it and let you know.",
+      "Thanks, I'll think about it."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'll see what I can do",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A promise to try, without guaranteeing success.",
+    "usage": "Used in customer service and the workplace in response to requests.",
+    "pragmatic_note": "Can be genuine effort or a polite brush-off; the follow-up tells you which.",
+    "pitfall": "Do not report it as a confirmed yes.",
+    "examples": [
+      "Leave it with me and I'll see what I can do.",
+      "I can't promise anything, but I'll see what I can do."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'm sure you know best",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A seemingly deferential phrase often expressing scepticism or resentment.",
+    "usage": "Said when someone insists on their way despite advice.",
+    "pragmatic_note": "Decoder: 'Do it your way, but I think you're wrong.'",
+    "pitfall": "With a cool tone it is passive-aggressive, not respectful.",
+    "examples": [
+      "Well, I'm sure you know best.",
+      "Fine, I'm sure you know best."
+    ],
+    "collocations": [
+      "you know best"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "each to their own",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "An acceptance that people have different tastes, often implying mild disapproval.",
+    "usage": "Used about hobbies, food, fashion and choices the speaker would not make.",
+    "pragmatic_note": "Decoder: 'I wouldn't, but it's your choice.'",
+    "pitfall": null,
+    "examples": [
+      "Pineapple on pizza? Each to their own.",
+      "Running marathons for fun? Each to their own."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "each to his own"
+    ]
+  },
+  {
+    "headword": "it's a bit much",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A mild complaint that something is excessive or unreasonable.",
+    "usage": "Used about demands, behaviour, prices or decoration.",
+    "pragmatic_note": "Decoder: often 'this is completely unacceptable'.",
+    "pitfall": null,
+    "examples": [
+      "Three meetings before nine is a bit much.",
+      "Honestly, I think his reaction was a bit much."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "a bit",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A small amount; in British speech also a pervasive softener for criticism or requests.",
+    "usage": "Used constantly: 'a bit late', 'a bit tired', 'a bit of a problem'.",
+    "pragmatic_note": "Decoder: 'a bit annoyed' may mean furious; 'a bit' is often politeness, not size.",
+    "pitfall": "Do not read it literally in complaints or feedback.",
+    "examples": [
+      "I'm a bit worried about Friday.",
+      "Could you turn it down a bit?"
+    ],
+    "collocations": [
+      "a bit late",
+      "a bit tired",
+      "a bit of a"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "rather",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Fairly or somewhat; also used as a mild intensifier in understatement.",
+    "usage": "Common in British speech and writing, more so than in American English.",
+    "pragmatic_note": "In understatement, 'rather unfortunate' or 'rather upset' often means very.",
+    "pitfall": "Avoid over-using 'rather' in casual speech; it can sound stiff or posh.",
+    "examples": [
+      "It's rather a long way to walk.",
+      "I was rather surprised by her reply."
+    ],
+    "collocations": [
+      "rather good",
+      "rather than",
+      "would rather"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "fairly",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Moderately; less than 'very'.",
+    "usage": "Common in speech and writing to tone down claims.",
+    "pragmatic_note": "'Fairly good' is lukewarm; Britons hedge praise and blame alike.",
+    "pitfall": null,
+    "examples": [
+      "I'm fairly sure the shop shuts at six.",
+      "It was fairly straightforward, in the end."
+    ],
+    "collocations": [
+      "fairly sure",
+      "fairly certain"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "ever so slightly",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A deliberately exaggerated understatement, often humorous or ironic.",
+    "usage": "Casual and colleague speech when downplaying something obvious.",
+    "pragmatic_note": "Decoder: usually 'very'; the irony is the point.",
+    "pitfall": null,
+    "examples": [
+      "I'm ever so slightly nervous about the speech.",
+      "The meeting overran ever so slightly. By two hours."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "not entirely",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Not completely; a gentle way of saying 'not really' or 'no'.",
+    "usage": "Used in meetings, emails and polite disagreement.",
+    "pragmatic_note": "Decoder: 'I'm not entirely convinced' means 'I'm not convinced'.",
+    "pitfall": null,
+    "examples": [
+      "I'm not entirely sure that's true.",
+      "It wasn't entirely successful, I'm afraid."
+    ],
+    "collocations": [
+      "not entirely sure",
+      "not entirely convinced"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "not exactly",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A softened 'no'; also used ironically to mean 'the opposite'.",
+    "usage": "Common in conversation as a gentle correction.",
+    "pragmatic_note": "'It's not exactly cheap' means 'it's expensive'.",
+    "pitfall": null,
+    "examples": [
+      "Did you enjoy it? Not exactly.",
+      "It's not exactly next door, is it?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "not great",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "An understated way of saying something is bad.",
+    "usage": "Used about results, health, weather and situations.",
+    "pragmatic_note": "Decoder: often quite bad; Britons negate positives rather than use strong negatives.",
+    "pitfall": null,
+    "examples": [
+      "The weather's not great this weekend.",
+      "Honestly, the results are not great."
+    ],
+    "collocations": [
+      "not great news"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "not the best",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Understatement for poor or bad.",
+    "usage": "Used about timing, quality and decisions.",
+    "pragmatic_note": "Decoder: 'not the best idea' means 'a bad idea'.",
+    "pitfall": null,
+    "examples": [
+      "It's not the best time, to be honest.",
+      "That was not the best decision I've ever made."
+    ],
+    "collocations": [
+      "not the best time",
+      "not the best idea"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'm not convinced",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite way of saying you disagree or doubt a proposal.",
+    "usage": "Used in meetings, reviews and discussions.",
+    "pragmatic_note": "Decoder: usually 'I think this is wrong'; it is firmer than it sounds.",
+    "pitfall": null,
+    "examples": [
+      "I'm not convinced it'll work in practice.",
+      "I'm still not convinced, I'm afraid."
+    ],
+    "collocations": [
+      "not entirely convinced"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I have some reservations",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A formal way of expressing doubts or objections.",
+    "usage": "Used in meetings, committee papers and professional emails.",
+    "pragmatic_note": "Decoder: can mean 'I strongly object'.",
+    "pitfall": null,
+    "examples": [
+      "I have some reservations about the proposal.",
+      "I'll be honest, I have some reservations."
+    ],
+    "collocations": [
+      "serious reservations",
+      "without reservation"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I might be wrong, but",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A modest preface to a correction or opinion the speaker is fairly sure of.",
+    "usage": "Common in meetings and emails to avoid sounding arrogant.",
+    "pragmatic_note": "Decoder: 'I'm fairly sure I'm right.'",
+    "pitfall": "Learners use it sincerely and may undermine their own expertise; use sparingly.",
+    "examples": [
+      "I might be wrong, but I don't think that's been approved.",
+      "I might be wrong, but isn't it a bank holiday?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "correct me if I'm wrong",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A preface inviting correction, often before a confident or pointed claim.",
+    "usage": "Used in meetings and discussions to challenge someone politely.",
+    "pragmatic_note": "Decoder: often 'I know I'm right, and you're about to be caught out'.",
+    "pitfall": null,
+    "examples": [
+      "Correct me if I'm wrong, but we agreed this last month.",
+      "Correct me if I'm wrong, but isn't that over budget?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "just a thought",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A tag that softens a suggestion, presenting it as tentative.",
+    "usage": "Common in meetings, emails and chat.",
+    "pragmatic_note": "Decoder: can be a genuine idea or a polite instruction from a senior colleague.",
+    "pitfall": null,
+    "examples": [
+      "Just a thought, but could we move it to Tuesday?",
+      "We could ask the client directly. Just a thought."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I was wondering if",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A very polite way to introduce a request.",
+    "usage": "Standard in emails, phone calls and requests to superiors or strangers.",
+    "pragmatic_note": "The past continuous distances the request and makes refusal easier, which Britons value.",
+    "pitfall": "Indian-English speakers sometimes say 'I wanted to know' or 'kindly', which sounds more abrupt.",
+    "examples": [
+      "I was wondering if you had a moment to look at this.",
+      "I was wondering if we could move our call to three."
+    ],
+    "collocations": [
+      "I was just wondering",
+      "I wonder if"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "would you mind",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite request formula; 'would you mind doing X?' means 'please do X'.",
+    "usage": "Used everywhere from offices to trains.",
+    "pragmatic_note": "To agree, say 'No, not at all' or 'Of course not'; 'yes' technically means you do mind.",
+    "pitfall": "Learners often answer 'Yes, sure', which is understood but logically means refusal.",
+    "examples": [
+      "Would you mind closing the window?",
+      "Would you mind if I sat here?"
+    ],
+    "collocations": [
+      "would you mind if"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "do you mind if",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A polite request for permission.",
+    "usage": "Used in everyday situations: sitting, opening windows, taking calls.",
+    "pragmatic_note": "The polite 'yes' answer is 'No, go ahead' or 'Not at all'.",
+    "pitfall": "Answering 'Yes' means you object; this trips up many learners.",
+    "examples": [
+      "Do you mind if I open the window?",
+      "Do you mind if I bring a friend?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "if it's not too much trouble",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite softener added to a request.",
+    "usage": "Used in requests to colleagues, staff and strangers.",
+    "pragmatic_note": "Over-polite in small requests; it can sound sarcastic if the request is trivial.",
+    "pitfall": null,
+    "examples": [
+      "Could you send me a copy, if it's not too much trouble?",
+      "If it's not too much trouble, could we get some water?"
+    ],
+    "collocations": [
+      "if it's no trouble"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "if you don't mind",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite softener for requests; with stress, a cold rebuke.",
+    "usage": "Used widely in speech; the sharp version is used to object to rudeness.",
+    "pragmatic_note": "A clipped 'Do you mind!' or 'if you don't mind!' signals annoyance, e.g. at queue-jumping.",
+    "pitfall": null,
+    "examples": [
+      "I'll sit here, if you don't mind.",
+      "Could you wait outside, if you don't mind?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'm afraid",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite preface to bad news, refusals or disagreement.",
+    "usage": "Extremely common at work, in shops and on the phone.",
+    "pragmatic_note": "It expresses regret, not fear; 'I'm afraid not' is a gentle no.",
+    "pitfall": "Learners may think it expresses fear; it is a politeness marker.",
+    "examples": [
+      "I'm afraid he's in a meeting.",
+      "I'm afraid we're fully booked tonight."
+    ],
+    "collocations": [
+      "I'm afraid not",
+      "I'm afraid so"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I couldn't possibly",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A polite refusal of an offer, often expected to be overruled.",
+    "usage": "Used when offered food, money or favours, especially by hosts.",
+    "pragmatic_note": "Part of a ritual: refuse once, then accept when the host insists.",
+    "pitfall": "Hosts may test the refusal; if you really mean no, repeat it clearly.",
+    "examples": [
+      "Another slice? Oh, I couldn't possibly.",
+      "I couldn't possibly take your seat."
+    ],
+    "collocations": [
+      "I couldn't possibly accept"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "go on, then",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A friendly way of accepting an offer, often after initially hesitating.",
+    "usage": "Used when offered a drink, cake or favour.",
+    "pragmatic_note": "Often follows a token refusal; the reluctance is mostly ritual.",
+    "pitfall": null,
+    "examples": [
+      "Another biscuit? Go on, then.",
+      "Oh, go on then, just a small one."
+    ],
+    "collocations": [
+      "oh, go on"
+    ],
+    "wiki": null,
+    "forms": [
+      "go on then"
+    ]
+  },
+  {
+    "headword": "I wouldn't say no",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A modest way of accepting something offered.",
+    "usage": "Said when offered a drink, food, help or a lift.",
+    "pragmatic_note": "Typical British indirectness: accepting without seeming eager.",
+    "pitfall": null,
+    "examples": [
+      "Cup of tea? I wouldn't say no.",
+      "I wouldn't say no to a lift, actually."
+    ],
+    "collocations": [
+      "wouldn't say no to"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'm all right, thanks",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A polite way to decline an offer.",
+    "usage": "Used when refusing food, drink, help or more of something.",
+    "pragmatic_note": "Decoder: 'No, thank you' rather than a report on your wellbeing.",
+    "pitfall": "Learners may think the offer was about their health; it means no.",
+    "examples": [
+      "More coffee? I'm all right, thanks.",
+      "Do you need a hand? No, I'm all right, thanks."
+    ],
+    "collocations": [
+      "I'm fine, thanks"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'm fine",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Can mean 'I'm well', 'no thanks', or, in a tight voice, 'I'm not fine at all'.",
+    "usage": "Ubiquitous reply in casual exchanges.",
+    "pragmatic_note": "Decoder: a clipped 'I'm fine' after an argument often means the opposite.",
+    "pitfall": null,
+    "examples": [
+      "Do you want a drink? I'm fine, thanks.",
+      "Honestly, I'm fine. It's just been a long day."
+    ],
+    "collocations": [
+      "I'm fine, thanks"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'd rather not",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite but firm refusal.",
+    "usage": "Used at work and socially to decline requests or questions.",
+    "pragmatic_note": "Firmer than it sounds; it is a clear no that avoids a reason.",
+    "pitfall": null,
+    "examples": [
+      "I'd rather not discuss it here, if that's OK.",
+      "Thanks, but I'd rather not."
+    ],
+    "collocations": [
+      "I'd prefer not to"
+    ],
+    "wiki": null,
+    "forms": [
+      "I'd prefer not to"
+    ]
+  },
+  {
+    "headword": "I'm not sure about that",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A gentle way of expressing doubt or disagreement.",
+    "usage": "Used in meetings and conversation.",
+    "pragmatic_note": "Decoder: usually 'I disagree' or 'I don't like it'.",
+    "pitfall": null,
+    "examples": [
+      "Hmm, I'm not sure about that.",
+      "I'm not sure about that colour for the logo."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'm not sure I'd go that far",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite way of rejecting an exaggeration or overstatement.",
+    "usage": "Used in meetings and discussion to rein in a claim.",
+    "pragmatic_note": "Decoder: 'You're overstating it.'",
+    "pitfall": null,
+    "examples": [
+      "A disaster? I'm not sure I'd go that far.",
+      "I'm not sure I'd go that far, but it wasn't great."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "that's a bit harsh",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A mild objection that a comment or judgement is unfair or too severe.",
+    "usage": "Used among colleagues and friends.",
+    "pragmatic_note": "Often light-hearted, but can be a real rebuke.",
+    "pitfall": null,
+    "examples": [
+      "That's a bit harsh, he's only just started.",
+      "Bit harsh, isn't it?"
+    ],
+    "collocations": [
+      "bit harsh"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'm no expert, but",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A modest preface to an opinion.",
+    "usage": "Used in meetings and casual discussion.",
+    "pragmatic_note": "Self-deprecation is valued in Britain; the speaker may well be an expert.",
+    "pitfall": null,
+    "examples": [
+      "I'm no expert, but that sounds like a dodgy wiring job.",
+      "I'm no expert, but shouldn't the light be green?"
+    ],
+    "collocations": [
+      "I'm not an expert"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "for what it's worth",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A modest preface offering an opinion without claiming authority.",
+    "usage": "Used in meetings, emails and personal advice.",
+    "pragmatic_note": "Expresses humility; often precedes sincere support or a useful warning.",
+    "pitfall": null,
+    "examples": [
+      "For what it's worth, I think you made the right call.",
+      "For what it's worth, I'd go with the second option."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I don't disagree",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Cautious, partial agreement, often before a 'but'.",
+    "usage": "Used in meetings and negotiations.",
+    "pragmatic_note": "Weaker than 'I agree'; it signals acceptance without enthusiasm.",
+    "pitfall": null,
+    "examples": [
+      "I don't disagree, but we need to think about cost.",
+      "I don't disagree with any of that."
+    ],
+    "collocations": [
+      "I wouldn't disagree"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "it's not for me to say",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite refusal to give an opinion, often implying a negative one.",
+    "usage": "Used when asked to judge someone else's decision or area.",
+    "pragmatic_note": "Decoder: often 'I disapprove, but I won't say so directly'.",
+    "pitfall": null,
+    "examples": [
+      "It's not for me to say, but I'd be surprised if it worked.",
+      "Well, it's not for me to say."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'm sure there's a good reason",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A charitable-sounding phrase that can imply doubt or criticism.",
+    "usage": "Used when questioning an odd decision or delay.",
+    "pragmatic_note": "Decoder: often 'please explain yourself'.",
+    "pitfall": null,
+    "examples": [
+      "I'm sure there's a good reason, but why wasn't I told?",
+      "I'm sure there's a good reason it's late."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "you may well be right",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite concession, sometimes sincere, sometimes a way of ending the argument.",
+    "usage": "Used in meetings and discussions.",
+    "pragmatic_note": "Decoder: can mean 'I'm not persuaded, but let's move on'.",
+    "pitfall": null,
+    "examples": [
+      "You may well be right, but let's test it first.",
+      "You may well be right about that."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I see what you mean",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "An acknowledgement that you understand someone's point.",
+    "usage": "Used constantly in conversation and meetings.",
+    "pragmatic_note": "Shows understanding, not necessarily agreement.",
+    "pitfall": null,
+    "examples": [
+      "Ah, I see what you mean now.",
+      "I see what you mean, but I'm still not sure."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "not my favourite",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Understated way of saying you dislike something.",
+    "usage": "Used about food, tasks, people's choices and places.",
+    "pragmatic_note": "Decoder: often 'I really dislike it'.",
+    "pitfall": null,
+    "examples": [
+      "Monday mornings are not my favourite.",
+      "Spreadsheets aren't my favourite thing, to be honest."
+    ],
+    "collocations": [
+      "not my favourite thing"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "it's very... different",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A polite non-compliment for something the speaker dislikes.",
+    "usage": "Used about food, decor, outfits or art.",
+    "pragmatic_note": "Decoder: 'I don't like it'; the pause before 'different' gives it away.",
+    "pitfall": null,
+    "examples": [
+      "Your new kitchen is very... different.",
+      "Well, it's certainly different."
+    ],
+    "collocations": [
+      "certainly different"
+    ],
+    "wiki": null,
+    "forms": [
+      "it's certainly different"
+    ]
+  },
+  {
+    "headword": "challenging",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Difficult; in workplace euphemism, possibly very bad or near-impossible.",
+    "usage": "Used in reports, meetings and reviews to describe problems diplomatically.",
+    "pragmatic_note": "Decoder: 'a challenging year' may mean disastrous; 'a challenging client' means a difficult one.",
+    "pitfall": null,
+    "examples": [
+      "It's been a challenging quarter for the team.",
+      "He can be quite challenging to work with."
+    ],
+    "collocations": [
+      "challenging times",
+      "quite challenging"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "a big ask",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A request or expectation that is difficult or demanding.",
+    "usage": "Used at work and in sport commentary.",
+    "pragmatic_note": "Used to signal reluctance while acknowledging the request.",
+    "pitfall": "Avoid it in very formal writing; 'a considerable request' fits better.",
+    "examples": [
+      "I know it's a big ask, but could you cover Friday?",
+      "Finishing by Monday is a big ask."
+    ],
+    "collocations": [
+      "quite a big ask"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "room for improvement",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A diplomatic way of saying something is not good enough.",
+    "usage": "Used in reviews, school reports and feedback.",
+    "pragmatic_note": "Decoder: 'considerable room for improvement' means 'poor'.",
+    "pitfall": null,
+    "examples": [
+      "There's still some room for improvement in the report.",
+      "The service had room for improvement."
+    ],
+    "collocations": [
+      "plenty of room for improvement"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "not quite there yet",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A gentle way of saying work is incomplete or not good enough.",
+    "usage": "Used in feedback on drafts, projects and skills.",
+    "pragmatic_note": "Encouraging framing, but signals real changes are needed.",
+    "pitfall": null,
+    "examples": [
+      "It's not quite there yet, but it's getting close.",
+      "We're not quite there yet with the design."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "hasn't gone entirely to plan",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Euphemism for something that has gone wrong.",
+    "usage": "Used in updates, meetings and reports.",
+    "pragmatic_note": "Decoder: things may have gone very badly.",
+    "pitfall": null,
+    "examples": [
+      "The launch hasn't gone entirely to plan.",
+      "Things haven't gone entirely to plan, I'm afraid."
+    ],
+    "collocations": [
+      "didn't go to plan"
+    ],
+    "wiki": null,
+    "forms": [
+      "didn't go entirely to plan"
+    ]
+  },
+  {
+    "headword": "I'm a little confused",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite way of pointing out an error or contradiction.",
+    "usage": "Used in emails and meetings when something does not add up.",
+    "pragmatic_note": "Decoder: often 'you've made a mistake' or 'this contradicts what you said'.",
+    "pitfall": null,
+    "examples": [
+      "I'm a little confused, as I thought we'd agreed on Tuesday.",
+      "Sorry, I'm a little confused by this invoice."
+    ],
+    "collocations": [
+      "slightly confused"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I was surprised",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Understated expression of disapproval or annoyance.",
+    "usage": "Used in feedback and complaints.",
+    "pragmatic_note": "Decoder: 'I was surprised to see...' often means 'I'm unhappy that...'.",
+    "pitfall": null,
+    "examples": [
+      "I was surprised not to be invited.",
+      "I was a little surprised by the tone of the email."
+    ],
+    "collocations": [
+      "a little surprised",
+      "somewhat surprised"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'm sure it'll be fine",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A reassurance, sometimes sincere and sometimes masking doubt.",
+    "usage": "Used to calm nerves before events, results or journeys.",
+    "pragmatic_note": "With a tight tone, it can mean the speaker has doubts.",
+    "pitfall": null,
+    "examples": [
+      "Don't worry, I'm sure it'll be fine.",
+      "I'm sure it'll be fine on the night."
+    ],
+    "collocations": [
+      "it'll be fine"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "these things happen",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A reassurance that a mistake or mishap is normal and forgivable.",
+    "usage": "Used to defuse apologies and embarrassment.",
+    "pragmatic_note": "A gracious way of accepting an apology without dwelling on it.",
+    "pitfall": null,
+    "examples": [
+      "Don't worry about it, these things happen.",
+      "These things happen. We'll sort it."
+    ],
+    "collocations": [
+      "it happens"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "never mind",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Don't worry about it; it doesn't matter.",
+    "usage": "Used to dismiss a problem or withdraw a question.",
+    "pragmatic_note": "Can also signal mild frustration: 'Oh, never mind!' when someone hasn't understood.",
+    "pitfall": "Not a command to forget; it means 'it doesn't matter'.",
+    "examples": [
+      "You've lost it? Never mind, I've got another.",
+      "Never mind, I'll ask someone else."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "not to worry",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A reassuring way of saying 'don't worry' or 'it doesn't matter'.",
+    "usage": "Common in customer service and between colleagues.",
+    "pragmatic_note": "Slightly more gracious and less direct than 'don't worry'.",
+    "pitfall": null,
+    "examples": [
+      "Not to worry, we'll reschedule.",
+      "You forgot? Not to worry."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "oh dear",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A mild exclamation of sympathy, concern or disappointment.",
+    "usage": "Used for anything from spilt tea to bad news.",
+    "pragmatic_note": "Its mildness is deceptive; it can accompany real bad news.",
+    "pitfall": null,
+    "examples": [
+      "Oh dear, that doesn't sound good.",
+      "Oh dear, have you missed your train?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "that's a shame",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "An expression of mild sympathy or disappointment.",
+    "usage": "Used when hearing of cancellations, missed events or bad luck.",
+    "pragmatic_note": "Can be sincere, or mildly ironic when the speaker doesn't care.",
+    "pitfall": "It is not about shame or embarrassment; it means 'that's unfortunate'.",
+    "examples": [
+      "You can't make it? That's a shame.",
+      "What a shame about the weather."
+    ],
+    "collocations": [
+      "what a shame",
+      "such a shame"
+    ],
+    "wiki": null,
+    "forms": [
+      "what a shame"
+    ]
+  },
+  {
+    "headword": "good for you",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Congratulation or approval; with a flat tone, dismissive or sarcastic.",
+    "usage": "Used among friends and colleagues.",
+    "pragmatic_note": "Decoder: a flat 'good for you' can mean 'I don't care'.",
+    "pitfall": null,
+    "examples": [
+      "You've passed? Good for you!",
+      "You got the promotion? Good for you."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "well done",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Praise for an achievement or task completed.",
+    "usage": "Used at work, in schools and among friends.",
+    "pragmatic_note": "Usually sincere; Britons rarely heap praise, so 'well done' is meaningful.",
+    "pitfall": "Can also mean a steak cooked through.",
+    "examples": [
+      "Well done, that was a brilliant presentation.",
+      "Well done for getting it in on time."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "brilliant",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Excellent; in casual speech often just 'good' or 'thanks'.",
+    "usage": "Very common in everyday British speech as a response to good news or help.",
+    "pragmatic_note": "'Brilliant, thanks' often just means 'OK, got it'; it can also be sarcastic.",
+    "pitfall": "Americans may find it over-enthusiastic; in Britain it is often routine.",
+    "examples": [
+      "Brilliant, thanks for sorting that.",
+      "Oh, brilliant. The train's cancelled."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "lovely",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Pleasant; in casual British speech also 'fine', 'OK' or 'thank you'.",
+    "usage": "Used constantly in shops, offices and on the phone.",
+    "pragmatic_note": "'Lovely, thanks' is a confirmation, not a gushing compliment.",
+    "pitfall": "Learners may hear it as gushing; in Britain it is a routine, neutral word used by everyone.",
+    "examples": [
+      "Lovely, see you at three then.",
+      "That's lovely, thank you."
+    ],
+    "collocations": [
+      "lovely, thanks",
+      "that's lovely"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "perfect",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Used in casual speech to mean 'fine' or 'that works'.",
+    "usage": "Common confirmation in shops, phone calls and email.",
+    "pragmatic_note": "A routine acknowledgement; it does not mean literally flawless.",
+    "pitfall": null,
+    "examples": [
+      "Two o'clock? Perfect.",
+      "Perfect, thanks for that."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "marvellous",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Wonderful; frequently used sarcastically for something bad.",
+    "usage": "Used by older speakers sincerely and by many ironically.",
+    "pragmatic_note": "Decoder: 'Oh, marvellous' after bad news means 'how annoying'.",
+    "pitfall": "Sincere use can sound dated or posh.",
+    "examples": [
+      "Oh, marvellous. It's raining again.",
+      "What a marvellous idea."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "charming",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Delightful; used sarcastically to react to rudeness.",
+    "usage": "Common sarcastic response when someone is impolite.",
+    "pragmatic_note": "Decoder: 'Well, charming!' means 'how rude'.",
+    "pitfall": null,
+    "examples": [
+      "He didn't even say thank you. Charming.",
+      "Oh, charming, I see you've eaten all the biscuits."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "typical",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "An exasperated comment that something annoying was predictable.",
+    "usage": "Used about weather, transport, bad luck or people's behaviour.",
+    "pragmatic_note": "Expresses the British habit of resigned complaining.",
+    "pitfall": null,
+    "examples": [
+      "The bus is late again. Typical.",
+      "Typical, it starts raining the moment I leave."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'm easy",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "A casual way of saying you have no preference.",
+    "usage": "Used among friends and informal colleagues when choosing times or food.",
+    "pragmatic_note": "Shows flexibility; Britons often defer preferences to be polite.",
+    "pitfall": "Use 'either is fine' at work; 'I'm easy' is informal.",
+    "examples": [
+      "Pizza or curry? I'm easy.",
+      "I'm easy, whatever suits you."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'm not fussed",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "Informal: I don't mind; I have no strong preference.",
+    "usage": "Used in casual conversation.",
+    "pragmatic_note": "Expresses easy-going indifference, not rudeness.",
+    "pitfall": "Too casual for formal settings.",
+    "examples": [
+      "Tea or coffee? I'm not fussed.",
+      "I'm not fussed either way."
+    ],
+    "collocations": [
+      "not fussed either way"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "whatever suits you",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A polite way of letting the other person choose.",
+    "usage": "Used when arranging meetings, times or places.",
+    "pragmatic_note": "Shows consideration; Britons often offer the choice back.",
+    "pitfall": null,
+    "examples": [
+      "Monday or Tuesday, whatever suits you.",
+      "I can come to you, whatever suits you best."
+    ],
+    "collocations": [
+      "whatever suits you best",
+      "whatever works for you"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "either is fine",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A neutral way of saying you have no preference.",
+    "usage": "Used in work and social contexts.",
+    "pragmatic_note": null,
+    "pitfall": "Saying 'anything' can sound careless; 'either is fine' sounds considered.",
+    "examples": [
+      "Phone or video, either is fine.",
+      "Either is fine by me."
+    ],
+    "collocations": [
+      "either's fine"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "if you insist",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Reluctant acceptance, sometimes playful.",
+    "usage": "Used when accepting an offer after refusing, or giving in to pressure.",
+    "pragmatic_note": "Playfully it accepts a treat; coolly it signals disagreement.",
+    "pitfall": null,
+    "examples": [
+      "Another glass? Well, if you insist.",
+      "Fine, if you insist."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "you shouldn't have",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A gracious response to a gift or kindness, really meaning thank you.",
+    "usage": "Said when receiving presents or favours.",
+    "pragmatic_note": "Ritual modesty; it does not mean the giver did wrong.",
+    "pitfall": null,
+    "examples": [
+      "Flowers? Oh, you shouldn't have!",
+      "You really shouldn't have, but thank you."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "oh, it's nothing",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A modest response to thanks or praise.",
+    "usage": "Used when thanked for a favour or complimented.",
+    "pragmatic_note": "Modesty ritual; 'it was nothing' downplays real effort.",
+    "pitfall": null,
+    "examples": [
+      "Thanks for helping. Oh, it's nothing.",
+      "It was nothing, honestly."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "it was nothing"
+    ]
+  },
+  {
+    "headword": "I'm sure you had your reasons",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A seemingly understanding phrase that implies disapproval.",
+    "usage": "Said about decisions the speaker doesn't agree with.",
+    "pragmatic_note": "Decoder: 'I think you made a mistake.'",
+    "pitfall": null,
+    "examples": [
+      "Well, I'm sure you had your reasons.",
+      "I'm sure you had your reasons for that."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "it's not really for me",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A polite way to decline or say you don't like something.",
+    "usage": "Used about invitations, food, hobbies and jobs.",
+    "pragmatic_note": "Puts the problem on yourself, avoiding criticism of the thing.",
+    "pitfall": null,
+    "examples": [
+      "Thanks, but karaoke's not really for me.",
+      "I tried it, but it's not really for me."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'll try",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A non-committal promise.",
+    "usage": "Used when invited to events or asked to do something.",
+    "pragmatic_note": "Decoder: often 'probably not'.",
+    "pitfall": "Do not count on attendance or delivery.",
+    "examples": [
+      "I'll try to make it, but no promises.",
+      "I'll try and get it done by Friday."
+    ],
+    "collocations": [
+      "I'll try my best"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "we must do this again",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A warm farewell expressing enjoyment, not always a firm plan.",
+    "usage": "Said at the end of social events or meals.",
+    "pragmatic_note": "Often goodwill rather than a real arrangement; a date makes it real.",
+    "pitfall": null,
+    "examples": [
+      "Lovely evening, we must do this again.",
+      "We must do this again soon."
+    ],
+    "collocations": [
+      "we must do this again soon"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'm not saying, but",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A hedge introducing a claim the speaker does want to make.",
+    "usage": "Used in conversation to soften accusations or opinions.",
+    "pragmatic_note": "Decoder: the speaker is saying exactly that.",
+    "pitfall": null,
+    "examples": [
+      "I'm not saying it's his fault, but he was in charge.",
+      "I'm not saying it's bad, but it could be better."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "I'm not saying it's"
+    ]
+  },
+  {
+    "headword": "you don't say",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A sarcastic reply to an obvious statement.",
+    "usage": "Used in casual conversation.",
+    "pragmatic_note": "Decoder: 'that's obvious'.",
+    "pitfall": "Learners use it as sincere surprise; it usually sounds sarcastic.",
+    "examples": [
+      "It's raining in Manchester? You don't say.",
+      "The train's late? You don't say."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "possibly",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Perhaps; in British replies to requests often a soft 'probably not'.",
+    "usage": "Used in meetings and conversation.",
+    "pragmatic_note": "Decoder: a long 'possibly...' is often a polite no.",
+    "pitfall": null,
+    "examples": [
+      "Could we finish early? Possibly.",
+      "That might possibly work."
+    ],
+    "collocations": [
+      "quite possibly",
+      "could you possibly"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "sort of",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A hedge meaning 'somewhat' or 'in a way'.",
+    "usage": "Very common in casual speech to soften statements.",
+    "pragmatic_note": "Over-use can make you sound vague in formal settings.",
+    "pitfall": "Over-using it in presentations can make you sound unsure of your own point.",
+    "examples": [
+      "It's sort of complicated.",
+      "I sort of see your point."
+    ],
+    "collocations": [
+      "sort of thing"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "to be fair",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A phrase introducing a point that balances or excuses something.",
+    "usage": "Very common in British speech, sometimes as filler.",
+    "pragmatic_note": "Used to defend someone or concede a point.",
+    "pitfall": "It does not always signal fairness; it is often just a discourse marker.",
+    "examples": [
+      "To be fair, he did warn us.",
+      "It was a long meeting, but to be fair, it was useful."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "to be honest",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A phrase introducing a frank, often critical, opinion.",
+    "usage": "Very common in British speech.",
+    "pragmatic_note": "Often signals that criticism is coming; also used as filler.",
+    "pitfall": "Over-use can suggest you are usually dishonest; vary it with 'actually'.",
+    "examples": [
+      "To be honest, I'd rather stay in tonight.",
+      "To be honest, it wasn't very good."
+    ],
+    "collocations": [
+      "to be perfectly honest",
+      "if I'm honest"
+    ],
+    "wiki": null,
+    "forms": [
+      "to be perfectly honest",
+      "if I'm honest"
+    ]
+  },
+  {
+    "headword": "frankly",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Honestly and directly; signals a blunt opinion.",
+    "usage": "Used in debates, meetings and conversation.",
+    "pragmatic_note": "Signals the speaker is dropping usual politeness, often with irritation.",
+    "pitfall": null,
+    "examples": [
+      "Frankly, I think it's a waste of money.",
+      "Quite frankly, I've had enough."
+    ],
+    "collocations": [
+      "quite frankly"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I suppose",
+    "register": "AMBER",
+    "us_equivalent": "I guess",
+    "gloss": "A hedge expressing reluctant agreement or tentative belief.",
+    "usage": "Very common in speech.",
+    "pragmatic_note": "'I suppose so' is a reluctant yes.",
+    "pitfall": "Americans more often say 'I guess'; 'I suppose' sounds more natural in Britain.",
+    "examples": [
+      "I suppose we could try again tomorrow.",
+      "Yes, I suppose so."
+    ],
+    "collocations": [
+      "I suppose so"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'd have thought",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A tentative way of expressing an opinion or mild surprise.",
+    "usage": "Used in conversation and meetings.",
+    "pragmatic_note": "Can imply criticism: 'I'd have thought you'd check first.'",
+    "pitfall": null,
+    "examples": [
+      "I'd have thought they'd be here by now.",
+      "I'd have thought that was obvious."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "sorry",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An apology; in Britain also a request for repetition, an interruption, a disagreement or a reflex.",
+    "usage": "Said constantly, including when someone else bumps into you.",
+    "pragmatic_note": "Decoder: a rising 'Sorry?' means 'pardon?'; a firm 'Sorry, but...' introduces disagreement; reflexive 'sorry' admits no fault.",
+    "pitfall": "Learners may read reflex apologies as admissions of liability, or under-apologise and seem rude.",
+    "examples": [
+      "Sorry, could you say that again?",
+      "Sorry, but I don't think that's right."
+    ],
+    "collocations": [
+      "so sorry",
+      "sorry about that",
+      "sorry to bother you"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "pardon?",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite request for someone to repeat themselves.",
+    "usage": "Common across Britain, taught to children as more polite than 'what?'.",
+    "pragmatic_note": "Class connotations exist: some upper-middle-class speakers prefer 'Sorry?' or 'What?' to 'Pardon?'.",
+    "pitfall": "With a sharp tone, 'Pardon?!' can express offence at what was said.",
+    "examples": [
+      "Pardon? I didn't quite hear you.",
+      "I beg your pardon?"
+    ],
+    "collocations": [
+      "I beg your pardon"
+    ],
+    "wiki": null,
+    "forms": [
+      "pardon",
+      "I beg your pardon"
+    ]
+  },
+  {
+    "headword": "sorry to bother you",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite opener when interrupting or asking a favour.",
+    "usage": "Used with colleagues, neighbours, shop staff and strangers.",
+    "pragmatic_note": "Acknowledges that you are imposing, which British etiquette expects.",
+    "pitfall": null,
+    "examples": [
+      "Sorry to bother you, but have you got a minute?",
+      "Sorry to bother you, is this seat free?"
+    ],
+    "collocations": [
+      "sorry to disturb you"
+    ],
+    "wiki": null,
+    "forms": [
+      "sorry to disturb you"
+    ]
+  },
+  {
+    "headword": "sorry to interrupt",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite way to break into a conversation or meeting.",
+    "usage": "Used in meetings, offices and social settings.",
+    "pragmatic_note": "Even when interrupting is necessary, Britons apologise first.",
+    "pitfall": null,
+    "examples": [
+      "Sorry to interrupt, but your taxi's here.",
+      "Sorry to interrupt, can I just add something?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "sorry to be a pain",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A self-deprecating apology before a request or complaint.",
+    "usage": "Used with colleagues and service staff.",
+    "pragmatic_note": "Pre-empts annoyance by admitting the imposition.",
+    "pitfall": null,
+    "examples": [
+      "Sorry to be a pain, but could you resend that file?",
+      "Sorry to be a pain, can I swap tables?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "sorry to keep you waiting",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite apology for lateness or delay.",
+    "usage": "Used by receptionists, hosts, and anyone arriving late to a meeting.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Sorry to keep you waiting, come on through.",
+      "Sorry to keep you waiting, the train was delayed."
+    ],
+    "collocations": [
+      "sorry for the wait"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'm terribly sorry",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A strong, polite apology.",
+    "usage": "Used for genuine mistakes and in formal service settings.",
+    "pragmatic_note": "'Terribly' sounds slightly posh but is standard for sincere apology.",
+    "pitfall": null,
+    "examples": [
+      "I'm terribly sorry, I didn't see you there.",
+      "I'm terribly sorry for the mix-up."
+    ],
+    "collocations": [
+      "terribly sorry"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "my mistake",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A brief, polite admission of an error.",
+    "usage": "Used at work and socially to own small errors.",
+    "pragmatic_note": "Owning a mistake quickly is respected and defuses tension.",
+    "pitfall": null,
+    "examples": [
+      "Ah, my mistake, it's room four, not five.",
+      "Sorry, my mistake."
+    ],
+    "collocations": [
+      "my error"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "my bad",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "Informal American-origin phrase meaning 'my fault'.",
+    "usage": "Used by younger Britons casually; avoid at work.",
+    "pragmatic_note": null,
+    "pitfall": "It sounds American and flippant; say 'my mistake' or 'sorry, that was me'.",
+    "examples": [
+      "Oops, my bad.",
+      "My bad, I forgot to send it."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "excuse me",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite phrase to get attention, pass someone, or apologise for a minor social slip.",
+    "usage": "Used in shops, on public transport and in queues.",
+    "pragmatic_note": "To get past someone, 'excuse me' is standard; 'sorry' is also common.",
+    "pitfall": "American 'Excuse me?' for 'pardon?' can sound indignant in Britain.",
+    "examples": [
+      "Excuse me, is this the right platform for Leeds?",
+      "Excuse me, could I just squeeze past?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "thanks ever so much",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A warm, slightly informal 'thank you very much'.",
+    "usage": "Common in speech, especially in shops and among colleagues.",
+    "pragmatic_note": "'Ever so' is a distinctively British intensifier; it sounds friendly.",
+    "pitfall": null,
+    "examples": [
+      "Thanks ever so much for your help.",
+      "That's ever so kind, thank you."
+    ],
+    "collocations": [
+      "ever so kind",
+      "ever so sorry"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "cheers",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Informal 'thanks' or 'goodbye', as well as a toast.",
+    "usage": "Used constantly in casual speech, texts and emails between colleagues.",
+    "pragmatic_note": "It's often used as a quick thanks to bus drivers, bar staff and colleagues.",
+    "pitfall": "Americans use it mostly as a toast; it is too casual for formal emails or senior clients.",
+    "examples": [
+      "Cheers for that, mate.",
+      "Right, cheers, see you tomorrow."
+    ],
+    "collocations": [
+      "cheers for that",
+      "cheers, mate"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "ta",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "Very informal 'thanks'.",
+    "usage": "Used in casual speech, especially in northern England.",
+    "pragmatic_note": "Friendly and regional in flavour, especially common in the north of England and the Midlands.",
+    "pitfall": "Too casual for work emails; learners may sound affected using it.",
+    "examples": [
+      "Ta, love.",
+      "Ta very much."
+    ],
+    "collocations": [
+      "ta very much"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "much appreciated",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A concise, polite expression of thanks.",
+    "usage": "Common in emails and messages at work.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Thanks for covering, much appreciated.",
+      "Any feedback would be much appreciated."
+    ],
+    "collocations": [
+      "greatly appreciated"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "you're a star",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Informal, warm thanks for help.",
+    "usage": "Used among colleagues and friends.",
+    "pragmatic_note": "Friendly but not appropriate with senior people you don't know well.",
+    "pitfall": null,
+    "examples": [
+      "You've printed them all? You're a star.",
+      "Thanks, you're a star."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "that's very kind of you",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite expression of thanks for an offer or favour.",
+    "usage": "Used at work and socially, often before accepting or declining.",
+    "pragmatic_note": "Often precedes a polite refusal: 'That's very kind of you, but...'.",
+    "pitfall": null,
+    "examples": [
+      "That's very kind of you, but I'll be fine.",
+      "That's very kind of you, thank you."
+    ],
+    "collocations": [
+      "how kind",
+      "you're very kind"
+    ],
+    "wiki": null,
+    "forms": [
+      "how kind"
+    ]
+  },
+  {
+    "headword": "no worries",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Informal response to thanks or apology: it's fine.",
+    "usage": "Very common in British speech, borrowed from Australian English.",
+    "pragmatic_note": null,
+    "pitfall": "Slightly casual for formal settings; 'not at all' or 'you're welcome' is safer with clients.",
+    "examples": [
+      "Thanks for waiting. No worries.",
+      "No worries, I'll send it again."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "not at all",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite reply to thanks or to 'would you mind'.",
+    "usage": "Used in formal and informal settings.",
+    "pragmatic_note": "Slightly more formal than 'no problem'.",
+    "pitfall": null,
+    "examples": [
+      "Thank you for coming. Not at all.",
+      "Would you mind? Not at all."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "no problem",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Response to thanks or requests: it's fine.",
+    "usage": "Very common in everyday speech.",
+    "pragmatic_note": null,
+    "pitfall": "Some older Britons find it slightly casual compared with 'you're welcome'.",
+    "examples": [
+      "Thanks! No problem.",
+      "No problem, I'll do it now."
+    ],
+    "collocations": [
+      "not a problem"
+    ],
+    "wiki": null,
+    "forms": [
+      "not a problem"
+    ]
+  },
+  {
+    "headword": "you're welcome",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite reply to thanks.",
+    "usage": "Used across Britain, though less automatically than in the US.",
+    "pragmatic_note": "Britons often reply with 'no problem', 'not at all' or 'that's OK' instead.",
+    "pitfall": "Sarcastic 'You're welcome!' when no thanks were given is a rebuke.",
+    "examples": [
+      "Thanks so much. You're welcome.",
+      "You're welcome, any time."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "don't mention it",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A modest reply to thanks.",
+    "usage": "Used in speech when someone thanks you for a favour.",
+    "pragmatic_note": "Downplays the favour, reflecting British modesty.",
+    "pitfall": null,
+    "examples": [
+      "Thanks for the lift. Don't mention it.",
+      "Oh, don't mention it."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "it's no bother",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A friendly way to say a favour is no trouble.",
+    "usage": "Common in speech, especially in Scotland, northern England and Ireland.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Are you sure? It's no bother.",
+      "It's no bother at all."
+    ],
+    "collocations": [
+      "no bother at all"
+    ],
+    "wiki": null,
+    "forms": [
+      "no bother"
+    ]
+  },
+  {
+    "headword": "my pleasure",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite reply to thanks, suggesting you were glad to help.",
+    "usage": "Used at work, in hospitality and socially.",
+    "pragmatic_note": "Sounds warmer and slightly more formal than 'no problem'.",
+    "pitfall": null,
+    "examples": [
+      "Thanks for showing me around. My pleasure.",
+      "It was my pleasure."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "could you possibly",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A very polite request formula.",
+    "usage": "Used with colleagues, staff and strangers.",
+    "pragmatic_note": "'Possibly' softens and acknowledges the imposition.",
+    "pitfall": "Bare imperatives or 'Do the needful' sound abrupt or dated in Britain.",
+    "examples": [
+      "Could you possibly send it by Friday?",
+      "Could you possibly move your bag?"
+    ],
+    "collocations": [
+      "could I possibly"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "would it be possible to",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A formal, polite request.",
+    "usage": "Used in emails, phone calls and with officials.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Would it be possible to change my appointment?",
+      "Would it be possible to have the bill, please?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I don't suppose you could",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A very tentative request, expecting a possible refusal.",
+    "usage": "Used with colleagues, friends and neighbours.",
+    "pragmatic_note": "The negative framing makes refusal easy, which is maximally polite.",
+    "pitfall": null,
+    "examples": [
+      "I don't suppose you could give me a lift?",
+      "I don't suppose you've got a pen?"
+    ],
+    "collocations": [
+      "I don't suppose you've got"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "any chance you could",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "An informal request.",
+    "usage": "Common between colleagues and friends.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Any chance you could cover my shift?",
+      "Any chance you could send that over today?"
+    ],
+    "collocations": [
+      "any chance of"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'd be grateful if",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A formal, polite request, typically in writing.",
+    "usage": "Standard in professional emails and letters.",
+    "pragmatic_note": "Can also be firm: 'I'd be grateful if you could stop' is a polite order.",
+    "pitfall": null,
+    "examples": [
+      "I'd be grateful if you could confirm by Friday.",
+      "I'd be grateful if you could send me the details."
+    ],
+    "collocations": [
+      "I would be grateful"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'd appreciate it if",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite request, sometimes signalling irritation.",
+    "usage": "Used in emails and speech.",
+    "pragmatic_note": "With a cool tone it is a reprimand: 'I'd appreciate it if you knocked.'",
+    "pitfall": null,
+    "examples": [
+      "I'd appreciate it if you could keep me updated.",
+      "I'd appreciate it if you didn't mention it."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "could I have",
+    "register": "GREEN",
+    "us_equivalent": "can I get",
+    "gloss": "The standard polite way to order or request something.",
+    "usage": "Used in shops, cafés, restaurants and bars.",
+    "pragmatic_note": "British service is polite but brisk; 'please' is essential.",
+    "pitfall": "'Can I get...?' is increasingly heard but some Britons find it American and slightly rude.",
+    "examples": [
+      "Could I have a flat white, please?",
+      "Could I have the bill, please?"
+    ],
+    "collocations": [
+      "could I get",
+      "I'll have"
+    ],
+    "wiki": null,
+    "forms": [
+      "could I get"
+    ]
+  },
+  {
+    "headword": "please",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The essential politeness word in requests.",
+    "usage": "Expected in nearly every British request, including to family and staff.",
+    "pragmatic_note": "Omitting 'please' is one of the quickest ways to seem rude in Britain.",
+    "pitfall": "Indian-English 'kindly' sounds formal or dated; use 'please' or 'could you'.",
+    "examples": [
+      "Two tickets, please.",
+      "Could you close the door, please?"
+    ],
+    "collocations": [
+      "yes, please",
+      "please do"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "kindly",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A formal word meaning 'please', used in British writing mainly in notices or stern requests.",
+    "usage": "Rare in everyday British emails; it appears in formal notices.",
+    "pragmatic_note": "In Britain it often sounds stern or sarcastic: 'Kindly refrain from...'.",
+    "pitfall": "Indian-English 'Kindly do the needful' sounds old-fashioned or even curt to British readers.",
+    "examples": [
+      "Kindly return the form by Friday.",
+      "Would you kindly take your feet off the seat?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "how are you?",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A greeting more than a real question.",
+    "usage": "Used on meeting someone, on the phone and at the start of emails.",
+    "pragmatic_note": "Expected answers are brief: 'Fine, thanks, you?' or 'Not bad'.",
+    "pitfall": "Giving a detailed answer to a casual 'How are you?' can surprise people.",
+    "examples": [
+      "Hi, how are you? Fine, thanks. You?",
+      "How are you keeping?"
+    ],
+    "collocations": [
+      "how are you keeping",
+      "how are things"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "how do you do",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A formal greeting on first meeting, answered with 'How do you do'.",
+    "usage": "Now rare and quite formal; used in traditional or upper-class circles.",
+    "pragmatic_note": "It is not a question about health; the reply is the same phrase.",
+    "pitfall": "Learners answering 'I'm fine' sound unfamiliar with the ritual; most Britons now say 'Nice to meet you'.",
+    "examples": [
+      "How do you do? How do you do.",
+      "How do you do. I'm the new head of finance."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "you all right?",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A casual greeting meaning 'hello, how are you?'.",
+    "usage": "Very common in England among colleagues and friends; often just 'All right?'.",
+    "pragmatic_note": "Answer 'Yes, you?'; it is not a question about your health.",
+    "pitfall": "Learners may think they look unwell; it is just hello.",
+    "examples": [
+      "You all right? Yeah, fine, you?",
+      "All right? How was the weekend?"
+    ],
+    "collocations": [
+      "all right?"
+    ],
+    "wiki": null,
+    "forms": [
+      "all right?",
+      "you alright?"
+    ]
+  },
+  {
+    "headword": "hiya",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "A very informal greeting.",
+    "usage": "Common in casual speech and texts, especially in the north of England and Wales.",
+    "pragmatic_note": "Friendly and casual.",
+    "pitfall": "Avoid in formal emails or with senior colleagues you don't know.",
+    "examples": [
+      "Hiya, how's it going?",
+      "Hiya! Long time no see."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "how's it going?",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Informal greeting asking how things are.",
+    "usage": "Used among colleagues and friends.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Hi, how's it going?",
+      "How's it going with the new job?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "can't complain",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A stoical reply meaning 'fine'.",
+    "usage": "Common in casual speech.",
+    "pragmatic_note": "Reflects British reluctance to boast or complain.",
+    "pitfall": null,
+    "examples": [
+      "How are you? Oh, can't complain.",
+      "Can't complain, thanks."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "mustn't grumble",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A humorous, stoical reply meaning 'fine, more or less'.",
+    "usage": "Used mainly by older speakers; slightly dated but well understood.",
+    "pragmatic_note": "Quintessential British stoicism.",
+    "pitfall": null,
+    "examples": [
+      "How's things? Mustn't grumble.",
+      "Oh, mustn't grumble."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "nice to meet you",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite phrase on being introduced.",
+    "usage": "The standard modern British introduction.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Nice to meet you, I'm Tom.",
+      "Lovely to meet you at last."
+    ],
+    "collocations": [
+      "lovely to meet you",
+      "pleased to meet you"
+    ],
+    "wiki": null,
+    "forms": [
+      "lovely to meet you",
+      "pleased to meet you"
+    ]
+  },
+  {
+    "headword": "take care",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A friendly goodbye.",
+    "usage": "Used in speech and informal emails.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Bye, take care.",
+      "Take care, see you soon."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "see you later",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A casual goodbye; does not necessarily mean later the same day.",
+    "usage": "Used in speech and texts.",
+    "pragmatic_note": "It is just goodbye; no meeting is implied.",
+    "pitfall": "Learners may ask 'when?'; it is a farewell formula.",
+    "examples": [
+      "Right, see you later.",
+      "See you later, have a good weekend."
+    ],
+    "collocations": [
+      "see you soon",
+      "see you then"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "have a good one",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A casual goodbye wishing someone well.",
+    "usage": "Used in shops, with colleagues and friends.",
+    "pragmatic_note": null,
+    "pitfall": "'Have a nice day' is understood but can sound American or scripted in Britain.",
+    "examples": [
+      "Thanks, have a good one.",
+      "See you Monday, have a good one."
+    ],
+    "collocations": [
+      "have a good weekend"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "after you",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite phrase letting someone go first.",
+    "usage": "Used at doors, queues and lifts.",
+    "pragmatic_note": "Queuing and turn-taking are taken seriously in Britain.",
+    "pitfall": null,
+    "examples": [
+      "After you.",
+      "No, after you, please."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "help yourself",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A host's invitation to take food, drink or something freely.",
+    "usage": "Used at home, in offices and at events.",
+    "pragmatic_note": "Hosts expect you to take what you want rather than wait to be served.",
+    "pitfall": null,
+    "examples": [
+      "There's tea in the kitchen, help yourself.",
+      "Help yourself to biscuits."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "go ahead",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Permission to proceed or speak.",
+    "usage": "Used in meetings, phone calls and casual permission.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Can I ask a question? Go ahead.",
+      "Go ahead, I'll catch up."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "by all means",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite, enthusiastic 'yes, of course'.",
+    "usage": "Used in formal and informal contexts.",
+    "pragmatic_note": "Can sometimes imply 'go ahead, but I don't think it will help'.",
+    "pitfall": null,
+    "examples": [
+      "Can I borrow this? By all means.",
+      "By all means ask him, but he won't know."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'll let you get on",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A polite way to end a conversation, framed as considerate.",
+    "usage": "Used on the phone and in office chats.",
+    "pragmatic_note": "Decoder: 'I want to end this conversation.'",
+    "pitfall": null,
+    "examples": [
+      "Right, I'll let you get on.",
+      "Anyway, I'll let you get on with your day."
+    ],
+    "collocations": [
+      "I'll let you go"
+    ],
+    "wiki": null,
+    "forms": [
+      "I'll let you go"
+    ]
+  },
+  {
+    "headword": "I should make a move",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A polite way to say you are leaving.",
+    "usage": "Used at social events and after visits.",
+    "pragmatic_note": "Often said well before actually leaving; a gentle signal.",
+    "pitfall": null,
+    "examples": [
+      "I should make a move, it's getting late.",
+      "I'd better make a move."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "I'd better make a move"
+    ]
+  },
+  {
+    "headword": "are you sure?",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A polite check, often part of the ritual of accepting an offer.",
+    "usage": "Used when offered something.",
+    "pragmatic_note": "Asking 'are you sure?' before accepting is a politeness ritual.",
+    "pitfall": null,
+    "examples": [
+      "You'll drive? Are you sure?",
+      "Are you sure? That's very kind."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I hope you don't mind",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite way to announce something you've already done or are about to do.",
+    "usage": "Used in speech and email.",
+    "pragmatic_note": "Often precedes an action taken without asking.",
+    "pitfall": null,
+    "examples": [
+      "I hope you don't mind, but I've copied in Sarah.",
+      "I hope you don't mind me asking."
+    ],
+    "collocations": [
+      "I hope you don't mind me asking"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "if I may",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A formal, polite way to interrupt or make a point.",
+    "usage": "Used in meetings, speeches and formal discussion.",
+    "pragmatic_note": "Sounds courteous and slightly formal.",
+    "pitfall": null,
+    "examples": [
+      "If I may, I'd like to add something.",
+      "If I may just finish my point."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I don't mind",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "No preference; or permission given.",
+    "usage": "Used constantly in everyday choices.",
+    "pragmatic_note": "Britons often say this to avoid imposing preferences; push gently if you need a decision.",
+    "pitfall": null,
+    "examples": [
+      "Indian or Thai? I don't mind.",
+      "I don't mind if you open the window."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "dear",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The traditional formal opening of a letter or email: 'Dear Ms Patel'.",
+    "usage": "Used for first contact, formal letters, job applications and external correspondence.",
+    "pragmatic_note": "In British offices 'Dear X' to a colleague can feel cold or signal a serious, even disciplinary, tone.",
+    "pitfall": "Indian-English 'Dear Sir' or 'Respected Sir' sounds stiff; use the person's name and title instead.",
+    "examples": [
+      "Dear Ms Patel, thank you for your email.",
+      "Dear Dr Jones, I'm writing about my application."
+    ],
+    "collocations": [
+      "Dear Sir or Madam",
+      "Dear all"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "hi",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "The standard friendly email opening in British workplaces: 'Hi Sarah'.",
+    "usage": "Used for internal emails and most established client relationships.",
+    "pragmatic_note": "Mirror the other person: if they write 'Hi', reply with 'Hi'.",
+    "pitfall": "'Hi Sarah,' needs no 'Dear'; avoid 'Hey' unless you know the person well.",
+    "examples": [
+      "Hi Sarah, thanks for this.",
+      "Hi all, quick update on Friday."
+    ],
+    "collocations": [
+      "Hi all",
+      "Hi everyone"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "hello",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A neutral email opening, a little warmer than 'Dear' and more formal than 'Hi'.",
+    "usage": "Used when 'Dear' feels stiff and 'Hi' feels too casual.",
+    "pragmatic_note": "A safe choice for a first email to someone in a different organisation.",
+    "pitfall": null,
+    "examples": [
+      "Hello Mr Ahmed, I hope you're well.",
+      "Hello everyone, just a reminder about tomorrow."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "dear Sir or Madam",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Formal letter opening when the recipient's name is unknown.",
+    "usage": "Used in formal letters and complaints; increasingly rare in email.",
+    "pragmatic_note": "Finding a name is preferred; this can seem impersonal.",
+    "pitfall": "Traditionally paired with 'Yours faithfully', not 'Yours sincerely'.",
+    "examples": [
+      "Dear Sir or Madam, I am writing to complain about my order.",
+      "Dear Sir or Madam, please find my CV attached."
+    ],
+    "collocations": [
+      "To whom it may concern"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "kind regards",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A standard, polite email sign-off.",
+    "usage": "The safe default for professional emails in Britain.",
+    "pragmatic_note": "Neutral and professional; switching to plain 'Regards' mid-thread can signal coolness.",
+    "pitfall": null,
+    "examples": [
+      "Kind regards, Sarah",
+      "Many thanks for your help. Kind regards, Tom"
+    ],
+    "collocations": [
+      "warm regards",
+      "best regards"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "best wishes",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A warm, friendly sign-off.",
+    "usage": "Used in emails and cards to colleagues and acquaintances.",
+    "pragmatic_note": "Slightly warmer than 'Kind regards'; good for people you know.",
+    "pitfall": null,
+    "examples": [
+      "Best wishes, Emma",
+      "Best wishes for the new year."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "many thanks",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite sign-off or expression of thanks.",
+    "usage": "Very common in British emails, often as the closing line.",
+    "pragmatic_note": "Can be sincere or a firm hint: 'Many thanks in advance' implies the task is expected.",
+    "pitfall": null,
+    "examples": [
+      "Many thanks, Rachel",
+      "Many thanks for your quick reply."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "regards",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A curt sign-off.",
+    "usage": "Used in brief emails; bare 'Regards' can sound cold.",
+    "pragmatic_note": "Decoder: in a heated thread, a plain 'Regards' can signal displeasure.",
+    "pitfall": "'Kind regards' is safer as a default.",
+    "examples": [
+      "Regards, David",
+      "Regards, the Finance Team"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "best",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A brief, informal email sign-off.",
+    "usage": "Increasingly used in British email, especially in tech and media.",
+    "pragmatic_note": null,
+    "pitfall": "Some Britons find it American or abrupt; 'Best wishes' is safer.",
+    "examples": [
+      "Best, Tom",
+      "Thanks again. Best, Priya"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "yours sincerely",
+    "register": "GREEN",
+    "us_equivalent": "sincerely",
+    "gloss": "Formal letter sign-off when you know the recipient's name.",
+    "usage": "Used in formal letters, cover letters and official correspondence.",
+    "pragmatic_note": null,
+    "pitfall": "British convention: 'Yours sincerely' after a named greeting; 'Yours faithfully' after 'Dear Sir or Madam'.",
+    "examples": [
+      "Yours sincerely, James Wilson",
+      "I look forward to hearing from you. Yours sincerely, Jane Smith"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "yours faithfully",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Formal letter sign-off when the recipient's name is unknown.",
+    "usage": "Used after 'Dear Sir or Madam'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans use 'Sincerely' in all cases; British convention distinguishes the two.",
+    "examples": [
+      "Yours faithfully, R. Shah",
+      "Thank you for your time. Yours faithfully, M. Brown"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "thanks in advance",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A sign-off thanking someone before they help.",
+    "usage": "Common in emails making requests.",
+    "pragmatic_note": "Some Britons find it presumptuous, as it assumes they'll comply.",
+    "pitfall": "Use 'Thanks very much' or 'Many thanks' to sound less pushy.",
+    "examples": [
+      "Thanks in advance for your help.",
+      "Thanks in advance, Raj"
+    ],
+    "collocations": [
+      "many thanks in advance"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "apologies for the delay",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite opener for a late reply.",
+    "usage": "Standard in British emails.",
+    "pragmatic_note": "Brief is better; long explanations can sound defensive.",
+    "pitfall": null,
+    "examples": [
+      "Apologies for the delay in getting back to you.",
+      "Apologies for the delay, it's been a busy week."
+    ],
+    "collocations": [
+      "apologies for the late reply",
+      "sorry for the slow reply"
+    ],
+    "wiki": null,
+    "forms": [
+      "apologies for the late reply"
+    ]
+  },
+  {
+    "headword": "apologies",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A formal or concise word for 'sorry'.",
+    "usage": "Common in emails and meetings.",
+    "pragmatic_note": "'Apologies' sounds slightly more formal and less emotional than 'I'm sorry'.",
+    "pitfall": null,
+    "examples": [
+      "Apologies, I'm running five minutes late.",
+      "Apologies for any confusion."
+    ],
+    "collocations": [
+      "my apologies",
+      "sincere apologies"
+    ],
+    "wiki": null,
+    "forms": [
+      "my apologies"
+    ]
+  },
+  {
+    "headword": "sorry for any confusion",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An apology for unclear communication.",
+    "usage": "Used in follow-up emails.",
+    "pragmatic_note": "Often implies the confusion was minor or not entirely the writer's fault.",
+    "pitfall": null,
+    "examples": [
+      "Sorry for any confusion, the meeting is on Thursday.",
+      "Apologies for any confusion caused."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I hope you're well",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite email opening line.",
+    "usage": "Very common in British professional emails.",
+    "pragmatic_note": null,
+    "pitfall": "'I hope this email finds you well' is understood but sounds stiff and clichéd to many Britons.",
+    "examples": [
+      "Hi Sarah, I hope you're well.",
+      "I hope you're well and had a good weekend."
+    ],
+    "collocations": [
+      "hope you're well",
+      "hope all is well"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I hope this email finds you well",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A formal email opening.",
+    "usage": "Used in some formal and international correspondence.",
+    "pragmatic_note": null,
+    "pitfall": "Many Britons find it formulaic; 'I hope you're well' sounds more natural.",
+    "examples": [
+      "I hope this email finds you well.",
+      "Dear Mr Green, I hope this email finds you well."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "just following up",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite way to chase a reply.",
+    "usage": "Common in professional emails.",
+    "pragmatic_note": "Decoder: 'You haven't replied, please do.'",
+    "pitfall": null,
+    "examples": [
+      "Just following up on my email from last week.",
+      "Hi Tom, just following up on this."
+    ],
+    "collocations": [
+      "following up on"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "just a quick reminder",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite way of reminding someone of a deadline or task.",
+    "usage": "Used in emails and messages.",
+    "pragmatic_note": "Decoder: can mean 'you're late, please act'.",
+    "pitfall": "Indian-English 'gentle reminder' is understood but sounds formulaic in Britain.",
+    "examples": [
+      "Just a quick reminder that forms are due tomorrow.",
+      "Just a quick reminder about the meeting at ten."
+    ],
+    "collocations": [
+      "friendly reminder"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "sorry to chase",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite apology when following up an unanswered request.",
+    "usage": "Used in emails and messages.",
+    "pragmatic_note": "Decoder: 'You owe me a reply.'",
+    "pitfall": null,
+    "examples": [
+      "Sorry to chase, but did you get a chance to look at this?",
+      "Sorry to chase, just checking in on the invoice."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "as per my last email",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A formal reference to a previous message, often passive-aggressive.",
+    "usage": "Used in workplace emails.",
+    "pragmatic_note": "Decoder: 'You didn't read my email properly.'",
+    "pitfall": "Learners use it neutrally, but Britons often hear irritation, so try 'as mentioned' instead.",
+    "examples": [
+      "As per my last email, the deadline is Friday.",
+      "As per my previous email, the file is attached."
+    ],
+    "collocations": [
+      "as per my previous email"
+    ],
+    "wiki": null,
+    "forms": [
+      "as per my previous email"
+    ]
+  },
+  {
+    "headword": "as discussed",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A reference to a prior conversation.",
+    "usage": "Common in follow-up emails after meetings.",
+    "pragmatic_note": "Neutral; useful for confirming agreements in writing.",
+    "pitfall": null,
+    "examples": [
+      "As discussed, I've attached the revised proposal.",
+      "As discussed this morning, here are the figures."
+    ],
+    "collocations": [
+      "as mentioned",
+      "as agreed"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "as mentioned",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A reference to something already said.",
+    "usage": "Used in emails and presentations.",
+    "pragmatic_note": "Softer than 'as per my last email'.",
+    "pitfall": null,
+    "examples": [
+      "As mentioned, the office closes early on Friday.",
+      "As mentioned earlier, we're over budget."
+    ],
+    "collocations": [
+      "as previously mentioned"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "further to",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A formal opening referring to a previous communication.",
+    "usage": "Used in formal emails and letters.",
+    "pragmatic_note": "Sounds formal and slightly old-fashioned but is standard.",
+    "pitfall": null,
+    "examples": [
+      "Further to our conversation, please find the contract attached.",
+      "Further to my email of Monday, I can now confirm."
+    ],
+    "collocations": [
+      "further to our conversation"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "please find attached",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A formal phrase introducing an attachment.",
+    "usage": "Common in British business emails.",
+    "pragmatic_note": "Slightly formal; 'I've attached' sounds more natural.",
+    "pitfall": "'PFA' is common in Indian English but unfamiliar to most Britons; write it out.",
+    "examples": [
+      "Please find attached the agenda for Monday.",
+      "Please find attached my CV."
+    ],
+    "collocations": [
+      "I've attached"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'll leave it with you",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite way to hand over responsibility for a matter.",
+    "usage": "Used at the end of emails and conversations.",
+    "pragmatic_note": "Decoder: 'It's your job now; I expect you to handle it.'",
+    "pitfall": null,
+    "examples": [
+      "I'll leave it with you, then.",
+      "I'll leave that with you to decide."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "leave it with me",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A promise to take responsibility for something.",
+    "usage": "Used in meetings and conversation.",
+    "pragmatic_note": "Confident and reassuring; it implies you will handle it.",
+    "pitfall": null,
+    "examples": [
+      "Leave it with me, I'll sort it.",
+      "Leave it with me and I'll get back to you."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "happy to discuss",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite offer to talk further.",
+    "usage": "Common at the end of British business emails.",
+    "pragmatic_note": "Shows openness; can also mean 'I'm not changing my view unless you call'.",
+    "pitfall": null,
+    "examples": [
+      "Happy to discuss if you have any questions.",
+      "I'm happy to discuss this further."
+    ],
+    "collocations": [
+      "happy to help",
+      "happy to chat"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "happy to help",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite offer or reply indicating willingness.",
+    "usage": "Used in emails and speech.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Happy to help if you need anything else.",
+      "Thanks! Happy to help."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "do let me know",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite, slightly emphatic 'please tell me'.",
+    "usage": "Common in British emails and speech.",
+    "pragmatic_note": "The emphatic 'do' adds warmth; it's distinctively British.",
+    "pitfall": null,
+    "examples": [
+      "Do let me know if you need anything.",
+      "Do let me know what you think."
+    ],
+    "collocations": [
+      "let me know"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "feel free to",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A friendly invitation to do something.",
+    "usage": "Common in emails and speech.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Feel free to call if you have questions.",
+      "Feel free to add to the list."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "please don't hesitate to contact me",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A formal invitation to get in touch.",
+    "usage": "Standard closing in formal emails.",
+    "pragmatic_note": "Formulaic; 'do get in touch' sounds warmer.",
+    "pitfall": null,
+    "examples": [
+      "Please don't hesitate to contact me if you have any questions.",
+      "If anything's unclear, please don't hesitate to get in touch."
+    ],
+    "collocations": [
+      "don't hesitate to"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I look forward to hearing from you",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A formal closing line.",
+    "usage": "Standard in formal emails and letters.",
+    "pragmatic_note": "Can also be a polite nudge to reply.",
+    "pitfall": "Use 'I look forward to hearing', not 'I am looking forward to hear'.",
+    "examples": [
+      "I look forward to hearing from you.",
+      "I look forward to hearing your thoughts."
+    ],
+    "collocations": [
+      "look forward to seeing you"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "speak soon",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A friendly informal sign-off.",
+    "usage": "Used in emails and calls.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Thanks, speak soon.",
+      "Right, speak soon."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "all the best",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A friendly sign-off.",
+    "usage": "Used in emails and cards.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "All the best, Tom",
+      "All the best with the move."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "does that make sense?",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A check that you've been understood.",
+    "usage": "Common in explanations and meetings.",
+    "pragmatic_note": "Can sound condescending if over-used; 'Is that clear?' is blunter.",
+    "pitfall": null,
+    "examples": [
+      "Does that make sense?",
+      "Sorry, does that make sense so far?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "shall we say",
+    "register": "GREEN",
+    "us_equivalent": "should we",
+    "gloss": "A polite way to propose a time or figure.",
+    "usage": "Used when arranging meetings and negotiating.",
+    "pragmatic_note": "A tentative-sounding proposal that is often a firm suggestion.",
+    "pitfall": "'Shall' is natural in British English for suggestions; Americans prefer 'should we'.",
+    "examples": [
+      "Shall we say three o'clock?",
+      "Shall we say five hundred?"
+    ],
+    "collocations": [
+      "shall we",
+      "shall I"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "shall we make a start?",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite way to begin a meeting.",
+    "usage": "Used by chairs and organisers.",
+    "pragmatic_note": "Decoder: 'Let's start now.'",
+    "pitfall": null,
+    "examples": [
+      "Right, shall we make a start?",
+      "It's ten past, shall we make a start?"
+    ],
+    "collocations": [
+      "shall we get started?"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "does that work for you?",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite check that a proposal suits someone.",
+    "usage": "Common in emails and meetings.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Tuesday at two, does that work for you?",
+      "Does that work for everyone?"
+    ],
+    "collocations": [
+      "does that suit you"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "let's touch base",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A suggestion to talk briefly later.",
+    "usage": "Used in some British offices; American in origin.",
+    "pragmatic_note": null,
+    "pitfall": "Many Britons find it American corporate jargon; 'let's catch up' or 'let's speak next week' sounds more natural.",
+    "examples": [
+      "Let's touch base next week.",
+      "Shall we touch base on Friday?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "touch base"
+    ]
+  },
+  {
+    "headword": "let's take this offline",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A suggestion to discuss a matter outside the meeting.",
+    "usage": "Used in corporate meetings.",
+    "pragmatic_note": "Decoder: 'This is off-topic or awkward; stop now.'",
+    "pitfall": "It's widely mocked as jargon; 'let's discuss this separately' is clearer.",
+    "examples": [
+      "Let's take this offline after the meeting.",
+      "Shall we take that offline?"
+    ],
+    "collocations": [
+      "take it offline"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "any other business",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The final agenda item for remaining topics; abbreviated AOB.",
+    "usage": "Standard in British formal meetings.",
+    "pragmatic_note": "Raising major issues under AOB can seem like ambushing colleagues.",
+    "pitfall": null,
+    "examples": [
+      "Any other business before we wrap up?",
+      "I'll raise it under any other business."
+    ],
+    "collocations": [
+      "AOB"
+    ],
+    "wiki": null,
+    "forms": [
+      "AOB"
+    ]
+  },
+  {
+    "headword": "to recap",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A phrase introducing a summary.",
+    "usage": "Used at the end of meetings and presentations.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "To recap, we've agreed on three actions.",
+      "So, to recap, Friday is the deadline."
+    ],
+    "collocations": [
+      "to sum up"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'm conscious of time",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite way to move a meeting on or wrap up.",
+    "usage": "Used by chairs and participants in meetings.",
+    "pragmatic_note": "Decoder: 'Stop talking, we need to move on.'",
+    "pitfall": null,
+    "examples": [
+      "I'm conscious of time, so let's move on.",
+      "I'm conscious of time, can we come back to that?"
+    ],
+    "collocations": [
+      "in the interests of time"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "in the interests of time",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite phrase for cutting short or skipping something.",
+    "usage": "Used in meetings and presentations.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "In the interests of time, I'll skip this slide.",
+      "In the interests of time, let's take questions at the end."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "can I just come in here?",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite way to interrupt in a meeting.",
+    "usage": "Used in meetings and debates.",
+    "pragmatic_note": "Interrupting is acceptable if signalled politely.",
+    "pitfall": null,
+    "examples": [
+      "Sorry, can I just come in here?",
+      "Can I just come in on that point?"
+    ],
+    "collocations": [
+      "if I could just come in"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "over to you",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A handover of the floor to someone else.",
+    "usage": "Used in meetings and presentations.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "That's all from me, over to you, Sarah.",
+      "Over to you for questions."
+    ],
+    "collocations": [
+      "I'll hand over to"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'd echo that",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Agreement with what someone else has said.",
+    "usage": "Used in meetings.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'd echo what Tom said about the budget.",
+      "Yes, I'd echo that."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "good question",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A reply to a question, sometimes buying time.",
+    "usage": "Used in meetings and presentations.",
+    "pragmatic_note": "Decoder: 'That's a very good question' often means 'I don't know'.",
+    "pitfall": null,
+    "examples": [
+      "Good question, let me check and get back to you.",
+      "That's a very good question."
+    ],
+    "collocations": [
+      "that's a very good question"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'm not sure I follow",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite way of asking for clarification, or signalling doubt.",
+    "usage": "Used in meetings and discussions.",
+    "pragmatic_note": "Can mean 'that doesn't make sense'.",
+    "pitfall": null,
+    "examples": [
+      "Sorry, I'm not sure I follow.",
+      "I'm not sure I follow the logic there."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "could you say a bit more about that?",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite request for elaboration.",
+    "usage": "Used in meetings and interviews.",
+    "pragmatic_note": "Can also be a challenge: 'justify that'.",
+    "pitfall": null,
+    "examples": [
+      "Could you say a bit more about that?",
+      "Interesting, could you say a bit more?"
+    ],
+    "collocations": [
+      "could you expand on that"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "noted",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A brief acknowledgement that you've received information.",
+    "usage": "Used in emails and meetings.",
+    "pragmatic_note": "A bare 'Noted.' can sound curt or annoyed; 'Thanks, noted' is warmer.",
+    "pitfall": null,
+    "examples": [
+      "Noted, thanks.",
+      "Thanks, that's noted."
+    ],
+    "collocations": [
+      "duly noted"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "thanks for your patience",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite acknowledgement of someone's waiting.",
+    "usage": "Used in emails and customer service.",
+    "pragmatic_note": "Often replaces 'sorry for the delay' to sound positive.",
+    "pitfall": null,
+    "examples": [
+      "Thanks for your patience while we sorted this.",
+      "Thanks for bearing with me."
+    ],
+    "collocations": [
+      "thanks for bearing with me"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "bear with me",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A polite request for patience.",
+    "usage": "Used on the phone, in meetings and in shops.",
+    "pragmatic_note": null,
+    "pitfall": "Spelt 'bear', not 'bare'.",
+    "examples": [
+      "Bear with me a second while I find it.",
+      "Bear with me, the system's slow today."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "have you got a minute?",
+    "register": "AMBER",
+    "us_equivalent": "do you have a minute",
+    "gloss": "A polite request to speak to someone.",
+    "usage": "Used in offices and socially.",
+    "pragmatic_note": "Can signal something serious, depending on tone.",
+    "pitfall": null,
+    "examples": [
+      "Have you got a minute?",
+      "Sorry, have you got a minute? It's about Friday."
+    ],
+    "collocations": [
+      "can I have a quick word"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "can I have a quick word?",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A request for a brief private conversation.",
+    "usage": "Used at work.",
+    "pragmatic_note": "Often precedes feedback or bad news.",
+    "pitfall": null,
+    "examples": [
+      "Can I have a quick word?",
+      "Have you got time for a quick word?"
+    ],
+    "collocations": [
+      "a quick word"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "no rush",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A reassurance that something isn't urgent.",
+    "usage": "Used in emails and speech.",
+    "pragmatic_note": "Decoder: may still mean 'this week, please'; check if a deadline matters.",
+    "pitfall": null,
+    "examples": [
+      "No rush, whenever you get a chance.",
+      "No rush on this one."
+    ],
+    "collocations": [
+      "no hurry"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "when you get a chance",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A polite way to say 'please do this when convenient'.",
+    "usage": "Used in emails and messages.",
+    "pragmatic_note": "Decoder: often 'soon', not 'whenever'.",
+    "pitfall": null,
+    "examples": [
+      "Could you look at this when you get a chance?",
+      "When you get a chance, can you call me?"
+    ],
+    "collocations": [
+      "when you have a moment"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "at your earliest convenience",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Formal phrase meaning as soon as possible.",
+    "usage": "Used in formal letters and emails.",
+    "pragmatic_note": "Decoder: 'urgently'.",
+    "pitfall": null,
+    "examples": [
+      "Please reply at your earliest convenience.",
+      "Could you call us at your earliest convenience?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "we regret to inform you",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A formal phrase introducing bad news.",
+    "usage": "Used in official letters and rejections.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We regret to inform you that your application was unsuccessful.",
+      "We regret to inform you that the event is cancelled."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "on this occasion",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A formal phrase used in rejections.",
+    "usage": "Standard in British job rejections and refusals.",
+    "pragmatic_note": "Decoder: 'Not this time', usually 'no' without implying future yes.",
+    "pitfall": null,
+    "examples": [
+      "Unfortunately, you have not been successful on this occasion.",
+      "On this occasion, we're unable to help."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "we apologise for any inconvenience",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A formulaic apology in official notices.",
+    "usage": "Used by transport operators and businesses.",
+    "pragmatic_note": "Its formulaic nature means many Britons find it hollow.",
+    "pitfall": null,
+    "examples": [
+      "We apologise for any inconvenience this may cause.",
+      "This train is delayed. We apologise for any inconvenience."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I appreciate that",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An acknowledgement of someone's situation before making a point.",
+    "usage": "Used in negotiations and emails.",
+    "pragmatic_note": "Often precedes 'but'.",
+    "pitfall": null,
+    "examples": [
+      "I appreciate that you're busy, but this is urgent.",
+      "I appreciate that, thank you."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'll be in touch",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A promise to contact someone later.",
+    "usage": "Used at the end of meetings and calls.",
+    "pragmatic_note": "After interviews, it can be neutral or a soft brush-off.",
+    "pitfall": null,
+    "examples": [
+      "Thanks for your time, I'll be in touch.",
+      "I'll be in touch next week."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  }
+]

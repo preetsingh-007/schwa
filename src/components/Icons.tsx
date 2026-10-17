@@ -27,3 +27,6 @@ export const BackIcon = () => (
 export const CloseIcon = () => (
   <svg viewBox="0 0 24 24" {...s} aria-hidden><path d="M18 6L6 18M6 6l12 12" /></svg>
 );
+export const BookIcon = () => (
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" aria-hidden><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20V3H6.5A2.5 2.5 0 0 0 4 5.5z" /><path d="M4 19.5A2.5 2.5 0 0 0 6.5 22H20v-5" /></svg>
+);

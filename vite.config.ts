@@ -24,13 +24,24 @@ export default defineConfig({
         globPatterns: ['**/*.{js,mjs,css,html,json,svg,png,woff2,wasm}'],
         // ORT also emits a hashed copy of its WASM into assets/; we load the one in /ort/.
         // The corpus (≈4 MB) and pre-rendered audio are fetched on demand and cached at runtime.
-        globIgnores: ['**/assets/ort-wasm*.wasm', 'corpus/level-*.json', 'audio/**'],
+        globIgnores: ['**/assets/ort-wasm*.wasm', 'corpus/level-*.json', 'audio/**', 'lexicon/cards-*.json', 'lexicon/words-*.json', 'prompts/*.json'],
         // ORT WASM (~21 MB) and the espeak-ng bundle must be pre-cached for offline use.
         maximumFileSizeToCacheInBytes: 40 * 1024 * 1024,
         navigateFallback: `${base}index.html`,
         // Model weights are cached by Transformers.js in its own Cache Storage
         // bucket ("transformers-cache"); don't double-store them here.
         runtimeCaching: [
+          {
+            // Lexicon shards and extra prompt packs: serve cached, refresh in the background.
+            urlPattern: ({ url }) => url.pathname.includes('/lexicon/') || url.pathname.includes('/prompts/'),
+            handler: 'StaleWhileRevalidate',
+            options: { cacheName: 'lexiphon-lexicon', expiration: { maxEntries: 120 } },
+          },
+          {
+            urlPattern: ({ url }) => url.hostname.endsWith('wikimedia.org'),
+            handler: 'CacheFirst',
+            options: { cacheName: 'lexiphon-images', expiration: { maxEntries: 600, maxAgeSeconds: 60 * 60 * 24 * 180 }, cacheableResponse: { statuses: [0, 200] } },
+          },
           {
             urlPattern: ({ url }) => url.pathname.includes('/corpus/level-') || url.pathname.includes('/audio/rp/'),
             handler: 'CacheFirst',

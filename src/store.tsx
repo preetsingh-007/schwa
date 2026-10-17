@@ -4,6 +4,8 @@ import { db, getLearner, getSettings, saveSettings } from './services/db';
 import { engine } from './services/engine';
 import { setAcousticCalibration, type AcousticCalibration } from './services/ipaAligner';
 import type { ModelKey } from './workers/protocol';
+import { getEntry, loadAllCurated, onLexiconChange } from './services/lexicon';
+import { loadPromptPacks } from './services/promptPacks';
 
 export async function loadCuratedData(): Promise<CuratedData> {
   const base = import.meta.env.BASE_URL;
@@ -32,7 +34,12 @@ interface AppState {
   learner: LearnerState;
   vocabCards: Map<string, VocabCard>;
   promptStats: Map<string, PromptStat>;
-  vocabById: Map<string, VocabEntry>;
+  /** core curriculum + every lexicon card loaded so far */
+  vocabById: { get(id: string): VocabEntry | undefined };
+  /** bumps whenever lexicon cards finish loading */
+  lexiconVersion: number;
+  /** curated core prompts + the background-loaded Tier 2/3 packs */
+  allPrompts: CuratedData['prompts'];
   engineState: EngineState;
   engineError: string | null;
   engineModels: Record<ModelKey, boolean>;
@@ -61,7 +68,23 @@ export function AppProvider({ data, initialSettings, initialLearner, children }:
   const [engineModels, setEngineModels] = useState(engine.ready);
   const [vocabOpen, openVocab] = useState<string | null>(null);
 
-  const vocabById = useMemo(() => new Map(data.vocab.map((v) => [v.id, v])), [data.vocab]);
+  const [lexiconVersion, setLexiconVersion] = useState(0);
+  useEffect(() => onLexiconChange(() => setLexiconVersion((v) => v + 1)), []);
+  // Curated lexicon (~3,000 cards) loads in the background so it never delays start-up.
+  useEffect(() => {
+    const t = setTimeout(() => {
+      void loadAllCurated().catch(() => undefined).then(() => loadPromptPacks()).then((ps) => { if (ps.length) setExtraPrompts(ps); });
+    }, 1500);
+    return () => clearTimeout(t);
+  }, []);
+  const [extraPrompts, setExtraPrompts] = useState<CuratedData['prompts']>([]);
+  const allPrompts = useMemo(() => (extraPrompts.length ? [...data.prompts, ...extraPrompts] : data.prompts), [data.prompts, extraPrompts]);
+  const vocabById = useMemo(() => {
+    const core = new Map(data.vocab.map((v) => [v.id, v]));
+    return { get: (id: string) => core.get(id) ?? getEntry(id) };
+  // lexiconVersion: recreate so consumers re-render when cards arrive
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [data.vocab, lexiconVersion]);
 
   const refresh = useCallback(async () => {
     const [l, s, cards, stats] = await Promise.all([getLearner(), getSettings(), db.vocab.toArray(), db.promptStats.toArray()]);
@@ -96,7 +119,7 @@ export function AppProvider({ data, initialSettings, initialLearner, children }:
   }, []);
 
   const value: AppState = {
-    data, settings, learner, vocabCards, promptStats, vocabById, engineState, engineError, engineModels,
+    data, settings, learner, vocabCards, promptStats, vocabById, lexiconVersion, allPrompts, engineState, engineError, engineModels,
     updateSettings, refresh, startEngine, openVocab, vocabOpen,
   };
   return <Ctx.Provider value={value}>{children}</Ctx.Provider>;

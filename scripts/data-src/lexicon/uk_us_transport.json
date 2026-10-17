@@ -1,0 +1,5305 @@
+[
+  {
+    "headword": "pavement",
+    "register": "GREEN",
+    "us_equivalent": "sidewalk",
+    "gloss": "The paved path for pedestrians at the side of a road.",
+    "usage": "Standard everyday word throughout the UK.",
+    "pragmatic_note": null,
+    "pitfall": "In American English 'pavement' means the road surface itself, so 'walk on the pavement' sounds odd to Americans.",
+    "examples": [
+      "Please keep to the pavement, the road's very busy.",
+      "There's a cyclist riding on the pavement again."
+    ],
+    "collocations": [
+      "walk on the pavement",
+      "pavement café",
+      "cracked pavement"
+    ],
+    "wiki": "Sidewalk",
+    "forms": [
+      "pavements"
+    ]
+  },
+  {
+    "headword": "footpath",
+    "register": "GREEN",
+    "us_equivalent": "trail / walking path",
+    "gloss": "A path for people on foot, especially a public route across countryside.",
+    "usage": "Used for rural walking routes ('public footpath') and, in some regions, for the pavement beside a road.",
+    "pragmatic_note": "A 'public footpath' sign means you have a legal right to walk there, even across farmland.",
+    "pitfall": null,
+    "examples": [
+      "The public footpath runs along the edge of the field.",
+      "Follow the footpath down to the river."
+    ],
+    "collocations": [
+      "public footpath",
+      "coastal footpath"
+    ],
+    "wiki": "Footpath",
+    "forms": [
+      "footpaths"
+    ]
+  },
+  {
+    "headword": "kerb",
+    "register": "GREEN",
+    "us_equivalent": "curb",
+    "gloss": "The raised stone edge between the pavement and the road.",
+    "usage": "Standard UK spelling for the edge of the pavement; the verb 'curb' (to restrain) keeps the c spelling.",
+    "pragmatic_note": null,
+    "pitfall": "Don't write 'curb' for the stone edge in British English; 'kerb' is the UK spelling.",
+    "examples": [
+      "He parked with two wheels up on the kerb.",
+      "Wait at the kerb until the green man appears."
+    ],
+    "collocations": [
+      "kerbside",
+      "pull up at the kerb",
+      "dropped kerb"
+    ],
+    "wiki": "Curb",
+    "forms": [
+      "kerbs",
+      "kerbside"
+    ]
+  },
+  {
+    "headword": "verge",
+    "register": "GREEN",
+    "us_equivalent": "shoulder / median strip",
+    "gloss": "The strip of grass along the edge of a road.",
+    "usage": "Common in rural and suburban contexts, and in council notices about grass cutting.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Don't park on the verge, it gets churned up.",
+      "The verges are full of wildflowers in May."
+    ],
+    "collocations": [
+      "grass verge",
+      "roadside verge"
+    ],
+    "wiki": "Road verge",
+    "forms": [
+      "verges"
+    ]
+  },
+  {
+    "headword": "motorway",
+    "register": "GREEN",
+    "us_equivalent": "freeway / interstate",
+    "gloss": "A major multi-lane road for fast long-distance traffic, numbered with an M, such as the M1.",
+    "usage": "Everyday and official term; motorways are referred to by number, as in 'the M6' or 'the M25'.",
+    "pragmatic_note": "Britons often describe journeys by motorway number and junction: 'come off at junction 9'.",
+    "pitfall": "'Highway' in the UK is a legal or formal term for any public road, not specifically a motorway.",
+    "examples": [
+      "We'll take the motorway, it's quicker even with the traffic.",
+      "There's been an accident on the M5 near Bristol."
+    ],
+    "collocations": [
+      "on the motorway",
+      "motorway junction",
+      "motorway services"
+    ],
+    "wiki": "Controlled-access highway",
+    "forms": [
+      "motorways"
+    ]
+  },
+  {
+    "headword": "dual carriageway",
+    "register": "GREEN",
+    "us_equivalent": "divided highway",
+    "gloss": "A road with two or more lanes in each direction, separated by a central barrier or strip.",
+    "usage": "Common in driving directions and traffic reports; many A-roads are dual carriageways.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "It's dual carriageway most of the way to the coast.",
+      "The speed limit on a dual carriageway is usually seventy."
+    ],
+    "collocations": [
+      "dual carriageway",
+      "single carriageway"
+    ],
+    "wiki": "Dual carriageway",
+    "forms": [
+      "dual carriageways"
+    ]
+  },
+  {
+    "headword": "carriageway",
+    "register": "GREEN",
+    "us_equivalent": "roadway",
+    "gloss": "The part of a road used by vehicles, especially one side of a divided road.",
+    "usage": "Mainly in traffic reports and official signs, as in 'northbound carriageway closed'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The southbound carriageway is closed after a collision.",
+      "Debris was scattered across both carriageways."
+    ],
+    "collocations": [
+      "northbound carriageway",
+      "single carriageway"
+    ],
+    "wiki": null,
+    "forms": [
+      "carriageways"
+    ]
+  },
+  {
+    "headword": "A-road",
+    "register": "GREEN",
+    "us_equivalent": "highway / state route",
+    "gloss": "A main road numbered with an A, ranking below a motorway and above a B-road.",
+    "usage": "Used in everyday directions: 'take the A30', 'it's a busy A-road'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Stay on the A303 until you see signs for Stonehenge.",
+      "It's a fast A-road, but there aren't many places to overtake."
+    ],
+    "collocations": [
+      "main A-road",
+      "the A1"
+    ],
+    "wiki": null,
+    "forms": [
+      "A-roads",
+      "A road"
+    ]
+  },
+  {
+    "headword": "B-road",
+    "register": "GREEN",
+    "us_equivalent": "secondary road / county road",
+    "gloss": "A minor numbered road, usually narrower and slower than an A-road.",
+    "usage": "Used in directions and when talking about slower, scenic rural routes.",
+    "pragmatic_note": "Taking 'the B-roads' suggests a slower, prettier route through the countryside.",
+    "pitfall": null,
+    "examples": [
+      "The sat nav sent us down a winding B-road.",
+      "If the motorway's jammed, we can cut across on the B-roads."
+    ],
+    "collocations": [
+      "winding B-road",
+      "country B-road"
+    ],
+    "wiki": null,
+    "forms": [
+      "B-roads",
+      "B road"
+    ]
+  },
+  {
+    "headword": "roundabout",
+    "register": "GREEN",
+    "us_equivalent": "traffic circle / rotary",
+    "gloss": "A circular junction where traffic flows one way around a central island.",
+    "usage": "Ubiquitous on UK roads; drivers give way to traffic coming from the right.",
+    "pragmatic_note": null,
+    "pitfall": "In the UK a roundabout is also a playground merry-go-round; context usually makes it clear.",
+    "examples": [
+      "Take the third exit at the next roundabout.",
+      "Go straight over the roundabout and it's on your left."
+    ],
+    "collocations": [
+      "take the second exit",
+      "go straight over",
+      "mini-roundabout"
+    ],
+    "wiki": "Roundabout",
+    "forms": [
+      "roundabouts"
+    ]
+  },
+  {
+    "headword": "mini-roundabout",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A small roundabout marked by a painted white circle that vehicles can drive over.",
+    "usage": "Common on residential and town-centre roads.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Turn right at the mini-roundabout by the church.",
+      "Lorries just drive straight over the mini-roundabout."
+    ],
+    "collocations": [],
+    "wiki": "Roundabout",
+    "forms": [
+      "mini-roundabouts"
+    ]
+  },
+  {
+    "headword": "junction",
+    "register": "GREEN",
+    "us_equivalent": "intersection / exit",
+    "gloss": "A place where roads meet; on a motorway, a numbered exit.",
+    "usage": "Standard in directions and traffic news, as in 'between junctions 4 and 5'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'exit 12'; Britons say 'junction 12' for the same motorway exit.",
+    "examples": [
+      "Come off the motorway at junction 15.",
+      "Turn left at the next junction."
+    ],
+    "collocations": [
+      "motorway junction",
+      "busy junction"
+    ],
+    "wiki": null,
+    "forms": [
+      "junctions"
+    ]
+  },
+  {
+    "headword": "T-junction",
+    "register": "GREEN",
+    "us_equivalent": "T intersection",
+    "gloss": "A junction where one road meets another at right angles, forming a T.",
+    "usage": "Common in driving directions and in the Highway Code.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "At the T-junction, turn right towards the station.",
+      "Carry on to the end of the road; it's a T-junction."
+    ],
+    "collocations": [
+      "at the T-junction"
+    ],
+    "wiki": null,
+    "forms": [
+      "T-junctions"
+    ]
+  },
+  {
+    "headword": "crossroads",
+    "register": "GREEN",
+    "us_equivalent": "intersection",
+    "gloss": "A place where two roads cross each other.",
+    "usage": "Everyday word in directions, especially in villages and towns; also used figuratively for a decisive moment.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Go left at the crossroads by the pub.",
+      "There's a set of lights at the crossroads."
+    ],
+    "collocations": [
+      "at the crossroads",
+      "staggered crossroads"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "box junction",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A junction marked with yellow criss-cross lines that you must not enter unless your exit is clear.",
+    "usage": "Common in towns and cities; stopping in one can bring a fine.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Don't stop in the box junction; wait until it's clear.",
+      "He got a fine for stopping in a yellow box junction."
+    ],
+    "collocations": [
+      "yellow box junction"
+    ],
+    "wiki": "Box junction",
+    "forms": [
+      "box junctions"
+    ]
+  },
+  {
+    "headword": "slip road",
+    "register": "GREEN",
+    "us_equivalent": "on-ramp / off-ramp",
+    "gloss": "A short road for joining or leaving a motorway or dual carriageway.",
+    "usage": "Standard driving term; traffic reports mention slip roads being closed.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Build up your speed on the slip road before you join.",
+      "The exit slip road is closed for repairs."
+    ],
+    "collocations": [
+      "exit slip road",
+      "entry slip road"
+    ],
+    "wiki": null,
+    "forms": [
+      "slip roads"
+    ]
+  },
+  {
+    "headword": "hard shoulder",
+    "register": "GREEN",
+    "us_equivalent": "shoulder",
+    "gloss": "The emergency lane at the edge of a motorway, for vehicles that have broken down.",
+    "usage": "Standard term; you should only stop on it in a genuine emergency.",
+    "pragmatic_note": "On some 'smart motorways' the hard shoulder is used as a running lane, controlled by overhead signs.",
+    "pitfall": null,
+    "examples": [
+      "We had to pull onto the hard shoulder with a flat tyre.",
+      "Never walk along the hard shoulder."
+    ],
+    "collocations": [
+      "pull onto the hard shoulder",
+      "stop on the hard shoulder"
+    ],
+    "wiki": "Shoulder (road)",
+    "forms": []
+  },
+  {
+    "headword": "central reservation",
+    "register": "GREEN",
+    "us_equivalent": "median / median strip",
+    "gloss": "The strip or barrier dividing the two sides of a motorway or dual carriageway.",
+    "usage": "Standard term in traffic reports and driving instruction.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The car crossed the central reservation and hit the barrier.",
+      "There's debris on the central reservation near junction 7."
+    ],
+    "collocations": [],
+    "wiki": "Median strip",
+    "forms": []
+  },
+  {
+    "headword": "lay-by",
+    "register": "GREEN",
+    "us_equivalent": "pull-off / turnout",
+    "gloss": "A small area beside a road where vehicles can stop for a short time.",
+    "usage": "Common on A-roads; used for a short rest, a phone call or checking the map.",
+    "pragmatic_note": "Lay-bys are associated with snack vans selling tea and bacon rolls to lorry drivers.",
+    "pitfall": null,
+    "examples": [
+      "Let's pull into the next lay-by and check the map.",
+      "There's a burger van in the lay-by most mornings."
+    ],
+    "collocations": [
+      "pull into a lay-by"
+    ],
+    "wiki": "Rest area",
+    "forms": [
+      "lay-bys",
+      "layby"
+    ]
+  },
+  {
+    "headword": "flyover",
+    "register": "GREEN",
+    "us_equivalent": "overpass",
+    "gloss": "A bridge that carries one road over another.",
+    "usage": "Common in towns and in descriptions of motorway layouts.",
+    "pragmatic_note": null,
+    "pitfall": "In the US a 'flyover' can mean a ceremonial flight of aircraft; British English calls that a 'flypast'.",
+    "examples": [
+      "Go under the flyover and take the first left.",
+      "The flyover is closed for repairs this weekend."
+    ],
+    "collocations": [],
+    "wiki": "Overpass",
+    "forms": [
+      "flyovers"
+    ]
+  },
+  {
+    "headword": "subway",
+    "register": "GREEN",
+    "us_equivalent": "pedestrian underpass",
+    "gloss": "A tunnel under a road that lets pedestrians cross safely.",
+    "usage": "Common in towns built around busy roads; the London Underground is not called 'the subway'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans use 'subway' for an underground railway; in the UK that's 'the Underground' or 'the Tube'.",
+    "examples": [
+      "Use the subway to get under the ring road.",
+      "The subway by the station is much better lit now."
+    ],
+    "collocations": [
+      "pedestrian subway"
+    ],
+    "wiki": null,
+    "forms": [
+      "subways"
+    ]
+  },
+  {
+    "headword": "zebra crossing",
+    "register": "GREEN",
+    "us_equivalent": "crosswalk",
+    "gloss": "A pedestrian crossing marked by black-and-white stripes on the road.",
+    "usage": "Standard term; drivers must give way to pedestrians who have stepped onto it.",
+    "pragmatic_note": "The flashing amber globes on poles beside it are called Belisha beacons.",
+    "pitfall": null,
+    "examples": [
+      "Cross at the zebra crossing, not between the parked cars.",
+      "The driver stopped to let us over the zebra crossing."
+    ],
+    "collocations": [],
+    "wiki": "Zebra crossing",
+    "forms": [
+      "zebra crossings",
+      "zebra"
+    ]
+  },
+  {
+    "headword": "Belisha beacon",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A flashing amber globe on a black-and-white pole marking a zebra crossing.",
+    "usage": "Known to most Britons, though many simply call them 'the flashing lights' at the crossing.",
+    "pragmatic_note": "They are named after Leslie Hore-Belisha, the minister who introduced them in the 1930s.",
+    "pitfall": null,
+    "examples": [
+      "The Belisha beacons make the crossing easy to spot at night."
+    ],
+    "collocations": [],
+    "wiki": "Belisha beacon",
+    "forms": [
+      "Belisha beacons"
+    ]
+  },
+  {
+    "headword": "pelican crossing",
+    "register": "GREEN",
+    "us_equivalent": "signalized crosswalk",
+    "gloss": "A pedestrian crossing controlled by traffic lights and a push button.",
+    "usage": "Standard term, though many people simply say 'the lights' or 'the crossing'.",
+    "pragmatic_note": "The name comes from 'PEdestrian LIght CONtrolled'; newer variants are puffin and toucan crossings.",
+    "pitfall": null,
+    "examples": [
+      "Press the button at the pelican crossing and wait for the green man.",
+      "There's a pelican crossing outside the school."
+    ],
+    "collocations": [],
+    "wiki": "Pelican crossing",
+    "forms": [
+      "pelican crossings"
+    ]
+  },
+  {
+    "headword": "puffin crossing",
+    "register": "GREEN",
+    "us_equivalent": "signalized crosswalk",
+    "gloss": "A light-controlled crossing with sensors that keep traffic stopped while people are still crossing.",
+    "usage": "Mostly used in the Highway Code and driving theory; in conversation people just say 'the crossing'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The lights on a puffin crossing are on your side of the road, not across it."
+    ],
+    "collocations": [],
+    "wiki": "Puffin crossing",
+    "forms": [
+      "puffin crossings"
+    ]
+  },
+  {
+    "headword": "toucan crossing",
+    "register": "GREEN",
+    "us_equivalent": "signalized crosswalk",
+    "gloss": "A light-controlled crossing shared by pedestrians and cyclists.",
+    "usage": "Used in the Highway Code and among cyclists; less common in casual speech.",
+    "pragmatic_note": "The name is a pun: 'two can' cross, meaning people on foot and on bikes.",
+    "pitfall": null,
+    "examples": [
+      "Cyclists can ride across at the toucan crossing.",
+      "There's a toucan crossing where the cycle path meets the road."
+    ],
+    "collocations": [],
+    "wiki": "Toucan crossing",
+    "forms": [
+      "toucan crossings"
+    ]
+  },
+  {
+    "headword": "green man",
+    "register": "GREEN",
+    "us_equivalent": "walk signal",
+    "gloss": "The green figure on a pedestrian signal showing that it is safe to cross.",
+    "usage": "Everyday phrase, especially with children: 'wait for the green man'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Wait for the green man before you cross.",
+      "The green man only lasts a few seconds here."
+    ],
+    "collocations": [
+      "wait for the green man",
+      "red man"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "traffic lights",
+    "register": "GREEN",
+    "us_equivalent": "traffic light / stoplight",
+    "gloss": "The red, amber and green signals that control traffic at junctions.",
+    "usage": "Usually plural in the UK and often shortened to 'the lights'.",
+    "pragmatic_note": null,
+    "pitfall": "Britons say 'amber', not 'yellow', for the middle light; 'stoplight' is not used.",
+    "examples": [
+      "Turn left at the next set of traffic lights.",
+      "The lights are stuck on red again."
+    ],
+    "collocations": [
+      "at the lights",
+      "set of lights",
+      "temporary traffic lights"
+    ],
+    "wiki": "Traffic light",
+    "forms": [
+      "the lights",
+      "traffic light"
+    ]
+  },
+  {
+    "headword": "amber",
+    "register": "GREEN",
+    "us_equivalent": "yellow (light)",
+    "gloss": "The middle traffic-light colour, between red and green.",
+    "usage": "Standard in the Highway Code and everyday speech.",
+    "pragmatic_note": null,
+    "pitfall": "Saying 'yellow light' sounds American; in the UK red and amber also show together just before green.",
+    "examples": [
+      "The lights turned amber just as I reached them.",
+      "You should stop on amber unless it's unsafe to do so."
+    ],
+    "collocations": [
+      "on amber",
+      "amber light"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "give way",
+    "register": "GREEN",
+    "us_equivalent": "yield",
+    "gloss": "To let other traffic go first, as instructed by a sign or road marking.",
+    "usage": "Standard driving term, seen on triangular road signs and in the Highway Code.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "You have to give way to traffic already on the roundabout.",
+      "There's a give way sign at the end of the lane."
+    ],
+    "collocations": [
+      "give way sign",
+      "give way to the right"
+    ],
+    "wiki": null,
+    "forms": [
+      "gave way",
+      "giving way",
+      "gives way"
+    ]
+  },
+  {
+    "headword": "tailback",
+    "register": "AMBER",
+    "us_equivalent": "backup",
+    "gloss": "A long queue of traffic stretching back from an obstruction.",
+    "usage": "Typical of radio traffic reports, as in 'a three-mile tailback'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "There's a five-mile tailback on the M6 northbound.",
+      "The roadworks caused tailbacks all morning."
+    ],
+    "collocations": [
+      "three-mile tailback",
+      "long tailback"
+    ],
+    "wiki": null,
+    "forms": [
+      "tailbacks"
+    ]
+  },
+  {
+    "headword": "roadworks",
+    "register": "GREEN",
+    "us_equivalent": "construction zone / road work",
+    "gloss": "Repairs or construction on a road, often with lane closures and temporary lights.",
+    "usage": "Everyday word; signs read 'Roadworks ahead'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Allow extra time; there are roadworks on the high street.",
+      "We sat in roadworks for half an hour."
+    ],
+    "collocations": [
+      "roadworks ahead",
+      "temporary lights"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "diversion",
+    "register": "GREEN",
+    "us_equivalent": "detour",
+    "gloss": "An alternative signed route used when a road is closed.",
+    "usage": "Standard on road signs and in bus and rail notices.",
+    "pragmatic_note": null,
+    "pitfall": "In the UK a 'detour' is usually a longer route you choose; an official rerouting is a 'diversion'.",
+    "examples": [
+      "Follow the yellow diversion signs.",
+      "The bus is on diversion because of the market."
+    ],
+    "collocations": [
+      "on diversion",
+      "diversion signs",
+      "follow the diversion"
+    ],
+    "wiki": null,
+    "forms": [
+      "diversions",
+      "diverted"
+    ]
+  },
+  {
+    "headword": "contraflow",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A temporary arrangement where traffic uses lanes on the opposite side of the road during works.",
+    "usage": "Heard in traffic reports and seen on motorway signs.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "There's a contraflow between junctions 10 and 11.",
+      "Keep your speed down through the contraflow."
+    ],
+    "collocations": [
+      "contraflow system"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "one-way system",
+    "register": "GREEN",
+    "us_equivalent": "one-way streets",
+    "gloss": "A network of one-way streets controlling traffic around a town centre.",
+    "usage": "A common complaint of drivers in unfamiliar towns.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I got lost in the one-way system twice.",
+      "You'll have to go round the one-way system to reach the car park."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "ring road",
+    "register": "GREEN",
+    "us_equivalent": "beltway",
+    "gloss": "A road that circles a town or city to keep through traffic out of the centre.",
+    "usage": "Common in towns and cities across the UK.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Take the ring road to avoid the town centre.",
+      "The hotel is just off the inner ring road."
+    ],
+    "collocations": [
+      "inner ring road",
+      "outer ring road"
+    ],
+    "wiki": "Ring road",
+    "forms": [
+      "ring roads"
+    ]
+  },
+  {
+    "headword": "bypass",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A road that takes traffic around a town or village rather than through it.",
+    "usage": "Common in local news and place descriptions: 'the new bypass'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Since the bypass opened, the village is much quieter.",
+      "Take the bypass and you'll save ten minutes."
+    ],
+    "collocations": [
+      "town bypass"
+    ],
+    "wiki": null,
+    "forms": [
+      "bypasses"
+    ]
+  },
+  {
+    "headword": "rat run",
+    "register": "AMBER",
+    "us_equivalent": "cut-through",
+    "gloss": "A side street used by drivers as a shortcut to avoid busy main roads.",
+    "usage": "Common in local news and residents' complaints.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Our road has become a rat run since the roadworks started."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "rat runs",
+      "rat-run"
+    ]
+  },
+  {
+    "headword": "cat's eyes",
+    "register": "GREEN",
+    "us_equivalent": "reflective road markers",
+    "gloss": "Small reflective studs set into the road surface to mark lanes at night.",
+    "usage": "Everyday term for a well-known British invention.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The cat's eyes make all the difference on dark country roads.",
+      "Stay between the cat's eyes."
+    ],
+    "collocations": [],
+    "wiki": "Cat's eye (road)",
+    "forms": [
+      "cat's eye",
+      "cats' eyes"
+    ]
+  },
+  {
+    "headword": "sleeping policeman",
+    "register": "AMBER",
+    "us_equivalent": "speed bump",
+    "gloss": "Humorous British term for a speed bump.",
+    "usage": "Informal and a little old-fashioned; most people now just say 'speed bump'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Slow down, there's a sleeping policeman by the school.",
+      "The whole estate is full of sleeping policemen."
+    ],
+    "collocations": [],
+    "wiki": "Speed bump",
+    "forms": [
+      "sleeping policemen"
+    ]
+  },
+  {
+    "headword": "traffic calming",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Measures such as speed bumps, chicanes and narrowings designed to slow traffic down.",
+    "usage": "Used by councils, planners and in local news.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The council is putting in traffic calming outside the school."
+    ],
+    "collocations": [
+      "traffic calming measures"
+    ],
+    "wiki": "Traffic calming",
+    "forms": []
+  },
+  {
+    "headword": "speed camera",
+    "register": "GREEN",
+    "us_equivalent": "speed camera / photo radar",
+    "gloss": "A roadside camera that photographs vehicles exceeding the speed limit.",
+    "usage": "Everyday term; UK speed cameras are usually painted yellow and signposted.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Watch out, there's a speed camera on this stretch.",
+      "He got caught by a speed camera doing forty in a thirty."
+    ],
+    "collocations": [
+      "average speed cameras",
+      "caught by a speed camera"
+    ],
+    "wiki": "Traffic enforcement camera",
+    "forms": [
+      "speed cameras"
+    ]
+  },
+  {
+    "headword": "national speed limit",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The default maximum speed on a type of UK road, shown by a white sign with a black diagonal stripe.",
+    "usage": "Standard driving term in lessons and the Highway Code.",
+    "pragmatic_note": "Speeds on UK roads are in miles per hour, not kilometres per hour.",
+    "pitfall": null,
+    "examples": [
+      "Once you leave the village it's the national speed limit.",
+      "That sign means the national speed limit applies."
+    ],
+    "collocations": [
+      "national speed limit sign"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "accident black spot",
+    "register": "GREEN",
+    "us_equivalent": "dangerous intersection / high-crash area",
+    "gloss": "A stretch of road or junction where accidents often happen.",
+    "usage": "Common in local news and road-safety campaigns.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "That bend is a notorious accident black spot."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "black spot",
+      "blackspot"
+    ]
+  },
+  {
+    "headword": "high street",
+    "register": "GREEN",
+    "us_equivalent": "main street",
+    "gloss": "The main shopping street of a town; also the town-centre retail sector in general.",
+    "usage": "Everyday word, and common in news, as in 'the decline of the high street'.",
+    "pragmatic_note": "'High-street brands' means mainstream chain shops, as opposed to designer or online ones.",
+    "pitfall": null,
+    "examples": [
+      "There's a new café on the high street.",
+      "Lots of high-street shops have closed recently."
+    ],
+    "collocations": [
+      "on the high street",
+      "high-street shops",
+      "high-street brands"
+    ],
+    "wiki": "High Street",
+    "forms": [
+      "high streets"
+    ]
+  },
+  {
+    "headword": "bollard",
+    "register": "GREEN",
+    "us_equivalent": "post / barrier post",
+    "gloss": "A short, sturdy post used to block vehicles or mark a traffic island.",
+    "usage": "Everyday word in the UK; less common in American speech.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "They've put bollards up so cars can't use the lane.",
+      "He scraped the car on a bollard."
+    ],
+    "collocations": [
+      "retractable bollards"
+    ],
+    "wiki": "Bollard",
+    "forms": [
+      "bollards"
+    ]
+  },
+  {
+    "headword": "traffic island",
+    "register": "GREEN",
+    "us_equivalent": "median / pedestrian refuge",
+    "gloss": "A raised area in the middle of a road where pedestrians can wait while crossing.",
+    "usage": "Common in towns; 'pedestrian refuge' is the official term.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Wait on the traffic island until the other lane is clear."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "traffic islands"
+    ]
+  },
+  {
+    "headword": "level crossing",
+    "register": "GREEN",
+    "us_equivalent": "railroad crossing / grade crossing",
+    "gloss": "A place where a road crosses a railway line on the same level.",
+    "usage": "Standard term in driving and railway contexts.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The barriers came down at the level crossing.",
+      "Never stop on a level crossing."
+    ],
+    "collocations": [
+      "level crossing barriers"
+    ],
+    "wiki": "Level crossing",
+    "forms": [
+      "level crossings"
+    ]
+  },
+  {
+    "headword": "cul-de-sac",
+    "register": "GREEN",
+    "us_equivalent": "dead end / court",
+    "gloss": "A residential street closed at one end, often with a turning circle.",
+    "usage": "Common for describing suburban streets.",
+    "pragmatic_note": null,
+    "pitfall": "Pronounced 'KUL-duh-sak' in British English.",
+    "examples": [
+      "They live at the end of a quiet cul-de-sac.",
+      "It's a cul-de-sac, so there's hardly any traffic."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "cul-de-sacs"
+    ]
+  },
+  {
+    "headword": "no through road",
+    "register": "GREEN",
+    "us_equivalent": "dead end",
+    "gloss": "A road sign warning that a road does not lead anywhere else.",
+    "usage": "Seen on road signs and used in giving directions.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Don't go down there, it's a no through road."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "bus lane",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A lane reserved for buses, and often taxis and cyclists, at certain times.",
+    "usage": "Common in towns; driving in one during its hours brings a fine.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "You can't use the bus lane until after seven.",
+      "He got a fine for driving in the bus lane."
+    ],
+    "collocations": [
+      "bus lane camera"
+    ],
+    "wiki": "Bus lane",
+    "forms": [
+      "bus lanes"
+    ]
+  },
+  {
+    "headword": "cycle lane",
+    "register": "GREEN",
+    "us_equivalent": "bike lane",
+    "gloss": "A marked part of the road reserved for cyclists.",
+    "usage": "Standard UK term; 'bike lane' is also heard in casual speech.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "There's a cycle lane all the way into town.",
+      "Cars keep parking in the cycle lane."
+    ],
+    "collocations": [
+      "segregated cycle lane"
+    ],
+    "wiki": null,
+    "forms": [
+      "cycle lanes"
+    ]
+  },
+  {
+    "headword": "cycle path",
+    "register": "GREEN",
+    "us_equivalent": "bike path / bike trail",
+    "gloss": "A path for cyclists that is separate from the road.",
+    "usage": "Common in towns and on converted railway lines.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We followed the old railway line, which is a cycle path now."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "cycle paths",
+      "cycleway"
+    ]
+  },
+  {
+    "headword": "cycle",
+    "register": "GREEN",
+    "us_equivalent": "bike / ride a bike",
+    "gloss": "To ride a bicycle.",
+    "usage": "'Cycle' is the neutral British verb; 'bike' as a verb is informal.",
+    "pragmatic_note": null,
+    "pitfall": "Americans often say 'bike to work'; Britons tend to say 'cycle to work'.",
+    "examples": [
+      "I cycle to work when it's not raining.",
+      "It's about twenty minutes if you cycle."
+    ],
+    "collocations": [
+      "cycle to work",
+      "cycling holiday"
+    ],
+    "wiki": null,
+    "forms": [
+      "cycled",
+      "cycling",
+      "cyclist",
+      "cycles"
+    ]
+  },
+  {
+    "headword": "push-bike",
+    "register": "RED",
+    "us_equivalent": "bike",
+    "gloss": "Informal term for an ordinary pedal bicycle, as opposed to a motorbike.",
+    "usage": "Colloquial and somewhat old-fashioned.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I just went round on my push-bike."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "pushbike",
+      "push-bikes"
+    ]
+  },
+  {
+    "headword": "traffic warden",
+    "register": "GREEN",
+    "us_equivalent": "parking enforcement officer",
+    "gloss": "An official who patrols streets and issues parking tickets.",
+    "usage": "Still the everyday term, though the official job title is now 'civil enforcement officer'.",
+    "pragmatic_note": "Traffic wardens are a classic target of British grumbling.",
+    "pitfall": null,
+    "examples": [
+      "Move the car, there's a traffic warden coming.",
+      "The traffic warden gave me a ticket after two minutes."
+    ],
+    "collocations": [],
+    "wiki": "Parking enforcement officer",
+    "forms": [
+      "traffic wardens"
+    ]
+  },
+  {
+    "headword": "double yellow lines",
+    "register": "GREEN",
+    "us_equivalent": "no-parking zone / red curb",
+    "gloss": "Two yellow lines along the edge of a road, meaning no parking at any time.",
+    "usage": "Everyday driving term; a single yellow line means parking is restricted at certain times.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "You can't park there, it's double yellows.",
+      "He left the van on double yellow lines."
+    ],
+    "collocations": [
+      "single yellow line"
+    ],
+    "wiki": null,
+    "forms": [
+      "double yellows"
+    ]
+  },
+  {
+    "headword": "wheel clamp",
+    "register": "GREEN",
+    "us_equivalent": "boot / Denver boot",
+    "gloss": "A metal device locked onto a parked car's wheel to stop it being driven away.",
+    "usage": "Common term; usually used as a verb: 'my car's been clamped'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans call this a 'boot'; in the UK the boot is the car's luggage space.",
+    "examples": [
+      "We came back to find the car had been clamped.",
+      "It cost a fortune to get the wheel clamp removed."
+    ],
+    "collocations": [
+      "get clamped"
+    ],
+    "wiki": "Wheel clamp",
+    "forms": [
+      "clamp",
+      "clamped",
+      "clamping"
+    ]
+  },
+  {
+    "headword": "lollipop lady",
+    "register": "AMBER",
+    "us_equivalent": "crossing guard",
+    "gloss": "A school crossing patrol officer who stops traffic with a round sign on a pole.",
+    "usage": "Affectionate everyday term; 'lollipop man' for a man.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The lollipop lady helps the children across every morning."
+    ],
+    "collocations": [],
+    "wiki": "Crossing guard",
+    "forms": [
+      "lollipop man",
+      "lollipop men",
+      "lollipop ladies"
+    ]
+  },
+  {
+    "headword": "the Highway Code",
+    "register": "GREEN",
+    "us_equivalent": "driver's manual",
+    "gloss": "The official rule book for road users in Great Britain.",
+    "usage": "Referred to by learners, instructors, and in legal and news contexts.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "It's in the Highway Code: you give way to the right.",
+      "I'm revising the Highway Code for my theory test."
+    ],
+    "collocations": [],
+    "wiki": "The Highway Code",
+    "forms": [
+      "Highway Code"
+    ]
+  },
+  {
+    "headword": "sat nav",
+    "register": "AMBER",
+    "us_equivalent": "GPS",
+    "gloss": "A satellite navigation device or app that gives driving directions.",
+    "usage": "Everyday term, stressed on the first syllable: 'SAT-nav'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans tend to say 'the GPS'; Britons say 'the sat nav'.",
+    "examples": [
+      "The sat nav's taking us the long way round.",
+      "Just put the address into the sat nav."
+    ],
+    "collocations": [
+      "put it in the sat nav"
+    ],
+    "wiki": "Automotive navigation system",
+    "forms": [
+      "satnav",
+      "sat navs"
+    ]
+  },
+  {
+    "headword": "school run",
+    "register": "AMBER",
+    "us_equivalent": "school drop-off / carpool",
+    "gloss": "The daily journey of taking children to and from school, usually by car.",
+    "usage": "Everyday term among parents; often blamed for morning traffic.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The roads are much quieter in the holidays without the school run.",
+      "I'll do the school run tomorrow."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "motorway services",
+    "register": "AMBER",
+    "us_equivalent": "rest stop / service plaza",
+    "gloss": "A site on a motorway with fuel, food, toilets and parking.",
+    "usage": "Usually just 'the services': 'let's stop at the next services'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Let's stop at the next services for a coffee.",
+      "The services are about twenty miles away."
+    ],
+    "collocations": [
+      "the services",
+      "service station"
+    ],
+    "wiki": null,
+    "forms": [
+      "services",
+      "service station"
+    ]
+  },
+  {
+    "headword": "congestion charge",
+    "register": "GREEN",
+    "us_equivalent": "congestion pricing",
+    "gloss": "A daily fee for driving into a defined central zone, most famously in London.",
+    "usage": "Common in news and among London drivers.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Remember to pay the congestion charge if you drive into town.",
+      "The hotel is inside the congestion charge zone."
+    ],
+    "collocations": [
+      "congestion charge zone"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "single-track road",
+    "register": "GREEN",
+    "us_equivalent": "one-lane road",
+    "gloss": "A narrow road wide enough for only one vehicle, with passing places.",
+    "usage": "Common in rural Scotland, Wales and other remote areas.",
+    "pragmatic_note": "The etiquette is to pull into a passing place and give a wave of thanks.",
+    "pitfall": null,
+    "examples": [
+      "It's a single-track road, so use the passing places.",
+      "The last mile is single-track with sheep everywhere."
+    ],
+    "collocations": [
+      "passing place"
+    ],
+    "wiki": null,
+    "forms": [
+      "passing place",
+      "passing places"
+    ]
+  },
+  {
+    "headword": "country lane",
+    "register": "GREEN",
+    "us_equivalent": "back road",
+    "gloss": "A narrow road in the countryside, often bordered by hedges.",
+    "usage": "Everyday term; associated with slow, winding rural driving.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We got stuck behind a tractor on a country lane."
+    ],
+    "collocations": [
+      "narrow country lane"
+    ],
+    "wiki": null,
+    "forms": [
+      "country lanes"
+    ]
+  },
+  {
+    "headword": "tarmac",
+    "register": "GREEN",
+    "us_equivalent": "asphalt / blacktop",
+    "gloss": "The black material used to surface roads and paths; also the surface itself.",
+    "usage": "Everyday word for road surfacing; at airports 'the tarmac' means the area where planes stand.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "They're relaying the tarmac on our street.",
+      "We were stuck on the tarmac for an hour before take-off."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "tarmacked",
+      "Tarmac"
+    ]
+  },
+  {
+    "headword": "ford",
+    "register": "GREEN",
+    "us_equivalent": "water crossing",
+    "gloss": "A shallow place where a road or path crosses a stream through the water.",
+    "usage": "Found on rural roads and marked by warning signs.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The ford is too deep to drive through after heavy rain."
+    ],
+    "collocations": [],
+    "wiki": "Ford (crossing)",
+    "forms": [
+      "fords"
+    ]
+  },
+  {
+    "headword": "cattle grid",
+    "register": "GREEN",
+    "us_equivalent": "cattle guard",
+    "gloss": "A grid of metal bars over a shallow pit in the road that livestock will not cross.",
+    "usage": "Common at the edges of moors, national parks and farmland.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Slow down for the cattle grid at the park entrance."
+    ],
+    "collocations": [],
+    "wiki": "Cattle grid",
+    "forms": [
+      "cattle grids"
+    ]
+  },
+  {
+    "headword": "signposted",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Marked with signs showing the way.",
+    "usage": "Common in directions and leaflets: 'well signposted from the A1'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The car park is well signposted from the motorway."
+    ],
+    "collocations": [
+      "well signposted",
+      "clearly signposted"
+    ],
+    "wiki": null,
+    "forms": [
+      "signpost",
+      "signposts"
+    ]
+  },
+  {
+    "headword": "overtake",
+    "register": "GREEN",
+    "us_equivalent": "pass",
+    "gloss": "To move past a slower vehicle travelling in the same direction.",
+    "usage": "Standard term in driving and the Highway Code.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Don't overtake on a bend.",
+      "The lorry tried to overtake on the hill."
+    ],
+    "collocations": [
+      "no overtaking",
+      "overtake on a bend"
+    ],
+    "wiki": null,
+    "forms": [
+      "overtook",
+      "overtaken",
+      "overtaking"
+    ]
+  },
+  {
+    "headword": "undertake",
+    "register": "AMBER",
+    "us_equivalent": "pass on the right",
+    "gloss": "To overtake a vehicle on the inside, which is the left-hand side in the UK.",
+    "usage": "Informal driving term; undertaking is generally discouraged.",
+    "pragmatic_note": null,
+    "pitfall": "The ordinary meaning of 'undertake' is 'to take on a task', and an 'undertaker' is a funeral director.",
+    "examples": [
+      "That car just undertook me on the motorway."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "undertaking",
+      "undertook",
+      "undertaken"
+    ]
+  },
+  {
+    "headword": "fast lane",
+    "register": "AMBER",
+    "us_equivalent": "passing lane / left lane",
+    "gloss": "Informal name for the overtaking lane of a motorway, the right-hand lane in the UK.",
+    "usage": "Everyday speech; officially it's the 'outside lane' and is for overtaking only.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Don't sit in the fast lane, move back over when you've passed."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "outside lane"
+    ]
+  },
+  {
+    "headword": "inside lane",
+    "register": "GREEN",
+    "us_equivalent": "right lane / slow lane",
+    "gloss": "The left-hand lane of a UK motorway, nearest the hard shoulder.",
+    "usage": "Used in driving instruction and traffic reports.",
+    "pragmatic_note": "In the UK you should drive in the inside lane unless overtaking.",
+    "pitfall": null,
+    "examples": [
+      "The inside lane is closed after a breakdown.",
+      "Move back into the inside lane once you've overtaken."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "middle-lane hogging",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Staying in the middle lane of a motorway when the inside lane is free.",
+    "usage": "Common in news and among drivers; it can be treated as careless driving.",
+    "pragmatic_note": "It's one of the great pet hates of British drivers.",
+    "pitfall": null,
+    "examples": [
+      "Middle-lane hogging can get you a fine and points."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "middle-lane hogger",
+      "lane hogging"
+    ]
+  },
+  {
+    "headword": "nearside",
+    "register": "GREEN",
+    "us_equivalent": "passenger side",
+    "gloss": "The side of a vehicle nearest the kerb, which is the left in the UK; 'offside' is the driver's side.",
+    "usage": "Used by mechanics, insurers and the police.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The nearside rear tyre is completely flat.",
+      "There's a dent on the offside front wing."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "offside"
+    ]
+  },
+  {
+    "headword": "reverse",
+    "register": "GREEN",
+    "us_equivalent": "back up",
+    "gloss": "To drive a vehicle backwards.",
+    "usage": "Standard British verb; 'back up' is understood but sounds American.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Can you reverse into that space?",
+      "I reversed into a bollard."
+    ],
+    "collocations": [
+      "reverse into a space",
+      "reverse park"
+    ],
+    "wiki": null,
+    "forms": [
+      "reversed",
+      "reversing"
+    ]
+  },
+  {
+    "headword": "dipped headlights",
+    "register": "GREEN",
+    "us_equivalent": "low beams",
+    "gloss": "Headlights angled downwards so as not to dazzle other drivers.",
+    "usage": "Used in the Highway Code and driving lessons; 'dip your lights' is the verb.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Use dipped headlights in heavy rain.",
+      "Dip your lights, there's a car coming."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "dip your headlights",
+      "dipped beam",
+      "dip your lights"
+    ]
+  },
+  {
+    "headword": "full beam",
+    "register": "GREEN",
+    "us_equivalent": "high beams / brights",
+    "gloss": "Headlights at their brightest, aimed straight ahead.",
+    "usage": "Everyday driving term.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Put your lights on full beam on these country lanes.",
+      "The car behind had its full beam on."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "main beam"
+    ]
+  },
+  {
+    "headword": "hazard lights",
+    "register": "GREEN",
+    "us_equivalent": "hazards / flashers",
+    "gloss": "All the indicators flashing together to warn of a stopped or slowing vehicle.",
+    "usage": "Everyday term, often shortened to 'hazards'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Put your hazard lights on if you break down."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "hazards",
+      "hazard warning lights"
+    ]
+  },
+  {
+    "headword": "jump the lights",
+    "register": "AMBER",
+    "us_equivalent": "run a red light",
+    "gloss": "To drive through traffic lights after they have turned red.",
+    "usage": "Common in conversation and in news about road safety.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The cyclist jumped the lights and nearly got hit."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "jumped the lights",
+      "jumping the lights",
+      "jumps the lights"
+    ]
+  },
+  {
+    "headword": "write-off",
+    "register": "AMBER",
+    "us_equivalent": "totaled car / total loss",
+    "gloss": "A vehicle so badly damaged that repairing it is not worth the cost.",
+    "usage": "Used by insurers and in everyday speech; the verb is 'to write off'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The car was a write-off after the crash.",
+      "He wrote off his dad's car."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "written off",
+      "wrote off",
+      "write off"
+    ]
+  },
+  {
+    "headword": "prang",
+    "register": "RED",
+    "us_equivalent": "fender bender",
+    "gloss": "A minor car accident causing light damage.",
+    "usage": "Colloquial and slightly old-fashioned, but still common.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I had a bit of a prang in the supermarket car park."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "pranged",
+      "prangs"
+    ]
+  },
+  {
+    "headword": "breakdown cover",
+    "register": "GREEN",
+    "us_equivalent": "roadside assistance",
+    "gloss": "Insurance that pays for help if your vehicle breaks down.",
+    "usage": "Everyday term; motoring organisations sell it as membership.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Have you got breakdown cover?",
+      "I rang the breakdown service from the hard shoulder."
+    ],
+    "collocations": [
+      "breakdown service",
+      "breakdown recovery"
+    ],
+    "wiki": null,
+    "forms": [
+      "breakdown",
+      "break down",
+      "broke down",
+      "broken down"
+    ]
+  },
+  {
+    "headword": "recovery vehicle",
+    "register": "GREEN",
+    "us_equivalent": "tow truck",
+    "gloss": "A lorry used to carry or tow away broken-down or damaged vehicles.",
+    "usage": "Standard term in news and the motor trade; 'tow truck' is also understood.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The recovery vehicle took an hour to arrive."
+    ],
+    "collocations": [],
+    "wiki": "Tow truck",
+    "forms": [
+      "recovery truck",
+      "recovery vehicles"
+    ]
+  },
+  {
+    "headword": "jump leads",
+    "register": "GREEN",
+    "us_equivalent": "jumper cables",
+    "gloss": "Cables used to start a car with a flat battery from another vehicle.",
+    "usage": "Everyday term.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Have you got any jump leads? My battery's flat."
+    ],
+    "collocations": [],
+    "wiki": "Jumper cable",
+    "forms": [
+      "jump-start",
+      "jump start"
+    ]
+  },
+  {
+    "headword": "drink-driving",
+    "register": "GREEN",
+    "us_equivalent": "drunk driving / DUI",
+    "gloss": "Driving after drinking more alcohol than the legal limit.",
+    "usage": "Standard UK term in news and road-safety campaigns.",
+    "pragmatic_note": null,
+    "pitfall": "Say 'drink-driving', not 'drunk driving' or 'DUI', in British contexts.",
+    "examples": [
+      "He was banned for drink-driving.",
+      "I'm driving, so I'm on soft drinks tonight."
+    ],
+    "collocations": [
+      "drink-driving ban",
+      "drink-drive limit"
+    ],
+    "wiki": null,
+    "forms": [
+      "drink-driver",
+      "drink-drive"
+    ]
+  },
+  {
+    "headword": "breathalyser",
+    "register": "GREEN",
+    "us_equivalent": "breathalyzer",
+    "gloss": "A device the police use to measure the alcohol in a driver's breath.",
+    "usage": "UK spelling; also used as a verb: 'he was breathalysed'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The police breathalysed everyone at the checkpoint."
+    ],
+    "collocations": [],
+    "wiki": "Breathalyzer",
+    "forms": [
+      "breathalysed",
+      "breathalyse",
+      "breathalysers"
+    ]
+  },
+  {
+    "headword": "penalty points",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Points added to a driving licence for motoring offences; twelve can lead to a ban.",
+    "usage": "Commonly just 'points': 'three points on my licence'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He got three points on his licence for speeding."
+    ],
+    "collocations": [
+      "points on your licence"
+    ],
+    "wiki": null,
+    "forms": [
+      "points on your licence"
+    ]
+  },
+  {
+    "headword": "driving ban",
+    "register": "GREEN",
+    "us_equivalent": "license suspension",
+    "gloss": "A court order disqualifying someone from driving for a period.",
+    "usage": "Common in news reports; 'banned from driving' is the verb phrase.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He was given a twelve-month driving ban."
+    ],
+    "collocations": [
+      "banned from driving"
+    ],
+    "wiki": null,
+    "forms": [
+      "banned from driving",
+      "disqualified from driving"
+    ]
+  },
+  {
+    "headword": "car hire",
+    "register": "GREEN",
+    "us_equivalent": "car rental",
+    "gloss": "The business or service of renting cars for a short period.",
+    "usage": "Standard UK term, seen at airports and stations.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The car hire desk is in the arrivals hall.",
+      "Car hire is always pricier at the airport."
+    ],
+    "collocations": [
+      "car hire firm",
+      "car hire desk"
+    ],
+    "wiki": "Car rental",
+    "forms": []
+  },
+  {
+    "headword": "hire",
+    "register": "GREEN",
+    "us_equivalent": "rent",
+    "gloss": "To pay to use something for a short time, such as a car, bike or room.",
+    "usage": "Britons 'hire' cars, bikes and equipment for short periods, but 'rent' homes.",
+    "pragmatic_note": null,
+    "pitfall": "In Indian English 'hire' often means 'employ'; in the UK, for objects, it means short-term rental.",
+    "examples": [
+      "We hired bikes for the afternoon.",
+      "Can we hire a car at the airport?"
+    ],
+    "collocations": [
+      "hire a car",
+      "bike hire",
+      "for hire"
+    ],
+    "wiki": null,
+    "forms": [
+      "hired",
+      "hiring",
+      "hire car",
+      "hire cars"
+    ]
+  },
+  {
+    "headword": "lift",
+    "register": "AMBER",
+    "us_equivalent": "ride",
+    "gloss": "A free ride in someone's car.",
+    "usage": "Everyday: 'Do you want a lift?'",
+    "pragmatic_note": null,
+    "pitfall": "In the UK 'lift' also means an elevator, so context matters.",
+    "examples": [
+      "Do you want a lift to the station?",
+      "Thanks for the lift, I'll get the train back."
+    ],
+    "collocations": [
+      "give someone a lift",
+      "lift home",
+      "cadge a lift"
+    ],
+    "wiki": null,
+    "forms": [
+      "lifts"
+    ]
+  },
+  {
+    "headword": "car share",
+    "register": "GREEN",
+    "us_equivalent": "carpool",
+    "gloss": "To share car journeys with others, often to work, to save money.",
+    "usage": "Common among commuters and in workplace travel schemes.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We car share to the office three days a week."
+    ],
+    "collocations": [
+      "car-sharing scheme"
+    ],
+    "wiki": null,
+    "forms": [
+      "car sharing",
+      "car-share",
+      "car-sharing"
+    ]
+  },
+  {
+    "headword": "motorist",
+    "register": "GREEN",
+    "us_equivalent": "driver",
+    "gloss": "A person who drives a car.",
+    "usage": "Common in news reports and official statements; less common in conversation.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Motorists are being warned to avoid the area."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "motorists"
+    ]
+  },
+  {
+    "headword": "petrolhead",
+    "register": "RED",
+    "us_equivalent": "gearhead",
+    "gloss": "A car enthusiast.",
+    "usage": "Informal and affectionate.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He's a real petrolhead and spends every weekend under the bonnet."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "petrolheads"
+    ]
+  },
+  {
+    "headword": "boy racer",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "A young man who drives a modified car fast and showily.",
+    "usage": "Informal and mildly disparaging, common in local news.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Boy racers were doing laps of the retail park all night."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "boy racers"
+    ]
+  },
+  {
+    "headword": "car park",
+    "register": "GREEN",
+    "us_equivalent": "parking lot",
+    "gloss": "An area or building where vehicles can be parked.",
+    "usage": "Standard UK term for both open-air and indoor parking.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The car park's full, so we'll have to find a space on the street.",
+      "Meet me in the station car park."
+    ],
+    "collocations": [
+      "multi-storey car park",
+      "car park ticket"
+    ],
+    "wiki": "Parking lot",
+    "forms": [
+      "car parks"
+    ]
+  },
+  {
+    "headword": "multi-storey",
+    "register": "AMBER",
+    "us_equivalent": "parking garage / parking structure",
+    "gloss": "A car park built on several levels.",
+    "usage": "Usually used as a noun on its own: 'park in the multi-storey'.",
+    "pragmatic_note": null,
+    "pitfall": "Note the British spelling 'storey' for a floor level.",
+    "examples": [
+      "We parked on level four of the multi-storey.",
+      "The multi-storey by the shopping centre is cheaper."
+    ],
+    "collocations": [
+      "multi-storey car park"
+    ],
+    "wiki": "Multistorey car park",
+    "forms": [
+      "multi-storeys"
+    ]
+  },
+  {
+    "headword": "pay and display",
+    "register": "GREEN",
+    "us_equivalent": "parking meter / pay station",
+    "gloss": "A parking system where you buy a ticket from a machine and leave it visible in the car.",
+    "usage": "Common on street signs and in car parks, though apps are replacing many machines.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "It's pay and display, so put the ticket on the dashboard.",
+      "The pay and display machine only takes cards."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "parking bay",
+    "register": "GREEN",
+    "us_equivalent": "parking space / parking stall",
+    "gloss": "A marked space for parking a vehicle.",
+    "usage": "Common on signs and in car parks; 'space' is also used.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "There's a free parking bay over by the exit."
+    ],
+    "collocations": [
+      "disabled bay",
+      "loading bay"
+    ],
+    "wiki": null,
+    "forms": [
+      "parking bays",
+      "bay"
+    ]
+  },
+  {
+    "headword": "petrol",
+    "register": "GREEN",
+    "us_equivalent": "gas / gasoline",
+    "gloss": "Liquid fuel for cars, refined from crude oil.",
+    "usage": "Universal UK term.",
+    "pragmatic_note": null,
+    "pitfall": "In the UK 'gas' means gas for heating or cooking, never car fuel; 'I'm out of gas' sounds American.",
+    "examples": [
+      "We need to stop for petrol before the motorway.",
+      "Is it a petrol or a diesel?"
+    ],
+    "collocations": [
+      "unleaded petrol",
+      "fill up with petrol",
+      "run out of petrol"
+    ],
+    "wiki": "Gasoline",
+    "forms": []
+  },
+  {
+    "headword": "petrol station",
+    "register": "GREEN",
+    "us_equivalent": "gas station",
+    "gloss": "A place where vehicles are refuelled, usually with a small shop.",
+    "usage": "Everyday term; 'garage' and 'filling station' are also used.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "There's a petrol station just after the roundabout.",
+      "I'll grab some milk at the petrol station."
+    ],
+    "collocations": [],
+    "wiki": "Filling station",
+    "forms": [
+      "petrol stations",
+      "filling station"
+    ]
+  },
+  {
+    "headword": "forecourt",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The open area at the front of a petrol station or car showroom.",
+    "usage": "Used in the motor trade and in news about fuel.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "There was a queue right across the forecourt."
+    ],
+    "collocations": [
+      "petrol station forecourt"
+    ],
+    "wiki": null,
+    "forms": [
+      "forecourts"
+    ]
+  },
+  {
+    "headword": "fill up",
+    "register": "AMBER",
+    "us_equivalent": "gas up / fill up",
+    "gloss": "To fill a vehicle's fuel tank.",
+    "usage": "Everyday phrasal verb.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I need to fill up before we set off."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "filled up",
+      "filling up",
+      "fills up"
+    ]
+  },
+  {
+    "headword": "garage",
+    "register": "GREEN",
+    "us_equivalent": "repair shop / auto shop",
+    "gloss": "A business that repairs and services cars, sometimes also selling petrol.",
+    "usage": "Everyday word; also the building for keeping a car at home.",
+    "pragmatic_note": null,
+    "pitfall": "Britons usually say 'GARR-idge' or 'GARR-ahzh', stressing the first syllable; Americans stress the second.",
+    "examples": [
+      "The car's in the garage for a service.",
+      "Is there a garage near here that sells petrol?"
+    ],
+    "collocations": [
+      "local garage",
+      "take it to the garage"
+    ],
+    "wiki": null,
+    "forms": [
+      "garages"
+    ]
+  },
+  {
+    "headword": "boot",
+    "register": "GREEN",
+    "us_equivalent": "trunk",
+    "gloss": "The enclosed luggage space at the back of a car.",
+    "usage": "Universal UK term.",
+    "pragmatic_note": null,
+    "pitfall": "In the US a 'boot' can be a wheel clamp; in the UK a 'trunk' is a large travel chest.",
+    "examples": [
+      "Put the shopping in the boot.",
+      "Can you open the boot? My bag's in there."
+    ],
+    "collocations": [
+      "in the boot",
+      "boot space"
+    ],
+    "wiki": "Trunk (car)",
+    "forms": [
+      "boots"
+    ]
+  },
+  {
+    "headword": "bonnet",
+    "register": "GREEN",
+    "us_equivalent": "hood",
+    "gloss": "The hinged metal cover over a car's engine.",
+    "usage": "Universal UK term.",
+    "pragmatic_note": null,
+    "pitfall": "In the UK a 'hood' is the folding roof of a convertible, or part of a coat.",
+    "examples": [
+      "Steam was coming out from under the bonnet.",
+      "Can you pop the bonnet so I can check the oil?"
+    ],
+    "collocations": [
+      "under the bonnet",
+      "pop the bonnet"
+    ],
+    "wiki": "Hood (car)",
+    "forms": [
+      "bonnets"
+    ]
+  },
+  {
+    "headword": "windscreen",
+    "register": "GREEN",
+    "us_equivalent": "windshield",
+    "gloss": "The large glass window at the front of a vehicle.",
+    "usage": "Universal UK term.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "A stone cracked the windscreen on the motorway.",
+      "Can you scrape the ice off the windscreen?"
+    ],
+    "collocations": [
+      "cracked windscreen",
+      "windscreen wipers"
+    ],
+    "wiki": "Windshield",
+    "forms": [
+      "windscreens"
+    ]
+  },
+  {
+    "headword": "wing mirror",
+    "register": "GREEN",
+    "us_equivalent": "side mirror / side-view mirror",
+    "gloss": "The mirror on the outside of a car, beside the front door.",
+    "usage": "Everyday term.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Someone clipped my wing mirror while I was parked.",
+      "Check your wing mirror before you pull out."
+    ],
+    "collocations": [],
+    "wiki": "Side-view mirror",
+    "forms": [
+      "wing mirrors"
+    ]
+  },
+  {
+    "headword": "wing",
+    "register": "GREEN",
+    "us_equivalent": "fender",
+    "gloss": "The body panel of a car above each wheel.",
+    "usage": "Common in the motor trade and insurance claims.",
+    "pragmatic_note": null,
+    "pitfall": "In the UK a 'fender' is a boat's bumper or a fireplace guard, not part of a car.",
+    "examples": [
+      "The front wing was dented in the accident."
+    ],
+    "collocations": [
+      "front wing",
+      "rear wing"
+    ],
+    "wiki": null,
+    "forms": [
+      "wings"
+    ]
+  },
+  {
+    "headword": "number plate",
+    "register": "GREEN",
+    "us_equivalent": "license plate",
+    "gloss": "The plate on the front and back of a vehicle showing its registration.",
+    "usage": "Everyday term; 'registration' or 'reg' is the number itself.",
+    "pragmatic_note": "UK number plates are white at the front and yellow at the back.",
+    "pitfall": null,
+    "examples": [
+      "Did you get the number plate?",
+      "He paid a fortune for a personalised number plate."
+    ],
+    "collocations": [
+      "personalised number plate",
+      "private plate"
+    ],
+    "wiki": "Vehicle registration plate",
+    "forms": [
+      "number plates"
+    ]
+  },
+  {
+    "headword": "reg",
+    "register": "AMBER",
+    "us_equivalent": "plate number",
+    "gloss": "Short for a vehicle's registration number.",
+    "usage": "Informal; garages and parking machines ask for 'your reg'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "What's your reg? I'll put it into the parking app.",
+      "The camera reads your reg on the way in."
+    ],
+    "collocations": [
+      "registration number"
+    ],
+    "wiki": null,
+    "forms": [
+      "registration"
+    ]
+  },
+  {
+    "headword": "indicator",
+    "register": "GREEN",
+    "us_equivalent": "turn signal / blinker",
+    "gloss": "A flashing light showing which way a vehicle is about to turn.",
+    "usage": "Everyday term; the verb is 'to indicate'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He didn't even use his indicator.",
+      "Indicate left before you pull in."
+    ],
+    "collocations": [
+      "indicate left",
+      "use your indicator"
+    ],
+    "wiki": null,
+    "forms": [
+      "indicators",
+      "indicate",
+      "indicated",
+      "indicating"
+    ]
+  },
+  {
+    "headword": "gear stick",
+    "register": "GREEN",
+    "us_equivalent": "gearshift / stick shift",
+    "gloss": "The lever used to change gear in a car.",
+    "usage": "Everyday term; 'gear lever' is also used.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Keep your hand off the gear stick unless you're changing gear."
+    ],
+    "collocations": [],
+    "wiki": "Gear stick",
+    "forms": [
+      "gear lever",
+      "gearstick"
+    ]
+  },
+  {
+    "headword": "manual",
+    "register": "GREEN",
+    "us_equivalent": "stick shift / stick",
+    "gloss": "A car with a gear stick and clutch pedal operated by the driver.",
+    "usage": "Most UK cars were traditionally manual; 'automatic' is the alternative.",
+    "pragmatic_note": "A UK licence gained in an automatic does not cover driving a manual.",
+    "pitfall": null,
+    "examples": [
+      "Can you drive a manual?",
+      "Hire cars in the UK are often manuals unless you ask."
+    ],
+    "collocations": [
+      "manual car",
+      "manual gearbox"
+    ],
+    "wiki": null,
+    "forms": [
+      "manuals"
+    ]
+  },
+  {
+    "headword": "gearbox",
+    "register": "GREEN",
+    "us_equivalent": "transmission",
+    "gloss": "The mechanism that changes a vehicle's gears.",
+    "usage": "Common in garages and car reviews.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The gearbox needs replacing, which won't be cheap."
+    ],
+    "collocations": [
+      "manual gearbox",
+      "automatic gearbox"
+    ],
+    "wiki": null,
+    "forms": [
+      "gearboxes"
+    ]
+  },
+  {
+    "headword": "handbrake",
+    "register": "GREEN",
+    "us_equivalent": "parking brake / emergency brake",
+    "gloss": "A brake operated by hand to hold a parked vehicle still.",
+    "usage": "Everyday term.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Make sure the handbrake's on, we're on a hill.",
+      "Did you leave the handbrake on?"
+    ],
+    "collocations": [
+      "handbrake on",
+      "handbrake off"
+    ],
+    "wiki": "Parking brake",
+    "forms": [
+      "handbrakes"
+    ]
+  },
+  {
+    "headword": "tyre",
+    "register": "GREEN",
+    "us_equivalent": "tire",
+    "gloss": "The rubber covering on the wheel of a vehicle.",
+    "usage": "Standard UK spelling for the wheel part; 'tire' in the UK only means 'to become tired'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I think we've got a flat tyre.",
+      "Check your tyre pressure before a long journey."
+    ],
+    "collocations": [
+      "flat tyre",
+      "spare tyre",
+      "tyre pressure"
+    ],
+    "wiki": "Tire",
+    "forms": [
+      "tyres"
+    ]
+  },
+  {
+    "headword": "puncture",
+    "register": "GREEN",
+    "us_equivalent": "flat / flat tire",
+    "gloss": "A small hole in a tyre causing it to lose air.",
+    "usage": "Everyday: 'I've got a puncture.'",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I got a puncture on the way home.",
+      "Have you got a puncture repair kit?"
+    ],
+    "collocations": [
+      "puncture repair kit",
+      "get a puncture"
+    ],
+    "wiki": null,
+    "forms": [
+      "punctures",
+      "punctured"
+    ]
+  },
+  {
+    "headword": "silencer",
+    "register": "GREEN",
+    "us_equivalent": "muffler",
+    "gloss": "The part of a vehicle's exhaust system that reduces engine noise.",
+    "usage": "Standard UK term in garages.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The silencer's gone, that's why it's so loud."
+    ],
+    "collocations": [],
+    "wiki": "Muffler",
+    "forms": [
+      "silencers"
+    ]
+  },
+  {
+    "headword": "glovebox",
+    "register": "GREEN",
+    "us_equivalent": "glove compartment",
+    "gloss": "The small storage compartment in front of a car's passenger seat.",
+    "usage": "Common UK term; 'glove compartment' is also used.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The car manual's in the glovebox."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "glove box",
+      "glove compartment"
+    ]
+  },
+  {
+    "headword": "estate car",
+    "register": "GREEN",
+    "us_equivalent": "station wagon",
+    "gloss": "A car with an extended rear and a large tailgate for luggage.",
+    "usage": "Often just 'an estate'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We need an estate car for the dog.",
+      "They swapped the hatchback for an estate."
+    ],
+    "collocations": [],
+    "wiki": "Station wagon",
+    "forms": [
+      "estate",
+      "estates",
+      "estate cars"
+    ]
+  },
+  {
+    "headword": "saloon",
+    "register": "GREEN",
+    "us_equivalent": "sedan",
+    "gloss": "A car with four doors and a separate boot.",
+    "usage": "Used by dealers and car reviewers; in conversation people often just say 'car'.",
+    "pragmatic_note": null,
+    "pitfall": "'Saloon' also has older senses in the UK, such as the 'saloon bar' of a pub.",
+    "examples": [
+      "It's a four-door saloon in dark blue."
+    ],
+    "collocations": [
+      "four-door saloon"
+    ],
+    "wiki": "Sedan (automobile)",
+    "forms": [
+      "saloons",
+      "saloon car"
+    ]
+  },
+  {
+    "headword": "people carrier",
+    "register": "GREEN",
+    "us_equivalent": "minivan",
+    "gloss": "A large car with three rows of seats, designed for families.",
+    "usage": "Common term; dealers also say 'MPV'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "With three kids, we had to get a people carrier."
+    ],
+    "collocations": [],
+    "wiki": "Minivan",
+    "forms": [
+      "MPV",
+      "people carriers"
+    ]
+  },
+  {
+    "headword": "4x4",
+    "register": "AMBER",
+    "us_equivalent": "SUV",
+    "gloss": "A four-wheel-drive vehicle; often used loosely for any SUV.",
+    "usage": "Informal; pronounced 'four-by-four'.",
+    "pragmatic_note": "'Chelsea tractor' is a mocking term for a large 4x4 that is only ever driven in town.",
+    "pitfall": null,
+    "examples": [
+      "The school car park is full of 4x4s.",
+      "You need a 4x4 to get up that track in winter."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "4x4s",
+      "four-by-four"
+    ]
+  },
+  {
+    "headword": "lorry",
+    "register": "GREEN",
+    "us_equivalent": "truck",
+    "gloss": "A large motor vehicle for carrying goods by road.",
+    "usage": "Standard UK term; 'truck' is also widely used.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We were stuck behind a lorry all the way up the hill.",
+      "A lorry had shed its load on the motorway."
+    ],
+    "collocations": [
+      "lorry driver",
+      "articulated lorry"
+    ],
+    "wiki": "Truck",
+    "forms": [
+      "lorries"
+    ]
+  },
+  {
+    "headword": "articulated lorry",
+    "register": "GREEN",
+    "us_equivalent": "semi / tractor-trailer / eighteen-wheeler",
+    "gloss": "A lorry with a separate cab unit pulling a detachable trailer.",
+    "usage": "Often shortened to 'artic' in speech and in traffic reports.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "An articulated lorry jack-knifed across both lanes."
+    ],
+    "collocations": [
+      "artic"
+    ],
+    "wiki": "Semi-trailer truck",
+    "forms": [
+      "artic",
+      "artics",
+      "articulated lorries"
+    ]
+  },
+  {
+    "headword": "HGV",
+    "register": "GREEN",
+    "us_equivalent": "big rig / commercial truck",
+    "gloss": "Heavy goods vehicle: the official term for large lorries.",
+    "usage": "Used in official, logistics and news contexts, as in 'HGV driver'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He's training to be an HGV driver.",
+      "HGVs aren't allowed through the town centre."
+    ],
+    "collocations": [
+      "HGV driver",
+      "HGV licence"
+    ],
+    "wiki": null,
+    "forms": [
+      "HGVs"
+    ]
+  },
+  {
+    "headword": "juggernaut",
+    "register": "AMBER",
+    "us_equivalent": "eighteen-wheeler",
+    "gloss": "Informal word for a very large lorry.",
+    "usage": "Mainly in newspapers and older speech; also means an unstoppable force.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Juggernauts thunder through the village all night."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "juggernauts"
+    ]
+  },
+  {
+    "headword": "white van man",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "Stereotype of an impatient, aggressive driver of a delivery or builder's van.",
+    "usage": "Humorous and mildly disparaging; used in the media and casual conversation.",
+    "pragmatic_note": "It's a stereotype, so avoid applying it to a real person at work.",
+    "pitfall": null,
+    "examples": [
+      "Some white van man cut right in front of me."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "bin lorry",
+    "register": "AMBER",
+    "us_equivalent": "garbage truck",
+    "gloss": "A lorry that collects household rubbish.",
+    "usage": "Everyday term; 'dustcart' is the older word.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The bin lorry comes on Thursday mornings."
+    ],
+    "collocations": [],
+    "wiki": "Garbage truck",
+    "forms": [
+      "bin lorries",
+      "dustcart"
+    ]
+  },
+  {
+    "headword": "milk float",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A small, quiet electric vehicle used to deliver milk to people's doors.",
+    "usage": "Now rare; associated with traditional doorstep deliveries and slow driving.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "You used to hear the milk float early every morning."
+    ],
+    "collocations": [],
+    "wiki": "Milk float",
+    "forms": [
+      "milk floats"
+    ]
+  },
+  {
+    "headword": "caravan",
+    "register": "GREEN",
+    "us_equivalent": "trailer / travel trailer",
+    "gloss": "A towed vehicle equipped for living in, used for holidays.",
+    "usage": "Hugely popular for British holidays; a 'static caravan' stays on one site.",
+    "pragmatic_note": "Caravans on narrow summer roads are a perennial source of British driving complaints.",
+    "pitfall": "In the UK a 'trailer' is just an unpowered cart for goods, not something to live in.",
+    "examples": [
+      "We got stuck behind a caravan all the way to Cornwall.",
+      "They've got a static caravan by the sea."
+    ],
+    "collocations": [
+      "static caravan",
+      "caravan holiday"
+    ],
+    "wiki": "Caravan (trailer)",
+    "forms": [
+      "caravans",
+      "caravanning"
+    ]
+  },
+  {
+    "headword": "campervan",
+    "register": "GREEN",
+    "us_equivalent": "RV / camper",
+    "gloss": "A van fitted out with beds and cooking facilities for travelling and sleeping in.",
+    "usage": "Common for touring holidays around the UK.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We're touring Scotland in a campervan.",
+      "They hired a campervan for a fortnight."
+    ],
+    "collocations": [],
+    "wiki": "Campervan",
+    "forms": [
+      "campervans",
+      "camper van",
+      "motorhome"
+    ]
+  },
+  {
+    "headword": "motorbike",
+    "register": "AMBER",
+    "us_equivalent": "motorcycle",
+    "gloss": "Everyday word for a motorcycle.",
+    "usage": "Informal but universal; 'motorcycle' is more formal.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He rides a motorbike to work.",
+      "There's a motorbike parked on the pavement."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "motorbikes"
+    ]
+  },
+  {
+    "headword": "MOT",
+    "register": "GREEN",
+    "us_equivalent": "vehicle inspection",
+    "gloss": "The annual roadworthiness test required for most cars over three years old.",
+    "usage": "Universal: 'the car's due its MOT', 'it failed its MOT'.",
+    "pragmatic_note": "Said as letters, 'em-oh-tee'; it is named after the former Ministry of Transport.",
+    "pitfall": null,
+    "examples": [
+      "The car's due its MOT next month.",
+      "It failed its MOT on the brakes."
+    ],
+    "collocations": [
+      "pass its MOT",
+      "fail its MOT",
+      "MOT certificate"
+    ],
+    "wiki": "MOT test",
+    "forms": [
+      "MOTs"
+    ]
+  },
+  {
+    "headword": "road tax",
+    "register": "AMBER",
+    "us_equivalent": "registration fee",
+    "gloss": "Informal name for the annual tax paid to use a vehicle on public roads.",
+    "usage": "Everyday term; the official name is Vehicle Excise Duty.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Don't forget to renew the road tax."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "driving licence",
+    "register": "GREEN",
+    "us_equivalent": "driver's license",
+    "gloss": "The official document that permits someone to drive.",
+    "usage": "Note the UK noun spelling 'licence'; the verb is 'license'.",
+    "pragmatic_note": null,
+    "pitfall": "Learners often write 'driving license'; in British English the noun is 'licence'.",
+    "examples": [
+      "Can I see your driving licence, please?",
+      "Bring your driving licence to pick up the hire car."
+    ],
+    "collocations": [
+      "full driving licence",
+      "provisional licence",
+      "clean licence"
+    ],
+    "wiki": null,
+    "forms": [
+      "licence",
+      "driving licences"
+    ]
+  },
+  {
+    "headword": "provisional licence",
+    "register": "GREEN",
+    "us_equivalent": "learner's permit",
+    "gloss": "The licence a learner driver holds before passing the driving test.",
+    "usage": "Standard term; you need one before your first lesson on the road.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "You need a provisional licence before your first lesson."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "provisional"
+    ]
+  },
+  {
+    "headword": "learner driver",
+    "register": "GREEN",
+    "us_equivalent": "student driver",
+    "gloss": "Someone learning to drive who has not yet passed the test.",
+    "usage": "Everyday and official term; often just 'a learner'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Be patient, it's a learner driver.",
+      "Learner drivers can now have lessons on the motorway."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "learner",
+      "learners",
+      "learner drivers"
+    ]
+  },
+  {
+    "headword": "L-plates",
+    "register": "GREEN",
+    "us_equivalent": "student driver sign",
+    "gloss": "Square white signs with a red L that learner drivers must display.",
+    "usage": "Everyday term; in Wales a red D plate may be used instead.",
+    "pragmatic_note": "Tearing up your L-plates is the traditional way to celebrate passing your test.",
+    "pitfall": null,
+    "examples": [
+      "Don't forget to put the L-plates on.",
+      "She's just passed, so the L-plates are off."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "L-plate",
+      "L plates"
+    ]
+  },
+  {
+    "headword": "P plates",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Optional green P signs showing that a driver has recently passed their test.",
+    "usage": "Voluntary in Great Britain; used by some new drivers to signal inexperience.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She's got P plates on so other drivers give her more room."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "P plate",
+      "P-plates"
+    ]
+  },
+  {
+    "headword": "driving test",
+    "register": "GREEN",
+    "us_equivalent": "road test / driver's test",
+    "gloss": "The practical exam you must pass to get a full driving licence.",
+    "usage": "Universal: you 'take', 'pass' or 'fail' your driving test.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm taking my driving test on Friday.",
+      "She passed her driving test first time."
+    ],
+    "collocations": [
+      "pass your driving test",
+      "practical test"
+    ],
+    "wiki": null,
+    "forms": [
+      "driving tests"
+    ]
+  },
+  {
+    "headword": "theory test",
+    "register": "GREEN",
+    "us_equivalent": "written test / knowledge test",
+    "gloss": "The computer-based exam on road rules and hazard awareness taken before the practical test.",
+    "usage": "Standard term among learners and instructors.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "You have to pass your theory test before you can book the practical."
+    ],
+    "collocations": [
+      "hazard perception test"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "the Tube",
+    "register": "AMBER",
+    "us_equivalent": "subway",
+    "gloss": "Informal name for the London Underground railway.",
+    "usage": "Universal among Londoners and visitors: 'Tube station', 'Tube map'.",
+    "pragmatic_note": null,
+    "pitfall": "Only London has 'the Tube'; Glasgow has the Subway and Newcastle the Metro.",
+    "examples": [
+      "It's quicker to get the Tube than a taxi.",
+      "The Tube's packed at rush hour."
+    ],
+    "collocations": [
+      "Tube station",
+      "Tube map",
+      "get the Tube"
+    ],
+    "wiki": "London Underground",
+    "forms": [
+      "Tube",
+      "tube"
+    ]
+  },
+  {
+    "headword": "the Underground",
+    "register": "GREEN",
+    "us_equivalent": "subway",
+    "gloss": "The London Underground, the city's metro railway system.",
+    "usage": "More formal than 'the Tube'; used on signs and in official announcements.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Follow signs for the Underground.",
+      "The Underground is the quickest way across London."
+    ],
+    "collocations": [
+      "Underground station"
+    ],
+    "wiki": null,
+    "forms": [
+      "Underground"
+    ]
+  },
+  {
+    "headword": "mind the gap",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Warning to take care stepping over the space between the train and the platform.",
+    "usage": "Famous London Underground announcement, now also used jokingly elsewhere.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Please mind the gap between the train and the platform."
+    ],
+    "collocations": [],
+    "wiki": "Mind the gap",
+    "forms": []
+  },
+  {
+    "headword": "stand on the right",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The rule on London Underground escalators: stand on the right, walk on the left.",
+    "usage": "Signed in Tube stations and strongly observed by commuters.",
+    "pragmatic_note": "Standing on the left at rush hour will earn tutting from people behind you.",
+    "pitfall": null,
+    "examples": [
+      "Please stand on the right on the escalators."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "contactless",
+    "register": "GREEN",
+    "us_equivalent": "tap to pay",
+    "gloss": "Paying by touching a bank card or phone on a reader, including at ticket barriers and on buses.",
+    "usage": "Everyday: 'just use contactless'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "You can just use contactless on the bus now.",
+      "Tap your contactless card on the yellow reader."
+    ],
+    "collocations": [
+      "pay by contactless",
+      "contactless card"
+    ],
+    "wiki": "Contactless payment",
+    "forms": []
+  },
+  {
+    "headword": "tap in",
+    "register": "GREEN",
+    "us_equivalent": "tap your card",
+    "gloss": "To touch your card or phone on a reader when starting a journey; 'tap out' at the end.",
+    "usage": "Used on the Tube, trams and some rail networks.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Make sure you tap out, or you'll be charged the maximum fare."
+    ],
+    "collocations": [
+      "tap out"
+    ],
+    "wiki": null,
+    "forms": [
+      "tap out",
+      "tapped in",
+      "tapped out",
+      "touch in"
+    ]
+  },
+  {
+    "headword": "single",
+    "register": "GREEN",
+    "us_equivalent": "one-way ticket",
+    "gloss": "A ticket for a journey in one direction only.",
+    "usage": "Standard at ticket offices: 'A single to Leeds, please.'",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "A single to Manchester, please.",
+      "Is it cheaper to buy two singles?"
+    ],
+    "collocations": [
+      "single ticket",
+      "off-peak single"
+    ],
+    "wiki": null,
+    "forms": [
+      "singles",
+      "single ticket"
+    ]
+  },
+  {
+    "headword": "return",
+    "register": "GREEN",
+    "us_equivalent": "round-trip ticket",
+    "gloss": "A ticket for a journey to a place and back again.",
+    "usage": "Standard at stations: 'a day return', 'an open return'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'round trip'; in the UK 'a return' alone means a return ticket.",
+    "examples": [
+      "Can I have a return to Oxford, please?",
+      "An off-peak return is much cheaper."
+    ],
+    "collocations": [
+      "day return",
+      "open return",
+      "off-peak return"
+    ],
+    "wiki": null,
+    "forms": [
+      "returns",
+      "return ticket"
+    ]
+  },
+  {
+    "headword": "off-peak",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Describing cheaper travel times outside the busiest commuting hours.",
+    "usage": "Common on railway tickets and when planning journeys.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Off-peak tickets are valid after half nine.",
+      "Let's wait and get the off-peak train."
+    ],
+    "collocations": [
+      "off-peak return",
+      "off-peak fare",
+      "peak time"
+    ],
+    "wiki": null,
+    "forms": [
+      "peak",
+      "off peak"
+    ]
+  },
+  {
+    "headword": "season ticket",
+    "register": "GREEN",
+    "us_equivalent": "commuter pass / monthly pass",
+    "gloss": "A ticket allowing unlimited travel on a route for a week, month or year.",
+    "usage": "Common among commuters; some employers offer season ticket loans.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "My annual season ticket costs a fortune."
+    ],
+    "collocations": [
+      "annual season ticket",
+      "season ticket holder"
+    ],
+    "wiki": null,
+    "forms": [
+      "season tickets"
+    ]
+  },
+  {
+    "headword": "railcard",
+    "register": "GREEN",
+    "us_equivalent": "rail discount card",
+    "gloss": "A card bought annually that gives a discount on most British rail fares.",
+    "usage": "Common for young people, older people and families.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Have you got a railcard? It'll save you a third.",
+      "Don't forget your railcard, they do check."
+    ],
+    "collocations": [
+      "Senior Railcard",
+      "Family Railcard"
+    ],
+    "wiki": null,
+    "forms": [
+      "railcards"
+    ]
+  },
+  {
+    "headword": "advance ticket",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A cheaper train ticket bought ahead of time, valid only on one specific train.",
+    "usage": "Standard on British railways.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Advance tickets are cheaper, but you have to get that exact train."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "advance tickets",
+      "advance fare"
+    ]
+  },
+  {
+    "headword": "platform",
+    "register": "GREEN",
+    "us_equivalent": "track",
+    "gloss": "The raised area beside the track where passengers get on and off trains.",
+    "usage": "Announcements say 'the train now arriving at platform 4'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans often say 'track 4' where Britons say 'platform 4'.",
+    "examples": [
+      "The Edinburgh train leaves from platform 9.",
+      "We waited on the platform for twenty minutes."
+    ],
+    "collocations": [
+      "on the platform",
+      "platform alteration"
+    ],
+    "wiki": null,
+    "forms": [
+      "platforms"
+    ]
+  },
+  {
+    "headword": "ticket barrier",
+    "register": "GREEN",
+    "us_equivalent": "turnstile / faregate",
+    "gloss": "The gate at a station that opens when you insert or tap a valid ticket.",
+    "usage": "Everyday: 'go through the barriers'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "My ticket won't open the barrier.",
+      "I'll meet you by the ticket barriers."
+    ],
+    "collocations": [
+      "the barriers"
+    ],
+    "wiki": null,
+    "forms": [
+      "barriers",
+      "ticket barriers",
+      "barrier"
+    ]
+  },
+  {
+    "headword": "ticket inspector",
+    "register": "GREEN",
+    "us_equivalent": "conductor",
+    "gloss": "A railway or bus official who checks passengers' tickets.",
+    "usage": "Common, though on many trains the 'guard' or 'conductor' does this.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The ticket inspector came round just after Reading."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "ticket inspectors"
+    ]
+  },
+  {
+    "headword": "guard",
+    "register": "GREEN",
+    "us_equivalent": "conductor",
+    "gloss": "The railway official in charge of a train, who works the doors and checks tickets.",
+    "usage": "Traditional British railway term, still used in announcements and by staff.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The guard blew his whistle and the doors closed."
+    ],
+    "collocations": [
+      "train guard"
+    ],
+    "wiki": null,
+    "forms": [
+      "guards"
+    ]
+  },
+  {
+    "headword": "penalty fare",
+    "register": "GREEN",
+    "us_equivalent": "fare evasion fine",
+    "gloss": "A fixed charge for travelling without a valid ticket.",
+    "usage": "Seen on signs at stations and on buses.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "You'll get a penalty fare if you board without a ticket."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "penalty fares"
+    ]
+  },
+  {
+    "headword": "fare dodger",
+    "register": "AMBER",
+    "us_equivalent": "fare evader / fare beater",
+    "gloss": "Someone who deliberately travels without paying.",
+    "usage": "Common in news and conversation; 'fare evasion' is the formal term.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "They're cracking down on fare dodgers at the station."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "fare dodgers",
+      "fare dodging"
+    ]
+  },
+  {
+    "headword": "carriage",
+    "register": "GREEN",
+    "us_equivalent": "car",
+    "gloss": "One of the separate passenger sections of a train.",
+    "usage": "Standard UK term; 'coach' is also used on railway tickets.",
+    "pragmatic_note": null,
+    "pitfall": "Americans call it a 'car'; in the UK 'car' means only a motor car.",
+    "examples": [
+      "The first-class carriage is at the front.",
+      "Our seats are in carriage C."
+    ],
+    "collocations": [
+      "first-class carriage"
+    ],
+    "wiki": null,
+    "forms": [
+      "carriages"
+    ]
+  },
+  {
+    "headword": "quiet carriage",
+    "register": "GREEN",
+    "us_equivalent": "quiet car",
+    "gloss": "A train carriage where phone calls and loud noise are discouraged.",
+    "usage": "Common on intercity trains.",
+    "pragmatic_note": "Breaking quiet-carriage etiquette usually draws pointed looks rather than direct complaint.",
+    "pitfall": null,
+    "examples": [
+      "We're in the quiet carriage, so keep your voice down."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "quiet coach"
+    ]
+  },
+  {
+    "headword": "buffet car",
+    "register": "GREEN",
+    "us_equivalent": "café car / dining car",
+    "gloss": "The part of a train where snacks and drinks are sold.",
+    "usage": "Traditional term, though many trains now just have a trolley.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm going to the buffet car. Do you want a tea?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "buffet"
+    ]
+  },
+  {
+    "headword": "standard class",
+    "register": "GREEN",
+    "us_equivalent": "coach class",
+    "gloss": "The ordinary class of travel on British trains, below first class.",
+    "usage": "Official term on tickets; people just say 'standard'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Standard class was packed, so we stood all the way."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "standard"
+    ]
+  },
+  {
+    "headword": "coach",
+    "register": "GREEN",
+    "us_equivalent": "bus / intercity bus",
+    "gloss": "A comfortable long-distance bus, also hired for tours and school trips.",
+    "usage": "Britons distinguish 'coaches' for long trips from 'buses' for local routes.",
+    "pragmatic_note": null,
+    "pitfall": "In the US 'coach' usually means economy class on a plane or train.",
+    "examples": [
+      "It's cheaper to get the coach to London than the train.",
+      "The school hired a coach for the trip."
+    ],
+    "collocations": [
+      "coach station",
+      "coach trip",
+      "coach tour"
+    ],
+    "wiki": "Coach (bus)",
+    "forms": [
+      "coaches"
+    ]
+  },
+  {
+    "headword": "double-decker",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A bus with two passenger decks.",
+    "usage": "Iconic in London and common in most UK towns.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Let's sit upstairs at the front of the double-decker."
+    ],
+    "collocations": [
+      "double-decker bus",
+      "upstairs on the bus"
+    ],
+    "wiki": "Double-decker bus",
+    "forms": [
+      "double-deckers"
+    ]
+  },
+  {
+    "headword": "request stop",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A bus or train stop where the vehicle only halts if a passenger signals.",
+    "usage": "Common on rural railways and some bus routes.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "It's a request stop, so tell the guard you want to get off."
+    ],
+    "collocations": [],
+    "wiki": "Request stop",
+    "forms": [
+      "request stops"
+    ]
+  },
+  {
+    "headword": "bus pass",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A pass for free or cheaper bus travel, notably the free pass for older people.",
+    "usage": "Everyday term; 'getting your bus pass' is a jokey marker of reaching pension age.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "My gran uses her bus pass to go everywhere."
+    ],
+    "collocations": [
+      "free bus pass"
+    ],
+    "wiki": null,
+    "forms": [
+      "bus passes"
+    ]
+  },
+  {
+    "headword": "timetable",
+    "register": "GREEN",
+    "us_equivalent": "schedule",
+    "gloss": "A published list of the times when buses, trains or other services run.",
+    "usage": "Standard UK term for transport; 'schedule' is also used.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'train schedule'; Britons usually say 'timetable'.",
+    "examples": [
+      "Check the timetable before you set off.",
+      "Trains are running to a reduced timetable today."
+    ],
+    "collocations": [
+      "bus timetable",
+      "train timetable",
+      "Sunday timetable"
+    ],
+    "wiki": null,
+    "forms": [
+      "timetables"
+    ]
+  },
+  {
+    "headword": "railway",
+    "register": "GREEN",
+    "us_equivalent": "railroad",
+    "gloss": "A track with rails for trains, or the whole system of trains.",
+    "usage": "Standard term: 'railway station', 'railway line'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The cottage backs onto the railway line.",
+      "He's worked on the railways for thirty years."
+    ],
+    "collocations": [
+      "railway station",
+      "railway line",
+      "the railways"
+    ],
+    "wiki": null,
+    "forms": [
+      "railways"
+    ]
+  },
+  {
+    "headword": "points",
+    "register": "GREEN",
+    "us_equivalent": "switch",
+    "gloss": "The movable rails that guide trains from one track to another.",
+    "usage": "Often heard in delay announcements: 'a points failure'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Delays are due to a points failure outside Clapham Junction."
+    ],
+    "collocations": [
+      "points failure"
+    ],
+    "wiki": "Railroad switch",
+    "forms": []
+  },
+  {
+    "headword": "signal box",
+    "register": "GREEN",
+    "us_equivalent": "signal tower",
+    "gloss": "A building beside a railway from which signals and points are controlled.",
+    "usage": "Common in railway contexts; many old signal boxes are now heritage buildings.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "There's a lovely old signal box at the end of the platform."
+    ],
+    "collocations": [],
+    "wiki": "Signalling control",
+    "forms": [
+      "signal boxes"
+    ]
+  },
+  {
+    "headword": "signal failure",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A fault in the railway signalling system, a common cause of delays.",
+    "usage": "Heard constantly in station announcements.",
+    "pragmatic_note": "News of a 'signal failure' is met with weary resignation by commuters.",
+    "pitfall": null,
+    "examples": [
+      "Trains are delayed due to a signal failure at Woking."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "leaves on the line",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Fallen autumn leaves on railway tracks that make trains lose grip and run late.",
+    "usage": "Heard in autumn announcements and in jokes about rail delays.",
+    "pragmatic_note": "Often mocked as the classic British excuse for late trains, though it is a genuine problem.",
+    "pitfall": null,
+    "examples": [
+      "Sorry I'm late, leaves on the line again."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "engineering works",
+    "register": "GREEN",
+    "us_equivalent": "track work / maintenance",
+    "gloss": "Planned repairs to a railway line, often at weekends, causing closures.",
+    "usage": "Standard term in rail notices.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "There are engineering works this weekend, so no trains to Brighton."
+    ],
+    "collocations": [
+      "planned engineering works"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "rail replacement bus",
+    "register": "GREEN",
+    "us_equivalent": "shuttle bus",
+    "gloss": "A bus service that runs instead of trains when a line is closed.",
+    "usage": "Standard term in rail notices.",
+    "pragmatic_note": "A phrase that fills British weekend travellers with dread.",
+    "pitfall": null,
+    "examples": [
+      "A rail replacement bus will run between Reading and Swindon."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "replacement bus",
+      "replacement bus service"
+    ]
+  },
+  {
+    "headword": "change at",
+    "register": "GREEN",
+    "us_equivalent": "transfer at",
+    "gloss": "To get off one train or bus and catch another at a given station.",
+    "usage": "Standard in directions and announcements: 'change at Crewe'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "You'll need to change at Birmingham New Street.",
+      "Is it direct, or do I have to change?"
+    ],
+    "collocations": [
+      "change trains"
+    ],
+    "wiki": null,
+    "forms": [
+      "change trains",
+      "changed at",
+      "changing at"
+    ]
+  },
+  {
+    "headword": "all change",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Announcement that all passengers must leave a train because it terminates here.",
+    "usage": "Traditional railway call, still heard in announcements.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "All change, please. This train terminates here."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "direct",
+    "register": "GREEN",
+    "us_equivalent": "nonstop / through",
+    "gloss": "Of a train, bus or flight: going to the destination without changes.",
+    "usage": "Common when planning journeys: 'Is there a direct train?'",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Is there a direct train to Cardiff?"
+    ],
+    "collocations": [
+      "direct train",
+      "direct flight"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "sleeper",
+    "register": "GREEN",
+    "us_equivalent": "overnight train / sleeper car",
+    "gloss": "An overnight train with beds, such as the services from London to Scotland and Cornwall.",
+    "usage": "Common: 'get the sleeper'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We're getting the sleeper up to Inverness."
+    ],
+    "collocations": [
+      "sleeper train"
+    ],
+    "wiki": null,
+    "forms": [
+      "sleeper train"
+    ]
+  },
+  {
+    "headword": "commuter belt",
+    "register": "GREEN",
+    "us_equivalent": "exurbs / bedroom communities",
+    "gloss": "The towns around a big city where many people live and travel in to work.",
+    "usage": "Common in news and property contexts.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "They moved out to the commuter belt when the kids came along."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "tram",
+    "register": "GREEN",
+    "us_equivalent": "streetcar / trolley",
+    "gloss": "A passenger vehicle that runs on rails along city streets.",
+    "usage": "Found in cities such as Manchester, Edinburgh, Nottingham and Sheffield.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "It's easiest to get the tram into the city centre."
+    ],
+    "collocations": [
+      "tram stop",
+      "tram line"
+    ],
+    "wiki": "Tram",
+    "forms": [
+      "trams"
+    ]
+  },
+  {
+    "headword": "park and ride",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A system of car parks outside a town with buses running into the centre.",
+    "usage": "Common in historic cities with limited parking.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Use the park and ride; parking in the centre is a nightmare."
+    ],
+    "collocations": [],
+    "wiki": "Park and ride",
+    "forms": [
+      "park-and-ride"
+    ]
+  },
+  {
+    "headword": "black cab",
+    "register": "GREEN",
+    "us_equivalent": "taxi / cab",
+    "gloss": "A traditional licensed taxi, especially in London, that can be hailed in the street.",
+    "usage": "Associated mainly with London, though found in other cities.",
+    "pragmatic_note": "London black-cab drivers must pass 'the Knowledge', a famously demanding test of the city's streets.",
+    "pitfall": null,
+    "examples": [
+      "We hailed a black cab outside the station."
+    ],
+    "collocations": [],
+    "wiki": "Hackney carriage",
+    "forms": [
+      "black cabs"
+    ]
+  },
+  {
+    "headword": "minicab",
+    "register": "GREEN",
+    "us_equivalent": "car service",
+    "gloss": "A private-hire taxi that must be booked in advance rather than hailed.",
+    "usage": "Common, especially in London.",
+    "pragmatic_note": null,
+    "pitfall": "Unlike a black cab, a minicab cannot legally pick you up in the street without a booking.",
+    "examples": [
+      "We booked a minicab to the airport."
+    ],
+    "collocations": [
+      "minicab office"
+    ],
+    "wiki": null,
+    "forms": [
+      "minicabs"
+    ]
+  },
+  {
+    "headword": "taxi rank",
+    "register": "GREEN",
+    "us_equivalent": "taxi stand",
+    "gloss": "A place where taxis wait in line for passengers.",
+    "usage": "Common at stations, airports and town centres.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "There's a taxi rank outside the station."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "taxi ranks",
+      "cab rank"
+    ]
+  },
+  {
+    "headword": "the Knowledge",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The rigorous test London black-cab drivers take, memorising thousands of streets.",
+    "usage": "Widely known in London and mentioned with respect.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He spent three years doing the Knowledge."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "queue",
+    "register": "GREEN",
+    "us_equivalent": "line",
+    "gloss": "A line of people or vehicles waiting their turn; also the verb for waiting in one.",
+    "usage": "Universal in the UK, both as a noun and a verb.",
+    "pragmatic_note": "Queue-jumping is a serious social offence in Britain; people object politely but firmly.",
+    "pitfall": null,
+    "examples": [
+      "There's a long queue for tickets.",
+      "We queued for ages to get in."
+    ],
+    "collocations": [
+      "join the queue",
+      "queue up",
+      "queue of traffic"
+    ],
+    "wiki": null,
+    "forms": [
+      "queues",
+      "queued",
+      "queuing",
+      "queueing"
+    ]
+  },
+  {
+    "headword": "jump the queue",
+    "register": "AMBER",
+    "us_equivalent": "cut in line",
+    "gloss": "To push in ahead of people who are already waiting.",
+    "usage": "Everyday phrase; also used of getting unfair priority.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Excuse me, I think you've jumped the queue."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "jumped the queue",
+      "queue-jumper",
+      "queue-jumping"
+    ]
+  },
+  {
+    "headword": "hand luggage",
+    "register": "GREEN",
+    "us_equivalent": "carry-on",
+    "gloss": "Bags you are allowed to take into the cabin of an aircraft.",
+    "usage": "Standard UK term; 'cabin bag' is also used.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm only taking hand luggage, so I can skip bag drop.",
+      "Liquids in your hand luggage must be in a clear bag."
+    ],
+    "collocations": [
+      "hand luggage only"
+    ],
+    "wiki": null,
+    "forms": [
+      "cabin bag"
+    ]
+  },
+  {
+    "headword": "hold luggage",
+    "register": "GREEN",
+    "us_equivalent": "checked baggage",
+    "gloss": "Bags that travel in the aircraft's hold rather than in the cabin.",
+    "usage": "Standard term on airline websites.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Hold luggage costs extra on most budget airlines."
+    ],
+    "collocations": [
+      "hold bag"
+    ],
+    "wiki": null,
+    "forms": [
+      "hold bag"
+    ]
+  },
+  {
+    "headword": "luggage trolley",
+    "register": "GREEN",
+    "us_equivalent": "baggage cart",
+    "gloss": "A wheeled frame for carrying luggage at airports and stations.",
+    "usage": "Everyday term.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Grab a luggage trolley, these cases are heavy."
+    ],
+    "collocations": [],
+    "wiki": "Baggage cart",
+    "forms": [
+      "luggage trolleys"
+    ]
+  },
+  {
+    "headword": "aeroplane",
+    "register": "GREEN",
+    "us_equivalent": "airplane",
+    "gloss": "A powered flying vehicle with fixed wings.",
+    "usage": "British spelling; in everyday speech people usually just say 'plane'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The children waved at the aeroplanes taking off."
+    ],
+    "collocations": [],
+    "wiki": "Airplane",
+    "forms": [
+      "aeroplanes"
+    ]
+  },
+  {
+    "headword": "departure lounge",
+    "register": "GREEN",
+    "us_equivalent": "gate area / concourse",
+    "gloss": "The area of an airport where passengers wait after security before boarding.",
+    "usage": "Standard term at UK airports.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We'll get breakfast in the departure lounge."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "departure lounges"
+    ]
+  },
+  {
+    "headword": "boarding card",
+    "register": "GREEN",
+    "us_equivalent": "boarding pass",
+    "gloss": "The document that allows a passenger onto an aircraft.",
+    "usage": "Both 'boarding card' and 'boarding pass' are used in the UK.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Have your boarding card ready at the gate."
+    ],
+    "collocations": [],
+    "wiki": "Boarding pass",
+    "forms": [
+      "boarding cards",
+      "boarding pass"
+    ]
+  },
+  {
+    "headword": "passport control",
+    "register": "GREEN",
+    "us_equivalent": "immigration",
+    "gloss": "The point at a border where officials check passports.",
+    "usage": "Standard term on airport signs.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The queue at passport control was enormous."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "bureau de change",
+    "register": "GREEN",
+    "us_equivalent": "currency exchange",
+    "gloss": "A place where you can exchange one currency for another.",
+    "usage": "Seen at airports, stations and on high streets.",
+    "pragmatic_note": null,
+    "pitfall": "Pronounced roughly 'BYOO-roh duh SHONZH'.",
+    "examples": [
+      "The bureau de change at the airport gives a terrible rate."
+    ],
+    "collocations": [],
+    "wiki": "Bureau de change",
+    "forms": [
+      "bureaux de change"
+    ]
+  },
+  {
+    "headword": "holiday",
+    "register": "GREEN",
+    "us_equivalent": "vacation",
+    "gloss": "A trip away from home for pleasure, or time off from work or school.",
+    "usage": "Universal UK term; 'vacation' is used only for university breaks and otherwise sounds American.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'vacation'; in the UK 'holiday' also means annual leave: 'I've got five days' holiday left'.",
+    "examples": [
+      "Where are you going on holiday this year?",
+      "We had a lovely holiday in Devon."
+    ],
+    "collocations": [
+      "go on holiday",
+      "summer holiday",
+      "on holiday"
+    ],
+    "wiki": null,
+    "forms": [
+      "holidays",
+      "on holiday"
+    ]
+  },
+  {
+    "headword": "holidaymaker",
+    "register": "GREEN",
+    "us_equivalent": "vacationer / tourist",
+    "gloss": "A person who is away on holiday, especially at a resort.",
+    "usage": "Common in news reports.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The beaches were packed with holidaymakers."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "holidaymakers"
+    ]
+  },
+  {
+    "headword": "fortnight",
+    "register": "GREEN",
+    "us_equivalent": "two weeks",
+    "gloss": "A period of two weeks.",
+    "usage": "Very common in everyday British speech.",
+    "pragmatic_note": null,
+    "pitfall": "Americans rarely use 'fortnight', so say 'two weeks' if talking to them.",
+    "examples": [
+      "We're going away for a fortnight in August.",
+      "I'll see you in a fortnight."
+    ],
+    "collocations": [
+      "a fortnight's holiday",
+      "fortnightly"
+    ],
+    "wiki": null,
+    "forms": [
+      "fortnights",
+      "fortnightly"
+    ]
+  },
+  {
+    "headword": "city break",
+    "register": "GREEN",
+    "us_equivalent": "weekend getaway",
+    "gloss": "A short holiday spent in a city, usually two to four days.",
+    "usage": "Common in travel adverts and conversation.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We're thinking of a city break in Lisbon."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "city breaks"
+    ]
+  },
+  {
+    "headword": "package holiday",
+    "register": "GREEN",
+    "us_equivalent": "package tour / vacation package",
+    "gloss": "A holiday where flights, accommodation and transfers are sold together.",
+    "usage": "Very common, especially for summer holidays abroad.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "A package holiday works out cheaper with the kids."
+    ],
+    "collocations": [],
+    "wiki": "Package tour",
+    "forms": [
+      "package holidays",
+      "package"
+    ]
+  },
+  {
+    "headword": "self-catering",
+    "register": "GREEN",
+    "us_equivalent": "vacation rental",
+    "gloss": "Holiday accommodation where you cook your own meals.",
+    "usage": "Common in holiday listings, as opposed to hotels.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We booked a self-catering cottage in the Lake District."
+    ],
+    "collocations": [
+      "self-catering cottage",
+      "self-catering apartment"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "B&B",
+    "register": "GREEN",
+    "us_equivalent": "bed and breakfast / inn",
+    "gloss": "A small guest house or private home offering a room and breakfast.",
+    "usage": "Very common across the UK, especially in the countryside and at the seaside.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We stayed in a lovely B&B near the harbour."
+    ],
+    "collocations": [],
+    "wiki": "Bed and breakfast",
+    "forms": [
+      "B&Bs",
+      "bed and breakfast"
+    ]
+  },
+  {
+    "headword": "guest house",
+    "register": "GREEN",
+    "us_equivalent": "inn / small hotel",
+    "gloss": "A small private hotel, often family-run.",
+    "usage": "Common in seaside towns.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The guest house was cheap but spotless."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "guest houses",
+      "guesthouse"
+    ]
+  },
+  {
+    "headword": "youth hostel",
+    "register": "GREEN",
+    "us_equivalent": "hostel",
+    "gloss": "Cheap, simple accommodation for travellers, often with shared dormitories.",
+    "usage": "Common term; 'hostel' alone is also used.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We stayed in youth hostels all the way round Scotland."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "youth hostels",
+      "hostel"
+    ]
+  },
+  {
+    "headword": "holiday let",
+    "register": "GREEN",
+    "us_equivalent": "vacation rental / short-term rental",
+    "gloss": "A property rented out to holidaymakers for short stays.",
+    "usage": "Common in property and local news, especially in coastal areas.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The cottage next door is a holiday let now."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "holiday lets"
+    ]
+  },
+  {
+    "headword": "holiday park",
+    "register": "GREEN",
+    "us_equivalent": "RV park / resort campground",
+    "gloss": "A site with static caravans or chalets and leisure facilities for holidaymakers.",
+    "usage": "Common, especially near the coast; 'caravan park' is also used.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We've booked a week at a holiday park in Wales."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "caravan park",
+      "holiday parks"
+    ]
+  },
+  {
+    "headword": "staycation",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A holiday taken in your own country rather than abroad.",
+    "usage": "Popular in the UK media; in Britain it usually means a holiday within the UK.",
+    "pragmatic_note": null,
+    "pitfall": "In the US it more often means staying at home and taking day trips.",
+    "examples": [
+      "We're having a staycation in Cornwall this year."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "staycations"
+    ]
+  },
+  {
+    "headword": "abroad",
+    "register": "GREEN",
+    "us_equivalent": "overseas",
+    "gloss": "In or to a foreign country.",
+    "usage": "Everyday British word: 'going abroad', 'holidays abroad'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Have you ever lived abroad?",
+      "We're not going abroad this summer."
+    ],
+    "collocations": [
+      "go abroad",
+      "holiday abroad"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "en route",
+    "register": "GREEN",
+    "us_equivalent": "on the way",
+    "gloss": "On the way to somewhere.",
+    "usage": "Common in speech and writing; pronounced 'on ROOT'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We'll stop for lunch en route.",
+      "I'm en route now, I'll be there in ten minutes."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "journey",
+    "register": "GREEN",
+    "us_equivalent": "trip / commute",
+    "gloss": "An act of travelling from one place to another, especially by land.",
+    "usage": "Britons talk about their 'journey to work'; a 'trip' suggests visiting somewhere and coming back.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "How was your journey?",
+      "My journey to work takes about an hour."
+    ],
+    "collocations": [
+      "journey time",
+      "safe journey",
+      "return journey"
+    ],
+    "wiki": null,
+    "forms": [
+      "journeys"
+    ]
+  },
+  {
+    "headword": "day out",
+    "register": "GREEN",
+    "us_equivalent": "day trip / outing",
+    "gloss": "A trip somewhere for pleasure, returning the same day.",
+    "usage": "Very common, especially for family outings.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We had a lovely day out at the seaside.",
+      "It's a great day out for the kids."
+    ],
+    "collocations": [
+      "great day out",
+      "family day out"
+    ],
+    "wiki": null,
+    "forms": [
+      "days out"
+    ]
+  },
+  {
+    "headword": "booking",
+    "register": "GREEN",
+    "us_equivalent": "reservation",
+    "gloss": "An arrangement to reserve a seat, room or table in advance.",
+    "usage": "Britons 'make a booking' and 'book' tickets; 'reservation' is more formal.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I've made a booking for two nights.",
+      "Have you got your booking reference?"
+    ],
+    "collocations": [
+      "booking reference",
+      "advance booking",
+      "booking fee"
+    ],
+    "wiki": null,
+    "forms": [
+      "bookings",
+      "book",
+      "booked"
+    ]
+  },
+  {
+    "headword": "the seaside",
+    "register": "GREEN",
+    "us_equivalent": "the beach / the shore",
+    "gloss": "The coast, especially a resort town visited for holidays and days out.",
+    "usage": "Everyday British word with strong nostalgic associations.",
+    "pragmatic_note": "'A trip to the seaside' evokes piers, fish and chips and windbreaks on the beach.",
+    "pitfall": null,
+    "examples": [
+      "Let's go to the seaside if it's sunny.",
+      "She grew up in a little seaside town."
+    ],
+    "collocations": [
+      "seaside town",
+      "seaside resort"
+    ],
+    "wiki": "Seaside resort",
+    "forms": [
+      "seaside"
+    ]
+  },
+  {
+    "headword": "promenade",
+    "register": "GREEN",
+    "us_equivalent": "boardwalk",
+    "gloss": "A wide paved walkway along the seafront, often shortened to 'the prom'.",
+    "usage": "Common in seaside towns.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We walked along the prom eating ice cream."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "prom"
+    ]
+  },
+  {
+    "headword": "seafront",
+    "register": "GREEN",
+    "us_equivalent": "oceanfront / waterfront",
+    "gloss": "The part of a seaside town that faces the sea.",
+    "usage": "Everyday term in seaside towns and holiday listings.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Our hotel's right on the seafront."
+    ],
+    "collocations": [
+      "on the seafront"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "amusement arcade",
+    "register": "GREEN",
+    "us_equivalent": "arcade / game room",
+    "gloss": "A hall of coin-operated games and machines, typically at the seaside.",
+    "usage": "Common in seaside resorts.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The kids spent all their change in the amusement arcade."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "amusement arcades",
+      "amusements"
+    ]
+  },
+  {
+    "headword": "beach hut",
+    "register": "GREEN",
+    "us_equivalent": "beach cabana",
+    "gloss": "A small wooden hut at the top of a beach, used for changing and shelter.",
+    "usage": "Iconic in English seaside towns; often painted bright colours.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "They rent a beach hut every summer."
+    ],
+    "collocations": [],
+    "wiki": "Beach hut",
+    "forms": [
+      "beach huts"
+    ]
+  },
+  {
+    "headword": "towpath",
+    "register": "GREEN",
+    "us_equivalent": "canal path",
+    "gloss": "A path beside a canal or river, originally used by horses towing boats.",
+    "usage": "Common for walks, runs and cycling routes.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We cycled along the canal towpath into town."
+    ],
+    "collocations": [
+      "canal towpath"
+    ],
+    "wiki": "Towpath",
+    "forms": [
+      "towpaths"
+    ]
+  },
+  {
+    "headword": "narrowboat",
+    "register": "GREEN",
+    "us_equivalent": "canal boat",
+    "gloss": "A long, narrow boat built for Britain's canals, popular for holidays and as a home.",
+    "usage": "Common; 'canal boat' is also used.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We hired a narrowboat for a week on the canals."
+    ],
+    "collocations": [
+      "narrowboat holiday"
+    ],
+    "wiki": "Narrowboat",
+    "forms": [
+      "narrowboats",
+      "canal boat"
+    ]
+  },
+  {
+    "headword": "bridleway",
+    "register": "GREEN",
+    "us_equivalent": "horse trail",
+    "gloss": "A path that may be used by walkers, horse riders and cyclists.",
+    "usage": "Seen on signs and walking maps in the countryside.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "You can cycle on the bridleway, but not on the footpath."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "bridleways",
+      "bridle path"
+    ]
+  },
+  {
+    "headword": "Ordnance Survey",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Britain's national mapping agency, whose detailed walking maps are known as OS maps.",
+    "usage": "Widely used by walkers; 'OS map' is the everyday form.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Bring the OS map in case we lose the path."
+    ],
+    "collocations": [
+      "OS map"
+    ],
+    "wiki": null,
+    "forms": [
+      "OS map",
+      "OS"
+    ]
+  },
+  {
+    "headword": "town centre",
+    "register": "GREEN",
+    "us_equivalent": "downtown",
+    "gloss": "The main shopping and business area of a town.",
+    "usage": "Standard UK term; 'downtown' is not used.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Parking in the town centre is a nightmare.",
+      "Is there a bus into the town centre?"
+    ],
+    "collocations": [
+      "in the town centre",
+      "town-centre shops"
+    ],
+    "wiki": null,
+    "forms": [
+      "town centres"
+    ]
+  },
+  {
+    "headword": "city centre",
+    "register": "GREEN",
+    "us_equivalent": "downtown",
+    "gloss": "The central commercial area of a city.",
+    "usage": "Standard UK term on signs and in conversation.",
+    "pragmatic_note": null,
+    "pitfall": "Britons say 'city centre' or 'in town', not 'downtown'.",
+    "examples": [
+      "Our office is in the city centre.",
+      "It's a ten-minute walk to the city centre."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "city centres"
+    ]
+  },
+  {
+    "headword": "shopping centre",
+    "register": "GREEN",
+    "us_equivalent": "mall",
+    "gloss": "A large covered building containing many shops.",
+    "usage": "Standard UK term; 'mall' is also increasingly used.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Let's meet outside the shopping centre.",
+      "The new shopping centre has a cinema."
+    ],
+    "collocations": [],
+    "wiki": "Shopping mall",
+    "forms": [
+      "shopping centres"
+    ]
+  },
+  {
+    "headword": "retail park",
+    "register": "GREEN",
+    "us_equivalent": "strip mall / power center",
+    "gloss": "An out-of-town group of large shops sharing a car park.",
+    "usage": "Common in planning and everyday speech.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The retail park on the ring road has all the big stores."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "retail parks",
+      "out-of-town"
+    ]
+  },
+  {
+    "headword": "shopping parade",
+    "register": "GREEN",
+    "us_equivalent": "strip mall",
+    "gloss": "A short row of local shops, often with flats above.",
+    "usage": "Common in suburbs; often just 'the parade'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "There's a chemist in the little parade by the station."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "parade",
+      "parade of shops"
+    ]
+  },
+  {
+    "headword": "pedestrian precinct",
+    "register": "GREEN",
+    "us_equivalent": "pedestrian mall",
+    "gloss": "A town-centre area closed to traffic for shopping.",
+    "usage": "Common in towns redeveloped after the war; 'pedestrianised' is the adjective.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The high street was pedestrianised years ago."
+    ],
+    "collocations": [],
+    "wiki": "Pedestrian zone",
+    "forms": [
+      "precinct",
+      "pedestrianised",
+      "pedestrianise"
+    ]
+  },
+  {
+    "headword": "arcade",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A covered passage lined with shops; also short for an amusement arcade.",
+    "usage": "Common in historic town centres.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The Victorian arcade is full of little independent shops."
+    ],
+    "collocations": [
+      "shopping arcade"
+    ],
+    "wiki": null,
+    "forms": [
+      "arcades"
+    ]
+  },
+  {
+    "headword": "market town",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A town with a long-standing right to hold a regular market, often at its historic centre.",
+    "usage": "Common in descriptions of English towns and in tourism.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "It's a pretty market town with a market every Thursday."
+    ],
+    "collocations": [
+      "historic market town"
+    ],
+    "wiki": "Market town",
+    "forms": [
+      "market towns"
+    ]
+  },
+  {
+    "headword": "market square",
+    "register": "GREEN",
+    "us_equivalent": "town square",
+    "gloss": "An open square in a town centre where a market is or was held.",
+    "usage": "Common in place descriptions and directions.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The café's on the corner of the market square."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "market place"
+    ]
+  },
+  {
+    "headword": "village green",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An open grassy area at the centre of a village, used by the community.",
+    "usage": "Common in rural England; a symbol of traditional village life.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "There's a fête on the village green this Saturday."
+    ],
+    "collocations": [],
+    "wiki": "Village green",
+    "forms": [
+      "village greens"
+    ]
+  },
+  {
+    "headword": "hamlet",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A very small settlement, smaller than a village and usually without a church.",
+    "usage": "Common in rural descriptions.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "They live in a tiny hamlet with no shop or pub."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "hamlets"
+    ]
+  },
+  {
+    "headword": "county town",
+    "register": "GREEN",
+    "us_equivalent": "county seat",
+    "gloss": "The administrative centre of a county.",
+    "usage": "Used in geography, history and local pride.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Shrewsbury is the county town of Shropshire."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "county towns"
+    ]
+  },
+  {
+    "headword": "conurbation",
+    "register": "GREEN",
+    "us_equivalent": "metropolitan area",
+    "gloss": "An extended urban area formed where several towns have merged.",
+    "usage": "Formal; used in planning, geography and news.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The West Midlands conurbation stretches well beyond Birmingham."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "conurbations"
+    ]
+  },
+  {
+    "headword": "city",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "In the UK, a town officially granted city status, traditionally one with a cathedral.",
+    "usage": "Used formally; in conversation people may call a large city 'town'.",
+    "pragmatic_note": "Some small places are cities because of their cathedrals, while some large towns are not.",
+    "pitfall": null,
+    "examples": [
+      "Ely is only small, but it's a city because of its cathedral."
+    ],
+    "collocations": [
+      "city status"
+    ],
+    "wiki": null,
+    "forms": [
+      "cities"
+    ]
+  },
+  {
+    "headword": "the City",
+    "register": "GREEN",
+    "us_equivalent": "financial district",
+    "gloss": "The City of London, the historic centre and financial district of London.",
+    "usage": "With a capital C it means the financial district; 'the Square Mile' is an alternative.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He works in the City.",
+      "The City is very quiet at weekends."
+    ],
+    "collocations": [
+      "the Square Mile"
+    ],
+    "wiki": "City of London",
+    "forms": []
+  },
+  {
+    "headword": "housing estate",
+    "register": "GREEN",
+    "us_equivalent": "housing development / subdivision",
+    "gloss": "A planned area of houses built together.",
+    "usage": "Common term; a 'council estate' is mainly social housing.",
+    "pragmatic_note": null,
+    "pitfall": "In the US 'estate' suggests a grand property, but a British estate is usually ordinary housing.",
+    "examples": [
+      "They live on a new housing estate on the edge of town."
+    ],
+    "collocations": [
+      "new-build estate",
+      "council estate"
+    ],
+    "wiki": null,
+    "forms": [
+      "estate",
+      "housing estates"
+    ]
+  },
+  {
+    "headword": "tower block",
+    "register": "GREEN",
+    "us_equivalent": "high-rise / apartment building",
+    "gloss": "A tall residential building containing many flats.",
+    "usage": "Common term, especially for post-war social housing.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She grew up on the fifteenth floor of a tower block."
+    ],
+    "collocations": [],
+    "wiki": "Tower block",
+    "forms": [
+      "tower blocks"
+    ]
+  },
+  {
+    "headword": "mews",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A row of former stables converted into houses, around a small yard or lane.",
+    "usage": "Common in London street names and estate agents' listings.",
+    "pragmatic_note": "A mews house in central London is a sign of considerable wealth.",
+    "pitfall": null,
+    "examples": [
+      "They live in a converted mews house in Kensington."
+    ],
+    "collocations": [
+      "mews house"
+    ],
+    "wiki": "Mews",
+    "forms": []
+  },
+  {
+    "headword": "postcode",
+    "register": "GREEN",
+    "us_equivalent": "ZIP code",
+    "gloss": "The letters and numbers at the end of a UK address, used for sorting post.",
+    "usage": "Universal; people often find places by entering a postcode into a sat nav or app.",
+    "pragmatic_note": "A 'postcode lottery' means public services that vary unfairly by where you live.",
+    "pitfall": null,
+    "examples": [
+      "What's your postcode?",
+      "The postcode will take you right to the door."
+    ],
+    "collocations": [
+      "postcode lottery"
+    ],
+    "wiki": null,
+    "forms": [
+      "postcodes"
+    ]
+  },
+  {
+    "headword": "post office",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A place where you can send letters and parcels and use some public services.",
+    "usage": "Often a counter inside a newsagent or supermarket rather than a separate building.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I need to pop into the post office to send a parcel."
+    ],
+    "collocations": [
+      "post office counter"
+    ],
+    "wiki": null,
+    "forms": [
+      "post offices"
+    ]
+  },
+  {
+    "headword": "postbox",
+    "register": "GREEN",
+    "us_equivalent": "mailbox",
+    "gloss": "A public red box for posting letters.",
+    "usage": "Everyday term; the traditional round ones are 'pillar boxes'.",
+    "pragmatic_note": null,
+    "pitfall": "A 'letterbox' usually means the slot in your front door, though some people use it for a postbox too.",
+    "examples": [
+      "Can you drop this in the postbox on your way?"
+    ],
+    "collocations": [],
+    "wiki": "Post box",
+    "forms": [
+      "postboxes",
+      "post box",
+      "pillar box"
+    ]
+  },
+  {
+    "headword": "post",
+    "register": "GREEN",
+    "us_equivalent": "mail",
+    "gloss": "Letters and parcels delivered by the postal service; also the verb, to send by mail.",
+    "usage": "Britons 'post a letter' and ask 'has the post come?'",
+    "pragmatic_note": null,
+    "pitfall": "'Mail' is used in the UK too, but 'post' is the everyday word.",
+    "examples": [
+      "Has the post come yet?",
+      "I'll put it in the post today."
+    ],
+    "collocations": [
+      "in the post",
+      "first-class post",
+      "post a letter"
+    ],
+    "wiki": null,
+    "forms": [
+      "posted",
+      "posting"
+    ]
+  },
+  {
+    "headword": "postman",
+    "register": "GREEN",
+    "us_equivalent": "mail carrier / mailman",
+    "gloss": "The person who delivers the post.",
+    "usage": "Common everyday term; 'postie' is informal.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The postman left a card saying he'd tried to deliver."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "postwoman",
+      "postie",
+      "postmen"
+    ]
+  },
+  {
+    "headword": "parcel",
+    "register": "GREEN",
+    "us_equivalent": "package",
+    "gloss": "A wrapped item sent by post or courier.",
+    "usage": "Standard UK term; 'package' is also used, especially for online deliveries.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "There's a parcel for you on the doorstep."
+    ],
+    "collocations": [
+      "parcel delivery"
+    ],
+    "wiki": null,
+    "forms": [
+      "parcels"
+    ]
+  },
+  {
+    "headword": "phone box",
+    "register": "GREEN",
+    "us_equivalent": "phone booth",
+    "gloss": "A public telephone kiosk; the traditional British ones are red.",
+    "usage": "Now rare in use; many red phone boxes have become mini libraries or defibrillator points.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The old phone box in the village is a book exchange now."
+    ],
+    "collocations": [
+      "red phone box"
+    ],
+    "wiki": "Red telephone box",
+    "forms": [
+      "phone boxes",
+      "telephone box"
+    ]
+  },
+  {
+    "headword": "cashpoint",
+    "register": "GREEN",
+    "us_equivalent": "ATM",
+    "gloss": "A machine outside a bank or shop that dispenses cash.",
+    "usage": "Common everyday term, alongside 'cash machine'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Is there a cashpoint near here?",
+      "The cashpoint swallowed my card."
+    ],
+    "collocations": [
+      "cash machine"
+    ],
+    "wiki": "ATM",
+    "forms": [
+      "cash machine",
+      "cashpoints"
+    ]
+  },
+  {
+    "headword": "hole in the wall",
+    "register": "RED",
+    "us_equivalent": "ATM",
+    "gloss": "Informal name for a cashpoint.",
+    "usage": "Casual and slightly old-fashioned.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll just get some cash out of the hole in the wall."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "town hall",
+    "register": "GREEN",
+    "us_equivalent": "city hall",
+    "gloss": "The building housing the local council's offices, often a civic landmark.",
+    "usage": "Common term; also used for public events.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The Christmas market is in front of the town hall."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "town halls"
+    ]
+  },
+  {
+    "headword": "leisure centre",
+    "register": "GREEN",
+    "us_equivalent": "recreation center / rec center",
+    "gloss": "A public building with a swimming pool, gym and sports facilities.",
+    "usage": "Common in towns across the UK, often run by the council.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The kids have swimming lessons at the leisure centre."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "leisure centres"
+    ]
+  },
+  {
+    "headword": "public toilets",
+    "register": "GREEN",
+    "us_equivalent": "restroom",
+    "gloss": "Toilets provided for the public in a town, park or station.",
+    "usage": "Standard term on signs; informally 'the loo' or 'the gents'/'the ladies'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'restroom'; Britons say 'toilets' and may find 'restroom' odd.",
+    "examples": [
+      "Are there any public toilets near here?"
+    ],
+    "collocations": [],
+    "wiki": "Public toilet",
+    "forms": [
+      "public toilet",
+      "toilets"
+    ]
+  },
+  {
+    "headword": "garden centre",
+    "register": "GREEN",
+    "us_equivalent": "garden center / nursery",
+    "gloss": "A large shop selling plants and garden equipment, often with a café.",
+    "usage": "Popular weekend destination, especially out of town.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We spent Sunday afternoon at the garden centre."
+    ],
+    "collocations": [],
+    "wiki": "Garden centre",
+    "forms": [
+      "garden centres"
+    ]
+  },
+  {
+    "headword": "shop",
+    "register": "GREEN",
+    "us_equivalent": "store",
+    "gloss": "A building or room where goods are sold.",
+    "usage": "Britons generally say 'shop'; 'store' suggests a large department store or chain.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm just popping to the shops.",
+      "There's a little shop that sells everything."
+    ],
+    "collocations": [
+      "go to the shops",
+      "local shop"
+    ],
+    "wiki": null,
+    "forms": [
+      "shops",
+      "the shops"
+    ]
+  },
+  {
+    "headword": "shop assistant",
+    "register": "GREEN",
+    "us_equivalent": "sales clerk / sales associate",
+    "gloss": "A person who serves customers in a shop.",
+    "usage": "Common everyday term.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Ask the shop assistant if they've got it in stock."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "shop assistants"
+    ]
+  },
+  {
+    "headword": "chemist",
+    "register": "GREEN",
+    "us_equivalent": "drugstore / pharmacy",
+    "gloss": "A shop selling medicines, toiletries and cosmetics, usually with a pharmacist.",
+    "usage": "Everyday term: 'the chemist's'; 'pharmacy' is more formal.",
+    "pragmatic_note": null,
+    "pitfall": "In the UK 'chemist' means the shop and the pharmacist; for a scientist say 'research chemist'.",
+    "examples": [
+      "I'll pick up some plasters at the chemist's.",
+      "Ask at the chemist, they might have something for it."
+    ],
+    "collocations": [
+      "the chemist's"
+    ],
+    "wiki": null,
+    "forms": [
+      "chemist's",
+      "chemists"
+    ]
+  },
+  {
+    "headword": "newsagent",
+    "register": "GREEN",
+    "us_equivalent": "newsstand / convenience store",
+    "gloss": "A shop selling newspapers, magazines, sweets and snacks.",
+    "usage": "Everyday: 'the newsagent's'; often doubles as a corner shop.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Can you get a paper from the newsagent's?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "newsagent's",
+      "newsagents"
+    ]
+  },
+  {
+    "headword": "corner shop",
+    "register": "GREEN",
+    "us_equivalent": "convenience store / bodega",
+    "gloss": "A small local shop selling groceries and everyday items, open long hours.",
+    "usage": "Everyday term; a fixture of British streets.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll nip to the corner shop for some milk."
+    ],
+    "collocations": [],
+    "wiki": "Convenience store",
+    "forms": [
+      "corner shops"
+    ]
+  },
+  {
+    "headword": "off-licence",
+    "register": "GREEN",
+    "us_equivalent": "liquor store",
+    "gloss": "A shop licensed to sell alcohol to take away.",
+    "usage": "Common everyday term; informally an 'offie'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Is the off-licence still open?"
+    ],
+    "collocations": [],
+    "wiki": "Liquor store",
+    "forms": [
+      "offie",
+      "off-licences"
+    ]
+  },
+  {
+    "headword": "launderette",
+    "register": "GREEN",
+    "us_equivalent": "laundromat",
+    "gloss": "A shop with coin- or card-operated washing machines and dryers for public use.",
+    "usage": "Common term, though fewer exist now.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Our washing machine's broken, so I'm off to the launderette."
+    ],
+    "collocations": [],
+    "wiki": "Self-service laundry",
+    "forms": [
+      "launderettes"
+    ]
+  },
+  {
+    "headword": "estate agent",
+    "register": "GREEN",
+    "us_equivalent": "real estate agent / realtor",
+    "gloss": "A business or person that sells and lets houses and flats.",
+    "usage": "Everyday term: 'the estate agent's' is the office.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The high street is full of estate agents and coffee shops."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "estate agents",
+      "estate agent's"
+    ]
+  },
+  {
+    "headword": "charity shop",
+    "register": "GREEN",
+    "us_equivalent": "thrift store",
+    "gloss": "A shop selling donated second-hand goods to raise money for a charity.",
+    "usage": "A fixture of British high streets.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I found this lamp in a charity shop for a fiver."
+    ],
+    "collocations": [],
+    "wiki": "Charity shop",
+    "forms": [
+      "charity shops"
+    ]
+  },
+  {
+    "headword": "greengrocer's",
+    "register": "GREEN",
+    "us_equivalent": "produce store / fruit stand",
+    "gloss": "A shop selling fresh fruit and vegetables.",
+    "usage": "Less common now that supermarkets dominate, but still found on many high streets.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The greengrocer's on the corner has lovely strawberries."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "greengrocer",
+      "greengrocers"
+    ]
+  },
+  {
+    "headword": "ironmonger's",
+    "register": "GREEN",
+    "us_equivalent": "hardware store",
+    "gloss": "A traditional shop selling tools and household hardware.",
+    "usage": "Old-fashioned; most people now say 'hardware shop'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The old ironmonger's still sells nails by weight."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "ironmonger",
+      "hardware shop"
+    ]
+  },
+  {
+    "headword": "DIY shop",
+    "register": "GREEN",
+    "us_equivalent": "home improvement store / hardware store",
+    "gloss": "A large shop selling tools and materials for home repairs and decorating.",
+    "usage": "Everyday term; 'DIY' is said as letters.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I need to go to the DIY shop for some paint."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "DIY store"
+    ]
+  },
+  {
+    "headword": "optician's",
+    "register": "GREEN",
+    "us_equivalent": "optometrist / eye doctor",
+    "gloss": "A high-street shop where eyes are tested and glasses are sold.",
+    "usage": "Everyday term: 'go to the optician's'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I've got an eye test at the optician's on Friday."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "optician",
+      "opticians"
+    ]
+  },
+  {
+    "headword": "cobbler's",
+    "register": "AMBER",
+    "us_equivalent": "shoe repair shop",
+    "gloss": "A shop that repairs shoes, often also cutting keys.",
+    "usage": "Slightly old-fashioned but still common.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll get a spare key cut at the cobbler's."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "cobbler",
+      "key cutting"
+    ]
+  },
+  {
+    "headword": "bookshop",
+    "register": "GREEN",
+    "us_equivalent": "bookstore",
+    "gloss": "A shop that sells books.",
+    "usage": "Standard UK term; 'bookstore' sounds American.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "There's a lovely independent bookshop on the high street."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "bookshops"
+    ]
+  },
+  {
+    "headword": "till",
+    "register": "GREEN",
+    "us_equivalent": "cash register / checkout",
+    "gloss": "The machine or counter where you pay in a shop.",
+    "usage": "Everyday: 'pay at the till'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Please pay at the till.",
+      "There's only one till open."
+    ],
+    "collocations": [
+      "pay at the till",
+      "till receipt"
+    ],
+    "wiki": "Cash register",
+    "forms": [
+      "tills"
+    ]
+  },
+  {
+    "headword": "trolley",
+    "register": "GREEN",
+    "us_equivalent": "shopping cart",
+    "gloss": "A large wheeled basket for carrying shopping in a supermarket.",
+    "usage": "Everyday term.",
+    "pragmatic_note": null,
+    "pitfall": "In the US a 'trolley' is a streetcar; in the UK it's a shopping cart.",
+    "examples": [
+      "This trolley's got a wonky wheel.",
+      "You need a coin to unlock the trolleys."
+    ],
+    "collocations": [
+      "shopping trolley",
+      "trolley bay"
+    ],
+    "wiki": "Shopping cart",
+    "forms": [
+      "trolleys"
+    ]
+  },
+  {
+    "headword": "carrier bag",
+    "register": "GREEN",
+    "us_equivalent": "shopping bag",
+    "gloss": "A plastic or paper bag provided by shops for carrying purchases.",
+    "usage": "Everyday term.",
+    "pragmatic_note": "Shops charge for carrier bags, so many people bring their own reusable 'bag for life'.",
+    "pitfall": null,
+    "examples": [
+      "Do you need a carrier bag?"
+    ],
+    "collocations": [
+      "bag for life"
+    ],
+    "wiki": null,
+    "forms": [
+      "carrier bags",
+      "bag for life"
+    ]
+  },
+  {
+    "headword": "opening hours",
+    "register": "GREEN",
+    "us_equivalent": "business hours / store hours",
+    "gloss": "The times when a shop, office or attraction is open.",
+    "usage": "Standard term on signs and websites.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Check the opening hours before you go."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "click and collect",
+    "register": "GREEN",
+    "us_equivalent": "buy online, pick up in store",
+    "gloss": "Ordering online and collecting the goods from a shop or locker.",
+    "usage": "Common retail term.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll do click and collect and pick it up on the way home."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "click-and-collect"
+    ]
+  },
+  {
+    "headword": "loyalty card",
+    "register": "GREEN",
+    "us_equivalent": "rewards card",
+    "gloss": "A card that earns points or discounts each time you shop somewhere.",
+    "usage": "Everyday term.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Have you got a loyalty card with us?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "loyalty cards"
+    ]
+  }
+]

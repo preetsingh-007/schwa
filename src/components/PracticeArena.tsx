@@ -6,6 +6,7 @@ import { recorder, TARGET_SR } from '../services/audio';
 import { engine, cosine } from '../services/engine';
 import { scorePrompts, selectNextPrompt, suggestTier } from '../services/rlBandit';
 import { loadLevel, warmLevels } from '../services/corpus';
+import { ensureEntry, entryPrompts, loadAllCurated, loadWordBand } from '../services/lexicon';
 import { rpVoice, type Reference } from '../services/rpVoice';
 import { evaluateTurn, commitTurn, type TurnResult } from '../services/evaluate';
 import { scheduleSync } from '../services/syncManager';
@@ -42,11 +43,12 @@ function critique(r: TurnResult): string {
   return parts.join(' ');
 }
 
-export default function PracticeArena({ tierMode, focusPhoneme, clearFocus, openSettings }: {
+export default function PracticeArena({ tierMode, focusPhoneme, clearFocus, openSettings, focusCard, clearFocusCard }: {
   tierMode: TierMode; focusPhoneme: string | null; clearFocus: () => void; openSettings: () => void;
+  focusCard: string | null; clearFocusCard: () => void;
 }) {
   const app = useApp();
-  const { data, learner, vocabCards, promptStats, settings, engineState, engineError, engineModels, startEngine, refresh, openVocab, vocabById } = app;
+  const { data, learner, vocabCards, promptStats, settings, engineState, engineError, engineModels, startEngine, refresh, openVocab, vocabById, allPrompts } = app;
   const [prompt, setPrompt] = useState<Prompt | null>(null);
   const [attempt, setAttempt] = useState(1);
   const [phase, setPhase] = useState<Phase>('idle');
@@ -77,9 +79,32 @@ export default function PracticeArena({ tierMode, focusPhoneme, clearFocus, open
    */
   const pickNext = useCallback(async (excludeId?: string): Promise<Prompt | null> => {
     const suggested = suggestTier(learner);
-    const shadow = tierMode === 'shadow' || (tierMode === 'auto' && Math.random() < (suggested === 1 ? 0.5 : 0.25));
+    const roll = Math.random();
+    const words = tierMode === 'words' || !!focusCard || (tierMode === 'auto' && roll < 0.2);
+    const shadow = !words && (tierMode === 'shadow' || (tierMode === 'auto' && roll < (suggested === 1 ? 0.6 : 0.4)));
     const ctx = { learner, vocab: vocabCards, stats: promptStats, now: Date.now(), excludeId, focusPhoneme: focusPhoneme ?? undefined };
     let chosen: Prompt | null = null;
+    if (words) {
+      try {
+        if (focusCard) {
+          const e = await ensureEntry(focusCard);
+          chosen = e ? entryPrompts(e)[0] ?? null : null;
+          clearFocusCard();
+        } else {
+          // ~60 % curated British cards, ~40 % the next frequency band of everyday words;
+          // FSRS reviews that are due take priority over new cards.
+          const curated = Math.random() < 0.6;
+          const entries = curated ? await loadAllCurated() : await loadWordBand(learner.wordBand ?? 1);
+          const pool = entries.flatMap(entryPrompts);
+          const now = Date.now();
+          const due = new Set([...vocabCards.values()].filter((c) => c.lastReview && c.due <= now).map((c) => c.id));
+          const duePool = pool.filter((p) => p.cardId && due.has(p.cardId));
+          chosen = selectNextPrompt(duePool.length && Math.random() < 0.7 ? duePool : pool, ctx)?.prompt ?? null;
+        }
+      } catch {
+        chosen = null; // lexicon not downloaded yet (offline): fall back below
+      }
+    }
     if (shadow) {
       try {
         const level = learner.shadowLevel ?? 1;
@@ -99,16 +124,24 @@ export default function PracticeArena({ tierMode, focusPhoneme, clearFocus, open
         chosen = null; // corpus unavailable offline before first download: fall back to curated prompts
       }
     }
-    if (!chosen) chosen = selectNextPrompt(data.prompts, { ...ctx, tier: tierMode === 'auto' ? suggested : tierMode === 'shadow' ? 1 : tierMode })?.prompt ?? null;
+    if (!chosen) chosen = selectNextPrompt(allPrompts, { ...ctx, tier: typeof tierMode === 'number' ? tierMode : tierMode === 'auto' ? suggested : 1 })?.prompt ?? null;
     setPrompt(chosen);
     promptRef.current = chosen;
     setAttempt(1); attemptRef.current = 1;
     setResult(null); setError(null); setPhase('idle');
     return chosen;
-  }, [data.prompts, tierMode, focusPhoneme, learner, vocabCards, promptStats]);
+  }, [allPrompts, tierMode, focusPhoneme, focusCard, clearFocusCard, learner, vocabCards, promptStats]);
 
   // New prompt when the mode / drill focus changes (not on every learner update).
-  useEffect(() => { void pickNext(); /* eslint-disable-next-line react-hooks/exhaustive-deps */ }, [tierMode, focusPhoneme]);
+  // Clearing a consumed card focus (→ null) must not trigger another pick.
+  const prevFocusCard = useRef<string | null>(null);
+  useEffect(() => {
+    const cleared = prevFocusCard.current !== null && focusCard === null;
+    prevFocusCard.current = focusCard;
+    if (cleared) return;
+    void pickNext();
+  /* eslint-disable-next-line react-hooks/exhaustive-deps */
+  }, [tierMode, focusPhoneme, focusCard]);
 
   useEffect(() => {
     const mark = () => { interacted.current = true; };
@@ -173,7 +206,8 @@ export default function PracticeArena({ tierMode, focusPhoneme, clearFocus, open
     setPhase('analyzing');
     setError(null);
     try {
-      const res = await engine.analyze({ audio, sampleRate: TARGET_SR, referenceText: p.tier === 1 ? p.reference ?? p.text : undefined });
+      // Name-it answers are free speech ("we call them chips"): score against what was said.
+      const res = await engine.analyze({ audio, sampleRate: TARGET_SR, referenceText: p.tier === 1 && p.mode !== 'nameit' ? p.reference ?? p.text : undefined });
       if (SKIP_WORDS.test(res.transcript.trim())) { void pickNext(p.id); return null; }
       let reference: TurnResult['reference'] = null;
       if (p.mode === 'shadow' && settings.rpVoice === 'neural') {
@@ -329,7 +363,7 @@ export default function PracticeArena({ tierMode, focusPhoneme, clearFocus, open
     <main>
       <section className="section card" aria-live="polite">
         <div className="prompt-head">
-          <span className="label">{prompt.mode === 'shadow' ? `Listen & repeat · Level ${prompt.level}` : `Tier ${prompt.tier} · ${prompt.tier === 1 ? 'Articulatory calibration' : prompt.tier === 2 ? 'Lexical compression' : 'Open-ended monologue'}`}</span>
+          <span className="label">{prompt.mode === 'nameit' ? 'Words · name it' : prompt.mode === 'shadow' && prompt.cardId ? 'Words · listen & repeat' : prompt.mode === 'shadow' ? `Listen & repeat · Level ${prompt.level}` : `Tier ${prompt.tier} · ${prompt.tier === 1 ? 'Articulatory calibration' : prompt.tier === 2 ? 'Lexical compression' : 'Open-ended monologue'}`}</span>
           <span className="spacer" />
           {focusPhoneme && <button className="chip" onClick={clearFocus} title="Clear drill focus">Drill <span className="ipa">/{focusPhoneme}/</span> ✕</button>}
           {attempt > 1 && <span className="chip">Retry #{attempt - 1}</span>}
@@ -359,7 +393,28 @@ export default function PracticeArena({ tierMode, focusPhoneme, clearFocus, open
         )}
         {prompt.tier === 2 && <div className="small muted">Say the same thing concisely — you have <b>{prompt.timeLimitSec} seconds</b>.</div>}
         {prompt.tier === 3 && <div className="small muted">Speak for up to {prompt.timeLimitSec} seconds.</div>}
-        {prompt.targetVocab.length > 0 && (
+        {prompt.mode === 'nameit' && (() => {
+          const card = prompt.cardId ? vocabById.get(prompt.cardId) : undefined;
+          const answered = phase === 'result';
+          return (
+            <div>
+              {card?.img && <figure className="cardimg cue"><img src={card.img} alt="What is this called in the UK?" referrerPolicy="no-referrer" /></figure>}
+              {card?.us_equivalent && card.gloss && <div className="small muted">{card.gloss.replace(new RegExp(card.headword, 'ig'), '…')}</div>}
+              <div className="small muted section">Answer aloud — the British word, ideally in a short sentence.{answered ? '' : ' Stuck? Skip, and it comes back later.'}</div>
+            </div>
+          );
+        })()}
+        {prompt.mode === 'shadow' && prompt.cardId && (() => {
+          const card = vocabById.get(prompt.cardId);
+          if (!card) return null;
+          return (
+            <button className="lexitem" style={{ width: '100%', marginTop: 8 }} onClick={() => openVocab(card.id)}>
+              <div className="h">{card.headword} <span className="ipa muted" style={{ fontWeight: 400 }}>{card.ipa_rp}</span></div>
+              <div className="g">{card.pos ? `${card.pos} · ` : ''}{card.gloss}</div>
+            </button>
+          );
+        })()}
+        {prompt.targetVocab.length > 0 && !(prompt.mode === 'nameit' && phase !== 'result') && !(prompt.mode === 'shadow' && prompt.cardId) && (
           <div className="pills">
             {prompt.targetVocab.map((id) => {
               const v = vocabById.get(id);

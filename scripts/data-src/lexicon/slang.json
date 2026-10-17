@@ -1,0 +1,5821 @@
+[
+  {
+    "headword": "bloke",
+    "register": "RED",
+    "us_equivalent": "guy",
+    "gloss": "A man, usually an ordinary or unremarkable one.",
+    "usage": "Everyday informal word for a man, used across the UK and all social classes.",
+    "pragmatic_note": "Often paired with praise: 'a nice bloke', 'a decent bloke'.",
+    "pitfall": null,
+    "examples": [
+      "He seems like a nice enough bloke.",
+      "Some bloke from the council came round about the bins."
+    ],
+    "collocations": [
+      "nice bloke",
+      "some bloke",
+      "blokey"
+    ],
+    "wiki": null,
+    "forms": [
+      "blokes",
+      "blokey"
+    ]
+  },
+  {
+    "headword": "mate",
+    "register": "AMBER",
+    "us_equivalent": "buddy",
+    "gloss": "A friend; also a casual, friendly way of addressing any man, even a stranger.",
+    "usage": "Heard everywhere from building sites to offices, especially between men.",
+    "pragmatic_note": "Tone matters: a clipped 'listen, mate' can signal irritation rather than friendliness.",
+    "pitfall": "Do not confuse with the formal or biological sense of 'mate' (a partner).",
+    "examples": [
+      "Cheers, mate, I owe you one.",
+      "We've been mates since primary school."
+    ],
+    "collocations": [
+      "best mate",
+      "cheers, mate",
+      "mates' rates"
+    ],
+    "wiki": null,
+    "forms": [
+      "mates",
+      "matey"
+    ]
+  },
+  {
+    "headword": "geezer",
+    "register": "RED",
+    "us_equivalent": "dude",
+    "gloss": "A man, often one with a bit of swagger or street credibility.",
+    "usage": "Strongly associated with London and the South East, often said with a Cockney accent.",
+    "pragmatic_note": "Calling someone 'a proper geezer' is usually admiring.",
+    "pitfall": "In American English 'geezer' means an old man, often unkindly.",
+    "examples": [
+      "He's a right geezer, knows everyone in the market.",
+      "Some geezer tried to sell me a watch outside the station."
+    ],
+    "collocations": [
+      "proper geezer",
+      "some geezer"
+    ],
+    "wiki": null,
+    "forms": [
+      "geezers"
+    ]
+  },
+  {
+    "headword": "lad",
+    "register": "AMBER",
+    "us_equivalent": "guy",
+    "gloss": "A boy or young man; 'the lads' means a man's group of male friends.",
+    "usage": "Common everywhere, especially in the North and in football and pub culture.",
+    "pragmatic_note": "'Laddish' and 'lad culture' suggest loud, boozy male behaviour.",
+    "pitfall": null,
+    "examples": [
+      "He's a good lad, works really hard.",
+      "I'm going out with the lads on Saturday."
+    ],
+    "collocations": [
+      "the lads",
+      "good lad",
+      "young lad"
+    ],
+    "wiki": null,
+    "forms": [
+      "lads",
+      "laddish"
+    ]
+  },
+  {
+    "headword": "lass",
+    "register": "RED",
+    "us_equivalent": "girl",
+    "gloss": "A girl or young woman.",
+    "usage": "Mainly Northern English and Scottish; sounds affectionate rather than rude in those regions.",
+    "pragmatic_note": "In the North 'love' and 'lass' are often used warmly by older people.",
+    "pitfall": null,
+    "examples": [
+      "She's a lovely lass, is your Emma.",
+      "There's a young lass at the door asking for you."
+    ],
+    "collocations": [
+      "young lass",
+      "lovely lass"
+    ],
+    "wiki": null,
+    "forms": [
+      "lasses",
+      "lassie"
+    ]
+  },
+  {
+    "headword": "chap",
+    "register": "AMBER",
+    "us_equivalent": "guy",
+    "gloss": "A man; slightly old-fashioned and middle-class in tone.",
+    "usage": "Used by older or more formal speakers, and jokingly by younger ones.",
+    "pragmatic_note": "'Old chap' sounds very upper-class and is now mostly humorous.",
+    "pitfall": null,
+    "examples": [
+      "He's a very pleasant chap, you'd like him.",
+      "A chap from IT is coming to fix the printer."
+    ],
+    "collocations": [
+      "nice chap",
+      "old chap"
+    ],
+    "wiki": null,
+    "forms": [
+      "chaps",
+      "chappie"
+    ]
+  },
+  {
+    "headword": "fella",
+    "register": "RED",
+    "us_equivalent": "guy",
+    "gloss": "A man; also a boyfriend or husband ('her fella').",
+    "usage": "Widespread informal word, especially common in the North and Ireland.",
+    "pragmatic_note": null,
+    "pitfall": "Spelt 'fella' or 'feller' when informal; 'fellow' is the neutral written form.",
+    "examples": [
+      "Is she still seeing that fella from work?",
+      "Nice fella, but he never stops talking."
+    ],
+    "collocations": [
+      "her fella",
+      "nice fella"
+    ],
+    "wiki": null,
+    "forms": [
+      "fellas",
+      "feller"
+    ]
+  },
+  {
+    "headword": "guv",
+    "register": "RED",
+    "us_equivalent": "boss",
+    "gloss": "A respectful, jokey way of addressing a man, especially a customer or boss.",
+    "usage": "Associated with London cab drivers, market traders and police dramas.",
+    "pragmatic_note": "Mostly heard now in a slightly comic or nostalgic way.",
+    "pitfall": null,
+    "examples": [
+      "Where to, guv?",
+      "Right you are, guv, I'll get it sorted."
+    ],
+    "collocations": [
+      "all right, guv"
+    ],
+    "wiki": null,
+    "forms": [
+      "guv'nor",
+      "governor"
+    ]
+  },
+  {
+    "headword": "pal",
+    "register": "RED",
+    "us_equivalent": "buddy",
+    "gloss": "A friend; also used to address a man, sometimes aggressively.",
+    "usage": "Very common in Scotland and the North; elsewhere slightly dated.",
+    "pragmatic_note": "'Listen, pal' or 'You what, pal?' signals hostility, not friendship.",
+    "pitfall": null,
+    "examples": [
+      "He's an old pal of mine from university.",
+      "Watch where you're going, pal."
+    ],
+    "collocations": [
+      "old pal",
+      "pen pal"
+    ],
+    "wiki": null,
+    "forms": [
+      "pals",
+      "pally"
+    ]
+  },
+  {
+    "headword": "bruv",
+    "register": "RED",
+    "us_equivalent": "bro",
+    "gloss": "Brother; a friendly way of addressing a male friend.",
+    "usage": "Youth slang from London and Multicultural London English, now heard nationwide among young people.",
+    "pragmatic_note": null,
+    "pitfall": "Sounds forced or comic from older speakers; best understood rather than used.",
+    "examples": [
+      "You all right, bruv?",
+      "Nah, bruv, that's not happening."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "our kid",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "My brother or sister, or a very close friend.",
+    "usage": "Northern English, particularly Manchester and Liverpool.",
+    "pragmatic_note": "Despite 'kid', it can refer to an adult sibling of any age.",
+    "pitfall": null,
+    "examples": [
+      "Our kid's coming up for the weekend.",
+      "I'll ask our kid if he can give us a lift."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "duck",
+    "register": "RED",
+    "us_equivalent": "honey",
+    "gloss": "A friendly term of address, like 'love' or 'dear'.",
+    "usage": "East Midlands and Potteries (Nottingham, Derby, Leicester, Stoke), often 'me duck' or 'ay up, me duck'.",
+    "pragmatic_note": "Shop staff use it with strangers; it is warm, not patronising.",
+    "pitfall": null,
+    "examples": [
+      "Ay up, me duck, what can I get you?",
+      "Mind how you go, duck."
+    ],
+    "collocations": [
+      "me duck",
+      "ay up me duck"
+    ],
+    "wiki": null,
+    "forms": [
+      "duckie"
+    ]
+  },
+  {
+    "headword": "love",
+    "register": "AMBER",
+    "us_equivalent": "honey",
+    "gloss": "A warm, casual term of address used to strangers as well as friends.",
+    "usage": "Common across the UK from shopkeepers, bus drivers and older people; often 'luv' in writing.",
+    "pragmatic_note": "Usually friendly, but some women find it patronising from men in professional settings.",
+    "pitfall": "Avoid using it yourself at work or with people you do not know well.",
+    "examples": [
+      "There you go, love, that's two pounds fifty.",
+      "You all right, love?"
+    ],
+    "collocations": [
+      "thanks, love",
+      "all right, love"
+    ],
+    "wiki": null,
+    "forms": [
+      "luv"
+    ]
+  },
+  {
+    "headword": "pet",
+    "register": "RED",
+    "us_equivalent": "honey",
+    "gloss": "An affectionate term of address, like 'love' or 'dear'.",
+    "usage": "Typical of the North East (Newcastle, Sunderland) and parts of Scotland.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Thanks, pet, you're a star.",
+      "Howay, pet, we'll miss the bus."
+    ],
+    "collocations": [
+      "thanks, pet"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "hen",
+    "register": "RED",
+    "us_equivalent": "honey",
+    "gloss": "An affectionate term for a woman or girl.",
+    "usage": "Scottish, especially Glasgow; used by people of all ages.",
+    "pragmatic_note": null,
+    "pitfall": "Elsewhere in the UK, a 'hen do' is a bride's party before her wedding.",
+    "examples": [
+      "Are you all right there, hen?",
+      "Cheers, hen, see you tomorrow."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "bach",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "A Welsh term of endearment meaning 'little one' or 'dear'.",
+    "usage": "Welsh English, used after a name or alone, as in 'cariad' or 'bach'.",
+    "pragmatic_note": null,
+    "pitfall": "The 'ch' is throaty, as in Scottish 'loch'.",
+    "examples": [
+      "Come here, bach, let me fix your collar.",
+      "Don't worry, bach, it'll be fine."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "missus",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "One's wife or female partner; also a cheeky way to address a woman.",
+    "usage": "Informal and widespread, especially among men talking about their wives.",
+    "pragmatic_note": "'The missus' can sound affectionate or slightly old-fashioned and sexist, depending on context.",
+    "pitfall": null,
+    "examples": [
+      "I'd better check with the missus first.",
+      "The missus is doing a roast on Sunday."
+    ],
+    "collocations": [
+      "the missus"
+    ],
+    "wiki": null,
+    "forms": [
+      "missis"
+    ]
+  },
+  {
+    "headword": "other half",
+    "register": "AMBER",
+    "us_equivalent": "significant other",
+    "gloss": "One's spouse or long-term partner.",
+    "usage": "Common, gender-neutral and polite enough for chatting with colleagues.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "My other half's away on business this week.",
+      "Bring your other half to the party."
+    ],
+    "collocations": [
+      "my other half"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "nan",
+    "register": "AMBER",
+    "us_equivalent": "grandma",
+    "gloss": "Grandmother.",
+    "usage": "Very common across England and Wales; 'gran' and 'granny' are also used.",
+    "pragmatic_note": null,
+    "pitfall": "Do not confuse with 'naan' bread, though the words sound alike.",
+    "examples": [
+      "I'm visiting my nan in Swansea.",
+      "My nan makes the best Victoria sponge."
+    ],
+    "collocations": [
+      "my nan"
+    ],
+    "wiki": null,
+    "forms": [
+      "nana",
+      "nanna",
+      "nans"
+    ]
+  },
+  {
+    "headword": "mam",
+    "register": "RED",
+    "us_equivalent": "mom",
+    "gloss": "Mother.",
+    "usage": "Standard informal form in Northern England, Wales and Ireland, where southern speakers say 'mum'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'mom'; British speakers in the South say 'mum'.",
+    "examples": [
+      "Our mam's making a pot of tea.",
+      "I'll ring me mam later."
+    ],
+    "collocations": [
+      "me mam",
+      "our mam"
+    ],
+    "wiki": null,
+    "forms": [
+      "mammy"
+    ]
+  },
+  {
+    "headword": "nipper",
+    "register": "RED",
+    "us_equivalent": "kid",
+    "gloss": "A small child.",
+    "usage": "Affectionate and slightly old-fashioned, often heard from older people.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I've known him since he was a nipper.",
+      "The nippers are at their gran's today."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "nippers"
+    ]
+  },
+  {
+    "headword": "bairn",
+    "register": "RED",
+    "us_equivalent": "kid",
+    "gloss": "A child.",
+    "usage": "Scottish and North East English (Geordie).",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The bairns are all in bed.",
+      "She's expecting another bairn in the spring."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "bairns"
+    ]
+  },
+  {
+    "headword": "toff",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "An upper-class or very posh person.",
+    "usage": "Informal and mildly mocking, often in the press about wealthy public-school types.",
+    "pragmatic_note": "Used with a mix of resentment and amusement about the class system.",
+    "pitfall": null,
+    "examples": [
+      "The car park was full of toffs in Range Rovers.",
+      "He sounds like a toff but he's from Croydon."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "toffs",
+      "toffee-nosed"
+    ]
+  },
+  {
+    "headword": "boffin",
+    "register": "AMBER",
+    "us_equivalent": "egghead",
+    "gloss": "A scientist or technical expert; often affectionate.",
+    "usage": "Popular in newspapers ('boffins have discovered...') and in casual speech.",
+    "pragmatic_note": "Gently mocking but rarely unkind.",
+    "pitfall": null,
+    "examples": [
+      "Ask the boffins in IT, they'll know.",
+      "Boffins have found a way to recycle plastic bags."
+    ],
+    "collocations": [
+      "computer boffin",
+      "the boffins"
+    ],
+    "wiki": null,
+    "forms": [
+      "boffins"
+    ]
+  },
+  {
+    "headword": "anorak",
+    "register": "AMBER",
+    "us_equivalent": "nerd",
+    "gloss": "A person obsessively interested in a dull or technical hobby.",
+    "usage": "Informal; comes from the waterproof jackets worn by trainspotters.",
+    "pragmatic_note": null,
+    "pitfall": "Also simply a hooded waterproof jacket, so context matters.",
+    "examples": [
+      "I'm a bit of an anorak about old railway maps.",
+      "Only an anorak would know that."
+    ],
+    "collocations": [
+      "bit of an anorak"
+    ],
+    "wiki": null,
+    "forms": [
+      "anoraks"
+    ]
+  },
+  {
+    "headword": "swot",
+    "register": "RED",
+    "us_equivalent": "nerd",
+    "gloss": "A person who studies very hard; to study hard, especially for an exam.",
+    "usage": "School slang that adults still use, often teasingly.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'grind' or 'nerd'; 'swot up on' means to revise a topic.",
+    "examples": [
+      "Stop being such a swot and come out.",
+      "I need to swot up on the case before the meeting."
+    ],
+    "collocations": [
+      "swot up",
+      "teacher's swot"
+    ],
+    "wiki": null,
+    "forms": [
+      "swots",
+      "swotting",
+      "swotted",
+      "swotty"
+    ]
+  },
+  {
+    "headword": "jobsworth",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "An official who sticks to petty rules unhelpfully.",
+    "usage": "Common complaint about officious staff, from 'it's more than my job's worth'.",
+    "pragmatic_note": "A classic British grumble about bureaucracy.",
+    "pitfall": null,
+    "examples": [
+      "Some jobsworth wouldn't let me park for two minutes.",
+      "Don't be such a jobsworth, just let him in."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "jobsworths"
+    ]
+  },
+  {
+    "headword": "nosy parker",
+    "register": "RED",
+    "us_equivalent": "busybody",
+    "gloss": "A person who is too interested in other people's business.",
+    "usage": "Informal and slightly old-fashioned, often said teasingly.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Our neighbour's a right nosy parker.",
+      "Don't be such a nosy parker."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "nosy parkers",
+      "nosey parker"
+    ]
+  },
+  {
+    "headword": "clever clogs",
+    "register": "RED",
+    "us_equivalent": "smart aleck",
+    "gloss": "A person who shows off their cleverness, often irritatingly.",
+    "usage": "Playful teasing, often aimed at children or friends.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "All right, clever clogs, you do it then.",
+      "Some clever clogs has changed the Wi-Fi password."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "chancer",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "Someone who takes risks or tries their luck, often dishonestly.",
+    "usage": "Common in Scotland, Ireland and across the UK.",
+    "pragmatic_note": "Can be grudgingly admiring as well as critical.",
+    "pitfall": null,
+    "examples": [
+      "He's a bit of a chancer, so check the paperwork.",
+      "Some chancer asked for a refund without a receipt."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "chancers"
+    ]
+  },
+  {
+    "headword": "punter",
+    "register": "AMBER",
+    "us_equivalent": "customer",
+    "gloss": "A customer or member of the public; also a person who bets.",
+    "usage": "Common in business, retail and entertainment; slightly informal but heard in offices.",
+    "pragmatic_note": "Calling customers 'punters' can sound a bit dismissive.",
+    "pitfall": null,
+    "examples": [
+      "The punters loved the new menu.",
+      "We need to keep the punters happy."
+    ],
+    "collocations": [
+      "the punters",
+      "the average punter"
+    ],
+    "wiki": null,
+    "forms": [
+      "punters"
+    ]
+  },
+  {
+    "headword": "yob",
+    "register": "RED",
+    "us_equivalent": "thug",
+    "gloss": "A rude, loud, sometimes violent young man.",
+    "usage": "Common in tabloids and everyday complaints; 'yobbo' is a variant.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "A gang of yobs smashed the bus shelter.",
+      "Don't act like a yob in the restaurant."
+    ],
+    "collocations": [
+      "yob culture"
+    ],
+    "wiki": null,
+    "forms": [
+      "yobs",
+      "yobbo",
+      "yobbish"
+    ]
+  },
+  {
+    "headword": "toerag",
+    "register": "RED",
+    "us_equivalent": "jerk",
+    "gloss": "A mischievous or contemptible person; a rascal.",
+    "usage": "Mild insult, often said with half-affection about cheeky children.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Some little toerag nicked my bike.",
+      "Come here, you cheeky toerag!"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "toerags"
+    ]
+  },
+  {
+    "headword": "scallywag",
+    "register": "RED",
+    "us_equivalent": "rascal",
+    "gloss": "A mischievous person, especially a child; affectionate.",
+    "usage": "Playful and old-fashioned; often said to children.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Those scallywags have eaten all the biscuits.",
+      "He's a lovable scallywag."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "scallywags"
+    ]
+  },
+  {
+    "headword": "bezzie",
+    "register": "RED",
+    "us_equivalent": "BFF",
+    "gloss": "Best friend.",
+    "usage": "Informal, popular with young people, especially in the North.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She's my bezzie from school.",
+      "We've been bezzies for twenty years."
+    ],
+    "collocations": [
+      "bezzie mate"
+    ],
+    "wiki": null,
+    "forms": [
+      "bezzy",
+      "bezzies"
+    ]
+  },
+  {
+    "headword": "Scouser",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A person from Liverpool; 'Scouse' is the accent and dialect.",
+    "usage": "Standard informal demonym, used with pride by Liverpudlians.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She's a Scouser, so she's a big football fan.",
+      "I love the Scouse accent."
+    ],
+    "collocations": [
+      "Scouse accent"
+    ],
+    "wiki": null,
+    "forms": [
+      "Scousers",
+      "Scouse"
+    ]
+  },
+  {
+    "headword": "Geordie",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A person from Newcastle upon Tyne or Tyneside; also their dialect.",
+    "usage": "Standard informal demonym, used proudly in the North East.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He's a Geordie, born and bred.",
+      "I couldn't follow the Geordie accent at first."
+    ],
+    "collocations": [
+      "Geordie accent"
+    ],
+    "wiki": null,
+    "forms": [
+      "Geordies"
+    ]
+  },
+  {
+    "headword": "Brummie",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A person from Birmingham; also the Birmingham accent.",
+    "usage": "Standard informal demonym; Birmingham itself is informally 'Brum'.",
+    "pragmatic_note": "The accent is often unfairly mocked, which locals understandably resent.",
+    "pitfall": null,
+    "examples": [
+      "My dad's a Brummie.",
+      "We're heading up to Brum for the weekend."
+    ],
+    "collocations": [
+      "Brummie accent",
+      "Brum"
+    ],
+    "wiki": null,
+    "forms": [
+      "Brummies",
+      "Brum"
+    ]
+  },
+  {
+    "headword": "copper",
+    "register": "RED",
+    "us_equivalent": "cop",
+    "gloss": "A police officer; in the plural, also small brown coins.",
+    "usage": "Common and fairly neutral informal word for police across the UK.",
+    "pragmatic_note": null,
+    "pitfall": "'Coppers' can also mean small change: 'a few coppers'.",
+    "examples": [
+      "Ask a copper if you get lost.",
+      "I've only got a few coppers in my purse."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "coppers"
+    ]
+  },
+  {
+    "headword": "Old Bill",
+    "register": "RED",
+    "us_equivalent": "the cops",
+    "gloss": "The police.",
+    "usage": "London and South East, usually 'the Old Bill'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Leave it, the Old Bill are here.",
+      "Someone called the Old Bill on the party."
+    ],
+    "collocations": [
+      "the Old Bill"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "bobby",
+    "register": "AMBER",
+    "us_equivalent": "cop",
+    "gloss": "A police officer, especially one on foot patrol.",
+    "usage": "Affectionate, slightly old-fashioned; 'bobbies on the beat' is a political cliché.",
+    "pragmatic_note": "Named after Sir Robert Peel, who founded the Metropolitan Police.",
+    "pitfall": null,
+    "examples": [
+      "We need more bobbies on the beat.",
+      "A bobby showed us the way to the station."
+    ],
+    "collocations": [
+      "bobby on the beat"
+    ],
+    "wiki": null,
+    "forms": [
+      "bobbies"
+    ]
+  },
+  {
+    "headword": "grass",
+    "register": "RED",
+    "us_equivalent": "snitch",
+    "gloss": "An informer, especially to the police; to inform on someone.",
+    "usage": "Common in crime slang, school and everyday speech; 'grass someone up' is the phrasal form.",
+    "pragmatic_note": "Being a 'grass' carries strong social stigma.",
+    "pitfall": null,
+    "examples": [
+      "Someone grassed him up to the boss.",
+      "Nobody likes a grass."
+    ],
+    "collocations": [
+      "grass up",
+      "supergrass"
+    ],
+    "wiki": null,
+    "forms": [
+      "grassed",
+      "grassing",
+      "grasses"
+    ]
+  },
+  {
+    "headword": "plonker",
+    "register": "RED",
+    "us_equivalent": "jerk",
+    "gloss": "A foolish or clumsy person.",
+    "usage": "Mild, comic insult made famous by the sitcom Only Fools and Horses.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "You plonker, you've locked the keys in the car!",
+      "I felt a right plonker when I fell over."
+    ],
+    "collocations": [
+      "right plonker"
+    ],
+    "wiki": null,
+    "forms": [
+      "plonkers"
+    ]
+  },
+  {
+    "headword": "muppet",
+    "register": "RED",
+    "us_equivalent": "idiot",
+    "gloss": "A foolish or incompetent person.",
+    "usage": "Very common mild insult, often about drivers, footballers or officials.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Some muppet's parked across my drive.",
+      "I'm such a muppet, I forgot my ticket."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "muppets"
+    ]
+  },
+  {
+    "headword": "numpty",
+    "register": "RED",
+    "us_equivalent": "dummy",
+    "gloss": "A silly or stupid person.",
+    "usage": "Originally Scottish, now heard throughout the UK; usually affectionate.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "You numpty, that's the wrong train!",
+      "I've been a total numpty and lost my phone."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "numpties"
+    ]
+  },
+  {
+    "headword": "pillock",
+    "register": "RED",
+    "us_equivalent": "idiot",
+    "gloss": "A stupid or annoying person.",
+    "usage": "Mild insult, common in England, especially the North.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Stop acting like a pillock.",
+      "Some pillock has taken my lunch out of the fridge."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "pillocks"
+    ]
+  },
+  {
+    "headword": "prat",
+    "register": "RED",
+    "us_equivalent": "jerk",
+    "gloss": "A foolish, often self-important person.",
+    "usage": "Common mild insult; to 'make a prat of yourself' is to look silly.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He made a right prat of himself at the party.",
+      "Don't be a prat, it was only a joke."
+    ],
+    "collocations": [
+      "right prat"
+    ],
+    "wiki": null,
+    "forms": [
+      "prats",
+      "prattish"
+    ]
+  },
+  {
+    "headword": "twit",
+    "register": "RED",
+    "us_equivalent": "dummy",
+    "gloss": "A silly or foolish person.",
+    "usage": "Very mild, slightly old-fashioned; safe to use playfully with friends.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "You silly twit, you've got it upside down.",
+      "I felt such a twit."
+    ],
+    "collocations": [
+      "silly twit"
+    ],
+    "wiki": null,
+    "forms": [
+      "twits"
+    ]
+  },
+  {
+    "headword": "wally",
+    "register": "RED",
+    "us_equivalent": "dork",
+    "gloss": "A silly, foolish person.",
+    "usage": "Mild and rather dated; often used with children or affectionately.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Don't be a wally, put your coat on.",
+      "I looked a right wally in that hat."
+    ],
+    "collocations": [
+      "right wally"
+    ],
+    "wiki": null,
+    "forms": [
+      "wallies"
+    ]
+  },
+  {
+    "headword": "git",
+    "register": "RED",
+    "us_equivalent": "jerk",
+    "gloss": "An unpleasant or annoying person, usually a man.",
+    "usage": "Mild but genuinely rude insult; 'old git' and 'jammy git' are common.",
+    "pragmatic_note": null,
+    "pitfall": "Unrelated to the software tool; avoid it in any professional setting.",
+    "examples": [
+      "The jammy git won the raffle again.",
+      "He's a miserable old git."
+    ],
+    "collocations": [
+      "old git",
+      "jammy git",
+      "flash git"
+    ],
+    "wiki": null,
+    "forms": [
+      "gits"
+    ]
+  },
+  {
+    "headword": "wazzock",
+    "register": "RED",
+    "us_equivalent": "idiot",
+    "gloss": "A stupid or annoying person.",
+    "usage": "Northern English, especially Yorkshire; comic in tone.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "You daft wazzock, you've missed the turning.",
+      "Some wazzock left the gate open."
+    ],
+    "collocations": [
+      "daft wazzock"
+    ],
+    "wiki": null,
+    "forms": [
+      "wazzocks"
+    ]
+  },
+  {
+    "headword": "daft",
+    "register": "RED",
+    "us_equivalent": "silly",
+    "gloss": "Silly, foolish or not sensible.",
+    "usage": "Very common everywhere, especially the North; usually gentle rather than harsh.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Don't be daft, of course you can stay.",
+      "That's a daft idea."
+    ],
+    "collocations": [
+      "daft idea",
+      "don't be daft",
+      "daft as a brush"
+    ],
+    "wiki": null,
+    "forms": [
+      "dafter",
+      "daftest"
+    ]
+  },
+  {
+    "headword": "dozy",
+    "register": "RED",
+    "us_equivalent": "spacey",
+    "gloss": "Slow to understand; half-asleep or not paying attention.",
+    "usage": "Mild insult, often to someone who has made a careless mistake.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "You dozy thing, you've put salt in my tea.",
+      "I'm a bit dozy this morning."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "dozier"
+    ]
+  },
+  {
+    "headword": "gormless",
+    "register": "RED",
+    "us_equivalent": "clueless",
+    "gloss": "Stupid and slow, often looking vacant.",
+    "usage": "Northern origin, now common everywhere; mildly insulting.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He just stood there with a gormless look on his face.",
+      "Don't look so gormless."
+    ],
+    "collocations": [
+      "gormless look"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "thick",
+    "register": "RED",
+    "us_equivalent": "dumb",
+    "gloss": "Stupid; slow to understand.",
+    "usage": "Common blunt insult; 'thick as two short planks' is a classic simile.",
+    "pragmatic_note": null,
+    "pitfall": "Also means dense or close friends ('thick as thieves'), so context matters.",
+    "examples": [
+      "I'm not thick, I just didn't hear you.",
+      "Sorry, I'm being thick, can you explain again?"
+    ],
+    "collocations": [
+      "thick as two short planks",
+      "being thick"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "bonkers",
+    "register": "RED",
+    "us_equivalent": "nuts",
+    "gloss": "Mad, crazy or wildly unreasonable.",
+    "usage": "Very common, light-hearted way to describe an idea, situation or person.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The price of a flat in London is bonkers.",
+      "You're bonkers to swim in the sea in March."
+    ],
+    "collocations": [
+      "stark raving bonkers",
+      "absolutely bonkers"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "barmy",
+    "register": "RED",
+    "us_equivalent": "nuts",
+    "gloss": "Mad or foolishly eccentric.",
+    "usage": "Light-hearted; famous in 'the Barmy Army', England's cricket fans.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "That's a barmy idea, but I love it.",
+      "My aunt's a bit barmy."
+    ],
+    "collocations": [
+      "Barmy Army"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "crackers",
+    "register": "RED",
+    "us_equivalent": "nuts",
+    "gloss": "Crazy or mad.",
+    "usage": "Informal and playful, often 'you're crackers'.",
+    "pragmatic_note": null,
+    "pitfall": "Also the paper crackers pulled at Christmas, and biscuits for cheese.",
+    "examples": [
+      "You're crackers to drive all that way.",
+      "The dog goes crackers when the postman comes."
+    ],
+    "collocations": [
+      "go crackers"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "cheeky",
+    "register": "AMBER",
+    "us_equivalent": "sassy",
+    "gloss": "Slightly rude or disrespectful in a playful way; also mischievously indulgent.",
+    "usage": "Hugely common; 'a cheeky pint' or 'a cheeky biscuit' means a small treat you probably shouldn't have.",
+    "pragmatic_note": "Often admiring: a cheeky grin or cheeky request is charming, not offensive.",
+    "pitfall": null,
+    "examples": [
+      "Don't be cheeky to your teacher.",
+      "Fancy a cheeky drink after work?"
+    ],
+    "collocations": [
+      "cheeky grin",
+      "cheeky pint",
+      "cheeky monkey"
+    ],
+    "wiki": null,
+    "forms": [
+      "cheek",
+      "cheekily",
+      "cheekier"
+    ]
+  },
+  {
+    "headword": "gobby",
+    "register": "RED",
+    "us_equivalent": "mouthy",
+    "gloss": "Loud, outspoken and opinionated, often rudely so.",
+    "usage": "Informal, mainly England; from 'gob' meaning mouth.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She's a bit gobby, but she's honest.",
+      "Some gobby lad was shouting on the bus."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "stroppy",
+    "register": "RED",
+    "us_equivalent": "cranky",
+    "gloss": "Bad-tempered, awkward and argumentative.",
+    "usage": "Very common, especially about teenagers, customers or colleagues.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She gets stroppy if she hasn't eaten.",
+      "Don't get stroppy with me, I'm only asking."
+    ],
+    "collocations": [
+      "get stroppy"
+    ],
+    "wiki": null,
+    "forms": [
+      "stroppier"
+    ]
+  },
+  {
+    "headword": "strop",
+    "register": "RED",
+    "us_equivalent": "tantrum",
+    "gloss": "A fit of bad temper or sulking.",
+    "usage": "Usually 'in a strop' or 'throw a strop'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He's in a strop because he lost the match.",
+      "She threw a strop and walked out."
+    ],
+    "collocations": [
+      "in a strop",
+      "throw a strop"
+    ],
+    "wiki": null,
+    "forms": [
+      "strops"
+    ]
+  },
+  {
+    "headword": "mardy",
+    "register": "RED",
+    "us_equivalent": "grumpy",
+    "gloss": "Sulky, moody or easily upset.",
+    "usage": "Northern and Midlands English; also 'mardy bum'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Don't be so mardy, it was only a joke.",
+      "He's been mardy all morning."
+    ],
+    "collocations": [
+      "mardy bum"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "ratty",
+    "register": "RED",
+    "us_equivalent": "cranky",
+    "gloss": "Irritable and short-tempered.",
+    "usage": "Informal and common, often about tiredness or hunger.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I get a bit ratty when I'm tired.",
+      "Sorry I was ratty with you earlier."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "rattier"
+    ]
+  },
+  {
+    "headword": "miffed",
+    "register": "RED",
+    "us_equivalent": "ticked off",
+    "gloss": "Slightly annoyed or offended.",
+    "usage": "Informal and gently understated; a classic British way to downplay irritation.",
+    "pragmatic_note": "Saying you're 'a bit miffed' may hide real annoyance.",
+    "pitfall": null,
+    "examples": [
+      "I was a bit miffed they didn't invite me.",
+      "She seemed quite miffed about it."
+    ],
+    "collocations": [
+      "a bit miffed"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "narked",
+    "register": "RED",
+    "us_equivalent": "ticked off",
+    "gloss": "Annoyed or irritated.",
+    "usage": "Informal and mainly English, often 'well narked' or 'a bit narked'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He was well narked about the parking ticket.",
+      "Don't get narked, it's not my fault."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "nark"
+    ]
+  },
+  {
+    "headword": "cheesed off",
+    "register": "RED",
+    "us_equivalent": "fed up",
+    "gloss": "Annoyed, bored or fed up.",
+    "usage": "Informal and a little dated, but still widely understood.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm really cheesed off with this weather.",
+      "She's cheesed off about her train being cancelled."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "fuming",
+    "register": "AMBER",
+    "us_equivalent": "furious",
+    "gloss": "Extremely angry.",
+    "usage": "Common in speech and texts, often as a joking exaggeration.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I was fuming when they cancelled the train.",
+      "She's absolutely fuming."
+    ],
+    "collocations": [
+      "absolutely fuming"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "livid",
+    "register": "AMBER",
+    "us_equivalent": "furious",
+    "gloss": "Furiously angry.",
+    "usage": "Widely used in British conversation, more than in American English.",
+    "pragmatic_note": null,
+    "pitfall": "'Livid' can also describe a dark bruise colour, but the anger sense is far more common.",
+    "examples": [
+      "My dad was livid when he saw the scratch.",
+      "I was livid with myself."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "the hump",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "A sulky, annoyed mood.",
+    "usage": "Usually 'got the hump' or 'take the hump'; common in England.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He's got the hump because we started without him.",
+      "Don't take the hump, I was joking."
+    ],
+    "collocations": [
+      "got the hump",
+      "take the hump"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "wobbly",
+    "register": "RED",
+    "us_equivalent": "meltdown",
+    "gloss": "A sudden fit of anger or panic, usually 'throw a wobbly'.",
+    "usage": "Informal and humorous, used about adults and children alike.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She threw a wobbly when the flight was delayed.",
+      "Don't throw a wobbly, we'll sort it out."
+    ],
+    "collocations": [
+      "throw a wobbly"
+    ],
+    "wiki": null,
+    "forms": [
+      "wobblies"
+    ]
+  },
+  {
+    "headword": "brilliant",
+    "register": "AMBER",
+    "us_equivalent": "awesome",
+    "gloss": "Great, excellent; also used simply to mean 'thanks, that's good'.",
+    "usage": "Hugely common British reaction word; often shortened to 'brill'.",
+    "pragmatic_note": "Can be sarcastic: 'Oh, brilliant' after bad news means the opposite.",
+    "pitfall": "In British speech it rarely means 'very intelligent' in casual use.",
+    "examples": [
+      "You've fixed it? Brilliant, thanks.",
+      "Oh, brilliant, the train's cancelled again."
+    ],
+    "collocations": [
+      "absolutely brilliant"
+    ],
+    "wiki": null,
+    "forms": [
+      "brill"
+    ]
+  },
+  {
+    "headword": "smashing",
+    "register": "RED",
+    "us_equivalent": "terrific",
+    "gloss": "Excellent; wonderful.",
+    "usage": "Cheerful and slightly old-fashioned, loved by older speakers.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We had a smashing time at the seaside.",
+      "That's smashing, thank you, love."
+    ],
+    "collocations": [
+      "smashing time"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "lovely",
+    "register": "AMBER",
+    "us_equivalent": "great",
+    "gloss": "Very nice or pleasant; also a general word of approval or thanks.",
+    "usage": "Ubiquitous in British speech: 'lovely, thanks' closes many small transactions.",
+    "pragmatic_note": "British speakers use it far more broadly than Americans, for objects, weather, people and plans.",
+    "pitfall": null,
+    "examples": [
+      "Lovely, see you at six then.",
+      "What a lovely day for it."
+    ],
+    "collocations": [
+      "lovely jubbly",
+      "lovely, thanks"
+    ],
+    "wiki": null,
+    "forms": [
+      "lovelier",
+      "loveliest"
+    ]
+  },
+  {
+    "headword": "cracking",
+    "register": "RED",
+    "us_equivalent": "awesome",
+    "gloss": "Excellent; very good.",
+    "usage": "Informal and enthusiastic, popular in sports commentary.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "That was a cracking goal.",
+      "We had a cracking night out."
+    ],
+    "collocations": [
+      "cracking goal",
+      "cracking job"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "ace",
+    "register": "RED",
+    "us_equivalent": "awesome",
+    "gloss": "Excellent; brilliant.",
+    "usage": "Informal and a bit dated, though still common in the North.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The gig was ace.",
+      "Ace, I'll see you there."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "wicked",
+    "register": "RED",
+    "us_equivalent": "awesome",
+    "gloss": "Excellent; great.",
+    "usage": "Youth slang from the 1980s and 1990s, still heard.",
+    "pragmatic_note": null,
+    "pitfall": "Means the opposite of its standard sense (evil), so tone is key.",
+    "examples": [
+      "That new game is wicked.",
+      "Wicked, see you later!"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "mint",
+    "register": "RED",
+    "us_equivalent": "awesome",
+    "gloss": "Excellent; in perfect condition.",
+    "usage": "Northern English and youth slang; 'in mint condition' is standard.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "That was mint, let's go again!",
+      "The car's in mint condition."
+    ],
+    "collocations": [
+      "mint condition"
+    ],
+    "wiki": null,
+    "forms": [
+      "minty"
+    ]
+  },
+  {
+    "headword": "lush",
+    "register": "RED",
+    "us_equivalent": "gorgeous",
+    "gloss": "Lovely, delicious or attractive.",
+    "usage": "Especially Welsh and West Country English; increasingly heard elsewhere.",
+    "pragmatic_note": null,
+    "pitfall": "In American English 'lush' can mean a heavy drinker.",
+    "examples": [
+      "This cake is lush.",
+      "Your hair looks lush."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "tidy",
+    "register": "RED",
+    "us_equivalent": "great",
+    "gloss": "Good, fine or attractive.",
+    "usage": "Welsh English: 'tidy' means good, as in 'a tidy job' or 'that's tidy, that is'.",
+    "pragmatic_note": null,
+    "pitfall": "Elsewhere 'tidy' mostly means neat, and 'a tidy sum' means a large amount of money.",
+    "examples": [
+      "That's a tidy little car, that is.",
+      "Tidy, see you in the pub later."
+    ],
+    "collocations": [
+      "tidy sum"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "boss",
+    "register": "RED",
+    "us_equivalent": "awesome",
+    "gloss": "Excellent; great.",
+    "usage": "Scouse (Liverpool) slang: 'that's boss'.",
+    "pragmatic_note": null,
+    "pitfall": "Elsewhere 'boss' is just a manager.",
+    "examples": [
+      "The match was boss.",
+      "That new chippy is dead boss."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "sound",
+    "register": "RED",
+    "us_equivalent": "cool",
+    "gloss": "Good, reliable or trustworthy; also 'OK, fine'.",
+    "usage": "Very common in the North, Liverpool, Ireland and among young people.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He's sound, you can trust him.",
+      "Sound, see you at eight."
+    ],
+    "collocations": [
+      "sound as a pound"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "safe",
+    "register": "RED",
+    "us_equivalent": "cool",
+    "gloss": "Fine, good, trustworthy; also a casual 'OK' or 'goodbye'.",
+    "usage": "London youth slang, now heard among young people across the UK.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Safe, bruv, see you later.",
+      "He's safe, don't worry."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "quality",
+    "register": "RED",
+    "us_equivalent": "awesome",
+    "gloss": "Excellent; as an exclamation, 'great'.",
+    "usage": "Informal, especially among young men and football fans.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "That was quality, mate.",
+      "Free pizza? Quality."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "belting",
+    "register": "RED",
+    "us_equivalent": "awesome",
+    "gloss": "Excellent; also 'belting it down' means pouring with rain.",
+    "usage": "Northern English and Scottish; 'a belter' is something brilliant.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "That was a belting song.",
+      "What a belter of a goal!"
+    ],
+    "collocations": [
+      "absolute belter"
+    ],
+    "wiki": null,
+    "forms": [
+      "belter"
+    ]
+  },
+  {
+    "headword": "canny",
+    "register": "RED",
+    "us_equivalent": "pretty",
+    "gloss": "Nice or good; also 'quite' or 'very'.",
+    "usage": "Geordie (North East) usage; in Scotland it also means careful or shrewd.",
+    "pragmatic_note": null,
+    "pitfall": "Standard English 'canny' means shrewd, as in 'a canny investor'.",
+    "examples": [
+      "She's a canny lass.",
+      "It's canny cold out there."
+    ],
+    "collocations": [
+      "canny lass"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "fab",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "Fabulous; wonderful.",
+    "usage": "Light, enthusiastic informal word, popular since the 1960s.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "You look fab!",
+      "Fab, see you Friday."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "fabby"
+    ]
+  },
+  {
+    "headword": "top",
+    "register": "RED",
+    "us_equivalent": "great",
+    "gloss": "Excellent; first-rate, especially of a person.",
+    "usage": "Informal praise: 'a top bloke', 'top stuff'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Cheers for the lift, you're a top bloke.",
+      "Top stuff, thanks."
+    ],
+    "collocations": [
+      "top bloke",
+      "top stuff",
+      "top man"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "cushy",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "Easy, comfortable and undemanding.",
+    "usage": "Common in Britain and elsewhere, typically 'a cushy job'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He's got a cushy job in an office.",
+      "It's a cushy life for some."
+    ],
+    "collocations": [
+      "cushy number",
+      "cushy job"
+    ],
+    "wiki": null,
+    "forms": [
+      "cushier"
+    ]
+  },
+  {
+    "headword": "spot on",
+    "register": "AMBER",
+    "us_equivalent": "right on",
+    "gloss": "Exactly right; perfect.",
+    "usage": "Very common, safe in friendly workplace chat.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Your estimate was spot on.",
+      "Spot on, that's exactly what I meant."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "bang on",
+    "register": "RED",
+    "us_equivalent": "dead on",
+    "gloss": "Exactly right; precisely.",
+    "usage": "Informal; 'bang on time' means exactly on time.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She arrived bang on time.",
+      "Your analysis is bang on."
+    ],
+    "collocations": [
+      "bang on time"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "fit",
+    "register": "RED",
+    "us_equivalent": "hot",
+    "gloss": "Physically attractive.",
+    "usage": "Common informal slang, especially among young people.",
+    "pragmatic_note": null,
+    "pitfall": "Context matters: 'fit' also means healthy and in good shape.",
+    "examples": [
+      "Her brother's well fit.",
+      "Did you see that fit lifeguard?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "fitter"
+    ]
+  },
+  {
+    "headword": "result",
+    "register": "RED",
+    "us_equivalent": "score",
+    "gloss": "An exclamation meaning 'success!' or 'what luck!'.",
+    "usage": "Informal, especially among football fans and young people.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Ten pounds off? Result!",
+      "The bus was on time, result."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "naff",
+    "register": "RED",
+    "us_equivalent": "tacky",
+    "gloss": "Uncool, tasteless or cheap-looking.",
+    "usage": "Very common for clothes, decor, music and ideas.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "That jumper's a bit naff.",
+      "The decorations were really naff."
+    ],
+    "collocations": [
+      "a bit naff"
+    ],
+    "wiki": null,
+    "forms": [
+      "naffer"
+    ]
+  },
+  {
+    "headword": "rubbish",
+    "register": "AMBER",
+    "us_equivalent": "bad",
+    "gloss": "Of poor quality, or bad at something; also nonsense.",
+    "usage": "Extremely common judgement word: 'I'm rubbish at maths', 'the film was rubbish'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'garbage' or 'trash' for waste; British 'rubbish' covers both waste and 'bad'.",
+    "examples": [
+      "I'm rubbish at remembering names.",
+      "That's rubbish, he never said that."
+    ],
+    "collocations": [
+      "absolute rubbish",
+      "rubbish at"
+    ],
+    "wiki": null,
+    "forms": [
+      "rubbished"
+    ]
+  },
+  {
+    "headword": "pants",
+    "register": "RED",
+    "us_equivalent": "lame",
+    "gloss": "Rubbish; of poor quality.",
+    "usage": "Informal and humorous, popular in the 1990s and still used for anything disappointing.",
+    "pragmatic_note": null,
+    "pitfall": "In British English 'pants' are underwear; trousers are 'trousers' (unlike US and Indian English).",
+    "examples": [
+      "The film was pants.",
+      "My French is pants."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "duff",
+    "register": "RED",
+    "us_equivalent": "busted",
+    "gloss": "Useless, faulty or not working.",
+    "usage": "Informal, often 'a duff battery' or 'a duff note'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I think the battery's duff.",
+      "He sang a duff note."
+    ],
+    "collocations": [
+      "duff note"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "ropey",
+    "register": "AMBER",
+    "us_equivalent": "iffy",
+    "gloss": "Of poor quality; also feeling slightly unwell.",
+    "usage": "Informal but mild; heard in friendly chat at work.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The Wi-Fi is a bit ropey here.",
+      "I'm feeling a bit ropey after last night."
+    ],
+    "collocations": [
+      "a bit ropey"
+    ],
+    "wiki": null,
+    "forms": [
+      "ropy"
+    ]
+  },
+  {
+    "headword": "iffy",
+    "register": "AMBER",
+    "us_equivalent": "sketchy",
+    "gloss": "Doubtful, uncertain or of questionable quality.",
+    "usage": "Common and mild; safe in casual workplace chat.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The weather looks a bit iffy.",
+      "That milk smells iffy."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "hairy",
+    "register": "RED",
+    "us_equivalent": "scary",
+    "gloss": "Frightening or dangerous.",
+    "usage": "Informal, usually 'a bit hairy', for close calls when driving, flying or in sport.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The landing was a bit hairy.",
+      "Things got hairy on the motorway."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "hairier"
+    ]
+  },
+  {
+    "headword": "grotty",
+    "register": "RED",
+    "us_equivalent": "crummy",
+    "gloss": "Unpleasant, dirty or of poor quality.",
+    "usage": "Informal; also 'feeling grotty' means feeling unwell.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We stayed in a grotty little hotel.",
+      "I'm feeling a bit grotty today."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "grottier"
+    ]
+  },
+  {
+    "headword": "minging",
+    "register": "RED",
+    "us_equivalent": "gross",
+    "gloss": "Disgusting, dirty or foul-smelling.",
+    "usage": "Originally Scottish, now common among young people across the UK.",
+    "pragmatic_note": null,
+    "pitfall": "Avoid using it about people; it is insulting.",
+    "examples": [
+      "The kitchen was minging.",
+      "That burger smells minging."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "mingin'"
+    ]
+  },
+  {
+    "headword": "manky",
+    "register": "RED",
+    "us_equivalent": "gross",
+    "gloss": "Dirty, worn or unpleasant.",
+    "usage": "Informal, especially in the North and Scotland.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Chuck that manky old towel out.",
+      "These trainers are manky."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "rank",
+    "register": "RED",
+    "us_equivalent": "nasty",
+    "gloss": "Disgusting; very unpleasant.",
+    "usage": "Common among young people for food, smells and places.",
+    "pragmatic_note": null,
+    "pitfall": "Also the standard senses of 'status' and 'smelling strongly'.",
+    "examples": [
+      "That sandwich is rank.",
+      "Ugh, it smells rank in here."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "grim",
+    "register": "AMBER",
+    "us_equivalent": "bleak",
+    "gloss": "Very unpleasant or depressing.",
+    "usage": "Common understatement; 'it's grim up North' is a well-known joke.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The weather's grim today.",
+      "The hotel was pretty grim."
+    ],
+    "collocations": [
+      "pretty grim"
+    ],
+    "wiki": null,
+    "forms": [
+      "grimmer"
+    ]
+  },
+  {
+    "headword": "tat",
+    "register": "RED",
+    "us_equivalent": "junk",
+    "gloss": "Cheap, tasteless or useless objects.",
+    "usage": "Common, especially for souvenirs and market goods.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The shop sells nothing but tourist tat.",
+      "I need to clear out all this tat."
+    ],
+    "collocations": [
+      "tourist tat"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "bog-standard",
+    "register": "AMBER",
+    "us_equivalent": "plain vanilla",
+    "gloss": "Completely ordinary; basic, with no special features.",
+    "usage": "Very common and fairly safe in casual work chat.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "It's just a bog-standard laptop.",
+      "We had a bog-standard hotel room."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "shambolic",
+    "register": "AMBER",
+    "us_equivalent": "chaotic",
+    "gloss": "Chaotic, disorganised and badly run.",
+    "usage": "Common British word in conversation and the press, from 'shambles'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The whole event was shambolic.",
+      "Their defence was shambolic in the second half."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "shambles"
+    ]
+  },
+  {
+    "headword": "pear-shaped",
+    "register": "AMBER",
+    "us_equivalent": "go south",
+    "gloss": "Of a plan: gone wrong; failed.",
+    "usage": "Almost always 'go pear-shaped' or 'it all went pear-shaped'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The project went pear-shaped in the second month.",
+      "It all went a bit pear-shaped."
+    ],
+    "collocations": [
+      "go pear-shaped"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "Pete Tong",
+    "register": "RED",
+    "us_equivalent": "wrong",
+    "gloss": "Wrong, as in 'gone Pete Tong'; Cockney-style rhyming slang.",
+    "usage": "Informal, playful; from the DJ's name rhyming with 'wrong'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The whole night went Pete Tong.",
+      "If this goes Pete Tong, it's your fault."
+    ],
+    "collocations": [
+      "go Pete Tong"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "cack-handed",
+    "register": "RED",
+    "us_equivalent": "clumsy",
+    "gloss": "Clumsy and awkward; also, old-fashioned, left-handed.",
+    "usage": "Informal, common for clumsy work or a badly handled situation.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Sorry, I'm a bit cack-handed with tools.",
+      "It was a cack-handed attempt at an apology."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "clapped-out",
+    "register": "RED",
+    "us_equivalent": "beat-up",
+    "gloss": "Old, worn out and barely working, especially of a car.",
+    "usage": "Informal and common for old cars, machines and appliances.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He drives a clapped-out old Fiesta.",
+      "The boiler is completely clapped-out."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "clapped out"
+    ]
+  },
+  {
+    "headword": "wonky",
+    "register": "RED",
+    "us_equivalent": "crooked",
+    "gloss": "Crooked, unsteady or not working properly.",
+    "usage": "Common and light-hearted: 'wonky shelf', 'wonky Wi-Fi'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The picture's a bit wonky.",
+      "This table's got a wonky leg."
+    ],
+    "collocations": [
+      "wonky leg"
+    ],
+    "wiki": null,
+    "forms": [
+      "wonkier"
+    ]
+  },
+  {
+    "headword": "higgledy-piggledy",
+    "register": "RED",
+    "us_equivalent": "helter-skelter",
+    "gloss": "In a confused, disorderly jumble.",
+    "usage": "Playful, slightly old-fashioned; common in descriptions of old towns and messy rooms.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The streets are all higgledy-piggledy.",
+      "Books were piled higgledy-piggledy on the floor."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "posh",
+    "register": "AMBER",
+    "us_equivalent": "fancy",
+    "gloss": "Elegant and expensive, or upper-class in manner or accent.",
+    "usage": "Very common; can describe places, food, people or accents.",
+    "pragmatic_note": "Calling someone 'posh' can be teasing or mildly hostile, as class is a sensitive topic.",
+    "pitfall": null,
+    "examples": [
+      "We went to a posh restaurant for her birthday.",
+      "He's got a really posh accent."
+    ],
+    "collocations": [
+      "posh do",
+      "posh nosh",
+      "posh accent"
+    ],
+    "wiki": null,
+    "forms": [
+      "posher",
+      "poshest"
+    ]
+  },
+  {
+    "headword": "plummy",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Of a voice: rich and upper-class, as if speaking with a plum in the mouth.",
+    "usage": "Used to describe very posh, upper-class voices, often in a mildly mocking way.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The announcer had a plummy voice.",
+      "She's got a terribly plummy accent."
+    ],
+    "collocations": [
+      "plummy voice",
+      "plummy accent"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "hoity-toity",
+    "register": "RED",
+    "us_equivalent": "snooty",
+    "gloss": "Snobbish and haughty.",
+    "usage": "Informal and mildly mocking, about people who act superior.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The staff were a bit hoity-toity.",
+      "Don't get hoity-toity with me."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "common",
+    "register": "RED",
+    "us_equivalent": "low-class",
+    "gloss": "Of a person or behaviour: vulgar or lower-class, in a snobbish view.",
+    "usage": "Used by some to sneer at manners, accents or tastes.",
+    "pragmatic_note": "This sense is snobbish and can offend; understand it, but avoid using it.",
+    "pitfall": "In neutral use 'common' just means frequent or shared.",
+    "examples": [
+      "My gran thinks chewing gum is common.",
+      "She says it's common to swear in public."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "flash",
+    "register": "RED",
+    "us_equivalent": "flashy",
+    "gloss": "Showy, expensive-looking or ostentatious.",
+    "usage": "Informal, often critical: 'a flash car', 'a flash git'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He's bought a flash new car.",
+      "Don't be flash, just get the cheap one."
+    ],
+    "collocations": [
+      "flash car",
+      "flash git"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "proper",
+    "register": "RED",
+    "us_equivalent": "real",
+    "gloss": "As an intensifier: really, thoroughly; also genuine or 'real'.",
+    "usage": "Very common in informal speech, especially in the North, West Country and London.",
+    "pragmatic_note": null,
+    "pitfall": "In standard English 'proper' means correct or appropriate.",
+    "examples": [
+      "I was proper scared.",
+      "That's a proper cup of tea, that is."
+    ],
+    "collocations": [
+      "proper job",
+      "proper good"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "well",
+    "register": "RED",
+    "us_equivalent": "really",
+    "gloss": "As an intensifier before adjectives: very.",
+    "usage": "Informal, especially among young people in the South and London: 'well good', 'well annoyed'.",
+    "pragmatic_note": null,
+    "pitfall": "Sounds very casual; avoid it in writing or at work.",
+    "examples": [
+      "That film was well good.",
+      "I was well annoyed when they cancelled."
+    ],
+    "collocations": [
+      "well good",
+      "well happy"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "dead",
+    "register": "RED",
+    "us_equivalent": "real",
+    "gloss": "As an intensifier: very; also 'very quiet', of a place.",
+    "usage": "Common in the North and Liverpool: 'dead nice', 'dead easy'.",
+    "pragmatic_note": null,
+    "pitfall": "'The pub was dead' means it was empty, not that anyone died.",
+    "examples": [
+      "The exam was dead easy.",
+      "It was dead quiet in town last night."
+    ],
+    "collocations": [
+      "dead easy",
+      "dead good",
+      "dead nice"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "right",
+    "register": "RED",
+    "us_equivalent": "real",
+    "gloss": "As an intensifier before a noun: a complete, total ('a right mess').",
+    "usage": "Very common in informal speech everywhere.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The kitchen's in a right state.",
+      "He's a right pain in the neck."
+    ],
+    "collocations": [
+      "a right mess",
+      "a right laugh",
+      "a right state"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "pure",
+    "register": "RED",
+    "us_equivalent": "totally",
+    "gloss": "As an intensifier: very, completely.",
+    "usage": "Glasgow and West of Scotland: 'pure brilliant', 'pure raging'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "That was pure brilliant.",
+      "I was pure raging about it."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "ever so",
+    "register": "AMBER",
+    "us_equivalent": "so",
+    "gloss": "Very; extremely.",
+    "usage": "Soft, polite intensifier, typical of southern England and older speakers.",
+    "pragmatic_note": "Sounds friendly and slightly deferential: 'thank you ever so much'.",
+    "pitfall": null,
+    "examples": [
+      "Thank you ever so much.",
+      "It's ever so cold out there."
+    ],
+    "collocations": [
+      "ever so much",
+      "ever so slightly"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "jolly",
+    "register": "AMBER",
+    "us_equivalent": "very",
+    "gloss": "Very ('jolly good'); as a noun, a trip or outing, often at someone else's expense.",
+    "usage": "Upper-middle-class or old-fashioned as an intensifier; 'a jolly' is common in office chat.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Jolly good, see you at three.",
+      "The conference was a bit of a jolly."
+    ],
+    "collocations": [
+      "jolly good",
+      "jolly well"
+    ],
+    "wiki": null,
+    "forms": [
+      "jollies"
+    ]
+  },
+  {
+    "headword": "bloody",
+    "register": "RED",
+    "us_equivalent": "damn",
+    "gloss": "A mild swear word used as an intensifier, showing annoyance or emphasis.",
+    "usage": "Extremely common in British speech, but still impolite in formal or work settings.",
+    "pragmatic_note": "Once a strong swear word, it is now fairly mild in Britain, though older people may still object.",
+    "pitfall": "Learners should recognise it but avoid using it at work, with elders or in writing.",
+    "examples": [
+      "The bloody train's late again.",
+      "Bloody hell, look at the queue!"
+    ],
+    "collocations": [
+      "bloody hell",
+      "bloody brilliant",
+      "not bloody likely"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "blooming",
+    "register": "RED",
+    "us_equivalent": "darn",
+    "gloss": "A polite substitute for 'bloody'; also 'bloomin''.",
+    "usage": "Old-fashioned and family-friendly, safe to say in front of children.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "It's blooming freezing out here.",
+      "Where's the blooming remote?"
+    ],
+    "collocations": [
+      "blooming heck"
+    ],
+    "wiki": null,
+    "forms": [
+      "bloomin'",
+      "bloomin"
+    ]
+  },
+  {
+    "headword": "flipping",
+    "register": "RED",
+    "us_equivalent": "freaking",
+    "gloss": "A mild euphemism for stronger swear words.",
+    "usage": "Very common and family-friendly: 'flipping heck', 'flipping cheek'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Flipping heck, that was close!",
+      "My flipping phone's died again."
+    ],
+    "collocations": [
+      "flipping heck"
+    ],
+    "wiki": null,
+    "forms": [
+      "flippin'"
+    ]
+  },
+  {
+    "headword": "loads",
+    "register": "AMBER",
+    "us_equivalent": "tons",
+    "gloss": "A lot; lots; very much.",
+    "usage": "Very common in speech and safe in casual work chat.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I've got loads to do today.",
+      "Thanks loads for your help."
+    ],
+    "collocations": [
+      "loads of",
+      "thanks loads"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "blimey",
+    "register": "RED",
+    "us_equivalent": "gee",
+    "gloss": "An exclamation of surprise.",
+    "usage": "Common across Britain, especially England; 'cor blimey' is the Cockney version.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Blimey, is that the time?",
+      "Blimey, that's expensive."
+    ],
+    "collocations": [
+      "cor blimey"
+    ],
+    "wiki": null,
+    "forms": [
+      "gor blimey"
+    ]
+  },
+  {
+    "headword": "crikey",
+    "register": "RED",
+    "us_equivalent": "gee whiz",
+    "gloss": "An exclamation of surprise or alarm.",
+    "usage": "Slightly old-fashioned but still widely used by all ages.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Crikey, look at the size of that dog!",
+      "Crikey, I nearly forgot."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "cor",
+    "register": "RED",
+    "us_equivalent": "wow",
+    "gloss": "An exclamation of surprise or admiration.",
+    "usage": "Informal, especially in southern England.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Cor, that smells good.",
+      "Cor, look at that view."
+    ],
+    "collocations": [
+      "cor blimey"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "gosh",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A mild exclamation of surprise.",
+    "usage": "Polite and often middle-class; safe in nearly every setting.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Gosh, that was quick.",
+      "Oh gosh, I'm so sorry."
+    ],
+    "collocations": [
+      "oh my gosh"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "oh my days",
+    "register": "RED",
+    "us_equivalent": "oh my God",
+    "gloss": "An exclamation of shock or amazement.",
+    "usage": "Youth slang, especially in London; widely heard across the UK.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Oh my days, did you see that?",
+      "Oh my days, I can't believe it."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "bless",
+    "register": "RED",
+    "us_equivalent": "aww",
+    "gloss": "An exclamation of fondness or sympathy, often 'aw, bless'.",
+    "usage": "Very common, warmly patronising: 'bless him', 'bless her'.",
+    "pragmatic_note": "Can be gently condescending when said about an adult's efforts.",
+    "pitfall": null,
+    "examples": [
+      "He brought me flowers, bless him.",
+      "Aw, bless, she's fallen asleep."
+    ],
+    "collocations": [
+      "bless him",
+      "aw, bless"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "ey up",
+    "register": "RED",
+    "us_equivalent": "hey",
+    "gloss": "A greeting ('hello'), or a warning to look out.",
+    "usage": "Yorkshire and Northern English; also spelt 'ay up' or 'eh up'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Ey up, how are you doing?",
+      "Ey up, here comes trouble."
+    ],
+    "collocations": [
+      "ey up me duck"
+    ],
+    "wiki": null,
+    "forms": [
+      "ay up",
+      "eh up"
+    ]
+  },
+  {
+    "headword": "howay",
+    "register": "RED",
+    "us_equivalent": "come on",
+    "gloss": "Come on; let's go.",
+    "usage": "Geordie (Newcastle) dialect; famous in 'Howay the lads!'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Howay, man, we'll be late.",
+      "Howay the lads!"
+    ],
+    "collocations": [
+      "howay man"
+    ],
+    "wiki": null,
+    "forms": [
+      "haway"
+    ]
+  },
+  {
+    "headword": "aye",
+    "register": "RED",
+    "us_equivalent": "yeah",
+    "gloss": "Yes.",
+    "usage": "Scotland, Northern England and Northern Ireland; also used formally to vote in Parliament.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Aye, that's right.",
+      "Aye, I'll be there at six."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "cheers",
+    "register": "AMBER",
+    "us_equivalent": "thanks",
+    "gloss": "Thanks; also goodbye, and a toast when drinking.",
+    "usage": "Ubiquitous in everyday speech, emails and texts; slightly informal but fine with colleagues.",
+    "pragmatic_note": "A quick 'cheers' to a bus driver or shop assistant is standard British politeness.",
+    "pitfall": null,
+    "examples": [
+      "Cheers for that, really helpful.",
+      "Right, cheers, see you tomorrow."
+    ],
+    "collocations": [
+      "cheers, mate",
+      "cheers for that"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "ta",
+    "register": "RED",
+    "us_equivalent": "thanks",
+    "gloss": "Thanks.",
+    "usage": "Very informal and short; common in the North and among older people.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Ta, love.",
+      "Ta very much for the lift."
+    ],
+    "collocations": [
+      "ta very much"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "ta-ra",
+    "register": "RED",
+    "us_equivalent": "bye",
+    "gloss": "Goodbye.",
+    "usage": "Northern English and Midlands, especially Liverpool and Birmingham.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Ta-ra, see you next week.",
+      "Ta-ra, love, mind how you go."
+    ],
+    "collocations": [
+      "ta-ra a bit"
+    ],
+    "wiki": null,
+    "forms": [
+      "tara",
+      "ta-ra a bit"
+    ]
+  },
+  {
+    "headword": "cheerio",
+    "register": "RED",
+    "us_equivalent": "so long",
+    "gloss": "Goodbye.",
+    "usage": "Friendly and slightly old-fashioned, still widely heard.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Cheerio, then, see you soon.",
+      "Right, cheerio, everyone."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "hiya",
+    "register": "RED",
+    "us_equivalent": "hi",
+    "gloss": "Hello.",
+    "usage": "Very common informal greeting, especially in the North and Wales.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Hiya, how are you?",
+      "Hiya, love, come in."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "laters",
+    "register": "RED",
+    "us_equivalent": "later",
+    "gloss": "Goodbye; see you later.",
+    "usage": "Casual and youthful, used in speech and text messages.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Laters, see you at the gym.",
+      "Right, laters!"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "wagwan",
+    "register": "RED",
+    "us_equivalent": "what's up",
+    "gloss": "Hello; what's going on?",
+    "usage": "London youth slang from Jamaican Patois 'what a gwan'.",
+    "pragmatic_note": null,
+    "pitfall": "Can sound awkward or appropriative from people who do not normally use it.",
+    "examples": [
+      "Wagwan, bruv?",
+      "Wagwan, you good?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "wha gwan"
+    ]
+  },
+  {
+    "headword": "innit",
+    "register": "RED",
+    "us_equivalent": "right?",
+    "gloss": "A tag meaning 'isn't it?', 'right?', or simply adding emphasis.",
+    "usage": "Common in London and urban youth speech; used with any verb, not only 'is'.",
+    "pragmatic_note": "Strongly associated with particular accents and social groups; easily sounds mocking from outsiders.",
+    "pitfall": "Never use it at work or in formal settings; learners should only recognise it.",
+    "examples": [
+      "It's cold today, innit?",
+      "We're going later, innit."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "init"
+    ]
+  },
+  {
+    "headword": "wee",
+    "register": "AMBER",
+    "us_equivalent": "little",
+    "gloss": "Small or little.",
+    "usage": "Scottish and Northern Irish, but widely used across the UK: 'a wee bit'.",
+    "pragmatic_note": null,
+    "pitfall": "Also a childish word for urine, so 'wee' as a noun can cause giggles.",
+    "examples": [
+      "Just a wee bit of milk, please.",
+      "We had a wee chat about it."
+    ],
+    "collocations": [
+      "a wee bit",
+      "wee chat"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "dreich",
+    "register": "RED",
+    "us_equivalent": "dreary",
+    "gloss": "Of weather: dull, grey, damp and miserable.",
+    "usage": "Scottish, and one of the best-known Scots words, even among English speakers.",
+    "pragmatic_note": null,
+    "pitfall": "The 'ch' is throaty, as in 'loch'.",
+    "examples": [
+      "It's a dreich day, take a jacket.",
+      "Typical dreich November weather."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "bonnie",
+    "register": "RED",
+    "us_equivalent": "pretty",
+    "gloss": "Attractive; beautiful.",
+    "usage": "Scottish and Northern English; often in songs and place descriptions.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "What a bonnie wee baby.",
+      "The bonnie banks of Loch Lomond."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "bonny"
+    ]
+  },
+  {
+    "headword": "scunnered",
+    "register": "RED",
+    "us_equivalent": "fed up",
+    "gloss": "Fed up; sick of something.",
+    "usage": "Scottish, used by people of all ages and backgrounds.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm scunnered with this rain.",
+      "She's scunnered of the whole thing."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "scunner"
+    ]
+  },
+  {
+    "headword": "baltic",
+    "register": "RED",
+    "us_equivalent": "freezing",
+    "gloss": "Extremely cold.",
+    "usage": "Scotland and Northern England, from the Baltic Sea.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "It's baltic out there!",
+      "This office is baltic."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "cwtch",
+    "register": "RED",
+    "us_equivalent": "cuddle",
+    "gloss": "A cuddle or hug; also a cosy place.",
+    "usage": "Welsh English; pronounced to rhyme with 'butch'.",
+    "pragmatic_note": "A word Welsh people are proud of; it implies warmth and safety.",
+    "pitfall": null,
+    "examples": [
+      "Come here and give me a cwtch.",
+      "The kids are cwtched up on the sofa."
+    ],
+    "collocations": [
+      "give us a cwtch"
+    ],
+    "wiki": null,
+    "forms": [
+      "cwtched",
+      "cwtching"
+    ]
+  },
+  {
+    "headword": "nowt",
+    "register": "RED",
+    "us_equivalent": "nothing",
+    "gloss": "Nothing.",
+    "usage": "Northern English; 'there's nowt so queer as folk' is a well-known saying.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "There's nowt on telly tonight.",
+      "I've done nowt all day."
+    ],
+    "collocations": [
+      "nowt much"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "owt",
+    "register": "RED",
+    "us_equivalent": "anything",
+    "gloss": "Anything.",
+    "usage": "Northern English, often paired with 'nowt': 'you don't get owt for nowt'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Do you want owt from the shop?",
+      "Has he said owt about it?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "summat",
+    "register": "RED",
+    "us_equivalent": "something",
+    "gloss": "Something.",
+    "usage": "Northern and Midlands English, common in casual speech.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll make us summat to eat.",
+      "Is summat wrong?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "summut"
+    ]
+  },
+  {
+    "headword": "mither",
+    "register": "RED",
+    "us_equivalent": "pester",
+    "gloss": "To pester or bother; also to fuss.",
+    "usage": "North West England, especially Lancashire and Manchester.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Stop mithering me, I'm busy.",
+      "He's been mithering about his tea."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "mithering",
+      "mithered"
+    ]
+  },
+  {
+    "headword": "nesh",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "Feeling the cold easily; soft.",
+    "usage": "Northern and Midlands English, often said teasingly to someone who feels cold.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Don't be nesh, it's not that cold.",
+      "I'm a bit nesh, I always wear a scarf."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "made up",
+    "register": "RED",
+    "us_equivalent": "thrilled",
+    "gloss": "Delighted; very pleased.",
+    "usage": "Liverpool and North West English, now heard more widely.",
+    "pragmatic_note": null,
+    "pitfall": "Not the standard sense of 'invented' or 'wearing make-up'.",
+    "examples": [
+      "I'm made up for you, that's great news.",
+      "She was made up with her present."
+    ],
+    "collocations": [
+      "dead made up"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "quid",
+    "register": "AMBER",
+    "us_equivalent": "buck",
+    "gloss": "A pound sterling; the plural is also 'quid'.",
+    "usage": "Extremely common informal word for pounds in everyday speech.",
+    "pragmatic_note": null,
+    "pitfall": "No plural 's' for amounts: 'twenty quid', not 'twenty quids'; 'quids in' is a fixed phrase meaning in profit.",
+    "examples": [
+      "Can you lend me a few quid?",
+      "It only cost me ten quid."
+    ],
+    "collocations": [
+      "a few quid",
+      "quids in"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "fiver",
+    "register": "AMBER",
+    "us_equivalent": "five-dollar bill",
+    "gloss": "A five-pound note, or five pounds.",
+    "usage": "Everyday informal word, used about notes and prices alike.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Have you got a fiver for the parking?",
+      "It's only a fiver."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "fivers"
+    ]
+  },
+  {
+    "headword": "tenner",
+    "register": "AMBER",
+    "us_equivalent": "ten-dollar bill",
+    "gloss": "A ten-pound note, or ten pounds.",
+    "usage": "Everyday informal word, used about notes and prices alike.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll give you a tenner for it.",
+      "Tickets are a tenner each."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "tenners"
+    ]
+  },
+  {
+    "headword": "pony",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "Twenty-five pounds.",
+    "usage": "Cockney and London slang, heard mostly in markets and TV dramas.",
+    "pragmatic_note": null,
+    "pitfall": "A 'monkey' is five hundred pounds.",
+    "examples": [
+      "I paid a pony for these tickets.",
+      "It'll cost you a pony, mate."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "bob",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "Originally a shilling; now 'a few bob' means some money.",
+    "usage": "Old-fashioned, but 'a few bob' and 'worth a bob or two' are still common.",
+    "pragmatic_note": "'He's worth a bob or two' is understated: he is quite rich.",
+    "pitfall": null,
+    "examples": [
+      "That must have cost a few bob.",
+      "She's worth a bob or two."
+    ],
+    "collocations": [
+      "a few bob",
+      "a bob or two"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "dosh",
+    "register": "RED",
+    "us_equivalent": "dough",
+    "gloss": "Money.",
+    "usage": "Informal and slightly jokey, used by all ages.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I haven't got the dosh for a holiday this year.",
+      "He's got loads of dosh."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "lolly",
+    "register": "RED",
+    "us_equivalent": "dough",
+    "gloss": "Money; also an ice lolly.",
+    "usage": "Informal and a bit dated in the money sense.",
+    "pragmatic_note": null,
+    "pitfall": "An 'ice lolly' is what Americans call a popsicle.",
+    "examples": [
+      "They made a lot of lolly from that shop.",
+      "Do you want a lolly?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "lollies"
+    ]
+  },
+  {
+    "headword": "brass",
+    "register": "RED",
+    "us_equivalent": "dough",
+    "gloss": "Money.",
+    "usage": "Northern English, as in 'where there's muck, there's brass'.",
+    "pragmatic_note": null,
+    "pitfall": "'Top brass' means senior officers or managers.",
+    "examples": [
+      "He's got plenty of brass.",
+      "Where there's muck, there's brass."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "minted",
+    "register": "RED",
+    "us_equivalent": "loaded",
+    "gloss": "Very rich.",
+    "usage": "Informal, common among young people when talking about wealthy families.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Her parents are minted.",
+      "If I win this, I'll be minted."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "brassic",
+    "register": "RED",
+    "us_equivalent": "broke",
+    "gloss": "Having no money at all.",
+    "usage": "From rhyming slang 'boracic lint' for 'skint'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I can't come out, I'm brassic.",
+      "We're brassic until payday."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "boracic"
+    ]
+  },
+  {
+    "headword": "dear",
+    "register": "AMBER",
+    "us_equivalent": "pricey",
+    "gloss": "Expensive.",
+    "usage": "Common British usage, especially from older speakers.",
+    "pragmatic_note": null,
+    "pitfall": "Different from 'dear' as a term of endearment.",
+    "examples": [
+      "It's a lovely shop but a bit dear.",
+      "Petrol's so dear these days."
+    ],
+    "collocations": [
+      "a bit dear"
+    ],
+    "wiki": null,
+    "forms": [
+      "dearer"
+    ]
+  },
+  {
+    "headword": "tight",
+    "register": "RED",
+    "us_equivalent": "cheap",
+    "gloss": "Mean with money; stingy.",
+    "usage": "Very common: 'don't be tight', 'tight-fisted'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He's too tight to buy a round.",
+      "Don't be tight, it's only a fiver."
+    ],
+    "collocations": [
+      "tight-fisted",
+      "tight git"
+    ],
+    "wiki": null,
+    "forms": [
+      "tight-fisted"
+    ]
+  },
+  {
+    "headword": "mean",
+    "register": "AMBER",
+    "us_equivalent": "cheap",
+    "gloss": "Unwilling to spend or share money; stingy.",
+    "usage": "Common British sense, alongside the general sense of unkind.",
+    "pragmatic_note": null,
+    "pitfall": "In American English 'mean' usually means unkind; in Britain it often means stingy.",
+    "examples": [
+      "He's so mean, he never buys anyone a drink.",
+      "Don't be mean, share your sweets."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "meaner"
+    ]
+  },
+  {
+    "headword": "dole",
+    "register": "AMBER",
+    "us_equivalent": "welfare",
+    "gloss": "State unemployment benefit, usually 'on the dole'.",
+    "usage": "Informal; the official term is Jobseeker's Allowance or Universal Credit.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He's been on the dole since the factory closed.",
+      "She signed on the dole for a few months."
+    ],
+    "collocations": [
+      "on the dole",
+      "dole queue"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "nick",
+    "register": "RED",
+    "us_equivalent": "steal",
+    "gloss": "To steal; to arrest; 'the nick' is prison or a police station.",
+    "usage": "Very common: 'someone's nicked my bike'.",
+    "pragmatic_note": null,
+    "pitfall": "'In good nick' means in good condition.",
+    "examples": [
+      "Someone's nicked my phone.",
+      "He got nicked for speeding."
+    ],
+    "collocations": [
+      "in good nick",
+      "the nick"
+    ],
+    "wiki": null,
+    "forms": [
+      "nicked",
+      "nicking"
+    ]
+  },
+  {
+    "headword": "pinch",
+    "register": "RED",
+    "us_equivalent": "swipe",
+    "gloss": "To steal, usually something small.",
+    "usage": "Informal and light-hearted, usually for small things like pens or chips.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Who pinched my pen?",
+      "I pinched a chip off his plate."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "pinched",
+      "pinching"
+    ]
+  },
+  {
+    "headword": "tea leaf",
+    "register": "RED",
+    "us_equivalent": "thief",
+    "gloss": "A thief; rhyming slang.",
+    "usage": "Cockney rhyming slang, mostly comic now.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Watch your bag, there are tea leaves about.",
+      "He's a right tea leaf."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "tea leaves"
+    ]
+  },
+  {
+    "headword": "porkies",
+    "register": "RED",
+    "us_equivalent": "fibs",
+    "gloss": "Lies; from rhyming slang 'pork pies'.",
+    "usage": "Common, playful, usually 'telling porkies'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Stop telling porkies.",
+      "I think he's telling porkies about his age."
+    ],
+    "collocations": [
+      "tell porkies"
+    ],
+    "wiki": null,
+    "forms": [
+      "porky"
+    ]
+  },
+  {
+    "headword": "fib",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A small, harmless lie.",
+    "usage": "Gentle and childlike, safe in conversation.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I told a little fib about my age.",
+      "Don't fib to me."
+    ],
+    "collocations": [
+      "little fib"
+    ],
+    "wiki": null,
+    "forms": [
+      "fibs",
+      "fibbing",
+      "fibber"
+    ]
+  },
+  {
+    "headword": "blag",
+    "register": "RED",
+    "us_equivalent": "score",
+    "gloss": "To get something by clever talk or bluffing.",
+    "usage": "Informal and common; 'a blag' is a scam or free ticket obtained by charm.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I blagged us tickets to the gig.",
+      "He blagged his way into the job."
+    ],
+    "collocations": [
+      "blag your way"
+    ],
+    "wiki": null,
+    "forms": [
+      "blagged",
+      "blagging",
+      "blagger"
+    ]
+  },
+  {
+    "headword": "wangle",
+    "register": "RED",
+    "us_equivalent": "finagle",
+    "gloss": "To get something by persuasion or cleverness.",
+    "usage": "Informal and common, often about upgrades, tickets or time off.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I wangled a free upgrade.",
+      "Can you wangle me a day off?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "wangled",
+      "wangling"
+    ]
+  },
+  {
+    "headword": "scrounge",
+    "register": "RED",
+    "us_equivalent": "bum",
+    "gloss": "To get things by asking others rather than paying.",
+    "usage": "Common; 'a scrounger' is someone who habitually does this.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Can I scrounge a lift home?",
+      "He's always scrounging off his mates."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "scrounged",
+      "scrounging",
+      "scrounger"
+    ]
+  },
+  {
+    "headword": "flog",
+    "register": "RED",
+    "us_equivalent": "sell",
+    "gloss": "To sell, often cheaply or quickly.",
+    "usage": "Very common informal word for selling, especially second-hand goods.",
+    "pragmatic_note": null,
+    "pitfall": "Also means to whip, and 'flogging a dead horse' means wasting effort.",
+    "examples": [
+      "I'm going to flog my old bike.",
+      "They're flogging tickets outside."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "flogged",
+      "flogging"
+    ]
+  },
+  {
+    "headword": "bung",
+    "register": "RED",
+    "us_equivalent": "toss",
+    "gloss": "To put or throw casually; as a noun, a bribe.",
+    "usage": "Informal and common: 'bung it in the oven'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Just bung it in the microwave.",
+      "Bung us the remote, will you?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "bunged",
+      "bunging"
+    ]
+  },
+  {
+    "headword": "tipsy",
+    "register": "RED",
+    "us_equivalent": "buzzed",
+    "gloss": "Slightly drunk.",
+    "usage": "Common, gentle and polite enough for most social settings.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm a bit tipsy after two glasses.",
+      "She got tipsy at the wedding."
+    ],
+    "collocations": [
+      "a bit tipsy"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "squiffy",
+    "register": "RED",
+    "us_equivalent": "buzzed",
+    "gloss": "Slightly drunk; also lopsided.",
+    "usage": "Light-hearted, slightly old-fashioned and middle-class.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm feeling a bit squiffy.",
+      "One more and I'll be squiffy."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "sloshed",
+    "register": "RED",
+    "us_equivalent": "smashed",
+    "gloss": "Drunk.",
+    "usage": "Informal and humorous, often about parties and weddings.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "They were all sloshed by midnight.",
+      "He got completely sloshed."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "plastered",
+    "register": "RED",
+    "us_equivalent": "wasted",
+    "gloss": "Very drunk.",
+    "usage": "Informal, mainly used about nights out.",
+    "pragmatic_note": null,
+    "pitfall": "Also means covered in something: 'plastered in mud'.",
+    "examples": [
+      "He was plastered at the party.",
+      "We got absolutely plastered."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "hammered",
+    "register": "RED",
+    "us_equivalent": "wasted",
+    "gloss": "Very drunk.",
+    "usage": "Informal and common among young people, especially about nights out.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I was hammered last night.",
+      "They got hammered after the match."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "legless",
+    "register": "RED",
+    "us_equivalent": "wasted",
+    "gloss": "So drunk one cannot stand up.",
+    "usage": "Informal and humorous, often in stories about nights out.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He was legless by ten.",
+      "We got legless at the wedding."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "bevvy",
+    "register": "RED",
+    "us_equivalent": "drink",
+    "gloss": "A drink, usually alcoholic.",
+    "usage": "Informal, especially in Liverpool and the North.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Fancy a few bevvies after work?",
+      "We had a bevvy at the local."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "bevvies",
+      "bevvied"
+    ]
+  },
+  {
+    "headword": "plonk",
+    "register": "RED",
+    "us_equivalent": "cheap wine",
+    "gloss": "Cheap wine; also to put something down heavily.",
+    "usage": "Informal and common, often self-deprecating about the wine you've brought.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Bring a bottle of plonk.",
+      "Just plonk your bag down there."
+    ],
+    "collocations": [
+      "cheap plonk"
+    ],
+    "wiki": null,
+    "forms": [
+      "plonked",
+      "plonking"
+    ]
+  },
+  {
+    "headword": "sesh",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "A long drinking session.",
+    "usage": "Informal, popular with young people; 'on the sesh'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We went on the sesh after the exams.",
+      "It turned into a massive sesh."
+    ],
+    "collocations": [
+      "on the sesh"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "round",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A set of drinks bought by one person for everyone in a group.",
+    "usage": "Central to British pub culture; people take turns buying rounds.",
+    "pragmatic_note": "Skipping your round is seen as mean.",
+    "pitfall": null,
+    "examples": [
+      "It's my round, what are you having?",
+      "Whose round is it?"
+    ],
+    "collocations": [
+      "my round",
+      "buy a round"
+    ],
+    "wiki": null,
+    "forms": [
+      "rounds"
+    ]
+  },
+  {
+    "headword": "local",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "The pub nearest your home that you go to regularly.",
+    "usage": "Very common, usually 'my local' or 'the local', meaning a regular neighbourhood pub.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Let's go to the local.",
+      "The Red Lion is my local."
+    ],
+    "collocations": [
+      "my local"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "boozer",
+    "register": "RED",
+    "us_equivalent": "bar",
+    "gloss": "A pub; also a heavy drinker.",
+    "usage": "Informal and affectionate, especially for traditional pubs.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Meet you in the boozer at eight.",
+      "It's a proper old boozer."
+    ],
+    "collocations": [
+      "old boozer"
+    ],
+    "wiki": "Pub",
+    "forms": [
+      "boozers"
+    ]
+  },
+  {
+    "headword": "offie",
+    "register": "RED",
+    "us_equivalent": "liquor store",
+    "gloss": "An off-licence: a shop selling alcohol to take away.",
+    "usage": "Informal, common in England and Wales.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll pop to the offie for some wine.",
+      "The offie closes at ten."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "offy"
+    ]
+  },
+  {
+    "headword": "knees-up",
+    "register": "RED",
+    "us_equivalent": "party",
+    "gloss": "A lively party or celebration.",
+    "usage": "Informal and cheerful, often for family parties and celebrations.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We're having a bit of a knees-up for Dad's birthday.",
+      "It was a proper knees-up."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "knees-ups"
+    ]
+  },
+  {
+    "headword": "do",
+    "register": "AMBER",
+    "us_equivalent": "party",
+    "gloss": "A party or social event.",
+    "usage": "Very common: 'a leaving do', 'a work do'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Are you going to the Christmas do?",
+      "We're having a leaving do for Sarah."
+    ],
+    "collocations": [
+      "leaving do",
+      "work do",
+      "posh do"
+    ],
+    "wiki": null,
+    "forms": [
+      "dos"
+    ]
+  },
+  {
+    "headword": "cuppa",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A cup of tea.",
+    "usage": "Ubiquitous; offering a cuppa is a basic British courtesy.",
+    "pragmatic_note": "'Fancy a cuppa?' is often a social gesture as much as a drink.",
+    "pitfall": null,
+    "examples": [
+      "Fancy a cuppa?",
+      "I'll put the kettle on for a cuppa."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "cuppas"
+    ]
+  },
+  {
+    "headword": "brew",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "A cup of tea; to make tea.",
+    "usage": "Common, especially in the North and among builders.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Who wants a brew?",
+      "I'll brew up."
+    ],
+    "collocations": [
+      "brew up"
+    ],
+    "wiki": null,
+    "forms": [
+      "brews"
+    ]
+  },
+  {
+    "headword": "char",
+    "register": "RED",
+    "us_equivalent": "tea",
+    "gloss": "Tea.",
+    "usage": "Old-fashioned, from Chinese 'cha', a relative of Indian 'chai'.",
+    "pragmatic_note": "The word comes from Chinese 'cha', the same root as Indian 'chai'.",
+    "pitfall": null,
+    "examples": [
+      "Fancy a cup of char?",
+      "Nice cup of char, that."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "cha"
+    ]
+  },
+  {
+    "headword": "sarnie",
+    "register": "RED",
+    "us_equivalent": "sandwich",
+    "gloss": "A sandwich.",
+    "usage": "Informal and common across the UK, especially at lunchtime.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll grab a sarnie at lunch.",
+      "Cheese and pickle sarnie, please."
+    ],
+    "collocations": [],
+    "wiki": "Sandwich",
+    "forms": [
+      "sarnies",
+      "sarny"
+    ]
+  },
+  {
+    "headword": "butty",
+    "register": "RED",
+    "us_equivalent": "sandwich",
+    "gloss": "A sandwich, especially a hot one, such as a chip butty.",
+    "usage": "Northern English, especially for hot fillings like bacon or chips.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "A bacon butty and a brew, please.",
+      "Fancy a chip butty?"
+    ],
+    "collocations": [
+      "chip butty",
+      "bacon butty"
+    ],
+    "wiki": null,
+    "forms": [
+      "butties"
+    ]
+  },
+  {
+    "headword": "scran",
+    "register": "RED",
+    "us_equivalent": "chow",
+    "gloss": "Food.",
+    "usage": "Northern, Scottish and Liverpool slang, now popular online.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Let's get some scran.",
+      "The scran here is great."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "grub",
+    "register": "RED",
+    "us_equivalent": "chow",
+    "gloss": "Food.",
+    "usage": "Common informal word everywhere, as in 'pub grub'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Grub's up!",
+      "The pub does good grub."
+    ],
+    "collocations": [
+      "pub grub",
+      "grub's up"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "nosh",
+    "register": "RED",
+    "us_equivalent": "chow",
+    "gloss": "Food; also to eat.",
+    "usage": "Informal and jokey, often 'posh nosh'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Great nosh at the wedding.",
+      "Let's grab some nosh."
+    ],
+    "collocations": [
+      "posh nosh"
+    ],
+    "wiki": null,
+    "forms": [
+      "noshed"
+    ]
+  },
+  {
+    "headword": "peckish",
+    "register": "AMBER",
+    "us_equivalent": "snacky",
+    "gloss": "Slightly hungry.",
+    "usage": "Common and gently understated, used at home and at work.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm a bit peckish, shall we grab a snack?",
+      "Feeling peckish?"
+    ],
+    "collocations": [
+      "a bit peckish"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "starving",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Very hungry; also, in parts of the North, very cold.",
+    "usage": "Everyday hyperbole for being hungry, heard constantly at home and at work.",
+    "pragmatic_note": null,
+    "pitfall": "Not literal starvation in casual use.",
+    "examples": [
+      "I'm starving, when's dinner?",
+      "Let's eat, I'm starving."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "stuffed",
+    "register": "RED",
+    "us_equivalent": "full",
+    "gloss": "Completely full after eating.",
+    "usage": "Common informal word after a big meal, especially Sunday lunch or Christmas dinner.",
+    "pragmatic_note": null,
+    "pitfall": "Also 'get stuffed', a rude way to tell someone to go away.",
+    "examples": [
+      "I couldn't eat another thing, I'm stuffed.",
+      "I'm stuffed after that roast."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "brekkie",
+    "register": "RED",
+    "us_equivalent": "breakfast",
+    "gloss": "Breakfast.",
+    "usage": "Informal and cheerful, used in speech, cafés and menus.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "What's for brekkie?",
+      "Let's get brekkie at the café."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "brekky"
+    ]
+  },
+  {
+    "headword": "chippy",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "A fish and chip shop.",
+    "usage": "Very common across the UK, especially in the North and Scotland.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Let's get tea from the chippy.",
+      "The chippy on the corner is brilliant."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "chippie"
+    ]
+  },
+  {
+    "headword": "pud",
+    "register": "RED",
+    "us_equivalent": "dessert",
+    "gloss": "Pudding; dessert.",
+    "usage": "Informal; 'pudding' is the common British word for any dessert.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "What's for pud?",
+      "I'm saving room for pud."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "puds"
+    ]
+  },
+  {
+    "headword": "bickie",
+    "register": "RED",
+    "us_equivalent": "cookie",
+    "gloss": "A biscuit.",
+    "usage": "Informal, often used with children or in cosy chat.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Do you want a bickie with your tea?",
+      "No more bickies before dinner."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "bikkie",
+      "bickies"
+    ]
+  },
+  {
+    "headword": "tea",
+    "register": "AMBER",
+    "us_equivalent": "dinner",
+    "gloss": "In much of the North and among some speakers, the evening meal.",
+    "usage": "Regional and class marker: 'tea' versus 'dinner' versus 'supper' varies by region and background.",
+    "pragmatic_note": "Asking 'What's for tea?' signals a Northern or working-class background to many listeners.",
+    "pitfall": "Can mean the drink or the meal; context decides.",
+    "examples": [
+      "What's for tea, Mum?",
+      "We're having fish for tea."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "telly",
+    "register": "AMBER",
+    "us_equivalent": "TV",
+    "gloss": "Television.",
+    "usage": "Ubiquitous informal word: 'on the telly', 'watch telly'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "What's on telly tonight?",
+      "I fell asleep in front of the telly."
+    ],
+    "collocations": [
+      "on the telly",
+      "watch telly"
+    ],
+    "wiki": null,
+    "forms": [
+      "tellies"
+    ]
+  },
+  {
+    "headword": "brolly",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "An umbrella.",
+    "usage": "Common informal word; essential in British weather.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Take a brolly, it's going to rain.",
+      "I've left my brolly on the train."
+    ],
+    "collocations": [],
+    "wiki": "Umbrella",
+    "forms": [
+      "brollies"
+    ]
+  },
+  {
+    "headword": "loo",
+    "register": "AMBER",
+    "us_equivalent": "bathroom",
+    "gloss": "A toilet.",
+    "usage": "The most widely acceptable informal word for the toilet in the UK.",
+    "pragmatic_note": "'Loo' sounds polite and middle-class; 'toilet' is neutral; 'bog' is crude.",
+    "pitfall": "Asking for the 'bathroom' in a pub may confuse people, as there is no bath.",
+    "examples": [
+      "Where's the loo, please?",
+      "I'm just nipping to the loo."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "loos"
+    ]
+  },
+  {
+    "headword": "bog",
+    "register": "RED",
+    "us_equivalent": "john",
+    "gloss": "A toilet.",
+    "usage": "Crude informal word, fine among friends but avoided in polite company.",
+    "pragmatic_note": null,
+    "pitfall": "Also means a wet, marshy area of land.",
+    "examples": [
+      "Where's the bog?",
+      "Someone's left the bog seat up."
+    ],
+    "collocations": [
+      "bog roll"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "loo roll",
+    "register": "AMBER",
+    "us_equivalent": "toilet paper",
+    "gloss": "Toilet paper.",
+    "usage": "Common household word in shops and homes.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We've run out of loo roll.",
+      "Can you pick up some loo roll?"
+    ],
+    "collocations": [],
+    "wiki": "Toilet paper",
+    "forms": [
+      "loo rolls"
+    ]
+  },
+  {
+    "headword": "wellies",
+    "register": "AMBER",
+    "us_equivalent": "rubber boots",
+    "gloss": "Rubber boots worn in wet or muddy conditions; Wellington boots.",
+    "usage": "Common everywhere, essential at festivals and in the countryside.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Pack your wellies for the festival.",
+      "The kids love jumping in puddles in their wellies."
+    ],
+    "collocations": [
+      "give it some welly",
+      "pair of wellies"
+    ],
+    "wiki": "Wellington boot",
+    "forms": [
+      "welly",
+      "wellie"
+    ]
+  },
+  {
+    "headword": "specs",
+    "register": "RED",
+    "us_equivalent": "glasses",
+    "gloss": "Glasses; spectacles.",
+    "usage": "Informal and common among all ages.",
+    "pragmatic_note": null,
+    "pitfall": "Also short for 'specifications' in technical talk.",
+    "examples": [
+      "Have you seen my specs?",
+      "I need new specs."
+    ],
+    "collocations": [],
+    "wiki": "Glasses",
+    "forms": []
+  },
+  {
+    "headword": "trackies",
+    "register": "RED",
+    "us_equivalent": "sweatpants",
+    "gloss": "Tracksuit bottoms.",
+    "usage": "Informal and common, especially among young people.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I spent all day in my trackies.",
+      "Put some trackies on, it's cold."
+    ],
+    "collocations": [],
+    "wiki": "Tracksuit",
+    "forms": [
+      "trackie bottoms"
+    ]
+  },
+  {
+    "headword": "kecks",
+    "register": "RED",
+    "us_equivalent": "pants",
+    "gloss": "Trousers or underpants.",
+    "usage": "Northern English, especially Liverpool and Manchester.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I've ripped my kecks.",
+      "Put your kecks on."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "keks"
+    ]
+  },
+  {
+    "headword": "clobber",
+    "register": "RED",
+    "us_equivalent": "gear",
+    "gloss": "Clothes or belongings; also to hit hard.",
+    "usage": "Informal, often for clothes or kit for a particular activity.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Bring your walking clobber.",
+      "He's got all the latest clobber."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "clobbered"
+    ]
+  },
+  {
+    "headword": "bits and bobs",
+    "register": "AMBER",
+    "us_equivalent": "odds and ends",
+    "gloss": "Various small items or tasks.",
+    "usage": "Common and safe in casual workplace chat.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I've got a few bits and bobs to finish.",
+      "There's a drawer full of bits and bobs."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "odds and sods",
+    "register": "RED",
+    "us_equivalent": "odds and ends",
+    "gloss": "Miscellaneous items or people of various kinds.",
+    "usage": "Informal and jokey; slightly ruder than 'odds and ends'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The box was full of odds and sods.",
+      "We've got a team of odds and sods."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "thingy",
+    "register": "RED",
+    "us_equivalent": "whatchamacallit",
+    "gloss": "A word for something or someone whose name you can't remember.",
+    "usage": "Common: 'pass me the thingy', 'thingy from accounts'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Pass me that thingy, would you?",
+      "I saw thingy from your office."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "thingummy",
+      "thingamajig"
+    ]
+  },
+  {
+    "headword": "whatsit",
+    "register": "RED",
+    "us_equivalent": "whatchamacallit",
+    "gloss": "Something whose name you have forgotten or don't want to say.",
+    "usage": "Common filler word when a name escapes you.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Where's the whatsit for the oven?",
+      "She's moved to whatsit, near Leeds."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "whatsits"
+    ]
+  },
+  {
+    "headword": "banger",
+    "register": "RED",
+    "us_equivalent": "jalopy",
+    "gloss": "An old, battered car; also a sausage or firework.",
+    "usage": "Common in all three senses; context decides.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He drives an old banger.",
+      "Bangers and mash for tea."
+    ],
+    "collocations": [
+      "old banger",
+      "bangers and mash"
+    ],
+    "wiki": null,
+    "forms": [
+      "bangers"
+    ]
+  },
+  {
+    "headword": "prang",
+    "register": "RED",
+    "us_equivalent": "fender-bender",
+    "gloss": "A minor car accident; to damage a car slightly.",
+    "usage": "Informal, originally RAF slang, now used for minor car bumps.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I had a little prang in the car park.",
+      "She pranged the car on the way to work."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "pranged"
+    ]
+  },
+  {
+    "headword": "gaff",
+    "register": "RED",
+    "us_equivalent": "place",
+    "gloss": "A house or flat; home.",
+    "usage": "London and South East, popular with young people.",
+    "pragmatic_note": null,
+    "pitfall": "Not the same as 'gaffe', a social blunder.",
+    "examples": [
+      "Come back to mine, my gaff's round the corner.",
+      "Nice gaff you've got."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "the sticks",
+    "register": "RED",
+    "us_equivalent": "the boonies",
+    "gloss": "A remote rural area.",
+    "usage": "Informal and common everywhere, often said by city dwellers.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "They live out in the sticks.",
+      "There's no signal out in the sticks."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "Blighty",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "Britain or England, used affectionately.",
+    "usage": "Old-fashioned, often humorous; from Hindustani 'vilayati'.",
+    "pragmatic_note": "From Hindustani 'vilayati' (foreign, British), picked up by soldiers in India.",
+    "pitfall": null,
+    "examples": [
+      "Back in good old Blighty.",
+      "There's nothing like a cup of tea in Blighty."
+    ],
+    "collocations": [
+      "good old Blighty"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "natter",
+    "register": "AMBER",
+    "us_equivalent": "chat",
+    "gloss": "To chat casually; a casual chat.",
+    "usage": "Common and friendly, often 'have a natter' over tea or on the phone.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We had a good natter over coffee.",
+      "They natter for hours on the phone."
+    ],
+    "collocations": [
+      "have a natter"
+    ],
+    "wiki": null,
+    "forms": [
+      "nattering",
+      "nattered"
+    ]
+  },
+  {
+    "headword": "chinwag",
+    "register": "RED",
+    "us_equivalent": "chat",
+    "gloss": "A long, friendly chat.",
+    "usage": "Informal and cheerful, often about catching up with old friends.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We had a proper chinwag.",
+      "Come round for a chinwag."
+    ],
+    "collocations": [
+      "have a chinwag"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "goss",
+    "register": "RED",
+    "us_equivalent": "dirt",
+    "gloss": "Gossip.",
+    "usage": "Informal, as in 'what's the goss?', common among friends.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "What's the goss?",
+      "I've got some goss for you."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "banter",
+    "register": "AMBER",
+    "us_equivalent": "joshing",
+    "gloss": "Playful, teasing conversation.",
+    "usage": "Central to British social life, especially among friends and colleagues.",
+    "pragmatic_note": "'It's just banter' is sometimes used to excuse hurtful remarks.",
+    "pitfall": null,
+    "examples": [
+      "There's good banter in our office.",
+      "It was just a bit of banter."
+    ],
+    "collocations": [
+      "office banter",
+      "a bit of banter"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "bants",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "Banter; playful teasing.",
+    "usage": "Youth slang, often used ironically or self-mockingly.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We were just having bants.",
+      "Great bants last night."
+    ],
+    "collocations": [
+      "for the bants"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "craic",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "Fun, good company and conversation.",
+    "usage": "Irish and Northern Irish; pronounced 'crack'.",
+    "pragmatic_note": null,
+    "pitfall": "Spelt the Irish way 'craic' but sounds like 'crack'.",
+    "examples": [
+      "What's the craic?",
+      "The craic was mighty."
+    ],
+    "collocations": [
+      "what's the craic",
+      "good craic"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "waffle",
+    "register": "AMBER",
+    "us_equivalent": "ramble",
+    "gloss": "To speak or write at length without saying much.",
+    "usage": "Common, including at work: 'stop waffling'.",
+    "pragmatic_note": null,
+    "pitfall": "Also the breakfast food.",
+    "examples": [
+      "He waffled on for twenty minutes.",
+      "Cut the waffle and get to the point."
+    ],
+    "collocations": [
+      "waffle on"
+    ],
+    "wiki": null,
+    "forms": [
+      "waffling",
+      "waffled"
+    ]
+  },
+  {
+    "headword": "whinge",
+    "register": "AMBER",
+    "us_equivalent": "whine",
+    "gloss": "To complain persistently and irritatingly.",
+    "usage": "Common in British and Australian English.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Stop whingeing about the weather.",
+      "He's always whingeing."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "whingeing",
+      "whinged",
+      "whinger"
+    ]
+  },
+  {
+    "headword": "moan",
+    "register": "AMBER",
+    "us_equivalent": "gripe",
+    "gloss": "To complain; a complaint.",
+    "usage": "Very common, often 'have a moan' about trains, weather or work.",
+    "pragmatic_note": "Having a moan about the weather or trains is a British social ritual.",
+    "pitfall": null,
+    "examples": [
+      "He moans about everything.",
+      "Sorry, I'm just having a moan."
+    ],
+    "collocations": [
+      "have a moan"
+    ],
+    "wiki": null,
+    "forms": [
+      "moaning",
+      "moaned",
+      "moaner"
+    ]
+  },
+  {
+    "headword": "gob",
+    "register": "RED",
+    "us_equivalent": "mouth",
+    "gloss": "Mouth; to spit.",
+    "usage": "Informal and slightly rude; 'shut your gob' is rude.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Keep your gob shut.",
+      "He's got a big gob."
+    ],
+    "collocations": [
+      "shut your gob"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "tosh",
+    "register": "RED",
+    "us_equivalent": "baloney",
+    "gloss": "Nonsense.",
+    "usage": "Informal and slightly old-fashioned, often 'a load of tosh'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "What a load of tosh.",
+      "Don't talk tosh."
+    ],
+    "collocations": [
+      "load of tosh"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "codswallop",
+    "register": "RED",
+    "us_equivalent": "hogwash",
+    "gloss": "Nonsense.",
+    "usage": "Informal and humorous, often 'a load of codswallop'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "That's a load of codswallop.",
+      "What codswallop!"
+    ],
+    "collocations": [
+      "load of codswallop"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "cobblers",
+    "register": "RED",
+    "us_equivalent": "baloney",
+    "gloss": "Nonsense.",
+    "usage": "Informal, mildly rude; 'a load of old cobblers'.",
+    "pragmatic_note": null,
+    "pitfall": "Also people who repair shoes.",
+    "examples": [
+      "That's a load of old cobblers.",
+      "Cobblers, he never said that."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "skive",
+    "register": "RED",
+    "us_equivalent": "goof off",
+    "gloss": "To avoid work or school.",
+    "usage": "Common; 'skive off' is the phrasal version.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He's always skiving.",
+      "Let's skive off early."
+    ],
+    "collocations": [
+      "skive off"
+    ],
+    "wiki": null,
+    "forms": [
+      "skiving",
+      "skived",
+      "skiver"
+    ]
+  },
+  {
+    "headword": "sickie",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "A day off work pretending to be ill.",
+    "usage": "Common, usually 'pull a sickie' or 'throw a sickie'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He pulled a sickie on Friday.",
+      "Don't pull a sickie."
+    ],
+    "collocations": [
+      "pull a sickie"
+    ],
+    "wiki": null,
+    "forms": [
+      "sickies"
+    ]
+  },
+  {
+    "headword": "bodge",
+    "register": "AMBER",
+    "us_equivalent": "botch",
+    "gloss": "To repair clumsily; a clumsy repair.",
+    "usage": "Common in DIY and tech talk: 'a bodge job'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "It's a bit of a bodge, but it works.",
+      "He bodged the shelf with tape."
+    ],
+    "collocations": [
+      "bodge job"
+    ],
+    "wiki": null,
+    "forms": [
+      "bodged",
+      "bodging"
+    ]
+  },
+  {
+    "headword": "faff",
+    "register": "AMBER",
+    "us_equivalent": "hassle",
+    "gloss": "Something time-consuming and fiddly; a hassle.",
+    "usage": "Very common for tasks that are annoyingly fiddly: 'it's a bit of a faff'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Parking there is such a faff.",
+      "It's a bit of a faff to set up."
+    ],
+    "collocations": [
+      "a bit of a faff"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "graft",
+    "register": "AMBER",
+    "us_equivalent": "grind",
+    "gloss": "Hard work.",
+    "usage": "Common and approving, especially in the North: 'hard graft'.",
+    "pragmatic_note": null,
+    "pitfall": "In American English 'graft' means bribery and corruption.",
+    "examples": [
+      "It took a lot of hard graft.",
+      "She's a real grafter."
+    ],
+    "collocations": [
+      "hard graft"
+    ],
+    "wiki": null,
+    "forms": [
+      "grafter",
+      "grafting"
+    ]
+  },
+  {
+    "headword": "doddle",
+    "register": "AMBER",
+    "us_equivalent": "breeze",
+    "gloss": "A very easy task.",
+    "usage": "Common and safe in friendly workplace chat.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The exam was a doddle.",
+      "Don't worry, it's a doddle."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "dogsbody",
+    "register": "AMBER",
+    "us_equivalent": "gofer",
+    "gloss": "A person who does the boring, menial jobs.",
+    "usage": "Common, often used self-deprecatingly about your role at work.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm just the office dogsbody.",
+      "I'm not your dogsbody."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "dogsbodies"
+    ]
+  },
+  {
+    "headword": "gaffer",
+    "register": "RED",
+    "us_equivalent": "boss",
+    "gloss": "The boss; also a football manager.",
+    "usage": "Informal, especially in the North and in football.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Ask the gaffer.",
+      "The gaffer wants to see you."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "sacked",
+    "register": "AMBER",
+    "us_equivalent": "fired",
+    "gloss": "Dismissed from a job.",
+    "usage": "Common; 'get the sack' is the noun form.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He got sacked for being late.",
+      "She was sacked last week."
+    ],
+    "collocations": [
+      "get the sack"
+    ],
+    "wiki": null,
+    "forms": [
+      "sack",
+      "sacking"
+    ]
+  },
+  {
+    "headword": "uni",
+    "register": "AMBER",
+    "us_equivalent": "college",
+    "gloss": "University.",
+    "usage": "Universal informal word among students, parents and graduates.",
+    "pragmatic_note": null,
+    "pitfall": "In the UK 'college' often means further education or a part of a university.",
+    "examples": [
+      "Where did you go to uni?",
+      "She's at uni in Leeds."
+    ],
+    "collocations": [
+      "at uni"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "kip",
+    "register": "RED",
+    "us_equivalent": "nap",
+    "gloss": "A sleep or nap; to sleep.",
+    "usage": "Informal and common, for naps and for where you sleep.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm going to have a quick kip.",
+      "Where are you kipping tonight?"
+    ],
+    "collocations": [
+      "have a kip"
+    ],
+    "wiki": null,
+    "forms": [
+      "kipping",
+      "kipped"
+    ]
+  },
+  {
+    "headword": "shattered",
+    "register": "AMBER",
+    "us_equivalent": "beat",
+    "gloss": "Extremely tired.",
+    "usage": "Very common way to say you are exhausted after work, travel or exercise.",
+    "pragmatic_note": null,
+    "pitfall": "Also the standard sense of broken into pieces.",
+    "examples": [
+      "I'm shattered after that run.",
+      "You look shattered."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "cream crackered",
+    "register": "RED",
+    "us_equivalent": "beat",
+    "gloss": "Exhausted; rhyming slang for 'knackered'.",
+    "usage": "Cockney rhyming slang used jokingly.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm cream crackered after work.",
+      "You look cream crackered."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "lie-in",
+    "register": "AMBER",
+    "us_equivalent": "sleep-in",
+    "gloss": "Staying in bed later than usual in the morning.",
+    "usage": "Very common, especially about weekends and holidays.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm having a lie-in on Sunday.",
+      "I love a good lie-in."
+    ],
+    "collocations": [
+      "have a lie-in"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "poorly",
+    "register": "AMBER",
+    "us_equivalent": "sick",
+    "gloss": "Unwell; ill.",
+    "usage": "Common, especially Northern and with children.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She's been poorly all week.",
+      "I'm feeling a bit poorly."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "lurgy",
+    "register": "RED",
+    "us_equivalent": "bug",
+    "gloss": "A minor illness, such as a cold.",
+    "usage": "Humorous, often 'the dreaded lurgy', for colds going round an office or school.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I've got the lurgy.",
+      "Half the office has the lurgy."
+    ],
+    "collocations": [
+      "the dreaded lurgy"
+    ],
+    "wiki": null,
+    "forms": [
+      "lurgi"
+    ]
+  },
+  {
+    "headword": "man flu",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "A cold that a man supposedly exaggerates as serious illness.",
+    "usage": "Humorous and teasing, used by partners and colleagues.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He's off with man flu.",
+      "It's just man flu, you'll live."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "collywobbles",
+    "register": "RED",
+    "us_equivalent": "the jitters",
+    "gloss": "Nervousness; butterflies in the stomach.",
+    "usage": "Informal and humorous, usually 'the collywobbles'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I've got the collywobbles before my interview.",
+      "Exams give me the collywobbles."
+    ],
+    "collocations": [
+      "the collywobbles"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "sick",
+    "register": "RED",
+    "us_equivalent": "awesome",
+    "gloss": "In slang, excellent; in Britain 'be sick' means vomit.",
+    "usage": "Youth slang for 'great'; standard British for vomiting.",
+    "pragmatic_note": null,
+    "pitfall": "British 'I feel sick' means nauseous; 'ill' is used for general illness.",
+    "examples": [
+      "That trick was sick!",
+      "I think I'm going to be sick."
+    ],
+    "collocations": [
+      "be sick",
+      "feel sick"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "kerfuffle",
+    "register": "AMBER",
+    "us_equivalent": "fuss",
+    "gloss": "A commotion or fuss.",
+    "usage": "Common and light-hearted, even in news reports.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "There was a bit of a kerfuffle at reception.",
+      "What's all the kerfuffle?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "palaver",
+    "register": "AMBER",
+    "us_equivalent": "hassle",
+    "gloss": "Tedious fuss and bother.",
+    "usage": "Common for tedious processes like paperwork, travel or setting up equipment.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "What a palaver to renew a passport.",
+      "It's such a palaver."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "rigmarole",
+    "register": "AMBER",
+    "us_equivalent": "runaround",
+    "gloss": "A long, complicated procedure.",
+    "usage": "Common for bureaucracy and long procedures.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "It's a real rigmarole to get a refund.",
+      "I can't face the rigmarole."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "malarkey",
+    "register": "RED",
+    "us_equivalent": "baloney",
+    "gloss": "Nonsense; silly behaviour.",
+    "usage": "Informal, often dismissive: 'all that malarkey'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Enough of this malarkey.",
+      "All that office party malarkey."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "aggro",
+    "register": "RED",
+    "us_equivalent": "trouble",
+    "gloss": "Aggressive behaviour; trouble; hassle.",
+    "usage": "Informal, both for aggression and for hassle you would rather avoid.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I don't want any aggro.",
+      "It's too much aggro."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "barney",
+    "register": "RED",
+    "us_equivalent": "fight",
+    "gloss": "A noisy argument.",
+    "usage": "Informal, common in England and Australia.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "They had a right barney.",
+      "There was a barney outside the pub."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "tiff",
+    "register": "AMBER",
+    "us_equivalent": "spat",
+    "gloss": "A small, unimportant quarrel.",
+    "usage": "Common, often about couples or friends.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "They had a little tiff.",
+      "Just a lovers' tiff."
+    ],
+    "collocations": [
+      "lovers' tiff"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "row",
+    "register": "AMBER",
+    "us_equivalent": "fight",
+    "gloss": "A noisy argument; to argue.",
+    "usage": "Very common in British speech for arguments of all sizes.",
+    "pragmatic_note": null,
+    "pitfall": "Rhymes with 'cow', not 'go'.",
+    "examples": [
+      "They had a blazing row.",
+      "Stop rowing, you two."
+    ],
+    "collocations": [
+      "blazing row"
+    ],
+    "wiki": null,
+    "forms": [
+      "rowing",
+      "rowed"
+    ]
+  },
+  {
+    "headword": "apples and pears",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "Stairs; Cockney rhyming slang.",
+    "usage": "Famous but rarely used; known as a cliché of Cockney.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Up the apples and pears to bed."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "butcher's",
+    "register": "RED",
+    "us_equivalent": "look",
+    "gloss": "A look; from 'butcher's hook'.",
+    "usage": "Cockney rhyming slang, still used: 'have a butcher's'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Let's have a butcher's.",
+      "Give us a butcher's at that."
+    ],
+    "collocations": [
+      "have a butcher's"
+    ],
+    "wiki": null,
+    "forms": [
+      "butcher's hook"
+    ]
+  },
+  {
+    "headword": "dog and bone",
+    "register": "RED",
+    "us_equivalent": "phone",
+    "gloss": "The telephone.",
+    "usage": "Cockney rhyming slang, mostly jokey now.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Get on the dog and bone."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "barnet",
+    "register": "RED",
+    "us_equivalent": "hair",
+    "gloss": "Hair; from 'Barnet Fair'.",
+    "usage": "Cockney rhyming slang, still heard across the UK, especially about haircuts.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Nice barnet!",
+      "I need to sort my barnet out."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "loaf",
+    "register": "RED",
+    "us_equivalent": "head",
+    "gloss": "Head, as in 'use your loaf'; from 'loaf of bread'.",
+    "usage": "Cockney rhyming slang, commonly 'use your loaf'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Use your loaf!"
+    ],
+    "collocations": [
+      "use your loaf"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "Scooby",
+    "register": "RED",
+    "us_equivalent": "clue",
+    "gloss": "A clue; from 'Scooby-Doo'.",
+    "usage": "Rhyming slang: 'I haven't got a Scooby'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I haven't got a Scooby.",
+      "He hasn't got a Scooby what he's doing."
+    ],
+    "collocations": [
+      "not a Scooby"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "Hank Marvin",
+    "register": "RED",
+    "us_equivalent": "starving",
+    "gloss": "Starving; rhyming slang.",
+    "usage": "Jokey rhyming slang from the guitarist's name.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm Hank Marvin, let's eat."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "china",
+    "register": "RED",
+    "us_equivalent": "buddy",
+    "gloss": "A friend; from 'china plate', meaning 'mate'.",
+    "usage": "Cockney rhyming slang, often 'me old china'.",
+    "pragmatic_note": null,
+    "pitfall": "Also porcelain, and the country China.",
+    "examples": [
+      "All right, me old china?"
+    ],
+    "collocations": [
+      "me old china"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "reckon",
+    "register": "AMBER",
+    "us_equivalent": "figure",
+    "gloss": "To think or suppose.",
+    "usage": "Very common in everyday British speech for opinions and guesses.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I reckon it'll rain later.",
+      "What do you reckon?"
+    ],
+    "collocations": [
+      "I reckon"
+    ],
+    "wiki": null,
+    "forms": [
+      "reckoned",
+      "reckoning"
+    ]
+  },
+  {
+    "headword": "fancy",
+    "register": "AMBER",
+    "us_equivalent": "want",
+    "gloss": "To want; to be attracted to someone.",
+    "usage": "Extremely common in offers and invitations, as in 'fancy a cuppa?' or 'fancy coming along?'.",
+    "pragmatic_note": null,
+    "pitfall": "As an adjective 'fancy' means elaborate or posh; as a verb it means want or be attracted to.",
+    "examples": [
+      "Fancy a drink?",
+      "I think he fancies you."
+    ],
+    "collocations": [
+      "fancy a"
+    ],
+    "wiki": null,
+    "forms": [
+      "fancied",
+      "fancies"
+    ]
+  },
+  {
+    "headword": "suss",
+    "register": "RED",
+    "us_equivalent": "figure out",
+    "gloss": "To realise or work out; 'sussed' means understood.",
+    "usage": "Common, often 'suss out' a person or a problem.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I've sussed it.",
+      "She sussed him out."
+    ],
+    "collocations": [
+      "suss out"
+    ],
+    "wiki": null,
+    "forms": [
+      "sussed",
+      "sussing"
+    ]
+  },
+  {
+    "headword": "twig",
+    "register": "RED",
+    "us_equivalent": "catch on",
+    "gloss": "To suddenly realise or understand.",
+    "usage": "Informal, often 'I didn't twig' when you were slow to realise.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I finally twigged what she meant.",
+      "He hasn't twigged yet."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "twigged"
+    ]
+  },
+  {
+    "headword": "clock",
+    "register": "RED",
+    "us_equivalent": "notice",
+    "gloss": "To notice or see.",
+    "usage": "Informal, for noticing a person or detail.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Did you clock his face?",
+      "I clocked her across the room."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "clocked"
+    ]
+  },
+  {
+    "headword": "chuck",
+    "register": "RED",
+    "us_equivalent": "toss",
+    "gloss": "To throw; to end a relationship with someone.",
+    "usage": "Very common; in the North 'chuck' is also a term of endearment.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Chuck us the keys.",
+      "She chucked him last week."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "chucked",
+      "chucking"
+    ]
+  },
+  {
+    "headword": "leg it",
+    "register": "RED",
+    "us_equivalent": "run",
+    "gloss": "To run away quickly.",
+    "usage": "Informal and jokey, for running away or running to catch something.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We legged it to the bus stop.",
+      "Leg it!"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "legged it"
+    ]
+  },
+  {
+    "headword": "scarper",
+    "register": "RED",
+    "us_equivalent": "scram",
+    "gloss": "To run away.",
+    "usage": "Informal, especially among children and in comic stories.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "They scarpered when the police came.",
+      "Scarper!"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "scarpered"
+    ]
+  },
+  {
+    "headword": "nip",
+    "register": "AMBER",
+    "us_equivalent": "run",
+    "gloss": "To go somewhere quickly or briefly.",
+    "usage": "Very common for short errands: 'nip to the shop', 'nip out'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm just nipping to the shop.",
+      "Can you nip out for milk?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "nipped",
+      "nipping"
+    ]
+  },
+  {
+    "headword": "pop",
+    "register": "AMBER",
+    "us_equivalent": "stop by",
+    "gloss": "To go somewhere briefly or put something somewhere.",
+    "usage": "Very common: 'pop round', 'pop it in the post'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll pop round later.",
+      "Just pop it on the table."
+    ],
+    "collocations": [
+      "pop round",
+      "pop in"
+    ],
+    "wiki": null,
+    "forms": [
+      "popped",
+      "popping"
+    ]
+  },
+  {
+    "headword": "potter",
+    "register": "AMBER",
+    "us_equivalent": "putter",
+    "gloss": "To spend time doing small pleasant tasks.",
+    "usage": "Common for gentle, unhurried activity at home or in the garden.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He's pottering in the garden.",
+      "I love a Sunday potter."
+    ],
+    "collocations": [
+      "potter about"
+    ],
+    "wiki": null,
+    "forms": [
+      "pottering",
+      "pottered"
+    ]
+  },
+  {
+    "headword": "mooch",
+    "register": "RED",
+    "us_equivalent": "wander",
+    "gloss": "To wander around aimlessly.",
+    "usage": "Informal, especially about browsing shops or markets.",
+    "pragmatic_note": null,
+    "pitfall": "In American English 'mooch' means to cadge.",
+    "examples": [
+      "We mooched around the market.",
+      "Let's have a mooch round the shops."
+    ],
+    "collocations": [
+      "mooch about"
+    ],
+    "wiki": null,
+    "forms": [
+      "mooched",
+      "mooching"
+    ]
+  },
+  {
+    "headword": "gawp",
+    "register": "RED",
+    "us_equivalent": "gawk",
+    "gloss": "To stare stupidly.",
+    "usage": "Informal and disapproving.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Stop gawping and help me.",
+      "People were gawping at the crash."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "gawping",
+      "gawped"
+    ]
+  },
+  {
+    "headword": "gander",
+    "register": "RED",
+    "us_equivalent": "look",
+    "gloss": "A look; 'have a gander'.",
+    "usage": "Informal and friendly, usually 'have a gander'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Have a gander at this.",
+      "Let's take a gander."
+    ],
+    "collocations": [
+      "have a gander"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "dekko",
+    "register": "RED",
+    "us_equivalent": "look",
+    "gloss": "A quick look; 'have a dekko'.",
+    "usage": "Informal and slightly old-fashioned, almost always in the phrase 'have a dekko'.",
+    "pragmatic_note": "Borrowed from Hindi-Urdu 'dekho' (look) via the British Army in India.",
+    "pitfall": null,
+    "examples": [
+      "Have a dekko at this."
+    ],
+    "collocations": [
+      "have a dekko"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "bagsy",
+    "register": "RED",
+    "us_equivalent": "dibs",
+    "gloss": "To claim something first.",
+    "usage": "Children's slang that adults use too, especially for car seats and the last slice.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Bagsy the front seat!"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "bags"
+    ]
+  },
+  {
+    "headword": "snog",
+    "register": "RED",
+    "us_equivalent": "make out",
+    "gloss": "To kiss passionately; a passionate kiss.",
+    "usage": "Very common and light-hearted, often about teenagers.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "They were snogging at the bus stop."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "snogging",
+      "snogged"
+    ]
+  },
+  {
+    "headword": "lark",
+    "register": "RED",
+    "us_equivalent": null,
+    "gloss": "A bit of fun or a prank; 'larking about'.",
+    "usage": "Informal; 'sod this for a lark' is ruder.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We did it for a lark.",
+      "Stop larking about."
+    ],
+    "collocations": [
+      "for a lark",
+      "larking about"
+    ],
+    "wiki": null,
+    "forms": [
+      "larking"
+    ]
+  },
+  {
+    "headword": "yonks",
+    "register": "RED",
+    "us_equivalent": "forever",
+    "gloss": "A very long time.",
+    "usage": "Informal and humorous, often when meeting an old friend.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I haven't seen you for yonks!",
+      "That was yonks ago."
+    ],
+    "collocations": [
+      "for yonks"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "mo",
+    "register": "RED",
+    "us_equivalent": "sec",
+    "gloss": "A moment.",
+    "usage": "Informal: 'half a mo'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Half a mo, I'll get my coat."
+    ],
+    "collocations": [
+      "half a mo"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "tick",
+    "register": "AMBER",
+    "us_equivalent": "sec",
+    "gloss": "A moment.",
+    "usage": "Informal and polite: 'just a tick'.",
+    "pragmatic_note": null,
+    "pitfall": "Also the mark Americans call a 'check'.",
+    "examples": [
+      "Just a tick, I'll be right with you."
+    ],
+    "collocations": [
+      "just a tick",
+      "in a tick"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "sharpish",
+    "register": "AMBER",
+    "us_equivalent": "pronto",
+    "gloss": "Quickly; without delay.",
+    "usage": "Common, often in instructions: 'get here sharpish'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We'd better leave sharpish.",
+      "I need it back sharpish."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "bottle",
+    "register": "RED",
+    "us_equivalent": "guts",
+    "gloss": "Courage; nerve.",
+    "usage": "Informal: 'lose your bottle', 'bottle it'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He lost his bottle at the last minute.",
+      "She's got a lot of bottle."
+    ],
+    "collocations": [
+      "lose your bottle",
+      "bottle it"
+    ],
+    "wiki": null,
+    "forms": [
+      "bottled"
+    ]
+  },
+  {
+    "headword": "gumption",
+    "register": "AMBER",
+    "us_equivalent": "common sense",
+    "gloss": "Practical common sense and initiative.",
+    "usage": "Common, often when criticising someone's lack of initiative.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Use a bit of gumption.",
+      "He hasn't got the gumption to ask."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "nous",
+    "register": "AMBER",
+    "us_equivalent": "savvy",
+    "gloss": "Practical intelligence; know-how.",
+    "usage": "Common in conversation and journalism, often 'business nous' or 'political nous'.",
+    "pragmatic_note": null,
+    "pitfall": "Pronounced to rhyme with 'house', not 'noose'.",
+    "examples": [
+      "She's got real business nous.",
+      "Use your nous."
+    ],
+    "collocations": [
+      "business nous"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "jammy",
+    "register": "RED",
+    "us_equivalent": "lucky",
+    "gloss": "Lucky, especially undeservedly.",
+    "usage": "Very common in England, often teasing: 'you jammy git'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "You jammy thing, you won again!",
+      "That was a jammy goal."
+    ],
+    "collocations": [
+      "jammy git"
+    ],
+    "wiki": null,
+    "forms": [
+      "jammier"
+    ]
+  },
+  {
+    "headword": "bum",
+    "register": "RED",
+    "us_equivalent": "butt",
+    "gloss": "Bottom; buttocks.",
+    "usage": "Common and mild, used with children and adults.",
+    "pragmatic_note": null,
+    "pitfall": "In American English 'bum' means a homeless person or layabout.",
+    "examples": [
+      "I fell on my bum.",
+      "Get off your bum and help."
+    ],
+    "collocations": [
+      "bum bag"
+    ],
+    "wiki": null,
+    "forms": [
+      "bums"
+    ]
+  },
+  {
+    "headword": "bonce",
+    "register": "RED",
+    "us_equivalent": "noggin",
+    "gloss": "Head.",
+    "usage": "Informal and humorous.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He bumped his bonce on the door."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "footie",
+    "register": "RED",
+    "us_equivalent": "soccer",
+    "gloss": "Football (soccer).",
+    "usage": "Informal, common among fans and players of all ages.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Are you watching the footie tonight?",
+      "Fancy a game of footie?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "footy"
+    ]
+  },
+  {
+    "headword": "hols",
+    "register": "RED",
+    "us_equivalent": "vacation",
+    "gloss": "Holidays.",
+    "usage": "Informal, slightly middle-class and jolly.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Where are you going for your hols?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "pressie",
+    "register": "RED",
+    "us_equivalent": "gift",
+    "gloss": "A present; a gift.",
+    "usage": "Informal and cheerful, especially around birthdays and Christmas.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I've got you a little pressie."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "prezzie"
+    ]
+  },
+  {
+    "headword": "jab",
+    "register": "AMBER",
+    "us_equivalent": "shot",
+    "gloss": "An injection, especially a vaccination.",
+    "usage": "Very common in British speech and news for vaccinations.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I've had my flu jab."
+    ],
+    "collocations": [
+      "flu jab"
+    ],
+    "wiki": null,
+    "forms": [
+      "jabs"
+    ]
+  },
+  {
+    "headword": "porridge",
+    "register": "RED",
+    "us_equivalent": "time",
+    "gloss": "Time spent in prison.",
+    "usage": "Informal, from the sitcom 'Porridge' and older prison slang.",
+    "pragmatic_note": null,
+    "pitfall": "Also the oat breakfast.",
+    "examples": [
+      "He's doing porridge for fraud."
+    ],
+    "collocations": [
+      "doing porridge"
+    ],
+    "wiki": null,
+    "forms": []
+  }
+]

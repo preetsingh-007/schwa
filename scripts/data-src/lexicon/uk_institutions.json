@@ -1,0 +1,6701 @@
+[
+  {
+    "headword": "nursery",
+    "register": "GREEN",
+    "us_equivalent": "preschool",
+    "gloss": "A setting that cares for and teaches children before they start school, usually under five.",
+    "usage": "Used by parents everywhere; 'nursery school' or 'nursery class' when attached to a primary school.",
+    "pragmatic_note": "Many parents say 'pre-school' or 'playgroup' for sessional groups run by volunteers or charities.",
+    "pitfall": "Not a place for growing plants in this sense, though 'plant nursery' also exists.",
+    "examples": [
+      "Our youngest starts nursery in September.",
+      "She picks the kids up from nursery at half five."
+    ],
+    "collocations": [
+      "nursery school",
+      "nursery place",
+      "day nursery"
+    ],
+    "wiki": null,
+    "forms": [
+      "nurseries"
+    ]
+  },
+  {
+    "headword": "reception",
+    "register": "GREEN",
+    "us_equivalent": "kindergarten",
+    "gloss": "The first year of primary school in England and Wales, for children aged four to five.",
+    "usage": "Parents and teachers say a child is 'in Reception' or 'starting Reception'.",
+    "pragmatic_note": "Children usually start Reception in the September after they turn four.",
+    "pitfall": "In the US, kindergarten is the equivalent year; in the UK 'kindergarten' is rare.",
+    "examples": [
+      "He's just started Reception and absolutely loves it.",
+      "Reception applications close in January."
+    ],
+    "collocations": [
+      "Reception class",
+      "start Reception",
+      "Reception teacher"
+    ],
+    "wiki": null,
+    "forms": [
+      "Reception"
+    ]
+  },
+  {
+    "headword": "primary school",
+    "register": "GREEN",
+    "us_equivalent": "elementary school",
+    "gloss": "A state or private school for children aged roughly four to eleven.",
+    "usage": "The standard term across the UK; 'primary' alone is common in speech.",
+    "pragmatic_note": "Some areas split primary into 'infant' and 'junior' schools.",
+    "pitfall": "Americans say 'elementary school' or 'grade school'; neither is used in the UK.",
+    "examples": [
+      "Both my kids went to the local primary school.",
+      "She teaches Year 4 at a primary in Leeds."
+    ],
+    "collocations": [
+      "local primary school",
+      "primary school teacher",
+      "primary education"
+    ],
+    "wiki": null,
+    "forms": [
+      "primary schools",
+      "primary"
+    ]
+  },
+  {
+    "headword": "secondary school",
+    "register": "GREEN",
+    "us_equivalent": "high school",
+    "gloss": "A school for pupils aged about eleven to sixteen or eighteen.",
+    "usage": "The standard UK term; 'secondary' alone is common, and many schools call themselves 'high schools' too.",
+    "pragmatic_note": null,
+    "pitfall": "In the UK 'high school' is just a name some secondaries use; it does not imply grades 9 to 12.",
+    "examples": [
+      "Which secondary school is she going to?",
+      "The move to secondary school can be a big step."
+    ],
+    "collocations": [
+      "secondary school",
+      "secondary education",
+      "start secondary"
+    ],
+    "wiki": null,
+    "forms": [
+      "secondary schools",
+      "secondary"
+    ]
+  },
+  {
+    "headword": "state school",
+    "register": "GREEN",
+    "us_equivalent": "public school",
+    "gloss": "A free school funded by the government and open to all children.",
+    "usage": "The neutral everyday term for non-fee-paying schools; most British children attend one.",
+    "pragmatic_note": "Whether someone went to a state or private school can still carry social weight in Britain.",
+    "pitfall": "The American 'public school' corresponds to the British 'state school', not the British 'public school'.",
+    "examples": [
+      "I went to an ordinary state school in Manchester.",
+      "Most teachers here trained in state schools."
+    ],
+    "collocations": [
+      "state school",
+      "state-educated",
+      "state sector"
+    ],
+    "wiki": null,
+    "forms": [
+      "state schools",
+      "state-educated"
+    ]
+  },
+  {
+    "headword": "public school",
+    "register": "GREEN",
+    "us_equivalent": "private school",
+    "gloss": "A long-established, prestigious fee-paying independent school in England, often a boarding school.",
+    "usage": "Used of famous old schools such as Eton or Harrow; often carries class connotations.",
+    "pragmatic_note": "Calling someone 'very public school' implies a privileged, upper-middle-class manner.",
+    "pitfall": "A classic false friend: in Britain a public school is private and expensive, not state-run.",
+    "examples": [
+      "He went to a public school and then Oxford.",
+      "She has that confident public-school way of speaking."
+    ],
+    "collocations": [
+      "public school",
+      "public-school educated",
+      "public-school accent"
+    ],
+    "wiki": null,
+    "forms": [
+      "public schools"
+    ]
+  },
+  {
+    "headword": "independent school",
+    "register": "GREEN",
+    "us_equivalent": "private school",
+    "gloss": "A fee-paying school that is not funded or run by the state.",
+    "usage": "The official, neutral term that schools use about themselves; 'private school' is the everyday equivalent.",
+    "pragmatic_note": "'Independent' sounds more formal and less loaded than 'private' or 'public school'.",
+    "pitfall": null,
+    "examples": [
+      "It's an independent school, so there are fees.",
+      "Independent schools must still be inspected."
+    ],
+    "collocations": [
+      "independent school",
+      "independent sector"
+    ],
+    "wiki": null,
+    "forms": [
+      "independent schools"
+    ]
+  },
+  {
+    "headword": "private school",
+    "register": "GREEN",
+    "us_equivalent": "private school",
+    "gloss": "A school that charges fees rather than being funded by the state.",
+    "usage": "The ordinary spoken term in Britain for any fee-paying school.",
+    "pragmatic_note": "Political debates about 'private schools' often concern their tax status and social advantage.",
+    "pitfall": null,
+    "examples": [
+      "They sent both children to private school.",
+      "Fees at private schools have risen sharply."
+    ],
+    "collocations": [
+      "private school",
+      "privately educated",
+      "private-school fees"
+    ],
+    "wiki": null,
+    "forms": [
+      "private schools",
+      "privately educated"
+    ]
+  },
+  {
+    "headword": "prep school",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A private school preparing children, usually up to thirteen, for entry to senior independent schools.",
+    "usage": "Used in the independent sector; short for 'preparatory school'.",
+    "pragmatic_note": null,
+    "pitfall": "In the US a 'prep school' is a private secondary school preparing students for college.",
+    "examples": [
+      "He was at prep school in Surrey until thirteen.",
+      "The prep school feeds into several boarding schools."
+    ],
+    "collocations": [
+      "prep school",
+      "preparatory school"
+    ],
+    "wiki": null,
+    "forms": [
+      "prep schools",
+      "preparatory school"
+    ]
+  },
+  {
+    "headword": "boarding school",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A school where pupils live during term time and go home for the holidays.",
+    "usage": "Mostly independent schools, though a few state boarding schools exist.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She was sent to boarding school at eleven.",
+      "Boarding school taught me to be independent."
+    ],
+    "collocations": [
+      "boarding school",
+      "boarder",
+      "weekly boarding"
+    ],
+    "wiki": null,
+    "forms": [
+      "boarding schools",
+      "boarder",
+      "boarders"
+    ]
+  },
+  {
+    "headword": "comprehensive",
+    "register": "GREEN",
+    "us_equivalent": "public high school",
+    "gloss": "A state secondary school that takes pupils of all abilities without selection by exam.",
+    "usage": "Common in speech and journalism; 'a comp' is informal.",
+    "pragmatic_note": "Saying 'I went to the local comp' signals an ordinary state education, sometimes with pride.",
+    "pitfall": "Not an adjective meaning 'thorough' here; it is a type of school.",
+    "examples": [
+      "I went to a big comprehensive in the Midlands.",
+      "Most secondaries in Wales are comprehensives."
+    ],
+    "collocations": [
+      "comprehensive school",
+      "the local comp"
+    ],
+    "wiki": null,
+    "forms": [
+      "comprehensives",
+      "comprehensive school",
+      "comp"
+    ]
+  },
+  {
+    "headword": "grammar school",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A state secondary school that selects pupils by an academic exam taken at about eleven.",
+    "usage": "Exists in some English areas such as Kent and Buckinghamshire, and widely in Northern Ireland.",
+    "pragmatic_note": "Grammar schools are politically divisive; supporters praise social mobility, critics call them unfair.",
+    "pitfall": "Nothing to do with teaching grammar; and unlike American usage, it is not a primary school.",
+    "examples": [
+      "She passed the eleven-plus and went to the grammar school.",
+      "Kent still has a lot of grammar schools."
+    ],
+    "collocations": [
+      "grammar school",
+      "grammar-school boy"
+    ],
+    "wiki": null,
+    "forms": [
+      "grammar schools",
+      "grammar"
+    ]
+  },
+  {
+    "headword": "eleven-plus",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An exam taken at about age ten or eleven to gain a place at a grammar school.",
+    "usage": "Used in areas that still have grammar schools; people say they 'passed' or 'failed' it.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He's being tutored for the eleven-plus.",
+      "Did you sit the eleven-plus?"
+    ],
+    "collocations": [
+      "sit the eleven-plus",
+      "pass the eleven-plus"
+    ],
+    "wiki": null,
+    "forms": [
+      "11-plus",
+      "11+"
+    ]
+  },
+  {
+    "headword": "academy",
+    "register": "GREEN",
+    "us_equivalent": "charter school",
+    "gloss": "A state-funded school in England run independently of the local council, often within a trust.",
+    "usage": "Very common in England; many schools have 'Academy' in their name.",
+    "pragmatic_note": null,
+    "pitfall": "In Britain an 'academy' is usually just an ordinary state school, not an elite or specialist institution.",
+    "examples": [
+      "Our local secondary became an academy a few years ago.",
+      "The academy trust runs six schools."
+    ],
+    "collocations": [
+      "academy trust",
+      "multi-academy trust",
+      "convert to an academy"
+    ],
+    "wiki": null,
+    "forms": [
+      "academies"
+    ]
+  },
+  {
+    "headword": "free school",
+    "register": "GREEN",
+    "us_equivalent": "charter school",
+    "gloss": "A new state-funded school in England set up outside local council control, often by parents or charities.",
+    "usage": "Used in English education policy and news.",
+    "pragmatic_note": null,
+    "pitfall": "'Free' refers to freedom from council control; all state schools are already free to attend.",
+    "examples": [
+      "A group of parents set up a free school nearby.",
+      "The free school opened with just two year groups."
+    ],
+    "collocations": [
+      "free school",
+      "open a free school"
+    ],
+    "wiki": null,
+    "forms": [
+      "free schools"
+    ]
+  },
+  {
+    "headword": "faith school",
+    "register": "GREEN",
+    "us_equivalent": "parochial school",
+    "gloss": "A school with a particular religious character, such as Church of England, Catholic or Jewish.",
+    "usage": "Many are state-funded; admissions may give priority to families of that faith.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The nearest primary is a Church of England faith school.",
+      "Faith schools can set their own admissions criteria."
+    ],
+    "collocations": [
+      "faith school",
+      "church school",
+      "Catholic school"
+    ],
+    "wiki": null,
+    "forms": [
+      "faith schools",
+      "church school"
+    ]
+  },
+  {
+    "headword": "sixth form",
+    "register": "GREEN",
+    "us_equivalent": "junior and senior year",
+    "gloss": "The final two years of secondary education, Years 12 and 13, usually studying A-levels.",
+    "usage": "Students 'go into the sixth form' or attend a separate 'sixth-form college'.",
+    "pragmatic_note": "Sixth-formers often get privileges such as their own common room or no uniform.",
+    "pitfall": "Not the sixth year of anything in particular; the name comes from old school year numbering.",
+    "examples": [
+      "She's staying on for the sixth form.",
+      "Sixth-formers don't have to wear uniform."
+    ],
+    "collocations": [
+      "sixth-form college",
+      "lower sixth",
+      "upper sixth"
+    ],
+    "wiki": null,
+    "forms": [
+      "sixth-former",
+      "sixth-formers",
+      "sixth-form"
+    ]
+  },
+  {
+    "headword": "sixth-form college",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A separate college for sixteen-to-eighteen-year-olds, mainly studying A-levels.",
+    "usage": "An alternative to staying at school; common across England.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I left school at sixteen and went to a sixth-form college.",
+      "The sixth-form college has a great drama department."
+    ],
+    "collocations": [
+      "sixth-form college"
+    ],
+    "wiki": null,
+    "forms": [
+      "sixth-form colleges"
+    ]
+  },
+  {
+    "headword": "further education",
+    "register": "GREEN",
+    "us_equivalent": "community college",
+    "gloss": "Education after sixteen that is below degree level, often vocational, at an FE college.",
+    "usage": "Used in policy and by colleges; 'FE' is the standard abbreviation.",
+    "pragmatic_note": null,
+    "pitfall": "Not the same as 'higher education', which means universities and degree-level study.",
+    "examples": [
+      "He did a plumbing course at the local further education college.",
+      "Funding for further education is tight."
+    ],
+    "collocations": [
+      "further education college",
+      "FE college",
+      "FE sector"
+    ],
+    "wiki": null,
+    "forms": [
+      "FE"
+    ]
+  },
+  {
+    "headword": "Year 7",
+    "register": "GREEN",
+    "us_equivalent": "sixth grade",
+    "gloss": "The first year of secondary school in England and Wales, for pupils aged eleven to twelve.",
+    "usage": "Year groups run from Year 1 at five to Year 13 at eighteen; teachers and parents always use these numbers.",
+    "pragmatic_note": "Scotland uses P1 to P7 and S1 to S6; Northern Ireland's Year 8 matches England's Year 7.",
+    "pitfall": "British years are numbered one higher than American grades: Year 7 equals sixth grade.",
+    "examples": [
+      "He's in Year 7 now, so he gets the bus to school.",
+      "Year 7s often find the first term daunting."
+    ],
+    "collocations": [
+      "start Year 7",
+      "Year 7 pupils"
+    ],
+    "wiki": null,
+    "forms": [
+      "Year 7s"
+    ]
+  },
+  {
+    "headword": "Year 11",
+    "register": "GREEN",
+    "us_equivalent": "tenth grade",
+    "gloss": "The final compulsory year of secondary school in England and Wales, when pupils take GCSEs.",
+    "usage": "Parents and teachers refer to 'Year 11' as the GCSE year.",
+    "pragmatic_note": null,
+    "pitfall": "Staying in education or training is compulsory until eighteen in England, though not necessarily at school.",
+    "examples": [
+      "Year 11 is a stressful year with all the exams.",
+      "She's in Year 11, so it's GCSEs this summer."
+    ],
+    "collocations": [
+      "Year 11 pupils",
+      "in Year 11"
+    ],
+    "wiki": null,
+    "forms": [
+      "Year 11s"
+    ]
+  },
+  {
+    "headword": "Key Stage",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "One of the stages of the National Curriculum in England, from Key Stage 1 to Key Stage 4.",
+    "usage": "Used by teachers and in school reports; often shortened to KS1, KS2 and so on.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Key Stage 2 tests are taken at the end of Year 6.",
+      "She teaches Key Stage 3 science."
+    ],
+    "collocations": [
+      "Key Stage 2",
+      "Key Stage 3",
+      "KS4"
+    ],
+    "wiki": null,
+    "forms": [
+      "Key Stages",
+      "KS1",
+      "KS2",
+      "KS3",
+      "KS4"
+    ]
+  },
+  {
+    "headword": "GCSEs",
+    "register": "GREEN",
+    "us_equivalent": "high school diploma courses",
+    "gloss": "Subject exams taken at about sixteen in England, Wales and Northern Ireland, graded 9 to 1 in England.",
+    "usage": "Everyone refers to 'doing' or 'sitting' GCSEs in Year 10 and Year 11.",
+    "pragmatic_note": "People often quote how many GCSEs they got, such as 'nine GCSEs including English and maths'.",
+    "pitfall": "Pronounced as letters, G-C-S-E; in England a 4 is a standard pass and a 9 the top grade.",
+    "examples": [
+      "How many GCSEs are you taking?",
+      "She got top grades in all her GCSEs."
+    ],
+    "collocations": [
+      "sit GCSEs",
+      "GCSE results",
+      "GCSE maths"
+    ],
+    "wiki": null,
+    "forms": [
+      "GCSE"
+    ]
+  },
+  {
+    "headword": "A-levels",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Advanced-level subject exams taken at about eighteen, usually three, graded A* to E.",
+    "usage": "The main route to university in England, Wales and Northern Ireland.",
+    "pragmatic_note": "University offers are typically stated as grades, such as 'AAB at A-level'.",
+    "pitfall": "Write 'A-level' with a hyphen; it is not a single grade A but a qualification level.",
+    "examples": [
+      "I'm doing history, English and French A-levels.",
+      "She needs three As at A-level for medicine."
+    ],
+    "collocations": [
+      "A-level results",
+      "A-level students",
+      "do A-levels"
+    ],
+    "wiki": null,
+    "forms": [
+      "A-level",
+      "A level",
+      "A levels"
+    ]
+  },
+  {
+    "headword": "AS level",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A qualification worth roughly half an A-level, now usually taken as a standalone exam in England.",
+    "usage": "Used by schools and sixth forms; some students take an extra subject to AS level.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I dropped chemistry after the AS level.",
+      "She took further maths as an AS level."
+    ],
+    "collocations": [
+      "AS level",
+      "AS exam"
+    ],
+    "wiki": null,
+    "forms": [
+      "AS levels",
+      "AS-level"
+    ]
+  },
+  {
+    "headword": "BTEC",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A practical, work-related qualification taken at school or college as an alternative to A-levels.",
+    "usage": "Common in further education; pronounced 'bee-tec'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He's doing a BTEC in sport instead of A-levels.",
+      "BTECs are accepted by many universities."
+    ],
+    "collocations": [
+      "BTEC course",
+      "BTEC diploma"
+    ],
+    "wiki": null,
+    "forms": [
+      "BTECs"
+    ]
+  },
+  {
+    "headword": "T Level",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A two-year technical qualification in England, equivalent to three A-levels, including an industry placement.",
+    "usage": "A relatively recent post-sixteen option offered by colleges and some schools.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "My nephew's doing a T Level in engineering.",
+      "T Levels include a long work placement."
+    ],
+    "collocations": [
+      "T Level course",
+      "T Level placement"
+    ],
+    "wiki": null,
+    "forms": [
+      "T Levels",
+      "T-level"
+    ]
+  },
+  {
+    "headword": "Highers",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Scottish national exams usually taken at sixteen or seventeen, the main route to Scottish universities.",
+    "usage": "Used in Scotland; 'Advanced Highers' follow in the final year.",
+    "pragmatic_note": "Scottish students often start university at seventeen after Highers, with four-year degrees.",
+    "pitfall": null,
+    "examples": [
+      "She got five As in her Highers.",
+      "Scottish universities ask for Highers rather than A-levels."
+    ],
+    "collocations": [
+      "sit Highers",
+      "Advanced Highers"
+    ],
+    "wiki": null,
+    "forms": [
+      "Higher",
+      "Advanced Highers"
+    ]
+  },
+  {
+    "headword": "mocks",
+    "register": "GREEN",
+    "us_equivalent": "practice exams",
+    "gloss": "Practice exams taken in school months before the real GCSEs or A-levels.",
+    "usage": "Universal among pupils and teachers; results help set predicted grades.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Our mocks are straight after Christmas.",
+      "I didn't do well in my mocks, so I'm worried."
+    ],
+    "collocations": [
+      "mock exams",
+      "sit mocks",
+      "mock results"
+    ],
+    "wiki": null,
+    "forms": [
+      "mock",
+      "mock exam",
+      "mock exams"
+    ]
+  },
+  {
+    "headword": "resit",
+    "register": "GREEN",
+    "us_equivalent": "retake",
+    "gloss": "To take an exam again after failing or wanting a better grade; also the exam itself.",
+    "usage": "Common at school and university; GCSE English and maths resits are compulsory in England below a 4.",
+    "pragmatic_note": null,
+    "pitfall": "Stress varies: the verb is re-SIT and the noun is RE-sit.",
+    "examples": [
+      "He has to resit his maths GCSE in November.",
+      "The resits are in August."
+    ],
+    "collocations": [
+      "resit an exam",
+      "resit year"
+    ],
+    "wiki": null,
+    "forms": [
+      "resits",
+      "resat",
+      "resitting",
+      "re-sit"
+    ]
+  },
+  {
+    "headword": "revision",
+    "register": "GREEN",
+    "us_equivalent": "review",
+    "gloss": "Studying material again in preparation for an exam.",
+    "usage": "Universal among British students: 'I'm doing revision', 'revision timetable'.",
+    "pragmatic_note": null,
+    "pitfall": "In US English 'revision' means rewriting; Americans say 'review' for exam preparation.",
+    "examples": [
+      "I've got loads of revision to do this weekend.",
+      "Have you made a revision timetable?"
+    ],
+    "collocations": [
+      "revision timetable",
+      "do revision",
+      "revision notes"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "revise",
+    "register": "GREEN",
+    "us_equivalent": "study, review",
+    "gloss": "To study material again in preparation for an exam.",
+    "usage": "Students in Britain 'revise for' an exam; very common in speech.",
+    "pragmatic_note": null,
+    "pitfall": "Americans would say 'study for'; 'revise' in US English only means to edit or alter.",
+    "examples": [
+      "I need to revise for my chemistry exam.",
+      "She's been revising all week."
+    ],
+    "collocations": [
+      "revise for an exam",
+      "revise hard"
+    ],
+    "wiki": null,
+    "forms": [
+      "revised",
+      "revising",
+      "revises"
+    ]
+  },
+  {
+    "headword": "marks",
+    "register": "GREEN",
+    "us_equivalent": "points, scores",
+    "gloss": "Points awarded for answers in a test or piece of work.",
+    "usage": "British teachers 'mark' work and give 'marks'; 'grades' are usually the final letters or numbers.",
+    "pragmatic_note": null,
+    "pitfall": "Americans 'grade' papers; in the UK you mark an essay and it gets a mark out of a total.",
+    "examples": [
+      "I got 72 marks out of 80.",
+      "She lost marks for not showing her working."
+    ],
+    "collocations": [
+      "full marks",
+      "lose marks",
+      "pass mark"
+    ],
+    "wiki": null,
+    "forms": [
+      "mark",
+      "marked",
+      "marking"
+    ]
+  },
+  {
+    "headword": "mark scheme",
+    "register": "GREEN",
+    "us_equivalent": "answer key, rubric",
+    "gloss": "The official guide showing examiners how to award marks for each answer.",
+    "usage": "Used by teachers and students preparing for public exams.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Check your answers against the mark scheme.",
+      "The mark scheme rewards clear reasoning."
+    ],
+    "collocations": [
+      "mark scheme",
+      "follow the mark scheme"
+    ],
+    "wiki": null,
+    "forms": [
+      "mark schemes"
+    ]
+  },
+  {
+    "headword": "predicted grades",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The A-level grades a teacher forecasts for a student, used in university applications.",
+    "usage": "Central to the UK university admissions process.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "My predicted grades are AAB.",
+      "Universities make offers based on predicted grades."
+    ],
+    "collocations": [
+      "predicted grades",
+      "predicted A*"
+    ],
+    "wiki": null,
+    "forms": [
+      "predicted grade",
+      "predictions"
+    ]
+  },
+  {
+    "headword": "invigilator",
+    "register": "GREEN",
+    "us_equivalent": "proctor",
+    "gloss": "A person who supervises candidates during an exam to prevent cheating.",
+    "usage": "Standard in British schools and universities.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'proctor'; in the UK a proctor is an Oxbridge disciplinary officer.",
+    "examples": [
+      "The invigilator told us to put our pens down.",
+      "Ask the invigilator if you need more paper."
+    ],
+    "collocations": [
+      "exam invigilator"
+    ],
+    "wiki": null,
+    "forms": [
+      "invigilators",
+      "invigilate",
+      "invigilated",
+      "invigilating"
+    ]
+  },
+  {
+    "headword": "head teacher",
+    "register": "GREEN",
+    "us_equivalent": "principal",
+    "gloss": "The teacher in charge of a school.",
+    "usage": "The standard neutral term; pupils and parents often say 'the head'.",
+    "pragmatic_note": "'Headmaster' and 'headmistress' are older and now mainly used in private schools.",
+    "pitfall": "'Principal' is used in the UK mainly for colleges, not ordinary schools.",
+    "examples": [
+      "The head teacher wrote to all the parents.",
+      "I was sent to the head's office."
+    ],
+    "collocations": [
+      "head teacher",
+      "deputy head",
+      "acting head"
+    ],
+    "wiki": null,
+    "forms": [
+      "headteacher",
+      "head",
+      "headmaster",
+      "headmistress",
+      "head teachers"
+    ]
+  },
+  {
+    "headword": "form tutor",
+    "register": "GREEN",
+    "us_equivalent": "homeroom teacher",
+    "gloss": "The teacher responsible for a class group's pastoral care and daily registration.",
+    "usage": "Used in secondary schools; pupils see their form tutor every morning.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Speak to your form tutor if you're struggling.",
+      "My form tutor takes the register at twenty to nine."
+    ],
+    "collocations": [
+      "form tutor",
+      "form group"
+    ],
+    "wiki": null,
+    "forms": [
+      "form tutors",
+      "form teacher"
+    ]
+  },
+  {
+    "headword": "form",
+    "register": "GREEN",
+    "us_equivalent": "homeroom, grade",
+    "gloss": "A class group of pupils in a secondary school; also, in some private schools, a year group.",
+    "usage": "'Form time' and 'form room' are common; 'sixth form' preserves the old year numbering.",
+    "pragmatic_note": null,
+    "pitfall": "Also means a document to fill in; context makes the sense clear.",
+    "examples": [
+      "We have form time before first lesson.",
+      "She's in the same form as my son."
+    ],
+    "collocations": [
+      "form time",
+      "form room",
+      "form group"
+    ],
+    "wiki": null,
+    "forms": [
+      "forms"
+    ]
+  },
+  {
+    "headword": "take the register",
+    "register": "GREEN",
+    "us_equivalent": "take attendance, take roll",
+    "gloss": "To record which pupils are present at the start of a lesson or day.",
+    "usage": "Standard in British schools; also used at clubs and training courses.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Miss Jones takes the register every morning.",
+      "I'll just take the register before we start."
+    ],
+    "collocations": [
+      "take the register",
+      "register time"
+    ],
+    "wiki": null,
+    "forms": [
+      "took the register",
+      "taking the register"
+    ]
+  },
+  {
+    "headword": "supply teacher",
+    "register": "GREEN",
+    "us_equivalent": "substitute teacher",
+    "gloss": "A teacher who covers temporarily for an absent colleague.",
+    "usage": "Universal in British schools; pupils simply say 'we had a supply'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'substitute' or 'sub'; 'supply' is the British term.",
+    "examples": [
+      "We had a supply teacher for maths today.",
+      "She does supply work in local primaries."
+    ],
+    "collocations": [
+      "supply teacher",
+      "supply work",
+      "on supply"
+    ],
+    "wiki": null,
+    "forms": [
+      "supply teachers",
+      "supply"
+    ]
+  },
+  {
+    "headword": "teaching assistant",
+    "register": "GREEN",
+    "us_equivalent": "teacher's aide",
+    "gloss": "A member of school staff who supports teachers and pupils in the classroom.",
+    "usage": "Common in primary schools; often shortened to 'TA'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The teaching assistant works with a small reading group.",
+      "She's a TA at our local primary."
+    ],
+    "collocations": [
+      "teaching assistant",
+      "TA"
+    ],
+    "wiki": null,
+    "forms": [
+      "teaching assistants",
+      "TA",
+      "TAs"
+    ]
+  },
+  {
+    "headword": "pupil",
+    "register": "GREEN",
+    "us_equivalent": "student",
+    "gloss": "A child at school.",
+    "usage": "Standard for schoolchildren; 'student' is used for sixth-formers, college and university.",
+    "pragmatic_note": null,
+    "pitfall": "Many Britons find 'student' slightly odd for young schoolchildren; 'pupil' is preferred.",
+    "examples": [
+      "The school has about eight hundred pupils.",
+      "Pupils must wear their blazers at all times."
+    ],
+    "collocations": [
+      "primary-school pupils",
+      "pupil numbers",
+      "former pupil"
+    ],
+    "wiki": null,
+    "forms": [
+      "pupils"
+    ]
+  },
+  {
+    "headword": "timetable",
+    "register": "GREEN",
+    "us_equivalent": "class schedule",
+    "gloss": "A chart showing when lessons, classes or events happen.",
+    "usage": "Universal at school and university; also used for trains and buses.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'schedule'; British students 'check the timetable'.",
+    "examples": [
+      "What have we got next on the timetable?",
+      "The new timetable starts after half-term."
+    ],
+    "collocations": [
+      "school timetable",
+      "revision timetable",
+      "timetabled"
+    ],
+    "wiki": null,
+    "forms": [
+      "timetables",
+      "timetabled"
+    ]
+  },
+  {
+    "headword": "assembly",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A gathering of the whole school or a year group, often with announcements or a short talk.",
+    "usage": "A regular feature of British school life.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We had a special assembly about online safety.",
+      "The head announced it in assembly."
+    ],
+    "collocations": [
+      "school assembly",
+      "whole-school assembly"
+    ],
+    "wiki": null,
+    "forms": [
+      "assemblies"
+    ]
+  },
+  {
+    "headword": "break time",
+    "register": "GREEN",
+    "us_equivalent": "recess",
+    "gloss": "A short rest period between lessons when pupils go outside.",
+    "usage": "Used in secondary schools; primary schools often say 'playtime'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'recess'; in the UK 'recess' is used for Parliament's holidays.",
+    "examples": [
+      "I'll see you at break.",
+      "We're not allowed on the field at break time."
+    ],
+    "collocations": [
+      "break time",
+      "morning break"
+    ],
+    "wiki": null,
+    "forms": [
+      "break"
+    ]
+  },
+  {
+    "headword": "playtime",
+    "register": "GREEN",
+    "us_equivalent": "recess",
+    "gloss": "A rest period in a primary school day when children play outside.",
+    "usage": "Used mainly in primary schools.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "They play football at playtime.",
+      "Playtime was cancelled because of the rain."
+    ],
+    "collocations": [
+      "morning playtime",
+      "wet playtime"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "half-term",
+    "register": "GREEN",
+    "us_equivalent": "midterm break",
+    "gloss": "A short holiday, usually a week, in the middle of each school term.",
+    "usage": "Universal in British school life; families plan trips around it.",
+    "pragmatic_note": "Holiday prices notoriously rise during half-term weeks.",
+    "pitfall": null,
+    "examples": [
+      "We're going to Cornwall over half-term.",
+      "School finishes on Friday for half-term."
+    ],
+    "collocations": [
+      "half-term holiday",
+      "February half-term",
+      "over half-term"
+    ],
+    "wiki": null,
+    "forms": [
+      "half term"
+    ]
+  },
+  {
+    "headword": "term",
+    "register": "GREEN",
+    "us_equivalent": "semester",
+    "gloss": "One of the periods, usually three, into which the school or university year is divided.",
+    "usage": "Schools have autumn, spring and summer terms; 'term time' contrasts with the holidays.",
+    "pragmatic_note": "Oxford and Cambridge name theirs, such as Michaelmas term in the autumn.",
+    "pitfall": "British institutions rarely say 'semester', though some universities now use it.",
+    "examples": [
+      "The autumn term starts in early September.",
+      "It's hard to get time off during term time."
+    ],
+    "collocations": [
+      "term time",
+      "end of term",
+      "summer term"
+    ],
+    "wiki": null,
+    "forms": [
+      "terms"
+    ]
+  },
+  {
+    "headword": "INSET day",
+    "register": "GREEN",
+    "us_equivalent": "teacher in-service day",
+    "gloss": "A day when a school is closed to pupils so staff can do training.",
+    "usage": "Parents use the term often, usually when arranging childcare.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "There's an INSET day on Monday, so no school.",
+      "They always seem to put an INSET day next to half-term."
+    ],
+    "collocations": [
+      "INSET day",
+      "training day"
+    ],
+    "wiki": null,
+    "forms": [
+      "INSET days",
+      "inset day",
+      "training day"
+    ]
+  },
+  {
+    "headword": "parents' evening",
+    "register": "GREEN",
+    "us_equivalent": "parent-teacher conference",
+    "gloss": "An evening when parents meet teachers to discuss their child's progress.",
+    "usage": "A fixed feature of British school life.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "It's parents' evening on Thursday.",
+      "His teachers were very positive at parents' evening."
+    ],
+    "collocations": [
+      "parents' evening",
+      "parents' evening appointment"
+    ],
+    "wiki": null,
+    "forms": [
+      "parents evening"
+    ]
+  },
+  {
+    "headword": "exclusion",
+    "register": "GREEN",
+    "us_equivalent": "suspension, expulsion",
+    "gloss": "The official removal of a pupil from school, temporarily or permanently, for misbehaviour.",
+    "usage": "Used in English schools and policy; 'permanent exclusion' means expulsion.",
+    "pragmatic_note": null,
+    "pitfall": "Schools now officially call a temporary exclusion a 'suspension'.",
+    "examples": [
+      "The school issued a permanent exclusion.",
+      "Exclusion rates have risen in some areas."
+    ],
+    "collocations": [
+      "permanent exclusion",
+      "fixed-term exclusion"
+    ],
+    "wiki": null,
+    "forms": [
+      "excluded",
+      "exclude",
+      "exclusions"
+    ]
+  },
+  {
+    "headword": "Ofsted",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The government body that inspects and reports on schools, nurseries and children's services in England.",
+    "usage": "Universal among teachers and parents; schools mention their latest Ofsted report.",
+    "pragmatic_note": "Pronounced 'OFF-sted'; an upcoming inspection is a major source of staff stress.",
+    "pitfall": null,
+    "examples": [
+      "Ofsted are coming in next week.",
+      "The school's last Ofsted report was very positive."
+    ],
+    "collocations": [
+      "Ofsted inspection",
+      "Ofsted report",
+      "Ofsted rating"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "league tables",
+    "register": "GREEN",
+    "us_equivalent": "school rankings",
+    "gloss": "Published rankings of schools or universities by exam results and other measures.",
+    "usage": "Used in news and by parents choosing schools.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The school has climbed the league tables.",
+      "University league tables can be misleading."
+    ],
+    "collocations": [
+      "school league tables",
+      "university league tables"
+    ],
+    "wiki": null,
+    "forms": [
+      "league table"
+    ]
+  },
+  {
+    "headword": "catchment area",
+    "register": "GREEN",
+    "us_equivalent": "school district",
+    "gloss": "The area from which a school takes most of its pupils.",
+    "usage": "Central to school admissions; families move house to be 'in catchment'.",
+    "pragmatic_note": "House prices in the catchment of a popular school can be noticeably higher.",
+    "pitfall": null,
+    "examples": [
+      "We're just outside the catchment area.",
+      "They moved to get into the catchment for the grammar."
+    ],
+    "collocations": [
+      "catchment area",
+      "in catchment"
+    ],
+    "wiki": null,
+    "forms": [
+      "catchment",
+      "catchment areas"
+    ]
+  },
+  {
+    "headword": "PE",
+    "register": "GREEN",
+    "us_equivalent": "gym class",
+    "gloss": "Physical education, the school sport and exercise lesson.",
+    "usage": "Universal in schools; 'PE kit' is what pupils change into.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'gym'; in Britain 'gym' is mainly a place for adults to work out.",
+    "examples": [
+      "We've got PE last thing on Friday.",
+      "Don't forget your PE kit."
+    ],
+    "collocations": [
+      "PE kit",
+      "PE lesson",
+      "PE teacher"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "maths",
+    "register": "GREEN",
+    "us_equivalent": "math",
+    "gloss": "Mathematics as a subject.",
+    "usage": "The only normal British form.",
+    "pragmatic_note": null,
+    "pitfall": "'Math' sounds distinctly American to British ears.",
+    "examples": [
+      "I was never any good at maths.",
+      "She teaches maths at a secondary school."
+    ],
+    "collocations": [
+      "maths teacher",
+      "maths GCSE",
+      "do maths"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "SEND",
+    "register": "GREEN",
+    "us_equivalent": "special education",
+    "gloss": "Special educational needs and disabilities; the framework for supporting pupils who need extra help.",
+    "usage": "Used by schools and councils; older term 'SEN' is still common.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The school has a dedicated SEND coordinator.",
+      "Her son has an assessment for SEND support."
+    ],
+    "collocations": [
+      "SEND support",
+      "SENCO",
+      "SEND pupils"
+    ],
+    "wiki": null,
+    "forms": [
+      "SEN",
+      "SENCO"
+    ]
+  },
+  {
+    "headword": "head girl",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A senior pupil chosen to represent a school, alongside a 'head boy'.",
+    "usage": "Traditional in independent and many state schools.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She was head girl at her school.",
+      "The head boy and head girl gave a speech."
+    ],
+    "collocations": [
+      "head girl",
+      "head boy"
+    ],
+    "wiki": null,
+    "forms": [
+      "head boy",
+      "head girls",
+      "head boys"
+    ]
+  },
+  {
+    "headword": "school leaver",
+    "register": "GREEN",
+    "us_equivalent": "high school graduate",
+    "gloss": "A young person who has just finished school.",
+    "usage": "Used by employers, colleges and in policy.",
+    "pragmatic_note": null,
+    "pitfall": "British schools do not usually hold 'graduations'; 'graduate' means someone with a degree.",
+    "examples": [
+      "The scheme is aimed at school leavers.",
+      "We recruit school leavers as well as graduates."
+    ],
+    "collocations": [
+      "school leaver",
+      "school-leaving age"
+    ],
+    "wiki": null,
+    "forms": [
+      "school leavers",
+      "leave school"
+    ]
+  },
+  {
+    "headword": "apprenticeship",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A paid job with structured training, leading to a recognised qualification.",
+    "usage": "Widely promoted as an alternative to university; 'degree apprenticeships' also exist.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He's doing an apprenticeship with an engineering firm.",
+      "Degree apprenticeships are increasingly popular."
+    ],
+    "collocations": [
+      "degree apprenticeship",
+      "start an apprenticeship"
+    ],
+    "wiki": null,
+    "forms": [
+      "apprenticeships",
+      "apprentice",
+      "apprentices"
+    ]
+  },
+  {
+    "headword": "uni",
+    "register": "AMBER",
+    "us_equivalent": "college",
+    "gloss": "University.",
+    "usage": "The everyday spoken word among students and young people.",
+    "pragmatic_note": "People say they 'went to uni' or are 'at uni', never 'at the uni'.",
+    "pitfall": "Americans say 'college'; in Britain 'college' is usually a sixth-form or FE college.",
+    "examples": [
+      "Where did you go to uni?",
+      "She's off to uni in September."
+    ],
+    "collocations": [
+      "go to uni",
+      "at uni",
+      "uni friends"
+    ],
+    "wiki": null,
+    "forms": [
+      "unis"
+    ]
+  },
+  {
+    "headword": "university",
+    "register": "GREEN",
+    "us_equivalent": "college",
+    "gloss": "An institution that awards degrees and carries out research.",
+    "usage": "People say 'go to university' or 'at university', without 'the'.",
+    "pragmatic_note": null,
+    "pitfall": "In the UK you go 'to university', not 'to college', for a degree.",
+    "examples": [
+      "He's at university in Glasgow.",
+      "Did you go to university straight from school?"
+    ],
+    "collocations": [
+      "go to university",
+      "university place",
+      "university degree"
+    ],
+    "wiki": null,
+    "forms": [
+      "universities"
+    ]
+  },
+  {
+    "headword": "fresher",
+    "register": "AMBER",
+    "us_equivalent": "freshman",
+    "gloss": "A first-year university student, especially at the start of the year.",
+    "usage": "Universal on British campuses.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'freshman', which sounds American in Britain.",
+    "examples": [
+      "The freshers are arriving this weekend.",
+      "I was so nervous as a fresher."
+    ],
+    "collocations": [
+      "freshers' fair",
+      "fresher"
+    ],
+    "wiki": null,
+    "forms": [
+      "freshers"
+    ]
+  },
+  {
+    "headword": "Freshers' Week",
+    "register": "AMBER",
+    "us_equivalent": "orientation week",
+    "gloss": "The first week of the university year, with events and parties for new students.",
+    "usage": "Universal on British campuses; also called 'Welcome Week' by some universities.",
+    "pragmatic_note": "'Freshers' flu' is the jokey name for the cold everyone catches that week.",
+    "pitfall": null,
+    "examples": [
+      "Freshers' Week was mostly a blur.",
+      "Join a few societies during Freshers' Week."
+    ],
+    "collocations": [
+      "Freshers' Week",
+      "freshers' fair",
+      "freshers' flu"
+    ],
+    "wiki": null,
+    "forms": [
+      "freshers week"
+    ]
+  },
+  {
+    "headword": "halls",
+    "register": "AMBER",
+    "us_equivalent": "dorms",
+    "gloss": "University accommodation for students, especially first-years; short for 'halls of residence'.",
+    "usage": "Students say they are 'in halls' during first year.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'dorms'; 'dormitory' in Britain suggests a shared boarding-school room.",
+    "examples": [
+      "I lived in halls in my first year.",
+      "Are you in halls or a private flat?"
+    ],
+    "collocations": [
+      "halls of residence",
+      "in halls",
+      "catered halls"
+    ],
+    "wiki": null,
+    "forms": [
+      "halls of residence",
+      "hall"
+    ]
+  },
+  {
+    "headword": "postgraduate",
+    "register": "GREEN",
+    "us_equivalent": "graduate student",
+    "gloss": "A student studying for a further degree after a first degree, such as a master's or PhD.",
+    "usage": "Standard in universities; 'postgrad' is informal.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'graduate student' or 'grad student'.",
+    "examples": [
+      "He's a postgraduate in economics.",
+      "Postgraduate funding is hard to find."
+    ],
+    "collocations": [
+      "postgraduate study",
+      "postgraduate course"
+    ],
+    "wiki": null,
+    "forms": [
+      "postgrad",
+      "postgraduates"
+    ]
+  },
+  {
+    "headword": "first",
+    "register": "GREEN",
+    "us_equivalent": "summa cum laude",
+    "gloss": "The highest class of British undergraduate honours degree.",
+    "usage": "People say they 'got a first'; very common in conversation and CVs.",
+    "pragmatic_note": null,
+    "pitfall": "Degrees are classified, not given a GPA: first, 2:1, 2:2, third.",
+    "examples": [
+      "She got a first in history.",
+      "He was hoping for a first but got a 2:1."
+    ],
+    "collocations": [
+      "first-class degree",
+      "get a first"
+    ],
+    "wiki": null,
+    "forms": [
+      "first-class degree",
+      "firsts"
+    ]
+  },
+  {
+    "headword": "2:1",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An upper second-class honours degree, the most common classification and a typical employer requirement.",
+    "usage": "Said as 'a two-one'; often specified on graduate job adverts.",
+    "pragmatic_note": "A 2:2 is jokingly called a 'Desmond', from rhyming slang.",
+    "pitfall": null,
+    "examples": [
+      "Applicants must have at least a 2:1.",
+      "I got a two-one in law."
+    ],
+    "collocations": [
+      "a 2:1",
+      "upper second"
+    ],
+    "wiki": null,
+    "forms": [
+      "two-one",
+      "upper second"
+    ]
+  },
+  {
+    "headword": "honours degree",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A bachelor's degree with a classification such as first or 2:1, usually taking three years.",
+    "usage": "Standard term; written BA (Hons) or BSc (Hons).",
+    "pragmatic_note": "Scottish honours degrees normally take four years.",
+    "pitfall": null,
+    "examples": [
+      "She has an honours degree in chemistry.",
+      "It's a three-year honours degree."
+    ],
+    "collocations": [
+      "honours degree",
+      "BA Hons"
+    ],
+    "wiki": null,
+    "forms": [
+      "Hons"
+    ]
+  },
+  {
+    "headword": "degree",
+    "register": "GREEN",
+    "us_equivalent": "major",
+    "gloss": "A university qualification, or the subject studied for it.",
+    "usage": "Britons ask 'What's your degree in?' or 'What did you study?'.",
+    "pragmatic_note": null,
+    "pitfall": "Britons do not say 'major'; you 'do a degree in' or 'study' a subject.",
+    "examples": [
+      "What's your degree in?",
+      "I did a degree in geography."
+    ],
+    "collocations": [
+      "degree in",
+      "do a degree",
+      "degree course"
+    ],
+    "wiki": null,
+    "forms": [
+      "degrees"
+    ]
+  },
+  {
+    "headword": "read",
+    "register": "GREEN",
+    "us_equivalent": "major in",
+    "gloss": "To study a subject for a degree, especially at an older university.",
+    "usage": "Formal and slightly old-fashioned, associated with Oxford and Cambridge.",
+    "pragmatic_note": "Saying you 'read' a subject can sound grand; 'studied' is safer in everyday speech.",
+    "pitfall": null,
+    "examples": [
+      "She read law at Cambridge.",
+      "He read English before going into publishing."
+    ],
+    "collocations": [
+      "read law",
+      "read history"
+    ],
+    "wiki": null,
+    "forms": [
+      "reads",
+      "reading"
+    ]
+  },
+  {
+    "headword": "course",
+    "register": "GREEN",
+    "us_equivalent": "program, major",
+    "gloss": "A programme of study leading to a qualification, such as a degree.",
+    "usage": "Students talk about their 'course' rather than 'programme'; 'course-mates' share it.",
+    "pragmatic_note": null,
+    "pitfall": "In the UK a whole degree is a 'course'; Americans use 'course' for one class.",
+    "examples": [
+      "How's your course going?",
+      "My course is three years long."
+    ],
+    "collocations": [
+      "degree course",
+      "course-mates"
+    ],
+    "wiki": null,
+    "forms": [
+      "courses"
+    ]
+  },
+  {
+    "headword": "dissertation",
+    "register": "GREEN",
+    "us_equivalent": "thesis, senior thesis",
+    "gloss": "A long piece of independent research written for an undergraduate or master's degree.",
+    "usage": "Standard in British universities, usually in the final year.",
+    "pragmatic_note": null,
+    "pitfall": "In the UK a PhD produces a 'thesis'; in the US it is a 'dissertation'.",
+    "examples": [
+      "I'm writing my dissertation on migration.",
+      "The dissertation is due in May."
+    ],
+    "collocations": [
+      "write a dissertation",
+      "dissertation supervisor"
+    ],
+    "wiki": null,
+    "forms": [
+      "dissertations"
+    ]
+  },
+  {
+    "headword": "thesis",
+    "register": "GREEN",
+    "us_equivalent": "dissertation",
+    "gloss": "A long research work submitted for a doctorate or research master's.",
+    "usage": "Used in British universities chiefly for PhDs.",
+    "pragmatic_note": null,
+    "pitfall": "British 'dissertation' and 'thesis' are roughly the reverse of American usage.",
+    "examples": [
+      "She's in the final year of her PhD thesis.",
+      "He submitted his thesis last month."
+    ],
+    "collocations": [
+      "PhD thesis",
+      "submit a thesis"
+    ],
+    "wiki": null,
+    "forms": [
+      "theses"
+    ]
+  },
+  {
+    "headword": "viva",
+    "register": "GREEN",
+    "us_equivalent": "dissertation defense",
+    "gloss": "An oral examination where a PhD candidate defends their thesis.",
+    "usage": "Short for 'viva voce'; used throughout British academia.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "My viva is next Thursday.",
+      "She passed her viva with minor corrections."
+    ],
+    "collocations": [
+      "PhD viva",
+      "pass the viva"
+    ],
+    "wiki": null,
+    "forms": [
+      "vivas",
+      "viva voce"
+    ]
+  },
+  {
+    "headword": "seminar",
+    "register": "GREEN",
+    "us_equivalent": "discussion section",
+    "gloss": "A small-group university class for discussion led by a tutor.",
+    "usage": "Standard alongside lectures in British universities.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We have a seminar after the lecture.",
+      "Do the reading before the seminar."
+    ],
+    "collocations": [
+      "seminar group",
+      "seminar leader"
+    ],
+    "wiki": null,
+    "forms": [
+      "seminars"
+    ]
+  },
+  {
+    "headword": "tutorial",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A university teaching session with a tutor and one or a few students.",
+    "usage": "At Oxford, tutorials are the core teaching method; Cambridge calls them 'supervisions'.",
+    "pragmatic_note": null,
+    "pitfall": "Not an online how-to guide in this sense.",
+    "examples": [
+      "I've got a tutorial with my supervisor at ten.",
+      "Tutorials are very small at Oxford."
+    ],
+    "collocations": [
+      "personal tutor",
+      "tutorial group"
+    ],
+    "wiki": null,
+    "forms": [
+      "tutorials"
+    ]
+  },
+  {
+    "headword": "lecturer",
+    "register": "GREEN",
+    "us_equivalent": "assistant professor",
+    "gloss": "A university teacher below the rank of professor.",
+    "usage": "The standard British academic job title; 'senior lecturer' and 'reader' are higher.",
+    "pragmatic_note": null,
+    "pitfall": "In the UK only senior academics are called 'professor'; most teaching staff are lecturers.",
+    "examples": [
+      "She's a lecturer in physics at Bristol.",
+      "Our lecturer posts the slides online."
+    ],
+    "collocations": [
+      "senior lecturer",
+      "university lecturer"
+    ],
+    "wiki": null,
+    "forms": [
+      "lecturers"
+    ]
+  },
+  {
+    "headword": "professor",
+    "register": "GREEN",
+    "us_equivalent": "full professor",
+    "gloss": "The most senior academic rank in a British university department.",
+    "usage": "A title earned by relatively few academics; used as 'Professor Smith'.",
+    "pragmatic_note": null,
+    "pitfall": "Do not call every university teacher 'professor' in Britain; it may sound inflated.",
+    "examples": [
+      "She was made a professor last year.",
+      "Professor Hughes is giving the keynote."
+    ],
+    "collocations": [
+      "full professor",
+      "visiting professor"
+    ],
+    "wiki": null,
+    "forms": [
+      "professors",
+      "professorship"
+    ]
+  },
+  {
+    "headword": "Oxbridge",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Oxford and Cambridge universities considered together.",
+    "usage": "Common in conversation and journalism, especially about elite education.",
+    "pragmatic_note": "It can carry connotations of privilege; people sometimes say it with mild irony.",
+    "pitfall": null,
+    "examples": [
+      "She applied to Oxbridge but ended up at Durham.",
+      "There's a lot of debate about Oxbridge admissions."
+    ],
+    "collocations": [
+      "Oxbridge-educated",
+      "Oxbridge graduate"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "Russell Group",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A group of leading research-intensive UK universities.",
+    "usage": "Used in admissions advice and by employers as a mark of prestige.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "It's a Russell Group university.",
+      "Most of her offers are from Russell Group universities."
+    ],
+    "collocations": [
+      "Russell Group university"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "redbrick",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "One of the civic universities founded in major English industrial cities around 1900.",
+    "usage": "Used of universities such as Manchester, Birmingham, Liverpool and Leeds.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She went to a redbrick university in the north.",
+      "Redbricks were founded to serve industrial cities."
+    ],
+    "collocations": [
+      "redbrick university"
+    ],
+    "wiki": null,
+    "forms": [
+      "red-brick",
+      "redbricks"
+    ]
+  },
+  {
+    "headword": "don",
+    "register": "GREEN",
+    "us_equivalent": "professor, faculty member",
+    "gloss": "A university teacher, especially a fellow at Oxford or Cambridge.",
+    "usage": "Used mainly in journalism and about Oxbridge.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He was an Oxford don for forty years.",
+      "A Cambridge don wrote to The Times about it."
+    ],
+    "collocations": [
+      "Oxford don",
+      "Cambridge don"
+    ],
+    "wiki": null,
+    "forms": [
+      "dons"
+    ]
+  },
+  {
+    "headword": "UCAS",
+    "register": "GREEN",
+    "us_equivalent": "Common App",
+    "gloss": "The central service through which students apply to UK universities.",
+    "usage": "Universal among sixth-formers; pronounced 'YOU-cass'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Have you sent off your UCAS form?",
+      "The UCAS deadline is in January."
+    ],
+    "collocations": [
+      "UCAS application",
+      "UCAS points",
+      "UCAS deadline"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "personal statement",
+    "register": "GREEN",
+    "us_equivalent": "college essay",
+    "gloss": "A short essay in a university application explaining why the applicant wants to study the course.",
+    "usage": "A central part of UCAS applications.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm on my fourth draft of my personal statement.",
+      "Your personal statement should focus on the subject."
+    ],
+    "collocations": [
+      "personal statement",
+      "write a personal statement"
+    ],
+    "wiki": null,
+    "forms": [
+      "personal statements"
+    ]
+  },
+  {
+    "headword": "conditional offer",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A university place offered on condition the applicant achieves specified grades.",
+    "usage": "Standard in UK admissions; an 'unconditional offer' requires no further grades.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I've got a conditional offer of AAB.",
+      "She accepted her conditional offer from Leeds."
+    ],
+    "collocations": [
+      "firm choice",
+      "insurance choice",
+      "unconditional offer"
+    ],
+    "wiki": null,
+    "forms": [
+      "conditional offers",
+      "unconditional offer"
+    ]
+  },
+  {
+    "headword": "Clearing",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The process after results day that matches students without places to unfilled university courses.",
+    "usage": "Busy every August; students say they 'got in through Clearing'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I found my course through Clearing.",
+      "Clearing phone lines open on results day."
+    ],
+    "collocations": [
+      "go through Clearing",
+      "Clearing place"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "gap year",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A year taken out, usually between school and university, to work or travel.",
+    "usage": "Common among British school leavers and graduates.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She's taking a gap year before university.",
+      "I spent my gap year working in a café."
+    ],
+    "collocations": [
+      "take a gap year",
+      "gap-year student"
+    ],
+    "wiki": null,
+    "forms": [
+      "gap years"
+    ]
+  },
+  {
+    "headword": "student loan",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Government-backed money for tuition and living costs, repaid through tax once earnings pass a threshold.",
+    "usage": "Universal among students and graduates.",
+    "pragmatic_note": "Repayments come out of your salary automatically, so many graduates rarely think about it.",
+    "pitfall": null,
+    "examples": [
+      "My student loan comes out of my pay every month.",
+      "Have you applied for your student loan?"
+    ],
+    "collocations": [
+      "student loan",
+      "maintenance loan",
+      "pay off my student loan"
+    ],
+    "wiki": null,
+    "forms": [
+      "student loans",
+      "Student Finance"
+    ]
+  },
+  {
+    "headword": "tuition fees",
+    "register": "GREEN",
+    "us_equivalent": "tuition",
+    "gloss": "The fees a university charges for teaching.",
+    "usage": "Used in news and among students; usually covered by a student loan.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Tuition fees are paid straight to the university.",
+      "Scottish students don't pay tuition fees in Scotland."
+    ],
+    "collocations": [
+      "tuition fees",
+      "fee cap"
+    ],
+    "wiki": null,
+    "forms": [
+      "tuition fee",
+      "fees"
+    ]
+  },
+  {
+    "headword": "Students' Union",
+    "register": "GREEN",
+    "us_equivalent": "student government",
+    "gloss": "A university's student-run organisation, and often the building with its bars and venues.",
+    "usage": "Every British university has one; often just 'the union' or 'SU'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Let's meet at the Students' Union.",
+      "The Students' Union runs the societies."
+    ],
+    "collocations": [
+      "Students' Union",
+      "union bar",
+      "SU"
+    ],
+    "wiki": null,
+    "forms": [
+      "student union",
+      "the union",
+      "SU"
+    ]
+  },
+  {
+    "headword": "graduation",
+    "register": "GREEN",
+    "us_equivalent": "commencement",
+    "gloss": "The ceremony where students receive their degrees.",
+    "usage": "Used of university ceremonies; 'graduate' as a noun means someone with a degree.",
+    "pragmatic_note": null,
+    "pitfall": "Americans graduate from high school; in Britain you graduate only from university or college.",
+    "examples": [
+      "Her graduation is in July.",
+      "My parents came up for my graduation."
+    ],
+    "collocations": [
+      "graduation ceremony",
+      "graduation day"
+    ],
+    "wiki": null,
+    "forms": [
+      "graduate",
+      "graduated",
+      "graduates"
+    ]
+  },
+  {
+    "headword": "graduate scheme",
+    "register": "GREEN",
+    "us_equivalent": "graduate program",
+    "gloss": "A structured training programme run by an employer for new graduates.",
+    "usage": "Common with large employers and the civil service.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She's on a graduate scheme at a bank.",
+      "Applications for graduate schemes open in autumn."
+    ],
+    "collocations": [
+      "graduate scheme",
+      "grad scheme"
+    ],
+    "wiki": null,
+    "forms": [
+      "grad scheme",
+      "graduate schemes"
+    ]
+  },
+  {
+    "headword": "CV",
+    "register": "GREEN",
+    "us_equivalent": "résumé",
+    "gloss": "A document summarising your education, skills and work history, sent when applying for jobs.",
+    "usage": "The standard British term; short for 'curriculum vitae'.",
+    "pragmatic_note": "British CVs normally omit photos, date of birth and marital status.",
+    "pitfall": "Americans say 'résumé'; in the US a CV is mainly an academic document.",
+    "examples": [
+      "Can you send me a copy of your CV?",
+      "I've updated my CV with the new role."
+    ],
+    "collocations": [
+      "send your CV",
+      "update your CV",
+      "CV and covering letter"
+    ],
+    "wiki": null,
+    "forms": [
+      "CVs",
+      "curriculum vitae"
+    ]
+  },
+  {
+    "headword": "covering letter",
+    "register": "GREEN",
+    "us_equivalent": "cover letter",
+    "gloss": "A letter sent with a CV explaining why you are applying for a job.",
+    "usage": "Standard British form; 'cover letter' is also increasingly heard.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Tailor your covering letter to each job.",
+      "She attached a CV and covering letter."
+    ],
+    "collocations": [
+      "covering letter",
+      "write a covering letter"
+    ],
+    "wiki": null,
+    "forms": [
+      "covering letters",
+      "cover letter"
+    ]
+  },
+  {
+    "headword": "referee",
+    "register": "GREEN",
+    "us_equivalent": "reference",
+    "gloss": "A person who agrees to describe your character or work to a potential employer.",
+    "usage": "Job applications in the UK ask for two referees, usually a recent employer.",
+    "pragmatic_note": null,
+    "pitfall": "In the US the person is often called a 'reference'; in the UK the reference is what they write.",
+    "examples": [
+      "Please give the names of two referees.",
+      "My old manager agreed to be my referee."
+    ],
+    "collocations": [
+      "two referees",
+      "act as a referee"
+    ],
+    "wiki": null,
+    "forms": [
+      "referees"
+    ]
+  },
+  {
+    "headword": "reference",
+    "register": "GREEN",
+    "us_equivalent": "letter of recommendation",
+    "gloss": "A statement from a former employer or teacher about your suitability for a job or course.",
+    "usage": "Employers usually make offers 'subject to references'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The offer is subject to satisfactory references.",
+      "Could you write me a reference?"
+    ],
+    "collocations": [
+      "write a reference",
+      "subject to references"
+    ],
+    "wiki": null,
+    "forms": [
+      "references"
+    ]
+  },
+  {
+    "headword": "payslip",
+    "register": "GREEN",
+    "us_equivalent": "pay stub",
+    "gloss": "A document showing an employee's pay and deductions such as tax and National Insurance.",
+    "usage": "Universal in British workplaces, usually issued monthly.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'pay stub' or 'paycheck stub'.",
+    "examples": [
+      "Check your payslip to see your tax code.",
+      "My payslips are all online now."
+    ],
+    "collocations": [
+      "monthly payslip",
+      "check your payslip"
+    ],
+    "wiki": null,
+    "forms": [
+      "payslips",
+      "pay slip"
+    ]
+  },
+  {
+    "headword": "P45",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A tax form you receive when you leave a job, showing your pay and tax so far that year.",
+    "usage": "You give it to your new employer; 'getting your P45' can jokingly mean being sacked.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Your new employer will need your P45.",
+      "If he keeps that up, he'll be getting his P45."
+    ],
+    "collocations": [
+      "get your P45",
+      "hand over your P45"
+    ],
+    "wiki": null,
+    "forms": [
+      "P45s"
+    ]
+  },
+  {
+    "headword": "P60",
+    "register": "GREEN",
+    "us_equivalent": "W-2",
+    "gloss": "An annual certificate from your employer showing your total pay and tax for the tax year.",
+    "usage": "Issued after the tax year ends on 5 April; needed for mortgages and tax claims.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The bank asked for my latest P60.",
+      "Keep your P60 somewhere safe."
+    ],
+    "collocations": [
+      "latest P60",
+      "annual P60"
+    ],
+    "wiki": null,
+    "forms": [
+      "P60s"
+    ]
+  },
+  {
+    "headword": "PAYE",
+    "register": "GREEN",
+    "us_equivalent": "withholding",
+    "gloss": "Pay As You Earn, the system where employers deduct income tax and National Insurance from wages.",
+    "usage": "Used by employers, accountants and HMRC; pronounced as letters.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "My tax is all done through PAYE.",
+      "Are you PAYE or self-employed?"
+    ],
+    "collocations": [
+      "through PAYE",
+      "PAYE scheme"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "National Insurance",
+    "register": "GREEN",
+    "us_equivalent": "Social Security tax",
+    "gloss": "Contributions deducted from earnings that fund the state pension and some benefits.",
+    "usage": "Appears on every payslip; often shortened to 'NI'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "National Insurance comes out of your pay automatically.",
+      "She paid National Insurance for thirty-five years."
+    ],
+    "collocations": [
+      "National Insurance contributions",
+      "pay National Insurance"
+    ],
+    "wiki": null,
+    "forms": [
+      "NI"
+    ]
+  },
+  {
+    "headword": "National Insurance number",
+    "register": "GREEN",
+    "us_equivalent": "Social Security number",
+    "gloss": "A personal reference number used for tax and benefits, made up of letters and digits.",
+    "usage": "Needed to start work or claim benefits; often 'NI number'.",
+    "pragmatic_note": null,
+    "pitfall": "It is not a general identity number; Britain has no national ID card.",
+    "examples": [
+      "You'll need your National Insurance number to start.",
+      "I found my NI number on an old payslip."
+    ],
+    "collocations": [
+      "NI number",
+      "apply for a National Insurance number"
+    ],
+    "wiki": null,
+    "forms": [
+      "NI number"
+    ]
+  },
+  {
+    "headword": "tax code",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A code HMRC gives your employer to work out how much tax to deduct from your pay.",
+    "usage": "Shown on payslips; people check it if their pay looks wrong.",
+    "pragmatic_note": "An emergency tax code is common at the start of a new job.",
+    "pitfall": null,
+    "examples": [
+      "I think I'm on the wrong tax code.",
+      "HMRC sent a new tax code to my employer."
+    ],
+    "collocations": [
+      "emergency tax code",
+      "wrong tax code"
+    ],
+    "wiki": null,
+    "forms": [
+      "tax codes"
+    ]
+  },
+  {
+    "headword": "tax year",
+    "register": "GREEN",
+    "us_equivalent": "fiscal year",
+    "gloss": "The year for personal tax purposes, running from 6 April to the following 5 April.",
+    "usage": "Used by employers, HMRC and accountants.",
+    "pragmatic_note": "The odd April date is a legacy of old calendar reforms.",
+    "pitfall": "It does not follow the calendar year as in the US.",
+    "examples": [
+      "The new tax year starts on 6 April.",
+      "Use your allowance before the end of the tax year."
+    ],
+    "collocations": [
+      "tax year",
+      "end of the tax year"
+    ],
+    "wiki": null,
+    "forms": [
+      "tax years"
+    ]
+  },
+  {
+    "headword": "Self Assessment",
+    "register": "GREEN",
+    "us_equivalent": "filing taxes",
+    "gloss": "The system for reporting income to HMRC yourself through an annual tax return.",
+    "usage": "Used by the self-employed and those with other untaxed income; the online deadline is 31 January.",
+    "pragmatic_note": "Most employees never file a tax return because PAYE handles it.",
+    "pitfall": null,
+    "examples": [
+      "I need to do my Self Assessment before January.",
+      "As a freelancer, she files Self Assessment every year."
+    ],
+    "collocations": [
+      "Self Assessment tax return",
+      "file your Self Assessment"
+    ],
+    "wiki": null,
+    "forms": [
+      "self-assessment"
+    ]
+  },
+  {
+    "headword": "HMRC",
+    "register": "GREEN",
+    "us_equivalent": "IRS",
+    "gloss": "HM Revenue and Customs, the government department that collects taxes.",
+    "usage": "Universal in news and finance; pronounced as letters.",
+    "pragmatic_note": "A letter from HMRC tends to cause brief anxiety even when it's routine.",
+    "pitfall": null,
+    "examples": [
+      "I got a letter from HMRC about a refund.",
+      "You can pay HMRC online."
+    ],
+    "collocations": [
+      "HMRC letter",
+      "contact HMRC"
+    ],
+    "wiki": null,
+    "forms": [
+      "the taxman"
+    ]
+  },
+  {
+    "headword": "salary",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A fixed annual payment for work, usually paid monthly.",
+    "usage": "British jobs are advertised with an annual salary.",
+    "pragmatic_note": "Asking colleagues their salary directly is still considered rather impolite in Britain.",
+    "pitfall": null,
+    "examples": [
+      "The salary is negotiable depending on experience.",
+      "Salaries are paid on the last working day."
+    ],
+    "collocations": [
+      "annual salary",
+      "starting salary",
+      "salary package"
+    ],
+    "wiki": null,
+    "forms": [
+      "salaries",
+      "salaried"
+    ]
+  },
+  {
+    "headword": "pay rise",
+    "register": "GREEN",
+    "us_equivalent": "raise",
+    "gloss": "An increase in someone's pay.",
+    "usage": "The standard British term in conversation and HR.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'raise'; in Britain you ask for a 'pay rise'.",
+    "examples": [
+      "I'm going to ask for a pay rise.",
+      "Staff got a three per cent pay rise."
+    ],
+    "collocations": [
+      "ask for a pay rise",
+      "get a pay rise"
+    ],
+    "wiki": null,
+    "forms": [
+      "pay rises"
+    ]
+  },
+  {
+    "headword": "National Minimum Wage",
+    "register": "GREEN",
+    "us_equivalent": "minimum wage",
+    "gloss": "The legal minimum hourly pay for workers, varying by age, set by the government.",
+    "usage": "Used in news and HR; the rate for older workers is called the National Living Wage.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Apprentices must be paid at least the minimum wage.",
+      "The National Minimum Wage rises every April."
+    ],
+    "collocations": [
+      "minimum wage",
+      "National Living Wage"
+    ],
+    "wiki": null,
+    "forms": [
+      "minimum wage",
+      "National Living Wage"
+    ]
+  },
+  {
+    "headword": "Real Living Wage",
+    "register": "GREEN",
+    "us_equivalent": "living wage",
+    "gloss": "A voluntary hourly rate, higher than the legal minimum, calculated on the actual cost of living.",
+    "usage": "Employers advertise being an accredited 'Living Wage employer'.",
+    "pragmatic_note": null,
+    "pitfall": "Not the same as the legal National Living Wage, which is a government rate.",
+    "examples": [
+      "We pay all staff the Real Living Wage.",
+      "The council is a Living Wage employer."
+    ],
+    "collocations": [
+      "Living Wage employer"
+    ],
+    "wiki": null,
+    "forms": [
+      "Living Wage"
+    ]
+  },
+  {
+    "headword": "annual leave",
+    "register": "GREEN",
+    "us_equivalent": "vacation days, PTO",
+    "gloss": "Paid holiday from work that employees are entitled to each year.",
+    "usage": "The standard HR and workplace term; full-time workers get at least 5.6 weeks.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'vacation' or 'PTO'; Britons say 'annual leave' or 'holiday'.",
+    "examples": [
+      "I've got five days of annual leave left.",
+      "She's on annual leave until Monday."
+    ],
+    "collocations": [
+      "on annual leave",
+      "annual leave allowance",
+      "book annual leave"
+    ],
+    "wiki": null,
+    "forms": [
+      "leave"
+    ]
+  },
+  {
+    "headword": "holiday",
+    "register": "GREEN",
+    "us_equivalent": "vacation",
+    "gloss": "Time off work or school, or a trip away for leisure.",
+    "usage": "Britons 'go on holiday' and are 'on holiday' when off work.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'vacation'; 'holidays' in the US means festive days like Christmas.",
+    "examples": [
+      "I'm on holiday next week.",
+      "How many days' holiday do you get?"
+    ],
+    "collocations": [
+      "on holiday",
+      "holiday entitlement",
+      "book a holiday"
+    ],
+    "wiki": null,
+    "forms": [
+      "holidays"
+    ]
+  },
+  {
+    "headword": "bank holiday",
+    "register": "GREEN",
+    "us_equivalent": "public holiday, federal holiday",
+    "gloss": "A public holiday when banks and most businesses close.",
+    "usage": "There are about eight in England and Wales, with different ones in Scotland and Northern Ireland.",
+    "pragmatic_note": "A 'bank holiday weekend' is a long weekend, famous for traffic and rain.",
+    "pitfall": null,
+    "examples": [
+      "The office is closed on Monday because it's a bank holiday.",
+      "Are you doing anything over the bank holiday?"
+    ],
+    "collocations": [
+      "bank holiday Monday",
+      "bank holiday weekend"
+    ],
+    "wiki": null,
+    "forms": [
+      "bank holidays"
+    ]
+  },
+  {
+    "headword": "off sick",
+    "register": "AMBER",
+    "us_equivalent": "out sick",
+    "gloss": "Absent from work or school because of illness.",
+    "usage": "The everyday British phrase.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'out sick'.",
+    "examples": [
+      "Sarah's off sick today.",
+      "I was off sick for most of last week."
+    ],
+    "collocations": [
+      "off sick",
+      "phone in sick"
+    ],
+    "wiki": null,
+    "forms": [
+      "call in sick",
+      "phone in sick"
+    ]
+  },
+  {
+    "headword": "Statutory Sick Pay",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The minimum sick pay employers must legally pay eligible employees who are too ill to work.",
+    "usage": "Used in HR; abbreviated SSP.",
+    "pragmatic_note": "Many employers pay more generous 'company sick pay' on top.",
+    "pitfall": null,
+    "examples": [
+      "She's only entitled to Statutory Sick Pay.",
+      "SSP is paid by your employer."
+    ],
+    "collocations": [
+      "SSP",
+      "company sick pay"
+    ],
+    "wiki": null,
+    "forms": [
+      "SSP",
+      "sick pay"
+    ]
+  },
+  {
+    "headword": "sick note",
+    "register": "GREEN",
+    "us_equivalent": "doctor's note",
+    "gloss": "A doctor's statement that you are unfit for work; officially now called a 'fit note'.",
+    "usage": "Needed after more than seven days' absence; before that you can self-certify.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I need a sick note from the GP.",
+      "HR asked for a fit note."
+    ],
+    "collocations": [
+      "sick note",
+      "fit note",
+      "self-certify"
+    ],
+    "wiki": null,
+    "forms": [
+      "fit note",
+      "sick notes",
+      "fit notes"
+    ]
+  },
+  {
+    "headword": "maternity leave",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Time off work for a mother before and after the birth or adoption of a child.",
+    "usage": "Universal in British workplaces; eligible employees can take up to a year.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She's on maternity leave until next spring.",
+      "Who's covering her maternity leave?"
+    ],
+    "collocations": [
+      "on maternity leave",
+      "maternity cover",
+      "maternity pay"
+    ],
+    "wiki": null,
+    "forms": [
+      "maternity"
+    ]
+  },
+  {
+    "headword": "paternity leave",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Time off work for a partner, usually the father, after the birth or adoption of a child.",
+    "usage": "Standard HR term; statutory paternity leave is short, typically up to two weeks.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He's taking two weeks' paternity leave.",
+      "Our paternity leave policy is quite generous."
+    ],
+    "collocations": [
+      "paternity leave",
+      "paternity pay"
+    ],
+    "wiki": null,
+    "forms": [
+      "paternity"
+    ]
+  },
+  {
+    "headword": "notice period",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The time an employee or employer must give before a job ends.",
+    "usage": "Standard in British contracts; one month is common, longer for senior roles.",
+    "pragmatic_note": null,
+    "pitfall": "British notice periods are often far longer than the American two weeks.",
+    "examples": [
+      "My notice period is three months.",
+      "Can you start before your notice period ends?"
+    ],
+    "collocations": [
+      "notice period",
+      "serve your notice"
+    ],
+    "wiki": null,
+    "forms": [
+      "notice",
+      "notice periods"
+    ]
+  },
+  {
+    "headword": "hand in your notice",
+    "register": "GREEN",
+    "us_equivalent": "give notice, quit",
+    "gloss": "To tell your employer formally that you are resigning.",
+    "usage": "The usual British phrase for resigning.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I handed in my notice this morning.",
+      "She's handed in her notice and leaves in May."
+    ],
+    "collocations": [
+      "hand in your notice",
+      "give notice"
+    ],
+    "wiki": null,
+    "forms": [
+      "handed in her notice",
+      "handed in my notice",
+      "handing in my notice"
+    ]
+  },
+  {
+    "headword": "redundancy",
+    "register": "GREEN",
+    "us_equivalent": "layoff",
+    "gloss": "Dismissal because an employer no longer needs a job to be done.",
+    "usage": "Standard in Britain; people are 'made redundant' rather than 'laid off'.",
+    "pragmatic_note": "Redundancy is not seen as the employee's fault, unlike being sacked.",
+    "pitfall": "'Redundant' does not imply the person is useless; it is the role that has gone.",
+    "examples": [
+      "The company announced two hundred redundancies.",
+      "She took voluntary redundancy."
+    ],
+    "collocations": [
+      "voluntary redundancy",
+      "redundancy pay",
+      "face redundancy"
+    ],
+    "wiki": null,
+    "forms": [
+      "redundancies"
+    ]
+  },
+  {
+    "headword": "made redundant",
+    "register": "GREEN",
+    "us_equivalent": "laid off",
+    "gloss": "Dismissed from a job because the role is no longer needed.",
+    "usage": "The common British phrasing, used neutrally and sympathetically.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'laid off'; 'made redundant' sounds very British.",
+    "examples": [
+      "He was made redundant after twenty years.",
+      "Half the team were made redundant."
+    ],
+    "collocations": [
+      "made redundant"
+    ],
+    "wiki": null,
+    "forms": [
+      "make redundant",
+      "being made redundant"
+    ]
+  },
+  {
+    "headword": "sacked",
+    "register": "AMBER",
+    "us_equivalent": "fired",
+    "gloss": "Dismissed from a job, usually because of the person's conduct or performance.",
+    "usage": "Common in speech and headlines; 'dismissed' is the formal word.",
+    "pragmatic_note": null,
+    "pitfall": "'Fired' is also understood and used, but 'sacked' is more typically British.",
+    "examples": [
+      "He got sacked for being late all the time.",
+      "The manager was sacked after a poor season."
+    ],
+    "collocations": [
+      "get sacked",
+      "be sacked"
+    ],
+    "wiki": null,
+    "forms": [
+      "sack",
+      "sacking",
+      "sacks"
+    ]
+  },
+  {
+    "headword": "employment tribunal",
+    "register": "GREEN",
+    "us_equivalent": "labor court",
+    "gloss": "A legal body that hears disputes between employers and employees.",
+    "usage": "Used in HR, law and news.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The case is going to an employment tribunal.",
+      "The tribunal ruled in her favour."
+    ],
+    "collocations": [
+      "employment tribunal",
+      "tribunal claim"
+    ],
+    "wiki": null,
+    "forms": [
+      "tribunal",
+      "employment tribunals"
+    ]
+  },
+  {
+    "headword": "Acas",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A public body giving free advice on workplace rights and helping resolve disputes.",
+    "usage": "Commonly mentioned in HR and news; stands for Advisory, Conciliation and Arbitration Service.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Ring Acas for free advice on your rights.",
+      "Talks are being held at Acas."
+    ],
+    "collocations": [
+      "Acas guidance",
+      "Acas talks"
+    ],
+    "wiki": null,
+    "forms": [
+      "ACAS"
+    ]
+  },
+  {
+    "headword": "gardening leave",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A period when an employee serving notice is paid but told to stay away from work.",
+    "usage": "Common in finance and senior roles, to keep people from rivals.",
+    "pragmatic_note": "The phrase jokes that you'll have time to do the gardening.",
+    "pitfall": null,
+    "examples": [
+      "She's on gardening leave until June.",
+      "They put him on three months' gardening leave."
+    ],
+    "collocations": [
+      "on gardening leave",
+      "put on gardening leave"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "probationary period",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An initial trial period in a new job during which performance is assessed.",
+    "usage": "Common in British employment contracts, often three or six months.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "There's a six-month probationary period.",
+      "I passed my probation last week."
+    ],
+    "collocations": [
+      "probationary period",
+      "pass probation"
+    ],
+    "wiki": null,
+    "forms": [
+      "probation"
+    ]
+  },
+  {
+    "headword": "trade union",
+    "register": "GREEN",
+    "us_equivalent": "labor union",
+    "gloss": "An organisation of workers formed to protect their pay and conditions.",
+    "usage": "Standard British term; often just 'union'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'labor union'; 'trade union' is the British form.",
+    "examples": [
+      "Are you a member of a trade union?",
+      "The union is balloting members on strike action."
+    ],
+    "collocations": [
+      "trade union",
+      "union member",
+      "union rep"
+    ],
+    "wiki": null,
+    "forms": [
+      "trade unions",
+      "union",
+      "unions"
+    ]
+  },
+  {
+    "headword": "industrial action",
+    "register": "GREEN",
+    "us_equivalent": "strike action",
+    "gloss": "Action such as a strike or work-to-rule taken by workers in a dispute.",
+    "usage": "Used in news and by unions; covers strikes and other protests.",
+    "pragmatic_note": null,
+    "pitfall": "It is not limited to factories; teachers and doctors can take industrial action.",
+    "examples": [
+      "Nurses voted for industrial action.",
+      "Industrial action will disrupt services next week."
+    ],
+    "collocations": [
+      "take industrial action",
+      "strike action"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "zero-hours contract",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A work contract with no guaranteed hours, where the worker is offered shifts as needed.",
+    "usage": "Common in retail, care and hospitality; often debated in politics.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He's on a zero-hours contract at the warehouse.",
+      "Zero-hours contracts offer flexibility but little security."
+    ],
+    "collocations": [
+      "zero-hours contract",
+      "zero-hours worker"
+    ],
+    "wiki": null,
+    "forms": [
+      "zero-hours contracts",
+      "zero hours"
+    ]
+  },
+  {
+    "headword": "self-employed",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Working for yourself rather than for an employer.",
+    "usage": "Standard term for tax and benefits; many tradespeople are self-employed.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I've been self-employed for five years.",
+      "Self-employed people pay tax through Self Assessment."
+    ],
+    "collocations": [
+      "self-employed",
+      "go self-employed"
+    ],
+    "wiki": null,
+    "forms": [
+      "self-employment"
+    ]
+  },
+  {
+    "headword": "line manager",
+    "register": "GREEN",
+    "us_equivalent": "supervisor, direct manager",
+    "gloss": "The person directly responsible for managing an employee.",
+    "usage": "Standard in British workplaces and HR.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Speak to your line manager about leave.",
+      "My line manager does my appraisal."
+    ],
+    "collocations": [
+      "line manager",
+      "report to"
+    ],
+    "wiki": null,
+    "forms": [
+      "line managers",
+      "line-manage",
+      "line management"
+    ]
+  },
+  {
+    "headword": "appraisal",
+    "register": "GREEN",
+    "us_equivalent": "performance review",
+    "gloss": "A formal meeting assessing an employee's performance, usually annual.",
+    "usage": "Standard in British organisations, especially the public sector.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "My annual appraisal is next week.",
+      "We'll discuss your training needs in your appraisal."
+    ],
+    "collocations": [
+      "annual appraisal",
+      "performance appraisal"
+    ],
+    "wiki": null,
+    "forms": [
+      "appraisals"
+    ]
+  },
+  {
+    "headword": "colleague",
+    "register": "GREEN",
+    "us_equivalent": "coworker",
+    "gloss": "A person you work with.",
+    "usage": "The usual British word in both formal and everyday speech.",
+    "pragmatic_note": null,
+    "pitfall": "'Coworker' is understood but sounds American; 'colleague' is preferred.",
+    "examples": [
+      "I'm having lunch with a colleague.",
+      "My colleagues threw me a leaving do."
+    ],
+    "collocations": [
+      "work colleague",
+      "former colleague"
+    ],
+    "wiki": null,
+    "forms": [
+      "colleagues"
+    ]
+  },
+  {
+    "headword": "time off in lieu",
+    "register": "GREEN",
+    "us_equivalent": "comp time",
+    "gloss": "Time off given instead of pay for extra hours worked.",
+    "usage": "Common in offices and the public sector; often abbreviated TOIL.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll take the afternoon as time off in lieu.",
+      "We get TOIL for weekend work."
+    ],
+    "collocations": [
+      "TOIL",
+      "in lieu"
+    ],
+    "wiki": null,
+    "forms": [
+      "TOIL"
+    ]
+  },
+  {
+    "headword": "work experience",
+    "register": "GREEN",
+    "us_equivalent": "job shadowing",
+    "gloss": "A short period working unpaid in a business to learn about a job, often during school.",
+    "usage": "Common in Year 10 or Year 12 in British schools.",
+    "pragmatic_note": null,
+    "pitfall": "Also means a person's employment history, as on a CV.",
+    "examples": [
+      "I did work experience at a vet's.",
+      "She's here on work experience this week."
+    ],
+    "collocations": [
+      "on work experience",
+      "work experience placement"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "state pension",
+    "register": "GREEN",
+    "us_equivalent": "Social Security",
+    "gloss": "A regular payment from the government to people who have reached state pension age.",
+    "usage": "Depends on National Insurance contributions.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He's just started getting his state pension.",
+      "Check your state pension forecast online."
+    ],
+    "collocations": [
+      "state pension age",
+      "state pension forecast"
+    ],
+    "wiki": null,
+    "forms": [
+      "State Pension"
+    ]
+  },
+  {
+    "headword": "workplace pension",
+    "register": "GREEN",
+    "us_equivalent": "401(k)",
+    "gloss": "A pension scheme arranged by an employer, with contributions from both employer and employee.",
+    "usage": "Most employees are automatically enrolled.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "You're automatically enrolled in the workplace pension.",
+      "My employer matches my pension contributions."
+    ],
+    "collocations": [
+      "auto-enrolment",
+      "pension contributions"
+    ],
+    "wiki": null,
+    "forms": [
+      "company pension",
+      "auto-enrolment"
+    ]
+  },
+  {
+    "headword": "Jobcentre",
+    "register": "GREEN",
+    "us_equivalent": "unemployment office",
+    "gloss": "A government office helping people find work and claim benefits; officially Jobcentre Plus.",
+    "usage": "Used in everyday speech and news.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He has an appointment at the Jobcentre.",
+      "The Jobcentre helped her with her CV."
+    ],
+    "collocations": [
+      "Jobcentre Plus",
+      "work coach"
+    ],
+    "wiki": null,
+    "forms": [
+      "Jobcentre Plus",
+      "job centre"
+    ]
+  },
+  {
+    "headword": "Jobseeker's Allowance",
+    "register": "GREEN",
+    "us_equivalent": "unemployment benefits",
+    "gloss": "A benefit for unemployed people looking for work, now largely replaced by Universal Credit.",
+    "usage": "Still exists in a contribution-based form; often 'JSA'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He was on Jobseeker's Allowance for a few months.",
+      "JSA has mostly been replaced by Universal Credit."
+    ],
+    "collocations": [
+      "claim Jobseeker's",
+      "JSA"
+    ],
+    "wiki": null,
+    "forms": [
+      "JSA",
+      "Jobseeker's"
+    ]
+  },
+  {
+    "headword": "on the dole",
+    "register": "RED",
+    "us_equivalent": "on unemployment",
+    "gloss": "Receiving unemployment benefit.",
+    "usage": "Informal and somewhat dated; can sound dismissive, so avoid it at work.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He was on the dole for a year in the eighties.",
+      "She went on the dole after the factory closed."
+    ],
+    "collocations": [
+      "on the dole",
+      "dole queue"
+    ],
+    "wiki": null,
+    "forms": [
+      "the dole",
+      "dole"
+    ]
+  },
+  {
+    "headword": "health and safety",
+    "register": "GREEN",
+    "us_equivalent": "occupational safety",
+    "gloss": "The rules and practices protecting people from harm at work.",
+    "usage": "Used formally and, ironically, about rules seen as excessive.",
+    "pragmatic_note": "'Health and safety gone mad' is a stock British complaint about over-caution.",
+    "pitfall": null,
+    "examples": [
+      "All new staff do health and safety training.",
+      "They banned it for health and safety reasons."
+    ],
+    "collocations": [
+      "health and safety training",
+      "health and safety regulations"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "leaving do",
+    "register": "AMBER",
+    "us_equivalent": "farewell party",
+    "gloss": "An informal gathering to say goodbye to a colleague who is leaving.",
+    "usage": "Common in British workplaces, often at a pub.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "It's Tom's leaving do on Friday.",
+      "Are you coming to the leaving do?"
+    ],
+    "collocations": [
+      "leaving do",
+      "leaving card",
+      "leaving present"
+    ],
+    "wiki": null,
+    "forms": [
+      "leaving dos",
+      "leaving party"
+    ]
+  },
+  {
+    "headword": "quid",
+    "register": "AMBER",
+    "us_equivalent": "buck",
+    "gloss": "A pound in money.",
+    "usage": "Very common in everyday speech; the plural is also 'quid'.",
+    "pragmatic_note": null,
+    "pitfall": "Never say 'quids': it's 'ten quid', not 'ten quids'.",
+    "examples": [
+      "It only cost me five quid.",
+      "Can you lend me a couple of quid?"
+    ],
+    "collocations": [
+      "a few quid",
+      "twenty quid"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "fiver",
+    "register": "AMBER",
+    "us_equivalent": "five-dollar bill",
+    "gloss": "A five-pound note, or five pounds.",
+    "usage": "Very common in everyday speech.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Have you got a fiver for the car park?",
+      "It's only a fiver to get in."
+    ],
+    "collocations": [
+      "a fiver"
+    ],
+    "wiki": "Bank of England £5 note",
+    "forms": [
+      "fivers"
+    ]
+  },
+  {
+    "headword": "tenner",
+    "register": "AMBER",
+    "us_equivalent": "ten-dollar bill",
+    "gloss": "A ten-pound note, or ten pounds.",
+    "usage": "Very common in everyday speech.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll give you a tenner for it.",
+      "Can you break a tenner?"
+    ],
+    "collocations": [
+      "a tenner"
+    ],
+    "wiki": "Bank of England £10 note",
+    "forms": [
+      "tenners"
+    ]
+  },
+  {
+    "headword": "grand",
+    "register": "AMBER",
+    "us_equivalent": "grand",
+    "gloss": "A thousand pounds.",
+    "usage": "Informal but very common when talking about large sums; the plural is 'grand'.",
+    "pragmatic_note": null,
+    "pitfall": "Say 'five grand', never 'five grands'.",
+    "examples": [
+      "The car cost about ten grand.",
+      "He earns forty grand a year."
+    ],
+    "collocations": [
+      "a grand",
+      "ten grand"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "pound",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The basic unit of British currency, divided into a hundred pence.",
+    "usage": "Written £; full name 'pound sterling'.",
+    "pragmatic_note": null,
+    "pitfall": "Plural is 'pounds' in standard speech, though 'five pound' is common informally.",
+    "examples": [
+      "That's three pounds fifty, please.",
+      "The pound fell against the dollar."
+    ],
+    "collocations": [
+      "pound coin",
+      "pounds sterling",
+      "the pound"
+    ],
+    "wiki": null,
+    "forms": [
+      "pounds",
+      "£"
+    ]
+  },
+  {
+    "headword": "pound coin",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A one-pound coin.",
+    "usage": "Everyday use; often needed for supermarket trolleys and lockers.",
+    "pragmatic_note": null,
+    "pitfall": "There is no one-pound note in England and Wales; the pound is a coin.",
+    "examples": [
+      "Have you got a pound coin for the trolley?",
+      "The new pound coin has twelve sides."
+    ],
+    "collocations": [
+      "pound coin",
+      "two-pound coin"
+    ],
+    "wiki": "One pound (British coin)",
+    "forms": [
+      "pound coins"
+    ]
+  },
+  {
+    "headword": "pence",
+    "register": "GREEN",
+    "us_equivalent": "cents",
+    "gloss": "The plural of penny; a hundredth of a pound.",
+    "usage": "Prices are said in pence or 'p', as in 'eighty pence' or 'eighty p'.",
+    "pragmatic_note": null,
+    "pitfall": "For amounts use 'pence', not 'pennies'; 'pennies' means individual coins.",
+    "examples": [
+      "That's ninety-nine pence.",
+      "It went up by five pence a litre."
+    ],
+    "collocations": [
+      "50 pence",
+      "pence a litre"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "p",
+    "register": "AMBER",
+    "us_equivalent": "cents",
+    "gloss": "Short for pence, pronounced 'pee', as in '50p'.",
+    "usage": "Very common in speech and on price labels.",
+    "pragmatic_note": "Saying 'pee' for pence sounds natural in Britain, though older people sometimes say 'pence'.",
+    "pitfall": null,
+    "examples": [
+      "Have you got a 20p?",
+      "It's only 50p."
+    ],
+    "collocations": [
+      "50p",
+      "20p piece"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "penny",
+    "register": "GREEN",
+    "us_equivalent": "cent",
+    "gloss": "The smallest British coin, a hundredth of a pound.",
+    "usage": "Used of the coin; amounts are usually 'pence' or 'p'.",
+    "pragmatic_note": null,
+    "pitfall": "'Penny' is singular and 'pennies' means coins; prices use 'pence'.",
+    "examples": [
+      "I haven't got a penny on me.",
+      "I've got a jar full of pennies."
+    ],
+    "collocations": [
+      "every penny",
+      "a penny"
+    ],
+    "wiki": null,
+    "forms": [
+      "pennies",
+      "1p"
+    ]
+  },
+  {
+    "headword": "note",
+    "register": "GREEN",
+    "us_equivalent": "bill",
+    "gloss": "A piece of paper or polymer money, such as a twenty-pound note.",
+    "usage": "The standard British term; banknote in full.",
+    "pragmatic_note": "Scottish and Northern Irish banks issue their own notes, which English shops occasionally query.",
+    "pitfall": "Americans say 'bill'; in Britain a 'bill' is what you pay in a restaurant.",
+    "examples": [
+      "Have you got anything smaller than a twenty-pound note?",
+      "The new notes are made of polymer."
+    ],
+    "collocations": [
+      "twenty-pound note",
+      "banknote"
+    ],
+    "wiki": null,
+    "forms": [
+      "notes",
+      "banknote",
+      "banknotes"
+    ]
+  },
+  {
+    "headword": "current account",
+    "register": "GREEN",
+    "us_equivalent": "checking account",
+    "gloss": "A bank account for everyday use, with a debit card and direct debits.",
+    "usage": "The standard British banking term.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'checking account'.",
+    "examples": [
+      "My salary goes into my current account.",
+      "I'm opening a joint current account."
+    ],
+    "collocations": [
+      "current account",
+      "joint account",
+      "switch current account"
+    ],
+    "wiki": null,
+    "forms": [
+      "current accounts"
+    ]
+  },
+  {
+    "headword": "ISA",
+    "register": "GREEN",
+    "us_equivalent": "Roth IRA",
+    "gloss": "An Individual Savings Account, where savings or investments grow free of UK tax up to an annual limit.",
+    "usage": "Universal in personal finance; pronounced 'EYE-sa'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I've put my savings in a cash ISA.",
+      "Use your ISA allowance before April."
+    ],
+    "collocations": [
+      "cash ISA",
+      "stocks and shares ISA",
+      "ISA allowance"
+    ],
+    "wiki": null,
+    "forms": [
+      "ISAs",
+      "cash ISA"
+    ]
+  },
+  {
+    "headword": "building society",
+    "register": "GREEN",
+    "us_equivalent": "savings and loan, credit union",
+    "gloss": "A financial institution owned by its members, offering savings accounts and mortgages.",
+    "usage": "Common in Britain; many high-street names were or are building societies.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "My mortgage is with a building society.",
+      "Building societies are owned by their members."
+    ],
+    "collocations": [
+      "building society account"
+    ],
+    "wiki": null,
+    "forms": [
+      "building societies"
+    ]
+  },
+  {
+    "headword": "sort code",
+    "register": "GREEN",
+    "us_equivalent": "routing number",
+    "gloss": "A six-digit number identifying a bank branch, written in three pairs.",
+    "usage": "Needed with an account number for bank transfers.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Can you send me your sort code and account number?",
+      "The sort code is on your bank card."
+    ],
+    "collocations": [
+      "sort code and account number"
+    ],
+    "wiki": null,
+    "forms": [
+      "sort codes"
+    ]
+  },
+  {
+    "headword": "direct debit",
+    "register": "GREEN",
+    "us_equivalent": "automatic payment",
+    "gloss": "An instruction allowing an organisation to take varying amounts from your account on set dates.",
+    "usage": "Common for bills such as council tax and utilities.",
+    "pragmatic_note": null,
+    "pitfall": "Unlike a standing order, the company controls the amount taken.",
+    "examples": [
+      "I pay my council tax by direct debit.",
+      "Set up a direct debit for the gym."
+    ],
+    "collocations": [
+      "set up a direct debit",
+      "pay by direct debit"
+    ],
+    "wiki": null,
+    "forms": [
+      "direct debits"
+    ]
+  },
+  {
+    "headword": "standing order",
+    "register": "GREEN",
+    "us_equivalent": "recurring transfer",
+    "gloss": "An instruction to your bank to pay a fixed amount regularly to another account.",
+    "usage": "Used for rent, savings and regular payments.",
+    "pragmatic_note": null,
+    "pitfall": "You control a standing order; a direct debit is controlled by the recipient.",
+    "examples": [
+      "I pay my rent by standing order.",
+      "Cancel the standing order when you move out."
+    ],
+    "collocations": [
+      "set up a standing order"
+    ],
+    "wiki": null,
+    "forms": [
+      "standing orders"
+    ]
+  },
+  {
+    "headword": "cheque",
+    "register": "GREEN",
+    "us_equivalent": "check",
+    "gloss": "A written order to a bank to pay a sum from your account.",
+    "usage": "Now uncommon but still used for some payments and gifts.",
+    "pragmatic_note": "Older relatives often still send birthday money by cheque.",
+    "pitfall": "British spelling is 'cheque'; 'check' is American.",
+    "examples": [
+      "Can I pay by cheque?",
+      "My gran sent me a cheque for my birthday."
+    ],
+    "collocations": [
+      "pay by cheque",
+      "write a cheque",
+      "cheque book"
+    ],
+    "wiki": "Cheque",
+    "forms": [
+      "cheques",
+      "chequebook",
+      "cheque book"
+    ]
+  },
+  {
+    "headword": "cash machine",
+    "register": "GREEN",
+    "us_equivalent": "ATM",
+    "gloss": "A machine from which you can withdraw cash with a bank card.",
+    "usage": "Everyday British term; 'cashpoint' is equally common.",
+    "pragmatic_note": null,
+    "pitfall": "'ATM' is understood but less natural in casual British speech.",
+    "examples": [
+      "Is there a cash machine near here?",
+      "The cash machine swallowed my card."
+    ],
+    "collocations": [
+      "cash machine",
+      "free cash machine"
+    ],
+    "wiki": "Automated teller machine",
+    "forms": [
+      "cash machines"
+    ]
+  },
+  {
+    "headword": "cashpoint",
+    "register": "GREEN",
+    "us_equivalent": "ATM",
+    "gloss": "A cash machine.",
+    "usage": "Very common in speech across Britain.",
+    "pragmatic_note": "In Scotland and the north some say 'hole in the wall' informally.",
+    "pitfall": null,
+    "examples": [
+      "I need to go to the cashpoint.",
+      "There's a cashpoint outside the supermarket."
+    ],
+    "collocations": [
+      "go to the cashpoint"
+    ],
+    "wiki": "Automated teller machine",
+    "forms": [
+      "cashpoints",
+      "hole in the wall"
+    ]
+  },
+  {
+    "headword": "debit card",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A bank card that takes money directly from your current account when you pay.",
+    "usage": "The main way Britons pay day to day.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Can I pay by debit card?",
+      "I've left my debit card at home."
+    ],
+    "collocations": [
+      "pay by debit card",
+      "contactless debit card"
+    ],
+    "wiki": null,
+    "forms": [
+      "debit cards"
+    ]
+  },
+  {
+    "headword": "contactless",
+    "register": "GREEN",
+    "us_equivalent": "tap to pay",
+    "gloss": "Paying by holding a card or phone near a reader, without entering a PIN.",
+    "usage": "Universal in British shops and on public transport.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Can I pay contactless?",
+      "Just tap your card, it's contactless."
+    ],
+    "collocations": [
+      "pay contactless",
+      "contactless limit"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "chip and PIN",
+    "register": "GREEN",
+    "us_equivalent": "chip card",
+    "gloss": "The system of paying by card and typing in a personal number.",
+    "usage": "Still used for larger payments above the contactless limit.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Please enter your PIN.",
+      "Chip and PIN reduced card fraud."
+    ],
+    "collocations": [
+      "enter your PIN",
+      "chip and PIN"
+    ],
+    "wiki": null,
+    "forms": [
+      "PIN"
+    ]
+  },
+  {
+    "headword": "overdraft",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An arrangement letting you spend more than is in your current account, up to a limit.",
+    "usage": "Common in British banking; 'arranged overdraft' is the formal term.",
+    "pragmatic_note": null,
+    "pitfall": "Not the same as a credit card; it is attached to your current account.",
+    "examples": [
+      "I'm into my overdraft again.",
+      "Students often get an interest-free overdraft."
+    ],
+    "collocations": [
+      "arranged overdraft",
+      "overdraft limit",
+      "go into your overdraft"
+    ],
+    "wiki": null,
+    "forms": [
+      "overdrafts"
+    ]
+  },
+  {
+    "headword": "bank statement",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A record from a bank of the money paid into and out of an account.",
+    "usage": "Often requested as proof of address or income.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Bring a recent bank statement as proof of address.",
+      "I check my bank statement every month."
+    ],
+    "collocations": [
+      "recent bank statement",
+      "monthly statement"
+    ],
+    "wiki": null,
+    "forms": [
+      "statement",
+      "bank statements"
+    ]
+  },
+  {
+    "headword": "mortgage",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A loan to buy a property, secured against it.",
+    "usage": "Universal; people 'take out' or 'pay off' a mortgage.",
+    "pragmatic_note": "Mortgage rates are a constant topic of British conversation and news.",
+    "pitfall": "The 't' is silent: 'MOR-gij'.",
+    "examples": [
+      "We've just taken out a mortgage on a flat.",
+      "Our mortgage payments have gone up."
+    ],
+    "collocations": [
+      "take out a mortgage",
+      "mortgage rate",
+      "pay off the mortgage"
+    ],
+    "wiki": null,
+    "forms": [
+      "mortgages",
+      "mortgaged"
+    ]
+  },
+  {
+    "headword": "deposit",
+    "register": "GREEN",
+    "us_equivalent": "down payment",
+    "gloss": "The money paid upfront when buying a home, or held as security when renting.",
+    "usage": "Universal in housing talk.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'down payment' for the house-buying sense.",
+    "examples": [
+      "We're saving for a deposit.",
+      "The landlord kept part of my deposit."
+    ],
+    "collocations": [
+      "house deposit",
+      "tenancy deposit",
+      "save for a deposit"
+    ],
+    "wiki": null,
+    "forms": [
+      "deposits"
+    ]
+  },
+  {
+    "headword": "stamp duty",
+    "register": "GREEN",
+    "us_equivalent": "transfer tax",
+    "gloss": "A tax paid on buying property above a certain price; different names apply in Scotland and Wales.",
+    "usage": "Common in house-buying talk and the news.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "First-time buyers pay less stamp duty.",
+      "We had to budget for stamp duty."
+    ],
+    "collocations": [
+      "pay stamp duty",
+      "stamp duty threshold"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "gazumping",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "When a seller accepts a higher offer after already agreeing to sell to someone else.",
+    "usage": "A well-known hazard of buying property in England and Wales.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We were gazumped at the last minute.",
+      "Gazumping is legal but very frustrating."
+    ],
+    "collocations": [
+      "be gazumped"
+    ],
+    "wiki": null,
+    "forms": [
+      "gazumped",
+      "gazump"
+    ]
+  },
+  {
+    "headword": "estate",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "All the money and property a person owns when they die.",
+    "usage": "Used in legal and financial contexts; also a 'housing estate' in another sense.",
+    "pragmatic_note": null,
+    "pitfall": "Also means a housing development or a large country property; context decides.",
+    "examples": [
+      "Her estate was divided between her children.",
+      "The estate must pay inheritance tax."
+    ],
+    "collocations": [
+      "settle the estate",
+      "estate of the deceased"
+    ],
+    "wiki": null,
+    "forms": [
+      "estates"
+    ]
+  },
+  {
+    "headword": "probate",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The legal process of proving a will and dealing with a dead person's estate.",
+    "usage": "Used by solicitors and families after a death.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We're still waiting for probate.",
+      "The house can't be sold until probate is granted."
+    ],
+    "collocations": [
+      "grant of probate",
+      "apply for probate"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "inheritance tax",
+    "register": "GREEN",
+    "us_equivalent": "estate tax",
+    "gloss": "Tax paid on a person's estate when they die, above a tax-free threshold.",
+    "usage": "Often discussed in personal finance and politics.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Most estates don't pay inheritance tax.",
+      "They gave gifts to reduce inheritance tax."
+    ],
+    "collocations": [
+      "pay inheritance tax",
+      "inheritance tax threshold"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "VAT",
+    "register": "GREEN",
+    "us_equivalent": "sales tax",
+    "gloss": "Value Added Tax, a tax added to the price of most goods and services.",
+    "usage": "Pronounced as letters or 'vat'; included in shop prices.",
+    "pragmatic_note": null,
+    "pitfall": "Unlike US sales tax, VAT is already included in British shelf prices.",
+    "examples": [
+      "Prices include VAT.",
+      "Is that quote plus VAT?"
+    ],
+    "collocations": [
+      "plus VAT",
+      "including VAT",
+      "VAT receipt"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "Premium Bonds",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Government-backed savings that pay no interest but enter a monthly tax-free prize draw.",
+    "usage": "Popular with British savers of all ages.",
+    "pragmatic_note": "Grandparents traditionally give Premium Bonds as gifts to children.",
+    "pitfall": null,
+    "examples": [
+      "I won fifty pounds on my Premium Bonds.",
+      "My grandad bought me Premium Bonds when I was born."
+    ],
+    "collocations": [
+      "Premium Bonds",
+      "Premium Bond prize"
+    ],
+    "wiki": null,
+    "forms": [
+      "Premium Bond"
+    ]
+  },
+  {
+    "headword": "pocket money",
+    "register": "GREEN",
+    "us_equivalent": "allowance",
+    "gloss": "A small sum of money given regularly to a child by their parents.",
+    "usage": "Universal in British families.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'allowance'.",
+    "examples": [
+      "How much pocket money do you give your kids?",
+      "I saved up my pocket money for weeks."
+    ],
+    "collocations": [
+      "pocket money"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "cashback",
+    "register": "GREEN",
+    "us_equivalent": "cash back",
+    "gloss": "Cash withdrawn at a shop's till when paying by debit card; also money refunded on purchases.",
+    "usage": "Common in supermarkets and in personal finance.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Would you like any cashback?",
+      "Can I get twenty pounds cashback, please?"
+    ],
+    "collocations": [
+      "get cashback",
+      "cashback card"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "hire purchase",
+    "register": "GREEN",
+    "us_equivalent": "installment plan",
+    "gloss": "Buying something in instalments, owning it only after the final payment.",
+    "usage": "Still used for car finance; slightly dated for household goods.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We bought the car on hire purchase.",
+      "Hire purchase means you don't own it until the end."
+    ],
+    "collocations": [
+      "on hire purchase",
+      "HP agreement"
+    ],
+    "wiki": null,
+    "forms": [
+      "HP"
+    ]
+  },
+  {
+    "headword": "Bank of England",
+    "register": "GREEN",
+    "us_equivalent": "the Federal Reserve",
+    "gloss": "The UK's central bank, which sets interest rates and issues banknotes in England and Wales.",
+    "usage": "Common in news; often 'the Bank'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The Bank of England held interest rates.",
+      "The Bank of England prints the notes."
+    ],
+    "collocations": [
+      "Bank of England",
+      "base rate"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "the Budget",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The Chancellor's annual statement to Parliament on taxes and public spending.",
+    "usage": "Major news event; people discuss what 'the Budget' means for them.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Fuel duty was frozen in the Budget.",
+      "Everyone's waiting to see what's in the Budget."
+    ],
+    "collocations": [
+      "Budget day",
+      "in the Budget"
+    ],
+    "wiki": null,
+    "forms": [
+      "Budget"
+    ]
+  },
+  {
+    "headword": "council tax",
+    "register": "GREEN",
+    "us_equivalent": "property tax",
+    "gloss": "A tax on homes, paid to the local council, based on property value bands.",
+    "usage": "Every household gets a council tax bill; full-time students are usually exempt.",
+    "pragmatic_note": "Living alone usually earns a 25 per cent single-person discount.",
+    "pitfall": null,
+    "examples": [
+      "Our council tax has gone up again.",
+      "Have you registered for council tax at the new flat?"
+    ],
+    "collocations": [
+      "council tax bill",
+      "council tax band",
+      "single-person discount"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "TV licence",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A legally required annual licence to watch or record live TV or use BBC iPlayer.",
+    "usage": "Every household that watches live TV needs one; it funds the BBC.",
+    "pragmatic_note": null,
+    "pitfall": "Spelt 'licence' as a noun in British English; 'license' is the verb.",
+    "examples": [
+      "Have you paid the TV licence?",
+      "You need a TV licence to watch live TV online."
+    ],
+    "collocations": [
+      "TV licence fee",
+      "licence fee"
+    ],
+    "wiki": null,
+    "forms": [
+      "licence fee",
+      "TV licences"
+    ]
+  },
+  {
+    "headword": "Child Benefit",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A regular government payment to people responsible for children.",
+    "usage": "Widely claimed; higher earners may have to pay some back.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Did you claim Child Benefit for the baby?",
+      "Child Benefit is paid every four weeks."
+    ],
+    "collocations": [
+      "claim Child Benefit"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "Universal Credit",
+    "register": "GREEN",
+    "us_equivalent": "welfare",
+    "gloss": "The main UK benefit for people on low incomes or out of work, paid monthly.",
+    "usage": "Very common in news and politics.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She's applying for Universal Credit.",
+      "Universal Credit replaced several older benefits."
+    ],
+    "collocations": [
+      "claim Universal Credit",
+      "Universal Credit payment"
+    ],
+    "wiki": null,
+    "forms": [
+      "UC"
+    ]
+  },
+  {
+    "headword": "benefits",
+    "register": "GREEN",
+    "us_equivalent": "welfare",
+    "gloss": "Money paid by the government to people who need financial help.",
+    "usage": "Standard British term; 'on benefits' means relying on them.",
+    "pragmatic_note": "'On benefits' can be used judgementally, so phrase carefully.",
+    "pitfall": "In the US 'benefits' usually means employment perks like health insurance.",
+    "examples": [
+      "She's been on benefits since her accident.",
+      "Check which benefits you can claim."
+    ],
+    "collocations": [
+      "on benefits",
+      "claim benefits",
+      "benefits system"
+    ],
+    "wiki": null,
+    "forms": [
+      "benefit"
+    ]
+  },
+  {
+    "headword": "NHS",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The National Health Service, the UK's publicly funded healthcare system, free at the point of use.",
+    "usage": "Universal; people speak of treatment 'on the NHS'.",
+    "pragmatic_note": "Britons are fiercely attached to the NHS; criticising it casually can cause offence.",
+    "pitfall": null,
+    "examples": [
+      "I had the operation on the NHS.",
+      "She's worked for the NHS for twenty years."
+    ],
+    "collocations": [
+      "on the NHS",
+      "NHS staff",
+      "NHS waiting list"
+    ],
+    "wiki": null,
+    "forms": [
+      "National Health Service"
+    ]
+  },
+  {
+    "headword": "GP",
+    "register": "GREEN",
+    "us_equivalent": "primary care physician, family doctor",
+    "gloss": "A general practitioner, the family doctor who is the first point of contact for most health issues.",
+    "usage": "Universal; people 'see their GP' or 'go to the GP'.",
+    "pragmatic_note": null,
+    "pitfall": "Most hospital care needs a GP referral; you cannot usually book a specialist directly.",
+    "examples": [
+      "I need to make an appointment with my GP.",
+      "Have you spoken to your GP about it?"
+    ],
+    "collocations": [
+      "see your GP",
+      "GP appointment",
+      "register with a GP"
+    ],
+    "wiki": null,
+    "forms": [
+      "GPs",
+      "general practitioner"
+    ]
+  },
+  {
+    "headword": "surgery",
+    "register": "GREEN",
+    "us_equivalent": "doctor's office",
+    "gloss": "The premises where a GP or dentist sees patients; also, an operation.",
+    "usage": "Britons say 'the doctor's surgery' or 'the surgery'; 'GP practice' is more formal.",
+    "pragmatic_note": "MPs also hold 'surgeries' where constituents can raise problems.",
+    "pitfall": "'I'm going to the surgery' means a GP visit, not an operation.",
+    "examples": [
+      "The surgery opens at eight.",
+      "Ring the surgery for an appointment."
+    ],
+    "collocations": [
+      "doctor's surgery",
+      "GP surgery",
+      "dental surgery"
+    ],
+    "wiki": null,
+    "forms": [
+      "surgeries"
+    ]
+  },
+  {
+    "headword": "register with a GP",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To sign up as a patient at a local GP practice, usually based on where you live.",
+    "usage": "Something everyone does on moving to a new area.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Have you registered with a GP since you moved?",
+      "You can register with a GP online."
+    ],
+    "collocations": [
+      "register with a GP",
+      "GP registration"
+    ],
+    "wiki": null,
+    "forms": [
+      "registered with a GP"
+    ]
+  },
+  {
+    "headword": "A&E",
+    "register": "GREEN",
+    "us_equivalent": "ER, emergency room",
+    "gloss": "Accident and Emergency, the hospital department for urgent and serious injuries and illness.",
+    "usage": "Universal; people 'go to A&E' or 'end up in A&E'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'ER'; in Britain 'ER' is mainly a TV reference.",
+    "examples": [
+      "We spent five hours in A&E last night.",
+      "Take him to A&E if the bleeding doesn't stop."
+    ],
+    "collocations": [
+      "go to A&E",
+      "A&E department",
+      "A&E waiting times"
+    ],
+    "wiki": null,
+    "forms": [
+      "Accident and Emergency"
+    ]
+  },
+  {
+    "headword": "casualty",
+    "register": "GREEN",
+    "us_equivalent": "ER",
+    "gloss": "An older name for A&E, the hospital emergency department.",
+    "usage": "Still heard, especially among older people.",
+    "pragmatic_note": null,
+    "pitfall": "Also means an injured or killed person in an accident or war.",
+    "examples": [
+      "She was rushed to casualty.",
+      "We waited in casualty for hours."
+    ],
+    "collocations": [
+      "go to casualty",
+      "in casualty"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "999",
+    "register": "GREEN",
+    "us_equivalent": "911",
+    "gloss": "The UK emergency number for police, fire, ambulance and coastguard.",
+    "usage": "Said 'nine nine nine'; '112' also works.",
+    "pragmatic_note": null,
+    "pitfall": "Never say 'nine hundred and ninety-nine'.",
+    "examples": [
+      "Call 999, he's not breathing!",
+      "She dialled 999 straight away."
+    ],
+    "collocations": [
+      "dial 999",
+      "call 999",
+      "999 call"
+    ],
+    "wiki": null,
+    "forms": [
+      "112"
+    ]
+  },
+  {
+    "headword": "111",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The NHS phone line and website for urgent medical help that is not an emergency.",
+    "usage": "Said 'one one one'; used when the GP surgery is closed.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "If it's not an emergency, call 111.",
+      "111 told me to go to an urgent treatment centre."
+    ],
+    "collocations": [
+      "call 111",
+      "NHS 111"
+    ],
+    "wiki": null,
+    "forms": [
+      "NHS 111"
+    ]
+  },
+  {
+    "headword": "ambulance",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A vehicle that carries sick or injured people to hospital.",
+    "usage": "Universal; 'call an ambulance' or 'ring for an ambulance'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Someone call an ambulance!",
+      "The ambulance arrived within ten minutes."
+    ],
+    "collocations": [
+      "call an ambulance",
+      "ambulance crew",
+      "ambulance service"
+    ],
+    "wiki": "Ambulance",
+    "forms": [
+      "ambulances"
+    ]
+  },
+  {
+    "headword": "paramedic",
+    "register": "GREEN",
+    "us_equivalent": "EMT",
+    "gloss": "A trained health professional who gives emergency care, usually in an ambulance.",
+    "usage": "Standard term in news and everyday speech.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The paramedics were brilliant.",
+      "A paramedic checked him over at the scene."
+    ],
+    "collocations": [
+      "paramedic crew"
+    ],
+    "wiki": null,
+    "forms": [
+      "paramedics"
+    ]
+  },
+  {
+    "headword": "prescription",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A doctor's written instruction authorising a pharmacist to supply a medicine.",
+    "usage": "Universal; usually sent electronically to a pharmacy.",
+    "pragmatic_note": "Prescriptions are free in Scotland, Wales and Northern Ireland but charged per item in England.",
+    "pitfall": null,
+    "examples": [
+      "I need to pick up a prescription.",
+      "The GP gave me a prescription for antibiotics."
+    ],
+    "collocations": [
+      "repeat prescription",
+      "prescription charge",
+      "pick up a prescription"
+    ],
+    "wiki": null,
+    "forms": [
+      "prescriptions",
+      "prescribe",
+      "prescribed"
+    ]
+  },
+  {
+    "headword": "chemist",
+    "register": "GREEN",
+    "us_equivalent": "drugstore, pharmacy",
+    "gloss": "A shop selling medicines and toiletries, usually with a pharmacist; often 'the chemist's'.",
+    "usage": "Very common in speech; 'pharmacy' is the official term.",
+    "pragmatic_note": null,
+    "pitfall": "In Britain a chemist in this sense is a pharmacist, not usually a scientist.",
+    "examples": [
+      "I'm popping to the chemist's for some paracetamol.",
+      "Ask at the chemist for advice."
+    ],
+    "collocations": [
+      "the chemist's",
+      "high-street chemist"
+    ],
+    "wiki": "Pharmacy (shop)",
+    "forms": [
+      "chemist's",
+      "chemists"
+    ]
+  },
+  {
+    "headword": "pharmacist",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A qualified professional who dispenses medicines and gives health advice.",
+    "usage": "British pharmacists can advise on and treat many minor conditions.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Ask the pharmacist about side effects.",
+      "The pharmacist recommended a nasal spray."
+    ],
+    "collocations": [
+      "ask the pharmacist",
+      "community pharmacist"
+    ],
+    "wiki": null,
+    "forms": [
+      "pharmacists"
+    ]
+  },
+  {
+    "headword": "over the counter",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Available to buy without a prescription.",
+    "usage": "Used of medicines sold in chemists and supermarkets.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "You can buy it over the counter.",
+      "Try an over-the-counter painkiller first."
+    ],
+    "collocations": [
+      "over-the-counter medicine"
+    ],
+    "wiki": null,
+    "forms": [
+      "over-the-counter"
+    ]
+  },
+  {
+    "headword": "paracetamol",
+    "register": "GREEN",
+    "us_equivalent": "acetaminophen",
+    "gloss": "A common painkiller and fever reducer sold without prescription.",
+    "usage": "The standard British name; sold everywhere.",
+    "pragmatic_note": null,
+    "pitfall": "Americans call it 'acetaminophen' or by a brand name.",
+    "examples": [
+      "Take a couple of paracetamol and rest.",
+      "Have you got any paracetamol?"
+    ],
+    "collocations": [
+      "take paracetamol"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "locum",
+    "register": "GREEN",
+    "us_equivalent": "fill-in doctor",
+    "gloss": "A doctor who temporarily stands in for another, often at a GP practice.",
+    "usage": "Common in the NHS; also used for pharmacists and vets.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I saw a locum because my usual GP was away.",
+      "The practice relies on locums."
+    ],
+    "collocations": [
+      "locum GP",
+      "locum doctor"
+    ],
+    "wiki": null,
+    "forms": [
+      "locums"
+    ]
+  },
+  {
+    "headword": "consultant",
+    "register": "GREEN",
+    "us_equivalent": "attending physician",
+    "gloss": "A senior hospital doctor who leads a team in a specialty.",
+    "usage": "Standard NHS title; patients are 'under' a named consultant.",
+    "pragmatic_note": "Surgeons are traditionally addressed as Mr, Miss or Ms, not Dr.",
+    "pitfall": "In a hospital this has nothing to do with business consulting.",
+    "examples": [
+      "She's a consultant cardiologist.",
+      "The consultant will see you after the scan."
+    ],
+    "collocations": [
+      "consultant surgeon",
+      "under a consultant"
+    ],
+    "wiki": null,
+    "forms": [
+      "consultants"
+    ]
+  },
+  {
+    "headword": "resident doctor",
+    "register": "GREEN",
+    "us_equivalent": "resident",
+    "gloss": "A qualified doctor in training below consultant level, formerly called a 'junior doctor'.",
+    "usage": "'Junior doctor' is still widely used in speech and news.",
+    "pragmatic_note": "'Junior' doctors may be highly experienced; the label is about training grade, not age.",
+    "pitfall": null,
+    "examples": [
+      "Resident doctors work very long shifts.",
+      "My cousin's a junior doctor in Leeds."
+    ],
+    "collocations": [
+      "junior doctors' strike"
+    ],
+    "wiki": null,
+    "forms": [
+      "junior doctor",
+      "junior doctors",
+      "resident doctors"
+    ]
+  },
+  {
+    "headword": "registrar",
+    "register": "GREEN",
+    "us_equivalent": "senior resident",
+    "gloss": "A senior doctor in specialty training, just below consultant level.",
+    "usage": "Used in hospitals; also an official who records births, deaths and marriages.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The registrar will review your results.",
+      "The registrar married us at the town hall."
+    ],
+    "collocations": [
+      "surgical registrar",
+      "registrar of births"
+    ],
+    "wiki": null,
+    "forms": [
+      "registrars"
+    ]
+  },
+  {
+    "headword": "ward",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A room or section of a hospital where patients stay; also a council electoral area.",
+    "usage": "Both senses are very common in Britain.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He's been moved to a different ward.",
+      "Visiting hours on the ward are until eight."
+    ],
+    "collocations": [
+      "hospital ward",
+      "children's ward",
+      "council ward"
+    ],
+    "wiki": null,
+    "forms": [
+      "wards"
+    ]
+  },
+  {
+    "headword": "ward sister",
+    "register": "GREEN",
+    "us_equivalent": "head nurse, charge nurse",
+    "gloss": "The senior nurse in charge of a hospital ward; also called 'sister'.",
+    "usage": "Traditional NHS title, now often 'ward manager'.",
+    "pragmatic_note": "Male equivalents are traditionally called 'charge nurse'.",
+    "pitfall": "Not a religious sister.",
+    "examples": [
+      "Ask the ward sister if he can go home.",
+      "Sister said visiting is over."
+    ],
+    "collocations": [
+      "ward sister",
+      "charge nurse",
+      "ward manager"
+    ],
+    "wiki": null,
+    "forms": [
+      "sister",
+      "charge nurse"
+    ]
+  },
+  {
+    "headword": "matron",
+    "register": "GREEN",
+    "us_equivalent": "director of nursing",
+    "gloss": "A senior nurse responsible for standards across several wards.",
+    "usage": "Traditional NHS role that still exists.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The matron is reviewing cleanliness on the wards.",
+      "She was promoted to matron last year."
+    ],
+    "collocations": [
+      "modern matron"
+    ],
+    "wiki": null,
+    "forms": [
+      "matrons"
+    ]
+  },
+  {
+    "headword": "operating theatre",
+    "register": "GREEN",
+    "us_equivalent": "operating room",
+    "gloss": "A room in a hospital where operations are performed.",
+    "usage": "Standard British term; 'theatre' alone in hospital talk.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'OR'; in Britain a patient is 'in theatre'.",
+    "examples": [
+      "She's still in theatre.",
+      "The operating theatre is fully booked today."
+    ],
+    "collocations": [
+      "in theatre",
+      "theatre nurse"
+    ],
+    "wiki": "Operating theater",
+    "forms": [
+      "theatre",
+      "operating theatres"
+    ]
+  },
+  {
+    "headword": "outpatient",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A patient who attends hospital for treatment without staying overnight.",
+    "usage": "Used with appointments: 'an outpatient appointment'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I've got an outpatient appointment on Tuesday.",
+      "It's done as an outpatient procedure."
+    ],
+    "collocations": [
+      "outpatient appointment",
+      "outpatients department"
+    ],
+    "wiki": null,
+    "forms": [
+      "outpatients"
+    ]
+  },
+  {
+    "headword": "referral",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A doctor's request for a patient to see a specialist or service.",
+    "usage": "Most NHS specialist care needs a GP referral.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "My GP has made a referral to a dermatologist.",
+      "You'll get a letter about your referral."
+    ],
+    "collocations": [
+      "GP referral",
+      "refer to a specialist"
+    ],
+    "wiki": null,
+    "forms": [
+      "refer",
+      "referred",
+      "referrals"
+    ]
+  },
+  {
+    "headword": "waiting list",
+    "register": "GREEN",
+    "us_equivalent": "waitlist",
+    "gloss": "A list of patients waiting for non-urgent treatment or appointments.",
+    "usage": "Constantly in the news regarding the NHS.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm on the waiting list for a knee operation.",
+      "NHS waiting lists are very long."
+    ],
+    "collocations": [
+      "NHS waiting list",
+      "on the waiting list"
+    ],
+    "wiki": null,
+    "forms": [
+      "waiting lists"
+    ]
+  },
+  {
+    "headword": "health visitor",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A specialist nurse or midwife who supports families with babies and young children.",
+    "usage": "Every new parent in England gets health visitor appointments.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The health visitor came round to weigh the baby.",
+      "Ask your health visitor about weaning."
+    ],
+    "collocations": [
+      "health visitor"
+    ],
+    "wiki": null,
+    "forms": [
+      "health visitors"
+    ]
+  },
+  {
+    "headword": "midwife",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A trained professional who cares for women during pregnancy, birth and afterwards.",
+    "usage": "Most NHS births are led by midwives.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The midwife said everything looks fine.",
+      "I had a midwife appointment this morning."
+    ],
+    "collocations": [
+      "community midwife",
+      "midwife-led unit"
+    ],
+    "wiki": null,
+    "forms": [
+      "midwives"
+    ]
+  },
+  {
+    "headword": "NHS number",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A unique ten-digit number identifying each patient in the NHS in England and Wales.",
+    "usage": "Found on NHS letters and the NHS app.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Can you give me your NHS number?",
+      "Your NHS number is on your prescription."
+    ],
+    "collocations": [
+      "NHS number"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "jab",
+    "register": "AMBER",
+    "us_equivalent": "shot",
+    "gloss": "An injection, especially a vaccination.",
+    "usage": "Very common in speech and headlines.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'shot'; 'jab' is the British everyday word.",
+    "examples": [
+      "Have you had your flu jab?",
+      "The baby's due her jabs next week."
+    ],
+    "collocations": [
+      "flu jab",
+      "booster jab"
+    ],
+    "wiki": null,
+    "forms": [
+      "jabs"
+    ]
+  },
+  {
+    "headword": "smear test",
+    "register": "GREEN",
+    "us_equivalent": "Pap smear",
+    "gloss": "A screening test for cervical cancer; officially 'cervical screening'.",
+    "usage": "Common NHS term; invitations are sent automatically.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I've booked my smear test.",
+      "Don't put off your smear test."
+    ],
+    "collocations": [
+      "cervical screening"
+    ],
+    "wiki": null,
+    "forms": [
+      "cervical screening",
+      "smear tests"
+    ]
+  },
+  {
+    "headword": "plaster",
+    "register": "GREEN",
+    "us_equivalent": "Band-Aid",
+    "gloss": "A small adhesive dressing for covering a cut.",
+    "usage": "The everyday British word.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'Band-Aid'; a 'plaster cast' is for broken bones.",
+    "examples": [
+      "Have you got a plaster?",
+      "Put a plaster on that cut."
+    ],
+    "collocations": [
+      "sticking plaster",
+      "plaster cast"
+    ],
+    "wiki": "Adhesive bandage",
+    "forms": [
+      "plasters"
+    ]
+  },
+  {
+    "headword": "optician",
+    "register": "GREEN",
+    "us_equivalent": "optometrist",
+    "gloss": "A professional who tests eyesight and supplies glasses; also 'the optician's', the shop.",
+    "usage": "Britons 'go to the optician's' for an eye test.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I've got an eye test at the optician's.",
+      "The optician said I need reading glasses."
+    ],
+    "collocations": [
+      "the optician's",
+      "eye test"
+    ],
+    "wiki": null,
+    "forms": [
+      "optician's",
+      "opticians"
+    ]
+  },
+  {
+    "headword": "NHS dentist",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A dentist providing treatment under the NHS, with set charges in England.",
+    "usage": "Finding one accepting new patients is a frequent complaint.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "It's hard to find an NHS dentist round here.",
+      "Is your dentist NHS or private?"
+    ],
+    "collocations": [
+      "NHS dentist",
+      "private dentist"
+    ],
+    "wiki": null,
+    "forms": [
+      "NHS dentists"
+    ]
+  },
+  {
+    "headword": "physio",
+    "register": "AMBER",
+    "us_equivalent": "physical therapy",
+    "gloss": "Physiotherapy, or a physiotherapist.",
+    "usage": "Very common short form in speech.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'physical therapy' or 'PT'.",
+    "examples": [
+      "I've got physio for my knee.",
+      "The physio gave me some exercises."
+    ],
+    "collocations": [
+      "physio appointment",
+      "sports physio"
+    ],
+    "wiki": null,
+    "forms": [
+      "physiotherapy",
+      "physiotherapist",
+      "physios"
+    ]
+  },
+  {
+    "headword": "urgent treatment centre",
+    "register": "GREEN",
+    "us_equivalent": "urgent care clinic",
+    "gloss": "An NHS centre treating minor injuries and illnesses without an appointment.",
+    "usage": "Recommended for problems not serious enough for A&E; older 'walk-in centre' is still heard.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Take her to the urgent treatment centre.",
+      "The walk-in centre is open until ten."
+    ],
+    "collocations": [
+      "walk-in centre",
+      "minor injuries unit"
+    ],
+    "wiki": null,
+    "forms": [
+      "walk-in centre",
+      "minor injuries unit"
+    ]
+  },
+  {
+    "headword": "private healthcare",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Medical care paid for privately or through insurance rather than by the NHS.",
+    "usage": "People say they 'went private' to avoid waiting lists.",
+    "pragmatic_note": "'Going private' can still prompt mixed feelings because of loyalty to the NHS.",
+    "pitfall": null,
+    "examples": [
+      "We went private for the hip replacement.",
+      "His job includes private healthcare."
+    ],
+    "collocations": [
+      "go private",
+      "private health insurance"
+    ],
+    "wiki": null,
+    "forms": [
+      "go private",
+      "went private"
+    ]
+  },
+  {
+    "headword": "care home",
+    "register": "GREEN",
+    "us_equivalent": "nursing home, assisted living",
+    "gloss": "A residential home providing care for older or disabled people.",
+    "usage": "Standard British term; 'nursing home' if it provides medical nursing.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Grandad's moved into a care home.",
+      "Care home staff do an amazing job."
+    ],
+    "collocations": [
+      "residential care home",
+      "nursing home"
+    ],
+    "wiki": null,
+    "forms": [
+      "care homes",
+      "nursing home"
+    ]
+  },
+  {
+    "headword": "carer",
+    "register": "GREEN",
+    "us_equivalent": "caregiver",
+    "gloss": "Someone who looks after a person who is ill, disabled or elderly, paid or unpaid.",
+    "usage": "Very common; 'unpaid carers' are often relatives.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'caregiver'.",
+    "examples": [
+      "She's a full-time carer for her mum.",
+      "The carers come in twice a day."
+    ],
+    "collocations": [
+      "unpaid carer",
+      "young carer",
+      "Carer's Allowance"
+    ],
+    "wiki": null,
+    "forms": [
+      "carers"
+    ]
+  },
+  {
+    "headword": "being sick",
+    "register": "GREEN",
+    "us_equivalent": "throwing up",
+    "gloss": "Vomiting.",
+    "usage": "In Britain 'be sick' usually means vomit; 'ill' means unwell.",
+    "pragmatic_note": null,
+    "pitfall": "'I was sick' to a Briton means you vomited, not just that you felt unwell.",
+    "examples": [
+      "He was sick in the car.",
+      "I think I'm going to be sick."
+    ],
+    "collocations": [
+      "be sick",
+      "feel sick"
+    ],
+    "wiki": null,
+    "forms": [
+      "be sick",
+      "was sick",
+      "feel sick"
+    ]
+  },
+  {
+    "headword": "poorly",
+    "register": "AMBER",
+    "us_equivalent": "sick, unwell",
+    "gloss": "Unwell.",
+    "usage": "Common in speech, especially in northern England and about children.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She's been poorly all week.",
+      "My little boy's a bit poorly."
+    ],
+    "collocations": [
+      "a bit poorly",
+      "feeling poorly"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "temperature",
+    "register": "GREEN",
+    "us_equivalent": "fever",
+    "gloss": "A body heat higher than normal, as in 'to have a temperature'.",
+    "usage": "Britons say 'he's got a temperature' to mean a fever.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She's got a temperature, so she's staying home.",
+      "Take something to bring his temperature down."
+    ],
+    "collocations": [
+      "have a temperature",
+      "high temperature"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "anaesthetist",
+    "register": "GREEN",
+    "us_equivalent": "anesthesiologist",
+    "gloss": "A doctor who gives anaesthetics before and during operations.",
+    "usage": "Standard British title; note the spelling with 'ae'.",
+    "pragmatic_note": null,
+    "pitfall": "Stress is on the second syllable: an-EES-thuh-tist.",
+    "examples": [
+      "The anaesthetist will see you before surgery.",
+      "She trained as an anaesthetist."
+    ],
+    "collocations": [
+      "consultant anaesthetist",
+      "general anaesthetic"
+    ],
+    "wiki": null,
+    "forms": [
+      "anaesthetists",
+      "anaesthetic",
+      "anaesthetics"
+    ]
+  },
+  {
+    "headword": "Parliament",
+    "register": "GREEN",
+    "us_equivalent": "Congress",
+    "gloss": "The UK's supreme law-making body, made up of the Commons, the Lords and the monarch.",
+    "usage": "Used formally and in news; also the period between two general elections.",
+    "pragmatic_note": null,
+    "pitfall": "In Britain 'Parliament' takes no article: 'in Parliament', not 'in the Parliament'.",
+    "examples": [
+      "The bill was debated in Parliament.",
+      "She was first elected to Parliament in a by-election."
+    ],
+    "collocations": [
+      "Act of Parliament",
+      "Member of Parliament",
+      "in Parliament"
+    ],
+    "wiki": null,
+    "forms": [
+      "parliamentary"
+    ]
+  },
+  {
+    "headword": "Houses of Parliament",
+    "register": "GREEN",
+    "us_equivalent": "Capitol",
+    "gloss": "The building in Westminster where the Commons and Lords meet; officially the Palace of Westminster.",
+    "usage": "Used in everyday speech and tourism.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We walked past the Houses of Parliament.",
+      "Protesters gathered outside the Houses of Parliament."
+    ],
+    "collocations": [
+      "Houses of Parliament"
+    ],
+    "wiki": "Palace of Westminster",
+    "forms": [
+      "Palace of Westminster"
+    ]
+  },
+  {
+    "headword": "MP",
+    "register": "GREEN",
+    "us_equivalent": "Representative, Congressman",
+    "gloss": "A Member of Parliament elected to the House of Commons for a constituency.",
+    "usage": "Universal; people speak of 'my MP' or 'the local MP'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I've written to my MP about it.",
+      "She's been the MP here for ten years."
+    ],
+    "collocations": [
+      "local MP",
+      "write to your MP",
+      "backbench MP"
+    ],
+    "wiki": null,
+    "forms": [
+      "MPs",
+      "Member of Parliament"
+    ]
+  },
+  {
+    "headword": "constituency",
+    "register": "GREEN",
+    "us_equivalent": "congressional district",
+    "gloss": "An area whose voters elect one MP.",
+    "usage": "Standard political term; also 'seat'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Which constituency do you live in?",
+      "She's very popular in her constituency."
+    ],
+    "collocations": [
+      "constituency office",
+      "marginal constituency"
+    ],
+    "wiki": null,
+    "forms": [
+      "constituencies"
+    ]
+  },
+  {
+    "headword": "constituency surgery",
+    "register": "GREEN",
+    "us_equivalent": "town hall meeting",
+    "gloss": "A regular session where an MP meets constituents to hear their problems.",
+    "usage": "Usually just 'surgery'; MPs advertise their surgery times locally.",
+    "pragmatic_note": null,
+    "pitfall": "Nothing to do with medicine, though it shares the word with GP surgeries.",
+    "examples": [
+      "I raised it at my MP's surgery.",
+      "She holds a surgery every Friday."
+    ],
+    "collocations": [
+      "MP's surgery",
+      "hold a surgery"
+    ],
+    "wiki": null,
+    "forms": [
+      "MP's surgery"
+    ]
+  },
+  {
+    "headword": "seat",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A constituency, or a place in Parliament won at an election.",
+    "usage": "Used constantly in election coverage.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The party won forty new seats.",
+      "It's one of the safest seats in the country."
+    ],
+    "collocations": [
+      "safe seat",
+      "marginal seat",
+      "win a seat"
+    ],
+    "wiki": null,
+    "forms": [
+      "seats"
+    ]
+  },
+  {
+    "headword": "marginal seat",
+    "register": "GREEN",
+    "us_equivalent": "swing district",
+    "gloss": "A constituency won by a small majority and likely to change hands.",
+    "usage": "Common in election coverage.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Campaigners are focusing on marginal seats.",
+      "It's a three-way marginal."
+    ],
+    "collocations": [
+      "key marginal",
+      "target seat"
+    ],
+    "wiki": null,
+    "forms": [
+      "marginal",
+      "marginals",
+      "marginal seats"
+    ]
+  },
+  {
+    "headword": "general election",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A national election in which every Commons seat is contested, held at least every five years.",
+    "usage": "Standard term; the Prime Minister effectively chooses the date.",
+    "pragmatic_note": null,
+    "pitfall": "Britons do not vote directly for the Prime Minister; they elect a local MP.",
+    "examples": [
+      "When's the next general election?",
+      "Turnout at the general election was low."
+    ],
+    "collocations": [
+      "call a general election",
+      "general election campaign"
+    ],
+    "wiki": null,
+    "forms": [
+      "general elections"
+    ]
+  },
+  {
+    "headword": "by-election",
+    "register": "GREEN",
+    "us_equivalent": "special election",
+    "gloss": "An election held in one constituency to fill a vacant seat between general elections.",
+    "usage": "Common in political news; often seen as a test of public mood.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "There's a by-election after the MP resigned.",
+      "The party won the by-election comfortably."
+    ],
+    "collocations": [
+      "by-election",
+      "trigger a by-election"
+    ],
+    "wiki": null,
+    "forms": [
+      "by-elections"
+    ]
+  },
+  {
+    "headword": "local elections",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Elections for councillors and some mayors, usually held in May.",
+    "usage": "Annual in many areas; widely reported.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Are you voting in the local elections?",
+      "The local elections are a big test for the government."
+    ],
+    "collocations": [
+      "local elections",
+      "council elections"
+    ],
+    "wiki": null,
+    "forms": [
+      "local election"
+    ]
+  },
+  {
+    "headword": "polling station",
+    "register": "GREEN",
+    "us_equivalent": "polling place",
+    "gloss": "A building where people go to vote on election day.",
+    "usage": "Often a school, church hall or community centre.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "My polling station is the primary school.",
+      "Polling stations close at ten."
+    ],
+    "collocations": [
+      "polling station",
+      "polling day"
+    ],
+    "wiki": "Polling place",
+    "forms": [
+      "polling stations"
+    ]
+  },
+  {
+    "headword": "ballot paper",
+    "register": "GREEN",
+    "us_equivalent": "ballot",
+    "gloss": "The paper on which a vote is marked.",
+    "usage": "Voters mark an X in a box with a pencil provided.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Put a cross next to one name on the ballot paper.",
+      "Spoilt ballot papers are not counted."
+    ],
+    "collocations": [
+      "spoilt ballot paper"
+    ],
+    "wiki": null,
+    "forms": [
+      "ballot papers",
+      "ballot"
+    ]
+  },
+  {
+    "headword": "postal vote",
+    "register": "GREEN",
+    "us_equivalent": "absentee ballot",
+    "gloss": "A vote cast by post instead of at a polling station.",
+    "usage": "Anyone can apply for one in Great Britain.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I've applied for a postal vote.",
+      "Postal votes must arrive by ten on polling day."
+    ],
+    "collocations": [
+      "apply for a postal vote"
+    ],
+    "wiki": null,
+    "forms": [
+      "postal votes",
+      "vote by post"
+    ]
+  },
+  {
+    "headword": "electoral register",
+    "register": "GREEN",
+    "us_equivalent": "voter registration rolls",
+    "gloss": "The official list of people entitled to vote, kept by local councils.",
+    "usage": "Also called the 'electoral roll'; being on it helps your credit rating.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Make sure you're on the electoral register.",
+      "You can register to vote online."
+    ],
+    "collocations": [
+      "electoral roll",
+      "register to vote"
+    ],
+    "wiki": null,
+    "forms": [
+      "electoral roll"
+    ]
+  },
+  {
+    "headword": "first past the post",
+    "register": "GREEN",
+    "us_equivalent": "plurality voting",
+    "gloss": "A voting system where the candidate with the most votes in each constituency wins.",
+    "usage": "Used for Westminster elections; often debated against proportional representation.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "First past the post favours the big parties.",
+      "Should we scrap first past the post?"
+    ],
+    "collocations": [
+      "first-past-the-post system"
+    ],
+    "wiki": null,
+    "forms": [
+      "first-past-the-post",
+      "FPTP"
+    ]
+  },
+  {
+    "headword": "hung parliament",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A result where no single party has a majority in the House of Commons.",
+    "usage": "Used in election coverage; may lead to a coalition or minority government.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The polls suggest a hung parliament.",
+      "A hung parliament led to a coalition."
+    ],
+    "collocations": [
+      "hung parliament"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "manifesto",
+    "register": "GREEN",
+    "us_equivalent": "platform",
+    "gloss": "A party's published set of policies before an election.",
+    "usage": "Standard in British politics; promises are 'manifesto commitments'.",
+    "pragmatic_note": null,
+    "pitfall": "Not a radical pamphlet here; it is a normal party programme.",
+    "examples": [
+      "It was a manifesto commitment.",
+      "The party launched its manifesto today."
+    ],
+    "collocations": [
+      "election manifesto",
+      "manifesto pledge"
+    ],
+    "wiki": null,
+    "forms": [
+      "manifestos"
+    ]
+  },
+  {
+    "headword": "the Commons",
+    "register": "GREEN",
+    "us_equivalent": "House of Representatives",
+    "gloss": "The House of Commons, the elected chamber of Parliament.",
+    "usage": "Universal in political news.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The bill passed the Commons last night.",
+      "She made her first speech in the Commons."
+    ],
+    "collocations": [
+      "House of Commons",
+      "Commons vote"
+    ],
+    "wiki": null,
+    "forms": [
+      "House of Commons",
+      "Commons"
+    ]
+  },
+  {
+    "headword": "the Lords",
+    "register": "GREEN",
+    "us_equivalent": "the Senate",
+    "gloss": "The House of Lords, the unelected second chamber of Parliament that revises legislation.",
+    "usage": "Universal in political news.",
+    "pragmatic_note": "Its members are appointed or inherit seats, which makes reform a perennial debate.",
+    "pitfall": "Unlike the US Senate, its members are not elected.",
+    "examples": [
+      "The Lords voted to amend the bill.",
+      "He was sent to the Lords after retiring."
+    ],
+    "collocations": [
+      "House of Lords",
+      "Lords reform"
+    ],
+    "wiki": null,
+    "forms": [
+      "House of Lords"
+    ]
+  },
+  {
+    "headword": "peer",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A member of the House of Lords, such as a life peer.",
+    "usage": "Used in politics; a 'peerage' is the title.",
+    "pragmatic_note": null,
+    "pitfall": "Also means an equal in age or status; context decides.",
+    "examples": [
+      "She was made a life peer.",
+      "Several peers spoke against the bill."
+    ],
+    "collocations": [
+      "life peer",
+      "hereditary peer",
+      "peerage"
+    ],
+    "wiki": null,
+    "forms": [
+      "peers",
+      "peerage"
+    ]
+  },
+  {
+    "headword": "the Speaker",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The MP who chairs debates in the House of Commons and keeps order.",
+    "usage": "Known for calling 'Order! Order!'.",
+    "pragmatic_note": "By tradition a new Speaker is 'dragged' reluctantly to the chair.",
+    "pitfall": null,
+    "examples": [
+      "The Speaker called for order.",
+      "The Speaker granted an urgent question."
+    ],
+    "collocations": [
+      "Mr Speaker",
+      "Madam Speaker"
+    ],
+    "wiki": null,
+    "forms": [
+      "Speaker"
+    ]
+  },
+  {
+    "headword": "backbencher",
+    "register": "GREEN",
+    "us_equivalent": "rank-and-file member",
+    "gloss": "An MP who is not a minister or opposition spokesperson.",
+    "usage": "Used in news; 'backbench rebellion' is common.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Several backbenchers rebelled.",
+      "He's a respected Labour backbencher."
+    ],
+    "collocations": [
+      "backbench MP",
+      "backbench rebellion"
+    ],
+    "wiki": null,
+    "forms": [
+      "backbenchers",
+      "backbench",
+      "frontbench",
+      "frontbencher"
+    ]
+  },
+  {
+    "headword": "the Cabinet",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The group of senior ministers who decide government policy, chaired by the Prime Minister.",
+    "usage": "Standard political term.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She was promoted to the Cabinet.",
+      "The Cabinet meets on Tuesdays."
+    ],
+    "collocations": [
+      "Cabinet minister",
+      "Cabinet reshuffle"
+    ],
+    "wiki": null,
+    "forms": [
+      "Cabinet"
+    ]
+  },
+  {
+    "headword": "the Opposition",
+    "register": "GREEN",
+    "us_equivalent": "minority party",
+    "gloss": "The largest party not in government, which scrutinises and challenges it.",
+    "usage": "Formally 'His Majesty's Most Loyal Opposition'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The Opposition called for an inquiry.",
+      "She's Leader of the Opposition."
+    ],
+    "collocations": [
+      "Leader of the Opposition",
+      "opposition parties"
+    ],
+    "wiki": null,
+    "forms": [
+      "Opposition"
+    ]
+  },
+  {
+    "headword": "Shadow Cabinet",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Senior Opposition MPs who each mirror and challenge a government minister.",
+    "usage": "Standard political term; 'shadow chancellor' and so on.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She's in the Shadow Cabinet.",
+      "The shadow health secretary responded."
+    ],
+    "collocations": [
+      "shadow minister",
+      "shadow chancellor"
+    ],
+    "wiki": null,
+    "forms": [
+      "shadow"
+    ]
+  },
+  {
+    "headword": "PMQs",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Prime Minister's Questions, the weekly session where MPs question the Prime Minister.",
+    "usage": "Held on Wednesdays; widely broadcast and discussed.",
+    "pragmatic_note": "It is famously noisy and theatrical.",
+    "pitfall": null,
+    "examples": [
+      "Did you watch PMQs?",
+      "It came up at PMQs."
+    ],
+    "collocations": [
+      "at PMQs"
+    ],
+    "wiki": null,
+    "forms": [
+      "Prime Minister's Questions"
+    ]
+  },
+  {
+    "headword": "Number 10",
+    "register": "GREEN",
+    "us_equivalent": "the White House",
+    "gloss": "10 Downing Street, the Prime Minister's official residence and office; also the PM's team.",
+    "usage": "Used as shorthand for the Prime Minister's office.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Number 10 has denied the reports.",
+      "A spokesperson for Number 10 said no decision had been made."
+    ],
+    "collocations": [
+      "Number 10",
+      "Downing Street"
+    ],
+    "wiki": "10 Downing Street",
+    "forms": [
+      "No 10",
+      "Downing Street",
+      "No. 10"
+    ]
+  },
+  {
+    "headword": "Whitehall",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The London street of government departments; also shorthand for the civil service.",
+    "usage": "Used in news to mean central government administration.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Whitehall officials are drawing up plans.",
+      "There's tension between Whitehall and local councils."
+    ],
+    "collocations": [
+      "Whitehall department",
+      "Whitehall officials"
+    ],
+    "wiki": "Whitehall",
+    "forms": []
+  },
+  {
+    "headword": "Westminster",
+    "register": "GREEN",
+    "us_equivalent": "Washington",
+    "gloss": "Shorthand for Parliament and national politics.",
+    "usage": "Used in news, often contrasted with the devolved governments or the regions.",
+    "pragmatic_note": "'The Westminster bubble' describes politicians seen as out of touch.",
+    "pitfall": null,
+    "examples": [
+      "It's all about Westminster politics.",
+      "Voters are tired of Westminster."
+    ],
+    "collocations": [
+      "Westminster bubble",
+      "Westminster politics"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "civil service",
+    "register": "GREEN",
+    "us_equivalent": "federal bureaucracy",
+    "gloss": "The permanent, politically neutral staff of central government departments.",
+    "usage": "Standard term; civil servants serve whichever government is elected.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She joined the civil service after university.",
+      "The civil service must remain impartial."
+    ],
+    "collocations": [
+      "civil service",
+      "fast stream"
+    ],
+    "wiki": null,
+    "forms": [
+      "the civil service"
+    ]
+  },
+  {
+    "headword": "civil servant",
+    "register": "GREEN",
+    "us_equivalent": "government employee",
+    "gloss": "A person employed in a central government department.",
+    "usage": "Standard term.",
+    "pragmatic_note": null,
+    "pitfall": "Teachers, nurses and council staff are not usually called civil servants.",
+    "examples": [
+      "He's a civil servant in the Treasury.",
+      "Senior civil servants advise ministers."
+    ],
+    "collocations": [
+      "senior civil servant"
+    ],
+    "wiki": null,
+    "forms": [
+      "civil servants"
+    ]
+  },
+  {
+    "headword": "minister",
+    "register": "GREEN",
+    "us_equivalent": "secretary",
+    "gloss": "A member of the government responsible for an area of policy.",
+    "usage": "Standard term; senior ones are 'secretaries of state'.",
+    "pragmatic_note": null,
+    "pitfall": "Also a church minister; context decides.",
+    "examples": [
+      "The minister announced new funding.",
+      "She's the minister for schools."
+    ],
+    "collocations": [
+      "government minister",
+      "junior minister"
+    ],
+    "wiki": null,
+    "forms": [
+      "ministers",
+      "ministerial"
+    ]
+  },
+  {
+    "headword": "secretary of state",
+    "register": "GREEN",
+    "us_equivalent": "cabinet secretary",
+    "gloss": "A senior Cabinet minister in charge of a government department.",
+    "usage": "Formal title, as in 'Secretary of State for Health'.",
+    "pragmatic_note": null,
+    "pitfall": "In Britain there are many secretaries of state; it is not the foreign minister as in the US.",
+    "examples": [
+      "The Secretary of State will make a statement.",
+      "She's Secretary of State for Education."
+    ],
+    "collocations": [
+      "Secretary of State for"
+    ],
+    "wiki": null,
+    "forms": [
+      "secretaries of state"
+    ]
+  },
+  {
+    "headword": "Chancellor",
+    "register": "GREEN",
+    "us_equivalent": "Treasury Secretary",
+    "gloss": "The Chancellor of the Exchequer, the minister responsible for finance and the Treasury.",
+    "usage": "Universal in political news.",
+    "pragmatic_note": null,
+    "pitfall": "Also the ceremonial head of a university, and the German head of government.",
+    "examples": [
+      "The Chancellor delivered the Budget.",
+      "The Chancellor has ruled out tax rises."
+    ],
+    "collocations": [
+      "Chancellor of the Exchequer",
+      "shadow chancellor"
+    ],
+    "wiki": null,
+    "forms": [
+      "Chancellor of the Exchequer"
+    ]
+  },
+  {
+    "headword": "the Treasury",
+    "register": "GREEN",
+    "us_equivalent": "Department of the Treasury",
+    "gloss": "The government department responsible for public finance and economic policy.",
+    "usage": "Very common in political news.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The Treasury blocked the spending plan.",
+      "She works at the Treasury."
+    ],
+    "collocations": [
+      "Treasury officials"
+    ],
+    "wiki": null,
+    "forms": [
+      "Treasury",
+      "HM Treasury"
+    ]
+  },
+  {
+    "headword": "Home Office",
+    "register": "GREEN",
+    "us_equivalent": "Department of Homeland Security",
+    "gloss": "The government department responsible for policing, immigration and security.",
+    "usage": "Very common in news; headed by the Home Secretary.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The Home Office handles visa applications.",
+      "The Home Secretary announced new measures."
+    ],
+    "collocations": [
+      "Home Secretary",
+      "Home Office"
+    ],
+    "wiki": null,
+    "forms": [
+      "Home Secretary"
+    ]
+  },
+  {
+    "headword": "Foreign Office",
+    "register": "GREEN",
+    "us_equivalent": "State Department",
+    "gloss": "The government department responsible for foreign affairs, headed by the Foreign Secretary.",
+    "usage": "Common shorthand for its longer official name.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Check the Foreign Office travel advice.",
+      "The Foreign Secretary is visiting Washington."
+    ],
+    "collocations": [
+      "Foreign Secretary",
+      "Foreign Office advice"
+    ],
+    "wiki": null,
+    "forms": [
+      "Foreign Secretary",
+      "FCDO"
+    ]
+  },
+  {
+    "headword": "bill",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A proposed law being considered by Parliament.",
+    "usage": "Standard term; a bill becomes an Act after Royal Assent.",
+    "pragmatic_note": null,
+    "pitfall": "Also the British word for a restaurant check.",
+    "examples": [
+      "The bill had its second reading yesterday.",
+      "MPs voted against the bill."
+    ],
+    "collocations": [
+      "second reading",
+      "pass a bill"
+    ],
+    "wiki": null,
+    "forms": [
+      "bills"
+    ]
+  },
+  {
+    "headword": "Act of Parliament",
+    "register": "GREEN",
+    "us_equivalent": "Act of Congress",
+    "gloss": "A law passed by Parliament and given Royal Assent.",
+    "usage": "Formal; usually just 'Act', as in 'the Equality Act'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "It became an Act of Parliament in 2010.",
+      "The Act comes into force next year."
+    ],
+    "collocations": [
+      "Act of Parliament",
+      "come into force"
+    ],
+    "wiki": null,
+    "forms": [
+      "Act",
+      "Acts"
+    ]
+  },
+  {
+    "headword": "Royal Assent",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The monarch's formal agreement that makes a bill into law.",
+    "usage": "A formality used in news about legislation.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The bill received Royal Assent last week.",
+      "Royal Assent has not been refused in centuries."
+    ],
+    "collocations": [
+      "receive Royal Assent"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "white paper",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A government document setting out firm policy proposals, often before a bill.",
+    "usage": "Used in politics; a 'green paper' is a consultation document.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The government published a white paper on schools.",
+      "The green paper invites views."
+    ],
+    "collocations": [
+      "white paper",
+      "green paper"
+    ],
+    "wiki": null,
+    "forms": [
+      "white papers",
+      "green paper"
+    ]
+  },
+  {
+    "headword": "whip",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A party official who ensures MPs vote as the party wants; also the voting instruction itself.",
+    "usage": "Common in political news.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He had the whip removed after the vote.",
+      "There's a three-line whip on Tuesday."
+    ],
+    "collocations": [
+      "three-line whip",
+      "Chief Whip",
+      "lose the whip"
+    ],
+    "wiki": null,
+    "forms": [
+      "whips",
+      "three-line whip"
+    ]
+  },
+  {
+    "headword": "devolution",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The transfer of powers from Westminster to Scotland, Wales, Northern Ireland or regional bodies.",
+    "usage": "Central to UK politics.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Health is a devolved matter.",
+      "Devolution gave Scotland its own parliament."
+    ],
+    "collocations": [
+      "devolved government",
+      "devolved powers"
+    ],
+    "wiki": null,
+    "forms": [
+      "devolved"
+    ]
+  },
+  {
+    "headword": "Scottish Parliament",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The devolved legislature of Scotland, based at Holyrood in Edinburgh.",
+    "usage": "'Holyrood' is used as shorthand.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The Scottish Parliament voted on the bill.",
+      "She's an MSP at Holyrood."
+    ],
+    "collocations": [
+      "MSP",
+      "Holyrood"
+    ],
+    "wiki": null,
+    "forms": [
+      "Holyrood",
+      "MSP"
+    ]
+  },
+  {
+    "headword": "Senedd",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The Welsh Parliament, the devolved legislature of Wales.",
+    "usage": "Pronounced 'SEN-eth'; members are 'MSs'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The Senedd passed the new law.",
+      "She was elected to the Senedd."
+    ],
+    "collocations": [
+      "Senedd member",
+      "Welsh Parliament"
+    ],
+    "wiki": null,
+    "forms": [
+      "Welsh Parliament"
+    ]
+  },
+  {
+    "headword": "council",
+    "register": "GREEN",
+    "us_equivalent": "local government",
+    "gloss": "The elected local authority responsible for services such as bins, schools and planning.",
+    "usage": "Universal; people 'ring the council' or 'complain to the council'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Ring the council about the broken streetlight.",
+      "The council has cut library hours."
+    ],
+    "collocations": [
+      "local council",
+      "county council",
+      "town council"
+    ],
+    "wiki": null,
+    "forms": [
+      "councils",
+      "local authority"
+    ]
+  },
+  {
+    "headword": "councillor",
+    "register": "GREEN",
+    "us_equivalent": "council member",
+    "gloss": "An elected member of a local council.",
+    "usage": "Standard British spelling with double 'l'.",
+    "pragmatic_note": "Most councillors are part-time and receive only allowances.",
+    "pitfall": "Not the same as a 'counsellor', who gives advice or therapy.",
+    "examples": [
+      "I've emailed our local councillor.",
+      "She's a Labour councillor in Leeds."
+    ],
+    "collocations": [
+      "local councillor",
+      "ward councillor"
+    ],
+    "wiki": null,
+    "forms": [
+      "councillors",
+      "Cllr"
+    ]
+  },
+  {
+    "headword": "the Crown",
+    "register": "GREEN",
+    "us_equivalent": "the State",
+    "gloss": "The monarch as head of state, and the state's authority more generally.",
+    "usage": "Used in law and government, as in 'the Crown v Smith'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Ministers serve the Crown.",
+      "Land without an owner passes to the Crown."
+    ],
+    "collocations": [
+      "Crown Estate",
+      "Crown property"
+    ],
+    "wiki": null,
+    "forms": [
+      "Crown"
+    ]
+  },
+  {
+    "headword": "monarch",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The king or queen who is the UK's head of state.",
+    "usage": "Formal; 'the sovereign' is also used.",
+    "pragmatic_note": "The monarch is politically neutral and acts on ministers' advice.",
+    "pitfall": null,
+    "examples": [
+      "The monarch opens Parliament each year.",
+      "The monarch is head of state but not head of government."
+    ],
+    "collocations": [
+      "head of state",
+      "constitutional monarch"
+    ],
+    "wiki": null,
+    "forms": [
+      "monarchy",
+      "sovereign"
+    ]
+  },
+  {
+    "headword": "State Opening of Parliament",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The ceremony starting a parliamentary session, where the monarch reads out the government's plans.",
+    "usage": "A major televised ceremony; the speech is the 'King's Speech' or 'Queen's Speech'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The State Opening of Parliament is next month.",
+      "The King's Speech set out twenty new bills."
+    ],
+    "collocations": [
+      "King's Speech",
+      "Queen's Speech"
+    ],
+    "wiki": null,
+    "forms": [
+      "State Opening",
+      "King's Speech",
+      "Queen's Speech"
+    ]
+  },
+  {
+    "headword": "honours list",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A published list of people receiving honours such as OBEs, issued at New Year and the monarch's birthday.",
+    "usage": "Widely reported twice a year.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She was made an MBE in the New Year Honours.",
+      "Who's on the honours list this year?"
+    ],
+    "collocations": [
+      "New Year Honours",
+      "Birthday Honours"
+    ],
+    "wiki": null,
+    "forms": [
+      "honours",
+      "New Year Honours"
+    ]
+  },
+  {
+    "headword": "OBE",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Officer of the Order of the British Empire, an honour awarded for service.",
+    "usage": "People are 'awarded an OBE'; MBE and CBE are related ranks.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He was given an OBE for services to music.",
+      "She has an MBE for charity work."
+    ],
+    "collocations": [
+      "awarded an OBE",
+      "MBE",
+      "CBE"
+    ],
+    "wiki": null,
+    "forms": [
+      "MBE",
+      "CBE",
+      "OBEs"
+    ]
+  },
+  {
+    "headword": "knighthood",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An honour giving a man the title 'Sir', or a woman the title 'Dame'.",
+    "usage": "Reported in honours lists.",
+    "pragmatic_note": null,
+    "pitfall": "Use 'Sir' with the first name: 'Sir John', never 'Sir Smith'.",
+    "examples": [
+      "He was awarded a knighthood for services to science.",
+      "She became a dame last year."
+    ],
+    "collocations": [
+      "receive a knighthood",
+      "damehood"
+    ],
+    "wiki": null,
+    "forms": [
+      "knighted",
+      "Sir",
+      "Dame"
+    ]
+  },
+  {
+    "headword": "quango",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A public body funded by government but operating at arm's length from ministers.",
+    "usage": "Used in news, often critically.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The government plans to abolish several quangos.",
+      "It's run by an independent quango."
+    ],
+    "collocations": [
+      "quango"
+    ],
+    "wiki": null,
+    "forms": [
+      "quangos"
+    ]
+  },
+  {
+    "headword": "ombudsman",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An independent official who investigates complaints against public bodies or companies.",
+    "usage": "Common; there are ombudsmen for finance, energy and public services.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I've complained to the ombudsman.",
+      "The Financial Ombudsman ruled in my favour."
+    ],
+    "collocations": [
+      "Financial Ombudsman",
+      "Parliamentary Ombudsman"
+    ],
+    "wiki": null,
+    "forms": [
+      "ombudsmen"
+    ]
+  },
+  {
+    "headword": "Freedom of Information request",
+    "register": "GREEN",
+    "us_equivalent": "FOIA request",
+    "gloss": "A request to a public body to release information it holds.",
+    "usage": "Often 'FOI request'; used by journalists and the public.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The figures came out through an FOI request.",
+      "Submit a Freedom of Information request to the council."
+    ],
+    "collocations": [
+      "FOI request"
+    ],
+    "wiki": null,
+    "forms": [
+      "FOI request",
+      "FOI"
+    ]
+  },
+  {
+    "headword": "register office",
+    "register": "GREEN",
+    "us_equivalent": "city hall, county clerk's office",
+    "gloss": "A local office where births, deaths and marriages are recorded and civil weddings take place.",
+    "usage": "Often called 'registry office' in speech.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We got married at the register office.",
+      "You must register the birth within six weeks."
+    ],
+    "collocations": [
+      "register office wedding",
+      "register the birth"
+    ],
+    "wiki": null,
+    "forms": [
+      "registry office"
+    ]
+  },
+  {
+    "headword": "deed poll",
+    "register": "GREEN",
+    "us_equivalent": "legal name change",
+    "gloss": "A legal document used to change your name.",
+    "usage": "Used when changing names for official records.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She changed her name by deed poll.",
+      "You'll need the deed poll for your passport."
+    ],
+    "collocations": [
+      "by deed poll"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "British passport",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The passport issued to British citizens.",
+    "usage": "People apply for or renew it through HM Passport Office.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I need to renew my passport before the summer.",
+      "Apply for your passport well in advance."
+    ],
+    "collocations": [
+      "renew your passport",
+      "Passport Office"
+    ],
+    "wiki": "British passport",
+    "forms": [
+      "passport",
+      "Passport Office"
+    ]
+  },
+  {
+    "headword": "proof of address",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A document, such as a utility bill or bank statement, showing where you live.",
+    "usage": "Often requested by banks, GP surgeries and employers.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Bring a utility bill as proof of address.",
+      "I couldn't open an account without proof of address."
+    ],
+    "collocations": [
+      "proof of address",
+      "proof of ID"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "postcode",
+    "register": "GREEN",
+    "us_equivalent": "ZIP code",
+    "gloss": "A code of letters and numbers identifying an address for post.",
+    "usage": "Universal; also used to describe areas, as in 'postcode lottery'.",
+    "pragmatic_note": "'Postcode lottery' describes services that vary unfairly by area.",
+    "pitfall": "Americans say 'ZIP code'.",
+    "examples": [
+      "What's your postcode?",
+      "Just put the postcode into the satnav."
+    ],
+    "collocations": [
+      "postcode lottery"
+    ],
+    "wiki": null,
+    "forms": [
+      "postcodes"
+    ]
+  },
+  {
+    "headword": "first-class stamp",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A stamp for the faster postal service, aiming at next-day delivery; second class is slower.",
+    "usage": "Used at post offices and in everyday speech.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Can I have a book of first-class stamps?",
+      "Send it second class, it's not urgent."
+    ],
+    "collocations": [
+      "first class",
+      "second class",
+      "book of stamps"
+    ],
+    "wiki": null,
+    "forms": [
+      "second-class stamp",
+      "first class",
+      "second class"
+    ]
+  },
+  {
+    "headword": "recorded delivery",
+    "register": "GREEN",
+    "us_equivalent": "certified mail",
+    "gloss": "A postal service that records proof of delivery with a signature.",
+    "usage": "Common phrase, though the service is officially called 'Signed For'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Send it recorded delivery.",
+      "The letter came by recorded delivery."
+    ],
+    "collocations": [
+      "send recorded delivery",
+      "special delivery"
+    ],
+    "wiki": null,
+    "forms": [
+      "special delivery"
+    ]
+  },
+  {
+    "headword": "postbox",
+    "register": "GREEN",
+    "us_equivalent": "mailbox",
+    "gloss": "A public box for posting letters, traditionally red.",
+    "usage": "Also 'pillar box' for the classic round type.",
+    "pragmatic_note": null,
+    "pitfall": "In the UK a 'mailbox' is not usual; your own box at home is a 'letterbox'.",
+    "examples": [
+      "There's a postbox at the end of the road.",
+      "Can you post this in the postbox?"
+    ],
+    "collocations": [
+      "red postbox",
+      "pillar box"
+    ],
+    "wiki": "Pillar box",
+    "forms": [
+      "postboxes",
+      "pillar box",
+      "letter box"
+    ]
+  },
+  {
+    "headword": "jury service",
+    "register": "GREEN",
+    "us_equivalent": "jury duty",
+    "gloss": "The legal duty to serve as a member of a jury in court.",
+    "usage": "People are 'called for jury service' by letter.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'jury duty'.",
+    "examples": [
+      "I've been called up for jury service.",
+      "Jury service usually lasts two weeks."
+    ],
+    "collocations": [
+      "called for jury service",
+      "do jury service"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "solicitor",
+    "register": "GREEN",
+    "us_equivalent": "attorney, lawyer",
+    "gloss": "A lawyer who advises clients, handles legal work and usually works in an office rather than in court.",
+    "usage": "Standard British term; you 'see a solicitor' for wills or house sales.",
+    "pragmatic_note": null,
+    "pitfall": "In the US a 'solicitor' can mean a salesperson; avoid confusion.",
+    "examples": [
+      "You'll need a solicitor for the house sale.",
+      "My solicitor is handling the will."
+    ],
+    "collocations": [
+      "family solicitor",
+      "firm of solicitors"
+    ],
+    "wiki": null,
+    "forms": [
+      "solicitors"
+    ]
+  },
+  {
+    "headword": "barrister",
+    "register": "GREEN",
+    "us_equivalent": "trial lawyer, litigator",
+    "gloss": "A lawyer who specialises in arguing cases in court, usually instructed by a solicitor.",
+    "usage": "Standard in England and Wales; Scotland uses 'advocate'.",
+    "pragmatic_note": "Barristers traditionally wear wigs and gowns in court.",
+    "pitfall": "Do not confuse with 'barista'.",
+    "examples": [
+      "The barrister cross-examined the witness.",
+      "She was called to the Bar last year."
+    ],
+    "collocations": [
+      "called to the Bar",
+      "barrister's chambers"
+    ],
+    "wiki": null,
+    "forms": [
+      "barristers",
+      "the Bar"
+    ]
+  },
+  {
+    "headword": "KC",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "King's Counsel, a title for senior barristers; called QC, Queen's Counsel, under a queen.",
+    "usage": "Used in legal news: 'Jane Smith KC'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He was appointed KC last year.",
+      "The case was argued by a leading KC."
+    ],
+    "collocations": [
+      "leading KC",
+      "take silk"
+    ],
+    "wiki": null,
+    "forms": [
+      "QC",
+      "King's Counsel",
+      "Queen's Counsel"
+    ]
+  },
+  {
+    "headword": "magistrate",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A volunteer judge, usually unpaid and not legally qualified, who hears minor cases.",
+    "usage": "Also called a 'justice of the peace' or 'JP'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She's a volunteer magistrate.",
+      "The magistrates fined him."
+    ],
+    "collocations": [
+      "lay magistrate",
+      "JP"
+    ],
+    "wiki": null,
+    "forms": [
+      "magistrates",
+      "JP",
+      "justice of the peace"
+    ]
+  },
+  {
+    "headword": "magistrates' court",
+    "register": "GREEN",
+    "us_equivalent": "municipal court, misdemeanor court",
+    "gloss": "A lower court where most criminal cases in England and Wales begin and minor ones are tried.",
+    "usage": "Common in news.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He'll appear at the magistrates' court tomorrow.",
+      "Most cases are dealt with in magistrates' courts."
+    ],
+    "collocations": [
+      "appear at the magistrates' court"
+    ],
+    "wiki": null,
+    "forms": [
+      "magistrates court"
+    ]
+  },
+  {
+    "headword": "Crown Court",
+    "register": "GREEN",
+    "us_equivalent": "superior court",
+    "gloss": "The court in England and Wales that tries serious criminal cases before a judge and jury.",
+    "usage": "Common in news.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The case was sent to the Crown Court.",
+      "He was found guilty at Leeds Crown Court."
+    ],
+    "collocations": [
+      "Crown Court trial"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "Crown Prosecution Service",
+    "register": "GREEN",
+    "us_equivalent": "District Attorney's office",
+    "gloss": "The body that decides whether to bring criminal charges in England and Wales and prosecutes cases.",
+    "usage": "Usually 'the CPS'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The CPS decided not to bring charges.",
+      "The Crown Prosecution Service authorised the charge."
+    ],
+    "collocations": [
+      "CPS"
+    ],
+    "wiki": null,
+    "forms": [
+      "CPS"
+    ]
+  },
+  {
+    "headword": "legal aid",
+    "register": "GREEN",
+    "us_equivalent": "public defender",
+    "gloss": "Government funding to help people who cannot afford legal advice or representation.",
+    "usage": "Common in news and among lawyers.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She qualified for legal aid.",
+      "Cuts to legal aid have been controversial."
+    ],
+    "collocations": [
+      "legal aid lawyer",
+      "qualify for legal aid"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "Citizens Advice",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A charity giving free advice on money, legal, housing and consumer problems.",
+    "usage": "Widely known; people 'go to Citizens Advice'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Citizens Advice helped me with my debts.",
+      "Try Citizens Advice before you see a solicitor."
+    ],
+    "collocations": [
+      "Citizens Advice"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "coroner",
+    "register": "GREEN",
+    "us_equivalent": "medical examiner",
+    "gloss": "An official who investigates sudden or unexplained deaths, often holding an inquest.",
+    "usage": "Common in news reports.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The coroner recorded a verdict of accidental death.",
+      "The death was referred to the coroner."
+    ],
+    "collocations": [
+      "coroner's court",
+      "inquest"
+    ],
+    "wiki": null,
+    "forms": [
+      "coroners",
+      "inquest"
+    ]
+  },
+  {
+    "headword": "police constable",
+    "register": "GREEN",
+    "us_equivalent": "patrol officer",
+    "gloss": "The most junior rank of police officer in the UK.",
+    "usage": "Abbreviated 'PC', as in 'PC Smith'.",
+    "pragmatic_note": null,
+    "pitfall": "In Britain a constable is a police officer, not a sheriff's deputy.",
+    "examples": [
+      "A police constable took my statement.",
+      "PC Jones spoke to the witnesses."
+    ],
+    "collocations": [
+      "PC",
+      "special constable"
+    ],
+    "wiki": null,
+    "forms": [
+      "PC",
+      "constable",
+      "police constables"
+    ]
+  },
+  {
+    "headword": "bobby",
+    "register": "AMBER",
+    "us_equivalent": "cop",
+    "gloss": "A police officer, especially one on foot patrol.",
+    "usage": "Affectionate and rather old-fashioned; 'bobbies on the beat' is a stock phrase.",
+    "pragmatic_note": "Named after Sir Robert Peel, who founded the Metropolitan Police.",
+    "pitfall": null,
+    "examples": [
+      "We need more bobbies on the beat.",
+      "A friendly bobby gave us directions."
+    ],
+    "collocations": [
+      "bobbies on the beat"
+    ],
+    "wiki": null,
+    "forms": [
+      "bobbies"
+    ]
+  },
+  {
+    "headword": "PCSO",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A police community support officer, a uniformed civilian who patrols but has limited powers.",
+    "usage": "Common in England and Wales.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "A PCSO came round about the break-ins.",
+      "PCSOs focus on neighbourhood patrols."
+    ],
+    "collocations": [
+      "police community support officer"
+    ],
+    "wiki": null,
+    "forms": [
+      "PCSOs",
+      "police community support officer"
+    ]
+  },
+  {
+    "headword": "the Met",
+    "register": "GREEN",
+    "us_equivalent": "NYPD",
+    "gloss": "The Metropolitan Police, the force covering London.",
+    "usage": "Universal in news; its headquarters is known as Scotland Yard.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The Met has opened an investigation.",
+      "He joined the Met straight from school."
+    ],
+    "collocations": [
+      "Met Police",
+      "Scotland Yard"
+    ],
+    "wiki": null,
+    "forms": [
+      "Met Police",
+      "Metropolitan Police"
+    ]
+  },
+  {
+    "headword": "caution",
+    "register": "GREEN",
+    "us_equivalent": "Miranda warning",
+    "gloss": "The formal warning given on arrest; also a formal warning given instead of prosecution.",
+    "usage": "Used in policing and news: 'arrested under caution', 'given a caution'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He was interviewed under caution.",
+      "She accepted a police caution."
+    ],
+    "collocations": [
+      "under caution",
+      "police caution"
+    ],
+    "wiki": null,
+    "forms": [
+      "cautioned",
+      "cautions"
+    ]
+  },
+  {
+    "headword": "on remand",
+    "register": "GREEN",
+    "us_equivalent": "held without bail",
+    "gloss": "Held in prison while awaiting trial.",
+    "usage": "Standard legal phrase in news.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He's been on remand for six months.",
+      "She was remanded in custody."
+    ],
+    "collocations": [
+      "remanded in custody"
+    ],
+    "wiki": null,
+    "forms": [
+      "remanded",
+      "remand"
+    ]
+  },
+  {
+    "headword": "bail",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Temporary release of an accused person while awaiting trial or investigation, sometimes with conditions.",
+    "usage": "Used in news: 'released on bail'.",
+    "pragmatic_note": null,
+    "pitfall": "In the UK bail usually involves conditions rather than cash payments.",
+    "examples": [
+      "He was released on bail.",
+      "Bail was refused."
+    ],
+    "collocations": [
+      "on bail",
+      "released on bail",
+      "bail conditions"
+    ],
+    "wiki": null,
+    "forms": [
+      "bailed"
+    ]
+  }
+]

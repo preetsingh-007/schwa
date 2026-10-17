@@ -132,7 +132,7 @@ export function buildConnectedTarget(words: string[], citation: string[], clause
     // Non-rhotic citation form: a word-final /r/ after a vowel is only ever a linking /r/ (re-added below).
     if (phones.length > 1 && phones[phones.length - 1].p === 'r' && isVowel(phones[phones.length - 2].p)) phones = phones.slice(0, -1);
     let weakApplied = false;
-    const rule = WEAK_FORMS[norm];
+    const rule = Object.hasOwn(WEAK_FORMS, norm) ? WEAK_FORMS[norm] : undefined;
     const isFunction = !!rule;
     if (rule && !isLast) {
       const ok = (!rule.after || rule.after.has(prev)) && !(rule.notBefore && rule.notBefore.has(next)) && !(norm === 'there' && !/^(is|are|was|were|'s|will|has|have|must|might|may|seems|seem)$/.test(next));

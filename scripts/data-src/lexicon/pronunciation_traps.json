@@ -1,0 +1,4634 @@
+[
+  {
+    "headword": "Leicester",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A city in the East Midlands of England, known for its diverse communities.",
+    "usage": "Said LESS-ter: two syllables, the middle '-ces-' is silent.",
+    "pragmatic_note": null,
+    "pitfall": "Never 'Lie-ses-ter'. RP /ˈlestə/.",
+    "examples": [
+      "I grew up in Leicester, about an hour north of London.",
+      "Let's meet in Leicester Square before the film."
+    ],
+    "collocations": [
+      "Leicester Square",
+      "Leicester City"
+    ],
+    "wiki": "Leicester",
+    "forms": []
+  },
+  {
+    "headword": "Gloucester",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A cathedral city in south-west England, the county town of Gloucestershire.",
+    "usage": "Said GLOSS-ter: two syllables, rhyming with 'Costa'.",
+    "pragmatic_note": null,
+    "pitfall": "Never 'Glow-sess-ter'. RP /ˈɡlɒstə/.",
+    "examples": [
+      "The train to Gloucester leaves from platform four.",
+      "Gloucester Cathedral was used in the Harry Potter films."
+    ],
+    "collocations": [
+      "Gloucester Road",
+      "Gloucester Cathedral"
+    ],
+    "wiki": "Gloucester",
+    "forms": []
+  },
+  {
+    "headword": "Worcester",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A cathedral city on the River Severn in the West Midlands of England.",
+    "usage": "Said WUSS-ter, with 'wuss' rhyming with 'puss'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Wor-ses-ter'. RP /ˈwʊstə/.",
+    "examples": [
+      "Worcester is famous for its porcelain and its cathedral."
+    ],
+    "collocations": [
+      "Worcester Cathedral",
+      "Worcester College"
+    ],
+    "wiki": "Worcester, England",
+    "forms": []
+  },
+  {
+    "headword": "Worcestershire",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A county in the West Midlands of England, with Worcester as its county town.",
+    "usage": "Said WUSS-ter-sher: three syllables, not five.",
+    "pragmatic_note": null,
+    "pitfall": "Learners often read every letter. RP /ˈwʊstəʃə/.",
+    "examples": [
+      "The Malvern Hills are on the edge of Worcestershire."
+    ],
+    "collocations": [],
+    "wiki": "Worcestershire",
+    "forms": []
+  },
+  {
+    "headword": "Worcestershire sauce",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A dark, tangy fermented sauce used to season food and Bloody Marys.",
+    "usage": "Said WUSS-ter-sher sauce; many Britons simply say 'Worcester sauce' (WUSS-ter).",
+    "pragmatic_note": null,
+    "pitfall": "The most mispronounced bottle in the cupboard. RP /ˌwʊstəʃə ˈsɔːs/.",
+    "examples": [
+      "Add a dash of Worcestershire sauce to the cheese on toast."
+    ],
+    "collocations": [],
+    "wiki": "Worcestershire sauce",
+    "forms": [
+      "Worcester sauce"
+    ]
+  },
+  {
+    "headword": "Warwick",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A historic county town in the West Midlands, famous for its medieval castle.",
+    "usage": "Said WORR-ick: the 'w' in the middle is silent.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'War-wick'. RP /ˈwɒrɪk/.",
+    "examples": [
+      "We took the children to Warwick Castle in the half-term holiday."
+    ],
+    "collocations": [
+      "Warwick Castle",
+      "Warwick University"
+    ],
+    "wiki": "Warwick",
+    "forms": []
+  },
+  {
+    "headword": "Greenwich",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A district of south-east London on the Thames, home of the Prime Meridian.",
+    "usage": "Said GREN-itch (or GRIN-idge); the 'w' is silent and the first vowel is short.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Green-witch'. RP /ˈɡrenɪtʃ/ or /ˈɡrɪnɪdʒ/.",
+    "examples": [
+      "We walked through Greenwich Park up to the Royal Observatory."
+    ],
+    "collocations": [
+      "Greenwich Mean Time",
+      "Greenwich Park"
+    ],
+    "wiki": "Greenwich",
+    "forms": []
+  },
+  {
+    "headword": "Norwich",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A cathedral city in Norfolk, in the east of England.",
+    "usage": "Said NORR-itch or NORR-idge, rhyming with 'porridge'; the 'w' is silent.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Nor-witch'. RP /ˈnɒrɪtʃ/ or /ˈnɒrɪdʒ/.",
+    "examples": [
+      "Norwich has one of the best-preserved medieval centres in England."
+    ],
+    "collocations": [],
+    "wiki": "Norwich",
+    "forms": []
+  },
+  {
+    "headword": "Woolwich",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A district of south-east London on the Thames, historically home to the Royal Arsenal.",
+    "usage": "Said WOOL-itch, with 'wool' as in sheep's wool and a silent second 'w'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Wool-witch'. RP /ˈwʊlɪtʃ/.",
+    "examples": [
+      "The Elizabeth line now runs out to Woolwich."
+    ],
+    "collocations": [
+      "Woolwich Arsenal"
+    ],
+    "wiki": "Woolwich",
+    "forms": []
+  },
+  {
+    "headword": "Dulwich",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A leafy district of south London known for its picture gallery and park.",
+    "usage": "Said DULL-itch; the 'w' is silent.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Dull-witch'. RP /ˈdʌlɪtʃ/.",
+    "examples": [
+      "Dulwich Picture Gallery is the oldest public art gallery in England."
+    ],
+    "collocations": [
+      "Dulwich Village",
+      "Dulwich Picture Gallery"
+    ],
+    "wiki": "Dulwich",
+    "forms": []
+  },
+  {
+    "headword": "Chiswick",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A district of west London on the Thames, known for its high road and riverside pubs.",
+    "usage": "Said CHIZZ-ick; the 'w' is silent and the 's' sounds like 'z'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Chis-wick'. RP /ˈtʃɪzɪk/.",
+    "examples": [
+      "They moved to Chiswick to be near the river."
+    ],
+    "collocations": [
+      "Chiswick High Road"
+    ],
+    "wiki": "Chiswick",
+    "forms": []
+  },
+  {
+    "headword": "Keswick",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A market town in the Lake District, beside Derwentwater.",
+    "usage": "Said KEZZ-ick; the 'w' is silent.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Kes-wick'. RP /ˈkezɪk/.",
+    "examples": [
+      "Keswick is a good base for walking in the northern fells."
+    ],
+    "collocations": [],
+    "wiki": "Keswick, Cumbria",
+    "forms": []
+  },
+  {
+    "headword": "Alnwick",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A market town in Northumberland with a castle used in the Harry Potter films.",
+    "usage": "Said ANN-ick; both the 'l' and the 'w' are silent.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Aln-wick'. RP /ˈænɪk/.",
+    "examples": [
+      "Alnwick Castle was the setting for Hogwarts in the early films."
+    ],
+    "collocations": [
+      "Alnwick Castle",
+      "Alnwick Garden"
+    ],
+    "wiki": "Alnwick",
+    "forms": []
+  },
+  {
+    "headword": "Berwick-upon-Tweed",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "England's northernmost town, on the River Tweed near the Scottish border.",
+    "usage": "Berwick is said BERR-ick, rhyming with 'Derek'; the 'w' is silent.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Ber-wick'. RP /ˌberɪk əpɒn ˈtwiːd/.",
+    "examples": [
+      "Berwick-upon-Tweed changed hands between England and Scotland many times."
+    ],
+    "collocations": [],
+    "wiki": "Berwick-upon-Tweed",
+    "forms": [
+      "Berwick"
+    ]
+  },
+  {
+    "headword": "Edinburgh",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The capital city of Scotland, famous for its castle and its August festivals.",
+    "usage": "Said ED-in-bruh: the ending is a weak '-bruh', never '-burg'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans often say '-burg' or '-burrow'. RP /ˈedɪnbərə/, often /ˈedɪnbrə/.",
+    "examples": [
+      "We're going up to Edinburgh for the Fringe in August."
+    ],
+    "collocations": [
+      "Edinburgh Castle",
+      "Edinburgh Festival"
+    ],
+    "wiki": "Edinburgh",
+    "forms": []
+  },
+  {
+    "headword": "Thames",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The river that flows through Oxford and London to the North Sea.",
+    "usage": "Said TEMZ, rhyming with 'gems': no 'th' sound and no 'a' sound.",
+    "pragmatic_note": null,
+    "pitfall": "Never 'Thaymz'. RP /temz/.",
+    "examples": [
+      "We took a boat down the Thames to Greenwich.",
+      "The Thames Path runs right along the river."
+    ],
+    "collocations": [
+      "River Thames",
+      "Thames Valley",
+      "Thames Path"
+    ],
+    "wiki": "River Thames",
+    "forms": []
+  },
+  {
+    "headword": "Reading",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A large town in Berkshire, west of London, known for its music festival.",
+    "usage": "Said REDD-ing, exactly like the colour red plus '-ing', never like the verb 'reading'.",
+    "pragmatic_note": null,
+    "pitfall": "RP /ˈredɪŋ/, not /ˈriːdɪŋ/.",
+    "examples": [
+      "I commute from Reading to Paddington every day."
+    ],
+    "collocations": [
+      "Reading Festival"
+    ],
+    "wiki": "Reading, Berkshire",
+    "forms": []
+  },
+  {
+    "headword": "Marylebone",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An affluent district of central London, home to Baker Street and Harley Street.",
+    "usage": "Said MARR-luh-bun or MAR-lee-bun; never 'Mary-le-bone'.",
+    "pragmatic_note": null,
+    "pitfall": "The final '-bone' is a weak 'bun'. RP /ˈmærələbən/ or /ˈmɑːlibən/.",
+    "examples": [
+      "Trains to Birmingham Moor Street leave from Marylebone."
+    ],
+    "collocations": [
+      "Marylebone High Street",
+      "Marylebone station"
+    ],
+    "wiki": "Marylebone",
+    "forms": []
+  },
+  {
+    "headword": "Southwark",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A borough of London on the south bank of the Thames, opposite the City.",
+    "usage": "Said SUTH-uk, with 'suth' rhyming with 'mother' minus the m; the 'w' is silent.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'South-wark'. RP /ˈsʌðək/.",
+    "examples": [
+      "Southwark Cathedral is right next to Borough Market."
+    ],
+    "collocations": [
+      "Southwark Cathedral",
+      "Southwark Bridge"
+    ],
+    "wiki": "Southwark",
+    "forms": []
+  },
+  {
+    "headword": "Holborn",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A district of central London between the City and the West End.",
+    "usage": "Said HOH-bun; the 'l' is silent and the ending is weak.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Hol-born'. RP /ˈhəʊbən/.",
+    "examples": [
+      "Change at Holborn for the Piccadilly line."
+    ],
+    "collocations": [
+      "Holborn Viaduct"
+    ],
+    "wiki": "Holborn",
+    "forms": []
+  },
+  {
+    "headword": "Magdalen College",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A college of the University of Oxford, known for its deer park and tower.",
+    "usage": "Magdalen is said MAWD-lin, just like 'maudlin'; Magdalene College, Cambridge, is said the same way.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Mag-da-len'. RP /ˈmɔːdlɪn/.",
+    "examples": [
+      "The choir sings from the top of Magdalen Tower on May Morning."
+    ],
+    "collocations": [],
+    "wiki": "Magdalen College, Oxford",
+    "forms": [
+      "Magdalen",
+      "Magdalene",
+      "Magdalene College"
+    ]
+  },
+  {
+    "headword": "Caius",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Short name for Gonville and Caius College, Cambridge.",
+    "usage": "Said KEEZ, exactly like 'keys'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Kai-us'. RP /kiːz/.",
+    "examples": [
+      "She read medicine at Caius."
+    ],
+    "collocations": [],
+    "wiki": "Gonville and Caius College, Cambridge",
+    "forms": [
+      "Gonville and Caius"
+    ]
+  },
+  {
+    "headword": "Belvoir",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A castle and vale in Leicestershire, seat of the Dukes of Rutland.",
+    "usage": "Said BEE-ver, like the animal.",
+    "pragmatic_note": null,
+    "pitfall": "Not the French 'bel-vwar'. RP /ˈbiːvə/.",
+    "examples": [
+      "Belvoir Castle looks out over the Vale of Belvoir."
+    ],
+    "collocations": [
+      "Belvoir Castle",
+      "Vale of Belvoir"
+    ],
+    "wiki": "Belvoir Castle",
+    "forms": []
+  },
+  {
+    "headword": "Cholmondeley",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An aristocratic English surname and the name of a castle in Cheshire.",
+    "usage": "Said CHUM-lee: two syllables, whatever the spelling suggests.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Chol-mon-de-ley'. RP /ˈtʃʌmli/.",
+    "examples": [
+      "Cholmondeley is pronounced 'Chumley', which surprises almost everyone."
+    ],
+    "collocations": [],
+    "wiki": "Cholmondeley Castle",
+    "forms": []
+  },
+  {
+    "headword": "Featherstonehaugh",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A rare aristocratic English surname.",
+    "usage": "Traditionally said FAN-shaw by some branches of the family; others say it as spelt.",
+    "pragmatic_note": "Famous as the extreme example of English spelling and pronunciation parting company.",
+    "pitfall": "Ask the person: usage varies within the family. Traditional RP /ˈfænʃɔː/.",
+    "examples": [
+      "Apparently Featherstonehaugh can be pronounced 'Fanshaw'."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "Bicester",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A market town in Oxfordshire, known for its outlet shopping village.",
+    "usage": "Said BISS-ter: two syllables.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'By-sess-ter'. RP /ˈbɪstə/.",
+    "examples": [
+      "We spent Saturday at Bicester Village hunting for bargains."
+    ],
+    "collocations": [
+      "Bicester Village"
+    ],
+    "wiki": "Bicester",
+    "forms": []
+  },
+  {
+    "headword": "Towcester",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A small market town in Northamptonshire, near Silverstone.",
+    "usage": "Said TOH-ster, rhyming with 'toaster'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Tow-sess-ter'. RP /ˈtəʊstə/.",
+    "examples": [
+      "Towcester is just down the road from Silverstone."
+    ],
+    "collocations": [],
+    "wiki": "Towcester",
+    "forms": []
+  },
+  {
+    "headword": "Leominster",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A market town in Herefordshire, known for its antiques shops.",
+    "usage": "Said LEM-ster: two syllables.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Leo-minster'. RP /ˈlemstə/.",
+    "examples": [
+      "Leominster is full of antiques shops and old timber-framed buildings."
+    ],
+    "collocations": [],
+    "wiki": "Leominster",
+    "forms": []
+  },
+  {
+    "headword": "Wymondham",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A market town in Norfolk, south-west of Norwich.",
+    "usage": "Said WIND-um, with 'wind' as in a breeze.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Why-mond-ham'. RP /ˈwɪndəm/. The Leicestershire village of the same name is said differently.",
+    "examples": [
+      "Wymondham Abbey has two towers at either end."
+    ],
+    "collocations": [],
+    "wiki": "Wymondham, Norfolk",
+    "forms": []
+  },
+  {
+    "headword": "Loughborough",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A university town in Leicestershire, famous for sport.",
+    "usage": "Said LUFF-bruh: 'lough' rhymes with 'rough' and the ending is a weak '-bruh'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Low-borrow'. RP /ˈlʌfbərə/.",
+    "examples": [
+      "Loughborough University is famous for its sports science."
+    ],
+    "collocations": [],
+    "wiki": "Loughborough",
+    "forms": []
+  },
+  {
+    "headword": "Slough",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A large town in Berkshire, west of London near Heathrow.",
+    "usage": "Said SLOW to rhyme with 'cow' and 'now'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'sluff' or 'slew'. RP /slaʊ/.",
+    "examples": [
+      "Slough is only twenty minutes from Paddington on the fast train."
+    ],
+    "collocations": [],
+    "wiki": "Slough",
+    "forms": []
+  },
+  {
+    "headword": "Derby",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A city in the East Midlands; also the name of a famous horse race.",
+    "usage": "Said DAR-bee for both the city and the race; a local derby is a match between neighbouring teams.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'DUR-bee'. RP /ˈdɑːbi/.",
+    "examples": [
+      "Derby is about half an hour from Nottingham.",
+      "Sunday's local derby sold out in minutes."
+    ],
+    "collocations": [
+      "local derby",
+      "Derby Day",
+      "Derby County"
+    ],
+    "wiki": "Derby",
+    "forms": []
+  },
+  {
+    "headword": "Berkshire",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A county west of London, containing Reading, Windsor and Slough.",
+    "usage": "Said BARK-sher: 'Berk-' sounds like 'bark'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Burk-shire'. RP /ˈbɑːkʃə/.",
+    "examples": [
+      "Windsor Castle is in Berkshire."
+    ],
+    "collocations": [],
+    "wiki": "Berkshire",
+    "forms": []
+  },
+  {
+    "headword": "Hertford",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The county town of Hertfordshire, north of London.",
+    "usage": "Said HAR-fud: the 't' is silent and 'Hert-' sounds like 'heart'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Hurt-ford'. RP /ˈhɑːfəd/.",
+    "examples": [
+      "Hertford is a pleasant market town on the River Lea."
+    ],
+    "collocations": [
+      "Hertford College"
+    ],
+    "wiki": "Hertford",
+    "forms": []
+  },
+  {
+    "headword": "Hereford",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A cathedral city in the West Midlands near the Welsh border.",
+    "usage": "Said HERR-if-ud, three short syllables.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Here-ford'. RP /ˈherɪfəd/.",
+    "examples": [
+      "Hereford Cathedral holds the Mappa Mundi."
+    ],
+    "collocations": [
+      "Hereford cattle"
+    ],
+    "wiki": "Hereford",
+    "forms": []
+  },
+  {
+    "headword": "Salisbury",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A cathedral city in Wiltshire, near Stonehenge.",
+    "usage": "Said SAWLZ-bree: the first syllable rhymes with 'walls'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Sal-is-berry'. RP /ˈsɔːlzbəri/, often /ˈsɔːlzbri/.",
+    "examples": [
+      "Salisbury Cathedral has the tallest spire in Britain."
+    ],
+    "collocations": [
+      "Salisbury Plain",
+      "Salisbury Cathedral"
+    ],
+    "wiki": "Salisbury",
+    "forms": []
+  },
+  {
+    "headword": "Shrewsbury",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The county town of Shropshire, on a loop of the River Severn.",
+    "usage": "Both SHROZE-bree and SHROOZ-bree are heard, and locals argue about which is right.",
+    "pragmatic_note": "The two pronunciations are a long-running local debate, so neither will mark you out.",
+    "pitfall": "Either is acceptable. RP /ˈʃrəʊzbəri/ or /ˈʃruːzbəri/.",
+    "examples": [
+      "Charles Darwin was born in Shrewsbury."
+    ],
+    "collocations": [],
+    "wiki": "Shrewsbury",
+    "forms": []
+  },
+  {
+    "headword": "Beaulieu",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A village in the New Forest, Hampshire, known for its motor museum.",
+    "usage": "Said BYOO-lee, like 'beautiful' cut short.",
+    "pragmatic_note": null,
+    "pitfall": "Not the French 'bo-lyuh'. RP /ˈbjuːli/.",
+    "examples": [
+      "We visited the National Motor Museum at Beaulieu."
+    ],
+    "collocations": [],
+    "wiki": "Beaulieu, Hampshire",
+    "forms": []
+  },
+  {
+    "headword": "Frome",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A market town in Somerset with a thriving independent arts scene.",
+    "usage": "Said FROOM, rhyming with 'room'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Frome' to rhyme with 'home'. RP /fruːm/.",
+    "examples": [
+      "Frome holds a huge independent market once a month."
+    ],
+    "collocations": [],
+    "wiki": "Frome",
+    "forms": []
+  },
+  {
+    "headword": "Mousehole",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A picturesque fishing village in Cornwall, near Penzance.",
+    "usage": "Said MOW-zul, with 'mow' rhyming with 'cow'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'mouse hole'. RP /ˈmaʊzəl/.",
+    "examples": [
+      "Mousehole is famous for its Christmas harbour lights."
+    ],
+    "collocations": [],
+    "wiki": "Mousehole",
+    "forms": []
+  },
+  {
+    "headword": "Fowey",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A small harbour town on the south coast of Cornwall.",
+    "usage": "Said FOY, rhyming with 'boy'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Fow-ee'. RP /fɔɪ/.",
+    "examples": [
+      "Daphne du Maurier lived near Fowey for much of her life."
+    ],
+    "collocations": [],
+    "wiki": "Fowey",
+    "forms": []
+  },
+  {
+    "headword": "Happisburgh",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A coastal village in Norfolk known for cliff erosion and its striped lighthouse.",
+    "usage": "Said HAZE-bruh.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Happy's-burg'. RP /ˈheɪzbərə/.",
+    "examples": [
+      "Happisburgh's red-and-white lighthouse is a local landmark."
+    ],
+    "collocations": [],
+    "wiki": "Happisburgh",
+    "forms": []
+  },
+  {
+    "headword": "Gillingham",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The name of towns in Kent and in Dorset, pronounced differently.",
+    "usage": "The Kent town is JILL-ing-um with a soft 'g'; the Dorset town is GILL-ing-um with a hard 'g'.",
+    "pragmatic_note": null,
+    "pitfall": "Never sound the '-ham' as 'ham'. Kent RP /ˈdʒɪlɪŋəm/; Dorset /ˈɡɪlɪŋəm/.",
+    "examples": [
+      "Gillingham in Kent is one of the Medway towns."
+    ],
+    "collocations": [],
+    "wiki": "Gillingham, Kent",
+    "forms": []
+  },
+  {
+    "headword": "Bury St Edmunds",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A historic market town in Suffolk built around a ruined abbey.",
+    "usage": "Bury is said BERRY, exactly like the fruit; the same goes for Bury near Manchester.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Byoo-ry' or 'Burry'. RP /ˌberi sənt ˈedməndz/.",
+    "examples": [
+      "Bury St Edmunds has a brewery right in the town centre."
+    ],
+    "collocations": [],
+    "wiki": "Bury St Edmunds",
+    "forms": [
+      "Bury"
+    ]
+  },
+  {
+    "headword": "Durham",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A cathedral and university city in north-east England.",
+    "usage": "Said DUH-rum: the first syllable rhymes with 'hurry' minus the y.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Der-ham' or the American 'Dur-um'. RP /ˈdʌrəm/.",
+    "examples": [
+      "Durham Cathedral sits high above the river."
+    ],
+    "collocations": [
+      "Durham Cathedral",
+      "Durham University"
+    ],
+    "wiki": "Durham, England",
+    "forms": []
+  },
+  {
+    "headword": "Birmingham",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "England's second-largest city, in the West Midlands.",
+    "usage": "Said BUR-ming-um: the '-ham' is a weak '-um', never 'ham'.",
+    "pragmatic_note": null,
+    "pitfall": "The US city in Alabama is said '-ham'; the English one is not. RP /ˈbɜːmɪŋəm/.",
+    "examples": [
+      "I'm getting the train up to Birmingham for a conference."
+    ],
+    "collocations": [
+      "Birmingham New Street"
+    ],
+    "wiki": "Birmingham",
+    "forms": []
+  },
+  {
+    "headword": "Nottingham",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A city in the East Midlands, linked with the legend of Robin Hood.",
+    "usage": "Said NOT-ing-um, with the '-ham' reduced to '-um'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Notting-HAM'. RP /ˈnɒtɪŋəm/.",
+    "examples": [
+      "Nottingham Castle overlooks the city centre."
+    ],
+    "collocations": [],
+    "wiki": "Nottingham",
+    "forms": []
+  },
+  {
+    "headword": "Tottenham",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A district of north London, home to a Premier League football club.",
+    "usage": "Said TOT-num, usually just two syllables.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Totten-HAM'. RP /ˈtɒtənəm/, often /ˈtɒtnəm/.",
+    "examples": [
+      "Tottenham Court Road is nowhere near Tottenham itself."
+    ],
+    "collocations": [
+      "Tottenham Court Road",
+      "Tottenham Hotspur"
+    ],
+    "wiki": "Tottenham",
+    "forms": []
+  },
+  {
+    "headword": "Fulham",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A district of south-west London on the Thames.",
+    "usage": "Said FULL-um, with 'full' as in a full glass.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Ful-HAM'. RP /ˈfʊləm/.",
+    "examples": [
+      "They rent a flat just off the Fulham Road."
+    ],
+    "collocations": [
+      "Fulham Road",
+      "Fulham Broadway"
+    ],
+    "wiki": "Fulham",
+    "forms": []
+  },
+  {
+    "headword": "Streatham",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A district of south London with a long high road.",
+    "usage": "Said STRET-um: 'strea-' sounds like 'stret', and there is no 'th' sound.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Street-ham'. RP /ˈstretəm/.",
+    "examples": [
+      "Streatham High Road is said to be one of the longest high streets in Europe."
+    ],
+    "collocations": [
+      "Streatham Common"
+    ],
+    "wiki": "Streatham",
+    "forms": []
+  },
+  {
+    "headword": "Eltham",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A district of south-east London with a medieval royal palace.",
+    "usage": "Said ELL-tum: there is no 'th' sound.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Elth-am'. RP /ˈeltəm/.",
+    "examples": [
+      "Eltham Palace has a wonderful Art Deco interior."
+    ],
+    "collocations": [
+      "Eltham Palace"
+    ],
+    "wiki": "Eltham",
+    "forms": []
+  },
+  {
+    "headword": "Cheltenham",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A spa town in Gloucestershire, known for its racecourse and festivals.",
+    "usage": "Said CHELT-num.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Chelten-HAM'. RP /ˈtʃeltənəm/, often /ˈtʃeltnəm/.",
+    "examples": [
+      "Cheltenham hosts a big literature festival every October."
+    ],
+    "collocations": [
+      "Cheltenham Festival"
+    ],
+    "wiki": "Cheltenham",
+    "forms": []
+  },
+  {
+    "headword": "Guildford",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The county town of Surrey, south-west of London.",
+    "usage": "Said GILL-fud: the 'u' and 'd' of 'Guild-' are silent.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Gild-ford'. RP /ˈɡɪlfəd/.",
+    "examples": [
+      "Guildford has a modern cathedral on the hill."
+    ],
+    "collocations": [],
+    "wiki": "Guildford",
+    "forms": []
+  },
+  {
+    "headword": "Deptford",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A district of south-east London on the Thames, historically a royal dockyard.",
+    "usage": "Said DET-fud: the 'p' is silent.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Dept-ford'. RP /ˈdetfəd/.",
+    "examples": [
+      "Deptford Market is great for second-hand finds."
+    ],
+    "collocations": [],
+    "wiki": "Deptford",
+    "forms": []
+  },
+  {
+    "headword": "Plymouth",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A port city on the south coast of Devon.",
+    "usage": "Said PLIM-uth: the '-mouth' ending is always a weak '-muth' in English place names.",
+    "pragmatic_note": null,
+    "pitfall": "Never '-mowth'. RP /ˈplɪməθ/.",
+    "examples": [
+      "The Mayflower set sail from Plymouth in 1620."
+    ],
+    "collocations": [
+      "Plymouth Hoe"
+    ],
+    "wiki": "Plymouth",
+    "forms": []
+  },
+  {
+    "headword": "Carlisle",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A border city in Cumbria, close to Scotland and Hadrian's Wall.",
+    "usage": "Said car-LYLE in RP, though locals often stress the first syllable.",
+    "pragmatic_note": null,
+    "pitfall": "The '-isle' is 'ile' as in 'aisle'. RP /kɑːˈlaɪl/.",
+    "examples": [
+      "Carlisle is the last big stop before the Scottish border."
+    ],
+    "collocations": [],
+    "wiki": "Carlisle, Cumbria",
+    "forms": []
+  },
+  {
+    "headword": "Newcastle",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Newcastle upon Tyne, the major city of north-east England.",
+    "usage": "Locals say new-CASS-ul with a short 'a'; a southern RP speaker may say NEW-kah-sul.",
+    "pragmatic_note": "Locals notice the southern 'NEW-kah-sul', so the local stress is worth learning.",
+    "pitfall": "Both are heard; the local form is the respectful choice. RP /ˈnjuːkɑːsl/; local /njuːˈkæsl/.",
+    "examples": [
+      "Newcastle is famous for its bridges over the Tyne."
+    ],
+    "collocations": [],
+    "wiki": "Newcastle upon Tyne",
+    "forms": [
+      "Newcastle upon Tyne"
+    ]
+  },
+  {
+    "headword": "Glasgow",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Scotland's largest city, on the River Clyde.",
+    "usage": "Said GLAHZ-goh or GLAZ-goh: the 's' is a 'z' sound, never 'cow' at the end.",
+    "pragmatic_note": null,
+    "pitfall": "Americans often say 'Glass-cow'. RP /ˈɡlɑːzɡəʊ/ or /ˈɡlæzɡəʊ/.",
+    "examples": [
+      "Glasgow has a brilliant live music scene."
+    ],
+    "collocations": [],
+    "wiki": "Glasgow",
+    "forms": []
+  },
+  {
+    "headword": "Kirkcudbright",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A small harbour town in Dumfries and Galloway, south-west Scotland.",
+    "usage": "Said kur-KOO-bree.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Kirk-cud-bright'. RP /kɜːˈkuːbri/.",
+    "examples": [
+      "Kirkcudbright is known as Scotland's artists' town."
+    ],
+    "collocations": [],
+    "wiki": "Kirkcudbright",
+    "forms": []
+  },
+  {
+    "headword": "Milngavie",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A town just north of Glasgow, start of the West Highland Way.",
+    "usage": "Said mull-GUY.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Miln-gavvy'. RP /mʌlˈɡaɪ/.",
+    "examples": [
+      "The West Highland Way starts in Milngavie."
+    ],
+    "collocations": [],
+    "wiki": "Milngavie",
+    "forms": []
+  },
+  {
+    "headword": "Culzean Castle",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A clifftop castle on the Ayrshire coast in Scotland.",
+    "usage": "Culzean is said kul-LAYN.",
+    "pragmatic_note": null,
+    "pitfall": "The 'z' is silent, a relic of an old Scots letter. RP /kʌˈleɪn/.",
+    "examples": [
+      "Culzean Castle sits right on the cliffs above the sea."
+    ],
+    "collocations": [],
+    "wiki": "Culzean Castle",
+    "forms": [
+      "Culzean"
+    ]
+  },
+  {
+    "headword": "Islay",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An island of the Inner Hebrides, famous for peaty whisky.",
+    "usage": "Said EYE-luh: the 's' is silent.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Iz-lay'. RP /ˈaɪlə/.",
+    "examples": [
+      "Islay whiskies are known for their smoky taste."
+    ],
+    "collocations": [
+      "Islay malt"
+    ],
+    "wiki": "Islay",
+    "forms": []
+  },
+  {
+    "headword": "Hawick",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A textile town in the Scottish Borders, famous for knitwear.",
+    "usage": "Said HOYK, one syllable.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Ha-wick'. RP /ˈhɔɪk/.",
+    "examples": [
+      "Hawick is known for cashmere and rugby."
+    ],
+    "collocations": [],
+    "wiki": "Hawick",
+    "forms": []
+  },
+  {
+    "headword": "Llandudno",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A Victorian seaside resort on the north coast of Wales.",
+    "usage": "Said hlan-DID-noh: Welsh 'll' is a breathy 'l', and 'u' sounds like the 'i' in 'did'.",
+    "pragmatic_note": null,
+    "pitfall": "English speakers often say 'clan-' for 'll'; aim for a voiceless 'l' /ɬ/. Approx. /ɬanˈdɪdnɔ/.",
+    "examples": [
+      "Llandudno has a lovely Victorian pier."
+    ],
+    "collocations": [],
+    "wiki": "Llandudno",
+    "forms": []
+  },
+  {
+    "headword": "Aberystwyth",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A university and seaside town on the west coast of Wales.",
+    "usage": "Said ab-er-ISST-with: the 'w' is a vowel like 'oo' run quickly into 'ith'.",
+    "pragmatic_note": null,
+    "pitfall": "Stress the third syllable. RP /ˌæbəˈrɪstwɪθ/.",
+    "examples": [
+      "Aberystwyth has a cliff railway up Constitution Hill."
+    ],
+    "collocations": [],
+    "wiki": "Aberystwyth",
+    "forms": [
+      "Aber"
+    ]
+  },
+  {
+    "headword": "Ruislip",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A suburb in the London Borough of Hillingdon, north-west London.",
+    "usage": "Said RYE-slip.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Rooy-slip'. RP /ˈraɪslɪp/.",
+    "examples": [
+      "Ruislip Lido has a sandy beach, oddly enough."
+    ],
+    "collocations": [],
+    "wiki": "Ruislip",
+    "forms": []
+  },
+  {
+    "headword": "Grosvenor",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A London aristocratic family name, found in Grosvenor Square and many hotels.",
+    "usage": "Said GROHV-ner: the 's' is silent.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Gros-ven-or'. RP /ˈɡrəʊvnə/.",
+    "examples": [
+      "The party is at a hotel on Grosvenor Square."
+    ],
+    "collocations": [
+      "Grosvenor Square",
+      "Grosvenor Place"
+    ],
+    "wiki": "Grosvenor Square",
+    "forms": []
+  },
+  {
+    "headword": "Pall Mall",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A street in St James's, London, famous for gentlemen's clubs.",
+    "usage": "Today usually said PAL MAL, rhyming with 'pal'; the older 'PELL MELL' is still heard among older speakers.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Paul Maul'. RP /ˌpæl ˈmæl/.",
+    "examples": [
+      "Several old gentlemen's clubs line Pall Mall."
+    ],
+    "collocations": [],
+    "wiki": "Pall Mall, London",
+    "forms": []
+  },
+  {
+    "headword": "Torquay",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A seaside resort in Devon on the 'English Riviera'.",
+    "usage": "Said tor-KEE, with 'quay' pronounced 'key'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Tor-kway'. RP /tɔːˈkiː/.",
+    "examples": [
+      "Torquay was Agatha Christie's home town."
+    ],
+    "collocations": [],
+    "wiki": "Torquay",
+    "forms": []
+  },
+  {
+    "headword": "Chichester",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A cathedral city in West Sussex, near the south coast.",
+    "usage": "Said CHITCH-iss-ter.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Chai-chester'. RP /ˈtʃɪtʃɪstə/.",
+    "examples": [
+      "Chichester Festival Theatre is well worth a visit."
+    ],
+    "collocations": [],
+    "wiki": "Chichester",
+    "forms": []
+  },
+  {
+    "headword": "Scarborough",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A seaside town on the North Yorkshire coast.",
+    "usage": "Said SCAR-bruh: '-borough' in English place names is a weak '-bruh'.",
+    "pragmatic_note": null,
+    "pitfall": "Not '-burrow'. RP /ˈskɑːbərə/, often /ˈskɑːbrə/.",
+    "examples": [
+      "We had fish and chips on the front at Scarborough."
+    ],
+    "collocations": [],
+    "wiki": "Scarborough, North Yorkshire",
+    "forms": []
+  },
+  {
+    "headword": "Bath",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A Georgian spa city in Somerset, famous for its Roman baths.",
+    "usage": "Said BAHTH with the long 'ah' of 'father'; in the north of England you'll hear a short 'a'.",
+    "pragmatic_note": null,
+    "pitfall": "The long vowel is a hallmark of RP. RP /bɑːθ/; US /bæθ/.",
+    "examples": [
+      "We spent the weekend in Bath visiting the Roman Baths."
+    ],
+    "collocations": [
+      "Bath Abbey",
+      "Roman Baths"
+    ],
+    "wiki": "Bath, Somerset",
+    "forms": []
+  },
+  {
+    "headword": "Cambridge",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A university city in the east of England, on the River Cam.",
+    "usage": "Said CAME-bridge: the first syllable rhymes with 'came', not 'cam'.",
+    "pragmatic_note": null,
+    "pitfall": "Even though the river is the Cam. RP /ˈkeɪmbrɪdʒ/.",
+    "examples": [
+      "We went punting on the river in Cambridge."
+    ],
+    "collocations": [],
+    "wiki": "Cambridge",
+    "forms": []
+  },
+  {
+    "headword": "Yorkshire",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "England's largest historic county, in the north.",
+    "usage": "Said YORK-sher: in English county names '-shire' is a weak 'sher', not 'shy-er'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans often say '-shy-er' or '-sheer'. RP /ˈjɔːkʃə/.",
+    "examples": [
+      "My mum's from Yorkshire, so she says what she thinks."
+    ],
+    "collocations": [
+      "Yorkshire pudding",
+      "Yorkshire Dales"
+    ],
+    "wiki": "Yorkshire",
+    "forms": []
+  },
+  {
+    "headword": "Norfolk",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A largely rural county in the east of England.",
+    "usage": "Said NOR-fuk: the 'l' is silent and '-folk' is a weak '-fuk'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Nor-folk'. RP /ˈnɔːfək/.",
+    "examples": [
+      "We hired a boat on the Norfolk Broads."
+    ],
+    "collocations": [
+      "Norfolk Broads"
+    ],
+    "wiki": "Norfolk",
+    "forms": []
+  },
+  {
+    "headword": "Suffolk",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A county in East Anglia, south of Norfolk.",
+    "usage": "Said SUFF-uk: the 'l' is silent.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Suf-folk'. RP /ˈsʌfək/.",
+    "examples": [
+      "Constable painted the Suffolk countryside."
+    ],
+    "collocations": [],
+    "wiki": "Suffolk",
+    "forms": []
+  },
+  {
+    "headword": "Ely",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A small cathedral city in the Cambridgeshire Fens.",
+    "usage": "Said EE-lee.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Ee-lye'. RP /ˈiːli/.",
+    "examples": [
+      "Ely Cathedral is nicknamed the Ship of the Fens."
+    ],
+    "collocations": [],
+    "wiki": "Ely, Cambridgeshire",
+    "forms": []
+  },
+  {
+    "headword": "Keighley",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A town in West Yorkshire, near Haworth.",
+    "usage": "Said KEETH-lee: the 'gh' sounds like 'th'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Kay-lee' or 'Keg-lee'. RP /ˈkiːθli/.",
+    "examples": [
+      "The steam railway runs from Keighley up through Haworth."
+    ],
+    "collocations": [],
+    "wiki": "Keighley",
+    "forms": []
+  },
+  {
+    "headword": "Altrincham",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A market town in Greater Manchester.",
+    "usage": "Said AWL-tring-um.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Alt-rin-cham' with a 'ch'. RP /ˈɔːltrɪŋəm/.",
+    "examples": [
+      "Altrincham has a really popular food market."
+    ],
+    "collocations": [],
+    "wiki": "Altrincham",
+    "forms": []
+  },
+  {
+    "headword": "Stratford-upon-Avon",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A Warwickshire market town, birthplace of William Shakespeare.",
+    "usage": "Avon is said AY-vun; 'Stratford' is STRAT-fud.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Ah-von'. RP /ˌstrætfəd əpɒn ˈeɪvən/.",
+    "examples": [
+      "We saw a play at the Royal Shakespeare Theatre in Stratford-upon-Avon."
+    ],
+    "collocations": [],
+    "wiki": "Stratford-upon-Avon",
+    "forms": [
+      "Stratford"
+    ]
+  },
+  {
+    "headword": "River Cherwell",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A river that joins the Thames at Oxford, popular for punting.",
+    "usage": "Cherwell is said CHAR-wul.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Cher-well'. RP /ˈtʃɑːwəl/.",
+    "examples": [
+      "We hired a punt and drifted down the Cherwell."
+    ],
+    "collocations": [],
+    "wiki": "River Cherwell",
+    "forms": [
+      "Cherwell"
+    ]
+  },
+  {
+    "headword": "River Ouse",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The name of several English rivers, including the one through York.",
+    "usage": "Said OOZ, rhyming with 'snooze'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Owz' or 'Oose'. RP /uːz/.",
+    "examples": [
+      "The Ouse often floods the riverside pubs in York."
+    ],
+    "collocations": [],
+    "wiki": "River Ouse, Yorkshire",
+    "forms": [
+      "Ouse"
+    ]
+  },
+  {
+    "headword": "Buckingham Palace",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The London residence and administrative headquarters of the British monarch.",
+    "usage": "Buckingham is said BUCK-ing-um: the '-ham' is a weak '-um'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Bucking-HAM'. RP /ˌbʌkɪŋəm ˈpæləs/.",
+    "examples": [
+      "We watched the Changing of the Guard at Buckingham Palace."
+    ],
+    "collocations": [],
+    "wiki": "Buckingham Palace",
+    "forms": [
+      "Buckingham"
+    ]
+  },
+  {
+    "headword": "Holyrood",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The royal palace in Edinburgh, and shorthand for the Scottish Parliament.",
+    "usage": "Said HOLLY-rood.",
+    "pragmatic_note": null,
+    "pitfall": "'Holy' here sounds like 'holly'. RP /ˈhɒliruːd/.",
+    "examples": [
+      "Holyrood has voted on the bill this afternoon."
+    ],
+    "collocations": [],
+    "wiki": "Holyrood Palace",
+    "forms": []
+  },
+  {
+    "headword": "Glamis Castle",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A castle in Angus, Scotland, childhood home of the late Queen Mother.",
+    "usage": "Glamis is said GLAHMZ, one syllable.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Glam-iss'. RP /ɡlɑːmz/.",
+    "examples": [
+      "Glamis Castle is linked with Shakespeare's Macbeth."
+    ],
+    "collocations": [],
+    "wiki": "Glamis Castle",
+    "forms": [
+      "Glamis"
+    ]
+  },
+  {
+    "headword": "Urquhart Castle",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A ruined castle on the banks of Loch Ness.",
+    "usage": "Urquhart is said URK-ut.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Ur-kwart'. RP /ˈɜːkət/.",
+    "examples": [
+      "Urquhart Castle is the best place to look out for Nessie."
+    ],
+    "collocations": [],
+    "wiki": "Urquhart Castle",
+    "forms": [
+      "Urquhart"
+    ]
+  },
+  {
+    "headword": "Menzies",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A Scottish surname and clan name.",
+    "usage": "Traditionally said MING-iss in Scotland, though MEN-zeez is now common.",
+    "pragmatic_note": "With surnames like this, it's polite to ask how the person prefers it said.",
+    "pitfall": "The 'z' is a relic of an old Scots letter. Traditional /ˈmɪŋɪs/.",
+    "examples": [
+      "Is it 'Mingiss' or 'Menzies'? Best to ask how they say it."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "Marjoribanks",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An aristocratic Scottish surname.",
+    "usage": "Said MARCH-banks.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Marjorie-banks'. RP /ˈmɑːtʃbæŋks/.",
+    "examples": [
+      "The Marjoribanks family is said 'Marchbanks', believe it or not."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "St John",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A first name or surname in aristocratic families, distinct from the saint.",
+    "usage": "As a personal name, said SIN-jun; 'Saint John' is used for the saint and places.",
+    "pragmatic_note": null,
+    "pitfall": "Context matters: the Gospel is 'Saint John'. RP /ˈsɪndʒən/.",
+    "examples": [
+      "Her brother St John is said 'Sinjun' by the family."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "Beauchamp",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An old Norman-English surname and place name.",
+    "usage": "Said BEE-chum.",
+    "pragmatic_note": null,
+    "pitfall": "Not the French 'bo-shom'. RP /ˈbiːtʃəm/.",
+    "examples": [
+      "Beauchamp Place in Knightsbridge is said 'Beecham Place'."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "Mainwaring",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An English surname, famous from the sitcom Dad's Army.",
+    "usage": "Said MANN-er-ing.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Main-wearing'. RP /ˈmænərɪŋ/.",
+    "examples": [
+      "Captain Mainwaring is said 'Mannering' in Dad's Army."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "Colquhoun",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A Scottish surname and clan name.",
+    "usage": "Said kuh-HOON.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Col-kwa-hoon'. RP /kəˈhuːn/.",
+    "examples": [
+      "Clan Colquhoun's lands are around Loch Lomond."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "Douglas-Home",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A Scottish aristocratic surname, borne by a former Prime Minister.",
+    "usage": "Home here is said HYOOM, like the philosopher Hume.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'home'. RP /hjuːm/.",
+    "examples": [
+      "Douglas-Home is pronounced 'Douglas-Hume'."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "Pepys",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The surname of the 17th-century London diarist Samuel Pepys.",
+    "usage": "Said PEEPS.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Pep-iss'. RP /piːps/.",
+    "examples": [
+      "Pepys described the Great Fire of London in his diary."
+    ],
+    "collocations": [],
+    "wiki": "Samuel Pepys",
+    "forms": []
+  },
+  {
+    "headword": "Ralph",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A traditional English male first name.",
+    "usage": "Traditionally said RAFE in upper-class RP; RALF is now more common.",
+    "pragmatic_note": "The 'Rafe' form is associated with older or more upper-class families.",
+    "pitfall": "Ask: the person may prefer either. RP /reɪf/ or /rælf/.",
+    "examples": [
+      "In some families, Ralph is still pronounced 'Rafe'."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "Anthony",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A common English male first name.",
+    "usage": "In Britain said ANT-uh-nee, with a plain 't' and no 'th' sound.",
+    "pragmatic_note": null,
+    "pitfall": "Americans often say 'An-thony'. RP /ˈæntəni/.",
+    "examples": [
+      "Anthony's taking the minutes today."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "Antony"
+    ]
+  },
+  {
+    "headword": "Siobhan",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An Irish female first name, common across the UK.",
+    "usage": "Said shiv-AWN.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'See-oh-ban'. RP approx. /ʃɪˈvɔːn/.",
+    "examples": [
+      "Siobhan will be joining the team on Monday."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "Niamh",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An Irish female first name, common across the UK.",
+    "usage": "Said NEEV.",
+    "pragmatic_note": null,
+    "pitfall": "One syllable; 'mh' is a 'v' sound in Irish. /niːv/.",
+    "examples": [
+      "Niamh's running late but she's on her way."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "Van Gogh",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The Dutch painter Vincent van Gogh, in British pronunciation.",
+    "usage": "Britons traditionally say van GOFF; 'van GO' is the American form.",
+    "pragmatic_note": null,
+    "pitfall": "A well-known UK–US difference. RP /væn ˈɡɒf/.",
+    "examples": [
+      "There's a Van Gogh exhibition at the National Gallery."
+    ],
+    "collocations": [],
+    "wiki": "Vincent van Gogh",
+    "forms": []
+  },
+  {
+    "headword": "Celtic",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Relating to the Celts and their languages, such as Welsh and Irish.",
+    "usage": "Said KELL-tik for the culture and languages, but SELL-tik for Celtic FC in Glasgow.",
+    "pragmatic_note": null,
+    "pitfall": "Use the hard 'k' unless you mean the football club. RP /ˈkeltɪk/.",
+    "examples": [
+      "Welsh and Breton are both Celtic languages."
+    ],
+    "collocations": [
+      "Celtic languages",
+      "Celtic music"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "Caribbean",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The sea and islands between North and South America.",
+    "usage": "In Britain usually stressed karri-BEE-un.",
+    "pragmatic_note": null,
+    "pitfall": "Americans more often say 'ka-RIB-ee-un'. RP /ˌkærɪˈbiːən/.",
+    "examples": [
+      "We're going on a Caribbean cruise for our anniversary."
+    ],
+    "collocations": [],
+    "wiki": "Caribbean",
+    "forms": []
+  },
+  {
+    "headword": "schedule",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A plan of times for events or tasks.",
+    "usage": "Traditional RP is SHED-yool; SKED-yool is now common in Britain too, especially among younger speakers.",
+    "pragmatic_note": null,
+    "pitfall": "Avoid the American 'SKED-jool'. RP /ˈʃedjuːl/.",
+    "examples": [
+      "Are we still on schedule for Friday?",
+      "I'll check my schedule and get back to you."
+    ],
+    "collocations": [
+      "on schedule",
+      "behind schedule",
+      "tight schedule"
+    ],
+    "wiki": null,
+    "forms": [
+      "schedules",
+      "scheduled",
+      "scheduling"
+    ]
+  },
+  {
+    "headword": "either",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "One or the other of two.",
+    "usage": "Most RP speakers say EYE-thuh; EE-thuh is also heard and accepted.",
+    "pragmatic_note": null,
+    "pitfall": "Both are correct in Britain; EYE-thuh sounds more typically British. RP /ˈaɪðə/.",
+    "examples": [
+      "Either day works for me.",
+      "I don't mind either way."
+    ],
+    "collocations": [
+      "either way",
+      "either side"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "neither",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Not one nor the other of two.",
+    "usage": "Most RP speakers say NYE-thuh; NEE-thuh is also accepted.",
+    "pragmatic_note": null,
+    "pitfall": "Match whichever form you use for 'either'. RP /ˈnaɪðə/.",
+    "examples": [
+      "Neither option is ideal, to be honest."
+    ],
+    "collocations": [
+      "neither of them",
+      "neither here nor there"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "aluminium",
+    "register": "GREEN",
+    "us_equivalent": "aluminum",
+    "gloss": "A light silvery metal used for cans, foil and window frames.",
+    "usage": "Said al-yoo-MIN-ee-um: five syllables, with the stress on MIN.",
+    "pragmatic_note": null,
+    "pitfall": "The US spelling and sound is 'aluminum' (a-LOO-mi-num). RP /ˌæljəˈmɪniəm/.",
+    "examples": [
+      "Can you put the aluminium cans in the recycling?"
+    ],
+    "collocations": [
+      "aluminium foil"
+    ],
+    "wiki": "Aluminium",
+    "forms": []
+  },
+  {
+    "headword": "privacy",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The state of being free from being watched or disturbed.",
+    "usage": "Said PRIV-uh-see, with a short 'i' as in 'privilege'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans usually say 'PRY-vuh-see'. RP /ˈprɪvəsi/.",
+    "examples": [
+      "Please respect the family's privacy at this difficult time."
+    ],
+    "collocations": [
+      "privacy policy",
+      "data privacy"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "vitamin",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A natural substance in food that the body needs in small amounts.",
+    "usage": "Said VIT-uh-min, with a short 'i' as in 'bit'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'VYE-tuh-min'. RP /ˈvɪtəmɪn/.",
+    "examples": [
+      "I take vitamin D through the winter."
+    ],
+    "collocations": [
+      "vitamin C",
+      "vitamin D"
+    ],
+    "wiki": "Vitamin",
+    "forms": [
+      "vitamins"
+    ]
+  },
+  {
+    "headword": "tomato",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A red, juicy fruit eaten as a vegetable, in salads and sauces.",
+    "usage": "Said tuh-MAH-toh, with the long 'ah' of 'father'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'tuh-MAY-toh'. RP /təˈmɑːtəʊ/.",
+    "examples": [
+      "Could I have a cheese and tomato sandwich, please?"
+    ],
+    "collocations": [
+      "tomato soup",
+      "tomato sauce"
+    ],
+    "wiki": "Tomato",
+    "forms": [
+      "tomatoes"
+    ]
+  },
+  {
+    "headword": "garage",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A building for keeping a car, or a business that repairs cars.",
+    "usage": "Said GARR-ahzh or GARR-idge, both with the stress on the first syllable.",
+    "pragmatic_note": "'GARR-idge' is more common in everyday speech; 'GARR-ahzh' can sound a touch more refined.",
+    "pitfall": "Americans stress the second syllable: 'guh-RAHZH'. RP /ˈɡærɑːʒ/ or /ˈɡærɪdʒ/.",
+    "examples": [
+      "The car's in the garage for its MOT."
+    ],
+    "collocations": [
+      "garage door",
+      "petrol station garage"
+    ],
+    "wiki": "Garage (residential)",
+    "forms": [
+      "garages"
+    ]
+  },
+  {
+    "headword": "yoghurt",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A thick, slightly sour food made from fermented milk.",
+    "usage": "Said YOG-ut, with 'yog' rhyming with 'dog'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'YOH-gurt'. The UK spelling often keeps the 'h'. RP /ˈjɒɡət/.",
+    "examples": [
+      "I have Greek yoghurt and honey for breakfast."
+    ],
+    "collocations": [
+      "Greek yoghurt",
+      "natural yoghurt"
+    ],
+    "wiki": "Yogurt",
+    "forms": [
+      "yogurt",
+      "yoghurts"
+    ]
+  },
+  {
+    "headword": "route",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A way taken to get from one place to another.",
+    "usage": "Said ROOT, rhyming with 'boot', in every sense.",
+    "pragmatic_note": null,
+    "pitfall": "Americans often say 'ROWT'. RP /ruːt/.",
+    "examples": [
+      "What's the quickest route to the station?",
+      "The bus route has changed."
+    ],
+    "collocations": [
+      "bus route",
+      "escape route",
+      "en route"
+    ],
+    "wiki": null,
+    "forms": [
+      "routes"
+    ]
+  },
+  {
+    "headword": "router",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A device that sends internet data between networks, such as a home wifi box.",
+    "usage": "Said ROO-tuh, rhyming with 'shooter'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans usually say 'ROW-ter'. RP /ˈruːtə/.",
+    "examples": [
+      "Have you tried turning the router off and on again?"
+    ],
+    "collocations": [
+      "wifi router"
+    ],
+    "wiki": "Router (computing)",
+    "forms": [
+      "routers"
+    ]
+  },
+  {
+    "headword": "leisure",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Free time when you are not working.",
+    "usage": "Said LEZH-uh, rhyming with 'measure'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'LEE-zhur'. RP /ˈleʒə/.",
+    "examples": [
+      "The new leisure centre has a fifty-metre pool."
+    ],
+    "collocations": [
+      "leisure centre",
+      "at your leisure"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "lieutenant",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A junior officer rank in the armed forces.",
+    "usage": "In the British Army said lef-TEN-unt; in the Royal Navy, luh-TEN-unt.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'loo-TEN-unt'. Army RP /lefˈtenənt/.",
+    "examples": [
+      "He served as a lieutenant in the Royal Artillery."
+    ],
+    "collocations": [
+      "second lieutenant",
+      "lieutenant colonel"
+    ],
+    "wiki": null,
+    "forms": [
+      "lieutenants"
+    ]
+  },
+  {
+    "headword": "clerk",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A person who keeps records or does office administration.",
+    "usage": "Said CLARK, rhyming with 'park'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'clurk'. RP /klɑːk/.",
+    "examples": [
+      "Ask the clerk at the town hall for the form."
+    ],
+    "collocations": [
+      "town clerk",
+      "clerk of the court"
+    ],
+    "wiki": null,
+    "forms": [
+      "clerks"
+    ]
+  },
+  {
+    "headword": "herb",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A plant whose leaves are used to flavour food or in medicine.",
+    "usage": "Said HURB, with the 'h' pronounced.",
+    "pragmatic_note": null,
+    "pitfall": "Americans drop the 'h' ('urb'). RP /hɜːb/.",
+    "examples": [
+      "Add some fresh herbs just before serving."
+    ],
+    "collocations": [
+      "fresh herbs",
+      "herb garden"
+    ],
+    "wiki": "Herb",
+    "forms": [
+      "herbs",
+      "herbal"
+    ]
+  },
+  {
+    "headword": "advertisement",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A notice or short film promoting a product or service.",
+    "usage": "Said ad-VUR-tiss-munt, with the stress on the second syllable; usually shortened to 'advert'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'ad-ver-TIZE-ment'. RP /ədˈvɜːtɪsmənt/.",
+    "examples": [
+      "I saw an advertisement for the job in the paper."
+    ],
+    "collocations": [
+      "job advertisement"
+    ],
+    "wiki": null,
+    "forms": [
+      "advertisements"
+    ]
+  },
+  {
+    "headword": "controversy",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Public disagreement about something many people feel strongly about.",
+    "usage": "Traditional RP is KON-truh-vur-see; kon-TROV-uh-see is very common in Britain too.",
+    "pragmatic_note": null,
+    "pitfall": "Both are heard; the second is often criticised by purists. RP /ˈkɒntrəvɜːsi/ or /kənˈtrɒvəsi/.",
+    "examples": [
+      "The decision caused a lot of controversy."
+    ],
+    "collocations": [
+      "cause controversy",
+      "surrounded by controversy"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "laboratory",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A room or building equipped for scientific experiments.",
+    "usage": "Said luh-BORR-uh-tree, with the stress on the second syllable; often shortened to 'lab'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans stress the first syllable: 'LAB-ruh-tor-ee'. RP /ləˈbɒrətri/.",
+    "examples": [
+      "The samples were sent to a laboratory for testing."
+    ],
+    "collocations": [
+      "research laboratory"
+    ],
+    "wiki": "Laboratory",
+    "forms": [
+      "laboratories"
+    ]
+  },
+  {
+    "headword": "zed",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The name of the letter Z in British English.",
+    "usage": "Always 'zed' in Britain, whether spelling a word or reading a postcode.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'zee'; in the UK 'zee' sounds American. RP /zed/.",
+    "examples": [
+      "My surname's spelt with a zed, not an s.",
+      "Is that postcode zed or two?"
+    ],
+    "collocations": [
+      "from A to Z"
+    ],
+    "wiki": null,
+    "forms": [
+      "Z"
+    ]
+  },
+  {
+    "headword": "aitch",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The name of the letter H.",
+    "usage": "Said AYCH, without an 'h' sound at the start.",
+    "pragmatic_note": "'Dropping your aitches' means not pronouncing h at the start of words, a classic class marker.",
+    "pitfall": "'Haitch' is common in Ireland and parts of Britain but is often judged non-standard. RP /eɪtʃ/.",
+    "examples": [
+      "Is that with an aitch or without?"
+    ],
+    "collocations": [
+      "drop your aitches"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "mobile",
+    "register": "GREEN",
+    "us_equivalent": "cell phone",
+    "gloss": "Able to move easily; in Britain also short for a mobile phone.",
+    "usage": "Said MOH-bile, rhyming with 'smile'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'MOH-bul'. British '-ile' endings usually rhyme with 'mile'. RP /ˈməʊbaɪl/.",
+    "examples": [
+      "I'll ring you on your mobile.",
+      "She's quite mobile again after the operation."
+    ],
+    "collocations": [
+      "mobile phone",
+      "mobile number"
+    ],
+    "wiki": "Mobile phone",
+    "forms": []
+  },
+  {
+    "headword": "missile",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A weapon that is fired or thrown at a target.",
+    "usage": "Said MISS-ile, rhyming with 'aisle'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'MISS-ul'. RP /ˈmɪsaɪl/.",
+    "examples": [
+      "The ship was armed with anti-aircraft missiles."
+    ],
+    "collocations": [
+      "missile defence"
+    ],
+    "wiki": "Missile",
+    "forms": [
+      "missiles"
+    ]
+  },
+  {
+    "headword": "fragile",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Easily broken or damaged.",
+    "usage": "Said FRAJ-ile, rhyming with 'aisle'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'FRAJ-ul'. RP /ˈfrædʒaɪl/.",
+    "examples": [
+      "The box is marked 'fragile', so handle it carefully."
+    ],
+    "collocations": [
+      "fragile economy"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "hostile",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Unfriendly and aggressive.",
+    "usage": "Said HOSS-tile, rhyming with 'mile'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'HOSS-tul'. RP /ˈhɒstaɪl/.",
+    "examples": [
+      "The audience was quite hostile to the proposal."
+    ],
+    "collocations": [
+      "hostile takeover",
+      "hostile environment"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "docile",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Quiet and easy to control.",
+    "usage": "Said DOH-sile, rhyming with 'mile'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'DOSS-ul'. RP /ˈdəʊsaɪl/.",
+    "examples": [
+      "The dog looks fierce but he's actually very docile."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "futile",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Having no chance of success; pointless.",
+    "usage": "Said FYOO-tile, rhyming with 'mile'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'FYOO-tul'. RP /ˈfjuːtaɪl/.",
+    "examples": [
+      "It's futile arguing with him once he's made up his mind."
+    ],
+    "collocations": [
+      "futile attempt"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "versatile",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Able to adapt to many different uses or activities.",
+    "usage": "Said VUR-suh-tile, rhyming with 'mile'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'VUR-suh-tul'. RP /ˈvɜːsətaɪl/.",
+    "examples": [
+      "She's a very versatile player who can fill any position."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "ballet",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A form of dance telling a story through set steps and music.",
+    "usage": "Said BAL-ay, with the stress on the first syllable.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'bal-AY'. French loanwords in British English often stress the first syllable. RP /ˈbæleɪ/.",
+    "examples": [
+      "We're taking Gran to the ballet at Christmas."
+    ],
+    "collocations": [
+      "ballet dancer",
+      "ballet shoes"
+    ],
+    "wiki": "Ballet",
+    "forms": []
+  },
+  {
+    "headword": "buffet",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A meal where guests serve themselves from dishes on a table.",
+    "usage": "Said BOOF-ay or BUFF-ay, stressed on the first syllable; as a verb ('buffeted by wind') it is BUFF-it.",
+    "pragmatic_note": null,
+    "pitfall": "Americans stress the second syllable. RP /ˈbʊfeɪ/ or /ˈbʌfeɪ/.",
+    "examples": [
+      "There'll be a buffet lunch after the meeting."
+    ],
+    "collocations": [
+      "buffet lunch",
+      "buffet car"
+    ],
+    "wiki": "Buffet",
+    "forms": []
+  },
+  {
+    "headword": "fillet",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A boneless piece of meat or fish.",
+    "usage": "Said FILL-it: the 't' is pronounced.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'fil-AY'. RP /ˈfɪlɪt/.",
+    "examples": [
+      "I'll have the fillet of sea bass, please."
+    ],
+    "collocations": [
+      "fillet steak"
+    ],
+    "wiki": null,
+    "forms": [
+      "fillets",
+      "filleted"
+    ]
+  },
+  {
+    "headword": "café",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A small, informal place serving drinks and light meals.",
+    "usage": "Said KAFF-ay, stressed on the first syllable.",
+    "pragmatic_note": null,
+    "pitfall": "Americans often say 'ka-FAY'. RP /ˈkæfeɪ/.",
+    "examples": [
+      "Let's grab a coffee in the café round the corner."
+    ],
+    "collocations": [
+      "café culture"
+    ],
+    "wiki": null,
+    "forms": [
+      "cafe",
+      "cafés"
+    ]
+  },
+  {
+    "headword": "beret",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A round, flat, soft cap.",
+    "usage": "Said BERR-ay, stressed on the first syllable.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'buh-RAY'. RP /ˈbereɪ/.",
+    "examples": [
+      "The soldiers wore maroon berets."
+    ],
+    "collocations": [],
+    "wiki": "Beret",
+    "forms": [
+      "berets"
+    ]
+  },
+  {
+    "headword": "debut",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A first public appearance or performance.",
+    "usage": "Said DAY-byoo, stressed on the first syllable.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'day-BYOO'. RP /ˈdeɪbjuː/.",
+    "examples": [
+      "She made her debut for England at nineteen."
+    ],
+    "collocations": [
+      "debut album",
+      "make your debut"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "debris",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Scattered pieces of something broken or destroyed.",
+    "usage": "Said DEB-ree, stressed on the first syllable; DAY-bree is also heard.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'duh-BREE'. RP /ˈdebriː/.",
+    "examples": [
+      "Debris from the storm blocked the road."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "massage",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Rubbing and pressing the body to relieve tension or pain.",
+    "usage": "Said MASS-ahzh, stressed on the first syllable.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'muh-SAHZH'. RP /ˈmæsɑːʒ/.",
+    "examples": [
+      "I booked a massage for my sore back."
+    ],
+    "collocations": [
+      "back massage"
+    ],
+    "wiki": "Massage",
+    "forms": []
+  },
+  {
+    "headword": "oregano",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A fragrant herb used in Italian and Greek cooking.",
+    "usage": "Said orri-GAH-noh, stressed on the third syllable.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'uh-REG-uh-noh'. RP /ˌɒrɪˈɡɑːnəʊ/.",
+    "examples": [
+      "Sprinkle a little dried oregano on the pizza."
+    ],
+    "collocations": [
+      "dried oregano"
+    ],
+    "wiki": "Oregano",
+    "forms": []
+  },
+  {
+    "headword": "basil",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A sweet herb used in Italian cooking and pesto.",
+    "usage": "Said BAZZ-ul, with a short 'a' as in 'dazzle'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'BAY-zul'. RP /ˈbæzəl/.",
+    "examples": [
+      "Tear some fresh basil over the tomatoes."
+    ],
+    "collocations": [
+      "fresh basil"
+    ],
+    "wiki": "Basil",
+    "forms": []
+  },
+  {
+    "headword": "paprika",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A red spice made from dried, ground peppers.",
+    "usage": "Said PAP-rik-uh, stressed on the first syllable.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'puh-PREE-kuh'. RP /ˈpæprɪkə/.",
+    "examples": [
+      "Add a pinch of smoked paprika to the stew."
+    ],
+    "collocations": [
+      "smoked paprika"
+    ],
+    "wiki": "Paprika",
+    "forms": []
+  },
+  {
+    "headword": "pecan",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A sweet, oily nut from a North American tree, used in pies.",
+    "usage": "Said PEE-kun, stressed on the first syllable.",
+    "pragmatic_note": null,
+    "pitfall": "Americans often say 'puh-KAHN'. RP /ˈpiːkən/.",
+    "examples": [
+      "Maple and pecan is my favourite pastry."
+    ],
+    "collocations": [
+      "pecan pie"
+    ],
+    "wiki": "Pecan",
+    "forms": [
+      "pecans"
+    ]
+  },
+  {
+    "headword": "turmeric",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A bright yellow spice used in curries.",
+    "usage": "Said TUR-mer-ik: the first 'r' is not sounded in RP.",
+    "pragmatic_note": null,
+    "pitfall": "Often misread as 'TOO-mer-ik'. RP /ˈtɜːmərɪk/.",
+    "examples": [
+      "Turmeric stains everything it touches."
+    ],
+    "collocations": [],
+    "wiki": "Turmeric",
+    "forms": []
+  },
+  {
+    "headword": "cumin",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A warm, earthy spice made from seeds, used in curries.",
+    "usage": "Said KYOO-min in traditional RP; KUM-in is also common.",
+    "pragmatic_note": null,
+    "pitfall": "Both are heard in Britain. RP /ˈkjuːmɪn/ or /ˈkʌmɪn/.",
+    "examples": [
+      "Toast the cumin seeds before you grind them."
+    ],
+    "collocations": [
+      "cumin seeds"
+    ],
+    "wiki": "Cumin",
+    "forms": []
+  },
+  {
+    "headword": "pasta",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Italian food made from flour and water, such as spaghetti.",
+    "usage": "Said PASS-tuh, with a short 'a'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'PAH-stuh'. RP /ˈpæstə/.",
+    "examples": [
+      "Shall we just have pasta tonight?"
+    ],
+    "collocations": [
+      "pasta bake",
+      "fresh pasta"
+    ],
+    "wiki": "Pasta",
+    "forms": []
+  },
+  {
+    "headword": "almond",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An oval nut with a sweet flavour.",
+    "usage": "Said AH-mund: the 'l' is silent.",
+    "pragmatic_note": null,
+    "pitfall": "Do not sound the 'l'. RP /ˈɑːmənd/.",
+    "examples": [
+      "Could I have an almond croissant, please?"
+    ],
+    "collocations": [
+      "almond milk",
+      "ground almonds"
+    ],
+    "wiki": "Almond",
+    "forms": [
+      "almonds"
+    ]
+  },
+  {
+    "headword": "salmon",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A large pink-fleshed fish.",
+    "usage": "Said SAM-un: the 'l' is silent.",
+    "pragmatic_note": null,
+    "pitfall": "Never 'sal-mon'. RP /ˈsæmən/.",
+    "examples": [
+      "We had smoked salmon and scrambled eggs."
+    ],
+    "collocations": [
+      "smoked salmon"
+    ],
+    "wiki": "Salmon",
+    "forms": []
+  },
+  {
+    "headword": "scone",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A small, plain baked cake served with jam and clotted cream.",
+    "usage": "Both SKON (rhymes with 'gone') and SKOHN (rhymes with 'cone') are used in Britain.",
+    "pragmatic_note": "The pronunciation is a famous light-hearted British debate, like jam-first versus cream-first.",
+    "pitfall": "SKON is more common overall and in the north; SKOHN is common in the south. /skɒn/ or /skəʊn/.",
+    "examples": [
+      "Do you put the jam or the cream on your scone first?"
+    ],
+    "collocations": [
+      "cream tea"
+    ],
+    "wiki": "Scone",
+    "forms": [
+      "scones"
+    ]
+  },
+  {
+    "headword": "adult",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A fully grown person.",
+    "usage": "Said AD-ult, stressed on the first syllable.",
+    "pragmatic_note": null,
+    "pitfall": "Americans often say 'uh-DULT'. RP /ˈædʌlt/.",
+    "examples": [
+      "Tickets are twelve pounds for adults and six for children."
+    ],
+    "collocations": [
+      "adult education"
+    ],
+    "wiki": null,
+    "forms": [
+      "adults"
+    ]
+  },
+  {
+    "headword": "address",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The details of where someone lives; or a formal speech.",
+    "usage": "Said uh-DRESS, stressed on the second syllable, for both the noun and the verb.",
+    "pragmatic_note": null,
+    "pitfall": "Americans often say 'AD-ress' for the noun. RP /əˈdres/.",
+    "examples": [
+      "Can you give me your email address?"
+    ],
+    "collocations": [
+      "email address",
+      "home address"
+    ],
+    "wiki": null,
+    "forms": [
+      "addresses"
+    ]
+  },
+  {
+    "headword": "research",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Careful study to discover new facts.",
+    "usage": "Usually said ri-SURCH, stressed on the second syllable, for noun and verb.",
+    "pragmatic_note": null,
+    "pitfall": "'REE-search' is also heard for the noun, but ri-SURCH is the traditional RP form. RP /rɪˈsɜːtʃ/.",
+    "examples": [
+      "She's doing research into climate change."
+    ],
+    "collocations": [
+      "research project",
+      "carry out research"
+    ],
+    "wiki": null,
+    "forms": [
+      "researched",
+      "researcher"
+    ]
+  },
+  {
+    "headword": "harass",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To keep annoying or putting pressure on someone.",
+    "usage": "Traditional RP is HARR-us, stressed on the first syllable; huh-RASS is now common too.",
+    "pragmatic_note": null,
+    "pitfall": "Both are heard; HARR-us sounds more traditionally British. RP /ˈhærəs/.",
+    "examples": [
+      "He felt harassed by constant phone calls."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "harassed",
+      "harassment"
+    ]
+  },
+  {
+    "headword": "niche",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A specialised area; or a shallow recess in a wall.",
+    "usage": "Said NEESH, rhyming with 'quiche'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans often say 'NITCH'. RP /niːʃ/.",
+    "examples": [
+      "It's quite a niche market, to be fair."
+    ],
+    "collocations": [
+      "niche market",
+      "find your niche"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "data",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Facts and figures collected for analysis.",
+    "usage": "Said DAY-tuh in RP.",
+    "pragmatic_note": null,
+    "pitfall": "DAH-tuh is heard but sounds American or Australian to many Britons. RP /ˈdeɪtə/.",
+    "examples": [
+      "The data suggests sales are slowing down."
+    ],
+    "collocations": [
+      "data protection",
+      "personal data"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "status",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Position or rank in relation to others; or the state of something.",
+    "usage": "Said STAY-tus.",
+    "pragmatic_note": null,
+    "pitfall": "Americans often say 'STAT-us'. RP /ˈsteɪtəs/.",
+    "examples": [
+      "What's the status of the project?"
+    ],
+    "collocations": [
+      "status update",
+      "status quo"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "process",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A series of actions taken to achieve a result.",
+    "usage": "Said PROH-sess, with 'pro' as in 'protein'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'PRAH-sess'. RP /ˈprəʊses/.",
+    "examples": [
+      "The application process takes about six weeks."
+    ],
+    "collocations": [
+      "in the process",
+      "due process"
+    ],
+    "wiki": null,
+    "forms": [
+      "processes",
+      "processed"
+    ]
+  },
+  {
+    "headword": "progress",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Forward movement towards a goal.",
+    "usage": "The noun is PROH-gress; the verb is pruh-GRESS.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'PRAH-gress' for the noun. RP noun /ˈprəʊɡres/, verb /prəˈɡres/.",
+    "examples": [
+      "We're making good progress on the report."
+    ],
+    "collocations": [
+      "make progress",
+      "work in progress"
+    ],
+    "wiki": null,
+    "forms": [
+      "progressed"
+    ]
+  },
+  {
+    "headword": "project",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A planned piece of work with a particular aim.",
+    "usage": "The noun is PROJ-ekt, with a short 'o' as in 'hot'; the verb is pruh-JEKT.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'PRAH-jekt'. RP noun /ˈprɒdʒekt/.",
+    "examples": [
+      "She's leading the new project."
+    ],
+    "collocations": [
+      "project manager",
+      "pilot project"
+    ],
+    "wiki": null,
+    "forms": [
+      "projects"
+    ]
+  },
+  {
+    "headword": "produce",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Food grown or made for sale, especially fruit and vegetables.",
+    "usage": "The noun is PROD-yooss; the verb is pruh-DYOOSS.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'PROH-dooss' for the noun. RP noun /ˈprɒdjuːs/.",
+    "examples": [
+      "The farm shop sells local produce."
+    ],
+    "collocations": [
+      "local produce",
+      "fresh produce"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "patent",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A legal right to be the only maker of an invention.",
+    "usage": "Usually PAY-tunt in Britain; PAT-unt is used in some legal and official contexts.",
+    "pragmatic_note": null,
+    "pitfall": "In 'patent leather' it is always PAY-tunt. RP /ˈpeɪtənt/ or /ˈpætənt/.",
+    "examples": [
+      "They've applied for a patent on the design."
+    ],
+    "collocations": [
+      "patent leather",
+      "patent pending"
+    ],
+    "wiki": null,
+    "forms": [
+      "patents"
+    ]
+  },
+  {
+    "headword": "dynasty",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A series of rulers or powerful people from the same family.",
+    "usage": "Said DIN-uh-stee, with a short 'i'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'DYE-nuh-stee'. RP /ˈdɪnəsti/.",
+    "examples": [
+      "The Tudor dynasty ruled England for over a century."
+    ],
+    "collocations": [
+      "ruling dynasty"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "lever",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A bar used to lift or move something; or a handle that operates a machine.",
+    "usage": "Said LEE-vuh, rhyming with 'fever'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'LEV-er'. RP /ˈliːvə/.",
+    "examples": [
+      "Pull the lever to open the window."
+    ],
+    "collocations": [],
+    "wiki": "Lever",
+    "forms": [
+      "levers"
+    ]
+  },
+  {
+    "headword": "zebra",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An African wild horse with black and white stripes.",
+    "usage": "Said ZEB-ruh, with a short 'e' as in 'web'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'ZEE-bruh'. RP /ˈzebrə/.",
+    "examples": [
+      "Cross at the zebra crossing, please."
+    ],
+    "collocations": [
+      "zebra crossing"
+    ],
+    "wiki": "Zebra",
+    "forms": [
+      "zebras"
+    ]
+  },
+  {
+    "headword": "semi",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "A semi-detached house, sharing one wall with the next house.",
+    "usage": "Said SEM-ee, with a clear 'ee' at the end; the prefix semi- is said the same way.",
+    "pragmatic_note": null,
+    "pitfall": "Americans often say 'SEM-eye'. RP /ˈsemi/.",
+    "examples": [
+      "They live in a three-bed semi on the edge of town."
+    ],
+    "collocations": [
+      "semi-detached",
+      "semi-final"
+    ],
+    "wiki": null,
+    "forms": [
+      "semis"
+    ]
+  },
+  {
+    "headword": "tune",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A melody; or to adjust an instrument or engine.",
+    "usage": "Said TYOON with a 'y' glide after the 't'; many younger speakers say CHOON.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'TOON'. RP /tjuːn/.",
+    "examples": [
+      "That song has a really catchy tune."
+    ],
+    "collocations": [
+      "catchy tune",
+      "in tune"
+    ],
+    "wiki": null,
+    "forms": [
+      "tunes",
+      "tuned"
+    ]
+  },
+  {
+    "headword": "news",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Information about recent events.",
+    "usage": "Said NYOOZ, with a 'y' glide after the 'n'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'NOOZ'. RP /njuːz/.",
+    "examples": [
+      "Did you see the news last night?"
+    ],
+    "collocations": [
+      "the news",
+      "good news"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "duty",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Something you must do; or a tax on goods.",
+    "usage": "Said DYOO-tee or JOO-tee.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'DOO-tee'. RP /ˈdjuːti/.",
+    "examples": [
+      "I'm on duty this weekend.",
+      "Duty-free shopping is at Terminal 5."
+    ],
+    "collocations": [
+      "on duty",
+      "duty-free"
+    ],
+    "wiki": null,
+    "forms": [
+      "duties"
+    ]
+  },
+  {
+    "headword": "during",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Throughout or at some point in a period of time.",
+    "usage": "Said DYOOR-ing or JOOR-ing.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'DOOR-ing'. RP /ˈdjʊərɪŋ/, now often /ˈdʒɔːrɪŋ/.",
+    "examples": [
+      "Please switch off your phones during the performance."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "Tuesday",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The day of the week after Monday.",
+    "usage": "Said TYOOZ-day or CHOOZ-day.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'TOOZ-day'. RP /ˈtjuːzdeɪ/.",
+    "examples": [
+      "Shall we say Tuesday at ten?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "Tuesdays"
+    ]
+  },
+  {
+    "headword": "nuclear",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Relating to the energy released by splitting atoms.",
+    "usage": "Said NYOO-klee-uh: three syllables, with a 'y' glide.",
+    "pragmatic_note": null,
+    "pitfall": "Avoid 'NOO-kyuh-lur'. RP /ˈnjuːkliə/.",
+    "examples": [
+      "The plan includes a new nuclear power station."
+    ],
+    "collocations": [
+      "nuclear power",
+      "nuclear family"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "often",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Frequently; many times.",
+    "usage": "Usually OFF-un with a silent 't'; OFF-tun is also accepted.",
+    "pragmatic_note": null,
+    "pitfall": "Both are correct; OFF-un is the traditional RP form. RP /ˈɒfən/ or /ˈɒftən/.",
+    "examples": [
+      "How often do the trains run?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "issue",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An important topic or problem; or an edition of a magazine.",
+    "usage": "Said ISH-oo or ISS-yoo.",
+    "pragmatic_note": null,
+    "pitfall": "Both are heard in RP; ISS-yoo sounds more traditional. RP /ˈɪʃuː/ or /ˈɪsjuː/.",
+    "examples": [
+      "That's a separate issue, to be honest."
+    ],
+    "collocations": [
+      "key issue",
+      "raise an issue"
+    ],
+    "wiki": null,
+    "forms": [
+      "issues",
+      "issued"
+    ]
+  },
+  {
+    "headword": "plumber",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A person who fits and repairs water pipes and taps.",
+    "usage": "Said PLUM-uh: the 'b' is silent.",
+    "pragmatic_note": null,
+    "pitfall": "Do not sound the 'b'. RP /ˈplʌmə/.",
+    "examples": [
+      "We need a plumber to fix the leak."
+    ],
+    "collocations": [
+      "emergency plumber"
+    ],
+    "wiki": null,
+    "forms": [
+      "plumbers"
+    ]
+  },
+  {
+    "headword": "comfortable",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Physically relaxed; or providing ease.",
+    "usage": "Said KUMF-tuh-bul: three syllables, not four.",
+    "pragmatic_note": null,
+    "pitfall": "Avoid 'com-FOR-table'. RP /ˈkʌmftəbəl/.",
+    "examples": [
+      "Make yourself comfortable while I put the kettle on."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "comfortably"
+    ]
+  },
+  {
+    "headword": "Wednesday",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The day of the week after Tuesday.",
+    "usage": "Said WENZ-day: the first 'd' and 'e' are silent.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'Wed-nes-day'. RP /ˈwenzdeɪ/.",
+    "examples": [
+      "The meeting's been moved to Wednesday."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "Wednesdays"
+    ]
+  },
+  {
+    "headword": "February",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The second month of the year.",
+    "usage": "Said FEB-roo-uh-ree or FEB-yoo-uh-ree; RP speakers often reduce it to FEB-ruh-ree.",
+    "pragmatic_note": null,
+    "pitfall": "Avoid 'Feb-ra-RY' with a strong last syllable. RP /ˈfebruəri/.",
+    "examples": [
+      "Half-term is the third week of February."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "library",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A building or room containing books to read or borrow.",
+    "usage": "Said LYE-bruh-ree; casually LYE-bree. Keep both 'r's.",
+    "pragmatic_note": null,
+    "pitfall": "Avoid 'LYE-berry'. RP /ˈlaɪbrəri/.",
+    "examples": [
+      "I've got to return these books to the library."
+    ],
+    "collocations": [
+      "public library"
+    ],
+    "wiki": "Library",
+    "forms": [
+      "libraries"
+    ]
+  },
+  {
+    "headword": "vase",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A container for flowers.",
+    "usage": "Said VAHZ, rhyming with 'cars'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'VAYZ'. RP /vɑːz/.",
+    "examples": [
+      "Could you put these flowers in a vase?"
+    ],
+    "collocations": [],
+    "wiki": "Vase",
+    "forms": [
+      "vases"
+    ]
+  },
+  {
+    "headword": "drama",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A play for theatre or television; or an exciting event.",
+    "usage": "Said DRAH-muh, with the long 'ah' of 'father'.",
+    "pragmatic_note": null,
+    "pitfall": "Avoid a short 'a' as in 'cat'. RP /ˈdrɑːmə/.",
+    "examples": [
+      "She studied drama at university."
+    ],
+    "collocations": [
+      "drama school",
+      "costume drama"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "banana",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A long curved fruit with yellow skin.",
+    "usage": "Said buh-NAH-nuh, with a long 'ah' in the middle.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'buh-NAN-uh'. RP /bəˈnɑːnə/.",
+    "examples": [
+      "I'll have a banana on the way to work."
+    ],
+    "collocations": [],
+    "wiki": "Banana",
+    "forms": [
+      "bananas"
+    ]
+  },
+  {
+    "headword": "secretary",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A person who handles letters and administration; or a government minister.",
+    "usage": "Said SEK-ruh-tree: in RP the '-ary' ending is squeezed to '-tree'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'SEK-ruh-terr-ee'. RP /ˈsekrətri/.",
+    "examples": [
+      "The Foreign Secretary is visiting Brussels today."
+    ],
+    "collocations": [
+      "Home Secretary",
+      "Foreign Secretary"
+    ],
+    "wiki": null,
+    "forms": [
+      "secretaries"
+    ]
+  },
+  {
+    "headword": "dictionary",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A book or resource listing words and their meanings.",
+    "usage": "Said DIK-shun-ree: three syllables in RP.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'DIK-shun-err-ee'. RP /ˈdɪkʃənri/.",
+    "examples": [
+      "Look it up in the dictionary."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "dictionaries"
+    ]
+  },
+  {
+    "headword": "military",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Relating to the armed forces.",
+    "usage": "Said MIL-it-ree: three syllables in RP.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'MIL-ih-terr-ee'. RP /ˈmɪlɪtri/.",
+    "examples": [
+      "He did ten years in the military."
+    ],
+    "collocations": [
+      "military service"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "necessary",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Needed; essential.",
+    "usage": "Said NESS-uh-sree or NESS-uh-suh-ree, with the stress firmly on the first syllable.",
+    "pragmatic_note": null,
+    "pitfall": "Avoid a strong 'SERR'. RP /ˈnesəsri/ or /ˈnesəsəri/.",
+    "examples": [
+      "Is it really necessary to print everything?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "unnecessary",
+      "necessarily"
+    ]
+  },
+  {
+    "headword": "category",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A group of things with shared features.",
+    "usage": "Said KAT-uh-gree: three syllables in RP.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'KAT-uh-gor-ee'. RP /ˈkætəɡri/.",
+    "examples": [
+      "Which category does this expense go under?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "categories"
+    ]
+  },
+  {
+    "headword": "cemetery",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A place where the dead are buried.",
+    "usage": "Said SEM-uh-tree in RP.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'SEM-uh-terr-ee'. RP /ˈsemətri/.",
+    "examples": [
+      "Highgate Cemetery is full of famous graves."
+    ],
+    "collocations": [],
+    "wiki": "Cemetery",
+    "forms": [
+      "cemeteries"
+    ]
+  },
+  {
+    "headword": "mandatory",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Required by law or rules; compulsory.",
+    "usage": "Said MAN-duh-tree or man-DAY-tuh-ree; both are heard in Britain.",
+    "pragmatic_note": null,
+    "pitfall": "Avoid the American 'MAN-duh-tor-ee'. RP /ˈmændətri/ or /mænˈdeɪtəri/.",
+    "examples": [
+      "Safety training is mandatory for all new staff."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "ate",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The past tense of 'eat'.",
+    "usage": "Traditional RP is ET, rhyming with 'bet'; AYT is also standard in Britain.",
+    "pragmatic_note": null,
+    "pitfall": "Both are correct; ET is typically British and AYT is universal. RP /et/ or /eɪt/.",
+    "examples": [
+      "I ate far too much at lunch."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "glacier",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A huge, slow-moving mass of ice.",
+    "usage": "Said GLASS-ee-uh.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'GLAY-shur'. RP /ˈɡlæsiə/.",
+    "examples": [
+      "The glacier has retreated dramatically in recent decades."
+    ],
+    "collocations": [],
+    "wiki": "Glacier",
+    "forms": [
+      "glaciers"
+    ]
+  },
+  {
+    "headword": "patriot",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A person who loves and supports their country.",
+    "usage": "Said PAT-ree-ut or PAY-tree-ut in Britain.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'PAY-tree-ut'. RP /ˈpætriət/ or /ˈpeɪtriət/.",
+    "examples": [
+      "He was a patriot who served his country for decades."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "patriotic",
+      "patriotism"
+    ]
+  },
+  {
+    "headword": "kilometre",
+    "register": "GREEN",
+    "us_equivalent": "kilometer",
+    "gloss": "A unit of distance equal to 1,000 metres.",
+    "usage": "Said KIL-uh-mee-tuh or kil-OM-it-uh; both are heard in Britain.",
+    "pragmatic_note": null,
+    "pitfall": "The traditional RP form stresses the first syllable, like 'centimetre'. RP /ˈkɪləmiːtə/ or /kɪˈlɒmɪtə/.",
+    "examples": [
+      "The hotel is about two kilometres from the beach."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "kilometres"
+    ]
+  },
+  {
+    "headword": "contribute",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To give something, such as money or ideas, to a shared effort.",
+    "usage": "Usually said kun-TRIB-yoot; KON-trib-yoot is also heard in Britain.",
+    "pragmatic_note": null,
+    "pitfall": "Stress the second syllable to be safe. RP /kənˈtrɪbjuːt/.",
+    "examples": [
+      "Everyone contributed a tenner towards the present."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "contributed",
+      "contribution"
+    ]
+  },
+  {
+    "headword": "formidable",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Inspiring respect or fear through power or ability.",
+    "usage": "Traditional RP is FOR-mid-uh-bul; for-MID-uh-bul is now common too.",
+    "pragmatic_note": null,
+    "pitfall": "Both are accepted. RP /ˈfɔːmɪdəbəl/ or /fəˈmɪdəbəl/.",
+    "examples": [
+      "She's a formidable negotiator."
+    ],
+    "collocations": [
+      "formidable opponent"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "preferable",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Better or more suitable.",
+    "usage": "Said PREF-ruh-bul, stressed on the first syllable.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'pri-FUR-uh-bul', despite 'prefer'. RP /ˈprefrəbəl/.",
+    "examples": [
+      "A phone call would be preferable to an email."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "preferably"
+    ]
+  },
+  {
+    "headword": "comparable",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Similar enough to be compared.",
+    "usage": "Said KOM-pruh-bul, stressed on the first syllable.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'kum-PAIR-uh-bul', despite 'compare'. RP /ˈkɒmpərəbəl/.",
+    "examples": [
+      "Salaries here are comparable with London."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "primarily",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Mainly; mostly.",
+    "usage": "Said PRY-muh-ruh-lee in traditional RP; pry-MERR-uh-lee is increasingly common.",
+    "pragmatic_note": null,
+    "pitfall": "The second form is American in origin. RP /ˈpraɪmərəli/.",
+    "examples": [
+      "The course is aimed primarily at beginners."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "magazine",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A periodical publication with articles and pictures.",
+    "usage": "Said mag-uh-ZEEN, stressed on the last syllable.",
+    "pragmatic_note": null,
+    "pitfall": "Americans often stress the first syllable. RP /ˌmæɡəˈziːn/.",
+    "examples": [
+      "I read it in a magazine at the dentist's."
+    ],
+    "collocations": [],
+    "wiki": "Magazine",
+    "forms": [
+      "magazines"
+    ]
+  },
+  {
+    "headword": "weekend",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Saturday and Sunday.",
+    "usage": "Said week-END, with the main stress on the second syllable.",
+    "pragmatic_note": null,
+    "pitfall": "Americans stress the first syllable. Britons say 'at the weekend'. RP /ˌwiːkˈend/.",
+    "examples": [
+      "What are you up to at the weekend?"
+    ],
+    "collocations": [
+      "at the weekend",
+      "long weekend"
+    ],
+    "wiki": null,
+    "forms": [
+      "weekends"
+    ]
+  },
+  {
+    "headword": "moustache",
+    "register": "GREEN",
+    "us_equivalent": "mustache",
+    "gloss": "Hair grown on the upper lip.",
+    "usage": "Said muh-STAHSH, stressed on the second syllable.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'MUSS-tash'. RP /məˈstɑːʃ/.",
+    "examples": [
+      "He's grown a moustache for charity."
+    ],
+    "collocations": [],
+    "wiki": "Moustache",
+    "forms": [
+      "moustaches"
+    ]
+  },
+  {
+    "headword": "frustrate",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To annoy by preventing progress; or to block a plan.",
+    "usage": "Said fruss-TRAYT, stressed on the second syllable.",
+    "pragmatic_note": null,
+    "pitfall": "Americans stress the first syllable. RP /frʌˈstreɪt/.",
+    "examples": [
+      "It frustrates me when people talk over each other."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "frustrated",
+      "frustrating"
+    ]
+  },
+  {
+    "headword": "pyjamas",
+    "register": "GREEN",
+    "us_equivalent": "pajamas",
+    "gloss": "Loose trousers and top worn in bed.",
+    "usage": "Said puh-JAH-muz, with the long 'ah' of 'father'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'puh-JAM-uz', spelt 'pajamas'. RP /pəˈdʒɑːməz/.",
+    "examples": [
+      "The kids are already in their pyjamas."
+    ],
+    "collocations": [],
+    "wiki": "Pyjamas",
+    "forms": [
+      "pyjama"
+    ]
+  },
+  {
+    "headword": "mischievous",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Playfully causing trouble.",
+    "usage": "Said MISS-chiv-us: three syllables.",
+    "pragmatic_note": null,
+    "pitfall": "Avoid 'mis-CHEE-vee-us'; there is no extra syllable. RP /ˈmɪstʃɪvəs/.",
+    "examples": [
+      "He gave me a mischievous grin."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "pronunciation",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The way a word is said.",
+    "usage": "Said pruh-nun-see-AY-shun: the second syllable is 'nun', not 'noun'.",
+    "pragmatic_note": null,
+    "pitfall": "Unlike 'pronounce'. RP /prəˌnʌnsiˈeɪʃən/.",
+    "examples": [
+      "Her pronunciation is really clear."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "jewellery",
+    "register": "GREEN",
+    "us_equivalent": "jewelry",
+    "gloss": "Ornaments such as rings and necklaces.",
+    "usage": "Said JOO-ul-ree: three syllables.",
+    "pragmatic_note": null,
+    "pitfall": "Avoid 'JOOL-uh-ree' or 'JOO-ler-ee'. US spelling 'jewelry'. RP /ˈdʒuːəlri/.",
+    "examples": [
+      "She keeps her jewellery in a little box."
+    ],
+    "collocations": [],
+    "wiki": "Jewellery",
+    "forms": []
+  },
+  {
+    "headword": "et cetera",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "And other similar things.",
+    "usage": "Said et-SET-ruh; usually written 'etc.'",
+    "pragmatic_note": null,
+    "pitfall": "Not 'ek-SET-ruh'. RP /et ˈsetrə/ or /ɪt ˈsetərə/.",
+    "examples": [
+      "Bring your passport, tickets, et cetera."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "etc."
+    ]
+  },
+  {
+    "headword": "espresso",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Strong black coffee made by forcing steam through ground beans.",
+    "usage": "Said ess-PRESS-oh.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'ex-presso'. RP /eˈspresəʊ/.",
+    "examples": [
+      "Could I have a double espresso, please?"
+    ],
+    "collocations": [],
+    "wiki": "Espresso",
+    "forms": []
+  },
+  {
+    "headword": "hierarchy",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A system that ranks people or things one above another.",
+    "usage": "Said HY-uh-rah-kee: four syllables.",
+    "pragmatic_note": null,
+    "pitfall": "Avoid 'HIGH-rar-kee'. RP /ˈhaɪərɑːki/.",
+    "examples": [
+      "The company has a very flat hierarchy."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "hierarchical"
+    ]
+  },
+  {
+    "headword": "epitome",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A perfect example of a quality or type.",
+    "usage": "Said ih-PIT-uh-mee: four syllables.",
+    "pragmatic_note": null,
+    "pitfall": "Never 'EPP-ee-tome'. RP /ɪˈpɪtəmi/.",
+    "examples": [
+      "He's the epitome of an English gentleman."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "hyperbole",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Deliberate exaggeration for effect.",
+    "usage": "Said hy-PUR-buh-lee: four syllables.",
+    "pragmatic_note": null,
+    "pitfall": "Never 'HY-per-bowl'. RP /haɪˈpɜːbəli/.",
+    "examples": [
+      "Calling it a disaster is a bit of hyperbole."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "façade",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The front of a building; or a false appearance.",
+    "usage": "Said fuh-SAHD.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'fa-kade'. RP /fəˈsɑːd/.",
+    "examples": [
+      "The theatre's Victorian façade has been restored."
+    ],
+    "collocations": [],
+    "wiki": "Facade",
+    "forms": [
+      "facade"
+    ]
+  },
+  {
+    "headword": "quay",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A platform where boats load and unload.",
+    "usage": "Said KEE, exactly like 'key'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'kway'. RP /kiː/.",
+    "examples": [
+      "The boats leave from the quay every hour."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "quays",
+      "quayside"
+    ]
+  },
+  {
+    "headword": "colonel",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A senior army officer rank.",
+    "usage": "Said KUR-nul, exactly like 'kernel'.",
+    "pragmatic_note": null,
+    "pitfall": "The 'l' is not sounded. RP /ˈkɜːnəl/.",
+    "examples": [
+      "Her father was a colonel in the Army."
+    ],
+    "collocations": [
+      "lieutenant colonel"
+    ],
+    "wiki": null,
+    "forms": [
+      "colonels"
+    ]
+  },
+  {
+    "headword": "sergeant",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A non-commissioned rank in the army or police.",
+    "usage": "Said SAR-junt.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'ser-geant'. RP /ˈsɑːdʒənt/.",
+    "examples": [
+      "The desk sergeant took my details."
+    ],
+    "collocations": [
+      "desk sergeant",
+      "sergeant major"
+    ],
+    "wiki": null,
+    "forms": [
+      "sergeants"
+    ]
+  },
+  {
+    "headword": "choir",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "An organised group of singers.",
+    "usage": "Said KWY-uh, rhyming with 'fire'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'choy-er'. RP /ˈkwaɪə/.",
+    "examples": [
+      "She sings in the church choir."
+    ],
+    "collocations": [
+      "church choir"
+    ],
+    "wiki": "Choir",
+    "forms": [
+      "choirs"
+    ]
+  },
+  {
+    "headword": "debt",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Money owed to someone.",
+    "usage": "Said DET: the 'b' is silent.",
+    "pragmatic_note": null,
+    "pitfall": "Do not sound the 'b'. RP /det/.",
+    "examples": [
+      "They're trying to pay off their debts."
+    ],
+    "collocations": [
+      "in debt",
+      "debt-free"
+    ],
+    "wiki": null,
+    "forms": [
+      "debts",
+      "debtor"
+    ]
+  },
+  {
+    "headword": "indict",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To formally charge someone with a serious crime.",
+    "usage": "Said in-DITE, rhyming with 'invite'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'in-DIKT'. RP /ɪnˈdaɪt/.",
+    "examples": [
+      "He was indicted on fraud charges."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "indictment"
+    ]
+  },
+  {
+    "headword": "thorough",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Complete and careful about every detail.",
+    "usage": "Said THUH-ruh: the ending is a weak 'ruh'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'thuh-roh' or like 'through'. RP /ˈθʌrə/.",
+    "examples": [
+      "She did a really thorough job."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "thoroughly"
+    ]
+  },
+  {
+    "headword": "borough",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A town or district with its own local council.",
+    "usage": "Said BUH-ruh, like 'burrow' with a weak ending.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'BUR-oh'. RP /ˈbʌrə/.",
+    "examples": [
+      "London is divided into thirty-two boroughs."
+    ],
+    "collocations": [
+      "borough council",
+      "London borough"
+    ],
+    "wiki": null,
+    "forms": [
+      "boroughs"
+    ]
+  },
+  {
+    "headword": "cupboard",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A cabinet with a door, for storing things.",
+    "usage": "Said KUB-ud: the 'p' is silent and 'board' is weak.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'cup-board'. RP /ˈkʌbəd/.",
+    "examples": [
+      "The mugs are in the cupboard above the kettle."
+    ],
+    "collocations": [
+      "kitchen cupboard"
+    ],
+    "wiki": "Cupboard",
+    "forms": [
+      "cupboards"
+    ]
+  },
+  {
+    "headword": "sword",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A weapon with a long metal blade.",
+    "usage": "Said SORD: the 'w' is silent.",
+    "pragmatic_note": null,
+    "pitfall": "Do not sound the 'w'. RP /sɔːd/.",
+    "examples": [
+      "The knight drew his sword."
+    ],
+    "collocations": [],
+    "wiki": "Sword",
+    "forms": [
+      "swords"
+    ]
+  },
+  {
+    "headword": "draught",
+    "register": "GREEN",
+    "us_equivalent": "draft",
+    "gloss": "A current of cold air in a room; beer served from a cask.",
+    "usage": "Said DRAHFT.",
+    "pragmatic_note": null,
+    "pitfall": "US spelling is 'draft'. RP /drɑːft/.",
+    "examples": [
+      "There's a terrible draught from that window.",
+      "Is that bitter on draught?"
+    ],
+    "collocations": [
+      "on draught",
+      "draught excluder"
+    ],
+    "wiki": null,
+    "forms": [
+      "draughty"
+    ]
+  },
+  {
+    "headword": "yacht",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A sailing or motor boat used for pleasure or racing.",
+    "usage": "Said YOT, rhyming with 'hot'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'yatched'. RP /jɒt/.",
+    "examples": [
+      "They keep a yacht in the harbour at Cowes."
+    ],
+    "collocations": [],
+    "wiki": "Yacht",
+    "forms": [
+      "yachts",
+      "yachting"
+    ]
+  },
+  {
+    "headword": "plait",
+    "register": "GREEN",
+    "us_equivalent": "braid",
+    "gloss": "A length of hair or rope made by twisting three strands together.",
+    "usage": "Said PLAT, rhyming with 'cat'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say and spell it 'braid'. RP /plæt/.",
+    "examples": [
+      "She wore her hair in a long plait."
+    ],
+    "collocations": [],
+    "wiki": "Braid",
+    "forms": [
+      "plaits",
+      "plaited"
+    ]
+  },
+  {
+    "headword": "heir",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A person who inherits money, property or a title.",
+    "usage": "Said AIR: the 'h' is silent, as in 'hour' and 'honest'.",
+    "pragmatic_note": null,
+    "pitfall": "Do not sound the 'h'. RP /eə/.",
+    "examples": [
+      "He's the heir to the family business."
+    ],
+    "collocations": [
+      "heir apparent"
+    ],
+    "wiki": null,
+    "forms": [
+      "heirs",
+      "heiress"
+    ]
+  },
+  {
+    "headword": "tortoise",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A slow land reptile with a hard shell.",
+    "usage": "Said TOR-tuss: the ending rhymes with 'us'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'tor-toys'. RP /ˈtɔːtəs/.",
+    "examples": [
+      "Our tortoise hibernates in a box every winter."
+    ],
+    "collocations": [],
+    "wiki": "Tortoise",
+    "forms": [
+      "tortoises"
+    ]
+  },
+  {
+    "headword": "suite",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A set of connected rooms; or a set of matching furniture.",
+    "usage": "Said SWEET.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'suit'. RP /swiːt/.",
+    "examples": [
+      "We were upgraded to a suite.",
+      "They bought a new three-piece suite."
+    ],
+    "collocations": [
+      "three-piece suite",
+      "en suite"
+    ],
+    "wiki": null,
+    "forms": [
+      "suites"
+    ]
+  },
+  {
+    "headword": "clique",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A small group of people who keep others out.",
+    "usage": "Said KLEEK.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'click'. RP /kliːk/.",
+    "examples": [
+      "The office has a bit of a clique."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "cliques",
+      "cliquey"
+    ]
+  },
+  {
+    "headword": "asthma",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A lung condition that makes breathing difficult.",
+    "usage": "Said ASS-muh: the 'th' is silent.",
+    "pragmatic_note": null,
+    "pitfall": "Do not sound the 'th'. RP /ˈæsmə/.",
+    "examples": [
+      "She uses an inhaler for her asthma."
+    ],
+    "collocations": [
+      "asthma attack"
+    ],
+    "wiki": null,
+    "forms": [
+      "asthmatic"
+    ]
+  },
+  {
+    "headword": "chaos",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Complete disorder and confusion.",
+    "usage": "Said KAY-oss.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'chow-s' or 'chay-os'. RP /ˈkeɪɒs/.",
+    "examples": [
+      "The snow caused chaos on the roads."
+    ],
+    "collocations": [
+      "total chaos"
+    ],
+    "wiki": null,
+    "forms": [
+      "chaotic"
+    ]
+  },
+  {
+    "headword": "archive",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A collection of historical records, or the place they are kept.",
+    "usage": "Said AH-kive, with a 'k' sound and a vowel like 'five'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'ar-chive' with 'ch' or 'ar-keev'. RP /ˈɑːkaɪv/.",
+    "examples": [
+      "The BBC has a huge sound archive."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "archives",
+      "archived"
+    ]
+  },
+  {
+    "headword": "recipe",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Instructions for preparing a dish.",
+    "usage": "Said RESS-uh-pee: three syllables.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'ree-sipe'. RP /ˈresəpi/.",
+    "examples": [
+      "Could you send me the recipe for that cake?"
+    ],
+    "collocations": [
+      "recipe book"
+    ],
+    "wiki": null,
+    "forms": [
+      "recipes"
+    ]
+  },
+  {
+    "headword": "vegetable",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A plant or part of a plant eaten as food.",
+    "usage": "Said VEJ-tuh-bul: three syllables, not four.",
+    "pragmatic_note": null,
+    "pitfall": "Avoid 'veg-e-TAY-bul'. Britons often just say 'veg'. RP /ˈvedʒtəbəl/.",
+    "examples": [
+      "Eat your vegetables, please."
+    ],
+    "collocations": [
+      "vegetable soup"
+    ],
+    "wiki": "Vegetable",
+    "forms": [
+      "vegetables",
+      "veg"
+    ]
+  },
+  {
+    "headword": "temperature",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A measure of how hot or cold something is.",
+    "usage": "Said TEM-pruh-chuh: three syllables in normal speech.",
+    "pragmatic_note": null,
+    "pitfall": "Avoid 'tem-pe-RA-chur'. RP /ˈtemprətʃə/.",
+    "examples": [
+      "I think you've got a temperature."
+    ],
+    "collocations": [
+      "room temperature"
+    ],
+    "wiki": null,
+    "forms": [
+      "temperatures"
+    ]
+  },
+  {
+    "headword": "chocolate",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A sweet food made from cocoa beans.",
+    "usage": "Said CHOK-lut: two syllables.",
+    "pragmatic_note": null,
+    "pitfall": "Avoid 'cho-co-late' or a strong final 'late'. RP /ˈtʃɒklət/.",
+    "examples": [
+      "Would you like a chocolate biscuit with your tea?"
+    ],
+    "collocations": [
+      "hot chocolate",
+      "dark chocolate"
+    ],
+    "wiki": "Chocolate",
+    "forms": [
+      "chocolates"
+    ]
+  },
+  {
+    "headword": "different",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Not the same.",
+    "usage": "Said DIF-runt: two syllables in normal speech.",
+    "pragmatic_note": null,
+    "pitfall": "Avoid 'dif-FER-ent'. RP /ˈdɪfrənt/.",
+    "examples": [
+      "That's a completely different matter."
+    ],
+    "collocations": [
+      "different from"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "favourite",
+    "register": "GREEN",
+    "us_equivalent": "favorite",
+    "gloss": "Preferred to all others.",
+    "usage": "Said FAY-vrit or FAY-vuh-rit, stressed on the first syllable.",
+    "pragmatic_note": null,
+    "pitfall": "The ending is '-rit', not '-rite'. US spelling 'favorite'. RP /ˈfeɪvərɪt/.",
+    "examples": [
+      "What's your favourite film?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "favourites"
+    ]
+  },
+  {
+    "headword": "business",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Buying and selling; or a company.",
+    "usage": "Said BIZ-niss: two syllables.",
+    "pragmatic_note": null,
+    "pitfall": "Avoid 'biz-ee-ness'. RP /ˈbɪznəs/.",
+    "examples": [
+      "She runs her own business."
+    ],
+    "collocations": [
+      "small business",
+      "business trip"
+    ],
+    "wiki": null,
+    "forms": [
+      "businesses"
+    ]
+  },
+  {
+    "headword": "restaurant",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A place where meals are served to customers.",
+    "usage": "Said RESS-tront or RESS-tuh-ront.",
+    "pragmatic_note": null,
+    "pitfall": "Avoid 'rest-oh-RANT'. RP /ˈrestrɒnt/.",
+    "examples": [
+      "Let's book a table at that new Italian restaurant."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "restaurants"
+    ]
+  },
+  {
+    "headword": "separate",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Apart; not joined.",
+    "usage": "The adjective is SEP-rut; the verb is SEP-uh-rayt.",
+    "pragmatic_note": null,
+    "pitfall": "Do not use the verb's 'rayt' for the adjective. RP adj. /ˈseprət/, verb /ˈsepəreɪt/.",
+    "examples": [
+      "Can we have separate bills, please?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "separately",
+      "separated"
+    ]
+  },
+  {
+    "headword": "determine",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To decide or find out exactly.",
+    "usage": "Said dih-TUR-min: the ending rhymes with 'bin'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'dee-ter-mine' to rhyme with 'mine'. RP /dɪˈtɜːmɪn/.",
+    "examples": [
+      "We need to determine the cause of the fault."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "determined",
+      "determination"
+    ]
+  },
+  {
+    "headword": "colleague",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A person you work with.",
+    "usage": "Said KOL-eeg, stressed on the first syllable.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'kol-LEEG' or 'kol-ee-g-yoo'. RP /ˈkɒliːɡ/.",
+    "examples": [
+      "I'll ask a colleague to cover for me."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "colleagues"
+    ]
+  },
+  {
+    "headword": "career",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A job or series of jobs over a working life.",
+    "usage": "Said kuh-REER, stressed on the second syllable.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'KAIR-ee-ur' or like 'carrier'. RP /kəˈrɪə/.",
+    "examples": [
+      "She's had a long career in teaching."
+    ],
+    "collocations": [
+      "career path",
+      "career change"
+    ],
+    "wiki": null,
+    "forms": [
+      "careers"
+    ]
+  },
+  {
+    "headword": "photography",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The art or practice of taking photographs.",
+    "usage": "Said fuh-TOG-ruh-fee, stressed on the second syllable; likewise 'photographer'.",
+    "pragmatic_note": null,
+    "pitfall": "The stress moves from 'PHO-to-graph'. RP /fəˈtɒɡrəfi/.",
+    "examples": [
+      "He's really into wildlife photography."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "photographer",
+      "photographers"
+    ]
+  },
+  {
+    "headword": "won",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The past tense of 'win'.",
+    "usage": "Said WUN, exactly like 'one'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'wonn' rhyming with 'on'. RP /wʌn/.",
+    "examples": [
+      "England won the match on penalties."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "women",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The plural of 'woman'.",
+    "usage": "Said WIM-in: the 'o' sounds like 'i'.",
+    "pragmatic_note": null,
+    "pitfall": "Distinguish from 'woman' (WOOM-un). RP /ˈwɪmɪn/.",
+    "examples": [
+      "The women's team has had a brilliant season."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "bury",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To put something in the ground and cover it.",
+    "usage": "Said BERRY, exactly like the fruit.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'burry' or 'byoo-ree'. RP /ˈberi/.",
+    "examples": [
+      "Our dog likes to bury his toys in the garden."
+    ],
+    "collocations": [
+      "bury the hatchet"
+    ],
+    "wiki": null,
+    "forms": [
+      "buried",
+      "burial"
+    ]
+  },
+  {
+    "headword": "tongue",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The soft muscle in the mouth used for tasting and speaking.",
+    "usage": "Said TUNG, rhyming with 'young'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'tong' or 'tong-yoo'. RP /tʌŋ/.",
+    "examples": [
+      "It's on the tip of my tongue."
+    ],
+    "collocations": [
+      "mother tongue",
+      "tongue-in-cheek"
+    ],
+    "wiki": "Tongue",
+    "forms": [
+      "tongues"
+    ]
+  },
+  {
+    "headword": "castle",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A large fortified building from the Middle Ages.",
+    "usage": "Said KAH-sul: the 't' is silent and the vowel is the long 'ah' of RP.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'KASS-ul'. RP /ˈkɑːsəl/.",
+    "examples": [
+      "We visited the castle on a rainy afternoon."
+    ],
+    "collocations": [],
+    "wiki": "Castle",
+    "forms": [
+      "castles"
+    ]
+  },
+  {
+    "headword": "said",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The past tense of 'say'.",
+    "usage": "Said SED, rhyming with 'bed'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'sayd'. RP /sed/.",
+    "examples": [
+      "She said she'd ring back after lunch."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "says",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The present form of 'say' with he, she or it.",
+    "usage": "Said SEZ, rhyming with 'fez'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'sayz'. RP /sez/.",
+    "examples": [
+      "He says the train's been cancelled."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "purchase",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To buy; or something bought.",
+    "usage": "Said PUR-chuss: the ending rhymes with 'us'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'pur-chase' like 'chase'. RP /ˈpɜːtʃəs/.",
+    "examples": [
+      "Proof of purchase is required for refunds."
+    ],
+    "collocations": [
+      "proof of purchase"
+    ],
+    "wiki": null,
+    "forms": [
+      "purchased",
+      "purchases"
+    ]
+  },
+  {
+    "headword": "biscuit",
+    "register": "GREEN",
+    "us_equivalent": "cookie",
+    "gloss": "A small, flat, sweet baked snack.",
+    "usage": "Said BISS-kit: the 'u' is silent.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'bis-kwit'. RP /ˈbɪskɪt/.",
+    "examples": [
+      "Fancy a cup of tea and a biscuit?"
+    ],
+    "collocations": [
+      "chocolate biscuit"
+    ],
+    "wiki": "Biscuit",
+    "forms": [
+      "biscuits"
+    ]
+  },
+  {
+    "headword": "leopard",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A large wild cat with a spotted coat.",
+    "usage": "Said LEP-ud: the 'o' is silent.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'lee-oh-pard'. RP /ˈlepəd/.",
+    "examples": [
+      "A leopard can't change its spots."
+    ],
+    "collocations": [
+      "leopard print"
+    ],
+    "wiki": "Leopard",
+    "forms": [
+      "leopards"
+    ]
+  },
+  {
+    "headword": "height",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "How tall something is.",
+    "usage": "Said HITE, rhyming with 'kite', ending in a plain 't'.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'hyth': only 'width', 'depth' and 'breadth' end in 'th'. RP /haɪt/.",
+    "examples": [
+      "What's your height and weight?"
+    ],
+    "collocations": [
+      "at the height of"
+    ],
+    "wiki": null,
+    "forms": [
+      "heights"
+    ]
+  },
+  {
+    "headword": "clothes",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Things you wear.",
+    "usage": "Said KLOHZ in fast speech, or KLOHDHZ carefully.",
+    "pragmatic_note": null,
+    "pitfall": "Avoid 'clo-thez' with two syllables. RP /kləʊðz/ or /kləʊz/.",
+    "examples": [
+      "I need to change my clothes before dinner."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "coup",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A sudden seizure of power; or a great achievement.",
+    "usage": "Said KOO: the 'p' is silent.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'coop'. RP /kuː/.",
+    "examples": [
+      "Signing her was a real coup for the club."
+    ],
+    "collocations": [
+      "military coup"
+    ],
+    "wiki": null,
+    "forms": [
+      "coups"
+    ]
+  },
+  {
+    "headword": "genre",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A style or category of art, music or writing.",
+    "usage": "Said ZHON-ruh.",
+    "pragmatic_note": null,
+    "pitfall": "Not 'jen-ruh'. RP /ˈʒɒnrə/.",
+    "examples": [
+      "Crime fiction is my favourite genre."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "genres"
+    ]
+  },
+  {
+    "headword": "water",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The clear liquid that forms rain, rivers and seas.",
+    "usage": "Said WAW-tuh, with a crisp 't' and no 'r' at the end.",
+    "pragmatic_note": null,
+    "pitfall": "Avoid the American 'WAH-der'. RP /ˈwɔːtə/.",
+    "examples": [
+      "Could I have a glass of tap water, please?"
+    ],
+    "collocations": [
+      "tap water",
+      "sparkling water"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "aunt",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The sister of your mother or father.",
+    "usage": "Said AHNT, rhyming with 'can't'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans usually say 'ANT', like the insect. RP /ɑːnt/.",
+    "examples": [
+      "My aunt lives in Cornwall."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "auntie",
+      "aunts"
+    ]
+  },
+  {
+    "headword": "can't",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Cannot.",
+    "usage": "Said KAHNT, with the long 'ah' of 'father'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'KANT'; the long vowel helps listeners hear the negative. RP /kɑːnt/.",
+    "examples": [
+      "I can't make Thursday, sorry."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "ask",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To put a question to someone.",
+    "usage": "Said AHSK in RP, with the long 'ah'.",
+    "pragmatic_note": null,
+    "pitfall": "Avoid 'aks'; the short American 'ask' is fine but not RP. RP /ɑːsk/.",
+    "examples": [
+      "Can I ask you something?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "asked",
+      "asking"
+    ]
+  },
+  {
+    "headword": "answer",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A reply to a question.",
+    "usage": "Said AHN-suh: the 'w' is silent and the vowel is the long 'ah'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'AN-ser'. RP /ˈɑːnsə/.",
+    "examples": [
+      "I'm still waiting for an answer."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "answered",
+      "answers"
+    ]
+  },
+  {
+    "headword": "half",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "One of two equal parts.",
+    "usage": "Said HAHF: the 'l' is silent.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'HAF'. RP /hɑːf/.",
+    "examples": [
+      "I'll meet you at half past six."
+    ],
+    "collocations": [
+      "half past",
+      "half-term"
+    ],
+    "wiki": null,
+    "forms": [
+      "halves"
+    ]
+  },
+  {
+    "headword": "rather",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "To some extent; or more willingly.",
+    "usage": "Said RAH-thuh, with the long 'ah'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'RATH-er'. RP /ˈrɑːðə/.",
+    "examples": [
+      "It's rather cold today, isn't it?",
+      "I'd rather stay in tonight."
+    ],
+    "collocations": [
+      "I'd rather"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "premier",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Leading or most important; also a head of government.",
+    "usage": "Said PREM-ee-uh, stressed on the first syllable.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'pre-MEER'. RP /ˈpremiə/.",
+    "examples": [
+      "It's the premier event in the racing calendar."
+    ],
+    "collocations": [
+      "Premier League"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "Renaissance",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "The revival of art and learning in 14th to 16th-century Europe.",
+    "usage": "Said ri-NAY-sunss, stressed on the second syllable.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'REN-uh-sahnss'. RP /rɪˈneɪsəns/.",
+    "examples": [
+      "Florence is full of Renaissance art."
+    ],
+    "collocations": [
+      "Renaissance art"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "apricot",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A small, soft, orange fruit.",
+    "usage": "Said AY-pri-kot.",
+    "pragmatic_note": null,
+    "pitfall": "Americans often say 'AP-ri-kot'. RP /ˈeɪprɪkɒt/.",
+    "examples": [
+      "Apricot jam is lovely on a scone."
+    ],
+    "collocations": [],
+    "wiki": "Apricot",
+    "forms": [
+      "apricots"
+    ]
+  },
+  {
+    "headword": "wrath",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Extreme anger.",
+    "usage": "Said ROTH, rhyming with 'cloth'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'RATH'. RP /rɒθ/.",
+    "examples": [
+      "He incurred the wrath of the headmaster."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "buoy",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "A floating marker in the water.",
+    "usage": "Said BOY.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'BOO-ee'. RP /bɔɪ/.",
+    "examples": [
+      "The yacht was moored to a buoy."
+    ],
+    "collocations": [],
+    "wiki": "Buoy",
+    "forms": [
+      "buoys",
+      "buoyant"
+    ]
+  }
+]

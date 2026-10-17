@@ -99,6 +99,11 @@ export default function Dashboard({ onDrill }: { onDrill: (phoneme: string) => v
   const shadowItems = new Set(shadowLogs.map((l) => l.promptId)).size;
   const shadowPassed = new Set(shadowLogs.filter((l) => l.passed).map((l) => l.promptId)).size;
   const level = learner.shadowLevel ?? 1;
+  const cardsPractised = [...vocabCards.values()].filter((c) => c.lastReview);
+  const curatedPractised = cardsPractised.filter((c) => c.id.startsWith('lx_')).length;
+  const wordsPractised = cardsPractised.filter((c) => c.id.startsWith('w_')).length;
+  const dueNow = cardsPractised.filter((c) => c.due <= now).length;
+  const band = learner.wordBand ?? 1;
 
   return (
     <main>
@@ -124,6 +129,19 @@ export default function Dashboard({ onDrill }: { onDrill: (phoneme: string) => v
             <div className="meter" style={{ height: 6 }}><span style={{ width: `${(level / 12) * 100}%`, background: 'var(--emerald)' }} /></div>
             <div className="tiny muted" style={{ marginTop: 4 }}>{shadowItems} practised · {shadowPassed} passed · promotes after 12+ turns at ≥ 70 % pass rate</div>
           </div>
+        </div>
+      </section>
+
+      <section className="section card">
+        <div className="row">
+          <div className="label">Words &amp; British lexicon</div>
+          <span className="spacer" />
+          <span className="small muted">{dueNow} review{dueNow === 1 ? '' : 's'} due</span>
+        </div>
+        <div className="row section small">
+          <span className="chip">{curatedPractised.toLocaleString('en-GB')} British cards practised</span>
+          <span className="chip">{wordsPractised.toLocaleString('en-GB')} everyday words practised</span>
+          <span className="chip">frequency band {band} · top {(band * 1000).toLocaleString('en-GB')} words</span>
         </div>
       </section>
 

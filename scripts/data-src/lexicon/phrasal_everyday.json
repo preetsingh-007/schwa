@@ -1,0 +1,6312 @@
+[
+  {
+    "headword": "pop round",
+    "register": "AMBER",
+    "us_equivalent": "stop by",
+    "gloss": "Make a short, informal visit to someone's home.",
+    "usage": "Friendly everyday phrase for dropping in on neighbours, friends or family.",
+    "pragmatic_note": "'Pop' makes the visit sound brief and low-fuss, which is why Britons use it to soften requests.",
+    "pitfall": null,
+    "examples": [
+      "I'll pop round later with your keys.",
+      "Do you want to pop round for a cup of tea?"
+    ],
+    "collocations": [
+      "pop round for a cuppa",
+      "pop round later"
+    ],
+    "wiki": null,
+    "forms": [
+      "pops round",
+      "popped round",
+      "popping round"
+    ]
+  },
+  {
+    "headword": "pop in",
+    "register": "AMBER",
+    "us_equivalent": "stop in",
+    "gloss": "Go into a place briefly, often a shop or someone's office.",
+    "usage": "Used for quick, casual visits to shops, offices or homes.",
+    "pragmatic_note": "Saying 'I'll just pop in' signals that the visit will not take long.",
+    "pitfall": null,
+    "examples": [
+      "I'll just pop in to the chemist on the way.",
+      "Feel free to pop in whenever you're passing."
+    ],
+    "collocations": [
+      "pop in for a minute",
+      "just pop in"
+    ],
+    "wiki": null,
+    "forms": [
+      "pops in",
+      "popped in",
+      "popping in"
+    ]
+  },
+  {
+    "headword": "pop out",
+    "register": "AMBER",
+    "us_equivalent": "step out",
+    "gloss": "Leave a place briefly, intending to come back soon.",
+    "usage": "Common at work and at home to explain a short absence.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm just popping out for a sandwich.",
+      "She's popped out, but she'll be back at two."
+    ],
+    "collocations": [
+      "pop out for lunch",
+      "just popping out"
+    ],
+    "wiki": null,
+    "forms": [
+      "pops out",
+      "popped out",
+      "popping out"
+    ]
+  },
+  {
+    "headword": "nip out",
+    "register": "AMBER",
+    "us_equivalent": "run out",
+    "gloss": "Leave somewhere quickly for a short time.",
+    "usage": "Everyday British phrase for a quick errand; slightly more hurried than 'pop out'.",
+    "pragmatic_note": null,
+    "pitfall": "American 'run out' (for an errand) can sound like 'run out of' something to British ears.",
+    "examples": [
+      "I'm just going to nip out for some milk.",
+      "Can you cover for me while I nip out?"
+    ],
+    "collocations": [
+      "nip out for",
+      "nip out quickly"
+    ],
+    "wiki": null,
+    "forms": [
+      "nips out",
+      "nipped out",
+      "nipping out"
+    ]
+  },
+  {
+    "headword": "nip to the shops",
+    "register": "AMBER",
+    "us_equivalent": "run to the store",
+    "gloss": "Go quickly to a nearby shop for a few things.",
+    "usage": "Very common domestic phrase; 'the shops' means the local high street or corner shop.",
+    "pragmatic_note": "Britons say 'the shops' where Americans say 'the store'.",
+    "pitfall": "Avoid 'go to the market' unless you mean an actual street market.",
+    "examples": [
+      "I'm nipping to the shops — do we need anything?",
+      "Could you nip to the shops for bread?"
+    ],
+    "collocations": [
+      "nip to the shops for",
+      "nip down the shops"
+    ],
+    "wiki": null,
+    "forms": [
+      "nipped to the shops",
+      "nipping to the shops"
+    ]
+  },
+  {
+    "headword": "fancy",
+    "register": "AMBER",
+    "us_equivalent": "feel like / want",
+    "gloss": "Want or like the idea of something: 'fancy a coffee?', 'fancy going out?'.",
+    "usage": "Hugely common in offers and suggestions, followed by a noun or an -ing verb.",
+    "pragmatic_note": "'Fancy a…?' is a gentle, low-pressure invitation that is easy to decline.",
+    "pitfall": "'I fancy him' means you find him attractive, so be careful with people as the object.",
+    "examples": [
+      "Fancy a coffee before the meeting?",
+      "Do you fancy going for a walk later?"
+    ],
+    "collocations": [
+      "fancy a cuppa",
+      "fancy going",
+      "don't fancy it"
+    ],
+    "wiki": null,
+    "forms": [
+      "fancies",
+      "fancied",
+      "fancying"
+    ]
+  },
+  {
+    "headword": "crack on",
+    "register": "AMBER",
+    "us_equivalent": "get going / keep going",
+    "gloss": "Start or continue working on something with energy.",
+    "usage": "Very common at work and home, especially to move things along after a pause.",
+    "pragmatic_note": "'Shall we crack on?' is a polite way to end small talk and start the meeting.",
+    "pitfall": null,
+    "examples": [
+      "Right, shall we crack on?",
+      "I'll leave you to crack on with the report."
+    ],
+    "collocations": [
+      "crack on with it",
+      "let's crack on"
+    ],
+    "wiki": null,
+    "forms": [
+      "cracks on",
+      "cracked on",
+      "cracking on"
+    ]
+  },
+  {
+    "headword": "get on with",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Continue or start doing a task; also, have a good relationship with someone.",
+    "usage": "Neutral and very common in both senses, at work and socially.",
+    "pragmatic_note": "'Just get on with it' can be brisk or even curt, depending on tone.",
+    "pitfall": "Britons say 'get on with' people where Americans more often say 'get along with'.",
+    "examples": [
+      "I'd better get on with my emails.",
+      "Do you get on with your new manager?"
+    ],
+    "collocations": [
+      "get on with it",
+      "get on well with",
+      "get on with your work"
+    ],
+    "wiki": null,
+    "forms": [
+      "gets on with",
+      "got on with",
+      "getting on with"
+    ]
+  },
+  {
+    "headword": "knuckle down",
+    "register": "AMBER",
+    "us_equivalent": "buckle down",
+    "gloss": "Start working hard and seriously, especially after a period of not doing so.",
+    "usage": "Used about study, exams and demanding work.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I really need to knuckle down before my exams.",
+      "Once he knuckled down, his marks improved."
+    ],
+    "collocations": [
+      "knuckle down to",
+      "really knuckle down"
+    ],
+    "wiki": null,
+    "forms": [
+      "knuckles down",
+      "knuckled down",
+      "knuckling down"
+    ]
+  },
+  {
+    "headword": "muck in",
+    "register": "AMBER",
+    "us_equivalent": "pitch in",
+    "gloss": "Join in and share the work with others, without fuss.",
+    "usage": "Used for informal group effort: moving house, events, kitchens, volunteering.",
+    "pragmatic_note": "Praising someone for 'mucking in' signals they are unpretentious and a team player.",
+    "pitfall": null,
+    "examples": [
+      "Everyone mucked in and we finished by six.",
+      "She's always happy to muck in."
+    ],
+    "collocations": [
+      "muck in together",
+      "everyone mucked in"
+    ],
+    "wiki": null,
+    "forms": [
+      "mucks in",
+      "mucked in",
+      "mucking in"
+    ]
+  },
+  {
+    "headword": "chip in",
+    "register": "AMBER",
+    "us_equivalent": "pitch in",
+    "gloss": "Contribute money to a shared cost; or add a comment to a conversation.",
+    "usage": "Common for office collections, shared gifts and joining a discussion.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Shall we all chip in for her leaving present?",
+      "Can I just chip in with a quick point?"
+    ],
+    "collocations": [
+      "chip in a fiver",
+      "chip in for",
+      "chip in with"
+    ],
+    "wiki": null,
+    "forms": [
+      "chips in",
+      "chipped in",
+      "chipping in"
+    ]
+  },
+  {
+    "headword": "fob off",
+    "register": "AMBER",
+    "us_equivalent": "brush off",
+    "gloss": "Get rid of someone with an excuse, or give them something inferior.",
+    "usage": "Used when complaining about poor customer service or evasive answers.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Don't let them fob you off with a voucher.",
+      "I was fobbed off with some excuse about IT."
+    ],
+    "collocations": [
+      "fob someone off with",
+      "be fobbed off"
+    ],
+    "wiki": null,
+    "forms": [
+      "fobs off",
+      "fobbed off",
+      "fobbing off"
+    ]
+  },
+  {
+    "headword": "suss out",
+    "register": "AMBER",
+    "us_equivalent": "figure out",
+    "gloss": "Work out the truth about someone or something; size up a situation.",
+    "usage": "Informal but widely used at work and socially.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I haven't quite sussed out how the new system works.",
+      "She sussed him out straight away."
+    ],
+    "collocations": [
+      "suss out the situation",
+      "suss someone out"
+    ],
+    "wiki": null,
+    "forms": [
+      "susses out",
+      "sussed out",
+      "sussing out"
+    ]
+  },
+  {
+    "headword": "pack in",
+    "register": "RED",
+    "us_equivalent": "quit",
+    "gloss": "Stop doing something, especially a job or habit; of a machine, stop working.",
+    "usage": "Casual speech; 'pack it in!' is an irritated order to stop.",
+    "pragmatic_note": null,
+    "pitfall": "Not to be confused with 'pack up', which means put things away or finish.",
+    "examples": [
+      "He packed in his job and went travelling.",
+      "The washing machine's finally packed in."
+    ],
+    "collocations": [
+      "pack it in",
+      "pack in smoking",
+      "pack in a job"
+    ],
+    "wiki": null,
+    "forms": [
+      "packs in",
+      "packed in",
+      "packing in",
+      "pack it in"
+    ]
+  },
+  {
+    "headword": "pack up",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Put your things away to leave; or finish work for the day.",
+    "usage": "Everyday at home and work; also used of machines breaking down.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Shall we pack up and head home?",
+      "My laptop packed up halfway through the presentation."
+    ],
+    "collocations": [
+      "pack up for the day",
+      "pack up your things"
+    ],
+    "wiki": null,
+    "forms": [
+      "packs up",
+      "packed up",
+      "packing up"
+    ]
+  },
+  {
+    "headword": "kick off",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Start (a match or event); or, informally, erupt into an angry argument or fight.",
+    "usage": "'Kick off' for starting is fine at work; the 'erupt' sense is casual.",
+    "pragmatic_note": "'It all kicked off' usually means trouble started, not a meeting.",
+    "pitfall": "Know which sense you mean: 'the boss kicked off' means he lost his temper.",
+    "examples": [
+      "What time does the match kick off?",
+      "It all kicked off when he mentioned money."
+    ],
+    "collocations": [
+      "kick off the meeting",
+      "it kicked off"
+    ],
+    "wiki": null,
+    "forms": [
+      "kicks off",
+      "kicked off",
+      "kicking off"
+    ]
+  },
+  {
+    "headword": "wind up",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Tease or deliberately annoy someone; or bring something to an end.",
+    "usage": "'Wind someone up' is casual; 'wind up a meeting' is fine at work.",
+    "pragmatic_note": "'Are you winding me up?' means 'Are you joking with me?'.",
+    "pitfall": "Rhymes with 'find', not 'sinned'.",
+    "examples": [
+      "Don't take it seriously — he's just winding you up.",
+      "Let's wind up there and pick it up next week."
+    ],
+    "collocations": [
+      "wind someone up",
+      "wind up the meeting",
+      "a wind-up"
+    ],
+    "wiki": null,
+    "forms": [
+      "winds up",
+      "wound up",
+      "winding up"
+    ]
+  },
+  {
+    "headword": "wind down",
+    "register": "AMBER",
+    "us_equivalent": "unwind",
+    "gloss": "Relax after activity or stress; or gradually reduce and end something.",
+    "usage": "Used for evenings, holidays and closing down projects or businesses.",
+    "pragmatic_note": null,
+    "pitfall": "Rhymes with 'find'.",
+    "examples": [
+      "I need a bath to wind down after work.",
+      "The project is winding down this month."
+    ],
+    "collocations": [
+      "wind down after work",
+      "wind down a business"
+    ],
+    "wiki": null,
+    "forms": [
+      "winds down",
+      "wound down",
+      "winding down"
+    ]
+  },
+  {
+    "headword": "tuck in",
+    "register": "AMBER",
+    "us_equivalent": "dig in",
+    "gloss": "Start eating with enthusiasm, usually when food is served.",
+    "usage": "Host's friendly invitation at the table: 'Tuck in!'.",
+    "pragmatic_note": "Saying 'tuck in' tells guests not to wait for formalities.",
+    "pitfall": null,
+    "examples": [
+      "Dinner's ready — tuck in!",
+      "The kids tucked in before I'd even sat down."
+    ],
+    "collocations": [
+      "tuck into",
+      "tuck in, everyone"
+    ],
+    "wiki": null,
+    "forms": [
+      "tucks in",
+      "tucked in",
+      "tucking in",
+      "tuck into"
+    ]
+  },
+  {
+    "headword": "tidy up",
+    "register": "GREEN",
+    "us_equivalent": "clean up / straighten up",
+    "gloss": "Make a place or thing neat and orderly.",
+    "usage": "Everyday for rooms and desks; also used for editing text.",
+    "pragmatic_note": null,
+    "pitfall": "Britons often say 'tidy' where Americans say 'clean' for putting things away.",
+    "examples": [
+      "Can you tidy up your room before Gran arrives?",
+      "I just need to tidy up a few slides."
+    ],
+    "collocations": [
+      "tidy up the kitchen",
+      "tidy up a document"
+    ],
+    "wiki": null,
+    "forms": [
+      "tidies up",
+      "tidied up",
+      "tidying up"
+    ]
+  },
+  {
+    "headword": "ring",
+    "register": "AMBER",
+    "us_equivalent": "call",
+    "gloss": "Telephone someone.",
+    "usage": "Very common British alternative to 'call', especially in speech.",
+    "pragmatic_note": "'Ring' sounds natural and slightly informal; 'call' is fine everywhere too.",
+    "pitfall": "Past tense is 'rang' and participle 'rung' — not 'ringed'.",
+    "examples": [
+      "I'll ring you when I get to the station.",
+      "Did anyone ring while I was out?"
+    ],
+    "collocations": [
+      "give someone a ring",
+      "ring up",
+      "ring the GP"
+    ],
+    "wiki": null,
+    "forms": [
+      "rings",
+      "rang",
+      "rung",
+      "ringing",
+      "ring up"
+    ]
+  },
+  {
+    "headword": "ring back",
+    "register": "AMBER",
+    "us_equivalent": "call back",
+    "gloss": "Return a phone call, or phone someone again later.",
+    "usage": "Standard on the phone at work and home.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Can I ring you back in five minutes?",
+      "She said she'd ring back after lunch."
+    ],
+    "collocations": [
+      "ring someone back",
+      "ring back later"
+    ],
+    "wiki": null,
+    "forms": [
+      "rings back",
+      "rang back",
+      "ringing back"
+    ]
+  },
+  {
+    "headword": "give someone a bell",
+    "register": "RED",
+    "us_equivalent": "give someone a call",
+    "gloss": "Phone someone.",
+    "usage": "Chatty, friendly phrase among friends; too casual for most work contexts.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Give me a bell when you're free.",
+      "I'll give you a bell at the weekend."
+    ],
+    "collocations": [
+      "give us a bell"
+    ],
+    "wiki": null,
+    "forms": [
+      "gave me a bell",
+      "give me a bell",
+      "give you a bell"
+    ]
+  },
+  {
+    "headword": "get round to",
+    "register": "AMBER",
+    "us_equivalent": "get around to",
+    "gloss": "Finally find time to do something you have been meaning to do.",
+    "usage": "Very common, often with a guilty note about delay.",
+    "pragmatic_note": null,
+    "pitfall": "British English prefers 'round' where Americans say 'around'.",
+    "examples": [
+      "I never got round to replying to her email.",
+      "I'll get round to it at the weekend."
+    ],
+    "collocations": [
+      "finally get round to",
+      "never get round to"
+    ],
+    "wiki": null,
+    "forms": [
+      "gets round to",
+      "got round to",
+      "getting round to"
+    ]
+  },
+  {
+    "headword": "put up with",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Tolerate something or someone unpleasant without complaining.",
+    "usage": "Neutral and extremely common in all registers except the most formal writing.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I don't know how you put up with that noise.",
+      "We shouldn't have to put up with delays every day."
+    ],
+    "collocations": [
+      "put up with it",
+      "won't put up with"
+    ],
+    "wiki": null,
+    "forms": [
+      "puts up with",
+      "putting up with"
+    ]
+  },
+  {
+    "headword": "look after",
+    "register": "GREEN",
+    "us_equivalent": "take care of",
+    "gloss": "Take care of someone or something; be responsible for.",
+    "usage": "Standard British phrasing for children, pets, accounts and responsibilities.",
+    "pragmatic_note": "'Look after yourself' is a warm way to say goodbye.",
+    "pitfall": null,
+    "examples": [
+      "Could you look after the cat while we're away?",
+      "Who looks after the Leeds accounts?"
+    ],
+    "collocations": [
+      "look after yourself",
+      "look after the kids"
+    ],
+    "wiki": null,
+    "forms": [
+      "looks after",
+      "looked after",
+      "looking after"
+    ]
+  },
+  {
+    "headword": "see to",
+    "register": "AMBER",
+    "us_equivalent": "take care of",
+    "gloss": "Deal with or attend to something that needs doing.",
+    "usage": "Common at home and work; 'I'll see to it' promises action.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Leave the paperwork — I'll see to it.",
+      "Can someone see to the leaking tap?"
+    ],
+    "collocations": [
+      "see to it",
+      "get it seen to"
+    ],
+    "wiki": null,
+    "forms": [
+      "sees to",
+      "saw to",
+      "seen to",
+      "seeing to"
+    ]
+  },
+  {
+    "headword": "sound out",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Informally discover someone's opinion before making a decision.",
+    "usage": "Used at work and socially for testing reactions discreetly.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll sound out the team before we commit.",
+      "Could you sound her out about the move?"
+    ],
+    "collocations": [
+      "sound someone out about"
+    ],
+    "wiki": null,
+    "forms": [
+      "sounds out",
+      "sounded out",
+      "sounding out"
+    ]
+  },
+  {
+    "headword": "chase up",
+    "register": "AMBER",
+    "us_equivalent": "follow up on",
+    "gloss": "Contact someone to remind them to do something they promised.",
+    "usage": "Very common office phrase for invoices, replies and deliveries.",
+    "pragmatic_note": "'Just chasing this up' in an email is a polite nudge, not an accusation.",
+    "pitfall": null,
+    "examples": [
+      "I'll chase up the supplier about the delivery.",
+      "Could you chase up that invoice?"
+    ],
+    "collocations": [
+      "chase up an invoice",
+      "chase someone up"
+    ],
+    "wiki": null,
+    "forms": [
+      "chases up",
+      "chased up",
+      "chasing up"
+    ]
+  },
+  {
+    "headword": "follow up",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Take further action on something, or contact someone again about it.",
+    "usage": "Standard at work, in emails, healthcare and customer service.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll follow up with an email after the call.",
+      "Did anyone follow up on that complaint?"
+    ],
+    "collocations": [
+      "follow up on",
+      "follow up with",
+      "a follow-up email"
+    ],
+    "wiki": null,
+    "forms": [
+      "follows up",
+      "followed up",
+      "following up",
+      "follow-up"
+    ]
+  },
+  {
+    "headword": "run through",
+    "register": "GREEN",
+    "us_equivalent": "go over",
+    "gloss": "Explain or check something quickly from start to finish; rehearse.",
+    "usage": "Common in meetings, training and rehearsals.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Can you run through the main points again?",
+      "Let's have a quick run-through before they arrive."
+    ],
+    "collocations": [
+      "run through the plan",
+      "a quick run-through"
+    ],
+    "wiki": null,
+    "forms": [
+      "runs through",
+      "ran through",
+      "running through",
+      "run-through"
+    ]
+  },
+  {
+    "headword": "talk through",
+    "register": "GREEN",
+    "us_equivalent": "walk through",
+    "gloss": "Explain something step by step, or discuss it fully.",
+    "usage": "Used at work, in healthcare and at home for explaining decisions or processes.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Could you talk me through the figures?",
+      "Let's talk it through over a coffee."
+    ],
+    "collocations": [
+      "talk someone through",
+      "talk it through"
+    ],
+    "wiki": null,
+    "forms": [
+      "talks through",
+      "talked through",
+      "talking through"
+    ]
+  },
+  {
+    "headword": "iron out",
+    "register": "GREEN",
+    "us_equivalent": "work out",
+    "gloss": "Resolve small problems or differences.",
+    "usage": "Common at work for final fixes or settling disagreements.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We just need to iron out a few details.",
+      "They've ironed out their differences."
+    ],
+    "collocations": [
+      "iron out the kinks",
+      "iron out problems"
+    ],
+    "wiki": null,
+    "forms": [
+      "irons out",
+      "ironed out",
+      "ironing out"
+    ]
+  },
+  {
+    "headword": "rule out",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Decide that something is not possible or not suitable.",
+    "usage": "Neutral and used in all registers, including formal writing.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We can't rule out further delays.",
+      "The doctor ruled out anything serious."
+    ],
+    "collocations": [
+      "rule out the possibility",
+      "can't rule out"
+    ],
+    "wiki": null,
+    "forms": [
+      "rules out",
+      "ruled out",
+      "ruling out"
+    ]
+  },
+  {
+    "headword": "bank on",
+    "register": "AMBER",
+    "us_equivalent": "count on",
+    "gloss": "Rely confidently on something happening.",
+    "usage": "Very common, often in the negative as a warning.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I wouldn't bank on the trains running on time.",
+      "We're banking on good weather."
+    ],
+    "collocations": [
+      "wouldn't bank on it",
+      "bank on someone"
+    ],
+    "wiki": null,
+    "forms": [
+      "banks on",
+      "banked on",
+      "banking on"
+    ]
+  },
+  {
+    "headword": "fall through",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Fail to happen, especially an arrangement or deal.",
+    "usage": "Used for house sales, plans and deals.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Our house sale fell through at the last minute.",
+      "If the plan falls through, we'll go to Spain."
+    ],
+    "collocations": [
+      "the deal fell through",
+      "the sale fell through"
+    ],
+    "wiki": null,
+    "forms": [
+      "falls through",
+      "fell through",
+      "fallen through"
+    ]
+  },
+  {
+    "headword": "pull out of",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Withdraw from an agreement, event or activity.",
+    "usage": "Neutral; used in news, business and sport.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Two sponsors have pulled out of the event.",
+      "She pulled out of the race with an injury."
+    ],
+    "collocations": [
+      "pull out of a deal",
+      "pull out at the last minute"
+    ],
+    "wiki": null,
+    "forms": [
+      "pulls out of",
+      "pulled out of",
+      "pulling out of",
+      "pull out"
+    ]
+  },
+  {
+    "headword": "back out",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Withdraw from something you had agreed to do.",
+    "usage": "Common, often with a note of disapproval.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "You can't back out now — we've paid the deposit.",
+      "He backed out at the last minute."
+    ],
+    "collocations": [
+      "back out of",
+      "back out at the last minute"
+    ],
+    "wiki": null,
+    "forms": [
+      "backs out",
+      "backed out",
+      "backing out"
+    ]
+  },
+  {
+    "headword": "carry on",
+    "register": "GREEN",
+    "us_equivalent": "keep going",
+    "gloss": "Continue doing something.",
+    "usage": "Very common British phrase; 'carry on' alone invites someone to continue speaking.",
+    "pragmatic_note": "'Sorry, carry on' is the polite reply after interrupting someone.",
+    "pitfall": null,
+    "examples": [
+      "Sorry, I interrupted — please carry on.",
+      "If you carry on like this, you'll burn out."
+    ],
+    "collocations": [
+      "carry on with",
+      "carry on regardless"
+    ],
+    "wiki": null,
+    "forms": [
+      "carries on",
+      "carried on",
+      "carrying on"
+    ]
+  },
+  {
+    "headword": "get by",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Manage to live or cope with limited money, knowledge or resources.",
+    "usage": "Neutral; used about money, languages and coping.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We get by on one salary.",
+      "My French is enough to get by."
+    ],
+    "collocations": [
+      "just about get by",
+      "get by on"
+    ],
+    "wiki": null,
+    "forms": [
+      "gets by",
+      "got by",
+      "getting by"
+    ]
+  },
+  {
+    "headword": "make do",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Manage with what is available, even though it is not ideal.",
+    "usage": "Common and neutral; reflects a classic British 'make do and mend' attitude.",
+    "pragmatic_note": "'Make do and mend' was a Second World War slogan and still carries a thrifty, nostalgic ring.",
+    "pitfall": null,
+    "examples": [
+      "There's no pasta, so we'll have to make do with rice.",
+      "We made do with a camping stove."
+    ],
+    "collocations": [
+      "make do with",
+      "make do and mend"
+    ],
+    "wiki": null,
+    "forms": [
+      "makes do",
+      "made do",
+      "making do"
+    ]
+  },
+  {
+    "headword": "mind out",
+    "register": "AMBER",
+    "us_equivalent": "watch out",
+    "gloss": "Be careful; move out of the way.",
+    "usage": "Spoken warning; often 'mind out!' to someone in your path.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'watch out'; 'mind out' is distinctly British.",
+    "examples": [
+      "Mind out, the floor's wet.",
+      "Mind out of the way, please!"
+    ],
+    "collocations": [
+      "mind out of the way",
+      "mind out for"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "budge up",
+    "register": "RED",
+    "us_equivalent": "scoot over",
+    "gloss": "Move along to make room for someone to sit.",
+    "usage": "Friendly, casual request on sofas, benches and in cars.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Budge up so your sister can sit down.",
+      "Could you budge up a bit?"
+    ],
+    "collocations": [
+      "budge up a bit"
+    ],
+    "wiki": null,
+    "forms": [
+      "budged up"
+    ]
+  },
+  {
+    "headword": "shove over",
+    "register": "RED",
+    "us_equivalent": "scoot over",
+    "gloss": "Move along to make space; also 'shove up'.",
+    "usage": "Casual; a bit more brusque than 'budge up'.",
+    "pragmatic_note": null,
+    "pitfall": "'Shove' also means push roughly, so keep it for friends and family.",
+    "examples": [
+      "Shove over, there's room for one more.",
+      "Can you shove up a bit?"
+    ],
+    "collocations": [
+      "shove up"
+    ],
+    "wiki": null,
+    "forms": [
+      "shove up"
+    ]
+  },
+  {
+    "headword": "hang on",
+    "register": "AMBER",
+    "us_equivalent": "hold on / wait",
+    "gloss": "Wait for a short time; or stop because you have noticed something.",
+    "usage": "Extremely common in speech and on the phone; 'hang on a sec'.",
+    "pragmatic_note": "'Hang on a minute…' can also signal objection or doubt.",
+    "pitfall": null,
+    "examples": [
+      "Hang on, I'll just get my coat.",
+      "Hang on a minute — that's not what you said yesterday."
+    ],
+    "collocations": [
+      "hang on a sec",
+      "hang on a minute"
+    ],
+    "wiki": null,
+    "forms": [
+      "hanging on",
+      "hung on"
+    ]
+  },
+  {
+    "headword": "hold on",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Wait briefly, especially on the phone; or grip something tightly.",
+    "usage": "Slightly more neutral than 'hang on'; fine with customers.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Hold on, I'll put you through.",
+      "Hold on tight, the bus is moving."
+    ],
+    "collocations": [
+      "hold on a moment",
+      "hold on tight"
+    ],
+    "wiki": null,
+    "forms": [
+      "holds on",
+      "held on",
+      "holding on"
+    ]
+  },
+  {
+    "headword": "cheers then",
+    "register": "RED",
+    "us_equivalent": "bye then / thanks",
+    "gloss": "Friendly 'thanks and goodbye' at the end of an exchange.",
+    "usage": "Ending a chat, a phone call or a shop visit, mainly in informal speech.",
+    "pragmatic_note": "'Cheers' as thanks or goodbye is extremely common but sounds casual in formal settings.",
+    "pitfall": "Not only a drinking toast: in Britain 'cheers' commonly means 'thanks'.",
+    "examples": [
+      "Right, cheers then, see you Thursday.",
+      "Cheers then — have a good weekend."
+    ],
+    "collocations": [
+      "cheers, mate",
+      "cheers for that"
+    ],
+    "wiki": null,
+    "forms": [
+      "cheers"
+    ]
+  },
+  {
+    "headword": "you alright?",
+    "register": "RED",
+    "us_equivalent": "how are you? / how's it going?",
+    "gloss": "Casual greeting meaning 'hello, how are you?', not concern.",
+    "usage": "Ubiquitous greeting in England, especially in the south and Midlands.",
+    "pragmatic_note": "A simple 'Yeah, you?' is the expected reply; no long answer is wanted.",
+    "pitfall": "Don't assume the person thinks you look unwell; it's just 'hello'.",
+    "examples": [
+      "You alright? Good weekend?",
+      "Alright, Tom? Yeah, not bad, you?"
+    ],
+    "collocations": [
+      "alright?",
+      "you alright, mate?"
+    ],
+    "wiki": null,
+    "forms": [
+      "alright?",
+      "all right?"
+    ]
+  },
+  {
+    "headword": "I'm not bothered",
+    "register": "AMBER",
+    "us_equivalent": "I don't care",
+    "gloss": "I don't mind; it makes no difference to me.",
+    "usage": "Very common reply to choices; casual.",
+    "pragmatic_note": "Tone matters: said flatly it can sound dismissive or sulky.",
+    "pitfall": null,
+    "examples": [
+      "Honestly, I'm not bothered where we eat.",
+      "I'm not bothered either way."
+    ],
+    "collocations": [
+      "not bothered either way"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "go on then",
+    "register": "AMBER",
+    "us_equivalent": "sure, why not",
+    "gloss": "Agreeing to an offer, often after mild hesitation.",
+    "usage": "Classic reply to offers of food, drink or a treat.",
+    "pragmatic_note": "It signals you were tempted but didn't want to seem greedy.",
+    "pitfall": null,
+    "examples": [
+      "'Another biscuit?' 'Go on then.'",
+      "Go on then, just a small one."
+    ],
+    "collocations": [
+      "oh, go on then"
+    ],
+    "wiki": null,
+    "forms": [
+      "go on, then"
+    ]
+  },
+  {
+    "headword": "you're joking",
+    "register": "AMBER",
+    "us_equivalent": "you're kidding",
+    "gloss": "Expression of surprise or disbelief, usually at bad news.",
+    "usage": "Common spoken reaction; also 'you're joking!' with dismay.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "You're joking — the train's cancelled again?",
+      "She's leaving? You're joking!"
+    ],
+    "collocations": [
+      "you're joking, right?",
+      "you must be joking"
+    ],
+    "wiki": null,
+    "forms": [
+      "you must be joking"
+    ]
+  },
+  {
+    "headword": "bless you",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Said when someone sneezes; also a warm response to kindness.",
+    "usage": "Universal after a sneeze; 'aw, bless' or 'bless him' expresses affection.",
+    "pragmatic_note": "'Bless him' can be fond or faintly patronising.",
+    "pitfall": null,
+    "examples": [
+      "Bless you! Have you got a cold?",
+      "You brought me tea? Bless you."
+    ],
+    "collocations": [
+      "bless him",
+      "aw, bless"
+    ],
+    "wiki": null,
+    "forms": [
+      "bless",
+      "bless him",
+      "bless her"
+    ]
+  },
+  {
+    "headword": "mind the gap",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Warning to take care stepping over the space between train and platform.",
+    "usage": "Famous recorded announcement on the London Underground and other rail lines.",
+    "pragmatic_note": "A recognisable symbol of London, often seen on souvenirs.",
+    "pitfall": null,
+    "examples": [
+      "Please mind the gap between the train and the platform.",
+      "Mind the gap — it's quite wide here."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "have a go",
+    "register": "AMBER",
+    "us_equivalent": "give it a try",
+    "gloss": "Try doing something; or, 'have a go at someone', criticise them angrily.",
+    "usage": "Encouraging in the first sense; the second is common and casual.",
+    "pragmatic_note": "'He had a go at me' means he told you off, not that he tried something.",
+    "pitfall": null,
+    "examples": [
+      "Here, you have a go.",
+      "My boss had a go at me for being late."
+    ],
+    "collocations": [
+      "have a go at",
+      "give it a go"
+    ],
+    "wiki": null,
+    "forms": [
+      "had a go",
+      "having a go"
+    ]
+  },
+  {
+    "headword": "turn up",
+    "register": "AMBER",
+    "us_equivalent": "show up",
+    "gloss": "Arrive or appear, often unexpectedly or late; also, be found.",
+    "usage": "Very common for arrivals at events and lost things reappearing.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Only six people turned up to the meeting.",
+      "Don't worry, your keys will turn up."
+    ],
+    "collocations": [
+      "turn up late",
+      "turn up unannounced"
+    ],
+    "wiki": null,
+    "forms": [
+      "turns up",
+      "turned up",
+      "turning up"
+    ]
+  },
+  {
+    "headword": "turn down",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Refuse an offer or request; or reduce the volume or heat.",
+    "usage": "Neutral in both senses.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She turned down the job in Manchester.",
+      "Could you turn the music down a bit?"
+    ],
+    "collocations": [
+      "turn down an offer",
+      "turn down the heating"
+    ],
+    "wiki": null,
+    "forms": [
+      "turns down",
+      "turned down",
+      "turning down"
+    ]
+  },
+  {
+    "headword": "put off",
+    "register": "GREEN",
+    "us_equivalent": "postpone",
+    "gloss": "Postpone something; or make someone dislike or not want something.",
+    "usage": "Both senses are very common in everyday speech and at work.",
+    "pragmatic_note": null,
+    "pitfall": "'I was put off' means discouraged, not delayed.",
+    "examples": [
+      "Stop putting off that dentist appointment.",
+      "The smell really put me off my food."
+    ],
+    "collocations": [
+      "put off a decision",
+      "put someone off"
+    ],
+    "wiki": null,
+    "forms": [
+      "puts off",
+      "putting off",
+      "off-putting"
+    ]
+  },
+  {
+    "headword": "call off",
+    "register": "GREEN",
+    "us_equivalent": "cancel",
+    "gloss": "Cancel an arranged event or plan.",
+    "usage": "Neutral; used for matches, strikes, meetings and weddings.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The match was called off because of the rain.",
+      "They've called off the strike."
+    ],
+    "collocations": [
+      "call off the search",
+      "call it off"
+    ],
+    "wiki": null,
+    "forms": [
+      "calls off",
+      "called off",
+      "calling off"
+    ]
+  },
+  {
+    "headword": "put back",
+    "register": "GREEN",
+    "us_equivalent": "push back",
+    "gloss": "Postpone to a later time; or return something to its place.",
+    "usage": "Common British phrase for rescheduling.",
+    "pragmatic_note": null,
+    "pitfall": "'Bring forward' is the opposite: move to an earlier time.",
+    "examples": [
+      "The launch has been put back to March.",
+      "Can we put the meeting back an hour?"
+    ],
+    "collocations": [
+      "put back a week",
+      "put it back"
+    ],
+    "wiki": null,
+    "forms": [
+      "puts back",
+      "putting back"
+    ]
+  },
+  {
+    "headword": "bring forward",
+    "register": "GREEN",
+    "us_equivalent": "move up",
+    "gloss": "Move an event to an earlier date or time; or propose an idea.",
+    "usage": "Standard at work for rescheduling.",
+    "pragmatic_note": null,
+    "pitfall": "Americans often say 'move up'; Britons say 'bring forward'.",
+    "examples": [
+      "Can we bring the meeting forward to ten?",
+      "The deadline's been brought forward."
+    ],
+    "collocations": [
+      "bring forward a date",
+      "bring forward proposals"
+    ],
+    "wiki": null,
+    "forms": [
+      "brings forward",
+      "brought forward",
+      "bringing forward"
+    ]
+  },
+  {
+    "headword": "come round",
+    "register": "AMBER",
+    "us_equivalent": "come over",
+    "gloss": "Visit someone's home; regain consciousness; or change your mind to agree.",
+    "usage": "Very common in all three senses.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Do you want to come round for dinner on Friday?",
+      "She'll come round to the idea eventually."
+    ],
+    "collocations": [
+      "come round for dinner",
+      "come round to the idea"
+    ],
+    "wiki": null,
+    "forms": [
+      "comes round",
+      "came round",
+      "coming round"
+    ]
+  },
+  {
+    "headword": "come across",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Find by chance; or give a particular impression.",
+    "usage": "Common in both senses at work and socially.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I came across an old photo of us.",
+      "He comes across as quite shy."
+    ],
+    "collocations": [
+      "come across as",
+      "come across well"
+    ],
+    "wiki": null,
+    "forms": [
+      "comes across",
+      "came across",
+      "coming across"
+    ]
+  },
+  {
+    "headword": "come up with",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Think of an idea, plan or answer.",
+    "usage": "Neutral and very common at work and in daily life.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We need to come up with a better name.",
+      "Who came up with this idea?"
+    ],
+    "collocations": [
+      "come up with an idea",
+      "come up with a plan"
+    ],
+    "wiki": null,
+    "forms": [
+      "comes up with",
+      "came up with",
+      "coming up with"
+    ]
+  },
+  {
+    "headword": "crop up",
+    "register": "AMBER",
+    "us_equivalent": "come up",
+    "gloss": "Happen or appear unexpectedly.",
+    "usage": "Common for unexpected problems or events.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Something's cropped up, so I'll be late.",
+      "His name keeps cropping up."
+    ],
+    "collocations": [
+      "something's cropped up"
+    ],
+    "wiki": null,
+    "forms": [
+      "crops up",
+      "cropped up",
+      "cropping up"
+    ]
+  },
+  {
+    "headword": "bring up",
+    "register": "GREEN",
+    "us_equivalent": "raise",
+    "gloss": "Mention a subject for discussion; or raise a child.",
+    "usage": "Neutral in both senses.",
+    "pragmatic_note": null,
+    "pitfall": "In British English 'bring up' a child is the usual phrase; 'raise' sounds American.",
+    "examples": [
+      "I'll bring it up at the next meeting.",
+      "She was brought up in Glasgow."
+    ],
+    "collocations": [
+      "bring up a subject",
+      "be brought up in"
+    ],
+    "wiki": null,
+    "forms": [
+      "brings up",
+      "brought up",
+      "bringing up"
+    ]
+  },
+  {
+    "headword": "take on",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Accept work or responsibility; employ someone.",
+    "usage": "Neutral at work.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I can't take on any more work this month.",
+      "They're taking on three new staff."
+    ],
+    "collocations": [
+      "take on too much",
+      "take on staff"
+    ],
+    "wiki": null,
+    "forms": [
+      "takes on",
+      "took on",
+      "taken on",
+      "taking on"
+    ]
+  },
+  {
+    "headword": "take up",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Start a new hobby; occupy time or space; or accept an offer.",
+    "usage": "Neutral and very common.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I've taken up running.",
+      "This sofa takes up half the room."
+    ],
+    "collocations": [
+      "take up a hobby",
+      "take up space",
+      "take someone up on"
+    ],
+    "wiki": null,
+    "forms": [
+      "takes up",
+      "took up",
+      "taken up",
+      "taking up"
+    ]
+  },
+  {
+    "headword": "hand in",
+    "register": "GREEN",
+    "us_equivalent": "turn in",
+    "gloss": "Give work or an item to someone in authority.",
+    "usage": "Used for homework, essays, notice and lost property.",
+    "pragmatic_note": null,
+    "pitfall": "Americans 'turn in' assignments; Britons 'hand in'.",
+    "examples": [
+      "Essays must be handed in by Friday.",
+      "He's handed in his notice."
+    ],
+    "collocations": [
+      "hand in your notice",
+      "hand in an essay"
+    ],
+    "wiki": null,
+    "forms": [
+      "hands in",
+      "handed in",
+      "handing in"
+    ]
+  },
+  {
+    "headword": "fill in",
+    "register": "GREEN",
+    "us_equivalent": "fill out",
+    "gloss": "Complete a form; or give someone missing information.",
+    "usage": "Standard for forms; 'fill me in' means update me.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'fill out' a form; Britons usually say 'fill in'.",
+    "examples": [
+      "Could you fill in this form, please?",
+      "I missed the meeting — can you fill me in?"
+    ],
+    "collocations": [
+      "fill in a form",
+      "fill someone in"
+    ],
+    "wiki": null,
+    "forms": [
+      "fills in",
+      "filled in",
+      "filling in"
+    ]
+  },
+  {
+    "headword": "fill in for",
+    "register": "GREEN",
+    "us_equivalent": "cover for",
+    "gloss": "Do someone's job temporarily while they are absent.",
+    "usage": "Common at work.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Can you fill in for me on Monday?",
+      "I'm filling in for Sarah while she's on leave."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "filled in for",
+      "filling in for"
+    ]
+  },
+  {
+    "headword": "set off",
+    "register": "GREEN",
+    "us_equivalent": "head out",
+    "gloss": "Start a journey; or cause an alarm or reaction.",
+    "usage": "Very common British phrase for departures.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We need to set off by seven to beat the traffic.",
+      "Burnt toast set off the smoke alarm."
+    ],
+    "collocations": [
+      "set off early",
+      "set off the alarm"
+    ],
+    "wiki": null,
+    "forms": [
+      "sets off",
+      "setting off"
+    ]
+  },
+  {
+    "headword": "head off",
+    "register": "AMBER",
+    "us_equivalent": "take off",
+    "gloss": "Leave to go somewhere.",
+    "usage": "Casual way to say you are leaving.",
+    "pragmatic_note": null,
+    "pitfall": "American 'take off' (leave) is understood but less usual in the UK.",
+    "examples": [
+      "I'm going to head off now — see you tomorrow.",
+      "They headed off to the coast."
+    ],
+    "collocations": [
+      "head off home"
+    ],
+    "wiki": null,
+    "forms": [
+      "heads off",
+      "headed off",
+      "heading off"
+    ]
+  },
+  {
+    "headword": "get back to",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Reply to someone later with information.",
+    "usage": "Standard and polite at work.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll get back to you by the end of the day.",
+      "Sorry it's taken me a while to get back to you."
+    ],
+    "collocations": [
+      "get back to you on that"
+    ],
+    "wiki": null,
+    "forms": [
+      "got back to",
+      "getting back to"
+    ]
+  },
+  {
+    "headword": "get through",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Reach someone by phone; survive a difficult time; or finish something.",
+    "usage": "Common in all senses.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I couldn't get through to the surgery this morning.",
+      "We'll get through this together."
+    ],
+    "collocations": [
+      "get through to",
+      "get through a list"
+    ],
+    "wiki": null,
+    "forms": [
+      "gets through",
+      "got through",
+      "getting through"
+    ]
+  },
+  {
+    "headword": "get over",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Recover from an illness, shock or disappointment.",
+    "usage": "Neutral and very common.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "It took me weeks to get over that cold.",
+      "She still hasn't got over the break-up."
+    ],
+    "collocations": [
+      "get over it",
+      "can't get over"
+    ],
+    "wiki": null,
+    "forms": [
+      "gets over",
+      "got over",
+      "getting over"
+    ]
+  },
+  {
+    "headword": "get up to",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Do something, especially something mischievous; 'what have you been up to?'.",
+    "usage": "Very common in friendly catch-ups.",
+    "pragmatic_note": null,
+    "pitfall": "'What have you been up to?' just means 'what's new?', not suspicion.",
+    "examples": [
+      "What did you get up to at the weekend?",
+      "The kids are quiet — what are they up to?"
+    ],
+    "collocations": [
+      "what have you been up to"
+    ],
+    "wiki": null,
+    "forms": [
+      "got up to",
+      "getting up to",
+      "up to"
+    ]
+  },
+  {
+    "headword": "catch up",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Meet to exchange news; or reach the same level as others.",
+    "usage": "Very common socially and at work; 'a catch-up' is an informal meeting.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We must catch up over a drink soon.",
+      "I've got loads of emails to catch up on."
+    ],
+    "collocations": [
+      "catch up on",
+      "have a catch-up"
+    ],
+    "wiki": null,
+    "forms": [
+      "catches up",
+      "caught up",
+      "catching up",
+      "catch-up"
+    ]
+  },
+  {
+    "headword": "hold up",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Delay someone or something.",
+    "usage": "Common for traffic and processes; 'a hold-up' is a delay.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Sorry I'm late, I got held up at work.",
+      "What's the hold-up?"
+    ],
+    "collocations": [
+      "get held up",
+      "a hold-up"
+    ],
+    "wiki": null,
+    "forms": [
+      "holds up",
+      "held up",
+      "holding up",
+      "hold-up"
+    ]
+  },
+  {
+    "headword": "look into",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Investigate or examine a matter.",
+    "usage": "Standard and polite at work and in customer service.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll look into it and get back to you.",
+      "We're looking into the complaint."
+    ],
+    "collocations": [
+      "look into it",
+      "look into the matter"
+    ],
+    "wiki": null,
+    "forms": [
+      "looks into",
+      "looked into",
+      "looking into"
+    ]
+  },
+  {
+    "headword": "look round",
+    "register": "AMBER",
+    "us_equivalent": "look around",
+    "gloss": "Visit and walk around a place to see it.",
+    "usage": "Used for houses, shops, towns and schools.",
+    "pragmatic_note": null,
+    "pitfall": "British English uses 'round' where Americans say 'around'.",
+    "examples": [
+      "We're looking round a flat on Saturday.",
+      "Do you mind if I have a look round?"
+    ],
+    "collocations": [
+      "have a look round",
+      "look round the shops"
+    ],
+    "wiki": null,
+    "forms": [
+      "looks round",
+      "looked round",
+      "looking round"
+    ]
+  },
+  {
+    "headword": "look in on",
+    "register": "AMBER",
+    "us_equivalent": "check in on",
+    "gloss": "Visit someone briefly to check they are all right.",
+    "usage": "Common for elderly relatives, neighbours and the unwell.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Could you look in on Mum while I'm away?",
+      "I'll look in on him after work."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "looked in on",
+      "looking in on"
+    ]
+  },
+  {
+    "headword": "drop in",
+    "register": "AMBER",
+    "us_equivalent": "drop by / stop by",
+    "gloss": "Make a short, casual visit, often unplanned.",
+    "usage": "Common for homes and informal events; a 'drop-in' needs no appointment.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Drop in any time you're passing.",
+      "The clinic is drop-in on Tuesdays."
+    ],
+    "collocations": [
+      "drop in on",
+      "a drop-in session"
+    ],
+    "wiki": null,
+    "forms": [
+      "drops in",
+      "dropped in",
+      "dropping in",
+      "drop-in"
+    ]
+  },
+  {
+    "headword": "drop off",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Take someone or something to a place and leave them; or fall asleep.",
+    "usage": "Very common for lifts, parcels and dozing.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Can you drop me off at the station?",
+      "I dropped off in front of the telly."
+    ],
+    "collocations": [
+      "drop someone off",
+      "drop off to sleep"
+    ],
+    "wiki": null,
+    "forms": [
+      "drops off",
+      "dropped off",
+      "dropping off"
+    ]
+  },
+  {
+    "headword": "pick up",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Collect someone or something; or learn something informally.",
+    "usage": "Very common in both senses.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll pick you up at eight.",
+      "You'll pick up the language quickly."
+    ],
+    "collocations": [
+      "pick someone up",
+      "pick up a cold"
+    ],
+    "wiki": null,
+    "forms": [
+      "picks up",
+      "picked up",
+      "picking up"
+    ]
+  },
+  {
+    "headword": "give someone a lift",
+    "register": "AMBER",
+    "us_equivalent": "give someone a ride",
+    "gloss": "Drive someone somewhere in your car.",
+    "usage": "Standard British phrase; 'lift' is the British word.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'ride'; in the UK a 'lift' is also an elevator.",
+    "examples": [
+      "Do you want a lift to the station?",
+      "Could you give me a lift home?"
+    ],
+    "collocations": [
+      "need a lift",
+      "offer a lift"
+    ],
+    "wiki": null,
+    "forms": [
+      "gave me a lift",
+      "a lift"
+    ]
+  },
+  {
+    "headword": "work out",
+    "register": "GREEN",
+    "us_equivalent": "figure out",
+    "gloss": "Find the answer or solution; or turn out well; or exercise.",
+    "usage": "Very common; Britons prefer 'work out' to American 'figure out'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I can't work out how to change the settings.",
+      "It all worked out in the end."
+    ],
+    "collocations": [
+      "work out a solution",
+      "work out well"
+    ],
+    "wiki": null,
+    "forms": [
+      "works out",
+      "worked out",
+      "working out"
+    ]
+  },
+  {
+    "headword": "point out",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Draw attention to a fact or thing.",
+    "usage": "Neutral; often used tactfully to raise a problem.",
+    "pragmatic_note": "'I'd just point out that…' is a polite way to disagree.",
+    "pitfall": null,
+    "examples": [
+      "As Sarah pointed out, the costs have doubled.",
+      "Thanks for pointing that out."
+    ],
+    "collocations": [
+      "point out a mistake"
+    ],
+    "wiki": null,
+    "forms": [
+      "points out",
+      "pointed out",
+      "pointing out"
+    ]
+  },
+  {
+    "headword": "go over",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Examine or check something carefully; or review.",
+    "usage": "Common at work and in study.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Let's go over the figures again.",
+      "Could you go over this before I send it?"
+    ],
+    "collocations": [
+      "go over the details"
+    ],
+    "wiki": null,
+    "forms": [
+      "goes over",
+      "went over",
+      "gone over",
+      "going over"
+    ]
+  },
+  {
+    "headword": "go off",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Of food, become bad; of alarms, ring; or stop liking someone or something.",
+    "usage": "Very common British phrase, especially for food.",
+    "pragmatic_note": null,
+    "pitfall": "'The milk's gone off' means it has turned sour, not that it left.",
+    "examples": [
+      "This milk's gone off.",
+      "I've gone off coffee lately."
+    ],
+    "collocations": [
+      "go off someone",
+      "the alarm went off"
+    ],
+    "wiki": null,
+    "forms": [
+      "goes off",
+      "went off",
+      "gone off",
+      "going off"
+    ]
+  },
+  {
+    "headword": "go round",
+    "register": "AMBER",
+    "us_equivalent": "go around",
+    "gloss": "Be enough for everyone; or visit someone's home.",
+    "usage": "Common at home and with hosts.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Is there enough cake to go round?",
+      "I'm going round to Jo's later."
+    ],
+    "collocations": [
+      "enough to go round"
+    ],
+    "wiki": null,
+    "forms": [
+      "goes round",
+      "went round",
+      "going round"
+    ]
+  },
+  {
+    "headword": "run out of",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Use up all of something so none is left.",
+    "usage": "Neutral and very common.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We've run out of milk.",
+      "I'm running out of time."
+    ],
+    "collocations": [
+      "run out of time",
+      "run out of money"
+    ],
+    "wiki": null,
+    "forms": [
+      "runs out of",
+      "ran out of",
+      "running out of",
+      "run out"
+    ]
+  },
+  {
+    "headword": "bump into",
+    "register": "AMBER",
+    "us_equivalent": "run into",
+    "gloss": "Meet someone you know by chance.",
+    "usage": "Very common in conversation.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I bumped into your brother at the station.",
+      "Fancy bumping into you here!"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "bumps into",
+      "bumped into",
+      "bumping into"
+    ]
+  },
+  {
+    "headword": "put up",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Let someone stay in your home; or raise prices.",
+    "usage": "Common in both senses.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We can put you up for the night.",
+      "They've put the rent up again."
+    ],
+    "collocations": [
+      "put someone up",
+      "put prices up"
+    ],
+    "wiki": null,
+    "forms": [
+      "puts up",
+      "putting up"
+    ]
+  },
+  {
+    "headword": "put the kettle on",
+    "register": "AMBER",
+    "us_equivalent": "make some tea",
+    "gloss": "Start boiling water to make tea or coffee.",
+    "usage": "A deeply British reflex in moments of welcome, crisis or boredom.",
+    "pragmatic_note": "Offering to put the kettle on signals hospitality and comfort.",
+    "pitfall": null,
+    "examples": [
+      "I'll put the kettle on — tea or coffee?",
+      "Shall I put the kettle on?"
+    ],
+    "collocations": [
+      "stick the kettle on",
+      "pop the kettle on"
+    ],
+    "wiki": null,
+    "forms": [
+      "stick the kettle on",
+      "pop the kettle on"
+    ]
+  },
+  {
+    "headword": "knock off",
+    "register": "RED",
+    "us_equivalent": "get off work",
+    "gloss": "Finish work for the day.",
+    "usage": "Casual; 'what time do you knock off?'.",
+    "pragmatic_note": null,
+    "pitfall": "'A knock-off' is also a cheap copy of a branded product.",
+    "examples": [
+      "What time do you knock off on Fridays?",
+      "Let's knock off early today."
+    ],
+    "collocations": [
+      "knock off early",
+      "knock-off time"
+    ],
+    "wiki": null,
+    "forms": [
+      "knocks off",
+      "knocked off",
+      "knocking off"
+    ]
+  },
+  {
+    "headword": "clock off",
+    "register": "AMBER",
+    "us_equivalent": "clock out",
+    "gloss": "Officially finish your working day.",
+    "usage": "Common in workplaces with shifts; also used loosely for any finish.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I clock off at six.",
+      "He clocks off and forgets about work completely."
+    ],
+    "collocations": [
+      "clock on",
+      "clock in"
+    ],
+    "wiki": null,
+    "forms": [
+      "clocks off",
+      "clocked off",
+      "clocking off"
+    ]
+  },
+  {
+    "headword": "rustle up",
+    "register": "AMBER",
+    "us_equivalent": "whip up",
+    "gloss": "Quickly make food or find something from what is available.",
+    "usage": "Common in cooking and getting things together at short notice.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I can rustle up some pasta if you're hungry.",
+      "Can you rustle up a few volunteers?"
+    ],
+    "collocations": [
+      "rustle up a meal"
+    ],
+    "wiki": null,
+    "forms": [
+      "rustles up",
+      "rustled up",
+      "rustling up"
+    ]
+  },
+  {
+    "headword": "throw together",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Make something quickly and without much care.",
+    "usage": "Used of meals, plans or presentations.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I threw together a quick salad.",
+      "The slides were thrown together last night."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "throws together",
+      "threw together",
+      "thrown together"
+    ]
+  },
+  {
+    "headword": "cut down on",
+    "register": "GREEN",
+    "us_equivalent": "cut back on",
+    "gloss": "Reduce the amount of something you use or do.",
+    "usage": "Common for diet, spending and habits.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm trying to cut down on sugar.",
+      "We need to cut down on printing."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "cuts down on",
+      "cutting down on"
+    ]
+  },
+  {
+    "headword": "cut back",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Reduce spending or an activity.",
+    "usage": "Neutral in business and personal finance; 'cutbacks' are reductions.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We've had to cut back on holidays this year.",
+      "The council is cutting back services."
+    ],
+    "collocations": [
+      "cut back on",
+      "cutbacks"
+    ],
+    "wiki": null,
+    "forms": [
+      "cuts back",
+      "cutting back",
+      "cutbacks"
+    ]
+  },
+  {
+    "headword": "drag on",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Continue for longer than necessary or wanted.",
+    "usage": "Used about meetings, disputes and winters.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The meeting dragged on until seven.",
+      "The dispute has dragged on for months."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "drags on",
+      "dragged on",
+      "dragging on"
+    ]
+  },
+  {
+    "headword": "wash up",
+    "register": "AMBER",
+    "us_equivalent": "do the dishes",
+    "gloss": "Wash the plates, pans and cutlery after a meal.",
+    "usage": "Everyday British domestic phrase; 'the washing-up' is the dirty dishes.",
+    "pragmatic_note": "Offering to wash up after dinner at someone's home is good manners.",
+    "pitfall": "In American English 'wash up' means wash your hands and face.",
+    "examples": [
+      "I'll wash up if you dry.",
+      "Whose turn is it to do the washing-up?"
+    ],
+    "collocations": [
+      "do the washing-up",
+      "washing-up liquid"
+    ],
+    "wiki": null,
+    "forms": [
+      "washes up",
+      "washed up",
+      "washing up",
+      "washing-up"
+    ]
+  },
+  {
+    "headword": "do up",
+    "register": "AMBER",
+    "us_equivalent": "fix up",
+    "gloss": "Fasten clothing; or renovate a house or room.",
+    "usage": "Common in both senses.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Do your coat up, it's freezing.",
+      "They're doing up an old farmhouse."
+    ],
+    "collocations": [
+      "do up a house",
+      "do up your buttons"
+    ],
+    "wiki": null,
+    "forms": [
+      "does up",
+      "did up",
+      "done up",
+      "doing up"
+    ]
+  },
+  {
+    "headword": "do without",
+    "register": "GREEN",
+    "us_equivalent": "go without",
+    "gloss": "Manage without something.",
+    "usage": "Common; 'I could do without this' means it is unwelcome.",
+    "pragmatic_note": "'I could do without that' is a mild way of saying something is a nuisance.",
+    "pitfall": null,
+    "examples": [
+      "We'll have to do without the car this week.",
+      "I could do without another meeting today."
+    ],
+    "collocations": [
+      "could do without"
+    ],
+    "wiki": null,
+    "forms": [
+      "did without",
+      "doing without"
+    ]
+  },
+  {
+    "headword": "mess about",
+    "register": "AMBER",
+    "us_equivalent": "mess around",
+    "gloss": "Behave in a silly way; or waste time doing unimportant things.",
+    "usage": "Common; 'stop messing about' is a mild telling-off.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Stop messing about and get dressed.",
+      "I spent Sunday just messing about in the garden."
+    ],
+    "collocations": [
+      "mess about with",
+      "stop messing about"
+    ],
+    "wiki": null,
+    "forms": [
+      "messes about",
+      "messed about",
+      "messing about",
+      "mess around",
+      "messing around"
+    ]
+  },
+  {
+    "headword": "potter about",
+    "register": "AMBER",
+    "us_equivalent": "putter around",
+    "gloss": "Spend time doing small, pleasant jobs in a relaxed way.",
+    "usage": "Fondly used about gardens, sheds and lazy weekends.",
+    "pragmatic_note": "It has a cosy, contented feel, often associated with retirement.",
+    "pitfall": "American 'putter' is the equivalent; Britons say 'potter'.",
+    "examples": [
+      "Dad's happy pottering about in the garden.",
+      "I spent the morning pottering around the house."
+    ],
+    "collocations": [
+      "potter around"
+    ],
+    "wiki": null,
+    "forms": [
+      "potters about",
+      "pottered about",
+      "pottering about",
+      "potter around",
+      "pottering around"
+    ]
+  },
+  {
+    "headword": "hang about",
+    "register": "AMBER",
+    "us_equivalent": "hang around",
+    "gloss": "Wait or spend time somewhere without doing much.",
+    "usage": "Common; 'hang about!' also means 'wait a moment'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We hung about for an hour, but nobody came.",
+      "Hang about — isn't that your car?"
+    ],
+    "collocations": [
+      "hang about outside"
+    ],
+    "wiki": null,
+    "forms": [
+      "hangs about",
+      "hung about",
+      "hanging about",
+      "hang around"
+    ]
+  },
+  {
+    "headword": "swot up",
+    "register": "RED",
+    "us_equivalent": "cram",
+    "gloss": "Study a subject intensively, especially before an exam or meeting.",
+    "usage": "Informal and school-flavoured; a 'swot' is a studious pupil.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I need to swot up on the company before the interview.",
+      "She's swotting up for her finals."
+    ],
+    "collocations": [
+      "swot up on"
+    ],
+    "wiki": null,
+    "forms": [
+      "swots up",
+      "swotted up",
+      "swotting up"
+    ]
+  },
+  {
+    "headword": "brush up on",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Improve or refresh a skill or knowledge you used to have.",
+    "usage": "Neutral; common for languages and skills.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I must brush up on my French before the trip.",
+      "It's worth brushing up on Excel."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "brushes up on",
+      "brushed up on",
+      "brushing up on"
+    ]
+  },
+  {
+    "headword": "rope in",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Persuade someone to help, often reluctantly.",
+    "usage": "Common for volunteering, events and favours.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I got roped into running the raffle.",
+      "Can we rope in a few more helpers?"
+    ],
+    "collocations": [
+      "rope someone into"
+    ],
+    "wiki": null,
+    "forms": [
+      "ropes in",
+      "roped in",
+      "roping in",
+      "roped into"
+    ]
+  },
+  {
+    "headword": "talk round",
+    "register": "AMBER",
+    "us_equivalent": "talk around",
+    "gloss": "Persuade someone to agree after initial reluctance.",
+    "usage": "Common British phrase.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She didn't want to come, but I talked her round.",
+      "Can you talk him round?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "talked round",
+      "talking round"
+    ]
+  },
+  {
+    "headword": "ring round",
+    "register": "AMBER",
+    "us_equivalent": "call around",
+    "gloss": "Telephone several people or places, one after another.",
+    "usage": "Used for quotes, availability and organising events.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll ring round a few garages for quotes.",
+      "Can you ring round and see who's free?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "rang round",
+      "ringing round"
+    ]
+  },
+  {
+    "headword": "put through",
+    "register": "GREEN",
+    "us_equivalent": "transfer / connect",
+    "gloss": "Connect a phone caller to another person.",
+    "usage": "Standard on switchboards and reception desks.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Could you put me through to accounts, please?",
+      "I'll put you through now."
+    ],
+    "collocations": [
+      "put someone through to"
+    ],
+    "wiki": null,
+    "forms": [
+      "puts through",
+      "putting through"
+    ]
+  },
+  {
+    "headword": "own up",
+    "register": "AMBER",
+    "us_equivalent": "fess up",
+    "gloss": "Admit that you have done something wrong.",
+    "usage": "Common at school, at home and at work.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Nobody owned up to breaking the window.",
+      "It's better to own up early."
+    ],
+    "collocations": [
+      "own up to"
+    ],
+    "wiki": null,
+    "forms": [
+      "owns up",
+      "owned up",
+      "owning up"
+    ]
+  },
+  {
+    "headword": "back down",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Withdraw a claim or demand after opposition.",
+    "usage": "Neutral; common in news and negotiations.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The council backed down after the protests.",
+      "Neither side will back down."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "backs down",
+      "backed down",
+      "backing down"
+    ]
+  },
+  {
+    "headword": "stand in for",
+    "register": "GREEN",
+    "us_equivalent": "sub for",
+    "gloss": "Take someone's place temporarily.",
+    "usage": "Neutral at work and events.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm standing in for the head of department today.",
+      "Could you stand in for me at the meeting?"
+    ],
+    "collocations": [
+      "a stand-in"
+    ],
+    "wiki": null,
+    "forms": [
+      "stands in for",
+      "stood in for",
+      "standing in for",
+      "stand-in"
+    ]
+  },
+  {
+    "headword": "stick up for",
+    "register": "AMBER",
+    "us_equivalent": "stand up for",
+    "gloss": "Defend or support someone, especially when criticised.",
+    "usage": "Common and warm; slightly more casual than 'stand up for'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Thanks for sticking up for me in there.",
+      "You need to stick up for yourself."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "sticks up for",
+      "stuck up for",
+      "sticking up for"
+    ]
+  },
+  {
+    "headword": "stick around",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Stay in a place a bit longer.",
+    "usage": "Casual invitation or decision to stay.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Stick around — the band's on at nine.",
+      "I can't stick around, I've got a train."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "sticks around",
+      "stuck around",
+      "sticking around"
+    ]
+  },
+  {
+    "headword": "pass on",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Give a message or item to someone else; or decline an offer.",
+    "usage": "Common; also a gentle euphemism for dying.",
+    "pragmatic_note": "'Passed on' or 'passed away' is the tactful way to say someone died.",
+    "pitfall": null,
+    "examples": [
+      "Could you pass on my thanks to the team?",
+      "I'll pass on dessert, thanks."
+    ],
+    "collocations": [
+      "pass on a message"
+    ],
+    "wiki": null,
+    "forms": [
+      "passes on",
+      "passed on",
+      "passing on"
+    ]
+  },
+  {
+    "headword": "pass out",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Faint; or, in the UK, graduate from military or police training.",
+    "usage": "Fainting sense is everyday; 'passing-out parade' is military.",
+    "pragmatic_note": null,
+    "pitfall": "Americans use 'pass out' for distribute; Britons say 'hand out'.",
+    "examples": [
+      "He passed out in the heat.",
+      "Her passing-out parade is next month."
+    ],
+    "collocations": [
+      "passing-out parade"
+    ],
+    "wiki": null,
+    "forms": [
+      "passes out",
+      "passed out",
+      "passing out"
+    ]
+  },
+  {
+    "headword": "hand out",
+    "register": "GREEN",
+    "us_equivalent": "pass out",
+    "gloss": "Give something to each person in a group.",
+    "usage": "Used in classrooms, meetings and events; 'a handout' is a printed sheet.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Could you hand out these sheets?",
+      "They were handing out free samples."
+    ],
+    "collocations": [
+      "a handout"
+    ],
+    "wiki": null,
+    "forms": [
+      "hands out",
+      "handed out",
+      "handing out",
+      "handout"
+    ]
+  },
+  {
+    "headword": "give in",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Finally agree to something after resisting; or hand in work.",
+    "usage": "Neutral; 'give in homework' is British school usage.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The kids kept asking, so I gave in.",
+      "Don't give in to pressure."
+    ],
+    "collocations": [
+      "give in to"
+    ],
+    "wiki": null,
+    "forms": [
+      "gives in",
+      "gave in",
+      "given in",
+      "giving in"
+    ]
+  },
+  {
+    "headword": "turn out",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Happen in a particular way, or be discovered to be.",
+    "usage": "Neutral; 'it turns out…' introduces a surprise.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "It turns out she'd been to my school.",
+      "The weather turned out lovely."
+    ],
+    "collocations": [
+      "it turns out",
+      "turn out well"
+    ],
+    "wiki": null,
+    "forms": [
+      "turns out",
+      "turned out",
+      "turning out"
+    ]
+  },
+  {
+    "headword": "tail off",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Gradually become smaller, weaker or quieter.",
+    "usage": "Used for sales, voices and attendance.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Sales tailed off after Christmas.",
+      "His voice tailed off."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "tails off",
+      "tailed off",
+      "tailing off"
+    ]
+  },
+  {
+    "headword": "die down",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Gradually become less strong or loud.",
+    "usage": "Used for storms, noise, excitement and controversy.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Wait until the wind dies down.",
+      "The fuss will soon die down."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "dies down",
+      "died down",
+      "dying down"
+    ]
+  },
+  {
+    "headword": "brighten up",
+    "register": "GREEN",
+    "us_equivalent": "clear up",
+    "gloss": "Of the weather, become sunnier; of a person, become cheerful.",
+    "usage": "Classic British weather talk.",
+    "pragmatic_note": "Weather small talk is a staple of British conversation.",
+    "pitfall": null,
+    "examples": [
+      "It's meant to brighten up this afternoon.",
+      "She brightened up when she saw the cake."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "brightens up",
+      "brightened up",
+      "brightening up"
+    ]
+  },
+  {
+    "headword": "cloud over",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Of the sky, become covered with clouds.",
+    "usage": "Everyday weather phrase.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "It clouded over just as we got to the beach.",
+      "It's starting to cloud over."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "clouds over",
+      "clouded over",
+      "clouding over"
+    ]
+  },
+  {
+    "headword": "chucking it down",
+    "register": "RED",
+    "us_equivalent": "pouring",
+    "gloss": "Raining very heavily.",
+    "usage": "Very common casual weather phrase; also 'bucketing down'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Take a brolly, it's chucking it down.",
+      "It chucked it down all weekend."
+    ],
+    "collocations": [
+      "bucketing down",
+      "tipping it down"
+    ],
+    "wiki": null,
+    "forms": [
+      "chucked it down",
+      "chucks it down",
+      "bucketing down",
+      "tipping it down"
+    ]
+  },
+  {
+    "headword": "nod off",
+    "register": "AMBER",
+    "us_equivalent": "doze off",
+    "gloss": "Fall asleep without meaning to.",
+    "usage": "Common, often in front of the telly or in meetings.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I nodded off halfway through the film.",
+      "Try not to nod off in the lecture."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "nods off",
+      "nodded off",
+      "nodding off"
+    ]
+  },
+  {
+    "headword": "have a lie-in",
+    "register": "AMBER",
+    "us_equivalent": "sleep in",
+    "gloss": "Stay in bed later than usual in the morning.",
+    "usage": "Treasured weekend phrase.",
+    "pragmatic_note": null,
+    "pitfall": "Britons say 'lie-in' (noun); 'sleep in' is also understood.",
+    "examples": [
+      "I'm having a lie-in on Saturday.",
+      "Did you have a nice lie-in?"
+    ],
+    "collocations": [
+      "a long lie-in"
+    ],
+    "wiki": null,
+    "forms": [
+      "a lie-in",
+      "had a lie-in"
+    ]
+  },
+  {
+    "headword": "turn in",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Go to bed.",
+    "usage": "Casual, slightly old-fashioned but still common.",
+    "pragmatic_note": null,
+    "pitfall": "Not to be confused with 'hand in', or American 'turn in' (submit).",
+    "examples": [
+      "I think I'll turn in — early start tomorrow.",
+      "Time to turn in."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "turned in",
+      "turning in"
+    ]
+  },
+  {
+    "headword": "eat in or take away?",
+    "register": "GREEN",
+    "us_equivalent": "for here or to go?",
+    "gloss": "Question asking whether food will be eaten on the premises or taken out.",
+    "usage": "Standard at cafés and fast-food counters.",
+    "pragmatic_note": "'Takeaway' is the British word for food bought to eat elsewhere.",
+    "pitfall": "Americans say 'to go'; in the UK 'takeaway' is standard.",
+    "examples": [
+      "Is that to eat in or take away?",
+      "Take away, please."
+    ],
+    "collocations": [
+      "to take away",
+      "a takeaway"
+    ],
+    "wiki": null,
+    "forms": [
+      "eat in",
+      "take away",
+      "takeaway"
+    ]
+  },
+  {
+    "headword": "top up",
+    "register": "AMBER",
+    "us_equivalent": "refill / reload",
+    "gloss": "Add more to something to fill it again: phone credit, a drink, an account.",
+    "usage": "Very common for mobile credit, travel cards and drinks.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Can I top up your glass?",
+      "I need to top up my Oyster card."
+    ],
+    "collocations": [
+      "top up your phone",
+      "a top-up"
+    ],
+    "wiki": null,
+    "forms": [
+      "tops up",
+      "topped up",
+      "topping up",
+      "top-up"
+    ]
+  },
+  {
+    "headword": "pull in",
+    "register": "GREEN",
+    "us_equivalent": "pull over",
+    "gloss": "Of a vehicle, move to the side of the road and stop; or arrive at a station.",
+    "usage": "Common when driving and for trains.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Pull in here and I'll jump out.",
+      "The train pulled in ten minutes late."
+    ],
+    "collocations": [
+      "pull in at the services"
+    ],
+    "wiki": null,
+    "forms": [
+      "pulls in",
+      "pulled in",
+      "pulling in"
+    ]
+  },
+  {
+    "headword": "queue up",
+    "register": "GREEN",
+    "us_equivalent": "line up",
+    "gloss": "Wait in a line for something.",
+    "usage": "Very common; queueing is a strong British norm.",
+    "pragmatic_note": "Jumping the queue is a serious social offence in Britain.",
+    "pitfall": "Americans 'line up'; Britons 'queue'.",
+    "examples": [
+      "We queued up for an hour to get in.",
+      "People were queuing up round the block."
+    ],
+    "collocations": [
+      "queue up for"
+    ],
+    "wiki": null,
+    "forms": [
+      "queues up",
+      "queued up",
+      "queuing up",
+      "queueing up"
+    ]
+  },
+  {
+    "headword": "jump the queue",
+    "register": "AMBER",
+    "us_equivalent": "cut in line",
+    "gloss": "Go in front of people who were waiting before you.",
+    "usage": "Strongly disapproving phrase.",
+    "pragmatic_note": "Queue-jumping provokes real indignation, often expressed through pointed sighs.",
+    "pitfall": null,
+    "examples": [
+      "Excuse me, I think you've jumped the queue.",
+      "He tried to jump the queue at the bar."
+    ],
+    "collocations": [
+      "queue-jumper"
+    ],
+    "wiki": null,
+    "forms": [
+      "jumped the queue",
+      "queue-jumping"
+    ]
+  },
+  {
+    "headword": "break up",
+    "register": "AMBER",
+    "us_equivalent": "let out",
+    "gloss": "Of a school, finish for the holidays; of a couple, end a relationship.",
+    "usage": "'We break up on Friday' is standard British school-term talk.",
+    "pragmatic_note": null,
+    "pitfall": "To Americans 'school breaks up' sounds odd; they say school 'lets out'.",
+    "examples": [
+      "The kids break up for summer next week.",
+      "When do you break up for Christmas?"
+    ],
+    "collocations": [
+      "break up for the holidays",
+      "break up with someone"
+    ],
+    "wiki": null,
+    "forms": [
+      "breaks up",
+      "broke up",
+      "broken up",
+      "breaking up"
+    ]
+  },
+  {
+    "headword": "sit an exam",
+    "register": "GREEN",
+    "us_equivalent": "take an exam",
+    "gloss": "Take a formal examination.",
+    "usage": "Standard British phrasing in schools and universities.",
+    "pragmatic_note": null,
+    "pitfall": "Americans 'take' exams; Britons 'sit' or 'take' them.",
+    "examples": [
+      "She's sitting her A-levels in June.",
+      "How many exams are you sitting this term?"
+    ],
+    "collocations": [
+      "sit a paper",
+      "resit an exam"
+    ],
+    "wiki": null,
+    "forms": [
+      "sat an exam",
+      "sitting an exam",
+      "sit exams"
+    ]
+  },
+  {
+    "headword": "move house",
+    "register": "GREEN",
+    "us_equivalent": "move",
+    "gloss": "Leave your home and go to live somewhere else.",
+    "usage": "Standard British phrase; Americans just say 'move'.",
+    "pragmatic_note": "Moving house is often listed, half-jokingly, among life's most stressful events.",
+    "pitfall": null,
+    "examples": [
+      "We're moving house next month.",
+      "Moving house is exhausting."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "moving house",
+      "moved house"
+    ]
+  },
+  {
+    "headword": "lay the table",
+    "register": "GREEN",
+    "us_equivalent": "set the table",
+    "gloss": "Put plates, cutlery and glasses on a table before a meal.",
+    "usage": "Common British domestic phrase; 'set the table' is also used.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Can you lay the table, please?",
+      "Dinner's nearly ready — who's laying the table?"
+    ],
+    "collocations": [
+      "clear the table"
+    ],
+    "wiki": null,
+    "forms": [
+      "laid the table",
+      "laying the table"
+    ]
+  },
+  {
+    "headword": "put a wash on",
+    "register": "AMBER",
+    "us_equivalent": "do a load of laundry",
+    "gloss": "Start the washing machine with a load of clothes.",
+    "usage": "Everyday British domestic phrase; 'the washing' means laundry.",
+    "pragmatic_note": null,
+    "pitfall": "In the UK 'the washing' means laundry, not dishes.",
+    "examples": [
+      "I'll put a wash on before I go out.",
+      "Can you put a dark wash on?"
+    ],
+    "collocations": [
+      "hang the washing out",
+      "bring the washing in"
+    ],
+    "wiki": null,
+    "forms": [
+      "put a load on",
+      "putting a wash on"
+    ]
+  },
+  {
+    "headword": "hang the washing out",
+    "register": "AMBER",
+    "us_equivalent": "hang laundry",
+    "gloss": "Put wet laundry on a line outside to dry.",
+    "usage": "Common household phrase, tied closely to the weather.",
+    "pragmatic_note": "Seeing a dry spell, Britons rush to 'get the washing out'.",
+    "pitfall": null,
+    "examples": [
+      "It's a good drying day — I'll hang the washing out.",
+      "Bring the washing in, it's starting to rain!"
+    ],
+    "collocations": [
+      "bring the washing in",
+      "on the line"
+    ],
+    "wiki": null,
+    "forms": [
+      "hung the washing out",
+      "hanging the washing out"
+    ]
+  },
+  {
+    "headword": "put the bins out",
+    "register": "AMBER",
+    "us_equivalent": "take out the trash",
+    "gloss": "Put rubbish containers outside for council collection.",
+    "usage": "Weekly domestic chore; 'bin day' is collection day.",
+    "pragmatic_note": null,
+    "pitfall": "Britons say 'rubbish' and 'bin'; 'trash' and 'garbage' sound American.",
+    "examples": [
+      "Don't forget to put the bins out tonight.",
+      "Is it recycling or general waste this week?"
+    ],
+    "collocations": [
+      "bin day",
+      "take the bins out"
+    ],
+    "wiki": null,
+    "forms": [
+      "take the bins out",
+      "put the bin out"
+    ]
+  },
+  {
+    "headword": "put the heating on",
+    "register": "AMBER",
+    "us_equivalent": "turn on the heat",
+    "gloss": "Switch on central heating.",
+    "usage": "Common seasonal topic in British homes.",
+    "pragmatic_note": "When to put the heating on is a classic household argument in autumn.",
+    "pitfall": "Britons say 'the heating', not 'the heat'.",
+    "examples": [
+      "It's freezing — shall we put the heating on?",
+      "We haven't put the heating on yet."
+    ],
+    "collocations": [
+      "turn the heating up",
+      "the heating's on"
+    ],
+    "wiki": null,
+    "forms": [
+      "turn the heating on",
+      "put the heating on"
+    ]
+  },
+  {
+    "headword": "run a bath",
+    "register": "GREEN",
+    "us_equivalent": "draw a bath",
+    "gloss": "Fill the bath with water so you can have one.",
+    "usage": "Everyday domestic phrase.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll run you a bath.",
+      "She ran a hot bath and read a book."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "running a bath",
+      "ran a bath"
+    ]
+  },
+  {
+    "headword": "have a shower",
+    "register": "GREEN",
+    "us_equivalent": "take a shower",
+    "gloss": "Wash your body under a shower.",
+    "usage": "British English prefers 'have' with shower, bath, nap and break.",
+    "pragmatic_note": null,
+    "pitfall": "'Take a shower' is understood but sounds American to many Britons.",
+    "examples": [
+      "I'll just have a quick shower.",
+      "Do you want to have a bath first?"
+    ],
+    "collocations": [
+      "have a bath",
+      "have a quick shower"
+    ],
+    "wiki": null,
+    "forms": [
+      "having a shower",
+      "had a shower",
+      "have a bath"
+    ]
+  },
+  {
+    "headword": "get changed",
+    "register": "GREEN",
+    "us_equivalent": "change",
+    "gloss": "Put on different clothes.",
+    "usage": "Very common British phrasing.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll just get changed and then we can go.",
+      "Do you need to get changed for dinner?"
+    ],
+    "collocations": [
+      "get changed for"
+    ],
+    "wiki": null,
+    "forms": [
+      "getting changed",
+      "got changed"
+    ]
+  },
+  {
+    "headword": "hoover up",
+    "register": "AMBER",
+    "us_equivalent": "vacuum",
+    "gloss": "Clean with a vacuum cleaner; or consume eagerly.",
+    "usage": "'Hoover' is used as a generic verb in the UK, whatever the brand.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Can you hoover the stairs?",
+      "The kids hoovered up every last crisp."
+    ],
+    "collocations": [
+      "do the hoovering"
+    ],
+    "wiki": null,
+    "forms": [
+      "hoover",
+      "hoovered",
+      "hoovering"
+    ]
+  },
+  {
+    "headword": "chuck out",
+    "register": "RED",
+    "us_equivalent": "throw out",
+    "gloss": "Throw something away; or force someone to leave.",
+    "usage": "Casual; 'chuck' is very common in British speech.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We chucked out loads of old stuff.",
+      "They got chucked out of the pub."
+    ],
+    "collocations": [
+      "chuck away",
+      "chuck it in the bin"
+    ],
+    "wiki": null,
+    "forms": [
+      "chucks out",
+      "chucked out",
+      "chucking out",
+      "chuck away"
+    ]
+  },
+  {
+    "headword": "tidy away",
+    "register": "AMBER",
+    "us_equivalent": "put away",
+    "gloss": "Put things back where they belong to make a space neat.",
+    "usage": "Common with children and offices.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Tidy your toys away before dinner.",
+      "I'll tidy these files away."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "tidied away",
+      "tidying away"
+    ]
+  },
+  {
+    "headword": "come down with",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Start to suffer from an illness, usually not serious.",
+    "usage": "Very common for colds and bugs.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I think I'm coming down with something.",
+      "Half the office has come down with flu."
+    ],
+    "collocations": [
+      "come down with a cold"
+    ],
+    "wiki": null,
+    "forms": [
+      "came down with",
+      "coming down with"
+    ]
+  },
+  {
+    "headword": "be sick",
+    "register": "AMBER",
+    "us_equivalent": "throw up / vomit",
+    "gloss": "Vomit.",
+    "usage": "In British English 'I was sick' usually means you vomited.",
+    "pragmatic_note": null,
+    "pitfall": "Americans use 'sick' for 'ill'; Britons prefer 'ill' or 'unwell' for general illness.",
+    "examples": [
+      "I think I'm going to be sick.",
+      "He was sick on the ferry."
+    ],
+    "collocations": [
+      "feel sick",
+      "car sick"
+    ],
+    "wiki": null,
+    "forms": [
+      "was sick",
+      "been sick",
+      "feel sick"
+    ]
+  },
+  {
+    "headword": "off sick",
+    "register": "GREEN",
+    "us_equivalent": "out sick",
+    "gloss": "Absent from work or school because of illness.",
+    "usage": "Standard British workplace phrase.",
+    "pragmatic_note": null,
+    "pitfall": "Americans say 'out sick'.",
+    "examples": [
+      "Jane's off sick today.",
+      "He's been off sick for a week."
+    ],
+    "collocations": [
+      "call in sick",
+      "sick note"
+    ],
+    "wiki": null,
+    "forms": [
+      "off ill"
+    ]
+  },
+  {
+    "headword": "call in sick",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Phone work to say you are ill and won't come in.",
+    "usage": "Neutral workplace phrase.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I had to call in sick this morning.",
+      "Three people have called in sick."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "called in sick",
+      "calling in sick",
+      "ring in sick"
+    ]
+  },
+  {
+    "headword": "pull a sickie",
+    "register": "RED",
+    "us_equivalent": "play hooky",
+    "gloss": "Take a day off work pretending to be ill.",
+    "usage": "Jokey and casual; never use about yourself to your manager.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "It's sunny — tempted to pull a sickie.",
+      "He definitely pulled a sickie on Monday."
+    ],
+    "collocations": [
+      "throw a sickie"
+    ],
+    "wiki": null,
+    "forms": [
+      "pulled a sickie",
+      "pulling a sickie"
+    ]
+  },
+  {
+    "headword": "shake off",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Recover from a minor illness; or escape from someone following you.",
+    "usage": "Common for colds and coughs.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I can't seem to shake off this cough.",
+      "We finally shook off the photographers."
+    ],
+    "collocations": [
+      "shake off a cold"
+    ],
+    "wiki": null,
+    "forms": [
+      "shakes off",
+      "shook off",
+      "shaken off",
+      "shaking off"
+    ]
+  },
+  {
+    "headword": "pull through",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Recover from a serious illness or survive a difficult time.",
+    "usage": "Neutral, often in hospital contexts.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The doctors think he'll pull through.",
+      "The business pulled through the recession."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "pulls through",
+      "pulled through",
+      "pulling through"
+    ]
+  },
+  {
+    "headword": "done in",
+    "register": "RED",
+    "us_equivalent": "beat / wiped out",
+    "gloss": "Extremely tired.",
+    "usage": "Casual; a common alternative to 'knackered'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm absolutely done in after that walk.",
+      "You look done in — sit down."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "worn out",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Very tired; or of things, damaged by long use.",
+    "usage": "Neutral and very common.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm worn out after the week I've had.",
+      "These shoes are completely worn out."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "wear out",
+      "wearing out"
+    ]
+  },
+  {
+    "headword": "fed up",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Annoyed, bored or unhappy, especially with something that has gone on too long.",
+    "usage": "Very common; 'fed up with' is standard, 'fed up of' is widespread in speech.",
+    "pragmatic_note": null,
+    "pitfall": "'Fed up of' is common in British speech but 'fed up with' is safer in writing.",
+    "examples": [
+      "I'm fed up with this weather.",
+      "She's fed up of waiting for the bus."
+    ],
+    "collocations": [
+      "fed up with",
+      "fed up to the back teeth"
+    ],
+    "wiki": null,
+    "forms": [
+      "fed up with",
+      "fed up of"
+    ]
+  },
+  {
+    "headword": "do someone's head in",
+    "register": "RED",
+    "us_equivalent": "drive someone crazy",
+    "gloss": "Irritate or confuse someone greatly.",
+    "usage": "Very common in casual British speech.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "This noise is doing my head in.",
+      "Tax forms do my head in."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "does my head in",
+      "doing my head in",
+      "did my head in"
+    ]
+  },
+  {
+    "headword": "get on someone's nerves",
+    "register": "AMBER",
+    "us_equivalent": "bug someone",
+    "gloss": "Annoy or irritate someone.",
+    "usage": "Common everyday complaint.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "That ringtone really gets on my nerves.",
+      "He's starting to get on my nerves."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "gets on my nerves",
+      "getting on my nerves",
+      "got on my nerves"
+    ]
+  },
+  {
+    "headword": "tell off",
+    "register": "AMBER",
+    "us_equivalent": "scold / chew out",
+    "gloss": "Speak angrily to someone because they have done something wrong.",
+    "usage": "Very common British phrase; 'a telling-off' is the noun.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The teacher told us off for talking.",
+      "I got a right telling-off."
+    ],
+    "collocations": [
+      "get told off",
+      "a telling-off"
+    ],
+    "wiki": null,
+    "forms": [
+      "tells off",
+      "told off",
+      "telling off",
+      "telling-off"
+    ]
+  },
+  {
+    "headword": "tick off",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Mark items on a list as done; in British English, also reprimand someone.",
+    "usage": "List sense is neutral; reprimand sense is casual.",
+    "pragmatic_note": null,
+    "pitfall": "In American English 'ticked off' means annoyed; in the UK it often means told off.",
+    "examples": [
+      "Tick them off as they arrive.",
+      "I got ticked off for being late."
+    ],
+    "collocations": [
+      "tick off a list",
+      "get ticked off"
+    ],
+    "wiki": null,
+    "forms": [
+      "ticks off",
+      "ticked off",
+      "ticking off"
+    ]
+  },
+  {
+    "headword": "tick over",
+    "register": "AMBER",
+    "us_equivalent": "idle",
+    "gloss": "Continue working at a basic, steady level.",
+    "usage": "Used of engines, businesses and projects.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The business is just ticking over.",
+      "Keep things ticking over while I'm away."
+    ],
+    "collocations": [
+      "keep things ticking over"
+    ],
+    "wiki": null,
+    "forms": [
+      "ticks over",
+      "ticked over",
+      "ticking over"
+    ]
+  },
+  {
+    "headword": "rabbit on",
+    "register": "RED",
+    "us_equivalent": "ramble on",
+    "gloss": "Talk at length about unimportant things.",
+    "usage": "Affectionately critical, casual.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He rabbited on about his car for an hour.",
+      "Sorry, I'm rabbiting on."
+    ],
+    "collocations": [
+      "rabbit on about"
+    ],
+    "wiki": null,
+    "forms": [
+      "rabbits on",
+      "rabbited on",
+      "rabbiting on"
+    ]
+  },
+  {
+    "headword": "go on about",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Talk about something repeatedly and annoyingly.",
+    "usage": "Common; 'what are you going on about?' means 'what do you mean?'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She keeps going on about her new kitchen.",
+      "What are you going on about?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "goes on about",
+      "went on about",
+      "going on about"
+    ]
+  },
+  {
+    "headword": "bang on about",
+    "register": "RED",
+    "us_equivalent": "harp on",
+    "gloss": "Talk tediously and insistently about something.",
+    "usage": "Casual and critical.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He's always banging on about politics.",
+      "Don't bang on about it."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "bangs on about",
+      "banged on about",
+      "banging on about"
+    ]
+  },
+  {
+    "headword": "waffle on",
+    "register": "AMBER",
+    "us_equivalent": "ramble",
+    "gloss": "Speak or write at length without saying anything useful.",
+    "usage": "Common criticism of essays, speeches and talkers.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Sorry, I'm waffling on — where was I?",
+      "The essay waffles on for pages."
+    ],
+    "collocations": [
+      "waffle"
+    ],
+    "wiki": null,
+    "forms": [
+      "waffles on",
+      "waffled on",
+      "waffling on",
+      "waffle"
+    ]
+  },
+  {
+    "headword": "have a natter",
+    "register": "RED",
+    "us_equivalent": "shoot the breeze",
+    "gloss": "Have a long, friendly chat about everyday things.",
+    "usage": "Warm, casual; associated with friends over tea.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We had a good natter over coffee.",
+      "Pop round for a natter some time."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "natter",
+      "nattering",
+      "nattered"
+    ]
+  },
+  {
+    "headword": "chat up",
+    "register": "RED",
+    "us_equivalent": "hit on",
+    "gloss": "Talk to someone in a flirtatious way because you are attracted to them.",
+    "usage": "Casual social phrase; 'a chat-up line' is a flirtatious opener.",
+    "pragmatic_note": null,
+    "pitfall": "Not the same as 'chat with'; it implies romantic interest.",
+    "examples": [
+      "He was trying to chat her up at the bar.",
+      "That's the worst chat-up line ever."
+    ],
+    "collocations": [
+      "chat-up line"
+    ],
+    "wiki": null,
+    "forms": [
+      "chats up",
+      "chatted up",
+      "chatting up"
+    ]
+  },
+  {
+    "headword": "ask out",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Invite someone on a romantic date.",
+    "usage": "Neutral social phrase.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He finally asked her out.",
+      "Are you going to ask him out?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "asks out",
+      "asked out",
+      "asking out"
+    ]
+  },
+  {
+    "headword": "split up",
+    "register": "AMBER",
+    "us_equivalent": "break up",
+    "gloss": "End a romantic relationship; or divide into groups.",
+    "usage": "Common in both senses.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "They split up after ten years.",
+      "Let's split up into three groups."
+    ],
+    "collocations": [
+      "split up with"
+    ],
+    "wiki": null,
+    "forms": [
+      "splits up",
+      "splitting up"
+    ]
+  },
+  {
+    "headword": "meet up",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Meet someone informally by arrangement.",
+    "usage": "Very common socially.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Shall we meet up for lunch next week?",
+      "We meet up every few months."
+    ],
+    "collocations": [
+      "meet up with"
+    ],
+    "wiki": null,
+    "forms": [
+      "meets up",
+      "met up",
+      "meeting up"
+    ]
+  },
+  {
+    "headword": "tag along",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Go somewhere with someone, especially uninvited or informally.",
+    "usage": "Casual and friendly.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Do you mind if I tag along?",
+      "My brother tagged along."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "tags along",
+      "tagged along",
+      "tagging along"
+    ]
+  },
+  {
+    "headword": "join in",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Take part in an activity with others.",
+    "usage": "Neutral; often an encouragement.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Come on, join in!",
+      "She didn't want to join in the game."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "joins in",
+      "joined in",
+      "joining in"
+    ]
+  },
+  {
+    "headword": "go for a quick one",
+    "register": "RED",
+    "us_equivalent": "grab a drink",
+    "gloss": "Have one drink in a pub, usually after work.",
+    "usage": "Casual pub-culture phrase.",
+    "pragmatic_note": "'Just a quick one' often turns into a long evening.",
+    "pitfall": null,
+    "examples": [
+      "Fancy going for a quick one after work?",
+      "Just a quick one, then I'm off."
+    ],
+    "collocations": [
+      "a quick drink"
+    ],
+    "wiki": null,
+    "forms": [
+      "a quick one",
+      "a quick drink"
+    ]
+  },
+  {
+    "headword": "get a round in",
+    "register": "RED",
+    "us_equivalent": "buy a round",
+    "gloss": "Buy drinks for everyone in your group at the pub.",
+    "usage": "Pub culture: friends take turns buying 'rounds'.",
+    "pragmatic_note": "Avoiding your round is considered mean and is noticed.",
+    "pitfall": null,
+    "examples": [
+      "Whose round is it?",
+      "I'll get a round in."
+    ],
+    "collocations": [
+      "my round",
+      "whose round is it"
+    ],
+    "wiki": null,
+    "forms": [
+      "my round",
+      "your round",
+      "whose round"
+    ]
+  },
+  {
+    "headword": "my shout",
+    "register": "RED",
+    "us_equivalent": "my treat",
+    "gloss": "I'll pay for this (drinks, meal or coffee).",
+    "usage": "Casual; common in pubs and cafés.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Put your wallet away — it's my shout.",
+      "Next one's my shout."
+    ],
+    "collocations": [
+      "your shout"
+    ],
+    "wiki": null,
+    "forms": [
+      "your shout"
+    ]
+  },
+  {
+    "headword": "last orders",
+    "register": "GREEN",
+    "us_equivalent": "last call",
+    "gloss": "The final chance to buy drinks before a pub closes.",
+    "usage": "Announced by bar staff, traditionally with a bell.",
+    "pragmatic_note": "A familiar ritual of British pub life.",
+    "pitfall": "Americans say 'last call'.",
+    "examples": [
+      "Last orders at the bar, please!",
+      "Quick, it's last orders."
+    ],
+    "collocations": [
+      "call last orders"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "go halves",
+    "register": "AMBER",
+    "us_equivalent": "split it / go Dutch",
+    "gloss": "Share the cost of something equally between two people.",
+    "usage": "Common for bills, taxis and shared purchases.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Shall we go halves on a taxi?",
+      "We went halves on the present."
+    ],
+    "collocations": [
+      "go halves on",
+      "split the bill"
+    ],
+    "wiki": null,
+    "forms": [
+      "went halves",
+      "going halves"
+    ]
+  },
+  {
+    "headword": "settle up",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Pay what you owe, especially at the end of a meal or stay.",
+    "usage": "Common in restaurants, hotels and among friends.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Let's settle up and get going.",
+      "I'll settle up with you later."
+    ],
+    "collocations": [
+      "settle up with"
+    ],
+    "wiki": null,
+    "forms": [
+      "settles up",
+      "settled up",
+      "settling up"
+    ]
+  },
+  {
+    "headword": "could I have the bill?",
+    "register": "GREEN",
+    "us_equivalent": "can I get the check?",
+    "gloss": "Polite request to pay at a restaurant.",
+    "usage": "Standard restaurant phrase; a 'bill' is what you pay.",
+    "pragmatic_note": "A discreet gesture or eye contact usually works; waving loudly is rude.",
+    "pitfall": "Americans say 'check'; 'can I get…' sounds abrupt to many Britons.",
+    "examples": [
+      "Could we have the bill, please?",
+      "Can I have the bill when you're ready?"
+    ],
+    "collocations": [
+      "the bill, please",
+      "pay the bill"
+    ],
+    "wiki": null,
+    "forms": [
+      "could we have the bill?"
+    ]
+  },
+  {
+    "headword": "what's the damage?",
+    "register": "RED",
+    "us_equivalent": "what do I owe?",
+    "gloss": "Jokey way to ask how much you have to pay.",
+    "usage": "Casual, among friends or with relaxed staff.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Right, what's the damage?",
+      "What's the damage for the taxi?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "keep the change",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Tell a taxi driver or server to keep the extra money as a tip.",
+    "usage": "Common in taxis and cafés.",
+    "pragmatic_note": "Tipping is modest in the UK; rounding up is usual in taxis.",
+    "pitfall": null,
+    "examples": [
+      "That's fine — keep the change.",
+      "Call it fifteen and keep the change."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "change at",
+    "register": "GREEN",
+    "us_equivalent": "transfer at",
+    "gloss": "Get off one train and onto another at a named station.",
+    "usage": "Standard on British rail and the Underground.",
+    "pragmatic_note": null,
+    "pitfall": "Americans often say 'transfer'; Britons 'change'.",
+    "examples": [
+      "Change at Crewe for Manchester.",
+      "You'll need to change at King's Cross."
+    ],
+    "collocations": [
+      "change trains"
+    ],
+    "wiki": null,
+    "forms": [
+      "changed at",
+      "changing at"
+    ]
+  },
+  {
+    "headword": "stop off",
+    "register": "GREEN",
+    "us_equivalent": "stop by",
+    "gloss": "Make a short stop on the way somewhere.",
+    "usage": "Neutral and common for journeys and errands.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Let's stop off at the services for a coffee.",
+      "I'll stop off at the shops on my way home."
+    ],
+    "collocations": [
+      "stop off at",
+      "stopover"
+    ],
+    "wiki": null,
+    "forms": [
+      "stops off",
+      "stopped off",
+      "stopping off"
+    ]
+  },
+  {
+    "headword": "make tracks",
+    "register": "AMBER",
+    "us_equivalent": "head out",
+    "gloss": "Leave, especially to begin going home.",
+    "usage": "Common, friendly way to announce departure.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We'd better make tracks before the traffic gets bad.",
+      "Right, I'm going to make tracks."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "making tracks",
+      "made tracks"
+    ]
+  },
+  {
+    "headword": "get cracking",
+    "register": "AMBER",
+    "us_equivalent": "get moving",
+    "gloss": "Start doing something quickly and energetically.",
+    "usage": "Very common British encouragement.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We'd better get cracking if we want to finish today.",
+      "Right, let's get cracking."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "got cracking",
+      "getting cracking"
+    ]
+  },
+  {
+    "headword": "get a move on",
+    "register": "AMBER",
+    "us_equivalent": "hurry up",
+    "gloss": "Hurry up.",
+    "usage": "Common at home and with friends; can sound bossy.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Get a move on, we'll miss the train!",
+      "We need to get a move on."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "got a move on",
+      "getting a move on"
+    ]
+  },
+  {
+    "headword": "make a start",
+    "register": "GREEN",
+    "us_equivalent": "get started",
+    "gloss": "Begin a task.",
+    "usage": "Neutral and very British phrasing.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Shall we make a start?",
+      "I've made a start on the report."
+    ],
+    "collocations": [
+      "make a start on"
+    ],
+    "wiki": null,
+    "forms": [
+      "made a start",
+      "making a start"
+    ]
+  },
+  {
+    "headword": "take it easy",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Relax; don't work too hard; also a casual goodbye.",
+    "usage": "Common in speech, especially with friends.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Take it easy this weekend, you've earned it.",
+      "See you, take it easy."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "make yourself at home",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Host's invitation for a guest to relax and feel comfortable.",
+    "usage": "Standard hospitality phrase.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Come in, make yourself at home.",
+      "Make yourself at home while I get the tea."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "how do you take it?",
+    "register": "AMBER",
+    "us_equivalent": "how do you like it?",
+    "gloss": "Asking how someone likes their tea or coffee: milk, sugar.",
+    "usage": "Standard when making someone a hot drink.",
+    "pragmatic_note": "A typical reply is 'milk, no sugar' or 'white, one sugar'.",
+    "pitfall": null,
+    "examples": [
+      "How do you take your tea?",
+      "Milk and two sugars, please."
+    ],
+    "collocations": [
+      "milk, no sugar",
+      "white with one"
+    ],
+    "wiki": null,
+    "forms": [
+      "how do you take your tea?"
+    ]
+  },
+  {
+    "headword": "I'll see myself out",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Don't get up — I'll leave on my own.",
+    "usage": "Polite when leaving a home or office; also used jokingly after a bad pun.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Don't get up, I'll see myself out.",
+      "Well, that joke flopped — I'll see myself out."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "mind your head",
+    "register": "GREEN",
+    "us_equivalent": "watch your head",
+    "gloss": "Warning to be careful not to hit your head on something low.",
+    "usage": "Common on signs, in old pubs and in cottages; also 'mind the step'.",
+    "pragmatic_note": "'Mind' as 'be careful of' is distinctly British.",
+    "pitfall": null,
+    "examples": [
+      "Mind your head on the beam.",
+      "Mind the step on the way out."
+    ],
+    "collocations": [
+      "mind the step",
+      "mind your feet"
+    ],
+    "wiki": null,
+    "forms": [
+      "mind the step"
+    ]
+  },
+  {
+    "headword": "is anyone sitting here?",
+    "register": "GREEN",
+    "us_equivalent": "is this seat taken?",
+    "gloss": "Polite question before taking a free seat next to someone.",
+    "usage": "Standard on trains, buses and in cafés.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Excuse me, is anyone sitting here?",
+      "Is this seat free?"
+    ],
+    "collocations": [
+      "is this seat free?"
+    ],
+    "wiki": null,
+    "forms": [
+      "is this seat free?"
+    ]
+  },
+  {
+    "headword": "I'll be two minutes",
+    "register": "AMBER",
+    "us_equivalent": "I'll be right there",
+    "gloss": "I'll be ready or back very soon.",
+    "usage": "Common; the time stated is not literal.",
+    "pragmatic_note": "Britons know 'two minutes' often means ten.",
+    "pitfall": null,
+    "examples": [
+      "I'll be two minutes — just finding my keys.",
+      "Give me two minutes."
+    ],
+    "collocations": [
+      "back in a minute",
+      "won't be a minute"
+    ],
+    "wiki": null,
+    "forms": [
+      "won't be a minute",
+      "back in a minute"
+    ]
+  },
+  {
+    "headword": "just coming",
+    "register": "AMBER",
+    "us_equivalent": "coming!",
+    "gloss": "I'm on my way to you right now.",
+    "usage": "Called out when someone is waiting at the door or from another room.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Just coming!",
+      "Hang on, just coming."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "in a bit",
+    "register": "AMBER",
+    "us_equivalent": "in a while",
+    "gloss": "Soon; after a short time.",
+    "usage": "Very common in speech; 'see you in a bit'.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll ring you back in a bit.",
+      "See you in a bit."
+    ],
+    "collocations": [
+      "see you in a bit"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "just a sec",
+    "register": "AMBER",
+    "us_equivalent": "one sec",
+    "gloss": "Please wait a moment.",
+    "usage": "Casual; 'just a moment' is more polite.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Just a sec, I'm on the phone.",
+      "Hang on, just a sec."
+    ],
+    "collocations": [
+      "just a moment",
+      "one sec"
+    ],
+    "wiki": null,
+    "forms": [
+      "just a second",
+      "just a moment"
+    ]
+  },
+  {
+    "headword": "at the moment",
+    "register": "GREEN",
+    "us_equivalent": "right now",
+    "gloss": "Now; currently.",
+    "usage": "Standard British phrase in all registers.",
+    "pragmatic_note": null,
+    "pitfall": "'Right now' can sound urgent to British ears; 'at the moment' is the neutral choice.",
+    "examples": [
+      "She's in a meeting at the moment.",
+      "We're quite busy at the moment."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "off you go",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Go on, you can leave or start now.",
+    "usage": "Said to children, pupils or colleagues as gentle encouragement.",
+    "pragmatic_note": "Can sound a little parental if said to a peer.",
+    "pitfall": null,
+    "examples": [
+      "Right, off you go — have fun!",
+      "That's everything, off you go."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'm off",
+    "register": "AMBER",
+    "us_equivalent": "I'm leaving / I'm heading out",
+    "gloss": "I'm leaving now.",
+    "usage": "Very common; 'I'm off then' is a standard goodbye.",
+    "pragmatic_note": null,
+    "pitfall": "'I'm off tomorrow' can also mean you have a day off work.",
+    "examples": [
+      "Right, I'm off. See you tomorrow.",
+      "I'm off to bed."
+    ],
+    "collocations": [
+      "I'm off then",
+      "I'm off out"
+    ],
+    "wiki": null,
+    "forms": [
+      "I'm off then",
+      "I'm off out"
+    ]
+  },
+  {
+    "headword": "I'd better be off",
+    "register": "AMBER",
+    "us_equivalent": "I should get going",
+    "gloss": "I need to leave now.",
+    "usage": "Polite, slightly apologetic way to end a visit.",
+    "pragmatic_note": "It softens leaving by implying obligation rather than boredom.",
+    "pitfall": null,
+    "examples": [
+      "I'd better be off — it's getting late.",
+      "I'd best be off before the rain starts."
+    ],
+    "collocations": [
+      "I'd best be off",
+      "must dash"
+    ],
+    "wiki": null,
+    "forms": [
+      "I'd best be off",
+      "I must be off"
+    ]
+  },
+  {
+    "headword": "got to dash",
+    "register": "AMBER",
+    "us_equivalent": "gotta run",
+    "gloss": "I have to leave quickly.",
+    "usage": "Common when rushing; 'must dash' is a bit more middle-class.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Sorry, got to dash — speak later!",
+      "I must dash, I've got a train."
+    ],
+    "collocations": [
+      "must dash"
+    ],
+    "wiki": null,
+    "forms": [
+      "must dash",
+      "I've got to dash"
+    ]
+  },
+  {
+    "headword": "mind how you go",
+    "register": "AMBER",
+    "us_equivalent": "take care",
+    "gloss": "Friendly goodbye wishing someone a safe journey.",
+    "usage": "Warm and slightly old-fashioned; common with older speakers and in the north.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Night then, mind how you go.",
+      "Mind how you go, it's icy out there."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "safe journey",
+    "register": "GREEN",
+    "us_equivalent": "safe travels",
+    "gloss": "Wish someone a safe trip.",
+    "usage": "Common British farewell before travel.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Safe journey — text me when you get there.",
+      "Have a safe journey home."
+    ],
+    "collocations": [
+      "safe journey home"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I reckon",
+    "register": "AMBER",
+    "us_equivalent": "I figure",
+    "gloss": "I think; in my opinion.",
+    "usage": "Very common in casual speech; too informal for formal writing.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I reckon it'll rain later.",
+      "What do you reckon?"
+    ],
+    "collocations": [
+      "what do you reckon?"
+    ],
+    "wiki": null,
+    "forms": [
+      "reckon",
+      "reckoned",
+      "what do you reckon"
+    ]
+  },
+  {
+    "headword": "mind you",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Used to add a contrasting point or qualification.",
+    "usage": "Typically British discourse marker in speech.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "It was a long drive. Mind you, the views were stunning.",
+      "He's late again — mind you, so am I."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "as it happens",
+    "register": "GREEN",
+    "us_equivalent": "actually",
+    "gloss": "Introducing a fact that is surprising or relevant by coincidence.",
+    "usage": "Common and neutral in speech.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "As it happens, I'm free on Thursday.",
+      "As it happens, I know her sister."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "as it goes",
+    "register": "RED",
+    "us_equivalent": "as it happens",
+    "gloss": "By the way; as it happens.",
+    "usage": "Casual British, especially in southern and London speech.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I was there last week, as it goes.",
+      "As it goes, I could do with a hand."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "funnily enough",
+    "register": "GREEN",
+    "us_equivalent": "oddly enough",
+    "gloss": "Introducing a surprising coincidence.",
+    "usage": "Common, neutral spoken phrase.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Funnily enough, I was just thinking about you.",
+      "Funnily enough, it was easier than I expected."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "having said that",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Introducing a contrast with what you have just said.",
+    "usage": "Common in speech and acceptable in writing.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "It's pricey. Having said that, it's worth every penny.",
+      "Having said that, I'd still recommend it."
+    ],
+    "collocations": [
+      "that said"
+    ],
+    "wiki": null,
+    "forms": [
+      "that said"
+    ]
+  },
+  {
+    "headword": "then again",
+    "register": "GREEN",
+    "us_equivalent": "on the other hand",
+    "gloss": "Introducing an opposing thought.",
+    "usage": "Common in conversation when weighing options.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I could get the train. Then again, driving's quicker.",
+      "Then again, maybe not."
+    ],
+    "collocations": [
+      "but then again"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "tell you what",
+    "register": "AMBER",
+    "us_equivalent": "here's an idea",
+    "gloss": "Introducing a suggestion or offer.",
+    "usage": "Very common British spoken phrase.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Tell you what, I'll drive and you buy lunch.",
+      "I'll tell you what — let's leave it till Monday."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "I'll tell you what"
+    ]
+  },
+  {
+    "headword": "the thing is",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Introducing an explanation, problem or reason.",
+    "usage": "Common in speech, often before a gentle refusal or complication.",
+    "pragmatic_note": "Often signals bad news or an excuse is coming.",
+    "pitfall": null,
+    "examples": [
+      "The thing is, I've already promised to help my mum.",
+      "The thing is, we don't have the budget."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "you know what I mean?",
+    "register": "RED",
+    "us_equivalent": "you know?",
+    "gloss": "Checking that the listener understands or agrees.",
+    "usage": "Very common in casual speech; can become a filler.",
+    "pragmatic_note": null,
+    "pitfall": "Overuse sounds sloppy; avoid at work.",
+    "examples": [
+      "It's just a bit much, you know what I mean?",
+      "Know what I mean?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "know what I mean?"
+    ]
+  },
+  {
+    "headword": "I suppose so",
+    "register": "GREEN",
+    "us_equivalent": "I guess so",
+    "gloss": "Reluctant or tentative agreement.",
+    "usage": "Common in all registers; 'I suppose' is the British equivalent of 'I guess'.",
+    "pragmatic_note": "Tone reveals reluctance; a flat 'I suppose so' means 'not really'.",
+    "pitfall": "Britons say 'I suppose' where Americans say 'I guess'.",
+    "examples": [
+      "'Can we go now?' 'I suppose so.'",
+      "I suppose we could ask her."
+    ],
+    "collocations": [
+      "I suppose"
+    ],
+    "wiki": null,
+    "forms": [
+      "I suppose"
+    ]
+  },
+  {
+    "headword": "you've lost me",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "I don't understand what you're explaining.",
+    "usage": "Friendly way to ask for clarification.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Sorry, you've lost me — can you go back a step?",
+      "You've lost me there."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "I'm lost"
+    ]
+  },
+  {
+    "headword": "I'm with you",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "I understand; or I agree with you.",
+    "usage": "Common in conversation and meetings.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Yes, I'm with you so far.",
+      "I'm with you on that one."
+    ],
+    "collocations": [
+      "are you with me?"
+    ],
+    "wiki": null,
+    "forms": [
+      "are you with me?"
+    ]
+  },
+  {
+    "headword": "come again?",
+    "register": "RED",
+    "us_equivalent": "say what?",
+    "gloss": "Asking someone to repeat what they said, often in surprise.",
+    "usage": "Casual; 'sorry?' or 'pardon?' is more polite.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Come again? You're moving to Australia?",
+      "Come again — how much?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "you what?",
+    "register": "RED",
+    "us_equivalent": "what?",
+    "gloss": "Expressing surprise or asking someone to repeat something.",
+    "usage": "Very casual, associated with London and the south-east.",
+    "pragmatic_note": "Can sound rude outside close friends.",
+    "pitfall": "Use 'sorry?' with strangers and colleagues.",
+    "examples": [
+      "You what? She said that?",
+      "You what, mate?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "you're having me on",
+    "register": "RED",
+    "us_equivalent": "you're kidding me",
+    "gloss": "You're joking with me; I don't believe you.",
+    "usage": "Casual and good-humoured.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "You're having me on — he never did!",
+      "Are you having me on?"
+    ],
+    "collocations": [
+      "have someone on"
+    ],
+    "wiki": null,
+    "forms": [
+      "having me on",
+      "had me on"
+    ]
+  },
+  {
+    "headword": "come off it",
+    "register": "RED",
+    "us_equivalent": "give me a break",
+    "gloss": "I don't believe you; stop exaggerating.",
+    "usage": "Casual disbelief or protest.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Oh, come off it — you weren't that busy.",
+      "Come off it, that's ridiculous."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "give over",
+    "register": "RED",
+    "us_equivalent": "quit it",
+    "gloss": "Stop it; or I don't believe you.",
+    "usage": "Casual, especially common in northern England.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Give over, I'm trying to work!",
+      "Give over — you've never met him!"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "leave it out",
+    "register": "RED",
+    "us_equivalent": "knock it off",
+    "gloss": "Stop it; or don't be ridiculous.",
+    "usage": "Casual, associated with London.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Leave it out, I was only joking.",
+      "Oh, leave it out!"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "cut it out",
+    "register": "RED",
+    "us_equivalent": "knock it off",
+    "gloss": "Stop doing that annoying thing.",
+    "usage": "Casual command, often to children or friends.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Cut it out, you two!",
+      "Will you cut it out?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "pipe down",
+    "register": "RED",
+    "us_equivalent": "quiet down",
+    "gloss": "Be quieter; stop talking.",
+    "usage": "Casual and somewhat bossy.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Pipe down, I'm on the phone.",
+      "Can you lot pipe down a bit?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "piped down",
+      "piping down"
+    ]
+  },
+  {
+    "headword": "tell me about it",
+    "register": "AMBER",
+    "us_equivalent": "you're telling me",
+    "gloss": "I know exactly what you mean; I've experienced it too.",
+    "usage": "Sympathetic, ironic agreement; not a request.",
+    "pragmatic_note": null,
+    "pitfall": "It does not mean 'please explain'.",
+    "examples": [
+      "'The trains are awful.' 'Tell me about it.'",
+      "Tell me about it — I was up all night."
+    ],
+    "collocations": [
+      "you're telling me"
+    ],
+    "wiki": null,
+    "forms": [
+      "you're telling me"
+    ]
+  },
+  {
+    "headword": "I bet",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "I'm sure that's true; or ironic disbelief.",
+    "usage": "Common sympathetic reply; tone shows sincerity or sarcasm.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "'I'm exhausted.' 'I bet you are.'",
+      "I bet she was pleased."
+    ],
+    "collocations": [
+      "I bet you are"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "good on you",
+    "register": "AMBER",
+    "us_equivalent": "good for you",
+    "gloss": "Well done; I approve of what you did.",
+    "usage": "Friendly praise; 'good for you' is more neutral.",
+    "pragmatic_note": "'Good for you' said flatly can sound sarcastic.",
+    "pitfall": null,
+    "examples": [
+      "You ran a marathon? Good on you!",
+      "Good on you for speaking up."
+    ],
+    "collocations": [
+      "good for you"
+    ],
+    "wiki": null,
+    "forms": [
+      "good on yer",
+      "good for you"
+    ]
+  },
+  {
+    "headword": "nice one",
+    "register": "RED",
+    "us_equivalent": "nice job",
+    "gloss": "Well done; that's good; thank you.",
+    "usage": "Very casual praise or thanks.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "You fixed it? Nice one!",
+      "Nice one, cheers."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "cheers for that",
+    "register": "RED",
+    "us_equivalent": "thanks for that",
+    "gloss": "Thanks for that.",
+    "usage": "Casual thanks among friends and colleagues.",
+    "pragmatic_note": "Can be sarcastic after unhelpful input.",
+    "pitfall": null,
+    "examples": [
+      "Cheers for that, you're a star.",
+      "Cheers for sorting it."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "no bother",
+    "register": "AMBER",
+    "us_equivalent": "no problem",
+    "gloss": "It's no trouble at all.",
+    "usage": "Common reply to thanks, especially in Scotland and northern England.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "'Thanks for the lift.' 'No bother.'",
+      "It's no bother at all."
+    ],
+    "collocations": [
+      "no bother at all"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "sounds good",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "I like that plan; agreed.",
+    "usage": "Very common in speech, messages and work emails.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Seven at the station? Sounds good.",
+      "Sounds good to me."
+    ],
+    "collocations": [
+      "sounds like a plan"
+    ],
+    "wiki": null,
+    "forms": [
+      "sounds like a plan"
+    ]
+  },
+  {
+    "headword": "count me in",
+    "register": "AMBER",
+    "us_equivalent": "I'm in",
+    "gloss": "Include me; I want to take part.",
+    "usage": "Common response to invitations.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Quiz night on Friday? Count me in.",
+      "Count me out this time, I'm skint."
+    ],
+    "collocations": [
+      "count me out"
+    ],
+    "wiki": null,
+    "forms": [
+      "count me out"
+    ]
+  },
+  {
+    "headword": "up for",
+    "register": "AMBER",
+    "us_equivalent": "down for",
+    "gloss": "Willing or keen to do something.",
+    "usage": "Common in invitations: 'are you up for a drink?'.",
+    "pragmatic_note": null,
+    "pitfall": "Americans may say 'down for'; in the UK 'up for' is standard.",
+    "examples": [
+      "Are you up for a walk later?",
+      "I'm up for anything."
+    ],
+    "collocations": [
+      "up for it",
+      "up for a laugh"
+    ],
+    "wiki": null,
+    "forms": [
+      "up for it"
+    ]
+  },
+  {
+    "headword": "I'm game",
+    "register": "AMBER",
+    "us_equivalent": "I'm in",
+    "gloss": "I'm willing to try it.",
+    "usage": "Common response to a slightly risky or unusual suggestion.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Karaoke? Go on, I'm game.",
+      "If you're game, I am."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "up to you",
+    "register": "GREEN",
+    "us_equivalent": "your call",
+    "gloss": "You decide.",
+    "usage": "Very common in all registers.",
+    "pragmatic_note": "Sometimes a polite way to avoid choosing.",
+    "pitfall": null,
+    "examples": [
+      "It's up to you — I'm happy either way.",
+      "Up to you where we eat."
+    ],
+    "collocations": [
+      "it's up to you"
+    ],
+    "wiki": null,
+    "forms": [
+      "it's up to you"
+    ]
+  },
+  {
+    "headword": "suits me",
+    "register": "AMBER",
+    "us_equivalent": "works for me",
+    "gloss": "That arrangement is convenient for me.",
+    "usage": "Common reply to proposed times or plans.",
+    "pragmatic_note": null,
+    "pitfall": "'Works for me' is common now but 'suits me' sounds more British.",
+    "examples": [
+      "Thursday at ten? Suits me.",
+      "That suits me fine."
+    ],
+    "collocations": [
+      "suits me fine"
+    ],
+    "wiki": null,
+    "forms": [
+      "that suits me"
+    ]
+  },
+  {
+    "headword": "give it a miss",
+    "register": "AMBER",
+    "us_equivalent": "skip it",
+    "gloss": "Decide not to do or attend something.",
+    "usage": "Common way to decline casually.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I think I'll give the party a miss.",
+      "Give the soup a miss — it's cold."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "gave it a miss",
+      "giving it a miss"
+    ]
+  },
+  {
+    "headword": "I'm alright, thanks",
+    "register": "AMBER",
+    "us_equivalent": "I'm good, thanks",
+    "gloss": "Polite way to decline an offer.",
+    "usage": "Very common reply to offers of food, drink or help.",
+    "pragmatic_note": "It means 'no, thank you', not a report on your health.",
+    "pitfall": "Americans say 'I'm good'; in Britain that can sound odd to older speakers.",
+    "examples": [
+      "'Another drink?' 'I'm alright, thanks.'",
+      "I'm alright for now, thanks."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "I'm all right, thanks"
+    ]
+  },
+  {
+    "headword": "I don't mind if I do",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Jokey, old-fashioned way to accept an offer.",
+    "usage": "Humorous, mostly among older speakers; deliberately quaint.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "'Slice of cake?' 'Don't mind if I do.'",
+      "Well, I don't mind if I do."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "don't mind if I do"
+    ]
+  },
+  {
+    "headword": "do you mind?",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Asking permission; or, said sharply, objecting to someone's behaviour.",
+    "usage": "Neutral as a request; indignant as a complaint.",
+    "pragmatic_note": "'Do you mind?!' with stress is a strong British rebuke.",
+    "pitfall": null,
+    "examples": [
+      "Do you mind if I open the window?",
+      "Excuse me — do you mind? I was here first."
+    ],
+    "collocations": [
+      "do you mind if"
+    ],
+    "wiki": null,
+    "forms": [
+      "do you mind if"
+    ]
+  },
+  {
+    "headword": "is it alright if",
+    "register": "GREEN",
+    "us_equivalent": "is it OK if",
+    "gloss": "Polite way of asking permission.",
+    "usage": "Very common in speech.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Is it alright if I leave early today?",
+      "Is it alright if I bring a friend?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "is it all right if"
+    ]
+  },
+  {
+    "headword": "give someone a hand",
+    "register": "AMBER",
+    "us_equivalent": "help someone out",
+    "gloss": "Help someone, especially with a physical task.",
+    "usage": "Very common; 'do you want a hand?' is a typical offer.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Do you want a hand with those bags?",
+      "Could you give me a hand moving this table?"
+    ],
+    "collocations": [
+      "need a hand",
+      "lend a hand"
+    ],
+    "wiki": null,
+    "forms": [
+      "give me a hand",
+      "a hand",
+      "lend a hand"
+    ]
+  },
+  {
+    "headword": "can I get you anything?",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Host's offer of a drink or something else.",
+    "usage": "Standard hospitality phrase at home or at work.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Can I get you anything? Tea, coffee?",
+      "Can I get you a drink?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "are you alright there?",
+    "register": "AMBER",
+    "us_equivalent": "can I help you?",
+    "gloss": "Shop or bar staff asking if you need help or want to order.",
+    "usage": "Very common in British shops, pubs and cafés.",
+    "pragmatic_note": "It is an offer of service, not a question about your well-being.",
+    "pitfall": null,
+    "examples": [
+      "Are you alright there, or do you need a hand?",
+      "Alright there? What can I get you?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "you alright there?"
+    ]
+  },
+  {
+    "headword": "just looking, thanks",
+    "register": "GREEN",
+    "us_equivalent": "just browsing",
+    "gloss": "Polite reply to a shop assistant when you don't need help.",
+    "usage": "Standard in shops.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm just looking, thanks.",
+      "Just browsing, thanks."
+    ],
+    "collocations": [
+      "just browsing"
+    ],
+    "wiki": null,
+    "forms": [
+      "just browsing"
+    ]
+  },
+  {
+    "headword": "how much do I owe you?",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Asking someone how much you need to pay them back.",
+    "usage": "Common between friends and in small shops.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "How much do I owe you for the tickets?",
+      "What do I owe you?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "what do I owe you?"
+    ]
+  },
+  {
+    "headword": "I owe you one",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Thanks; I'll return the favour.",
+    "usage": "Common, friendly thanks.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Thanks for covering for me — I owe you one.",
+      "I owe you a drink."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "what's that in aid of?",
+    "register": "AMBER",
+    "us_equivalent": "what's that for?",
+    "gloss": "What is the reason for that?",
+    "usage": "Common, slightly humorous or suspicious question.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Flowers? What's that in aid of?",
+      "What's all this in aid of?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "what's all this in aid of?"
+    ]
+  },
+  {
+    "headword": "job done",
+    "register": "AMBER",
+    "us_equivalent": "done and done",
+    "gloss": "Finished successfully.",
+    "usage": "Common, satisfied remark after finishing a task.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Signed, sealed, sent — job done.",
+      "Two coats of paint and job done."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "that'll do",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "That's enough or good enough; or stop that.",
+    "usage": "Common; 'that'll do nicely' is approving.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "That'll do for today.",
+      "Perfect, that'll do nicely."
+    ],
+    "collocations": [
+      "that'll do nicely"
+    ],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "there you go",
+    "register": "AMBER",
+    "us_equivalent": "here you go",
+    "gloss": "Said when handing something over; or 'that's how it is'.",
+    "usage": "Very common in shops and daily life.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "There you go, one flat white.",
+      "Well, there you go — you never know."
+    ],
+    "collocations": [
+      "here you go",
+      "there you are"
+    ],
+    "wiki": null,
+    "forms": [
+      "here you go",
+      "there you are"
+    ]
+  },
+  {
+    "headword": "right then",
+    "register": "AMBER",
+    "us_equivalent": "OK then",
+    "gloss": "Signalling that you are about to start, decide or leave.",
+    "usage": "Very British discourse marker.",
+    "pragmatic_note": "'Right then' often politely signals the end of a visit or chat.",
+    "pitfall": null,
+    "examples": [
+      "Right then, shall we get started?",
+      "Right then, I'll be off."
+    ],
+    "collocations": [
+      "right, then"
+    ],
+    "wiki": null,
+    "forms": [
+      "right"
+    ]
+  },
+  {
+    "headword": "oh well",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Accepting a disappointing situation that can't be changed.",
+    "usage": "Common, resigned remark.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Oh well, we'll try again next year.",
+      "It's sold out? Oh well."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I'll leave you to it",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "I'll go now so you can carry on with what you are doing.",
+    "usage": "Polite way to end an interruption.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "You look busy — I'll leave you to it.",
+      "Right, I'll leave you to it."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "I won't keep you",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "I'll be brief; I won't delay you.",
+    "usage": "Polite on the phone or when stopping someone.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I won't keep you — just a quick question.",
+      "Anyway, I won't keep you."
+    ],
+    "collocations": [
+      "don't let me keep you"
+    ],
+    "wiki": null,
+    "forms": [
+      "don't let me keep you"
+    ]
+  },
+  {
+    "headword": "I'll let you know",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "I'll tell you when I have more information or have decided.",
+    "usage": "Common; sometimes a soft non-committal answer.",
+    "pragmatic_note": "Can be a polite way of saying 'probably not'.",
+    "pitfall": null,
+    "examples": [
+      "I'll let you know by Friday.",
+      "Let me know if you need anything."
+    ],
+    "collocations": [
+      "let me know"
+    ],
+    "wiki": null,
+    "forms": [
+      "let me know"
+    ]
+  },
+  {
+    "headword": "shall we?",
+    "register": "GREEN",
+    "us_equivalent": "should we? / let's",
+    "gloss": "A suggestion to do something together.",
+    "usage": "Very common British suggestion form; 'shall I?' offers help.",
+    "pragmatic_note": null,
+    "pitfall": "'Shall' in questions is natural British usage, not old-fashioned.",
+    "examples": [
+      "Shall we get a coffee?",
+      "Shall I open a window?"
+    ],
+    "collocations": [
+      "shall I",
+      "shall we go"
+    ],
+    "wiki": null,
+    "forms": [
+      "shall I?",
+      "shall we"
+    ]
+  },
+  {
+    "headword": "whose turn is it?",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Asking who should do the next turn, task or round.",
+    "usage": "Common at home and in pubs.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Whose turn is it to wash up?",
+      "Whose turn is it to get the coffees?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "sit tight",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Stay where you are and wait patiently.",
+    "usage": "Common reassurance while something is sorted.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Sit tight, I'll be there in ten minutes.",
+      "Just sit tight until we hear back."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": []
+  },
+  {
+    "headword": "weigh up",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Consider carefully the advantages and disadvantages.",
+    "usage": "Neutral and common at work and in decisions.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We're still weighing up our options.",
+      "Weigh up the pros and cons first."
+    ],
+    "collocations": [
+      "weigh up the options"
+    ],
+    "wiki": null,
+    "forms": [
+      "weighs up",
+      "weighed up",
+      "weighing up"
+    ]
+  },
+  {
+    "headword": "think over",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Consider something carefully before deciding.",
+    "usage": "Neutral and common.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Think it over and let me know.",
+      "I need time to think it over."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "thought it over",
+      "thinking it over"
+    ]
+  },
+  {
+    "headword": "make out",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "See or hear with difficulty; or claim, often falsely.",
+    "usage": "Common in British speech in both senses.",
+    "pragmatic_note": null,
+    "pitfall": "In American English 'make out' commonly means kiss passionately.",
+    "examples": [
+      "I can't make out the sign from here.",
+      "He made out he'd never met her."
+    ],
+    "collocations": [
+      "make out that"
+    ],
+    "wiki": null,
+    "forms": [
+      "makes out",
+      "made out",
+      "making out"
+    ]
+  },
+  {
+    "headword": "go down well",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Be received positively.",
+    "usage": "Common at work and socially.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The new menu went down well.",
+      "That won't go down well with the boss."
+    ],
+    "collocations": [
+      "go down badly"
+    ],
+    "wiki": null,
+    "forms": [
+      "went down well",
+      "going down well"
+    ]
+  },
+  {
+    "headword": "make up for",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Compensate for something bad or lost.",
+    "usage": "Neutral and common.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Let me buy lunch to make up for it.",
+      "We'll have to make up for lost time."
+    ],
+    "collocations": [
+      "make up for lost time"
+    ],
+    "wiki": null,
+    "forms": [
+      "made up for",
+      "making up for"
+    ]
+  },
+  {
+    "headword": "get away with",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Avoid punishment or criticism for something wrong.",
+    "usage": "Neutral and common.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "He gets away with murder.",
+      "You won't get away with this."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "gets away with",
+      "got away with",
+      "getting away with"
+    ]
+  },
+  {
+    "headword": "get at",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Suggest or mean something; or criticise someone repeatedly.",
+    "usage": "'What are you getting at?' asks what someone is implying.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "What exactly are you getting at?",
+      "I feel like you're always getting at me."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "getting at",
+      "got at"
+    ]
+  },
+  {
+    "headword": "pencil in",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Arrange something provisionally, so it may change.",
+    "usage": "Common at work and socially.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Shall we pencil in Tuesday?",
+      "I've pencilled you in for two o'clock."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "pencilled in",
+      "pencilling in"
+    ]
+  },
+  {
+    "headword": "fit in",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Find time for someone or something; or belong in a group.",
+    "usage": "Common at work and appointments.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The GP can fit you in at four.",
+      "She fitted in really well with the team."
+    ],
+    "collocations": [
+      "fit someone in"
+    ],
+    "wiki": null,
+    "forms": [
+      "fits in",
+      "fitted in",
+      "fitting in"
+    ]
+  },
+  {
+    "headword": "squeeze in",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Manage to fit something into a busy schedule or small space.",
+    "usage": "Common and casual.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I can squeeze you in before lunch.",
+      "We squeezed in a quick drink."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "squeezed in",
+      "squeezing in"
+    ]
+  },
+  {
+    "headword": "book in",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Arrange an appointment; or register on arrival at a hotel.",
+    "usage": "Common British phrase; 'fully booked' means no space left.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I've booked the car in for a service.",
+      "We booked in at the hotel at six."
+    ],
+    "collocations": [
+      "book in for",
+      "fully booked"
+    ],
+    "wiki": null,
+    "forms": [
+      "booked in",
+      "booking in"
+    ]
+  },
+  {
+    "headword": "pop up",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Appear suddenly or unexpectedly.",
+    "usage": "Common for messages, problems and people.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Your name popped up on my phone.",
+      "New cafés keep popping up."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "pops up",
+      "popped up",
+      "popping up",
+      "pop-up"
+    ]
+  },
+  {
+    "headword": "end up",
+    "register": "GREEN",
+    "us_equivalent": "wind up",
+    "gloss": "Finally be in a place or situation, often unplanned.",
+    "usage": "Neutral and very common.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We ended up staying till midnight.",
+      "If you're not careful, you'll end up paying twice."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "ends up",
+      "ended up",
+      "ending up"
+    ]
+  },
+  {
+    "headword": "polish off",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Finish food or a task quickly and completely.",
+    "usage": "Common and casual.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "The kids polished off the whole pizza.",
+      "I'll polish off this report tonight."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "polished off",
+      "polishing off"
+    ]
+  },
+  {
+    "headword": "wrap up",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Finish something; or dress warmly.",
+    "usage": "'Wrap up warm' is a typical British parental instruction.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Let's wrap up and finish early.",
+      "Wrap up warm, it's bitter out there."
+    ],
+    "collocations": [
+      "wrap up warm"
+    ],
+    "wiki": null,
+    "forms": [
+      "wraps up",
+      "wrapped up",
+      "wrapping up"
+    ]
+  },
+  {
+    "headword": "freshen up",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Wash and tidy yourself to feel clean and refreshed.",
+    "usage": "Polite, often used when arriving somewhere.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll just freshen up before dinner.",
+      "Do you want to freshen up after the journey?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "freshened up",
+      "freshening up"
+    ]
+  },
+  {
+    "headword": "stock up",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Buy a large supply of something to have in reserve.",
+    "usage": "Common before holidays, bad weather or special offers.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We stocked up on tins before the snow.",
+      "I need to stock up on coffee."
+    ],
+    "collocations": [
+      "stock up on"
+    ],
+    "wiki": null,
+    "forms": [
+      "stocks up",
+      "stocked up",
+      "stocking up"
+    ]
+  },
+  {
+    "headword": "splash out",
+    "register": "AMBER",
+    "us_equivalent": "splurge",
+    "gloss": "Spend a lot of money on something enjoyable.",
+    "usage": "Common, usually about treats and celebrations.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We splashed out on a nice hotel for our anniversary.",
+      "Go on, splash out for once."
+    ],
+    "collocations": [
+      "splash out on"
+    ],
+    "wiki": null,
+    "forms": [
+      "splashes out",
+      "splashed out",
+      "splashing out"
+    ]
+  },
+  {
+    "headword": "shop around",
+    "register": "GREEN",
+    "us_equivalent": "comparison shop",
+    "gloss": "Compare prices or offers from different sellers before buying.",
+    "usage": "Common for insurance, energy deals and big purchases.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "It's worth shopping around for car insurance.",
+      "Shop around before you renew."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "shopped around",
+      "shopping around"
+    ]
+  },
+  {
+    "headword": "fork out",
+    "register": "AMBER",
+    "us_equivalent": "shell out",
+    "gloss": "Pay money, especially unwillingly.",
+    "usage": "Common complaint about costs.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We had to fork out for a new boiler.",
+      "I'm not forking out fifty quid for that."
+    ],
+    "collocations": [
+      "fork out for"
+    ],
+    "wiki": null,
+    "forms": [
+      "forks out",
+      "forked out",
+      "forking out"
+    ]
+  },
+  {
+    "headword": "cough up",
+    "register": "RED",
+    "us_equivalent": "pony up",
+    "gloss": "Pay money you owe or are expected to give, reluctantly.",
+    "usage": "Casual and slightly jokey.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Come on, cough up — it's your turn.",
+      "They finally coughed up the refund."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "coughs up",
+      "coughed up",
+      "coughing up"
+    ]
+  },
+  {
+    "headword": "save up",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Keep money over time in order to buy something.",
+    "usage": "Neutral and very common.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We're saving up for a deposit on a flat.",
+      "I saved up for months for this bike."
+    ],
+    "collocations": [
+      "save up for"
+    ],
+    "wiki": null,
+    "forms": [
+      "saves up",
+      "saved up",
+      "saving up"
+    ]
+  },
+  {
+    "headword": "pay back",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Return money you borrowed; or take revenge.",
+    "usage": "Neutral and common.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'll pay you back on Friday.",
+      "Has he paid you back yet?"
+    ],
+    "collocations": [
+      "pay someone back"
+    ],
+    "wiki": null,
+    "forms": [
+      "pays back",
+      "paid back",
+      "paying back"
+    ]
+  },
+  {
+    "headword": "settle in",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Become comfortable in a new home, job or school.",
+    "usage": "Common and kindly asked of newcomers.",
+    "pragmatic_note": "'Are you settling in all right?' is a friendly check on a new colleague.",
+    "pitfall": null,
+    "examples": [
+      "Are you settling in all right?",
+      "The kids settled in quickly at their new school."
+    ],
+    "collocations": [
+      "settle in well"
+    ],
+    "wiki": null,
+    "forms": [
+      "settles in",
+      "settled in",
+      "settling in"
+    ]
+  },
+  {
+    "headword": "cheer up",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Become happier, or make someone happier.",
+    "usage": "Common; 'cheer up!' is a friendly nudge.",
+    "pragmatic_note": "Telling a stranger to 'cheer up' can feel intrusive.",
+    "pitfall": null,
+    "examples": [
+      "Cheer up — it might never happen!",
+      "A walk always cheers me up."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "cheers up",
+      "cheered up",
+      "cheering up"
+    ]
+  },
+  {
+    "headword": "calm down",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Become less excited, angry or upset.",
+    "usage": "Common, though telling someone to 'calm down' can inflame things.",
+    "pragmatic_note": "Said to an angry person, 'calm down' often makes things worse.",
+    "pitfall": null,
+    "examples": [
+      "Things should calm down after Christmas.",
+      "Let's wait for everyone to calm down."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "calms down",
+      "calmed down",
+      "calming down"
+    ]
+  },
+  {
+    "headword": "speak up",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Speak more loudly; or state your opinion openly.",
+    "usage": "Neutral in both senses.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Could you speak up a bit? It's noisy in here.",
+      "Don't be afraid to speak up in meetings."
+    ],
+    "collocations": [
+      "speak up for"
+    ],
+    "wiki": null,
+    "forms": [
+      "speaks up",
+      "spoke up",
+      "speaking up"
+    ]
+  },
+  {
+    "headword": "step in",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Become involved to help or to stop something.",
+    "usage": "Neutral and common.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Luckily a neighbour stepped in to help.",
+      "The manager had to step in."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "steps in",
+      "stepped in",
+      "stepping in"
+    ]
+  },
+  {
+    "headword": "look forward to",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Feel pleased and excited about something that is going to happen.",
+    "usage": "Standard in speech and as a polite email closing.",
+    "pragmatic_note": null,
+    "pitfall": "Followed by a noun or -ing form: 'I look forward to meeting you', not 'to meet'.",
+    "examples": [
+      "I'm really looking forward to the weekend.",
+      "I look forward to hearing from you."
+    ],
+    "collocations": [
+      "look forward to hearing from you"
+    ],
+    "wiki": null,
+    "forms": [
+      "looking forward to",
+      "looked forward to"
+    ]
+  },
+  {
+    "headword": "look out for",
+    "register": "GREEN",
+    "us_equivalent": "keep an eye out for",
+    "gloss": "Try to notice someone or something; or protect someone.",
+    "usage": "Common in instructions and in caring for others.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Look out for the turning after the pub.",
+      "Older kids look out for the younger ones."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "looks out for",
+      "looked out for",
+      "looking out for"
+    ]
+  },
+  {
+    "headword": "run late",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Be behind schedule.",
+    "usage": "Common in messages and announcements.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Sorry, I'm running about ten minutes late.",
+      "The clinic is running late today."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "running late",
+      "ran late"
+    ]
+  },
+  {
+    "headword": "go through",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Experience something difficult; or examine something in detail.",
+    "usage": "Neutral and very common.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "She's going through a tough time.",
+      "Let's go through the contract together."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "goes through",
+      "went through",
+      "gone through",
+      "going through"
+    ]
+  },
+  {
+    "headword": "hang out",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Spend time relaxing with friends.",
+    "usage": "American in origin but now widely used by younger Britons.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We used to hang out in the park after school.",
+      "Do you want to hang out later?"
+    ],
+    "collocations": [
+      "hang out with"
+    ],
+    "wiki": null,
+    "forms": [
+      "hangs out",
+      "hung out",
+      "hanging out"
+    ]
+  },
+  {
+    "headword": "go out",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Leave home for a social activity; or have a romantic relationship.",
+    "usage": "Very common; 'going out with someone' means dating.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Are you going out tonight?",
+      "How long have they been going out?"
+    ],
+    "collocations": [
+      "go out with",
+      "go out for dinner"
+    ],
+    "wiki": null,
+    "forms": [
+      "goes out",
+      "went out",
+      "going out"
+    ]
+  },
+  {
+    "headword": "eat out",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Have a meal in a restaurant rather than at home.",
+    "usage": "Neutral and common.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "We don't eat out as much as we used to.",
+      "Shall we eat out tonight?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "eats out",
+      "ate out",
+      "eating out"
+    ]
+  },
+  {
+    "headword": "dish up",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Put food onto plates ready to eat.",
+    "usage": "Common British domestic phrase.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "I'm dishing up — come and sit down.",
+      "Can you dish up the potatoes?"
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "dishes up",
+      "dished up",
+      "dishing up"
+    ]
+  },
+  {
+    "headword": "clear up",
+    "register": "GREEN",
+    "us_equivalent": null,
+    "gloss": "Tidy a place; or of weather or illness, improve.",
+    "usage": "Common in all senses.",
+    "pragmatic_note": null,
+    "pitfall": null,
+    "examples": [
+      "Who's going to clear up this mess?",
+      "It should clear up by the afternoon."
+    ],
+    "collocations": [
+      "clear up after"
+    ],
+    "wiki": null,
+    "forms": [
+      "clears up",
+      "cleared up",
+      "clearing up"
+    ]
+  },
+  {
+    "headword": "can't be bothered",
+    "register": "AMBER",
+    "us_equivalent": null,
+    "gloss": "Don't have the energy or motivation to do something.",
+    "usage": "Very common, frank British phrase.",
+    "pragmatic_note": "Honest but can sound lazy or rude if said about a request from someone else.",
+    "pitfall": null,
+    "examples": [
+      "I can't be bothered to cook tonight.",
+      "He couldn't be bothered to reply."
+    ],
+    "collocations": [],
+    "wiki": null,
+    "forms": [
+      "couldn't be bothered"
+    ]
+  }
+]

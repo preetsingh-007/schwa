@@ -82,3 +82,11 @@ describe('alignToTarget (Stream D phonetic diff)', () => {
     expect(a.words[1].start).toBeCloseTo(0.16);
   });
 });
+
+describe('prototype-safe dictionaries', () => {
+  it('handles words that collide with Object.prototype keys', async () => {
+    const t = await targetFromText('The constructor called toString and valueOf.');
+    expect(t.map((w) => w.text)).toEqual(['The', 'constructor', 'called', 'toString', 'and', 'valueOf']);
+    expect(t.every((w) => w.phones.length > 0)).toBe(true);
+  });
+});
