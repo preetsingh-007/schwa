@@ -15,6 +15,10 @@ npm run build        # static PWA in dist/
 
 Open the app, tap **Load offline engine** (a one-time download, about 305 MB, cached for offline use), then tap the mic or hold **Space**. The neural RP voice (about 92 MB) downloads the first time you need it.
 
+### Demo video
+
+`scripts/demo/` records a trailer, setup guide and tutorial from the real app: real models and real scores, with a synthesised learner voice. See [`scripts/demo/README.md`](scripts/demo/README.md).
+
 ### Deploying
 
 `.github/workflows/deploy.yml` builds and deploys on every push to `main`. In the repo's **Settings → Pages**, set *Source* to **GitHub Actions**. The workflow sets `BASE_PATH=/<repo>/`, so the app is served at `https://<user>.github.io/<repo>/`. To install it, use *Share → Add to Home Screen* on iPhone/iPad, or *File → Add to Dock* in Safari on macOS.
