@@ -144,6 +144,7 @@ button { font: inherit; color: inherit; }
 .ph.drift { color: var(--amber-ink); background: var(--amber-bg); }
 .ph.error { color: var(--crimson-ink); background: var(--crimson-bg); font-weight: 700; }
 .ph.gap { color: var(--muted); }
+.ph.cal { text-decoration: underline dotted var(--muted); text-underline-offset: 3px; }
 .legend { display: flex; gap: 12px; flex-wrap: wrap; font-size: 0.78rem; color: var(--muted); margin-top: 8px; }
 .legend i { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 4px; vertical-align: -1px; }
 

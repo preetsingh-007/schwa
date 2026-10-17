@@ -1,0 +1,201 @@
+{
+ "version": 1,
+ "levels": [
+  {
+   "level": 1,
+   "file": "level-01.json",
+   "count": 2000,
+   "passages": 0
+  },
+  {
+   "level": 2,
+   "file": "level-02.json",
+   "count": 2000,
+   "passages": 0
+  },
+  {
+   "level": 3,
+   "file": "level-03.json",
+   "count": 2000,
+   "passages": 0
+  },
+  {
+   "level": 4,
+   "file": "level-04.json",
+   "count": 2000,
+   "passages": 0
+  },
+  {
+   "level": 5,
+   "file": "level-05.json",
+   "count": 2000,
+   "passages": 0
+  },
+  {
+   "level": 6,
+   "file": "level-06.json",
+   "count": 2743,
+   "passages": 743
+  },
+  {
+   "level": 7,
+   "file": "level-07.json",
+   "count": 2744,
+   "passages": 744
+  },
+  {
+   "level": 8,
+   "file": "level-08.json",
+   "count": 2743,
+   "passages": 743
+  },
+  {
+   "level": 9,
+   "file": "level-09.json",
+   "count": 2744,
+   "passages": 744
+  },
+  {
+   "level": 10,
+   "file": "level-10.json",
+   "count": 2743,
+   "passages": 743
+  },
+  {
+   "level": 11,
+   "file": "level-11.json",
+   "count": 2744,
+   "passages": 744
+  },
+  {
+   "level": 12,
+   "file": "level-12.json",
+   "count": 2000,
+   "passages": 0
+  }
+ ],
+ "total": 28461,
+ "sources": [
+  {
+   "id": "tatoeba",
+   "name": "Tatoeba",
+   "license": "CC BY 2.0 FR",
+   "url": "https://tatoeba.org/",
+   "itemUrl": "https://tatoeba.org/en/sentences/show/{id}"
+  },
+  {
+   "id": "gutenberg:11",
+   "name": "Alice's Adventures in Wonderland — Lewis Carroll",
+   "license": "Public domain",
+   "url": "https://www.gutenberg.org/ebooks/11"
+  },
+  {
+   "id": "gutenberg:12",
+   "name": "Through the Looking-Glass — Lewis Carroll",
+   "license": "Public domain",
+   "url": "https://www.gutenberg.org/ebooks/12"
+  },
+  {
+   "id": "gutenberg:1260",
+   "name": "Jane Eyre: An Autobiography — Charlotte Brontë",
+   "license": "Public domain",
+   "url": "https://www.gutenberg.org/ebooks/1260"
+  },
+  {
+   "id": "gutenberg:1342",
+   "name": "Pride and Prejudice — Jane Austen",
+   "license": "Public domain",
+   "url": "https://www.gutenberg.org/ebooks/1342"
+  },
+  {
+   "id": "gutenberg:158",
+   "name": "Emma — Jane Austen",
+   "license": "Public domain",
+   "url": "https://www.gutenberg.org/ebooks/158"
+  },
+  {
+   "id": "gutenberg:1661",
+   "name": "The Adventures of Sherlock Holmes — Arthur Conan Doyle",
+   "license": "Public domain",
+   "url": "https://www.gutenberg.org/ebooks/1661"
+  },
+  {
+   "id": "gutenberg:204",
+   "name": "The innocence of Father Brown — G. K. Chesterton",
+   "license": "Public domain",
+   "url": "https://www.gutenberg.org/ebooks/204"
+  },
+  {
+   "id": "gutenberg:2166",
+   "name": "King Solomon's Mines — H. Rider Haggard",
+   "license": "Public domain",
+   "url": "https://www.gutenberg.org/ebooks/2166"
+  },
+  {
+   "id": "gutenberg:2183",
+   "name": "Three men on the bummel — Jerome K. Jerome",
+   "license": "Public domain",
+   "url": "https://www.gutenberg.org/ebooks/2183"
+  },
+  {
+   "id": "gutenberg:2852",
+   "name": "The Hound of the Baskervilles — Arthur Conan Doyle",
+   "license": "Public domain",
+   "url": "https://www.gutenberg.org/ebooks/2852"
+  },
+  {
+   "id": "gutenberg:289",
+   "name": "The Wind in the Willows — Kenneth Grahame",
+   "license": "Public domain",
+   "url": "https://www.gutenberg.org/ebooks/289"
+  },
+  {
+   "id": "gutenberg:308",
+   "name": "Three men in a boat (to say nothing of the dog) — Jerome K. Jerome",
+   "license": "Public domain",
+   "url": "https://www.gutenberg.org/ebooks/308"
+  },
+  {
+   "id": "gutenberg:35",
+   "name": "The Time Machine — H. G. Wells",
+   "license": "Public domain",
+   "url": "https://www.gutenberg.org/ebooks/35"
+  },
+  {
+   "id": "gutenberg:3825",
+   "name": "Pygmalion — Bernard Shaw",
+   "license": "Public domain",
+   "url": "https://www.gutenberg.org/ebooks/3825"
+  },
+  {
+   "id": "gutenberg:5230",
+   "name": "The Invisible Man: A Grotesque Romance — H. G. Wells",
+   "license": "Public domain",
+   "url": "https://www.gutenberg.org/ebooks/5230"
+  },
+  {
+   "id": "gutenberg:5670",
+   "name": "Jacob's Room — Virginia Woolf",
+   "license": "Public domain",
+   "url": "https://www.gutenberg.org/ebooks/5670"
+  },
+  {
+   "id": "gutenberg:834",
+   "name": "The Memoirs of Sherlock Holmes — Arthur Conan Doyle",
+   "license": "Public domain",
+   "url": "https://www.gutenberg.org/ebooks/834"
+  },
+  {
+   "id": "gutenberg:849",
+   "name": "The Idle Thoughts of an Idle Fellow — Jerome K. Jerome",
+   "license": "Public domain",
+   "url": "https://www.gutenberg.org/ebooks/849"
+  },
+  {
+   "id": "gutenberg:98",
+   "name": "A Tale of Two Cities — Charles Dickens",
+   "license": "Public domain",
+   "url": "https://www.gutenberg.org/ebooks/98"
+  }
+ ]
+}

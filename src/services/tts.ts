@@ -4,7 +4,23 @@
  * English" in Chrome). Used for reference playback and Commute Mode read-outs.
  */
 
+import { rpVoice } from './rpVoice';
+import { stopPcm } from './audio';
+
 let voicesCache: SpeechSynthesisVoice[] = [];
+
+/** Which reference voice speak() uses; set from Settings. */
+const voiceConfig = { mode: 'system' as 'neural' | 'system', kokoroVoice: 'bf_emma' };
+export function configureVoice(c: { mode: 'neural' | 'system'; kokoroVoice: string }): void {
+  voiceConfig.mode = c.mode;
+  voiceConfig.kokoroVoice = c.kokoroVoice;
+}
+export function neuralVoiceEnabled(): boolean {
+  return voiceConfig.mode === 'neural';
+}
+export function currentKokoroVoice(): string {
+  return voiceConfig.kokoroVoice;
+}
 
 export function ttsSupported(): boolean {
   return typeof window !== 'undefined' && 'speechSynthesis' in window;
@@ -37,7 +53,24 @@ export function pickVoice(name?: string): SpeechSynthesisVoice | undefined {
   return gb[0];
 }
 
-export function speak(text: string, opts: { voice?: string; rate?: number } = {}): Promise<void> {
+/**
+ * Speak with the neural RP voice when enabled (rendering on device, cached),
+ * otherwise — or if the neural voice fails — with the platform synthesiser.
+ */
+export async function speak(text: string, opts: { voice?: string; rate?: number } = {}): Promise<void> {
+  if (!text.trim()) return;
+  if (voiceConfig.mode === 'neural') {
+    try {
+      await rpVoice.play(text, voiceConfig.kokoroVoice, opts.rate && opts.rate < 0.9 ? 0.8 : 1);
+      return;
+    } catch {
+      /* fall back to the system voice */
+    }
+  }
+  return speakSystem(text, opts);
+}
+
+export function speakSystem(text: string, opts: { voice?: string; rate?: number } = {}): Promise<void> {
   if (!ttsSupported() || !text.trim()) return Promise.resolve();
   return new Promise((resolve) => {
     speechSynthesis.cancel();
@@ -50,11 +83,12 @@ export function speak(text: string, opts: { voice?: string; rate?: number } = {}
     u.onend = done;
     u.onerror = done;
     // iOS sometimes never fires onend; guard with a generous timeout.
-    setTimeout(done, Math.max(4000, text.length * 120));
+    setTimeout(done, Math.max(4000, text.length * 150 + 3000));
     speechSynthesis.speak(u);
   });
 }
 
 export function stopSpeaking(): void {
   if (ttsSupported()) speechSynthesis.cancel();
+  stopPcm();
 }

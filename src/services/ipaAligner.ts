@@ -5,12 +5,15 @@
  */
 import { substitutionCost, isVowel, isRpPhoneme, REDUCED_VOWELS } from '../lib/ipa';
 import type { TargetPhone, TargetWord } from '../lib/connectedSpeech';
+import { measureRhoticity, type RhoticMeasure } from '../lib/rhotic';
 
 export interface ProducedPhone {
   p: string;
   /** seconds from start of the utterance */
   start?: number;
   end?: number;
+  /** raw acoustic-model token this phone came from (e.g. "ɑːɹ") */
+  tok?: string;
 }
 
 export type PairKind = 'match' | 'drift' | 'error';
@@ -20,6 +23,41 @@ export type Diagnosis =
   | 'FACE_MONOPHTHONG' | 'TRAP_BATH' | 'LOT_THOUGHT' | 'RHOTIC' | 'TAP_R' | 'MISSED_SCHWA'
   | 'MISSED_LINKING_R' | 'VOWEL_LENGTH' | 'ELISION' | 'DELETION' | 'INSERTION' | 'SUBSTITUTION' | 'DRIFT';
 
+/**
+ * Rates at which British reference speech (Kokoro en-GB voices) triggers each
+ * deviation in the acoustic model — see scripts/calibrate-acoustic.ts. A
+ * deviation that native-like RP produces routinely is model bias, not a
+ * learner error.
+ */
+export interface AcousticCalibration {
+  minRate: number;
+  accept: Record<string, Record<string, number>>;
+  insertions: Record<string, Record<string, number>>;
+  weakForms: Record<string, Record<string, number>>;
+  /** acoustic F3 rhoticity threshold (scripts/calibrate-rhotic.ts) */
+  rhotic?: { threshold: number; balancedAccuracy: number; falseAlarmRate: number };
+}
+
+let CAL: AcousticCalibration | null = null;
+/** Threshold above which a reference-speech deviation is treated as model-equivalent. */
+export const CALIBRATION_ACCEPT = 0.2;
+
+export function setAcousticCalibration(c: AcousticCalibration | null): void {
+  CAL = c;
+}
+
+function calRate(t: TargetPhone, p: string): number {
+  if (!CAL) return 0;
+  if (t.weakWord && CAL.weakForms[t.weakWord]) return CAL.weakForms[t.weakWord][p] ?? 0;
+  return CAL.accept[t.p]?.[p] ?? 0;
+}
+function calInsertRate(prev: string | undefined, p: string, tok?: string): number {
+  if (!CAL || !prev) return 0;
+  const m = CAL.insertions[prev];
+  if (!m) return 0;
+  return Math.max(tok && tok !== p ? m[`${p}@${tok}`] ?? 0 : 0, m[p] ?? 0);
+}
+
 export interface AlignedPair {
   target?: TargetPhone;
   produced?: ProducedPhone;
@@ -28,6 +66,8 @@ export interface AlignedPair {
   diagnosis?: Diagnosis;
   /** index of the target word this pair belongs to */
   word: number;
+  /** deviation accepted because RP reference speech triggers it too (model bias) */
+  calibrated?: boolean;
 }
 
 export interface WordAlignment {
@@ -50,6 +90,8 @@ export interface AlignmentResult {
   weightedPer: number;
   schwa: { expected: number; reduced: number; missedWords: number[] };
   diagnoses: Partial<Record<Diagnosis, number>>;
+  /** acoustic F3 measurements at spelled-r vowels (ratio < threshold ⇒ /r/ pronounced) */
+  rhoticity: RhoticMeasure[];
 }
 
 /** Diagnoses that are always crimson (phoneme-level interference habits). */
@@ -63,6 +105,7 @@ const GAP_INSERT = 0.7;
 
 function deletionCost(t: TargetPhone): number {
   if (t.linking) return 0.3;
+  if (calRate(t, '∅') >= CALIBRATION_ACCEPT) return 0.2;
   if (t.weak || t.p === 'ə') return 0.45;
   if (t.glottalOk) return 0.5;
   return isVowel(t.p) ? 0.9 : 0.8;
@@ -86,6 +129,7 @@ function pairCost(t: TargetPhone, p: string): number {
   if (t.p === p) return 0;
   if (t.glottalOk && p === 'ʔ') return 0.02;
   if (weakOk(t, p)) return 0.04;
+  if (calRate(t, p) >= CALIBRATION_ACCEPT) return 0.05;
   return substitutionCost(t.p, p);
 }
 
@@ -106,8 +150,9 @@ export function diagnose(t: TargetPhone, p: string): Diagnosis | undefined {
   return undefined;
 }
 
-function classify(t: TargetPhone, p: string, cost: number): { kind: PairKind; diagnosis?: Diagnosis } {
+function classify(t: TargetPhone, p: string, cost: number): { kind: PairKind; diagnosis?: Diagnosis; calibrated?: boolean } {
   if (t.p === p || (t.glottalOk && p === 'ʔ') || weakOk(t, p)) return { kind: 'match' };
+  if (calRate(t, p) >= CALIBRATION_ACCEPT) return { kind: 'match', calibrated: true };
   const d = diagnose(t, p);
   if (d === 'MISSED_SCHWA') return { kind: 'drift', diagnosis: d };
   if (d && CRIMSON.has(d)) return { kind: 'error', diagnosis: d };
@@ -151,6 +196,11 @@ export function alignSequences(target: TargetPhone[], produced: ProducedPhone[])
       i--; j--;
     } else if (b === 1) {
       const t = target[i - 1];
+      if (calRate(t, '∅') >= CALIBRATION_ACCEPT) {
+        out.push({ target: t, cost: deletionCost(t), word: t.word, kind: 'match', calibrated: true });
+        i--;
+        continue;
+      }
       const elidable = t.linking || t.weak || t.p === 'ə' || t.glottalOk;
       out.push({
         target: t, cost: deletionCost(t), word: t.word,
@@ -182,6 +232,10 @@ function resolveInsertions(pairs: AlignedPair[]): void {
     for (let a = k + 1; a < pairs.length; a++) if (pairs[a].target) { nextT = pairs[a]; break; }
     pr.word = prevT ? prevT.word : nextT ? nextT.word : 0;
     const p = pr.produced!.p;
+    if (calInsertRate(prevT?.target?.p, p, pr.produced!.tok) >= CALIBRATION_ACCEPT) {
+      pr.kind = 'match'; pr.calibrated = true; pr.diagnosis = undefined; pr.cost = 0;
+      continue;
+    }
     const prevIsVowel = !!prevT?.target && isVowel(prevT.target.p);
     const nextIsVowelSameWord = !!nextT?.target && isVowel(nextT.target.p) && nextT.word === prevT?.word;
     if ((p === 'r' || p === 'ɾ' || p === 'ɻ') && prevIsVowel && !nextIsVowelSameWord) {
@@ -196,9 +250,32 @@ function joinIpa(ps: (string | undefined)[]): string {
   return ps.filter(Boolean).join('');
 }
 
-export function alignToTarget(words: TargetWord[], produced: ProducedPhone[]): AlignmentResult {
+/**
+ * Use the acoustic F3 measurement as the arbiter of rhoticity: a low F3 at a
+ * spelled-r vowel is a pronounced /r/ (crimson) even if the model's label
+ * looked RP; a normal F3 clears an /r/ the model inferred from the spelling.
+ */
+function applyRhoticEvidence(pairs: AlignedPair[], measures: RhoticMeasure[], threshold: number): void {
+  for (const m of measures) {
+    const vowel = pairs[m.pair];
+    const after = pairs.slice(m.pair + 1).find((q) => !q.target && q.produced && /^(r|ɾ|ɻ)$/.test(q.produced.p) && q.word === vowel.word);
+    if (m.ratio < threshold) {
+      const host = after ?? vowel;
+      host.kind = 'error'; host.diagnosis = 'RHOTIC'; host.cost = 0.9; host.calibrated = false;
+    } else if (after && after.diagnosis === 'RHOTIC') {
+      after.kind = 'match'; after.diagnosis = undefined; after.cost = 0; after.calibrated = true;
+    }
+  }
+}
+
+export function alignToTarget(words: TargetWord[], produced: ProducedPhone[], audio?: Float32Array, sampleRate = 16000): AlignmentResult {
   const target = words.flatMap((w) => w.phones);
   const pairs = alignSequences(target, produced);
+  let rhoticity: RhoticMeasure[] = [];
+  if (audio && CAL?.rhotic) {
+    rhoticity = measureRhoticity(audio, sampleRate, words, pairs);
+    applyRhoticEvidence(pairs, rhoticity, CAL.rhotic.threshold);
+  }
 
   const wordAligns: WordAlignment[] = words.map((w, index) => ({
     index, text: w.text, targetIpa: w.ipa, producedIpa: '', pairs: [], status: 'match' as PairKind,
@@ -229,7 +306,8 @@ export function alignToTarget(words: TargetWord[], produced: ProducedPhone[]): A
   words.forEach((w, idx) => {
     if (!w.weakApplied) return;
     const vowelPairs = wordAligns[idx].pairs.filter((p) => p.target?.weak);
-    if (!vowelPairs.length) return;
+    // calibrated = the model can't tell weak from strong here; don't count it either way
+    if (!vowelPairs.length || vowelPairs.some((p) => p.calibrated)) return;
     expected++;
     const ok = vowelPairs.every((p) => !p.produced || weakOk(p.target!, p.produced.p));
     if (ok) reduced++; else missedWords.push(idx);
@@ -243,5 +321,6 @@ export function alignToTarget(words: TargetWord[], produced: ProducedPhone[]): A
     weightedPer: Math.min(1, weighted / N),
     schwa: { expected, reduced, missedWords },
     diagnoses,
+    rhoticity,
   };
 }

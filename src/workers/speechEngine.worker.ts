@@ -10,7 +10,7 @@
 import { env, pipeline as hfPipeline, AutoProcessor, AutoModelForCTC, type AutomaticSpeechRecognitionPipeline, type FeatureExtractionPipeline, type PreTrainedModel, type Processor, type Tensor } from '@huggingface/transformers';
 import { targetFromText } from '../lib/g2p';
 import { analyzeProsody } from '../lib/prosody';
-import { normalizeAcousticToken } from '../lib/ipa';
+import { ctcGreedy } from '../lib/ctc';
 import { chunkBoundaries } from '../lib/audioUtils';
 import type { ProducedPhone } from '../services/ipaAligner';
 import { MODELS, type AnalyzeRequest, type AnalyzeResponse, type CacheStatus, type InitOptions, type ModelKey, type WorkerEvent, type WorkerRequest } from './protocol';
@@ -23,7 +23,6 @@ const pipeline = hfPipeline as unknown as (task: string, model: string, opts: Re
 const TRANSFORMERS_CACHE = 'transformers-cache';
 const VOCAB_CACHE = 'lexiphon-vocab';
 const SR = 16000;
-const CTC_FRAME_SEC = 0.02; // wav2vec2 conv stack stride = 320 samples
 
 let asr: AutomaticSpeechRecognitionPipeline | null = null;
 let w2vProcessor: Processor | null = null;
@@ -111,33 +110,6 @@ async function init(opts: InitOptions): Promise<void> {
   post({ type: 'ready', models: { asr: !!asr, phoneme: !!w2vModel, embed: !!embedder }, device });
 }
 
-/** Greedy CTC decoding with frame timings. */
-function ctcDecode(logits: Tensor, offsetSec: number): ProducedPhone[] {
-  const [, T, V] = logits.dims as number[];
-  const data = logits.data as Float32Array;
-  const out: ProducedPhone[] = [];
-  let prev = -1, runStart = 0;
-  const flush = (id: number, s: number, e: number) => {
-    const tok = w2vVocab?.[id];
-    if (!tok) return;
-    const phones = normalizeAcousticToken(tok);
-    const t0 = offsetSec + s * CTC_FRAME_SEC, t1 = offsetSec + (e + 1) * CTC_FRAME_SEC;
-    const dt = (t1 - t0) / Math.max(1, phones.length);
-    phones.forEach((p, k) => out.push({ p, start: t0 + k * dt, end: t0 + (k + 1) * dt }));
-  };
-  for (let t = 0; t < T; t++) {
-    let best = 0, bv = -Infinity;
-    const off = t * V;
-    for (let v = 0; v < V; v++) { const x = data[off + v]; if (x > bv) { bv = x; best = v; } }
-    if (best !== prev) {
-      if (prev > 0) flush(prev, runStart, t - 1);
-      prev = best; runStart = t;
-    }
-  }
-  if (prev > 0) flush(prev, runStart, T - 1);
-  return out;
-}
-
 async function recognisePhones(audio: Float32Array): Promise<ProducedPhone[]> {
   if (!w2vModel || !w2vProcessor) return [];
   const bounds = chunkBoundaries(audio);
@@ -147,7 +119,8 @@ async function recognisePhones(audio: Float32Array): Promise<ProducedPhone[]> {
     if (slice.length < SR * 0.2) continue;
     const inputs = await w2vProcessor(slice);
     const { logits } = (await w2vModel(inputs)) as { logits: Tensor };
-    phones.push(...ctcDecode(logits, bounds[c] / SR));
+    const [, T, V] = logits.dims as number[];
+    phones.push(...ctcGreedy(logits.data as Float32Array, T, V, w2vVocab ?? [], bounds[c] / SR));
     logits.dispose?.();
   }
   return phones;

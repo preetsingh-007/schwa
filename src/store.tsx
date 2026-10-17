@@ -2,6 +2,7 @@ import { createContext, useCallback, useContext, useEffect, useMemo, useState, t
 import type { CuratedData, LearnerState, PromptStat, Settings, VocabCard, VocabEntry } from './types';
 import { db, getLearner, getSettings, saveSettings } from './services/db';
 import { engine } from './services/engine';
+import { setAcousticCalibration, type AcousticCalibration } from './services/ipaAligner';
 import type { ModelKey } from './workers/protocol';
 
 export async function loadCuratedData(): Promise<CuratedData> {
@@ -11,13 +12,16 @@ export async function loadCuratedData(): Promise<CuratedData> {
     if (!r.ok) throw new Error(`Failed to load ${f}`);
     return (await r.json()) as T;
   };
-  const [phonemes, vocab, rules, prompts] = await Promise.all([
+  const [phonemes, vocab, rules, prompts, calibration] = await Promise.all([
     get<CuratedData['phonemes']>('rp_phonemes_44.json'),
     get<CuratedData['vocab']>('vocab_curriculum.json'),
     get<CuratedData['rules']>('redundancy_rules.json'),
     get<CuratedData['prompts']>('prompts_tiered.json'),
+    get<AcousticCalibration>('acoustic_calibration.json').catch(() => null),
   ]);
-  return { phonemes, vocab, rules, prompts };
+  // Model-bias corrections measured on British reference speech (see scripts/calibrate-acoustic.ts).
+  setAcousticCalibration(calibration);
+  return { phonemes, vocab, rules, prompts, calibration };
 }
 
 export type EngineState = 'idle' | 'loading' | 'ready' | 'error';

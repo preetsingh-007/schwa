@@ -4,11 +4,12 @@
  */
 import { alignToTarget, type AlignmentResult, type Diagnosis, type ProducedPhone } from './ipaAligner';
 import { concisenessReport, vocabUsed, tokenize, type ConcisenessReport } from './redundancy';
-import { compositeReward, lexicalScore, phoneticScore, prosodyScore, type LexicalBreakdown, type ProsodyBreakdown, type RewardResult } from './reward';
+import { compositeReward, lexicalScore, phoneticScore, prosodyScore, SHADOW_WEIGHTS, type LexicalBreakdown, type ProsodyBreakdown, type RewardResult } from './reward';
 import { updateConfusion, updateHabits, updateProsodyVector, spokenGrade, ewmaUpdate } from './rlBandit';
 import { newCard, review } from './fsrs';
 import { db, getLearner, markDirty } from './db';
 import { withStateLock } from './lock';
+import { nextShadowLevel } from './corpus';
 import type { TargetWord } from '../lib/connectedSpeech';
 import { normalizeWord } from '../lib/connectedSpeech';
 import type { ProsodyMetrics } from '../lib/prosody';
@@ -25,6 +26,8 @@ export interface TurnInput {
   /** cosine similarity from MiniLM, if available */
   semantic: number | null;
   audio: Float32Array;
+  /** neural RP rendering of the same text (listen-and-repeat) */
+  reference?: { prosody: ProsodyMetrics; voice: string } | null;
 }
 
 export interface TurnResult extends TurnInput {
@@ -74,10 +77,10 @@ function findWordIndex(target: TargetWord[], v: VocabEntry): number {
 export function evaluateTurn(input: TurnInput, data: CuratedData): TurnResult {
   const { prompt } = input;
   const tier = prompt.tier;
-  const alignment = input.produced ? alignToTarget(input.target, input.produced) : null;
+  const alignment = input.produced ? alignToTarget(input.target, input.produced, input.audio) : null;
   const fillers = (input.transcript.match(FILLER_RE) ?? []).length;
   const schwaRate = alignment && alignment.schwa.expected > 0 ? alignment.schwa.reduced / alignment.schwa.expected : null;
-  const prosodyBreakdown = prosodyScore(input.prosody, schwaRate, fillers);
+  const prosodyBreakdown = prosodyScore(input.prosody, schwaRate, fillers, input.reference?.prosody);
 
   const concise = tier === 1 ? null : concisenessReport(input.transcript, data.rules);
   const usedVocab = vocabUsed(input.transcript, data.vocab);
@@ -97,6 +100,7 @@ export function evaluateTurn(input: TurnInput, data: CuratedData): TurnResult {
     lexical: lexical?.score ?? 0,
     criticalRedundancies: concise?.critical ?? 0,
     wordCoverage: coverage ?? undefined,
+    weights: prompt.mode === 'shadow' ? SHADOW_WEIGHTS : undefined,
   });
 
   const hesitatedVocab: string[] = [];
@@ -178,11 +182,13 @@ async function commitTurnUnlocked(r: TurnResult, data: CuratedData): Promise<Ses
   });
 
   const stat = (await db.promptStats.get(r.prompt.id)) ?? { id: r.prompt.id, n: 0, lastServed: 0, bestReward: 0, passed: false, updatedAt: now };
+  const shadowLevel = r.prompt.mode === 'shadow' ? r.prompt.level ?? learner.shadowLevel ?? 1 : undefined;
   const log: SessionLog = {
     id: `${now.toString(36)}-${Math.random().toString(36).slice(2, 8)}`,
     ts: now,
     promptId: r.prompt.id,
     tier: r.tier,
+    ...(shadowLevel !== undefined ? { shadowLevel } : {}),
     attempt: r.attempt,
     reward: Math.round(r.reward.reward * 10) / 10,
     phonetic: Math.round((r.reward.phonetic ?? 0) * 10) / 10,
@@ -202,6 +208,11 @@ async function commitTurnUnlocked(r: TurnResult, data: CuratedData): Promise<Ses
       retrievalPauseMs: r.retrievalPauseMs === null ? null : Math.round(r.retrievalPauseMs),
     },
   };
+
+  if (shadowLevel !== undefined && shadowLevel === (learner.shadowLevel ?? 1)) {
+    const recent = await db.sessions.orderBy('ts').reverse().filter((x) => x.shadowLevel === shadowLevel).limit(20).toArray();
+    next.shadowLevel = nextShadowLevel(shadowLevel, [log, ...recent]);
+  }
 
   await db.transaction('rw', [db.learner, db.vocab, db.promptStats, db.sessions], async () => {
     await db.learner.put(next);

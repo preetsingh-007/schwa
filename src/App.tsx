@@ -6,9 +6,10 @@ import SettingsVault from './components/SettingsVault';
 import VocabRegisterCard from './components/VocabRegisterCard';
 import { ChartIcon, GearIcon, HeadphonesIcon, BackIcon } from './components/Icons';
 import { onSyncStatus, type SyncStatus } from './services/syncManager';
+import { configureVoice } from './services/tts';
 import type { Tier } from './types';
 
-export type TierMode = 'auto' | Tier;
+export type TierMode = 'auto' | Tier | 'shadow';
 
 function ago(ts: number | null): string {
   if (!ts) return 'never';
@@ -47,7 +48,10 @@ export default function App() {
   const [tierMode, setTierMode] = useState<TierMode>('auto');
   const [focusPhoneme, setFocusPhoneme] = useState<string | null>(null);
 
-  const cycleTier = () => setTierMode((t) => (t === 'auto' ? 1 : t === 1 ? 2 : t === 2 ? 3 : 'auto'));
+  const cycleTier = () => setTierMode((t) => (t === 'auto' ? 1 : t === 1 ? 2 : t === 2 ? 3 : t === 3 ? 'shadow' : 'auto'));
+
+  // Route speak() to the neural RP voice or the system synthesiser.
+  useEffect(() => { configureVoice({ mode: settings.rpVoice, kokoroVoice: settings.kokoroVoice }); }, [settings.rpVoice, settings.kokoroVoice]);
 
   return (
     <div className="app">
@@ -56,8 +60,8 @@ export default function App() {
           <button className="iconbtn" onClick={() => setView('arena')} aria-label="Back to practice"><BackIcon /></button>
         ) : null}
         <div className="brand"><span className="glyph">ə</span><span className="name">LexiPhon</span></div>
-        <button className="chip tier" onClick={cycleTier} title="Tier: tap to cycle Auto → 1 → 2 → 3">
-          {tierMode === 'auto' ? 'Tier · Auto' : `Tier ${tierMode}`}
+        <button className="chip tier" onClick={cycleTier} title="Mode: tap to cycle Auto → Tier 1 → 2 → 3 → Listen & repeat">
+          {tierMode === 'auto' ? 'Auto' : tierMode === 'shadow' ? 'Repeat' : `Tier ${tierMode}`}
         </button>
         <span className="spacer" />
         <button

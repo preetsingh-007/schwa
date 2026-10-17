@@ -16,10 +16,12 @@ export default function VocabRegisterCard({ id, onClose }: { id: string; onClose
   if (!v) return null;
   const card = vocabCards.get(id);
   const recall = recallProbability(card, Date.now());
-  const play = () => {
-    if (v.audio_uri) void new Audio(`${import.meta.env.BASE_URL}${v.audio_uri.replace(/^\//, '')}`).play().catch(() => speak(v.headword, { voice: settings.ttsVoice, rate: 0.85 }));
-    else void speak(v.headword, { voice: settings.ttsVoice, rate: 0.85 });
+  // Pre-rendered RP audio ships with the app (works in low-memory mode); otherwise render on device.
+  const playClip = (uri: string | null | undefined, text: string, rate = 1) => {
+    if (uri) void new Audio(`${import.meta.env.BASE_URL}${uri.replace(/^\//, '')}`).play().catch(() => speak(text, { voice: settings.ttsVoice, rate }));
+    else void speak(text, { voice: settings.ttsVoice, rate });
   };
+  const play = () => playClip(v.audio_uri, v.headword, 0.85);
   return (
     <>
       <div className="scrim" onClick={onClose} />
@@ -63,7 +65,7 @@ export default function VocabRegisterCard({ id, onClose }: { id: string; onClose
             <div className="row">
               <span>{ex.text}</span>
               <span className="spacer" />
-              <button className="iconbtn" onClick={() => void speak(ex.text, { voice: settings.ttsVoice })} aria-label="Hear example"><SpeakerIcon /></button>
+              <button className="iconbtn" onClick={() => playClip(ex.audio_uri, ex.text)} aria-label="Hear example"><SpeakerIcon /></button>
             </div>
             {ex.ipa_connected && <div className="ipa muted small">{ex.ipa_connected}</div>}
           </div>

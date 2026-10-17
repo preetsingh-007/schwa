@@ -8,6 +8,14 @@ import type { LearnerState, PromptStat, SessionLog, Settings, SyncDocument, Voca
 import { initialLearner } from './rlBandit';
 import { MAX_SYNCED_SESSIONS } from './githubSync';
 
+export interface CachedAudio {
+  key: string;
+  ts: number;
+  sampleRate: number;
+  pcm: ArrayBuffer;
+  prosody?: unknown;
+}
+
 export const DEFAULT_SETTINGS: Settings = {
   id: 'settings',
   ghOwner: '',
@@ -20,6 +28,8 @@ export const DEFAULT_SETTINGS: Settings = {
   device: 'auto',
   phonemeModel: 'full',
   ttsVoice: '',
+  rpVoice: 'neural',
+  kokoroVoice: 'bf_emma',
   autoSync: true,
   lastSyncAt: null,
   lastSyncSha: null,
@@ -33,6 +43,7 @@ class LexiDB extends Dexie {
   vocab!: Table<VocabCard, string>;
   sessions!: Table<SessionLog, string>;
   promptStats!: Table<PromptStat, string>;
+  audioCache!: Table<CachedAudio, string>;
 
   constructor(name = 'lexiphon') {
     super(name);
@@ -43,6 +54,8 @@ class LexiDB extends Dexie {
       sessions: 'id, ts, promptId, tier',
       promptStats: 'id',
     });
+    // v2: cache of neural-voice renders (PCM16) so references replay instantly and offline.
+    this.version(2).stores({ audioCache: 'key, ts' });
   }
 }
 

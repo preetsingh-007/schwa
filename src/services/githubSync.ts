@@ -79,6 +79,7 @@ export function mergeLearner(local: LearnerState, remote: LearnerState): Learner
     habits,
     prosody: P,
     totalTurns: Math.max(local.totalTurns, remote.totalTurns),
+    shadowLevel: Math.max(local.shadowLevel ?? 1, remote.shadowLevel ?? 1),
     updatedAt: Math.max(local.updatedAt, remote.updatedAt),
   };
 }

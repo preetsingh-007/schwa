@@ -95,6 +95,10 @@ export default function Dashboard({ onDrill }: { onDrill: (phoneme: string) => v
     return { b, total: items.length, practised: practised.length, recall };
   });
   const passedTurns = logs.filter((l) => l.passed).length;
+  const shadowLogs = logs.filter((l) => l.shadowLevel !== undefined);
+  const shadowItems = new Set(shadowLogs.map((l) => l.promptId)).size;
+  const shadowPassed = new Set(shadowLogs.filter((l) => l.passed).map((l) => l.promptId)).size;
+  const level = learner.shadowLevel ?? 1;
 
   return (
     <main>
@@ -105,6 +109,22 @@ export default function Dashboard({ onDrill }: { onDrill: (phoneme: string) => v
           <span className="small muted">{learner.totalTurns} spoken turns · {passedTurns} passed</span>
         </div>
         <div className="section"><PhonemeHeatmap onDrill={onDrill} /></div>
+      </section>
+
+      <section className="section card">
+        <div className="row">
+          <div className="label">Listen &amp; repeat corpus</div>
+          <span className="spacer" />
+          <span className="small muted">28,000+ sentences and passages · Tatoeba (CC BY 2.0 FR) &amp; Project Gutenberg</span>
+        </div>
+        <div className="row section">
+          <span className="score-hero" style={{ fontSize: '2rem' }}>L{level}</span>
+          <span className="small muted">of 12</span>
+          <div style={{ flex: 1, minWidth: 160 }}>
+            <div className="meter" style={{ height: 6 }}><span style={{ width: `${(level / 12) * 100}%`, background: 'var(--emerald)' }} /></div>
+            <div className="tiny muted" style={{ marginTop: 4 }}>{shadowItems} practised · {shadowPassed} passed · promotes after 12+ turns at ≥ 70 % pass rate</div>
+          </div>
+        </div>
       </section>
 
       <section className="section grid2">

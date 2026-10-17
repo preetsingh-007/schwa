@@ -12,7 +12,9 @@ import { readFileSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { targetFromText } from '../src/lib/g2p';
 import { tokenizeDictionaryIpa, isRpPhoneme } from '../src/lib/ipa';
-import type { Prompt, VocabEntry } from '../src/types';
+import { existsSync } from 'node:fs';
+import { encodePhonemes } from '../src/services/corpus';
+import type { CorpusIndex, CorpusRow, Prompt, VocabEntry } from '../src/types';
 
 const dir = join(process.cwd(), 'public', 'data');
 const read = <T>(f: string): T => JSON.parse(readFileSync(join(dir, f), 'utf8')) as T;
@@ -51,6 +53,35 @@ async function main() {
     p.phonemes = uniq(p.tier === 1 ? own : [...vocabPh, ...(p.tier === 2 ? own : [])]);
   }
   write('prompts_tiered.json', prompts);
+
+  // Listen-and-repeat corpus: phoneme set per row (compact char encoding).
+  const cdir = join(process.cwd(), 'public', 'corpus');
+  if (existsSync(join(cdir, 'index.json')) && !process.argv.includes('--skip-corpus')) {
+    const index = JSON.parse(readFileSync(join(cdir, 'index.json'), 'utf8')) as CorpusIndex;
+    for (const lvl of index.levels) {
+      const f = join(cdir, lvl.file);
+      const rows = JSON.parse(readFileSync(f, 'utf8')) as CorpusRow[];
+      let changed = false;
+      for (const r of rows) {
+        if (r.ph) continue;
+        r.ph = encodePhonemes(await phonemesOf(r.text));
+        changed = true;
+      }
+      if (changed) writeFileSync(f, JSON.stringify(rows));
+      console.log(`corpus level ${lvl.level}: ${rows.length} rows`);
+    }
+  }
+
+  // Pre-rendered RP audio for vocabulary cards (scripts/render-vocab-audio.ts), if present.
+  const adir = join(process.cwd(), 'public', 'audio', 'rp');
+  for (const v of vocab) {
+    if (existsSync(join(adir, `${v.id}.mp3`))) v.audio_uri = `audio/rp/${v.id}.mp3`;
+    v.examples_rp.forEach((ex, k) => {
+      const f = `${v.id}-ex${k + 1}.mp3`;
+      if (existsSync(join(adir, f))) (ex as { audio_uri?: string }).audio_uri = `audio/rp/${f}`;
+    });
+  }
+  write('vocab_curriculum.json', vocab);
   console.log(`annotated ${vocab.length} vocab entries and ${prompts.length} prompts`);
   if (mismatches.length) console.log(`\nhand-written IPA vs espeak (review; differences in weak syllables are expected):\n${mismatches.join('\n')}`);
 }

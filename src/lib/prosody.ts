@@ -272,3 +272,70 @@ export function analyzeProsody(x: Float32Array, sr: number): ProsodyMetrics {
     contour,
   };
 }
+
+// ---------------------------------------------------------------------------
+// Comparison against a reference rendering (listen-and-repeat)
+// ---------------------------------------------------------------------------
+
+/**
+ * Time-normalised pitch shape: the voiced contour over the speech span,
+ * averaged into `bins` and expressed in semitones relative to the speaker's
+ * own median (so male/female and register differences cancel out).
+ */
+export function contourShape(p: ProsodyMetrics, bins = 40): (number | null)[] {
+  const a = p.segments[0]?.start ?? 0;
+  const b = p.segments[p.segments.length - 1]?.end ?? p.duration;
+  const span = b - a;
+  const out: (number | null)[] = new Array(bins).fill(null);
+  if (span <= 0 || p.contour.length < 5) return out;
+  const sums = new Array(bins).fill(0), counts = new Array(bins).fill(0);
+  for (const [t, st] of p.contour) {
+    const k = Math.floor(((t - a) / span) * bins);
+    if (k < 0 || k >= bins) continue;
+    sums[k] += st; counts[k]++;
+  }
+  const vals = p.contour.map((c) => c[1]).sort((x, y) => x - y);
+  const med = vals[Math.floor(vals.length / 2)];
+  for (let k = 0; k < bins; k++) if (counts[k]) out[k] = sums[k] / counts[k] - med;
+  return out;
+}
+
+export interface ProsodyComparison {
+  /** Pearson correlation of the time-normalised pitch shapes (−1…1), null if too little voicing */
+  shapeCorr: number | null;
+  /** your pitch range ÷ the reference's */
+  rangeRatio: number;
+  /** your speaking time ÷ the reference's */
+  tempoRatio: number;
+  npviRef: number;
+  /** combined intonation similarity 0…1 */
+  intonation: number;
+  /** rhythm similarity 0…1 */
+  rhythm: number;
+  /** tempo acceptability 0…1 */
+  tempo: number;
+}
+
+const clamp01 = (x: number) => Math.max(0, Math.min(1, x));
+
+export function compareProsody(user: ProsodyMetrics, ref: ProsodyMetrics): ProsodyComparison {
+  const u = contourShape(user), r = contourShape(ref);
+  const xs: number[] = [], ys: number[] = [];
+  u.forEach((v, k) => { if (v !== null && r[k] !== null) { xs.push(v); ys.push(r[k] as number); } });
+  let shapeCorr: number | null = null;
+  if (xs.length >= 8) {
+    const mx = xs.reduce((s, v) => s + v, 0) / xs.length, my = ys.reduce((s, v) => s + v, 0) / ys.length;
+    let num = 0, dx = 0, dy = 0;
+    for (let k = 0; k < xs.length; k++) { num += (xs[k] - mx) * (ys[k] - my); dx += (xs[k] - mx) ** 2; dy += (ys[k] - my) ** 2; }
+    shapeCorr = dx > 0 && dy > 0 ? num / Math.sqrt(dx * dy) : 0;
+  }
+  const rangeRatio = ref.f0RangeSt > 0.5 ? user.f0RangeSt / ref.f0RangeSt : 1;
+  const tempoRatio = ref.speakingTime > 0 ? user.speakingTime / ref.speakingTime : 1;
+  const shape = shapeCorr === null ? 0.6 : clamp01((shapeCorr + 0.1) / 0.8);
+  const range = clamp01(rangeRatio / 0.8);
+  const intonation = 0.65 * shape + 0.35 * range;
+  const rhythm = user.syllables < 4 || ref.syllables < 4 ? 0.7 : clamp01(1 - Math.abs(user.npvi - ref.npvi) / 25);
+  // Learners may be a little slower than the model voice; > 1.6× slower or rushing < 0.75× is penalised.
+  const tempo = tempoRatio < 0.75 ? clamp01(1 - (0.75 - tempoRatio) * 3) : tempoRatio > 1.6 ? clamp01(1 - (tempoRatio - 1.6) * 1.5) : 1;
+  return { shapeCorr, rangeRatio, tempoRatio, npviRef: ref.npvi, intonation, rhythm, tempo };
+}

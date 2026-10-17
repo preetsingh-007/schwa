@@ -189,10 +189,22 @@ export class Recorder {
 
 export const recorder = new Recorder();
 
-/** Play a 16 kHz PCM buffer (or a slice of it) through a fresh context. */
+let playCtx: AudioContext | null = null;
+let current: AudioBufferSourceNode | null = null;
+
+/** Stop whatever playPcm() is playing. */
+export function stopPcm(): void {
+  try { current?.stop(); } catch { /* already stopped */ }
+  current = null;
+}
+
+/** Play a PCM buffer (or a slice of it). One shared context: iOS limits how many can exist. */
 export async function playPcm(x: Float32Array, sr = TARGET_SR, startSec = 0, endSec?: number): Promise<void> {
   const AC = window.AudioContext ?? (window as unknown as { webkitAudioContext: typeof AudioContext }).webkitAudioContext;
-  const ctx = new AC();
+  playCtx = playCtx && playCtx.state !== 'closed' ? playCtx : new AC();
+  const ctx = playCtx;
+  await ctx.resume();
+  stopPcm();
   const a = Math.max(0, Math.floor(startSec * sr));
   const b = Math.min(x.length, endSec !== undefined ? Math.ceil(endSec * sr) : x.length);
   if (b <= a) return;
@@ -201,6 +213,7 @@ export async function playPcm(x: Float32Array, sr = TARGET_SR, startSec = 0, end
   const src = ctx.createBufferSource();
   src.buffer = buf;
   src.connect(ctx.destination);
+  current = src;
   await new Promise<void>((resolve) => { src.onended = () => resolve(); src.start(); });
-  await ctx.close();
+  if (current === src) current = null;
 }

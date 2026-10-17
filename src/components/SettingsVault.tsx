@@ -7,6 +7,7 @@ import { testGeminiKey } from '../services/geminiEnhancer';
 import { britishVoices, onVoicesChanged, speak } from '../services/tts';
 import { resetAll } from '../services/db';
 import { CloseIcon } from './Icons';
+import { BRITISH_VOICES, KOKORO_APPROX_MB, rpVoice } from '../services/rpVoice';
 
 const mb = (b: number) => `${(b / 1e6).toFixed(0)} MB`;
 
@@ -19,6 +20,8 @@ export default function SettingsVault({ onClose }: { onClose: () => void }) {
   const [sync, setSync] = useState<SyncStatus | null>(null);
   const [voices, setVoices] = useState(britishVoices());
   const [showToken, setShowToken] = useState(false);
+  const [voiceState, setVoiceState] = useState(rpVoice.state);
+  useEffect(() => rpVoice.subscribe(() => setVoiceState(rpVoice.state)), []);
   const fileRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => onSyncStatus(setSync), []);
@@ -92,14 +95,50 @@ export default function SettingsVault({ onClose }: { onClose: () => void }) {
         <div className="notice">Device/mode changes apply on the next reload of the engine. On older iPhones, low-memory mode avoids Safari terminating the engine.</div>
 
         <h3>Reference voice (RP)</h3>
-        <div className="field">
-          <select value={settings.ttsVoice} onChange={(e) => void updateSettings({ ttsVoice: e.target.value })}>
-            <option value="">Auto (best en-GB voice)</option>
-            {voices.map((v) => <option key={v.name} value={v.name}>{v.name}</option>)}
-          </select>
-        </div>
-        {voices.length === 0 && <div className="notice">No en-GB voice found. On iOS/macOS add one in Settings → Accessibility → Spoken Content → Voices → English (UK).</div>}
-        <button className="btn ghost section" onClick={() => void speak('The crux of the issue is the bottleneck in code review.', { voice: settings.ttsVoice })}>Test voice</button>
+        <label className="toggle small">
+          <input type="radio" name="rpv" checked={settings.rpVoice === 'neural'} onChange={() => void updateSettings({ rpVoice: 'neural' })} />
+          Neural RP voice on device (Kokoro-82M, ~{KOKORO_APPROX_MB} MB once) — needed for Listen &amp; repeat scoring
+        </label>
+        <label className="toggle small">
+          <input type="radio" name="rpv" checked={settings.rpVoice === 'system'} onChange={() => void updateSettings({ rpVoice: 'system' })} />
+          System voice (no download; quality depends on the device)
+        </label>
+        {settings.rpVoice === 'neural' ? (
+          <>
+            <div className="field">
+              <label className="small" htmlFor="kv">Voice</label>
+              <select id="kv" value={settings.kokoroVoice} onChange={(e) => void updateSettings({ kokoroVoice: e.target.value as typeof settings.kokoroVoice })}>
+                {BRITISH_VOICES.map((v) => <option key={v.id} value={v.id}>{v.label}</option>)}
+              </select>
+            </div>
+            <div className="model-row">
+              <div>
+                <div className="small" style={{ fontWeight: 600 }}>Kokoro-82M en-GB</div>
+                <div className="tiny muted mono">onnx-community/Kokoro-82M-v1.0-ONNX · q8</div>
+                {voiceState === 'loading' && rpVoice.progress.total > 0 && <div className="progress"><span style={{ width: `${Math.min(100, (rpVoice.progress.loaded / rpVoice.progress.total) * 100)}%` }} /></div>}
+              </div>
+              <div className="small" style={{ textAlign: 'right' }}>
+                {voiceState === 'ready' ? <span style={{ color: 'var(--emerald-ink)' }}>● loaded</span> : voiceState === 'loading' ? 'loading…' : voiceState === 'error' ? <span style={{ color: 'var(--crimson-ink)' }}>error</span> : <span className="muted">not loaded</span>}
+              </div>
+            </div>
+            <div className="row section">
+              <button className="btn ghost" disabled={voiceState === 'loading'} onClick={() => void run(async () => { await rpVoice.load(); return 'RP voice ready (cached for offline use)'; })}>Download &amp; load</button>
+              <button className="btn ghost" disabled={voiceState !== 'ready'} onClick={() => { rpVoice.unload(); setVoiceState(rpVoice.state); }}>Unload (free memory)</button>
+            </div>
+            <div className="notice">Renders are cached on this device, so sentences you have heard replay instantly and offline. On older iPhones, unload the voice if the speech engine gets terminated.</div>
+          </>
+        ) : (
+          <>
+            <div className="field">
+              <select value={settings.ttsVoice} onChange={(e) => void updateSettings({ ttsVoice: e.target.value })}>
+                <option value="">Auto (best en-GB voice)</option>
+                {voices.map((v) => <option key={v.name} value={v.name}>{v.name}</option>)}
+              </select>
+            </div>
+            {voices.length === 0 && <div className="notice">No en-GB voice found. On iOS/macOS add one in Settings → Accessibility → Spoken Content → Voices → English (UK).</div>}
+          </>
+        )}
+        <button className="btn ghost section" disabled={busy} onClick={() => void run(async () => { await speak('The crux of the issue is the bottleneck in code review, so let\'s ask for a bit more time.', { voice: settings.ttsVoice }); })}>Test voice</button>
 
         <h3>GitHub private-repo sync</h3>
         <p className="tiny muted">Create a private repo (e.g. <span className="mono">lexiphon-data</span>) and a fine-grained PAT scoped to <b>only that repo</b> with <b>Contents: Read and write</b>. The token is stored only in this browser's IndexedDB.</p>

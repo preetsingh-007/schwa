@@ -91,7 +91,7 @@ function LexicalBlock({ r }: { r: TurnResult }) {
         </div>
       )}
       <div className="retry">
-        <div className="label">{r.reward.passed ? 'Model version' : '1-line compressed target — say this aloud'}</div>
+        <div className="label">{r.reward.passed ? 'Model version' : r.prompt.mode === 'shadow' ? 'Listen again, then repeat' : '1-line compressed target — say this aloud'}</div>
         <div className="say">{r.retryTarget || '—'}</div>
       </div>
       {r.gemini && (
@@ -116,6 +116,7 @@ function phoneLabel(p: AlignedPair, side: 't' | 'u'): string {
 }
 
 function AlignmentTape({ r }: { r: TurnResult }) {
+  const { data } = useApp();
   const [sel, setSel] = useState<{ pair: AlignedPair; word: WordAlignment } | null>(null);
   if (!r.alignment) {
     return (
@@ -147,10 +148,10 @@ function AlignmentTape({ r }: { r: TurnResult }) {
           <div key={w.index} className={`wcard ${w.status}`}>
             <div className="w">{w.text}</div>
             <div className="t">{w.pairs.filter((p) => p.target).map((p, i) => (
-              <button key={i} className={`ph ${p.kind}`} onClick={() => setSel({ pair: p, word: w })}>{phoneLabel(p, 't')}</button>
+              <button key={i} className={`ph ${p.kind}${p.calibrated ? ' cal' : ''}`} onClick={() => setSel({ pair: p, word: w })}>{phoneLabel(p, 't')}</button>
             ))}</div>
             <div className="u">{w.pairs.map((p, i) => (
-              <button key={i} className={`ph ${p.produced ? p.kind : 'gap'}`} onClick={() => setSel({ pair: p, word: w })}>{phoneLabel(p, 'u')}</button>
+              <button key={i} className={`ph ${p.produced ? p.kind : 'gap'}${p.calibrated ? ' cal' : ''}`} onClick={() => setSel({ pair: p, word: w })}>{phoneLabel(p, 'u')}</button>
             ))}</div>
           </div>
         ))}
@@ -159,8 +160,23 @@ function AlignmentTape({ r }: { r: TurnResult }) {
         <span><i style={{ background: 'var(--emerald)' }} />exact RP match</span>
         <span><i style={{ background: 'var(--amber)' }} />allophonic drift / missed schwa</span>
         <span><i style={{ background: 'var(--crimson)' }} />phoneme substitution / rhotic / retroflex</span>
+        <span><u style={{ textDecorationStyle: 'dotted' }}>dotted</u> = model-equivalent (RP reference speech reads the same)</span>
         <span>tap any phoneme for articulatory mechanics</span>
       </div>
+      {a.rhoticity.length > 0 && (
+        <div className="row section small">
+          <span className="label">Non-rhotic check (F3):</span>
+          {a.rhoticity.map((m, i) => {
+            const thr = data.calibration?.rhotic?.threshold ?? 0.8;
+            const ok = m.ratio >= thr;
+            return (
+              <span key={i} className="chip" title={`F3 at the end of the vowel is ${(m.ratio * 100).toFixed(0)}% of your baseline; below ${(thr * 100).toFixed(0)}% means an /r/ was pronounced`}>
+                {r.target[m.word]?.text} {ok ? '✓ no /r/' : '✗ /r/ heard'}
+              </span>
+            );
+          })}
+        </div>
+      )}
       {r.topDiagnoses.length > 0 && (
         <div className="row section">
           {r.topDiagnoses.slice(0, 6).map((d) => (
@@ -190,7 +206,8 @@ function ArticulationCard({ pair, word, audio, onClose }: { pair: AlignedPair; w
           <span className="spacer" />
           <button className="iconbtn" onClick={onClose} aria-label="Close"><CloseIcon /></button>
         </div>
-        {pair.kind === 'match' && <div className="notice ok">Exact RP realisation{pair.produced?.p === 'ʔ' ? ' (licensed glottal stop)' : ''}.</div>}
+        {pair.kind === 'match' && !pair.calibrated && <div className="notice ok">Exact RP realisation{pair.produced?.p === 'ʔ' ? ' (licensed glottal stop)' : ''}.</div>}
+        {pair.calibrated && <div className="notice">Counted as correct: British reference speech produces this same reading in the acoustic model, so it isn't evidence of an error.</div>}
         {tip && pair.kind !== 'match' && (
           <>
             <div style={{ fontWeight: 600, marginTop: 6 }}>{tip.title}</div>
@@ -221,12 +238,34 @@ function ArticulationCard({ pair, word, audio, onClose }: { pair: AlignedPair; w
 
 // ---------------- Block C: prosody & schwa strip ----------------
 
+function refRuns(pts: [number, number][]): [number, number][][] {
+  const runs: [number, number][][] = [];
+  let cur: [number, number][] = [];
+  pts.forEach((c, i) => {
+    if (i > 0 && (c[0] - pts[i - 1][0] > 0.08 || Math.abs(c[1] - pts[i - 1][1]) > 5)) { if (cur.length) runs.push(cur); cur = []; }
+    cur.push(c);
+  });
+  if (cur.length) runs.push(cur);
+  return runs;
+}
+
 function ProsodyStrip({ r }: { r: TurnResult }) {
   const p = r.prosody;
   const [hover, setHover] = useState<{ x: number; t: number; st: number } | null>(null);
   const W = 640, H = 140, padL = 34, padB = 18;
   const dur = Math.max(p.duration, 0.5);
-  const sts = p.contour.map((c) => c[1]);
+  const userMed = (() => { const v = p.contour.map((c) => c[1]).sort((a, b) => a - b); return v.length ? v[Math.floor(v.length / 2)] : 0; })();
+  // Reference contour, time-normalised onto your speech span and shifted to your median pitch.
+  const refP = r.reference?.prosody;
+  const refPts: [number, number][] = [];
+  if (refP && refP.contour.length > 4) {
+    const ra = refP.segments[0]?.start ?? 0, rb = refP.segments[refP.segments.length - 1]?.end ?? refP.duration;
+    const ua = p.segments[0]?.start ?? 0, ub = p.segments[p.segments.length - 1]?.end ?? p.duration;
+    const rv = refP.contour.map((c) => c[1]).sort((a, b) => a - b);
+    const refMed = rv[Math.floor(rv.length / 2)];
+    for (const [t, st] of refP.contour) refPts.push([ua + ((t - ra) / (rb - ra || 1)) * (ub - ua), st - refMed + userMed]);
+  }
+  const sts = [...p.contour.map((c) => c[1]), ...refPts.map((c) => c[1])];
   const lo = sts.length ? Math.min(...sts) - 2 : -2, hi = sts.length ? Math.max(...sts) + 2 : 14;
   const x = (t: number) => padL + (t / dur) * (W - padL - 6);
   const y = (st: number) => 6 + (1 - (st - lo) / (hi - lo || 1)) * (H - padB - 12);
@@ -268,7 +307,11 @@ function ProsodyStrip({ r }: { r: TurnResult }) {
           <text x={padL - 6} y={y(lo + 2)} fontSize="10" textAnchor="end" fill="var(--muted)">{Math.round(lo + 2)}</text>
           <text x={padL} y={H - 4} fontSize="10" fill="var(--muted)">0 s</text>
           <text x={W - 6} y={H - 4} fontSize="10" textAnchor="end" fill="var(--muted)">{dur.toFixed(1)} s</text>
-          <path d={env} fill="none" stroke="var(--emerald)" strokeWidth={2} strokeDasharray="5 4" opacity={0.8} />
+          {refPts.length > 0
+            ? refRuns(refPts).map((run, i) => (
+              <path key={`r${i}`} d={run.map((c, k) => `${k ? 'L' : 'M'}${x(c[0])},${y(c[1])}`).join(' ')} fill="none" stroke="var(--emerald)" strokeWidth={2} strokeDasharray="5 4" opacity={0.9} />
+            ))
+            : <path d={env} fill="none" stroke="var(--emerald)" strokeWidth={2} strokeDasharray="5 4" opacity={0.8} />}
           {runs.map((run, i) => (
             <path key={i} d={run.map((c, k) => `${k ? 'L' : 'M'}${x(c[0])},${y(c[1])}`).join(' ')} fill="none" stroke="var(--ink)" strokeWidth={2} strokeLinejoin="round" strokeLinecap="round" />
           ))}
@@ -278,7 +321,7 @@ function ProsodyStrip({ r }: { r: TurnResult }) {
       </div>
       <div className="legend">
         <span><i style={{ background: 'var(--ink)' }} />your F0 (semitones re 100 Hz)</span>
-        <span><i style={{ background: 'var(--emerald)' }} />RP declarative high-fall envelope</span>
+        <span><i style={{ background: 'var(--emerald)' }} />{refPts.length ? 'RP reference voice (same sentence, time-aligned)' : 'RP declarative high-fall envelope'}</span>
         <span><i style={{ background: 'var(--amber)', opacity: 0.4 }} />pause &gt; 400 ms</span>
       </div>
       <div className="row section small">
@@ -287,6 +330,14 @@ function ProsodyStrip({ r }: { r: TurnResult }) {
         <span className="chip">{p.longPauses.length} hesitation{p.longPauses.length === 1 ? '' : 's'}</span>
         <span className="chip">range {p.f0RangeSt.toFixed(1)} st</span>
         <span className="chip">final {p.finalSlopeSt < -2 ? 'fall ✓' : p.finalSlopeSt > 2 ? 'rise' : 'level'}</span>
+        {pb.reference && (
+          <>
+            <span className="chip" title="Correlation of your pitch shape with the RP reference">melody match {pb.reference.shapeCorr === null ? '—' : `${Math.round(Math.max(0, pb.reference.shapeCorr) * 100)}%`}</span>
+            <span className="chip" title="Your pitch range relative to the reference">range ×{pb.reference.rangeRatio.toFixed(2)}</span>
+            <span className="chip" title="Your speaking time relative to the reference">tempo ×{pb.reference.tempoRatio.toFixed(2)}</span>
+            <span className="chip">ref nPVI {pb.reference.npviRef.toFixed(0)}</span>
+          </>
+        )}
         {pb.schwa !== null && <span className="chip">schwa {(pb.schwa * 100).toFixed(0)}%</span>}
       </div>
       {missed.length > 0 && (

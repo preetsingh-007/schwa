@@ -15,6 +15,8 @@ export interface TargetPhone extends Phone {
   glottalOk?: boolean;
   /** unstressed /ɪ/ that modern RP realises as tense [i] (happY, pre-vocalic) */
   tenseOk?: boolean;
+  /** normalised spelling of the function word a weak vowel belongs to (calibration key) */
+  weakWord?: string;
 }
 
 export interface TargetWord {
@@ -136,7 +138,7 @@ export function buildConnectedTarget(words: string[], citation: string[], clause
       const ok = (!rule.after || rule.after.has(prev)) && !(rule.notBefore && rule.notBefore.has(next)) && !(norm === 'there' && !/^(is|are|was|were|'s|will|has|have|must|might|may|seems|seem)$/.test(next));
       if (ok) {
         const form = nextStartsWithVowel && rule.beforeVowel ? rule.beforeVowel : rule.weak;
-        phones = tokenizeDictionaryIpa(form).map((ph) => ({ ...ph, stress: 0, word: i, weak: isVowel(ph.p) }));
+        phones = tokenizeDictionaryIpa(form).map((ph) => ({ ...ph, stress: 0, word: i, weak: isVowel(ph.p), weakWord: isVowel(ph.p) ? norm : undefined }));
         weakApplied = true;
       }
     }

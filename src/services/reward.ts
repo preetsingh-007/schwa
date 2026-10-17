@@ -3,7 +3,7 @@
  * and the advancement gate (R ≥ 80 and no critical redundancy left).
  */
 import type { AlignmentResult } from './ipaAligner';
-import type { ProsodyMetrics } from '../lib/prosody';
+import { compareProsody, type ProsodyComparison, type ProsodyMetrics } from '../lib/prosody';
 import type { ConcisenessReport } from './redundancy';
 import type { Tier } from '../types';
 
@@ -12,6 +12,8 @@ export const TIER_WEIGHTS: Record<Tier, [number, number, number]> = {
   2: [0.4, 0.2, 0.4],
   3: [0.35, 0.3, 0.35],
 };
+/** Listen-and-repeat: pronunciation-led, with prosody judged against a real reference rendering. */
+export const SHADOW_WEIGHTS: [number, number, number] = [0.6, 0.4, 0.0];
 export const PASS_THRESHOLD = 80;
 
 const clamp01 = (x: number) => Math.max(0, Math.min(1, x));
@@ -26,6 +28,8 @@ export interface ProsodyBreakdown {
   fluency: number;
   intonation: number;
   score: number;
+  /** present when a reference rendering was available */
+  reference?: ProsodyComparison;
 }
 
 /** r_fluency: inverse mid-clause pause ratio with filler penalty. */
@@ -39,16 +43,24 @@ export function rhythmScore(npvi: number, syllables: number): number {
   return clamp01((npvi - 35) / 22);
 }
 
-export function prosodyScore(p: ProsodyMetrics, schwaRate: number | null, fillers: number): ProsodyBreakdown {
-  const rhythm = rhythmScore(p.npvi, p.syllables);
-  const fluency = fluencyScore(p, fillers);
+export function prosodyScore(p: ProsodyMetrics, schwaRate: number | null, fillers: number, ref?: ProsodyMetrics | null): ProsodyBreakdown {
+  let rhythm = rhythmScore(p.npvi, p.syllables);
+  let fluency = fluencyScore(p, fillers);
   // Monotone (< 3 st range) or a rising final on statements scores lower.
-  const intonation = p.contour.length < 10 ? 0.7 : clamp01((p.f0RangeSt - 2) / 5) * (p.finalSlopeSt <= 2 ? 1 : 0.7);
+  let intonation = p.contour.length < 10 ? 0.7 : clamp01((p.f0RangeSt - 2) / 5) * (p.finalSlopeSt <= 2 ? 1 : 0.7);
+  let reference: ProsodyComparison | undefined;
+  if (ref && ref.contour.length >= 5) {
+    // A real RP rendering of the same words replaces the generic heuristics.
+    reference = compareProsody(p, ref);
+    intonation = reference.intonation;
+    rhythm = 0.4 * rhythm + 0.6 * reference.rhythm;
+    fluency = fluency * (0.6 + 0.4 * reference.tempo);
+  }
   const parts: [number | null, number][] = [[schwaRate, 0.35], [rhythm, 0.25], [fluency, 0.25], [intonation, 0.15]];
   const usable = parts.filter(([v]) => v !== null) as [number, number][];
   const wsum = usable.reduce((s, [, w]) => s + w, 0);
   const score = 100 * usable.reduce((s, [v, w]) => s + v * w, 0) / wsum;
-  return { schwa: schwaRate, rhythm, fluency, intonation, score };
+  return { schwa: schwaRate, rhythm, fluency, intonation, score, reference };
 }
 
 export interface LexicalInputs {
@@ -102,8 +114,10 @@ export function compositeReward(o: {
   criticalRedundancies: number;
   /** Tier 1: share of the prompt's words that the ASR heard */
   wordCoverage?: number;
+  /** override the tier weights (listen-and-repeat) */
+  weights?: [number, number, number];
 }): RewardResult {
-  let [w1, w2, w3] = TIER_WEIGHTS[o.tier];
+  let [w1, w2, w3] = o.weights ?? TIER_WEIGHTS[o.tier];
   if (o.phonetic === null) {
     // Stream B disabled (low-memory mode): renormalise over the remaining streams.
     const rest = w2 + w3;

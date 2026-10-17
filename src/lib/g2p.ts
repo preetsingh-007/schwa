@@ -62,3 +62,25 @@ export async function targetFromText(text: string): Promise<TargetWord[]> {
   const citation = await citationIpa(words);
   return buildConnectedTarget(words, citation, clauseFinalFlags(text));
 }
+
+/**
+ * The RP target as a Kokoro phoneme string, so the neural voice speaks exactly
+ * what we score against: en-GB-x-rp vowels (BATH /ɑː/), weak forms, linking /r/.
+ * (Kokoro's own en-GB front end uses a northern-leaning espeak voice and full
+ * function-word forms.) Symbols are mapped to the conventions Kokoro was
+ * trained with: TRAP "a", DRESS "ɛ", NEAR "iə", /r/ "ɹ".
+ */
+export async function kokoroPhonemes(text: string): Promise<string> {
+  const words = splitWords(text);
+  if (!words.length) return '';
+  const target = buildConnectedTarget(words, await citationIpa(words), clauseFinalFlags(text));
+  const punct = text
+    .replace(/[“”"«»()[\]{}…]/g, ' ')
+    .split(/\s+/)
+    .filter((w) => /[A-Za-z0-9]/.test(w))
+    .map((w) => (w.match(/[.,;:!?]+$/) ?? [''])[0].replace(/[;:]/g, ','));
+  const map: Record<string, string> = { æ: 'a', e: 'ɛ', r: 'ɹ', 'ɪə': 'iə' };
+  return target
+    .map((w, i) => w.phones.map((p) => (p.stress === 2 ? 'ˈ' : p.stress === 1 ? 'ˌ' : '') + (map[p.p] ?? p.p)).join('') + (punct[i] ?? ''))
+    .join(' ');
+}
