@@ -9,11 +9,11 @@ All inference runs on-device in a Web Worker (ONNX Runtime Web via Transformers.
 ```bash
 npm install
 npm run dev          # http://localhost:5173
-npm test             # 45 unit tests (aligner, DSP, FSRS, bandit, rules, sync)
+npm test             # unit tests (aligner, calibration, DSP, formants, FSRS, bandit, rules, sync, corpus)
 npm run build        # static PWA in dist/
 ```
 
-Open the app, tap **Load offline engine** (a one-time download, about 305 MB, cached for offline use), then tap the mic or hold **Space**.
+Open the app, tap **Load offline engine** (a one-time download, about 305 MB, cached for offline use), then tap the mic or hold **Space**. The neural RP voice (about 92 MB) downloads the first time you need it.
 
 ### Deploying
 
@@ -37,6 +37,31 @@ p* = argmax  β1·Σφ(1 − M_P[φ,φ])/√|Φp|  +  β2·Σv(1 − P_recall(v,
 ```
 
 Tapping a phoneme on the dashboard heatmap biases the bandit toward prompts containing that phoneme (a targeted drill).
+
+## Listen & repeat (the endless course)
+
+Tap the mode chip until it reads **Repeat** (Auto mode also mixes it in). The neural RP voice reads a sentence aloud, you repeat it, and you are scored on pronunciation (60%) and on how closely your **melody, pitch range, tempo and rhythm match that same sentence's RP rendering** (40%). The prosody scoring compares against a real reference here, not a generic intonation shape.
+
+- **Corpus:** 28,461 items in 12 difficulty levels (`public/corpus/`, about 4.5 MB in total, downloaded one level at a time). It combines 24,000 everyday sentences from [Tatoeba](https://tatoeba.org) (CC BY 2.0 FR, each with a link to its source and author) and about 4,400 passages from public-domain British books: Austen, Dickens, Conan Doyle, Jerome K. Jerome, Wells, Woolf, Grahame, Carroll, Chesterton, the Brontës. Sentences containing lexical Americanisms are dropped, and US spellings are converted.
+- **Levels:** difficulty combines sentence length with word rarity. You move up a level after 12 or more turns at a pass rate of at least 70% (mean reward ≥ 75), and drop back a level after 8 turns averaging under 50. The bandit still picks *which* sentence comes next, from your weakest phonemes.
+- **Neural RP voice:** [Kokoro-82M](https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX) en-GB voices (Emma, George, Fable, Isabella), q8, about 92 MB once, run in their own worker so they can be unloaded on low-memory devices. Renders are cached in IndexedDB (last 400), and the next sentence is rendered in the background while you work on the current one. The same voice drives "Hear RP", vocabulary cards and Commute Mode. If it is unavailable, the app falls back to the system voice.
+- **Rebuilding the corpus:** `python3 scripts/data-src/corpus.py <eng_sentences_detailed.tsv> <dir of Gutenberg .txt files>`, then `npm run annotate`.
+
+## Calibration against British reference speech
+
+The phoneme model (Stream B) was fine-tuned on transcripts labelled by espeak **en-US**, so part of what it outputs reflects the dictionary rather than the sound. Run on Kokoro's British voices, the uncalibrated scorer "heard" an /r/ in *car park*, an American GOAT vowel in *go*, and unreduced *of*/*but*. In other words, it penalised genuine RP.
+
+`scripts/calibrate-acoustic.ts` measures this bias. It renders 520 utterances (Tier 1/2 texts, vocabulary examples and corpus sentences) with four British voices **driven by our own RP phonemes**, decodes them through the exact Stream B pipeline, aligns them against the RP target, and records every deviation that RP speech triggers. Deviations that occur in at least 20% of cases are model-equivalent: they are shown dotted in the tape and never counted as errors (`public/data/acoustic_calibration.json`).
+
+What the calibration found:
+
+- **Judged normally:** BATH /ɑː/ vs [æ] (the model hears this one correctly), the GOAT monophthong [oː], retroflexion, /v/–/w/, /θ ð/, vowel length, and weak forms of *to, the, a, an, for, them, than, could, should*.
+- **Model-equivalent (the model can't tell them apart, so they're not judged):** GOAT [əʊ] vs [oʊ], parts of LOT, SQUARE and NEAR, the model's r-coloured units, and weak forms of *of, and, at, was, from, but, have, are*. For these words the model outputs the strong vowel even when the speaker reduces it, and even invents the /d/ of "and".
+- **Why the voice is phoneme-driven:** Kokoro's own en-GB front end gives BATH words a short northern vowel ("ask" as [æsk]) and doesn't reduce function words. The first calibration run, on that input, would have hidden BATH errors entirely.
+
+Calibration removes the bias, but it would also make rhoticity invisible, because the model writes [ɑːɹ] for British "car" too. So rhoticity is judged **acoustically**: an LPC formant tracker measures the third formant (F3) at the end of each spelled-r vowel, relative to your own baseline. A pronounced /r/ pulls F3 down sharply. `scripts/calibrate-rhotic.ts` sets the thresholds by contrasting British and American renderings of 130 sentences (281 measurements). The check is deliberately conservative. **"/r/ heard"** (crimson) fires on about 6% of non-rhotic vowels and catches about 25% of pronounced /r/. **"possible /r/"** (amber) catches about 52% at about 10% false alarms.
+
+`scripts/validate-scoring.ts` is the regression check. Over 6 sentences, British voices average R = 88.5 (10/12 pass), and American voices saying the same sentences average R = 79.7, with BATH and /r/ errors flagged. 7/12 American attempts still pass, which is the honest limit of this phoneme model: the American features it can't hear (GOAT, LOT) are exactly the ones calibration had to mark as model-equivalent.
 
 ## Curated data (`public/data/`)
 
@@ -73,16 +98,18 @@ If you paste a Google AI Studio key and enable it, Tier 3 results gain three Bri
 
 - **Model size vs the PRD estimate.** No IPA phoneme recogniser of ~75 MB exists in a browser-compatible format. The smallest suitable one is the 300M-parameter wav2vec2-lv60-espeak at q4 (~242 MB), so the full engine is about 305 MB rather than about 125 MB. On older iPhones, enable **Low-memory mode** in Settings: it skips Stream B, and prosody and lexical scoring still run, with weights renormalised.
 - **Single-threaded WASM.** GitHub Pages can't send COOP/COEP headers, so WASM runs single-threaded unless WebGPU is available. In testing, an 11 s clip took about 2 s for ASR and about 1.6 s for phonemes on a desktop CPU.
-- **Reference audio.** "Hear RP" uses the device's en-GB speech-synthesis voice. The `audio_uri` field is supported if you add recordings.
+- **Reference audio.** The neural voice is synthetic and southern-British rather than a guaranteed textbook RP. Vocabulary cards ship with pre-rendered MP3s (`scripts/render-vocab-audio.ts`), so they work even without the voice model.
+- **What calibration can't fix.** Where British reference speech itself makes the model emit an American-looking label, the model can't tell RP from the American variant. Those contrasts (for example some GOAT and LOT realisations) are marked as model-equivalent, not judged. Rhoticity is checked acoustically instead.
 - **Accuracy of the diff.** The acoustic model was trained on multilingual Common Voice with espeak labels, so treat single-phone verdicts as strong hints rather than ground truth. Habit rates and the confusion matrix average out the noise.
 
 ## Layout
 
 ```
 src/workers/speechEngine.worker.ts   Streams A–D in a Web Worker
-src/lib/{ipa,connectedSpeech,g2p,prosody,audioUtils,tips}.ts
-src/services/{ipaAligner,rlBandit,fsrs,reward,redundancy,evaluate}.ts
-src/services/{db,githubSync,syncManager,geminiEnhancer,audio,tts,engine}.ts
+src/workers/tts.worker.ts            Kokoro neural RP voice (separate, unloadable)
+src/lib/{ipa,connectedSpeech,g2p,prosody,formants,rhotic,ctc,audioUtils,tips}.ts
+src/services/{ipaAligner,rlBandit,fsrs,reward,redundancy,evaluate,corpus}.ts
+src/services/{db,githubSync,syncManager,geminiEnhancer,audio,tts,rpVoice,engine}.ts
 src/components/{PracticeArena,ResultView,VocabRegisterCard,PhonemeHeatmap,Dashboard,SettingsVault,Waveform}.tsx
 ```
 

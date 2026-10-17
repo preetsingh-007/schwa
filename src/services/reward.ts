@@ -19,7 +19,7 @@ export const PASS_THRESHOLD = 80;
 const clamp01 = (x: number) => Math.max(0, Math.min(1, x));
 
 export function phoneticScore(a: AlignmentResult): number {
-  return 100 * clamp01(1 - 1.6 * a.weightedPer);
+  return 100 * clamp01(1 - 2.0 * a.weightedPer);
 }
 
 export interface ProsodyBreakdown {

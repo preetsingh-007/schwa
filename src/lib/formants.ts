@@ -117,6 +117,15 @@ export function rhoticRatio(x: Float32Array, sr: number, t0: number, t1: number,
   return low / baselineF3;
 }
 
+/** F3 at the start (first 30 %) and end (last 60 %) of a vowel — the within-vowel F3 fall. */
+export function f3Fall(x: Float32Array, sr: number, t0: number, t1: number): { onset: number; tail: number } | null {
+  if (t1 - t0 < 0.04) return null;
+  const on = formantTrack(x, sr, t0, t0 + Math.max(0.03, (t1 - t0) * 0.3)).map((fr) => f3Of(fr.f)).filter((v): v is number => v !== null);
+  const tl = formantTrack(x, sr, t0 + (t1 - t0) * 0.4, t1).map((fr) => f3Of(fr.f)).filter((v): v is number => v !== null).sort((a, b) => a - b);
+  if (!on.length || tl.length < 2) return null;
+  return { onset: median(on), tail: tl[Math.min(tl.length - 1, 1)] };
+}
+
 export function baselineF3(x: Float32Array, sr: number, spans: [number, number][]): number {
   const vals: number[] = [];
   for (const [a, b] of spans) for (const fr of formantTrack(x, sr, a, b, 0.02)) { const v = f3Of(fr.f); if (v) vals.push(v); }

@@ -4,6 +4,7 @@ import type { AlignedPair, WordAlignment } from '../services/ipaAligner';
 import { lexicalDiff } from '../services/redundancy';
 import { PASS_THRESHOLD } from '../services/reward';
 import { TIPS } from '../lib/tips';
+import { rhoticScore } from '../lib/rhotic';
 import { useApp } from '../store';
 import { playPcm } from '../services/audio';
 import { speak } from '../services/tts';
@@ -167,11 +168,12 @@ function AlignmentTape({ r }: { r: TurnResult }) {
         <div className="row section small">
           <span className="label">Non-rhotic check (F3):</span>
           {a.rhoticity.map((m, i) => {
-            const thr = data.calibration?.rhotic?.threshold ?? 0.8;
-            const ok = m.ratio >= thr;
+            const cal = data.calibration?.rhotic;
+            const sc = rhoticScore(m);
+            const verdict = !cal ? '' : sc < cal.threshold ? '✗ /r/ heard' : sc < cal.soft ? '? possible /r/' : '✓ no /r/';
             return (
-              <span key={i} className="chip" title={`F3 at the end of the vowel is ${(m.ratio * 100).toFixed(0)}% of your baseline; below ${(thr * 100).toFixed(0)}% means an /r/ was pronounced`}>
-                {r.target[m.word]?.text} {ok ? '✓ no /r/' : '✗ /r/ heard'}
+              <span key={i} className="chip" title={`F3 late in the vowel: ${(m.ratio * 100).toFixed(0)}% of your baseline, ${(m.fall * 100).toFixed(0)}% of the vowel onset. A pronounced /r/ pulls F3 down.`}>
+                {r.target[m.word]?.text} {verdict}
               </span>
             );
           })}

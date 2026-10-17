@@ -7,7 +7,7 @@
  * renderings of the same sentences (scripts/calibrate-rhotic.ts).
  */
 import { isVowel } from './ipa';
-import { baselineF3, rhoticRatio } from './formants';
+import { baselineF3, f3Fall, rhoticRatio } from './formants';
 import type { TargetWord } from './connectedSpeech';
 import type { AlignedPair } from '../services/ipaAligner';
 
@@ -38,27 +38,44 @@ export function rhoticOpportunities(words: TargetWord[], pairs: AlignedPair[]): 
   return out;
 }
 
-/** F3 baseline from vowels that cannot be r-coloured (front/close vowels away from any r). */
-export function speakerBaselineF3(audio: Float32Array, sr: number, pairs: AlignedPair[]): number {
-  const spans: [number, number][] = [];
+/**
+ * Speaker F3 baseline from vowels away from any /r/: front vowels preferred
+ * (F3 is most stable there), falling back to any other vowel.
+ */
+export function speakerBaselineF3(audio: Float32Array, sr: number, pairs: AlignedPair[], exclude: Set<number> = new Set()): number {
+  const front: [number, number][] = [], other: [number, number][] = [];
   pairs.forEach((pr, k) => {
     const p = pr.produced;
-    if (!pr.target || !p || p.start === undefined || !['iː', 'ɪ', 'e', 'æ', 'eɪ', 'aɪ'].includes(pr.target.p)) return;
-    const near = pairs.slice(Math.max(0, k - 1), k + 2).some((q) => q.produced && /^(r|ɾ)$/.test(q.produced.p));
-    if (!near) spans.push([p.start, p.start + 0.08]);
+    if (!pr.target || !p || p.start === undefined || !isVowel(pr.target.p) || exclude.has(k)) return;
+    const near = pairs.slice(Math.max(0, k - 1), k + 2).some((q) => q.produced && /^(r|ɾ|ɻ)$/.test(q.produced.p));
+    if (near) return;
+    (['iː', 'ɪ', 'e', 'æ', 'eɪ', 'aɪ'].includes(pr.target.p) ? front : other).push([p.start, p.start + 0.07]);
   });
-  return spans.length >= 3 ? baselineF3(audio, sr, spans) : 0;
+  const spans = front.length >= 3 ? front : [...front, ...other];
+  return spans.length >= 2 ? baselineF3(audio, sr, spans) : 0;
 }
 
-export interface RhoticMeasure extends RhoticOpportunity { ratio: number }
+export interface RhoticMeasure extends RhoticOpportunity {
+  /** lowest late-vowel F3 ÷ speaker baseline */
+  ratio: number;
+  /** late-vowel F3 ÷ vowel-onset F3 (the within-vowel fall) */
+  fall: number;
+}
 
 export function measureRhoticity(audio: Float32Array, sr: number, words: TargetWord[], pairs: AlignedPair[]): RhoticMeasure[] {
-  const base = speakerBaselineF3(audio, sr, pairs);
+  const opps = rhoticOpportunities(words, pairs);
+  const base = speakerBaselineF3(audio, sr, pairs, new Set(opps.map((o) => o.pair)));
   if (!base) return [];
   const out: RhoticMeasure[] = [];
-  for (const o of rhoticOpportunities(words, pairs)) {
+  for (const o of opps) {
     const ratio = rhoticRatio(audio, sr, o.t0, o.t1, base);
-    if (ratio !== null) out.push({ ...o, ratio });
+    const f = f3Fall(audio, sr, o.t0, o.t1);
+    if (ratio !== null && f) out.push({ ...o, ratio, fall: f.tail / f.onset });
   }
   return out;
+}
+
+/** Combined rhoticity score (lower = more r-coloured): mean of the two F3 ratios. */
+export function rhoticScore(m: Pick<RhoticMeasure, 'ratio' | 'fall'>): number {
+  return (m.ratio + m.fall) / 2;
 }

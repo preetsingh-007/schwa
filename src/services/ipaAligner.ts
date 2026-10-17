@@ -5,7 +5,7 @@
  */
 import { substitutionCost, isVowel, isRpPhoneme, REDUCED_VOWELS } from '../lib/ipa';
 import type { TargetPhone, TargetWord } from '../lib/connectedSpeech';
-import { measureRhoticity, type RhoticMeasure } from '../lib/rhotic';
+import { measureRhoticity, rhoticScore, type RhoticMeasure } from '../lib/rhotic';
 
 export interface ProducedPhone {
   p: string;
@@ -34,8 +34,11 @@ export interface AcousticCalibration {
   accept: Record<string, Record<string, number>>;
   insertions: Record<string, Record<string, number>>;
   weakForms: Record<string, Record<string, number>>;
-  /** acoustic F3 rhoticity threshold (scripts/calibrate-rhotic.ts) */
-  rhotic?: { threshold: number; balancedAccuracy: number; falseAlarmRate: number };
+  /**
+   * Acoustic F3 rhoticity thresholds on rhoticScore (scripts/calibrate-rhotic.ts):
+   * below `threshold` ⇒ /r/ pronounced (crimson); below `soft` ⇒ possible /r/ (amber).
+   */
+  rhotic?: { threshold: number; soft: number; balancedAccuracy: number; falseAlarmRate: number };
 }
 
 let CAL: AcousticCalibration | null = null;
@@ -255,13 +258,15 @@ function joinIpa(ps: (string | undefined)[]): string {
  * spelled-r vowel is a pronounced /r/ (crimson) even if the model's label
  * looked RP; a normal F3 clears an /r/ the model inferred from the spelling.
  */
-function applyRhoticEvidence(pairs: AlignedPair[], measures: RhoticMeasure[], threshold: number): void {
+function applyRhoticEvidence(pairs: AlignedPair[], measures: RhoticMeasure[], cal: { threshold: number; soft: number }): void {
   for (const m of measures) {
     const vowel = pairs[m.pair];
     const after = pairs.slice(m.pair + 1).find((q) => !q.target && q.produced && /^(r|ɾ|ɻ)$/.test(q.produced.p) && q.word === vowel.word);
-    if (m.ratio < threshold) {
+    const score = rhoticScore(m);
+    if (score < cal.soft) {
       const host = after ?? vowel;
-      host.kind = 'error'; host.diagnosis = 'RHOTIC'; host.cost = 0.9; host.calibrated = false;
+      const certain = score < cal.threshold;
+      host.kind = certain ? 'error' : 'drift'; host.diagnosis = 'RHOTIC'; host.cost = certain ? 0.9 : 0.35; host.calibrated = false;
     } else if (after && after.diagnosis === 'RHOTIC') {
       after.kind = 'match'; after.diagnosis = undefined; after.cost = 0; after.calibrated = true;
     }
@@ -274,7 +279,7 @@ export function alignToTarget(words: TargetWord[], produced: ProducedPhone[], au
   let rhoticity: RhoticMeasure[] = [];
   if (audio && CAL?.rhotic) {
     rhoticity = measureRhoticity(audio, sampleRate, words, pairs);
-    applyRhoticEvidence(pairs, rhoticity, CAL.rhotic.threshold);
+    applyRhoticEvidence(pairs, rhoticity, CAL.rhotic);
   }
 
   const wordAligns: WordAlignment[] = words.map((w, index) => ({

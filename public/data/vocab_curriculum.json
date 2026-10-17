@@ -4,7 +4,7 @@
   "headword": "untenable",
   "ipa_rp": "/ʌnˈten.ə.bəl/",
   "syllable_stress": "un-TEN-uh-buhl",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_untenable_01.mp3",
   "phonetic_trap": "Keep the first vowel short central /ʌ/, crisp alveolar /t/ on the stressed second syllable, and crush the third syllable to a schwa /ə/.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -22,11 +22,13 @@
   "examples_rp": [
    {
     "text": "Maintaining two separate codebases has become untenable.",
-    "ipa_connected": "/meɪntˈeɪnɪŋ tˈuː sˈeprət kˈəʊdbeɪsɪz hˈæz bɪkˈʌm ʌntˈenəbəl/"
+    "ipa_connected": "/meɪntˈeɪnɪŋ tˈuː sˈeprət kˈəʊdbeɪsɪz hˈæz bɪkˈʌm ʌntˈenəbəl/",
+    "audio_uri": "audio/rp/lex_untenable_01-ex1.mp3"
    },
    {
     "text": "That position is untenable once the audit lands.",
-    "ipa_connected": "/ðˈæt pəzˈɪʃən ˈɪz ʌntˈenəbəl wˈʌns ðɪ ˈɔːdɪt lˈændz/"
+    "ipa_connected": "/ðˈæt pəzˈɪʃən ˈɪz ʌntˈenəbəl wˈʌns ðɪ ˈɔːdɪt lˈændz/",
+    "audio_uri": "audio/rp/lex_untenable_01-ex2.mp3"
    }
   ],
   "phonemes": [
@@ -44,7 +46,7 @@
   "headword": "crux",
   "ipa_rp": "/krʌks/",
   "syllable_stress": "KRUKS",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_crux_01.mp3",
   "phonetic_trap": "Short open-mid /ʌ/ (STRUT), not /ɑː/ or /ɒ/. The /r/ is an approximant — no tap.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -62,7 +64,8 @@
   "examples_rp": [
    {
     "text": "The crux of the issue is data quality, not tooling.",
-    "ipa_connected": "/ðə krˈʌks əv ðɪ ˈɪʃuː ˈɪz dˈeɪtə kwˈɒlɪtɪ nˈɒt tˈuːlɪŋ/"
+    "ipa_connected": "/ðə krˈʌks əv ðɪ ˈɪʃuː ˈɪz dˈeɪtə kwˈɒlɪtɪ nˈɒt tˈuːlɪŋ/",
+    "audio_uri": "audio/rp/lex_crux_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -77,7 +80,7 @@
   "headword": "bottleneck",
   "ipa_rp": "/ˈbɒt.əl.nek/",
   "syllable_stress": "BOT-uhl-nek",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_bottleneck_01.mp3",
   "phonetic_trap": "LOT vowel /ɒ/ — short and lightly rounded. Glottalise or crisply release the /t/; never retroflex [ʈ].",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -95,7 +98,8 @@
   "examples_rp": [
    {
     "text": "Code review is the bottleneck, so let's add a second reviewer.",
-    "ipa_connected": "/kˈəʊd rɪvjˈuː ˈɪz ðə bˈɒtəlnˌek sˈəʊ lˈets ˈæd ə sˈekənd rɪvjˈuːə/"
+    "ipa_connected": "/kˈəʊd rɪvjˈuː ˈɪz ðə bˈɒtəlnˌek sˈəʊ lˈets ˈæd ə sˈekənd rɪvjˈuːə/",
+    "audio_uri": "audio/rp/lex_bottleneck_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -117,7 +121,7 @@
   "headword": "mitigate",
   "ipa_rp": "/ˈmɪt.ɪ.ɡeɪt/",
   "syllable_stress": "MIT-ih-gayt",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_mitigate_01.mp3",
   "phonetic_trap": "Full FACE glide /eɪ/ in the final syllable — not a flat [eː]. Alveolar /t/ in the middle.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -135,7 +139,8 @@
   "examples_rp": [
    {
     "text": "We can mitigate the risk with a phased rollout.",
-    "ipa_connected": "/wˈiː kən mˈɪtɪɡˌeɪt ðə rˈɪsk wˈɪð ə fˈeɪzd rˈəʊlaʊt/"
+    "ipa_connected": "/wˈiː kən mˈɪtɪɡˌeɪt ðə rˈɪsk wˈɪð ə fˈeɪzd rˈəʊlaʊt/",
+    "audio_uri": "audio/rp/lex_mitigate_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -156,7 +161,7 @@
   "headword": "caveat",
   "ipa_rp": "/ˈkæv.i.æt/",
   "syllable_stress": "KAV-ee-at",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_caveat_01.mp3",
   "phonetic_trap": "TRAP /æ/ in both the first and last syllables; labiodental /v/ with audible friction — not [ʋ].",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -174,7 +179,8 @@
   "examples_rp": [
    {
     "text": "I agree, with one caveat: the budget is provisional.",
-    "ipa_connected": "/ˈaɪ əɡrˈiː wˈɪð wˈɒn kˈævɪˌæt ðə bˈʌdʒɪt ˈɪz prəvˈɪʒənəl/"
+    "ipa_connected": "/ˈaɪ əɡrˈiː wˈɪð wˈɒn kˈævɪˌæt ðə bˈʌdʒɪt ˈɪz prəvˈɪʒənəl/",
+    "audio_uri": "audio/rp/lex_caveat_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -193,7 +199,7 @@
   "headword": "bespoke",
   "ipa_rp": "/bɪˈspəʊk/",
   "syllable_stress": "bih-SPOHK",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_bespoke_01.mp3",
   "phonetic_trap": "GOAT diphthong /əʊ/ — start central and glide; never [oː]. Weak first syllable /bɪ/.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -211,7 +217,8 @@
   "examples_rp": [
    {
     "text": "We'd rather avoid a bespoke solution here.",
-    "ipa_connected": "/wˈiːd rˈɑːðər əvˈɔɪd ə bɪspˈəʊk səlˈuːʃən hˈɪə/"
+    "ipa_connected": "/wˈiːd rˈɑːðər əvˈɔɪd ə bɪspˈəʊk səlˈuːʃən hˈɪə/",
+    "audio_uri": "audio/rp/lex_bespoke_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -228,7 +235,7 @@
   "headword": "pivotal",
   "ipa_rp": "/ˈpɪv.ə.təl/",
   "syllable_stress": "PIV-uh-tuhl",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_pivotal_01.mp3",
   "phonetic_trap": "Labiodental /v/ (teeth on lip), schwa in the second syllable, syllabic final /təl/.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -246,7 +253,8 @@
   "examples_rp": [
    {
     "text": "Her analysis was pivotal to the decision.",
-    "ipa_connected": "/hər ənˈæləsˌɪs wəz pˈɪvətəl tə ðə dɪsˈɪʒən/"
+    "ipa_connected": "/hər ənˈæləsˌɪs wəz pˈɪvətəl tə ðə dɪsˈɪʒən/",
+    "audio_uri": "audio/rp/lex_pivotal_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -263,7 +271,7 @@
   "headword": "streamline",
   "ipa_rp": "/ˈstriːm.laɪn/",
   "syllable_stress": "STREEM-lyne",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_streamline_01.mp3",
   "phonetic_trap": "Long FLEECE /iː/; the /str/ cluster has an approximant /r/, no epenthetic vowel (\"i-stream\").",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -281,7 +289,8 @@
   "examples_rp": [
    {
     "text": "Let's streamline the approval process.",
-    "ipa_connected": "/lˈets strˈiːmlaɪn ðɪ əprˈuːvəl prˈəʊses/"
+    "ipa_connected": "/lˈets strˈiːmlaɪn ðɪ əprˈuːvəl prˈəʊses/",
+    "audio_uri": "audio/rp/lex_streamline_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -304,7 +313,7 @@
   "headword": "viable",
   "ipa_rp": "/ˈvaɪ.ə.bəl/",
   "syllable_stress": "VY-uh-buhl",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_viable_01.mp3",
   "phonetic_trap": "Labiodental /v/ — teeth on lip, audible buzz. Three syllables: /ˈvaɪ.ə.bəl/.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -322,7 +331,8 @@
   "examples_rp": [
    {
     "text": "Is a phased approach viable given the deadline?",
-    "ipa_connected": "/ˈɪz ə fˈeɪzd əprˈəʊtʃ vˈaɪəbəl ɡˈɪvən ðə dˈedlaɪn/"
+    "ipa_connected": "/ˈɪz ə fˈeɪzd əprˈəʊtʃ vˈaɪəbəl ɡˈɪvən ðə dˈedlaɪn/",
+    "audio_uri": "audio/rp/lex_viable_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -341,7 +351,7 @@
   "headword": "overhaul",
   "ipa_rp": "/ˈəʊ.və.hɔːl/",
   "syllable_stress": "OH-vuh-hawl",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_overhaul_01.mp3",
   "phonetic_trap": "GOAT /əʊ/ glide at the start, non-rhotic /və/ (no /r/), long THOUGHT /ɔː/ — lips rounded.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -359,7 +369,8 @@
   "examples_rp": [
    {
     "text": "The onboarding process needs a complete overhaul.",
-    "ipa_connected": "/ðɪ ˈɒnbɔːdɪŋ prˈəʊses nˈiːdz ə kəmplˈiːt ˌəʊvəhˈɔːl/"
+    "ipa_connected": "/ðɪ ˈɒnbɔːdɪŋ prˈəʊses nˈiːdz ə kəmplˈiːt ˌəʊvəhˈɔːl/",
+    "audio_uri": "audio/rp/lex_overhaul_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -380,7 +391,7 @@
   "headword": "robust",
   "ipa_rp": "/rəʊˈbʌst/",
   "syllable_stress": "roh-BUST",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_robust_01.mp3",
   "phonetic_trap": "GOAT /əʊ/ in the unstressed first syllable is acceptable in RP (also /rə-/); stress the second.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -398,7 +409,8 @@
   "examples_rp": [
    {
     "text": "We need more robust testing before launch.",
-    "ipa_connected": "/wˈiː nˈiːd mˈɔː rəʊbˈʌst tˈestɪŋ bɪfˈɔː lˈɔːntʃ/"
+    "ipa_connected": "/wˈiː nˈiːd mˈɔː rəʊbˈʌst tˈestɪŋ bɪfˈɔː lˈɔːntʃ/",
+    "audio_uri": "audio/rp/lex_robust_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -415,7 +427,7 @@
   "headword": "contingency",
   "ipa_rp": "/kənˈtɪn.dʒən.si/",
   "syllable_stress": "kuhn-TIN-juhn-see",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_contingency_01.mp3",
   "phonetic_trap": "Weak first syllable /kən/ — not /kɒn/. Stress on TIN; /dʒ/ is a single affricate.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -433,7 +445,8 @@
   "examples_rp": [
    {
     "text": "We've built in two weeks of contingency.",
-    "ipa_connected": "/wˈiːv bˈɪlt ˈɪn tˈuː wˈiːks əv kəntˈɪndʒənsɪ/"
+    "ipa_connected": "/wˈiːv bˈɪlt ˈɪn tˈuː wˈiːks əv kəntˈɪndʒənsɪ/",
+    "audio_uri": "audio/rp/lex_contingency_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -451,7 +464,7 @@
   "headword": "prioritise",
   "ipa_rp": "/praɪˈɒr.ɪ.taɪz/",
   "syllable_stress": "pry-ORR-ih-tyze",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_prioritise_01.mp3",
   "phonetic_trap": "British spelling and stress: /praɪˈɒr.ɪ.taɪz/ with LOT /ɒ/ — the /r/ is pronounced because a vowel follows.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -469,7 +482,8 @@
   "examples_rp": [
    {
     "text": "Let's prioritise the security fixes.",
-    "ipa_connected": "/lˈets praɪˈɒrɪtˌaɪz ðə sɪkjˈɔːrɪtɪ fˈɪksɪz/"
+    "ipa_connected": "/lˈets praɪˈɒrɪtˌaɪz ðə sɪkjˈɔːrɪtɪ fˈɪksɪz/",
+    "audio_uri": "audio/rp/lex_prioritise_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -493,7 +507,7 @@
   "headword": "consolidate",
   "ipa_rp": "/kənˈsɒl.ɪ.deɪt/",
   "syllable_stress": "kuhn-SOL-ih-dayt",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_consolidate_01.mp3",
   "phonetic_trap": "Weak /kən/; stressed LOT /ɒ/; final FACE /eɪ/ glide.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -511,7 +525,8 @@
   "examples_rp": [
    {
     "text": "We should consolidate the three dashboards into one.",
-    "ipa_connected": "/wˈiː ʃəd kənsˈɒlɪdˌeɪt ðə θrˈiː dˈæʃbɔːdz ˈɪntʊ wˈɒn/"
+    "ipa_connected": "/wˈiː ʃəd kənsˈɒlɪdˌeɪt ðə θrˈiː dˈæʃbɔːdz ˈɪntʊ wˈɒn/",
+    "audio_uri": "audio/rp/lex_consolidate_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -537,7 +552,7 @@
   "headword": "substantiate",
   "ipa_rp": "/səbˈstæn.ʃi.eɪt/",
   "syllable_stress": "suhb-STAN-shee-ayt",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_substantiate_01.mp3",
   "phonetic_trap": "Weak /səb/; TRAP /æ/ under stress; final FACE /eɪ/.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -554,7 +569,8 @@
   "examples_rp": [
    {
     "text": "Can we substantiate that figure before we share it?",
-    "ipa_connected": "/kən wˈiː səbstˈænʃɪˌeɪt ðˈæt fˈɪɡə bɪfˈɔː wˈiː ʃˈeər ˈɪt/"
+    "ipa_connected": "/kən wˈiː səbstˈænʃɪˌeɪt ðˈæt fˈɪɡə bɪfˈɔː wˈiː ʃˈeər ˈɪt/",
+    "audio_uri": "audio/rp/lex_substantiate_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -578,7 +594,7 @@
   "headword": "salient",
   "ipa_rp": "/ˈseɪ.li.ənt/",
   "syllable_stress": "SAY-lee-uhnt",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_salient_01.mp3",
   "phonetic_trap": "FACE /eɪ/ glide in the first syllable; three syllables, final schwa.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -595,7 +611,8 @@
   "examples_rp": [
    {
     "text": "Let me run through the salient points.",
-    "ipa_connected": "/lˈet mˈiː rˈʌn θrˈuː ðə sˈeɪlɪənt pˈɔɪnts/"
+    "ipa_connected": "/lˈet mˈiː rˈʌn θrˈuː ðə sˈeɪlɪənt pˈɔɪnts/",
+    "audio_uri": "audio/rp/lex_salient_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -612,7 +629,7 @@
   "headword": "pragmatic",
   "ipa_rp": "/præɡˈmæt.ɪk/",
   "syllable_stress": "prag-MAT-ik",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_pragmatic_01.mp3",
   "phonetic_trap": "Two TRAP /æ/ vowels; crisp alveolar /t/ (or a tap would sound American).",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -629,7 +646,8 @@
   "examples_rp": [
    {
     "text": "The pragmatic approach is to ship the smaller fix first.",
-    "ipa_connected": "/ðə præɡmˈætɪk əprˈəʊtʃ ˈɪz tə ʃˈɪp ðə smˈɔːlə fˈɪks fˈɜːst/"
+    "ipa_connected": "/ðə præɡmˈætɪk əprˈəʊtʃ ˈɪz tə ʃˈɪp ðə smˈɔːlə fˈɪks fˈɜːst/",
+    "audio_uri": "audio/rp/lex_pragmatic_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -652,7 +670,7 @@
   "headword": "nuance",
   "ipa_rp": "/ˈnjuː.ɑːns/",
   "syllable_stress": "NYOO-ahns",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_nuance_01.mp3",
   "phonetic_trap": "RP keeps yod: /njuː/. Long BATH-type /ɑː/ in the second syllable.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -670,7 +688,8 @@
   "examples_rp": [
    {
     "text": "There's a nuance here that the summary misses.",
-    "ipa_connected": "/ðˈeəz ə njˈuːɑːns hˈɪə ðˈæt ðə sˈʌmərɪ mˈɪsɪz/"
+    "ipa_connected": "/ðˈeəz ə njˈuːɑːns hˈɪə ðˈæt ðə sˈʌmərɪ mˈɪsɪz/",
+    "audio_uri": "audio/rp/lex_nuance_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -690,7 +709,7 @@
   "headword": "at capacity",
   "ipa_rp": "/ət kəˈpæs.ə.ti/",
   "syllable_stress": "uht kuh-PAS-uh-tee",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_at_capacity_01.mp3",
   "phonetic_trap": "Crush \"at\" to /ət/ and the first syllable of capacity to /kə/; stress PAS with TRAP /æ/.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -708,7 +727,8 @@
   "examples_rp": [
    {
     "text": "I'm at capacity this sprint, so it would have to wait.",
-    "ipa_connected": "/ˈaɪm ət kəpˈæsɪtɪ ðˈɪs sprˈɪnt sˈəʊ ˈɪt wəd hˈæv tə wˈeɪt/"
+    "ipa_connected": "/ˈaɪm ət kəpˈæsɪtɪ ðˈɪs sprˈɪnt sˈəʊ ˈɪt wəd hˈæv tə wˈeɪt/",
+    "audio_uri": "audio/rp/lex_at_capacity_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -729,7 +749,7 @@
   "headword": "action",
   "ipa_rp": "/ˈæk.ʃən/",
   "syllable_stress": "AK-shuhn",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_action_01.mp3",
   "phonetic_trap": "TRAP /æ/; final syllable reduced to /ʃən/.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -747,7 +767,8 @@
   "examples_rp": [
    {
     "text": "Could you action this by Friday and keep me posted?",
-    "ipa_connected": "/kəd jˈuː ˈækʃən ðˈɪs bˈaɪ frˈaɪdeɪ ən kˈiːp mˈiː pˈəʊstɪd/"
+    "ipa_connected": "/kəd jˈuː ˈækʃən ðˈɪs bˈaɪ frˈaɪdeɪ ən kˈiːp mˈiː pˈəʊstɪd/",
+    "audio_uri": "audio/rp/lex_action_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -767,7 +788,7 @@
   "headword": "escalate",
   "ipa_rp": "/ˈes.kə.leɪt/",
   "syllable_stress": "ES-kuh-layt",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_escalate_01.mp3",
   "phonetic_trap": "Schwa in the middle syllable; final FACE /eɪ/ — not [eː].",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -784,7 +805,8 @@
   "examples_rp": [
    {
     "text": "If it isn't resolved by noon, I'll escalate it.",
-    "ipa_connected": "/ˈɪf ˈɪt ˈɪzənt rɪzˈɒlvd bˈaɪ nˈuːn ˈaɪl ˈeskəlˌeɪt ˈɪt/"
+    "ipa_connected": "/ˈɪf ˈɪt ˈɪzənt rɪzˈɒlvd bˈaɪ nˈuːn ˈaɪl ˈeskəlˌeɪt ˈɪt/",
+    "audio_uri": "audio/rp/lex_escalate_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -807,7 +829,7 @@
   "headword": "flag up",
   "ipa_rp": "/flæɡ ʌp/",
   "syllable_stress": "FLAG UP",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_flag_01.mp3",
   "phonetic_trap": "TRAP /æ/; link the /ɡ/ straight into \"up\" — /flæ.ɡʌp/.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -825,7 +847,8 @@
   "examples_rp": [
    {
     "text": "Just to flag: the vendor contract expires in May.",
-    "ipa_connected": "/dʒˈʌst tə flˈæɡ ðə vˈendə kˈɒntrækt ɪkspˈaɪəz ˈɪn mˈeɪ/"
+    "ipa_connected": "/dʒˈʌst tə flˈæɡ ðə vˈendə kˈɒntrækt ɪkspˈaɪəz ˈɪn mˈeɪ/",
+    "audio_uri": "audio/rp/lex_flag_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -847,7 +870,7 @@
   "headword": "proviso",
   "ipa_rp": "/prəˈvaɪ.zəʊ/",
   "syllable_stress": "pruh-VY-zoh",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_proviso_01.mp3",
   "phonetic_trap": "Weak /prə/; /v/ with teeth contact; final GOAT /əʊ/ glide.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -864,7 +887,8 @@
   "examples_rp": [
    {
     "text": "We agreed, with the proviso that legal signs it off.",
-    "ipa_connected": "/wˈiː əɡrˈiːd wˈɪð ðə prəvˈaɪzəʊ ðˈæt lˈiːɡəl sˈaɪnz ˈɪt ˈɒf/"
+    "ipa_connected": "/wˈiː əɡrˈiːd wˈɪð ðə prəvˈaɪzəʊ ðˈæt lˈiːɡəl sˈaɪnz ˈɪt ˈɒf/",
+    "audio_uri": "audio/rp/lex_proviso_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -882,7 +906,7 @@
   "headword": "prudent",
   "ipa_rp": "/ˈpruː.dənt/",
   "syllable_stress": "PROO-duhnt",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_prudent_01.mp3",
   "phonetic_trap": "Long GOOSE /uː/; schwa in the second syllable; alveolar /d/.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -899,7 +923,8 @@
   "examples_rp": [
    {
     "text": "It would be prudent to wait for the audit.",
-    "ipa_connected": "/ˈɪt wəd bˈiː prˈuːdənt tə wˈeɪt fə ðɪ ˈɔːdɪt/"
+    "ipa_connected": "/ˈɪt wəd bˈiː prˈuːdənt tə wˈeɪt fə ðɪ ˈɔːdɪt/",
+    "audio_uri": "audio/rp/lex_prudent_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -920,7 +945,7 @@
   "headword": "tangible",
   "ipa_rp": "/ˈtæn.dʒə.bəl/",
   "syllable_stress": "TAN-juh-buhl",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_tangible_01.mp3",
   "phonetic_trap": "TRAP /æ/ under stress; middle syllable crushed to /dʒə/.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -938,7 +963,8 @@
   "examples_rp": [
    {
     "text": "We need tangible results by the end of the quarter.",
-    "ipa_connected": "/wˈiː nˈiːd tˈændʒɪbəl rɪzˈʌlts bˈaɪ ðɪ ˈend əv ðə kwˈɔːtə/"
+    "ipa_connected": "/wˈiː nˈiːd tˈændʒɪbəl rɪzˈʌlts bˈaɪ ðɪ ˈend əv ðə kwˈɔːtə/",
+    "audio_uri": "audio/rp/lex_tangible_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -957,7 +983,7 @@
   "headword": "endorse",
   "ipa_rp": "/ɪnˈdɔːs/",
   "syllable_stress": "in-DAWS",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_endorse_01.mp3",
   "phonetic_trap": "Non-rhotic: /ɪnˈdɔːs/ — long rounded THOUGHT vowel, no /r/.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -974,7 +1000,8 @@
   "examples_rp": [
    {
     "text": "I fully endorse the revised plan.",
-    "ipa_connected": "/ˈaɪ fˈʊlɪ endˈɔːs ðə rɪvˈaɪzd plˈæn/"
+    "ipa_connected": "/ˈaɪ fˈʊlɪ endˈɔːs ðə rɪvˈaɪzd plˈæn/",
+    "audio_uri": "audio/rp/lex_endorse_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -994,7 +1021,7 @@
   "headword": "reconcile",
   "ipa_rp": "/ˈrek.ən.saɪl/",
   "syllable_stress": "REK-uhn-syle",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_reconcile_01.mp3",
   "phonetic_trap": "Stress on the first syllable; schwa in the second; PRICE /aɪ/ at the end.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -1011,7 +1038,8 @@
   "examples_rp": [
    {
     "text": "We need to reconcile the two sets of figures.",
-    "ipa_connected": "/wˈiː nˈiːd tə rˈekənsˌaɪl ðə tˈuː sˈets əv fˈɪɡəz/"
+    "ipa_connected": "/wˈiː nˈiːd tə rˈekənsˌaɪl ðə tˈuː sˈets əv fˈɪɡəz/",
+    "audio_uri": "audio/rp/lex_reconcile_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -1034,7 +1062,7 @@
   "headword": "provisional",
   "ipa_rp": "/prəˈvɪʒ.ən.əl/",
   "syllable_stress": "pruh-VIZH-uh-nuhl",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_provisional_01.mp3",
   "phonetic_trap": "Weak /prə/; voiced /ʒ/ (as in \"measure\"); reduced final syllables.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -1052,7 +1080,8 @@
   "examples_rp": [
    {
     "text": "These figures are provisional until Friday.",
-    "ipa_connected": "/ðˈiːz fˈɪɡəz ˈɑː prəvˈɪʒənəl ʌntˈɪl frˈaɪdeɪ/"
+    "ipa_connected": "/ðˈiːz fˈɪɡəz ˈɑː prəvˈɪʒənəl ʌntˈɪl frˈaɪdeɪ/",
+    "audio_uri": "audio/rp/lex_provisional_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -1074,7 +1103,7 @@
   "headword": "incremental",
   "ipa_rp": "/ˌɪŋ.krəˈmen.təl/",
   "syllable_stress": "ing-kruh-MEN-tuhl",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_incremental_01.mp3",
   "phonetic_trap": "Assimilated /ŋ/ before /k/; schwa in the second syllable; stress on MEN.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -1092,7 +1121,8 @@
   "examples_rp": [
    {
     "text": "Let's take an incremental approach to the migration.",
-    "ipa_connected": "/lˈets tˈeɪk ən ˌɪŋkrɪmˈentəl əprˈəʊtʃ tə ðə maɪɡrˈeɪʃən/"
+    "ipa_connected": "/lˈets tˈeɪk ən ˌɪŋkrɪmˈentəl əprˈəʊtʃ tə ðə maɪɡrˈeɪʃən/",
+    "audio_uri": "audio/rp/lex_incremental_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -1116,7 +1146,7 @@
   "headword": "contentious",
   "ipa_rp": "/kənˈten.ʃəs/",
   "syllable_stress": "kuhn-TEN-shuhs",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_contentious_01.mp3",
   "phonetic_trap": "Weak /kən/; crisp alveolar /t/; final /ʃəs/.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -1133,7 +1163,8 @@
   "examples_rp": [
    {
     "text": "Pricing is the contentious item, so let's take it last.",
-    "ipa_connected": "/prˈaɪsɪŋ ˈɪz ðə kəntˈenʃəs ˈaɪtəm sˈəʊ lˈets tˈeɪk ˈɪt lˈɑːst/"
+    "ipa_connected": "/prˈaɪsɪŋ ˈɪz ðə kəntˈenʃəs ˈaɪtəm sˈəʊ lˈets tˈeɪk ˈɪt lˈɑːst/",
+    "audio_uri": "audio/rp/lex_contentious_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -1151,7 +1182,7 @@
   "headword": "expedite",
   "ipa_rp": "/ˈek.spə.daɪt/",
   "syllable_stress": "EK-spuh-dyte",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_expedite_01.mp3",
   "phonetic_trap": "Stress on the first syllable; schwa in the second; PRICE /aɪ/ at the end.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -1168,7 +1199,8 @@
   "examples_rp": [
    {
     "text": "Could we expedite the security review?",
-    "ipa_connected": "/kəd wˈiː ˈekspədˌaɪt ðə sɪkjˈɔːrɪtɪ rɪvjˈuː/"
+    "ipa_connected": "/kəd wˈiː ˈekspədˌaɪt ðə sɪkjˈɔːrɪtɪ rɪvjˈuː/",
+    "audio_uri": "audio/rp/lex_expedite_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -1191,7 +1223,7 @@
   "headword": "preclude",
   "ipa_rp": "/prɪˈkluːd/",
   "syllable_stress": "prih-KLOOD",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_preclude_01.mp3",
   "phonetic_trap": "Weak /prɪ/; long GOOSE /uː/; voiced final /d/.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -1208,7 +1240,8 @@
   "examples_rp": [
    {
     "text": "That doesn't preclude a later review.",
-    "ipa_connected": "/ðˈæt dˈʌzənt prɪklˈuːd ə lˈeɪtə rɪvjˈuː/"
+    "ipa_connected": "/ðˈæt dˈʌzənt prɪklˈuːd ə lˈeɪtə rɪvjˈuː/",
+    "audio_uri": "audio/rp/lex_preclude_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -1230,7 +1263,7 @@
   "headword": "discrepancy",
   "ipa_rp": "/dɪˈskrep.ən.si/",
   "syllable_stress": "dih-SKREP-uhn-see",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_discrepancy_01.mp3",
   "phonetic_trap": "Weak /dɪ/; stressed DRESS /e/; reduced /ən/.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -1247,7 +1280,8 @@
   "examples_rp": [
    {
     "text": "There's a discrepancy between the two reports.",
-    "ipa_connected": "/ðˈeəz ə dɪskrˈepənsɪ bɪtwˈiːn ðə tˈuː rɪpˈɔːts/"
+    "ipa_connected": "/ðˈeəz ə dɪskrˈepənsɪ bɪtwˈiːn ðə tˈuː rɪpˈɔːts/",
+    "audio_uri": "audio/rp/lex_discrepancy_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -1270,7 +1304,7 @@
   "headword": "undermine",
   "ipa_rp": "/ˌʌn.dəˈmaɪn/",
   "syllable_stress": "un-duh-MYNE",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_undermine_01.mp3",
   "phonetic_trap": "Non-rhotic middle syllable /də/ — no /r/; main stress on the last syllable.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -1287,7 +1321,8 @@
   "examples_rp": [
    {
     "text": "Late changes undermine confidence in the release.",
-    "ipa_connected": "/lˈeɪt tʃˈeɪndʒɪz ˌʌndəmˈaɪn kˈɒnfɪdəns ˈɪn ðə rɪlˈiːs/"
+    "ipa_connected": "/lˈeɪt tʃˈeɪndʒɪz ˌʌndəmˈaɪn kˈɒnfɪdəns ˈɪn ðə rɪlˈiːs/",
+    "audio_uri": "audio/rp/lex_undermine_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -1309,7 +1344,7 @@
   "headword": "a bit of a stretch",
   "ipa_rp": "/ə ˈbɪt əv ə ˈstretʃ/",
   "syllable_stress": "uh BIT uhv uh STRETCH",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_stretch_01.mp3",
   "phonetic_trap": "Weak forms throughout: /ə/, /əv/, /ə/. Glottal /t/ in \"bit\" before /əv/ is fine in modern RP.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -1326,7 +1361,8 @@
   "examples_rp": [
    {
     "text": "A March launch might be a bit of a stretch.",
-    "ipa_connected": "/ə mˈɑːtʃ lˈɔːntʃ mˈaɪt bˈiː ə bˈɪt əv ə strˈetʃ/"
+    "ipa_connected": "/ə mˈɑːtʃ lˈɔːntʃ mˈaɪt bˈiː ə bˈɪt əv ə strˈetʃ/",
+    "audio_uri": "audio/rp/lex_stretch_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -1349,7 +1385,7 @@
   "headword": "keep me posted",
   "ipa_rp": "/ˌkiːp mi ˈpəʊs.tɪd/",
   "syllable_stress": "keep mee POHS-tid",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_keep_posted_01.mp3",
   "phonetic_trap": "GOAT /əʊ/ in \"posted\" — glide, never [oː]. Weak /mi/.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -1366,7 +1402,8 @@
   "examples_rp": [
    {
     "text": "Please action this and keep me posted.",
-    "ipa_connected": "/plˈiːz ˈækʃən ðˈɪs ən kˈiːp mˈiː pˈəʊstɪd/"
+    "ipa_connected": "/plˈiːz ˈækʃən ðˈɪs ən kˈiːp mˈiː pˈəʊstɪd/",
+    "audio_uri": "audio/rp/lex_keep_posted_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -1390,7 +1427,7 @@
   "headword": "bogged down",
   "ipa_rp": "/ˌbɒɡd ˈdaʊn/",
   "syllable_stress": "BOGD DOWN",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_bogged_down_01.mp3",
   "phonetic_trap": "LOT /ɒ/ in \"bogged\"; MOUTH /aʊ/ glide in \"down\".",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -1407,7 +1444,8 @@
   "examples_rp": [
    {
     "text": "We got bogged down in admin this morning.",
-    "ipa_connected": "/wˈiː ɡˈɒt bˈɒɡd dˈaʊn ˈɪn ˈædmɪn ðˈɪs mˈɔːnɪŋ/"
+    "ipa_connected": "/wˈiː ɡˈɒt bˈɒɡd dˈaʊn ˈɪn ˈædmɪn ðˈɪs mˈɔːnɪŋ/",
+    "audio_uri": "audio/rp/lex_bogged_down_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -1427,7 +1465,7 @@
   "headword": "sticking point",
   "ipa_rp": "/ˈstɪk.ɪŋ ˌpɔɪnt/",
   "syllable_stress": "STIK-ing poynt",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_sticking_point_01.mp3",
   "phonetic_trap": "CHOICE /ɔɪ/ glide in \"point\"; glottal or released final /t/.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -1444,7 +1482,8 @@
   "examples_rp": [
    {
     "text": "Pricing remains the main sticking point.",
-    "ipa_connected": "/prˈaɪsɪŋ rɪmˈeɪnz ðə mˈeɪn stˈɪkɪŋ pˈɔɪnt/"
+    "ipa_connected": "/prˈaɪsɪŋ rɪmˈeɪnz ðə mˈeɪn stˈɪkɪŋ pˈɔɪnt/",
+    "audio_uri": "audio/rp/lex_sticking_point_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -1463,7 +1502,7 @@
   "headword": "ring-fence",
   "ipa_rp": "/ˈrɪŋ.fens/",
   "syllable_stress": "RING-fens",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_ring_fence_01.mp3",
   "phonetic_trap": "Velar nasal /ŋ/ — no /ɡ/ release after it.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -1480,7 +1519,8 @@
   "examples_rp": [
    {
     "text": "Let's ring-fence Friday afternoons for deep work.",
-    "ipa_connected": "/lˈets rˈɪŋfˈens frˈaɪdeɪ ˌɑːftənˈuːnz fə dˈiːp wˈɜːk/"
+    "ipa_connected": "/lˈets rˈɪŋfˈens frˈaɪdeɪ ˌɑːftənˈuːnz fə dˈiːp wˈɜːk/",
+    "audio_uri": "audio/rp/lex_ring_fence_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -1502,7 +1542,7 @@
   "headword": "trade-off",
   "ipa_rp": "/ˈtreɪd.ɒf/",
   "syllable_stress": "TRAYD-off",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_trade_off_01.mp3",
   "phonetic_trap": "FACE /eɪ/ glide; LOT /ɒ/ in \"off\" — short, lightly rounded.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -1519,7 +1559,8 @@
   "examples_rp": [
    {
     "text": "It's a trade-off between speed and accuracy.",
-    "ipa_connected": "/ˈɪts ə trˈeɪdˈɒf bɪtwˈiːn spˈiːd ən ˈækjʊrəsɪ/"
+    "ipa_connected": "/ˈɪts ə trˈeɪdˈɒf bɪtwˈiːn spˈiːd ən ˈækjʊrəsɪ/",
+    "audio_uri": "audio/rp/lex_trade_off_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -1540,7 +1581,7 @@
   "headword": "feasible",
   "ipa_rp": "/ˈfiː.zə.bəl/",
   "syllable_stress": "FEE-zuh-buhl",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_feasible_01.mp3",
   "phonetic_trap": "Long FLEECE /iː/; voiced /z/; schwa in the middle.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -1557,7 +1598,8 @@
   "examples_rp": [
    {
     "text": "Is a two-week turnaround feasible?",
-    "ipa_connected": "/ˈɪz ə tˈuːwˈiːk tˈɜːnərˌaʊnd fˈiːzɪbəl/"
+    "ipa_connected": "/ˈɪz ə tˈuːwˈiːk tˈɜːnərˌaʊnd fˈiːzɪbəl/",
+    "audio_uri": "audio/rp/lex_feasible_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -1578,7 +1620,7 @@
   "headword": "allocate",
   "ipa_rp": "/ˈæl.ə.keɪt/",
   "syllable_stress": "AL-uh-kayt",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_allocate_01.mp3",
   "phonetic_trap": "TRAP /æ/ stressed; schwa in the middle; FACE /eɪ/ at the end.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -1595,7 +1637,8 @@
   "examples_rp": [
    {
     "text": "We'll allocate two engineers to the migration.",
-    "ipa_connected": "/wˈiːl ˈæləkˌeɪt tˈuː ˌendʒɪnˈɪəz tə ðə maɪɡrˈeɪʃən/"
+    "ipa_connected": "/wˈiːl ˈæləkˌeɪt tˈuː ˌendʒɪnˈɪəz tə ðə maɪɡrˈeɪʃən/",
+    "audio_uri": "audio/rp/lex_allocate_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -1616,7 +1659,7 @@
   "headword": "in hindsight",
   "ipa_rp": "/ɪn ˈhaɪnd.saɪt/",
   "syllable_stress": "in HYND-syte",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_hindsight_01.mp3",
   "phonetic_trap": "Two PRICE /aɪ/ glides; the /d/ may be elided before /s/.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -1633,7 +1676,8 @@
   "examples_rp": [
    {
     "text": "In hindsight, we should have tested on real devices.",
-    "ipa_connected": "/ˈɪn hˈaɪndsaɪt wˈiː ʃəd hˈæv tˈestɪd ˈɒn rˈɪəl dɪvˈaɪsɪz/"
+    "ipa_connected": "/ˈɪn hˈaɪndsaɪt wˈiː ʃəd hˈæv tˈestɪd ˈɒn rˈɪəl dɪvˈaɪsɪz/",
+    "audio_uri": "audio/rp/lex_hindsight_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -1654,7 +1698,7 @@
   "headword": "I take your point",
   "ipa_rp": "/aɪ ˌteɪk jə ˈpɔɪnt/",
   "syllable_stress": "eye TAYK yuh POYNT",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_take_point_01.mp3",
   "phonetic_trap": "Weak /jə/ for \"your\"; FACE /eɪ/ and CHOICE /ɔɪ/ glides.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -1671,7 +1715,8 @@
   "examples_rp": [
    {
     "text": "I take your point, but the risk is still too high.",
-    "ipa_connected": "/ˈaɪ tˈeɪk jə pˈɔɪnt bət ðə rˈɪsk ˈɪz stˈɪl tˈuː hˈaɪ/"
+    "ipa_connected": "/ˈaɪ tˈeɪk jə pˈɔɪnt bət ðə rˈɪsk ˈɪz stˈɪl tˈuː hˈaɪ/",
+    "audio_uri": "audio/rp/lex_take_point_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -1695,7 +1740,7 @@
   "headword": "on balance",
   "ipa_rp": "/ɒn ˈbæl.əns/",
   "syllable_stress": "on BAL-uhns",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_on_balance_01.mp3",
   "phonetic_trap": "LOT /ɒ/ in \"on\"; TRAP /æ/ stressed; schwa in \"-ance\".",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -1712,7 +1757,8 @@
   "examples_rp": [
    {
     "text": "On balance, I'd go with the cheaper vendor.",
-    "ipa_connected": "/ˈɒn bˈæləns ˈaɪd ɡˈəʊ wˈɪð ðə tʃˈiːpə vˈendə/"
+    "ipa_connected": "/ˈɒn bˈæləns ˈaɪd ɡˈəʊ wˈɪð ðə tʃˈiːpə vˈendə/",
+    "audio_uri": "audio/rp/lex_on_balance_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -1730,7 +1776,7 @@
   "headword": "not ideal",
   "ipa_rp": "/nɒt aɪˈdɪəl/",
   "syllable_stress": "not eye-DEER-uhl",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_not_ideal_01.mp3",
   "phonetic_trap": "Non-rhotic NEAR /ɪə/ in \"ideal\" — no /r/; LOT /ɒ/ in \"not\".",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -1747,7 +1793,8 @@
   "examples_rp": [
    {
     "text": "Losing the staging server is not ideal.",
-    "ipa_connected": "/lˈuːzɪŋ ðə stˈeɪdʒɪŋ sˈɜːvər ˈɪz nˈɒt aɪdˈɪəl/"
+    "ipa_connected": "/lˈuːzɪŋ ðə stˈeɪdʒɪŋ sˈɜːvər ˈɪz nˈɒt aɪdˈɪəl/",
+    "audio_uri": "audio/rp/lex_not_ideal_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -1768,7 +1815,7 @@
   "headword": "overrun",
   "ipa_rp": "/ˌəʊ.vəˈrʌn/",
   "syllable_stress": "oh-vuh-RUN",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_overrun_01.mp3",
   "phonetic_trap": "GOAT /əʊ/ start; non-rhotic /və/ then linking /r/ into the stressed /ʌn/.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -1786,7 +1833,8 @@
   "examples_rp": [
    {
     "text": "We've overrun by a week on the data migration.",
-    "ipa_connected": "/wˈiːv ˌəʊvərˈʌn bˈaɪ ə wˈiːk ˈɒn ðə dˈeɪtə maɪɡrˈeɪʃən/"
+    "ipa_connected": "/wˈiːv ˌəʊvərˈʌn bˈaɪ ə wˈiːk ˈɒn ðə dˈeɪtə maɪɡrˈeɪʃən/",
+    "audio_uri": "audio/rp/lex_overrun_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -1808,7 +1856,7 @@
   "headword": "clarify",
   "ipa_rp": "/ˈklær.ə.faɪ/",
   "syllable_stress": "KLAR-uh-fy",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_clarify_01.mp3",
   "phonetic_trap": "TRAP /æ/ under stress, linking /r/ before the schwa; PRICE /aɪ/ at the end.",
   "register_badge": "GREEN_EXECUTIVE_SAFE",
   "register_label": "Boardroom, Academic & Formal Written Safe",
@@ -1826,7 +1874,8 @@
   "examples_rp": [
    {
     "text": "Could you clarify what \"done\" means here?",
-    "ipa_connected": "/kəd jˈuː klˈærɪfˌaɪ wˈɒt dˈʌn mˈiːnz hˈɪə/"
+    "ipa_connected": "/kəd jˈuː klˈærɪfˌaɪ wˈɒt dˈʌn mˈiːnz hˈɪə/",
+    "audio_uri": "audio/rp/lex_clarify_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -1848,7 +1897,7 @@
   "headword": "keen",
   "ipa_rp": "/kiːn/",
   "syllable_stress": "KEEN",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_keen_01.mp3",
   "phonetic_trap": "Long FLEECE /iː/ with spread lips; aspirated /kʰ/.",
   "register_badge": "AMBER_COLLEAGUE",
   "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
@@ -1866,7 +1915,8 @@
   "examples_rp": [
    {
     "text": "I'm keen to get this over the line.",
-    "ipa_connected": "/ˈaɪm kˈiːn tə ɡˈet ðˈɪs ˈəʊvə ðə lˈaɪn/"
+    "ipa_connected": "/ˈaɪm kˈiːn tə ɡˈet ðˈɪs ˈəʊvə ðə lˈaɪn/",
+    "audio_uri": "audio/rp/lex_keen_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -1880,7 +1930,7 @@
   "headword": "touch and go",
   "ipa_rp": "/ˌtʌtʃ ən ˈɡəʊ/",
   "syllable_stress": "TUCH uhn GOH",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_touch_and_go_01.mp3",
   "phonetic_trap": "Crush \"and\" to /ən/; GOAT /əʊ/ glide in \"go\".",
   "register_badge": "AMBER_COLLEAGUE",
   "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
@@ -1896,7 +1946,8 @@
   "examples_rp": [
    {
     "text": "It was touch and go, but we made the deadline.",
-    "ipa_connected": "/ˈɪt wəz tˈʌtʃ ən ɡˈəʊ bət wˈiː mˈeɪd ðə dˈedlaɪn/"
+    "ipa_connected": "/ˈɪt wəz tˈʌtʃ ən ɡˈəʊ bət wˈiː mˈeɪd ðə dˈedlaɪn/",
+    "audio_uri": "audio/rp/lex_touch_and_go_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -1914,7 +1965,7 @@
   "headword": "pinch of salt",
   "ipa_rp": "/ˈpɪntʃ əv ˈsɒlt/",
   "syllable_stress": "PINCH uhv SAWLT",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_pinch_of_salt_01.mp3",
   "phonetic_trap": "Weak /əv/; \"salt\" is /sɒlt/ or /sɔːlt/ in RP (both fine) with a dark /l/ — never an American [sɑlt].",
   "register_badge": "AMBER_COLLEAGUE",
   "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
@@ -1930,7 +1981,8 @@
   "examples_rp": [
    {
     "text": "I'd take those estimates with a pinch of salt.",
-    "ipa_connected": "/ˈaɪd tˈeɪk ðˈəʊz ˈestɪməts wˈɪð ə pˈɪntʃ əv sˈɒlt/"
+    "ipa_connected": "/ˈaɪd tˈeɪk ðˈəʊz ˈestɪməts wˈɪð ə pˈɪntʃ əv sˈɒlt/",
+    "audio_uri": "audio/rp/lex_pinch_of_salt_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -1951,7 +2003,7 @@
   "headword": "back burner",
   "ipa_rp": "/ˌbæk ˈbɜː.nə/",
   "syllable_stress": "BAK BUR-nuh",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_back_burner_01.mp3",
   "phonetic_trap": "Non-rhotic: /ˈbɜː.nə/ — long NURSE vowel, no /r/ anywhere.",
   "register_badge": "AMBER_COLLEAGUE",
   "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
@@ -1967,7 +2019,8 @@
   "examples_rp": [
    {
     "text": "Let's put the redesign on the back burner for now.",
-    "ipa_connected": "/lˈets pˈʊt ðə rˌiːdɪzˈaɪn ˈɒn ðə bˈæk bˈɜːnə fə nˈaʊ/"
+    "ipa_connected": "/lˈets pˈʊt ðə rˌiːdɪzˈaɪn ˈɒn ðə bˈæk bˈɜːnə fə nˈaʊ/",
+    "audio_uri": "audio/rp/lex_back_burner_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -1984,7 +2037,7 @@
   "headword": "snowed under",
   "ipa_rp": "/ˌsnəʊd ˈʌn.də/",
   "syllable_stress": "SNOHD UN-duh",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_snowed_under_01.mp3",
   "phonetic_trap": "GOAT /əʊ/; non-rhotic final /də/.",
   "register_badge": "AMBER_COLLEAGUE",
   "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
@@ -2000,7 +2053,8 @@
   "examples_rp": [
    {
     "text": "I'm snowed under this week — could it wait till Monday?",
-    "ipa_connected": "/ˈaɪm snˈəʊd ˈʌndə ðˈɪs wˈiːk kəd ˈɪt wˈeɪt tˈɪl mˈʌndeɪ/"
+    "ipa_connected": "/ˈaɪm snˈəʊd ˈʌndə ðˈɪs wˈiːk kəd ˈɪt wˈeɪt tˈɪl mˈʌndeɪ/",
+    "audio_uri": "audio/rp/lex_snowed_under_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -2017,7 +2071,7 @@
   "headword": "teething problems",
   "ipa_rp": "/ˈtiː.ðɪŋ ˌprɒb.ləmz/",
   "syllable_stress": "TEE-thing PROB-luhmz",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_teething_01.mp3",
   "phonetic_trap": "Voiced dental fricative /ð/ — tongue between teeth, continuous buzz, no [d].",
   "register_badge": "AMBER_COLLEAGUE",
   "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
@@ -2034,7 +2088,8 @@
   "examples_rp": [
    {
     "text": "We're seeing a few teething problems with the new system.",
-    "ipa_connected": "/wˈɪə sˈiːɪŋ ə fjˈuː tˈiːðɪŋ prˈɒbləmz wˈɪð ðə njˈuː sˈɪstəm/"
+    "ipa_connected": "/wˈɪə sˈiːɪŋ ə fjˈuː tˈiːðɪŋ prˈɒbləmz wˈɪð ðə njˈuː sˈɪstəm/",
+    "audio_uri": "audio/rp/lex_teething_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -2061,7 +2116,7 @@
   "headword": "swamped",
   "ipa_rp": "/swɒmpt/",
   "syllable_stress": "SWOMPT",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_swamped_01.mp3",
   "phonetic_trap": "LOT /ɒ/ after /w/ (not TRAP). /mpt/ cluster released cleanly.",
   "register_badge": "AMBER_COLLEAGUE",
   "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
@@ -2078,7 +2133,8 @@
   "examples_rp": [
    {
     "text": "I'm swamped until Thursday.",
-    "ipa_connected": "/ˈaɪm swˈɒmpt ʌntˈɪl θˈɜːzdeɪ/"
+    "ipa_connected": "/ˈaɪm swˈɒmpt ʌntˈɪl θˈɜːzdeɪ/",
+    "audio_uri": "audio/rp/lex_swamped_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -2098,7 +2154,7 @@
   "headword": "chock-a-block",
   "ipa_rp": "/ˌtʃɒk.əˈblɒk/",
   "syllable_stress": "CHOK-uh-BLOK",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_chock_01.mp3",
   "phonetic_trap": "Two LOT /ɒ/ vowels; weak /ə/ in the middle.",
   "register_badge": "AMBER_COLLEAGUE",
   "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
@@ -2114,7 +2170,8 @@
   "examples_rp": [
    {
     "text": "My diary is chock-a-block until Friday.",
-    "ipa_connected": "/mˈaɪ dˈaɪərɪ ˈɪz tʃˈɒkəblˈɒk ʌntˈɪl frˈaɪdeɪ/"
+    "ipa_connected": "/mˈaɪ dˈaɪərɪ ˈɪz tʃˈɒkəblˈɒk ʌntˈɪl frˈaɪdeɪ/",
+    "audio_uri": "audio/rp/lex_chock_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -2134,7 +2191,7 @@
   "headword": "ballpark",
   "ipa_rp": "/ˈbɔːl.pɑːk/",
   "syllable_stress": "BAWL-pahk",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_ballpark_01.mp3",
   "phonetic_trap": "Non-rhotic /pɑːk/; THOUGHT /ɔː/ in \"ball\".",
   "register_badge": "AMBER_COLLEAGUE",
   "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
@@ -2151,7 +2208,8 @@
   "examples_rp": [
    {
     "text": "Can you give me a ballpark figure?",
-    "ipa_connected": "/kən jˈuː ɡˈɪv mˈiː ə bˈɔːlpɑːk fˈɪɡə/"
+    "ipa_connected": "/kən jˈuː ɡˈɪv mˈiː ə bˈɔːlpɑːk fˈɪɡə/",
+    "audio_uri": "audio/rp/lex_ballpark_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -2168,7 +2226,7 @@
   "headword": "a tall order",
   "ipa_rp": "/ə ˌtɔːl ˈɔː.də/",
   "syllable_stress": "uh TAWL AW-duh",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_tall_order_01.mp3",
   "phonetic_trap": "Non-rhotic \"order\" /ˈɔː.də/; long THOUGHT vowels.",
   "register_badge": "AMBER_COLLEAGUE",
   "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
@@ -2184,7 +2242,8 @@
   "examples_rp": [
    {
     "text": "Two weeks is a tall order for a full rewrite.",
-    "ipa_connected": "/tˈuː wˈiːks ˈɪz ə tˈɔːl ˈɔːdə fər ə fˈʊl rɪrˈaɪt/"
+    "ipa_connected": "/tˈuː wˈiːks ˈɪz ə tˈɔːl ˈɔːdə fər ə fˈʊl rɪrˈaɪt/",
+    "audio_uri": "audio/rp/lex_tall_order_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -2203,7 +2262,7 @@
   "headword": "up in the air",
   "ipa_rp": "/ˌʌp ɪn ði ˈeə/",
   "syllable_stress": "UP in thee AIR",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_up_in_air_01.mp3",
   "phonetic_trap": "Weak \"the\" before a vowel: /ði/ or /ðə/; non-rhotic SQUARE /eə/.",
   "register_badge": "AMBER_COLLEAGUE",
   "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
@@ -2219,7 +2278,8 @@
   "examples_rp": [
    {
     "text": "The launch date is still up in the air.",
-    "ipa_connected": "/ðə lˈɔːntʃ dˈeɪt ˈɪz stˈɪl ˈʌp ˈɪn ðɪ ˈeə/"
+    "ipa_connected": "/ðə lˈɔːntʃ dˈeɪt ˈɪz stˈɪl ˈʌp ˈɪn ðɪ ˈeə/",
+    "audio_uri": "audio/rp/lex_up_in_air_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -2236,7 +2296,7 @@
   "headword": "in the pipeline",
   "ipa_rp": "/ɪn ðə ˈpaɪp.laɪn/",
   "syllable_stress": "in thuh PYPE-lyne",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_pipeline_01.mp3",
   "phonetic_trap": "Weak \"the\" /ðə/; two PRICE /aɪ/ glides.",
   "register_badge": "AMBER_COLLEAGUE",
   "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
@@ -2252,7 +2312,8 @@
   "examples_rp": [
    {
     "text": "A fix is in the pipeline.",
-    "ipa_connected": "/ə fˈɪks ˈɪz ˈɪn ðə pˈaɪplaɪn/"
+    "ipa_connected": "/ə fˈɪks ˈɪz ˈɪn ðə pˈaɪplaɪn/",
+    "audio_uri": "audio/rp/lex_pipeline_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -2270,7 +2331,7 @@
   "headword": "sounding board",
   "ipa_rp": "/ˈsaʊn.dɪŋ ˌbɔːd/",
   "syllable_stress": "SOWN-ding BAWD",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_sounding_board_01.mp3",
   "phonetic_trap": "MOUTH /aʊ/; non-rhotic /bɔːd/.",
   "register_badge": "AMBER_COLLEAGUE",
   "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
@@ -2286,7 +2347,8 @@
   "examples_rp": [
    {
     "text": "Could I use you as a sounding board for this?",
-    "ipa_connected": "/kəd ˈaɪ jˈuːs jˈuː əz ə sˈaʊndɪŋ bˈɔːd fə ðˈɪs/"
+    "ipa_connected": "/kəd ˈaɪ jˈuːs jˈuː əz ə sˈaʊndɪŋ bˈɔːd fə ðˈɪs/",
+    "audio_uri": "audio/rp/lex_sounding_board_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -2305,7 +2367,7 @@
   "headword": "fiddly",
   "ipa_rp": "/ˈfɪd.li/",
   "syllable_stress": "FID-lee",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_fiddly_01.mp3",
   "phonetic_trap": "Short KIT /ɪ/; alveolar /d/, not [ɖ].",
   "register_badge": "AMBER_COLLEAGUE",
   "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
@@ -2321,7 +2383,8 @@
   "examples_rp": [
    {
     "text": "The config is a bit fiddly, but it works.",
-    "ipa_connected": "/ðə kənfˈɪɡ ˈɪz ə bˈɪt fˈɪdlɪ bət ˈɪt wˈɜːks/"
+    "ipa_connected": "/ðə kənfˈɪɡ ˈɪz ə bˈɪt fˈɪdlɪ bət ˈɪt wˈɜːks/",
+    "audio_uri": "audio/rp/lex_fiddly_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -2336,7 +2399,7 @@
   "headword": "run it past",
   "ipa_rp": "/ˈrʌn ɪt ˌpɑːst/",
   "syllable_stress": "RUN it PAHST",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_run_past_01.mp3",
   "phonetic_trap": "BATH vowel /ɑː/ in \"past\" — long and back, not [æ].",
   "register_badge": "AMBER_COLLEAGUE",
   "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
@@ -2353,7 +2416,8 @@
   "examples_rp": [
    {
     "text": "Let me run it past legal first.",
-    "ipa_connected": "/lˈet mˈiː rˈʌn ˈɪt pˈɑːst lˈiːɡəl fˈɜːst/"
+    "ipa_connected": "/lˈet mˈiː rˈʌn ˈɪt pˈɑːst lˈiːɡəl fˈɜːst/",
+    "audio_uri": "audio/rp/lex_run_past_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -2376,7 +2440,7 @@
   "headword": "hold the fort",
   "ipa_rp": "/ˌhəʊld ðə ˈfɔːt/",
   "syllable_stress": "HOHLD thuh FAWT",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_hold_fort_01.mp3",
   "phonetic_trap": "GOAT /əʊ/ before dark /l/; non-rhotic /fɔːt/.",
   "register_badge": "AMBER_COLLEAGUE",
   "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
@@ -2392,7 +2456,8 @@
   "examples_rp": [
    {
     "text": "Could you hold the fort while I'm on leave?",
-    "ipa_connected": "/kəd jˈuː hˈəʊld ðə fˈɔːt wˈaɪl ˈaɪm ˈɒn lˈiːv/"
+    "ipa_connected": "/kəd jˈuː hˈəʊld ðə fˈɔːt wˈaɪl ˈaɪm ˈɒn lˈiːv/",
+    "audio_uri": "audio/rp/lex_hold_fort_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -2412,7 +2477,7 @@
   "headword": "spanner in the works",
   "ipa_rp": "/ˈspæn.ər ɪn ðə ˈwɜːks/",
   "syllable_stress": "SPAN-uh rin thuh WURKS",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_spanner_01.mp3",
   "phonetic_trap": "Linking /r/ in \"spanner in\"; non-rhotic NURSE /ɜː/ in \"works\".",
   "register_badge": "AMBER_COLLEAGUE",
   "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
@@ -2428,7 +2493,8 @@
   "examples_rp": [
    {
     "text": "The vendor delay has thrown a spanner in the works.",
-    "ipa_connected": "/ðə vˈendə dɪlˈeɪ hˈæz θrˈəʊn ə spˈænər ˈɪn ðə wˈɜːks/"
+    "ipa_connected": "/ðə vˈendə dɪlˈeɪ hˈæz θrˈəʊn ə spˈænər ˈɪn ðə wˈɜːks/",
+    "audio_uri": "audio/rp/lex_spanner_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -2450,7 +2516,7 @@
   "headword": "mull over",
   "ipa_rp": "/ˌmʌl ˈəʊ.və/",
   "syllable_stress": "MUL OH-vuh",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_mull_over_01.mp3",
   "phonetic_trap": "STRUT /ʌ/; GOAT /əʊ/; non-rhotic /və/.",
   "register_badge": "AMBER_COLLEAGUE",
   "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
@@ -2466,7 +2532,8 @@
   "examples_rp": [
    {
     "text": "Let me mull it over and come back to you.",
-    "ipa_connected": "/lˈet mˈiː mˈʌl ˈɪt ˈəʊvər ən kˈʌm bˈæk tə jˈuː/"
+    "ipa_connected": "/lˈet mˈiː mˈʌl ˈɪt ˈəʊvər ən kˈʌm bˈæk tə jˈuː/",
+    "audio_uri": "audio/rp/lex_mull_over_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -2487,7 +2554,7 @@
   "headword": "rule of thumb",
   "ipa_rp": "/ˌruːl əv ˈθʌm/",
   "syllable_stress": "ROOL uhv THUM",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_rule_thumb_01.mp3",
   "phonetic_trap": "Voiceless dental /θ/ — tongue on teeth, continuous air, not [t].",
   "register_badge": "AMBER_COLLEAGUE",
   "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
@@ -2503,7 +2570,8 @@
   "examples_rp": [
    {
     "text": "As a rule of thumb, estimate, then double it.",
-    "ipa_connected": "/əz ə rˈuːl əv θˈʌm ˈestɪmət ðˈen dˈʌbəl ˈɪt/"
+    "ipa_connected": "/əz ə rˈuːl əv θˈʌm ˈestɪmət ðˈen dˈʌbəl ˈɪt/",
+    "audio_uri": "audio/rp/lex_rule_thumb_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -2522,7 +2590,7 @@
   "headword": "cut corners",
   "ipa_rp": "/ˌkʌt ˈkɔː.nəz/",
   "syllable_stress": "KUT KAW-nuhz",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_cut_corners_01.mp3",
   "phonetic_trap": "Non-rhotic /ˈkɔː.nəz/; glottal /t/ in \"cut\" before /k/ is natural RP.",
   "register_badge": "AMBER_COLLEAGUE",
   "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
@@ -2538,7 +2606,8 @@
   "examples_rp": [
    {
     "text": "We can go faster, but I don't want to cut corners on testing.",
-    "ipa_connected": "/wˈiː kən ɡˈəʊ fˈɑːstə bət ˈaɪ dˈəʊnt wˈɒnt tə kˈʌt kˈɔːnəz ˈɒn tˈestɪŋ/"
+    "ipa_connected": "/wˈiː kən ɡˈəʊ fˈɑːstə bət ˈaɪ dˈəʊnt wˈɒnt tə kˈʌt kˈɔːnəz ˈɒn tˈestɪŋ/",
+    "audio_uri": "audio/rp/lex_cut_corners_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -2559,7 +2628,7 @@
   "headword": "hit the ground running",
   "ipa_rp": "/ˌhɪt ðə ˌɡraʊnd ˈrʌn.ɪŋ/",
   "syllable_stress": "HIT thuh GROWND RUN-ing",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_hit_ground_01.mp3",
   "phonetic_trap": "Weak /ðə/; MOUTH /aʊ/ in \"ground\"; final /ŋ/ without [ɡ].",
   "register_badge": "AMBER_COLLEAGUE",
   "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
@@ -2575,7 +2644,8 @@
   "examples_rp": [
    {
     "text": "We need someone who can hit the ground running.",
-    "ipa_connected": "/wˈiː nˈiːd sˈʌmwɒn hˈuː kən hˈɪt ðə ɡrˈaʊnd rˈʌnɪŋ/"
+    "ipa_connected": "/wˈiː nˈiːd sˈʌmwɒn hˈuː kən hˈɪt ðə ɡrˈaʊnd rˈʌnɪŋ/",
+    "audio_uri": "audio/rp/lex_hit_ground_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -2598,7 +2668,7 @@
   "headword": "push back",
   "ipa_rp": "/ˌpʊʃ ˈbæk/",
   "syllable_stress": "PUSH BAK",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_push_back_01.mp3",
   "phonetic_trap": "FOOT /ʊ/ (short, lightly rounded) — not /uː/.",
   "register_badge": "AMBER_COLLEAGUE",
   "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
@@ -2615,7 +2685,8 @@
   "examples_rp": [
    {
     "text": "I'd push back on that timeline.",
-    "ipa_connected": "/ˈaɪd pˈʊʃ bˈæk ˈɒn ðˈæt tˈaɪmlaɪn/"
+    "ipa_connected": "/ˈaɪd pˈʊʃ bˈæk ˈɒn ðˈæt tˈaɪmlaɪn/",
+    "audio_uri": "audio/rp/lex_push_back_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -2637,7 +2708,7 @@
   "headword": "sorted",
   "ipa_rp": "/ˈsɔː.tɪd/",
   "syllable_stress": "SAW-tid",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_sorted_01.mp3",
   "phonetic_trap": "Non-rhotic THOUGHT /ɔː/; crisp alveolar /t/.",
   "register_badge": "AMBER_COLLEAGUE",
   "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
@@ -2654,7 +2725,8 @@
   "examples_rp": [
    {
     "text": "The access issue is sorted.",
-    "ipa_connected": "/ðɪ ˈækses ˈɪʃuː ˈɪz sˈɔːtɪd/"
+    "ipa_connected": "/ðɪ ˈækses ˈɪʃuː ˈɪz sˈɔːtɪd/",
+    "audio_uri": "audio/rp/lex_sorted_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -2674,7 +2746,7 @@
   "headword": "quick win",
   "ipa_rp": "/ˌkwɪk ˈwɪn/",
   "syllable_stress": "KWIK WIN",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_quick_win_01.mp3",
   "phonetic_trap": "Bilabial /w/ — rounded lips, no teeth contact (not [ʋ] or [v]).",
   "register_badge": "AMBER_COLLEAGUE",
   "register_label": "Colleague & Idiomatic Workplace — fine for standups and Teams, avoid in contracts and papers",
@@ -2691,7 +2763,8 @@
   "examples_rp": [
    {
     "text": "Caching is a quick win; let's start there.",
-    "ipa_connected": "/kˈæʃɪŋ ˈɪz ə kwˈɪk wˈɪn lˈets stˈɑːt ðˈeə/"
+    "ipa_connected": "/kˈæʃɪŋ ˈɪz ə kwˈɪk wˈɪn lˈets stˈɑːt ðˈeə/",
+    "audio_uri": "audio/rp/lex_quick_win_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -2709,7 +2782,7 @@
   "headword": "faffing about",
   "ipa_rp": "/ˈfæf.ɪŋ əˌbaʊt/",
   "syllable_stress": "FAF-ing uh-BOWT",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_faffing_01.mp3",
   "phonetic_trap": "TRAP /æ/; weak /ə/ in \"about\"; MOUTH /aʊ/ glide.",
   "register_badge": "RED_COLLOQUIAL",
   "register_label": "Colloquial / Social Only — understand it, but keep it out of the workplace",
@@ -2726,7 +2799,8 @@
   "examples_rp": [
    {
     "text": "We spent an hour faffing about with the projector.",
-    "ipa_connected": "/wˈiː spˈent ən ˈaʊə fˈæfɪŋ əbˈaʊt wˈɪð ðə prədʒˈektə/"
+    "ipa_connected": "/wˈiː spˈent ən ˈaʊə fˈæfɪŋ əbˈaʊt wˈɪð ðə prədʒˈektə/",
+    "audio_uri": "audio/rp/lex_faffing_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -2749,7 +2823,7 @@
   "headword": "gutted",
   "ipa_rp": "/ˈɡʌt.ɪd/",
   "syllable_stress": "GUT-id",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_gutted_01.mp3",
   "phonetic_trap": "STRUT /ʌ/; alveolar /t/ — or a glottal stop in casual speech.",
   "register_badge": "RED_COLLOQUIAL",
   "register_label": "Colloquial / Social Only — understand it, but keep it out of the workplace",
@@ -2765,7 +2839,8 @@
   "examples_rp": [
    {
     "text": "I was gutted when the match got cancelled.",
-    "ipa_connected": "/ˈaɪ wəz ɡˈʌtɪd wˈen ðə mˈætʃ ɡˈɒt kˈænsəld/"
+    "ipa_connected": "/ˈaɪ wəz ɡˈʌtɪd wˈen ðə mˈætʃ ɡˈɒt kˈænsəld/",
+    "audio_uri": "audio/rp/lex_gutted_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -2781,7 +2856,7 @@
   "headword": "knackered",
   "ipa_rp": "/ˈnæk.əd/",
   "syllable_stress": "NAK-uhd",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_knackered_01.mp3",
   "phonetic_trap": "Silent k; non-rhotic /əd/ ending.",
   "register_badge": "RED_COLLOQUIAL",
   "register_label": "Colloquial / Social Only — understand it, but keep it out of the workplace",
@@ -2798,7 +2873,8 @@
   "examples_rp": [
    {
     "text": "I'm knackered after that flight.",
-    "ipa_connected": "/ˈaɪm nˈækəd ˈɑːftə ðˈæt flˈaɪt/"
+    "ipa_connected": "/ˈaɪm nˈækəd ˈɑːftə ðˈæt flˈaɪt/",
+    "audio_uri": "audio/rp/lex_knackered_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -2814,7 +2890,7 @@
   "headword": "chuffed",
   "ipa_rp": "/tʃʌft/",
   "syllable_stress": "CHUFT",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_chuffed_01.mp3",
   "phonetic_trap": "STRUT /ʌ/; /ft/ cluster.",
   "register_badge": "RED_COLLOQUIAL",
   "register_label": "Colloquial / Social Only — understand it, but keep it out of the workplace",
@@ -2831,7 +2907,8 @@
   "examples_rp": [
    {
     "text": "She was chuffed with the result.",
-    "ipa_connected": "/ʃˈiː wəz tʃˈʌft wˈɪð ðə rɪzˈʌlt/"
+    "ipa_connected": "/ʃˈiː wəz tʃˈʌft wˈɪð ðə rɪzˈʌlt/",
+    "audio_uri": "audio/rp/lex_chuffed_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -2846,7 +2923,7 @@
   "headword": "dodgy",
   "ipa_rp": "/ˈdɒdʒ.i/",
   "syllable_stress": "DOJ-ee",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_dodgy_01.mp3",
   "phonetic_trap": "LOT /ɒ/ — short and rounded, not [ɑ].",
   "register_badge": "RED_COLLOQUIAL",
   "register_label": "Colloquial / Social Only — understand it, but keep it out of the workplace",
@@ -2863,7 +2940,8 @@
   "examples_rp": [
    {
     "text": "The hotel wi-fi was a bit dodgy.",
-    "ipa_connected": "/ðə həʊtˈel wˈaɪfˌaɪ wəz ə bˈɪt dˈɒdʒɪ/"
+    "ipa_connected": "/ðə həʊtˈel wˈaɪfˌaɪ wəz ə bˈɪt dˈɒdʒɪ/",
+    "audio_uri": "audio/rp/lex_dodgy_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -2878,7 +2956,7 @@
   "headword": "taking the mick",
   "ipa_rp": "/ˌteɪ.kɪŋ ðə ˈmɪk/",
   "syllable_stress": "TAY-king thuh MIK",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_mick_01.mp3",
   "phonetic_trap": "FACE /eɪ/ glide; weak /ðə/.",
   "register_badge": "RED_COLLOQUIAL",
   "register_label": "Colloquial / Social Only — understand it, but keep it out of the workplace",
@@ -2895,7 +2973,8 @@
   "examples_rp": [
    {
     "text": "He's taking the mick with that price.",
-    "ipa_connected": "/hˈiːz tˈeɪkɪŋ ðə mˈɪk wˈɪð ðˈæt prˈaɪs/"
+    "ipa_connected": "/hˈiːz tˈeɪkɪŋ ðə mˈɪk wˈɪð ðˈæt prˈaɪs/",
+    "audio_uri": "audio/rp/lex_mick_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -2918,7 +2997,7 @@
   "headword": "skint",
   "ipa_rp": "/skɪnt/",
   "syllable_stress": "SKINT",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_skint_01.mp3",
   "phonetic_trap": "Short KIT /ɪ/; no epenthetic vowel before /sk/.",
   "register_badge": "RED_COLLOQUIAL",
   "register_label": "Colloquial / Social Only — understand it, but keep it out of the workplace",
@@ -2934,7 +3013,8 @@
   "examples_rp": [
    {
     "text": "I'm skint until payday.",
-    "ipa_connected": "/ˈaɪm skˈɪnt ʌntˈɪl pˈeɪdeɪ/"
+    "ipa_connected": "/ˈaɪm skˈɪnt ʌntˈɪl pˈeɪdeɪ/",
+    "audio_uri": "audio/rp/lex_skint_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -2950,7 +3030,7 @@
   "headword": "gobsmacked",
   "ipa_rp": "/ˈɡɒb.smækt/",
   "syllable_stress": "GOB-smakt",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_gobsmacked_01.mp3",
   "phonetic_trap": "LOT /ɒ/ then TRAP /æ/.",
   "register_badge": "RED_COLLOQUIAL",
   "register_label": "Colloquial / Social Only — understand it, but keep it out of the workplace",
@@ -2964,7 +3044,8 @@
   "examples_rp": [
    {
     "text": "I was gobsmacked by the turnout.",
-    "ipa_connected": "/ˈaɪ wəz ɡˈɒbsmækt bˈaɪ ðə tˈɜːnaʊt/"
+    "ipa_connected": "/ˈaɪ wəz ɡˈɒbsmækt bˈaɪ ðə tˈɜːnaʊt/",
+    "audio_uri": "audio/rp/lex_gobsmacked_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -2983,7 +3064,7 @@
   "headword": "cock-up",
   "ipa_rp": "/ˈkɒk.ʌp/",
   "syllable_stress": "KOK-up",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_cockup_01.mp3",
   "phonetic_trap": "LOT /ɒ/; STRUT /ʌ/.",
   "register_badge": "RED_COLLOQUIAL",
   "register_label": "Colloquial / Social Only — understand it, but keep it out of the workplace",
@@ -2999,7 +3080,8 @@
   "examples_rp": [
    {
     "text": "There was a cock-up with the booking.",
-    "ipa_connected": "/ðə wəz ə kˈɒkˈʌp wˈɪð ðə bˈʊkɪŋ/"
+    "ipa_connected": "/ðə wəz ə kˈɒkˈʌp wˈɪð ðə bˈʊkɪŋ/",
+    "audio_uri": "audio/rp/lex_cockup_01-ex1.mp3"
    }
   ],
   "forms": [
@@ -3017,7 +3099,7 @@
   "headword": "all over the shop",
   "ipa_rp": "/ˌɔːl ˌəʊ.və ðə ˈʃɒp/",
   "syllable_stress": "AWL OH-vuh thuh SHOP",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_all_over_shop_01.mp3",
   "phonetic_trap": "Non-rhotic \"over\" /ˈəʊ.və/; weak /ðə/; LOT /ɒ/.",
   "register_badge": "RED_COLLOQUIAL",
   "register_label": "Colloquial / Social Only — understand it, but keep it out of the workplace",
@@ -3033,7 +3115,8 @@
   "examples_rp": [
    {
     "text": "The meeting was all over the shop.",
-    "ipa_connected": "/ðə mˈiːtɪŋ wəz ˈɔːl ˈəʊvə ðə ʃˈɒp/"
+    "ipa_connected": "/ðə mˈiːtɪŋ wəz ˈɔːl ˈəʊvə ðə ʃˈɒp/",
+    "audio_uri": "audio/rp/lex_all_over_shop_01-ex1.mp3"
    }
   ],
   "phonemes": [
@@ -3053,7 +3136,7 @@
   "headword": "sod's law",
   "ipa_rp": "/ˌsɒdz ˈlɔː/",
   "syllable_stress": "SODZ LAW",
-  "audio_uri": null,
+  "audio_uri": "audio/rp/lex_sods_law_01.mp3",
   "phonetic_trap": "Non-rhotic /lɔː/ — and no intrusive /r/ before a consonant.",
   "register_badge": "RED_COLLOQUIAL",
   "register_label": "Colloquial / Social Only — understand it, but keep it out of the workplace",
@@ -3069,7 +3152,8 @@
   "examples_rp": [
    {
     "text": "Sod's law — it rained on the one day we planned outside.",
-    "ipa_connected": "/sˈɒdz lˈɔː ˈɪt rˈeɪnd ˈɒn ðə wˈɒn dˈeɪ wˈiː plˈænd aʊtsˈaɪd/"
+    "ipa_connected": "/sˈɒdz lˈɔː ˈɪt rˈeɪnd ˈɒn ðə wˈɒn dˈeɪ wˈiː plˈænd aʊtsˈaɪd/",
+    "audio_uri": "audio/rp/lex_sods_law_01-ex1.mp3"
    }
   ],
   "forms": [

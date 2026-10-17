@@ -15,7 +15,7 @@ import { targetFromText } from '../src/lib/g2p';
 import { ctcGreedy } from '../src/lib/ctc';
 import { resample } from '../src/lib/audioUtils';
 import { alignSequences, setAcousticCalibration } from '../src/services/ipaAligner';
-import { measureRhoticity } from '../src/lib/rhotic';
+import { measureRhoticity, rhoticScore } from '../src/lib/rhotic';
 import { MODELS } from '../src/workers/protocol';
 import type { Prompt, CorpusRow } from '../src/types';
 
@@ -31,7 +31,7 @@ function sentences(): string[] {
     const f = join(ROOT, `public/corpus/level-0${L}.json`);
     if (!existsSync(f)) continue;
     const rows = (JSON.parse(readFileSync(f, 'utf8')) as CorpusRow[]).filter((r) => r.src === 'tatoeba' && re.test(r.text));
-    out.push(...rows.slice(0, 6).map((r) => r.text));
+    out.push(...rows.slice(0, 22).map((r) => r.text));
   }
   return out;
 }
@@ -60,22 +60,32 @@ async function main() {
       const target = await targetFromText(text);
       const pairs = alignSequences(target.flatMap((w) => w.phones), produced);
       const m = measureRhoticity(x, 16000, target, pairs);
-      bucket.push(...m.map((r) => r.ratio));
-      console.log(`${voice.padEnd(10)} ${m.map((r) => `${target[r.word].text}:${r.ratio.toFixed(2)}`).join(' ')}`);
+      bucket.push(...m.map((r) => rhoticScore(r)));
+      console.log(`${voice.padEnd(10)} ${m.map((r) => `${target[r.word].text}:${r.ratio.toFixed(2)}/${r.fall.toFixed(2)}`).join(' ')}`);
     }
   }
-  let best = { thr: 0.8, bacc: 0 };
-  for (let thr = 0.6; thr <= 1.0; thr += 0.01) {
-    const tnr = gb.filter((v) => v >= thr).length / gb.length;
+  // Two operating points, chosen to keep false alarms on RP speech low:
+  //   soft      = most sensitive point with <= 10 % false alarms (amber, possible /r/)
+  //   threshold = most sensitive point with <= 6 % false alarms (crimson, /r/ heard)
+  const stats = (thr: number) => {
+    const fa = gb.filter((v) => v < thr).length / gb.length;
     const tpr = us.filter((v) => v < thr).length / us.length;
-    const bacc = (tnr + tpr) / 2;
-    if (bacc > best.bacc) best = { thr: +thr.toFixed(2), bacc };
+    return { fa, tpr, bacc: (1 - fa + tpr) / 2 };
+  };
+  let soft = { thr: 0.6, tpr: 0 }, hard = { thr: 0.6, tpr: 0 };
+  for (let thr = 0.5; thr <= 1.0; thr += 0.005) {
+    const s = stats(thr);
+    if (s.fa <= 0.10 && s.tpr >= soft.tpr) soft = { thr, tpr: s.tpr };
+    if (s.fa <= 0.06 && s.tpr >= hard.tpr) hard = { thr, tpr: s.tpr };
   }
+  const best = { thr: +hard.thr.toFixed(3), bacc: stats(soft.thr).bacc };
   const med = (v: number[]) => [...v].sort((a, b) => a - b)[Math.floor(v.length / 2)];
   const rhotic = {
-    threshold: best.thr, balancedAccuracy: +best.bacc.toFixed(3), nonRhoticMedian: +med(gb).toFixed(3), rhoticMedian: +med(us).toFixed(3),
+    threshold: best.thr, soft: +soft.thr.toFixed(3), balancedAccuracy: +best.bacc.toFixed(3),
+    hardDetectionRate: +stats(best.thr).tpr.toFixed(3), hardFalseAlarmRate: +stats(best.thr).fa.toFixed(3), nonRhoticMedian: +med(gb).toFixed(3), rhoticMedian: +med(us).toFixed(3),
     nNonRhotic: gb.length, nRhotic: us.length,
-    falseAlarmRate: +(gb.filter((v) => v < best.thr).length / gb.length).toFixed(3),
+    falseAlarmRate: +stats(soft.thr).fa.toFixed(3),
+    softDetectionRate: +stats(soft.thr).tpr.toFixed(3),
     reference: `${GB.join('/')} vs ${US.join('/')} (Kokoro-82M), ${texts.length} sentences`,
   };
   const f = join(ROOT, 'public/data/acoustic_calibration.json');
