@@ -1,0 +1,6026 @@
+[
+  {
+    "domain": "social life",
+    "category": "weather small talk",
+    "register": "everyday",
+    "prompt": "You're waiting at a bus stop in light drizzle when an older neighbour says it's \"turned out nice again\". Reply with some friendly small talk about this week's weather and your plans.",
+    "seconds": 30,
+    "targets": [
+      "drizzle",
+      "turned out nice",
+      "could be worse"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weather small talk",
+    "register": "social",
+    "prompt": "A friend visiting from abroad can't understand why everyone at work talks about the weather. Explain, with examples, how weather chat works as small talk in Britain and why it matters.",
+    "seconds": 45,
+    "targets": [
+      "small talk",
+      "understatement",
+      "parky"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weather small talk",
+    "register": "everyday",
+    "prompt": "In the post office queue, the person behind you comments on the sudden cold snap. Chat back about the frost on your car this morning and whether you've put the heating on yet.",
+    "seconds": 30,
+    "targets": [
+      "cold snap",
+      "frost",
+      "put the heating on"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weather small talk",
+    "register": "social",
+    "prompt": "You've just come back from a week's walking holiday in the Lake District where it rained every single day. Tell a friend at the pub about it, making light of the weather.",
+    "seconds": 45,
+    "targets": [
+      "washout",
+      "chucking it down",
+      "mustn't grumble"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weather small talk",
+    "register": "everyday",
+    "prompt": "A colleague from Madrid asks what people mean when they call an August afternoon \"close\" or \"muggy\". Explain the words and describe a typical sticky British summer day.",
+    "seconds": 30,
+    "targets": [
+      "close",
+      "muggy",
+      "heatwave"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weather small talk",
+    "register": "everyday",
+    "prompt": "Your street has had a hosepipe ban for three weeks and the neighbour is worried about her vegetable patch. Chat with her over the fence and suggest a few ways to cope.",
+    "seconds": 45,
+    "targets": [
+      "hosepipe ban",
+      "water butt",
+      "scorcher"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weather small talk",
+    "register": "social",
+    "prompt": "It's a freezing morning at five-a-side and your teammate has turned up in shorts and a T-shirt, shivering. Make some friendly banter about the temperature and his choice of kit.",
+    "seconds": 30,
+    "targets": [
+      "parky",
+      "nesh",
+      "baltic"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weather small talk",
+    "register": "everyday",
+    "prompt": "The clocks have just gone back and your new flatmate from Australia is shocked it's dark by half past four. Explain what happens in October and how people tend to feel about it.",
+    "seconds": 45,
+    "targets": [
+      "the clocks go back",
+      "the nights are drawing in",
+      "chilly"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weather small talk",
+    "register": "everyday",
+    "prompt": "At the school gate, another parent wonders whether sports day will go ahead given the forecast. Give your view and say what you'd pack for your child just in case.",
+    "seconds": 30,
+    "targets": [
+      "sunny spells",
+      "shower",
+      "wellies"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weather small talk",
+    "register": "everyday",
+    "prompt": "A taxi driver asks how your drive down the motorway was in last night's gales. Describe the conditions and one moment on the road that gave you a real fright.",
+    "seconds": 45,
+    "targets": [
+      "gale",
+      "blustery",
+      "hazard lights"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weather small talk",
+    "register": "social",
+    "prompt": "You're sitting in the beer garden when the heavens suddenly open, but your friend wants to stay put under the umbrella. Persuade them to move inside, keeping it light-hearted.",
+    "seconds": 30,
+    "targets": [
+      "pouring",
+      "beer garden",
+      "I'm not being funny, but"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weather small talk",
+    "register": "everyday",
+    "prompt": "There's a weather warning for black ice and your elderly neighbour is planning to walk to the shops for bread. Gently talk her out of it and offer to help instead.",
+    "seconds": 45,
+    "targets": [
+      "black ice",
+      "weather warning",
+      "nip to the shops"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weather small talk",
+    "register": "everyday",
+    "prompt": "At the garden centre till, the assistant says it's \"a bit bracing\" outside today. Respond with some friendly chat about the wind and what you're planting this weekend.",
+    "seconds": 30,
+    "targets": [
+      "bracing",
+      "fresh",
+      "garden centre"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weather small talk",
+    "register": "social",
+    "prompt": "A friend from Glasgow insists Scottish weather is far worse than anything in the south of England. Playfully argue that your home town's weather is just as bad, with examples.",
+    "seconds": 45,
+    "targets": [
+      "dreich",
+      "grim",
+      "sleet"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weather small talk",
+    "register": "everyday",
+    "prompt": "A new colleague asks what \"sunny spells and scattered showers\" actually means on the forecast. Explain it in plain terms and tell them what they should carry to work.",
+    "seconds": 30,
+    "targets": [
+      "sunny spells",
+      "shower",
+      "cagoule"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weather small talk",
+    "register": "everyday",
+    "prompt": "You wake up to heavy overnight snow and the trains are cancelled. Ring the friend you were meant to meet for lunch and talk through whether to rearrange or wait and see.",
+    "seconds": 45,
+    "targets": [
+      "call off",
+      "put back",
+      "up in the air"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weather small talk",
+    "register": "social",
+    "prompt": "During a heatwave your friends want to squeeze onto a packed beach for the day. Suggest a cooler alternative plan and convince them it'll be more fun.",
+    "seconds": 30,
+    "targets": [
+      "scorcher",
+      "day out",
+      "sounds good"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weather small talk",
+    "register": "everyday",
+    "prompt": "A guest at the B&B where you're staying asks whether it's worth climbing the nearby fell today, as the sky looks overcast. Give honest advice about the weather and what to expect.",
+    "seconds": 45,
+    "targets": [
+      "overcast",
+      "brighten up",
+      "cloud over"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weather small talk",
+    "register": "everyday",
+    "prompt": "Thick fog this morning meant your train crawled into the station forty minutes late. Describe the journey to a colleague as you both make a cup of tea.",
+    "seconds": 30,
+    "targets": [
+      "grey",
+      "run late",
+      "typical"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weather small talk",
+    "register": "social",
+    "prompt": "Your friend has organised a barbecue for bank holiday Monday, and it's now forecast to rain all day. Help them decide whether to cancel, move it indoors or carry on regardless.",
+    "seconds": 45,
+    "targets": [
+      "bank holiday",
+      "washout",
+      "play it by ear"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weather small talk",
+    "register": "everyday",
+    "prompt": "A neighbour mentions her washing got soaked because it started spitting while she was out. Sympathise and share a similar household mishap of your own.",
+    "seconds": 30,
+    "targets": [
+      "spitting",
+      "hang the washing out",
+      "typical"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weather small talk",
+    "register": "everyday",
+    "prompt": "You're leading a community litter-pick and the morning has turned out wet and windy. Give the volunteers a short, cheerful welcome that acknowledges the weather and explains the plan.",
+    "seconds": 45,
+    "targets": [
+      "come rain or shine",
+      "bracing",
+      "crack on"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weather small talk",
+    "register": "social",
+    "prompt": "Your mate claims it's \"practically tropical\" because it's fourteen degrees in March. Tease him a bit and say what you'd actually call this weather.",
+    "seconds": 30,
+    "targets": [
+      "mild",
+      "nippy",
+      "bonkers"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weather small talk",
+    "register": "everyday",
+    "prompt": "An elderly gentleman on a park bench says summers were far better when he was young. Have a friendly chat, gently agree or disagree, and share a summer memory of your own.",
+    "seconds": 45,
+    "targets": [
+      "heatwave",
+      "I see what you mean",
+      "funnily enough"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weather small talk",
+    "register": "social",
+    "prompt": "Your friend texts that she's not coming to the park because it looks like rain. Leave her a voice note persuading her it'll be fine and she should come anyway.",
+    "seconds": 30,
+    "targets": [
+      "brighten up",
+      "spitting",
+      "go on, then"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weekend small talk",
+    "register": "everyday",
+    "prompt": "It's Monday morning and a colleague you barely know asks, \"Good weekend?\" by the kettle. Give a short, natural answer about what you got up to.",
+    "seconds": 30,
+    "targets": [
+      "potter about",
+      "have a lie-in",
+      "not too bad"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weekend small talk",
+    "register": "social",
+    "prompt": "Your friend asks what you got up to over the weekend, and the honest answer is that you did almost nothing. Make a lazy weekend sound entertaining.",
+    "seconds": 45,
+    "targets": [
+      "lie-in",
+      "box set",
+      "can't be bothered"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weekend small talk",
+    "register": "everyday",
+    "prompt": "On Friday afternoon, the receptionist asks whether you've got anything nice planned for the weekend. Tell her about your plans and ask about hers.",
+    "seconds": 30,
+    "targets": [
+      "day out",
+      "car boot sale",
+      "fingers crossed"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weekend small talk",
+    "register": "social",
+    "prompt": "You spent Saturday helping a friend move into a third-floor flat with no lift. Tell another mate all about it, including the sofa that wouldn't fit up the stairs.",
+    "seconds": 45,
+    "targets": [
+      "move house",
+      "knackered",
+      "muck in"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weekend small talk",
+    "register": "everyday",
+    "prompt": "A neighbour sees you unloading muddy bikes on Sunday evening and asks where you've been. Describe your ride along the canal towpath and recommend the route.",
+    "seconds": 30,
+    "targets": [
+      "towpath",
+      "cycle path",
+      "off the beaten track"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weekend small talk",
+    "register": "social",
+    "prompt": "Your friend asks how your weekend away in a holiday let went, and the place was nothing like the photos. Describe it with some good-humoured exaggeration.",
+    "seconds": 30,
+    "targets": [
+      "holiday let",
+      "nothing to write home about",
+      "grotty"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weekend small talk",
+    "register": "everyday",
+    "prompt": "At work on Monday, a manager asks how your first parkrun went. Describe the experience, how you felt at the finish, and whether you'll go back.",
+    "seconds": 45,
+    "targets": [
+      "parkrun",
+      "shattered",
+      "give it a whirl"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weekend small talk",
+    "register": "social",
+    "prompt": "You went to a friend's housewarming on Saturday and stayed far later than you meant to. Tell your flatmate how the evening unfolded.",
+    "seconds": 45,
+    "targets": [
+      "housewarming",
+      "bring a bottle",
+      "knees-up"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weekend small talk",
+    "register": "everyday",
+    "prompt": "The hairdresser asks if you've got a busy weekend ahead. Explain that you're finally tackling the overgrown back garden and what that involves.",
+    "seconds": 30,
+    "targets": [
+      "back garden",
+      "secateurs",
+      "get round to"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weekend small talk",
+    "register": "social",
+    "prompt": "Your friend spent the weekend at a music festival while you went to your nan's for a roast. Compare your weekends with some gentle self-mockery.",
+    "seconds": 45,
+    "targets": [
+      "nan",
+      "stuffed",
+      "each to their own"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "giving directions",
+    "register": "everyday",
+    "prompt": "An elderly visitor at the hospital car park asks how to get to the outpatient clinic. Give patient, step-by-step directions and offer to walk part of the way.",
+    "seconds": 45,
+    "targets": [
+      "outpatient",
+      "car park",
+      "lift"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "giving directions",
+    "register": "everyday",
+    "prompt": "Tourists on the Tube ask how to get to the West End for a show. Tell them which line to take and where to change.",
+    "seconds": 30,
+    "targets": [
+      "the West End",
+      "change at",
+      "mind the gap"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "giving directions",
+    "register": "everyday",
+    "prompt": "A walker in the countryside asks you the way back to the village. Explain the route, warning them about a muddy section and a bull in one field.",
+    "seconds": 45,
+    "targets": [
+      "bridleway",
+      "footpath",
+      "mind out"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "giving directions",
+    "register": "everyday",
+    "prompt": "A tourist asks for the nearest public toilets in the town centre. Direct them clearly and suggest a backup option.",
+    "seconds": 30,
+    "targets": [
+      "public toilets",
+      "town centre",
+      "leisure centre"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "giving directions",
+    "register": "everyday",
+    "prompt": "Your friend is driving to your new house for the first time and the postcode takes sat navs to the wrong street. Give her directions from the last big junction.",
+    "seconds": 45,
+    "targets": [
+      "postcode",
+      "T-junction",
+      "end of terrace"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "giving directions",
+    "register": "everyday",
+    "prompt": "A cyclist asks how to get to the river without using the busy main road. Recommend a quieter route.",
+    "seconds": 30,
+    "targets": [
+      "cycle path",
+      "towpath",
+      "toucan crossing"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "giving directions",
+    "register": "everyday",
+    "prompt": "A visitor at the railway station asks how to get to the football ground on match day. Give directions and advice about the crowds.",
+    "seconds": 45,
+    "targets": [
+      "ground",
+      "kick-off",
+      "park and ride"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "giving directions",
+    "register": "everyday",
+    "prompt": "A tourist asks you where to catch the bus to the airport. Explain where the stop is and how to pay.",
+    "seconds": 30,
+    "targets": [
+      "contactless",
+      "double-decker",
+      "tap in"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "giving directions",
+    "register": "everyday",
+    "prompt": "A new colleague asks how to get from the office to the best sandwich shop nearby. Give directions and tell them what to order.",
+    "seconds": 45,
+    "targets": [
+      "shopping parade",
+      "pelican crossing",
+      "I reckon"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "giving directions",
+    "register": "everyday",
+    "prompt": "An overseas student asks how to get to the post office and what to say when sending a parcel abroad. Give directions and some practical advice.",
+    "seconds": 45,
+    "targets": [
+      "post office",
+      "recorded delivery",
+      "first-class stamp"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "giving directions",
+    "register": "everyday",
+    "prompt": "A family in a car pulls over to ask the way to the beach car park. Give quick directions they can follow without writing anything down.",
+    "seconds": 30,
+    "targets": [
+      "seafront",
+      "pay and display",
+      "roundabout"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "giving directions",
+    "register": "everyday",
+    "prompt": "A visitor asks how to reach a pub that's hidden down a country lane outside the village. Explain the route, including any tricky turns.",
+    "seconds": 45,
+    "targets": [
+      "country lane",
+      "lay-by",
+      "signposted"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "giving directions",
+    "register": "everyday",
+    "prompt": "Someone in the shopping centre asks where the nearest chemist is. Direct them and mention its opening hours.",
+    "seconds": 30,
+    "targets": [
+      "chemist",
+      "shopping centre",
+      "opening hours"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "giving directions",
+    "register": "everyday",
+    "prompt": "A taxi driver new to the area asks for the quickest way to the leisure centre during roadworks. Give directions that avoid the delays.",
+    "seconds": 45,
+    "targets": [
+      "leisure centre",
+      "diversion",
+      "one-way system"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "giving directions",
+    "register": "everyday",
+    "prompt": "A tourist couple ask whether it's easier to walk or get a bus to the castle. Give advice and directions for both.",
+    "seconds": 30,
+    "targets": [
+      "footpath",
+      "bus pass",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "recommending a place",
+    "register": "everyday",
+    "prompt": "A colleague from overseas has a free weekend and asks where to go outside London. Recommend one place, explaining how to get there and what makes it worth the trip.",
+    "seconds": 60,
+    "targets": [
+      "day out",
+      "off the beaten track",
+      "advance ticket"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "recommending a place",
+    "register": "everyday",
+    "prompt": "Your friend is planning a family holiday in the Lake District and asks for advice. Recommend an area, a walk and somewhere to stay.",
+    "seconds": 45,
+    "targets": [
+      "self-catering",
+      "holiday let",
+      "come rain or shine"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "recommending a place",
+    "register": "social",
+    "prompt": "Your mates want a weekend away with good pubs and a bit of culture. Persuade them to choose Edinburgh during the Fringe.",
+    "seconds": 45,
+    "targets": [
+      "Edinburgh Fringe",
+      "pub crawl",
+      "have a whale of a time"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "recommending a place",
+    "register": "everyday",
+    "prompt": "An overseas friend wants to see a traditional English village. Recommend somewhere in the Cotswolds and describe what they'll find.",
+    "seconds": 45,
+    "targets": [
+      "village green",
+      "market town",
+      "cottage"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "recommending a place",
+    "register": "everyday",
+    "prompt": "A colleague asks for a good seaside town for a day trip with small children. Recommend one and explain what makes it child-friendly.",
+    "seconds": 45,
+    "targets": [
+      "the seaside",
+      "pier",
+      "Punch and Judy"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "recommending a place",
+    "register": "everyday",
+    "prompt": "A friend visiting from India has one day in Bath. Suggest an itinerary that makes the most of the time.",
+    "seconds": 45,
+    "targets": [
+      "city centre",
+      "it might be worth",
+      "whatever suits you"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "recommending a place",
+    "register": "everyday",
+    "prompt": "Your cousin asks where to go for a romantic weekend in the UK. Recommend somewhere special and explain why.",
+    "seconds": 45,
+    "targets": [
+      "B&B",
+      "off the beaten track",
+      "the icing on the cake"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "recommending a place",
+    "register": "everyday",
+    "prompt": "A visitor asks whether Cornwall is worth the long drive. Give your honest opinion and tips for avoiding the traffic.",
+    "seconds": 45,
+    "targets": [
+      "holidaymaker",
+      "tailback",
+      "I'd have thought"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "recommending a place",
+    "register": "social",
+    "prompt": "Your friends are debating whether to go to Brighton or Margate for a sunny Saturday. Make the case for your choice.",
+    "seconds": 45,
+    "targets": [
+      "amusement arcade",
+      "promenade",
+      "each to their own"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "recommending a place",
+    "register": "everyday",
+    "prompt": "A tourist asks you to recommend somewhere in Scotland that isn't Edinburgh. Suggest a destination and explain what they'll see and do.",
+    "seconds": 60,
+    "targets": [
+      "Highland games",
+      "off the beaten track",
+      "single-track road"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "recommending a place",
+    "register": "everyday",
+    "prompt": "A colleague is going to Wales for the first time. Recommend somewhere to visit and explain a little about the culture and language.",
+    "seconds": 45,
+    "targets": [
+      "Eisteddfod",
+      "St David's Day",
+      "Senedd"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "recommending a place",
+    "register": "everyday",
+    "prompt": "A friend asks for a good day out near your home town on a rainy Sunday. Recommend a museum or indoor attraction.",
+    "seconds": 30,
+    "targets": [
+      "day out",
+      "washout",
+      "not bad"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "recommending a place",
+    "register": "everyday",
+    "prompt": "Your friends from abroad want to see a proper English market. Recommend one you love and describe what they can buy there.",
+    "seconds": 45,
+    "targets": [
+      "market square",
+      "greengrocer's",
+      "market town"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "recommending a place",
+    "register": "everyday",
+    "prompt": "A colleague asks whether the Yorkshire Dales or the Peak District is better for a walking holiday. Compare the two and give your recommendation.",
+    "seconds": 45,
+    "targets": [
+      "footpath",
+      "Ordnance Survey",
+      "horses for courses"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "recommending a place",
+    "register": "social",
+    "prompt": "Your mate is planning a stag do and asks for somewhere fun but not too far. Recommend a city and the best way to spend the weekend.",
+    "seconds": 45,
+    "targets": [
+      "stag do",
+      "knees-up",
+      "pub crawl"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "recommending a place",
+    "register": "everyday",
+    "prompt": "A friend asks where to see the best autumn colours in Britain. Recommend a place and describe what makes it special.",
+    "seconds": 45,
+    "targets": [
+      "off the beaten track",
+      "country lane",
+      "bracing"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "recommending a place",
+    "register": "everyday",
+    "prompt": "An international student asks whether it's worth seeing a West End show. Recommend one type of show and explain how to get cheaper tickets.",
+    "seconds": 45,
+    "targets": [
+      "the West End",
+      "interval",
+      "it might be worth"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "recommending a place",
+    "register": "everyday",
+    "prompt": "A neighbour wants a quiet weekend away in a narrowboat. Recommend a stretch of canal and explain what to expect.",
+    "seconds": 30,
+    "targets": [
+      "narrowboat",
+      "towpath",
+      "pub grub"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "recommending a place",
+    "register": "everyday",
+    "prompt": "Your manager is taking her elderly parents on a short break and wants somewhere flat, pretty and peaceful. Recommend a seaside town and explain why it suits them.",
+    "seconds": 45,
+    "targets": [
+      "promenade",
+      "beach hut",
+      "deckchair"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "recommending a place",
+    "register": "social",
+    "prompt": "A friend asks for the best place near you for a proper Sunday pub lunch. Recommend your favourite and sell it to them.",
+    "seconds": 30,
+    "targets": [
+      "gastropub",
+      "carvery",
+      "the bee's knees"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "recommending a place",
+    "register": "everyday",
+    "prompt": "A visitor asks whether a National Trust membership is worth buying for a summer in England. Give your view and name a property you'd recommend.",
+    "seconds": 45,
+    "targets": [
+      "the National Trust",
+      "stately home",
+      "a pretty penny"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "recommending a place",
+    "register": "everyday",
+    "prompt": "A friend from Canada wants to see a Scottish island but is nervous about the ferry. Recommend an island and reassure them about the journey.",
+    "seconds": 45,
+    "targets": [
+      "off the beaten track",
+      "self-catering",
+      "I'm sure it'll be fine"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "recommending a place",
+    "register": "everyday",
+    "prompt": "A colleague asks where to take visiting relatives for a proper fish and chip supper. Recommend a place and explain what to order.",
+    "seconds": 30,
+    "targets": [
+      "seafront",
+      "eat in or take away?",
+      "on the house"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "recommending a place",
+    "register": "everyday",
+    "prompt": "A family from abroad has a week in Northern England and asks what they shouldn't miss. Recommend two or three places and explain how to link them up.",
+    "seconds": 60,
+    "targets": [
+      "market town",
+      "railcard",
+      "city break"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "recommending a place",
+    "register": "social",
+    "prompt": "Your best friend wants to try a festival for the first time but hates mud and crowds. Recommend a small one and convince them to go.",
+    "seconds": 45,
+    "targets": [
+      "Glastonbury",
+      "not my cup of tea",
+      "give it a whirl"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "recommending a place",
+    "register": "everyday",
+    "prompt": "A student asks where to go for a cheap long weekend by train from London. Recommend a destination and explain how to keep costs down.",
+    "seconds": 45,
+    "targets": [
+      "railcard",
+      "advance ticket",
+      "youth hostel"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "everyday",
+    "prompt": "Your neighbour has put up a security light that shines straight into your bedroom all night. Raise it politely and suggest how it could be adjusted.",
+    "seconds": 45,
+    "targets": [
+      "I hope you don't mind",
+      "it might be worth",
+      "I'm sure there's a good reason"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "everyday",
+    "prompt": "Your neighbour has offered to lend you his ladder, but you'd rather hire one. Turn down the offer kindly.",
+    "seconds": 30,
+    "targets": [
+      "that's very kind of you",
+      "I couldn't possibly",
+      "I'm all right, thanks"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "everyday",
+    "prompt": "A neighbour stops you to complain that your son's motorbike is too loud in the mornings. Respond calmly and agree on a solution.",
+    "seconds": 45,
+    "targets": [
+      "motorbike",
+      "fair point",
+      "I'll see what I can do"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "everyday",
+    "prompt": "The elderly woman across the road hasn't opened her curtains for two days. Knock on her door and check on her without being intrusive.",
+    "seconds": 45,
+    "targets": [
+      "look in on",
+      "are you alright there?",
+      "sorry to bother you"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "social",
+    "prompt": "You've just discovered your new neighbour supports your football club's biggest rival. Describe your first conversation over the garden fence to a friend.",
+    "seconds": 45,
+    "targets": [
+      "derby",
+      "banter",
+      "get on like a house on fire"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "everyday",
+    "prompt": "Your neighbour has been running a noisy tumble dryer at midnight against your shared wall. Raise it gently when you see her.",
+    "seconds": 30,
+    "targets": [
+      "tumble dryer",
+      "would you mind",
+      "just a thought"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "everyday",
+    "prompt": "Your new upstairs neighbours have a baby who cries through the night, and they've apologised to you. Reassure them warmly and offer some help.",
+    "seconds": 45,
+    "targets": [
+      "not at all",
+      "these things happen",
+      "give someone a hand"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "pub",
+    "register": "social",
+    "prompt": "Your local is under threat of closure and the community wants to buy it. Persuade friends at the bar to put money into the scheme.",
+    "seconds": 45,
+    "targets": [
+      "local",
+      "chip in",
+      "put your money where your mouth is"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "pub",
+    "register": "social",
+    "prompt": "You've ordered at the bar and realise you've left your wallet at home. Explain the situation to your friend and ask them to cover you.",
+    "seconds": 30,
+    "targets": [
+      "I owe you one",
+      "skint",
+      "cheers for that"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "pub",
+    "register": "social",
+    "prompt": "A friend wants to start a weekly pub quiz team but you're terrible at quizzes. Agree to join but explain what you can contribute.",
+    "seconds": 45,
+    "targets": [
+      "pub quiz",
+      "count me in",
+      "know your onions"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "pub",
+    "register": "social",
+    "prompt": "The pub has just lost power during the big match. Persuade the landlord to let everyone stay for a candlelit pint.",
+    "seconds": 30,
+    "targets": [
+      "landlord",
+      "lock-in",
+      "go on then"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "pub",
+    "register": "everyday",
+    "prompt": "A visitor to Britain asks why some pubs have such odd names and signs. Explain using one or two examples from your area.",
+    "seconds": 45,
+    "targets": [
+      "pub sign",
+      "free house",
+      "funnily enough"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "pub",
+    "register": "social",
+    "prompt": "Your friend is nervous about meeting their partner's family at a pub on Sunday. Give them tips on what to order and how to behave.",
+    "seconds": 45,
+    "targets": [
+      "What are you having?",
+      "mind your p's and q's",
+      "go down well"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "pub",
+    "register": "social",
+    "prompt": "It's your round, but one friend keeps changing his order. Handle it with good humour at the bar.",
+    "seconds": 30,
+    "targets": [
+      "round",
+      "faff",
+      "get a move on"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "hosting friends",
+    "register": "everyday",
+    "prompt": "Your friends' young children are staying overnight and they've forgotten their pyjamas. Explain the situation to the parents and what you'll do.",
+    "seconds": 45,
+    "targets": [
+      "pyjamas",
+      "make do",
+      "not to worry"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "hosting friends",
+    "register": "social",
+    "prompt": "A friend you're hosting has offered to cook but she's a terrible cook. Find a tactful way to take over the kitchen.",
+    "seconds": 30,
+    "targets": [
+      "tell you what",
+      "I'm easy",
+      "bless"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "hosting friends",
+    "register": "everyday",
+    "prompt": "You've invited the new neighbours round for drinks, and one of them is teetotal. Explain to your partner what you'll offer and how you'll make them feel welcome.",
+    "seconds": 45,
+    "targets": [
+      "teetotal",
+      "help yourself",
+      "make yourself at home"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "hosting friends",
+    "register": "social",
+    "prompt": "Your friends are coming over for a cheese and wine night, but the cheese has gone off. Explain the change of plan on the group chat.",
+    "seconds": 45,
+    "targets": [
+      "go off",
+      "nip to the shops",
+      "sod's law"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "hosting friends",
+    "register": "everyday",
+    "prompt": "A friend who has just arrived for the weekend asks if they can use your washing machine. Agree and explain how it works.",
+    "seconds": 30,
+    "targets": [
+      "put a wash on",
+      "washing powder",
+      "by all means"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "hosting friends",
+    "register": "social",
+    "prompt": "You hosted a murder mystery party that went brilliantly until two guests took it far too seriously. Tell a friend how the evening unfolded.",
+    "seconds": 60,
+    "targets": [
+      "over the top",
+      "lose the plot",
+      "the life and soul of the party"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "hosting friends",
+    "register": "everyday",
+    "prompt": "Friends visiting from abroad want to make a cup of tea the British way. Show them how, with your personal opinions on milk and teabags.",
+    "seconds": 45,
+    "targets": [
+      "put the kettle on",
+      "how do you take it?",
+      "cuppa"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "hosting friends",
+    "register": "social",
+    "prompt": "You've offered your sofa to a friend between flats for \"a few days\", and it's now been three weeks. Have an honest but kind conversation with them.",
+    "seconds": 45,
+    "targets": [
+      "settee",
+      "I'm not being funny, but",
+      "the thing is"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a restaurant",
+    "register": "everyday",
+    "prompt": "A café has given you a decaf latte three mornings in a row when you asked for full-fat milk and caffeine. Mention it to the barista with good humour.",
+    "seconds": 45,
+    "targets": [
+      "sorry to be a pain",
+      "typical",
+      "could I have"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a restaurant",
+    "register": "everyday",
+    "prompt": "The restaurant has added a dish you didn't order to your bill. Point it out to the waiter politely before paying.",
+    "seconds": 30,
+    "targets": [
+      "could I have the bill?",
+      "I'm a little confused",
+      "not to worry"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a restaurant",
+    "register": "everyday",
+    "prompt": "You've arrived at a pub restaurant for lunch, but the kitchen has closed early without warning. Express your disappointment and ask what they can offer.",
+    "seconds": 45,
+    "targets": [
+      "pub grub",
+      "I was a bit disappointed",
+      "I don't suppose you could"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a shop",
+    "register": "everyday",
+    "prompt": "The garden centre delivered the wrong shed and the driver wants you to sign for it. Explain the problem and refuse delivery politely.",
+    "seconds": 45,
+    "targets": [
+      "shed",
+      "garden centre",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a shop",
+    "register": "everyday",
+    "prompt": "A newsagent has been delivering the wrong paper to your house for a week. Pop in and sort it out.",
+    "seconds": 30,
+    "targets": [
+      "newsagent",
+      "the Sunday papers",
+      "sorted"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a shop",
+    "register": "everyday",
+    "prompt": "A charity shop has priced a second-hand coat at more than it cost new. Mention it politely to the volunteer at the till.",
+    "seconds": 45,
+    "targets": [
+      "charity shop",
+      "I'm not sure that's quite right",
+      "it's a bit much"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the council",
+    "register": "everyday",
+    "prompt": "A neighbour is running a business from home with vans parked across the pavement every day. Phone the council to ask what can be done.",
+    "seconds": 45,
+    "targets": [
+      "council",
+      "pavement",
+      "double yellow lines"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the council",
+    "register": "everyday",
+    "prompt": "You've received a parking fine for a street you weren't parked in. Ring the council to challenge it.",
+    "seconds": 30,
+    "targets": [
+      "traffic warden",
+      "I'm afraid",
+      "correct me if I'm wrong"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the council",
+    "register": "everyday",
+    "prompt": "Your local playground has broken swings and glass on the ground. Report it to the council and stress the risks to children.",
+    "seconds": 45,
+    "targets": [
+      "see-saw",
+      "climbing frame",
+      "health and safety"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the council",
+    "register": "everyday",
+    "prompt": "You'd like to set up a weekly community market in the village square. Ring the council to ask about permits and what's involved.",
+    "seconds": 45,
+    "targets": [
+      "market square",
+      "council",
+      "I was wondering if"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the council",
+    "register": "everyday",
+    "prompt": "Your new address isn't on the electoral register and you want to vote in the local elections. Phone the council to sort it out.",
+    "seconds": 30,
+    "targets": [
+      "electoral register",
+      "local elections",
+      "proof of address"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the GP",
+    "register": "everyday",
+    "prompt": "You've had a cough for six weeks and the receptionist suggests seeing a pharmacist first. Explain why you'd like to see a doctor.",
+    "seconds": 45,
+    "targets": [
+      "pharmacist",
+      "GP",
+      "I appreciate that"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the GP",
+    "register": "everyday",
+    "prompt": "Your elderly mother needs a home visit from her GP. Ring the surgery and explain why she can't come in.",
+    "seconds": 30,
+    "targets": [
+      "surgery",
+      "carer",
+      "is it alright if"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the GP",
+    "register": "everyday",
+    "prompt": "The health visitor is due to see your newborn but you need to move the appointment. Ring and explain the clash, offering alternatives.",
+    "seconds": 45,
+    "targets": [
+      "health visitor",
+      "put back",
+      "whatever suits you"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "everyday",
+    "prompt": "You've arrived for a holiday at a self-catering cottage and the owner has double-booked it. Phone the owner and explain what you need now.",
+    "seconds": 45,
+    "targets": [
+      "self-catering",
+      "booking",
+      "I'd appreciate it if"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "everyday",
+    "prompt": "Your bus driver refuses to accept your child's pass because it has expired by a day. Ask him politely to let it go this once.",
+    "seconds": 30,
+    "targets": [
+      "bus pass",
+      "give someone the benefit of the doubt",
+      "I'm terribly sorry"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "social",
+    "prompt": "A friend on the train with you is getting angrier by the minute about the delay. Calm them down and make the best of it.",
+    "seconds": 45,
+    "targets": [
+      "keep your hair on",
+      "it's not the end of the world",
+      "these things happen"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "everyday",
+    "prompt": "You've booked a car hire for your holiday and the company is trying to charge you for scratches that were already there. Explain the situation calmly.",
+    "seconds": 45,
+    "targets": [
+      "car hire",
+      "bonnet",
+      "with respect"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "everyday",
+    "prompt": "Engineering works mean your Sunday train journey will include a bus, a tram and a long walk. Explain the route to an elderly relative travelling to see you.",
+    "seconds": 45,
+    "targets": [
+      "engineering works",
+      "tram",
+      "rail replacement bus"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "small talk",
+    "register": "everyday",
+    "prompt": "You're at the hairdresser's and the stylist asks if you're going anywhere nice on holiday this year. Make friendly small talk about your plans.",
+    "seconds": 30,
+    "targets": [
+      "fortnight",
+      "abroad",
+      "city break"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "small talk",
+    "register": "everyday",
+    "prompt": "You've been stuck in a lift with a stranger for ten minutes. Make some light-hearted small talk to keep both of you calm.",
+    "seconds": 30,
+    "targets": [
+      "lift",
+      "could be worse",
+      "mustn't grumble"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "small talk",
+    "register": "everyday",
+    "prompt": "An old man in the post office queue asks if you've lived in the town long. Make some friendly conversation and ask about his memories of the place.",
+    "seconds": 45,
+    "targets": [
+      "post office",
+      "queue",
+      "high street"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "small talk",
+    "register": "everyday",
+    "prompt": "A dog walker stops to chat about your dog in the park. Make small talk about the dog and the walk.",
+    "seconds": 30,
+    "targets": [
+      "nip out",
+      "lovely",
+      "fresh"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "small talk",
+    "register": "social",
+    "prompt": "At a wedding reception, you're seated next to someone you don't know. Make conversation and find out how they know the couple.",
+    "seconds": 45,
+    "targets": [
+      "break the ice",
+      "small talk",
+      "funnily enough"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "small talk",
+    "register": "everyday",
+    "prompt": "The person behind you at the supermarket checkout has one item while you have a full trolley. Offer to let them go first.",
+    "seconds": 30,
+    "targets": [
+      "after you",
+      "trolley",
+      "go ahead"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "small talk",
+    "register": "everyday",
+    "prompt": "A fellow passenger on the train notices you're reading a cryptic crossword and asks for a clue. Chat about crosswords and why you enjoy them.",
+    "seconds": 45,
+    "targets": [
+      "cryptic crossword",
+      "rack your brains",
+      "it's all Greek to me"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "small talk",
+    "register": "social",
+    "prompt": "You're at a barbecue and someone you've just met asks what you do for a living. Answer in a relaxed way and turn the question back to them.",
+    "seconds": 45,
+    "targets": [
+      "to be honest",
+      "sort of",
+      "the thing is"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "small talk",
+    "register": "everyday",
+    "prompt": "Your taxi driver asks if you've had a good day. Give a natural answer and keep the conversation going.",
+    "seconds": 30,
+    "targets": [
+      "not too bad",
+      "can't complain",
+      "I reckon"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "small talk",
+    "register": "everyday",
+    "prompt": "In the doctor's waiting room, the person next to you starts complaining about the wait. Respond sympathetically and keep things light.",
+    "seconds": 45,
+    "targets": [
+      "waiting list",
+      "tell me about it",
+      "could be worse"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "everyday",
+    "prompt": "The village cricket club needs volunteers to make teas on Saturdays. Persuade a reluctant friend to join the rota.",
+    "seconds": 45,
+    "targets": [
+      "tea interval",
+      "village cricket",
+      "muck in"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "everyday",
+    "prompt": "You've been asked to give a short thank-you speech at the end of the village fête. Thank the volunteers and announce how much was raised.",
+    "seconds": 30,
+    "targets": [
+      "village fête",
+      "bunting",
+      "thanks ever so much"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "social",
+    "prompt": "Your friend has just joined a choir and wants you to come along. Explain why you're reluctant and what might persuade you.",
+    "seconds": 45,
+    "targets": [
+      "it's not really for me",
+      "I'll think about it",
+      "I'm game"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "everyday",
+    "prompt": "A neighbour wants to start a monthly repair café at the village hall. Offer your support and suggest how to get it going.",
+    "seconds": 45,
+    "targets": [
+      "village hall",
+      "DIY",
+      "get the ball rolling"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "everyday",
+    "prompt": "You've been asked to run the bric-a-brac stall at the church fair. Describe what you'll sell and how you'll set it out.",
+    "seconds": 30,
+    "targets": [
+      "odds and ends",
+      "bits and bobs",
+      "jumble sale"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "everyday",
+    "prompt": "A local community group has invited you to give a talk about your culture's festival food. Introduce yourself and explain what you'll cover.",
+    "seconds": 45,
+    "targets": [
+      "Diwali",
+      "Eid",
+      "I hope you don't mind"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "social",
+    "prompt": "Your friend wants to start a five-a-side team made up of complete beginners. Agree to join and joke about your own skills.",
+    "seconds": 30,
+    "targets": [
+      "five-a-side",
+      "count me in",
+      "cack-handed"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "everyday",
+    "prompt": "A Christmas tree festival at the local church needs people to decorate trees. Explain to a neighbour what's involved and invite her to join you.",
+    "seconds": 45,
+    "targets": [
+      "Christmas tree",
+      "fairy lights",
+      "bauble"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "everyday",
+    "prompt": "You need to post Christmas cards abroad and have left it too late. Ask the post office counter staff for the fastest option.",
+    "seconds": 45,
+    "targets": [
+      "Christmas card",
+      "first-class stamp",
+      "recorded delivery"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "everyday",
+    "prompt": "A colleague asks if you're going to the carol service this year. Explain why you love or dislike it.",
+    "seconds": 30,
+    "targets": [
+      "carol service",
+      "Christingle",
+      "the festive season"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "social",
+    "prompt": "Your family is arguing about whether to watch the Christmas special or play games after lunch. Make the case for your choice.",
+    "seconds": 45,
+    "targets": [
+      "Christmas special",
+      "telly",
+      "each to their own"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "everyday",
+    "prompt": "A group of international students at your college have never heard of Stir-up Sunday. Explain the tradition and invite them to join in.",
+    "seconds": 45,
+    "targets": [
+      "Stir-up Sunday",
+      "Christmas pudding",
+      "Advent"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "social",
+    "prompt": "Your friend has bought you an expensive present, and you only got them a small one. Thank them and make light of the difference.",
+    "seconds": 30,
+    "targets": [
+      "you shouldn't have",
+      "oh, it's nothing",
+      "tight"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "everyday",
+    "prompt": "Your child's advent calendar has been eaten by the dog on the first of December. Explain to your child what happened and how you'll make it up to them.",
+    "seconds": 45,
+    "targets": [
+      "advent calendar",
+      "make up for",
+      "never mind"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "social",
+    "prompt": "You're spending Christmas with your partner's family for the first time and it's very different from yours. Tell a friend how it went.",
+    "seconds": 45,
+    "targets": [
+      "Boxing Day",
+      "Christmas pudding",
+      "it's very... different"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "everyday",
+    "prompt": "Your neighbour asks if you'd join the street's Christmas lights display competition. Give a good-natured answer.",
+    "seconds": 30,
+    "targets": [
+      "fairy lights",
+      "over the top",
+      "I'm game"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "culture chat",
+    "register": "everyday",
+    "prompt": "A colleague wants to understand why people take part in the Proms and wave flags on the last night. Describe the atmosphere and why it's popular.",
+    "seconds": 45,
+    "targets": [
+      "the Proms",
+      "Union Jack",
+      "over the top"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "sports chat",
+    "register": "social",
+    "prompt": "Your friend says they're going to try snooker for the first time at a club. Give them advice and a few warnings about the regulars.",
+    "seconds": 45,
+    "targets": [
+      "snooker",
+      "pool",
+      "have a go"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "sports chat",
+    "register": "social",
+    "prompt": "A colleague asks why you've been in a mood since Saturday. Explain that your team lost a penalty shoot-out in the cup.",
+    "seconds": 30,
+    "targets": [
+      "penalty shoot-out",
+      "cup tie",
+      "the hump"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "sports chat",
+    "register": "everyday",
+    "prompt": "A neighbour asks you to help coach the under-tens football team. Explain what you can offer and your worries about it.",
+    "seconds": 45,
+    "targets": [
+      "kit",
+      "fixture",
+      "I'm no expert, but"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "sports chat",
+    "register": "everyday",
+    "prompt": "A visitor asks whether they should go to Royal Ascot or Henley. Compare the two and say which you'd recommend.",
+    "seconds": 45,
+    "targets": [
+      "Royal Ascot",
+      "Henley",
+      "fascinator"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "sports chat",
+    "register": "social",
+    "prompt": "Your mate claims rounders is just a children's game. Challenge him to a match at the summer picnic and explain why he'll lose.",
+    "seconds": 45,
+    "targets": [
+      "rounders",
+      "all mouth and no trousers",
+      "put your money where your mouth is"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "catching up",
+    "register": "social",
+    "prompt": "You've bumped into an ex-colleague who left to open a café in the countryside. Ask how it's going and share your own news.",
+    "seconds": 45,
+    "targets": [
+      "the sticks",
+      "graft",
+      "good for you"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "catching up",
+    "register": "social",
+    "prompt": "A friend you haven't spoken to for months asks how your new job is going. Give an honest, chatty update.",
+    "seconds": 30,
+    "targets": [
+      "up to my eyes",
+      "not too bad",
+      "learn the ropes"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "catching up",
+    "register": "social",
+    "prompt": "You and an old friend are catching up on a walk and she asks about your parents. Update her on how they're doing and their retirement plans.",
+    "seconds": 45,
+    "targets": [
+      "state pension",
+      "potter about",
+      "as fit as a fiddle"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "catching up",
+    "register": "social",
+    "prompt": "An old school friend is visiting your city and wants to meet up, but your week is packed. Find a way to squeeze in some time together.",
+    "seconds": 45,
+    "targets": [
+      "squeeze in",
+      "pencil in",
+      "fit in"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "catching up",
+    "register": "social",
+    "prompt": "You've met up with old university friends for a reunion weekend. Describe what everyone's up to and how it felt being together again.",
+    "seconds": 60,
+    "targets": [
+      "uni",
+      "donkey's years",
+      "a far cry from"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "buying rounds",
+    "register": "social",
+    "prompt": "You've joined a new group of colleagues at the pub on Friday, and you're unsure whether you're in their round. Ask tactfully and offer to get the next one.",
+    "seconds": 45,
+    "targets": [
+      "round",
+      "whose turn is it?",
+      "tell you what"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "buying rounds",
+    "register": "social",
+    "prompt": "A friend insists on buying you a drink even though you've just arrived and it's clearly your turn. Accept graciously and promise to return the favour.",
+    "seconds": 30,
+    "targets": [
+      "go on, then",
+      "I owe you one",
+      "my shout"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "buying rounds",
+    "register": "social",
+    "prompt": "Your group always ends up in rounds that are too big for anyone's budget. Suggest a kitty system instead and explain how it would work.",
+    "seconds": 45,
+    "targets": [
+      "chip in",
+      "feel the pinch",
+      "fair enough"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "buying rounds",
+    "register": "social",
+    "prompt": "You're at the bar buying a round and can't remember what anyone ordered. Turn back to the table and check with good humour.",
+    "seconds": 30,
+    "targets": [
+      "What are you having?",
+      "a double",
+      "half"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "buying rounds",
+    "register": "social",
+    "prompt": "Your friend's new partner offered to get a round but then ordered only for themselves. Talk to your friend about it later, without making a big deal of it.",
+    "seconds": 45,
+    "targets": [
+      "tight",
+      "to be fair",
+      "I'm not saying, but"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "buying rounds",
+    "register": "social",
+    "prompt": "You've won a little money on the office sweepstake. Announce to your friends at the pub that the drinks are on you tonight.",
+    "seconds": 30,
+    "targets": [
+      "sweepstake",
+      "quids in",
+      "get a round in"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "bank holidays",
+    "register": "social",
+    "prompt": "Your friends want to spend the bank holiday Monday at a theme park, but the queues will be enormous. Suggest a better plan for the day.",
+    "seconds": 45,
+    "targets": [
+      "bank holiday",
+      "day out",
+      "I'd be inclined to"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "bank holidays",
+    "register": "everyday",
+    "prompt": "A colleague from abroad asks why the whole country seems to go to garden centres on bank holidays. Explain the habit with a bit of humour.",
+    "seconds": 45,
+    "targets": [
+      "garden centre",
+      "bank holiday",
+      "potter about"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "bank holidays",
+    "register": "everyday",
+    "prompt": "Your neighbour asks if you've heard about the Good Friday road closures for the town's parade. Share what you know and your plans.",
+    "seconds": 30,
+    "targets": [
+      "Good Friday",
+      "diversion",
+      "I'll let you know"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "bank holidays",
+    "register": "social",
+    "prompt": "You went to a ceilidh for St Andrew's Day and had no idea how to dance. Describe the evening to a friend.",
+    "seconds": 45,
+    "targets": [
+      "ceilidh",
+      "St Andrew's Day",
+      "cack-handed"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "bank holidays",
+    "register": "everyday",
+    "prompt": "Your town is holding a St George's Day celebration and you've been asked to help. Explain to a newcomer what usually happens and how they could get involved.",
+    "seconds": 45,
+    "targets": [
+      "St George's Day",
+      "bunting",
+      "join in"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "bank holidays",
+    "register": "social",
+    "prompt": "Your friend is hosting a Diwali party and has asked you to bring something. Ask what would be most helpful and say how much you're looking forward to it.",
+    "seconds": 30,
+    "targets": [
+      "Diwali",
+      "bring a bottle",
+      "sparkler"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "commute small talk",
+    "register": "everyday",
+    "prompt": "A colleague has just started driving to work and asks for advice about the morning rush. Share your tips on routes, timing and parking.",
+    "seconds": 45,
+    "targets": [
+      "rat run",
+      "multi-storey",
+      "school run"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "commute small talk",
+    "register": "everyday",
+    "prompt": "A fellow passenger on the bus asks whether this route goes past the hospital. Answer helpfully and tell them where to get off.",
+    "seconds": 30,
+    "targets": [
+      "request stop",
+      "bus lane",
+      "mind how you go"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "commute small talk",
+    "register": "social",
+    "prompt": "Your friend has bought an electric scooter for commuting and is very proud of it. Tease them lightly and ask what it's really like.",
+    "seconds": 30,
+    "targets": [
+      "cheeky",
+      "cushy",
+      "flash"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "commute small talk",
+    "register": "everyday",
+    "prompt": "Your office is moving to the edge of town and colleagues are worried about the commute. Reassure them and explain the options you've found.",
+    "seconds": 45,
+    "targets": [
+      "park and ride",
+      "car share",
+      "it's not the end of the world"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a restaurant",
+    "register": "everyday",
+    "prompt": "Your table has been placed right next to the kitchen door at a birthday meal and staff keep bumping your chair. Politely ask to move.",
+    "seconds": 45,
+    "targets": [
+      "would it be possible to",
+      "if it's not too much trouble",
+      "much appreciated"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a restaurant",
+    "register": "everyday",
+    "prompt": "The waiter has brought chips with your fish but you asked for a salad. Point out the mix-up without fuss.",
+    "seconds": 30,
+    "targets": [
+      "excuse me",
+      "not to worry",
+      "I'm sure it's my fault"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a restaurant",
+    "register": "social",
+    "prompt": "Your friend wants to leave a scathing online review of a café after one bad coffee. Persuade them to give it another chance.",
+    "seconds": 45,
+    "targets": [
+      "make a mountain out of a molehill",
+      "give someone the benefit of the doubt",
+      "sleep on it"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the council",
+    "register": "everyday",
+    "prompt": "The council has changed your bin collection to fortnightly and your bins are overflowing. Phone to ask whether you can have a bigger bin.",
+    "seconds": 45,
+    "targets": [
+      "wheelie bin",
+      "council",
+      "I'd be grateful if"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the council",
+    "register": "everyday",
+    "prompt": "Your street's trees have grown so large that their roots are lifting the pavement. Ring the council to report it and ask what will happen.",
+    "seconds": 45,
+    "targets": [
+      "pavement",
+      "kerb",
+      "slightly concerned"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "small talk",
+    "register": "social",
+    "prompt": "Someone at a party asks where you're from and how long you've lived in Britain. Answer in a relaxed, friendly way and keep the conversation going.",
+    "seconds": 30,
+    "targets": [
+      "settle in",
+      "Blighty",
+      "as it happens"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "small talk",
+    "register": "social",
+    "prompt": "You're at a friend's wedding and the best man is struggling to make conversation with you. Help keep the chat going with some light topics.",
+    "seconds": 45,
+    "targets": [
+      "break the ice",
+      "natter",
+      "the thing is"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "small talk",
+    "register": "everyday",
+    "prompt": "A colleague asks what you think of the new café next to the office. Give your verdict and a recommendation.",
+    "seconds": 30,
+    "targets": [
+      "not bad",
+      "I wouldn't say no",
+      "quite good"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "sports chat",
+    "register": "social",
+    "prompt": "Your friend has got tickets to an away game and wants you to come along. Discuss the trip, the travel and what the away end is like.",
+    "seconds": 45,
+    "targets": [
+      "away game",
+      "the terraces",
+      "count me in"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "sports chat",
+    "register": "everyday",
+    "prompt": "A neighbour asks if you watched the Open golf at the weekend. Admit you're not a fan and explain what you watched instead.",
+    "seconds": 30,
+    "targets": [
+      "the Open",
+      "not my cup of tea",
+      "box set"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "pub",
+    "register": "social",
+    "prompt": "Your friends are trying to choose a pub for a big birthday, and you want somewhere with a private room. Recommend one and explain why it's perfect.",
+    "seconds": 45,
+    "targets": [
+      "the snug",
+      "pub grub",
+      "the bee's knees"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "pub",
+    "register": "social",
+    "prompt": "The barman has given you lager instead of the bitter you ordered. Point it out politely with a bit of humour.",
+    "seconds": 30,
+    "targets": [
+      "bitter",
+      "lager",
+      "no worries"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "hosting friends",
+    "register": "everyday",
+    "prompt": "Your friends' teenager is staying with you while they're away and keeps getting home late. Set some fair house rules without nagging.",
+    "seconds": 45,
+    "targets": [
+      "I'd rather not",
+      "mind you",
+      "does that make sense?"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "hosting friends",
+    "register": "social",
+    "prompt": "You've hosted a housewarming party and the flat is a mess the next morning. Ask your flatmates to help with the clear-up.",
+    "seconds": 30,
+    "targets": [
+      "housewarming",
+      "clear up",
+      "give someone a hand"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "everyday",
+    "prompt": "A neighbour has asked you to sign a petition against a new mobile phone mast. You're undecided. Explain your position politely.",
+    "seconds": 45,
+    "targets": [
+      "sit on the fence",
+      "I'll think about it",
+      "I see where you're coming from"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weekend small talk",
+    "register": "everyday",
+    "prompt": "At the corner shop on Saturday morning, the shopkeeper asks why you're buying so many eggs. Explain that you're hosting a brunch and chat about the plans.",
+    "seconds": 30,
+    "targets": [
+      "corner shop",
+      "rustle up",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weekend small talk",
+    "register": "social",
+    "prompt": "You took your nephews to a soft-play centre on Saturday and it was utter chaos. Describe the afternoon to a friend over coffee.",
+    "seconds": 45,
+    "targets": [
+      "kerfuffle",
+      "shattered",
+      "palaver"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weekend small talk",
+    "register": "everyday",
+    "prompt": "A colleague asks whether you'd recommend the car boot sale you went to on Sunday. Describe what you found, the early start, and whether it's worth going.",
+    "seconds": 45,
+    "targets": [
+      "car boot sale",
+      "bits and bobs",
+      "odds and ends"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weekend small talk",
+    "register": "social",
+    "prompt": "Your friend asks why you look so tired on a Sunday afternoon. Explain that you were out on a pub crawl for a mate's birthday that went on far too long.",
+    "seconds": 30,
+    "targets": [
+      "pub crawl",
+      "hammered",
+      "done in"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weekend small talk",
+    "register": "everyday",
+    "prompt": "On Monday, your line manager asks whether you managed to relax over the weekend. Explain that you spent most of it at your allotment and what you were doing there.",
+    "seconds": 30,
+    "targets": [
+      "allotment",
+      "potter about",
+      "mustn't grumble"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weekend small talk",
+    "register": "social",
+    "prompt": "Your friend wants to know why you spent your whole weekend assembling flat-pack furniture. Describe the struggle, the missing screws, and how it eventually turned out.",
+    "seconds": 45,
+    "targets": [
+      "flat-pack",
+      "faff",
+      "wonky"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weekend small talk",
+    "register": "everyday",
+    "prompt": "A neighbour asks whether the noise from your garden on Saturday was a party. Explain that it was your child's birthday and apologise lightly for any disturbance.",
+    "seconds": 30,
+    "targets": [
+      "sorry to be a pain",
+      "these things happen",
+      "I hope you don't mind"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weekend small talk",
+    "register": "social",
+    "prompt": "Your mate asks what you did on Saturday night and the truth is you stayed in with a takeaway and the telly. Defend your quiet night in with good humour.",
+    "seconds": 30,
+    "targets": [
+      "telly",
+      "can't be bothered",
+      "each to their own"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weekend small talk",
+    "register": "everyday",
+    "prompt": "A new colleague who has just moved to the area asks what people around here usually do at the weekend. Give them a few ideas, from walks to the local market.",
+    "seconds": 45,
+    "targets": [
+      "market town",
+      "day out",
+      "it might be worth"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "weekend small talk",
+    "register": "social",
+    "prompt": "You spent Sunday at a stately home with your in-laws and it was surprisingly enjoyable. Tell a friend what happened, including the maze you all got lost in.",
+    "seconds": 45,
+    "targets": [
+      "stately home",
+      "the National Trust",
+      "have a whale of a time"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "commute small talk",
+    "register": "everyday",
+    "prompt": "A colleague arrives drenched and asks how your commute was. Describe the packed train, the person who fell asleep on your shoulder, and how you feel now.",
+    "seconds": 30,
+    "targets": [
+      "chock-a-block",
+      "carriage",
+      "could be worse"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "commute small talk",
+    "register": "everyday",
+    "prompt": "Someone in the office asks why you've started cycling to work. Explain what made you switch and what the journey is really like on a rainy day.",
+    "seconds": 45,
+    "targets": [
+      "cycle lane",
+      "bus lane",
+      "to be honest"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "commute small talk",
+    "register": "social",
+    "prompt": "You've just come off the Tube in a heatwave and meet a friend outside the station. Describe the journey with some colourful exaggeration.",
+    "seconds": 30,
+    "targets": [
+      "the Tube",
+      "minging",
+      "rank"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "commute small talk",
+    "register": "everyday",
+    "prompt": "A new starter asks you for tips on the best way to get into the office by train. Talk them through tickets, railcards and which carriage to sit in.",
+    "seconds": 45,
+    "targets": [
+      "railcard",
+      "off-peak",
+      "quiet carriage"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "commute small talk",
+    "register": "everyday",
+    "prompt": "On the platform, a fellow commuter sighs at another delay announcement. Share some sympathetic small talk about this week's disruption.",
+    "seconds": 30,
+    "targets": [
+      "signal failure",
+      "typical",
+      "mustn't grumble"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "commute small talk",
+    "register": "everyday",
+    "prompt": "A neighbour asks whether the new park and ride scheme has made your commute easier. Give your honest opinion, including what works and what doesn't.",
+    "seconds": 45,
+    "targets": [
+      "park and ride",
+      "on the dot",
+      "hit and miss"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "commute small talk",
+    "register": "social",
+    "prompt": "Your friend asks why you were late again and you blame the school run traffic. Explain the morning chaos in a lively way.",
+    "seconds": 30,
+    "targets": [
+      "school run",
+      "roadworks",
+      "all over the shop"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "commute small talk",
+    "register": "everyday",
+    "prompt": "A colleague asks why you always seem so relaxed when you arrive at work. Explain your bus commute and how you use the time.",
+    "seconds": 30,
+    "targets": [
+      "double-decker",
+      "nod off",
+      "the thing is"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "commute small talk",
+    "register": "everyday",
+    "prompt": "You've started working from home two days a week and a friend asks if you miss commuting. Compare the two and say which you prefer.",
+    "seconds": 45,
+    "targets": [
+      "commuter belt",
+      "fed up",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "commute small talk",
+    "register": "social",
+    "prompt": "On the late train home, a stranger strikes up a conversation about how awful the journey has been. Chat back and tell them about the worst commute you've ever had.",
+    "seconds": 45,
+    "targets": [
+      "leaves on the line",
+      "rail replacement bus",
+      "sod's law"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "pub",
+    "register": "social",
+    "prompt": "You're at the bar and your friend asks, \"What are you having?\" but you're trying to cut down. Order something sensible and explain why without sounding dull.",
+    "seconds": 30,
+    "targets": [
+      "What are you having?",
+      "shandy",
+      "Dry January"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "pub",
+    "register": "social",
+    "prompt": "A colleague visiting from overseas has never been in a British pub. Explain how ordering works, why there's no table service, and what they should try.",
+    "seconds": 45,
+    "targets": [
+      "at the bar",
+      "on draught",
+      "pint"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "pub",
+    "register": "social",
+    "prompt": "The landlord rings the bell and shouts \"Last orders!\" while you're mid-conversation. Persuade your friends to have one more before going home.",
+    "seconds": 30,
+    "targets": [
+      "last orders",
+      "go for a quick one",
+      "go on then"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "pub",
+    "register": "social",
+    "prompt": "Your pub quiz team lost by one point because of a question about rivers. Tell a friend about the night, the argument over the answer, and your plans for revenge.",
+    "seconds": 45,
+    "targets": [
+      "pub quiz",
+      "gutted",
+      "pip someone at the post"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "pub",
+    "register": "social",
+    "prompt": "A friend wants to know why you've become a regular at a particular village pub. Describe the place, the landlord, and what makes it so special.",
+    "seconds": 45,
+    "targets": [
+      "local",
+      "the snug",
+      "real ale"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "pub",
+    "register": "social",
+    "prompt": "You've been asked to suggest somewhere for a friend's birthday drinks. Recommend a pub with a good beer garden and explain why it's ideal.",
+    "seconds": 30,
+    "targets": [
+      "beer garden",
+      "pub grub",
+      "suits me"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "pub",
+    "register": "everyday",
+    "prompt": "You've just had a disappointing Sunday carvery at a gastropub, where the roast potatoes were cold. Tell your partner what happened and whether you'll go back.",
+    "seconds": 45,
+    "targets": [
+      "carvery",
+      "gastropub",
+      "not up to scratch"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "pub",
+    "register": "social",
+    "prompt": "Your teetotal friend feels awkward on nights out at the pub. Reassure them and suggest how they can join in without drinking.",
+    "seconds": 45,
+    "targets": [
+      "teetotal",
+      "join in",
+      "not to worry"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "pub",
+    "register": "social",
+    "prompt": "You've been talked into playing skittles at the pub for the first time. Describe how you got on and why your team was in stitches.",
+    "seconds": 30,
+    "targets": [
+      "skittles",
+      "cack-handed",
+      "have a go"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "pub",
+    "register": "social",
+    "prompt": "Your friend from abroad was surprised to be thrown out of a pub at eleven after \"time, please\" was called. Explain British pub closing times and how the evening usually ends.",
+    "seconds": 60,
+    "targets": [
+      "time, please",
+      "last orders",
+      "make tracks"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "pub",
+    "register": "social",
+    "prompt": "A new neighbour asks what the pubs are like around here. Give your honest verdict on the three nearest ones, from the posh gastropub to the old boozer.",
+    "seconds": 45,
+    "targets": [
+      "boozer",
+      "gastropub",
+      "posh"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "pub",
+    "register": "social",
+    "prompt": "You're at the bar and someone has pushed in ahead of you. Handle it politely but firmly with some British humour.",
+    "seconds": 30,
+    "targets": [
+      "jump the queue",
+      "I'm not being funny, but",
+      "excuse me"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "pub",
+    "register": "social",
+    "prompt": "You've been asked to organise a work Christmas do at a local pub. Talk a friend through your plans and what could go wrong.",
+    "seconds": 45,
+    "targets": [
+      "Christmas do",
+      "pub grub",
+      "cock-up"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "pub",
+    "register": "social",
+    "prompt": "Your friend asks why the pub you go to is called a \"free house\". Explain what it means and why you prefer it.",
+    "seconds": 30,
+    "targets": [
+      "free house",
+      "real ale",
+      "bitter"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "buying rounds",
+    "register": "social",
+    "prompt": "A new friend from overseas is confused about the British custom of buying rounds. Explain how it works, the unwritten rules, and what happens if you dodge your turn.",
+    "seconds": 45,
+    "targets": [
+      "round",
+      "my shout",
+      "tight"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "buying rounds",
+    "register": "social",
+    "prompt": "You realise you've been drinking with a group all evening without buying a round. Own up to your friends and make amends.",
+    "seconds": 30,
+    "targets": [
+      "my shout",
+      "get a round in",
+      "own up"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "buying rounds",
+    "register": "social",
+    "prompt": "You're out with six people, the drinks are expensive, and you only want one. Explain to the group that you'll get your own and leave early without causing offence.",
+    "seconds": 45,
+    "targets": [
+      "round",
+      "skint",
+      "I'd better be off"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "buying rounds",
+    "register": "social",
+    "prompt": "It's your turn to buy and the round has somehow come to nearly forty quid. Tell your friends about the shock at the bar in a light-hearted way.",
+    "seconds": 30,
+    "targets": [
+      "daylight robbery",
+      "quid",
+      "whose turn is it?"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "buying rounds",
+    "register": "social",
+    "prompt": "Your friend always disappears to the loo when it's his turn to buy. Gently tease him about it in front of the group without making it awkward.",
+    "seconds": 45,
+    "targets": [
+      "tight",
+      "cheeky",
+      "get a round in"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "buying rounds",
+    "register": "social",
+    "prompt": "A friend wants to split the bill equally even though you only had a lemonade. Suggest a fairer way to settle up without sounding petty.",
+    "seconds": 30,
+    "targets": [
+      "settle up",
+      "go halves",
+      "fair enough"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "everyday",
+    "prompt": "The couple in the flat upstairs play loud music until two most weeknights. Knock on their door and raise the problem politely, suggesting a compromise that works for everyone.",
+    "seconds": 45,
+    "targets": [
+      "sorry to bother you",
+      "I was wondering if",
+      "it's a bit much"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "everyday",
+    "prompt": "Your new neighbour's builders have been drilling from seven every morning for a fortnight. Catch him on the drive and explain the impact without souring the relationship.",
+    "seconds": 45,
+    "targets": [
+      "fortnight",
+      "I'm sure there's a good reason",
+      "would you mind"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "everyday",
+    "prompt": "A neighbour has left a passive-aggressive note on your car about parking outside her house. Knock on her door and clear the air in a friendly way.",
+    "seconds": 30,
+    "targets": [
+      "clear up",
+      "fair enough",
+      "I appreciate that"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "everyday",
+    "prompt": "You've just moved into a terraced house and want to introduce yourself to the elderly man next door. Say hello, tell him a bit about yourself, and offer help if he ever needs it.",
+    "seconds": 30,
+    "targets": [
+      "terraced house",
+      "pop round",
+      "give someone a hand"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "social",
+    "prompt": "Your neighbour's dog barks non-stop whenever they leave for work. Tell a friend about the situation and ask whether you should say something or just put up with it.",
+    "seconds": 45,
+    "targets": [
+      "do someone's head in",
+      "put up with",
+      "let sleeping dogs lie"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "everyday",
+    "prompt": "Your neighbour's overgrown hedge is blocking the pavement and scratching cars. Bring it up with her over the garden fence tactfully and suggest how you could sort it together.",
+    "seconds": 45,
+    "targets": [
+      "pavement",
+      "it might be worth",
+      "give someone a hand"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "everyday",
+    "prompt": "You're throwing a party on Saturday night and want to warn the neighbours. Pop round and let them know, apologising in advance and inviting them along.",
+    "seconds": 30,
+    "targets": [
+      "pop round",
+      "I hope you don't mind",
+      "you must come round sometime"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "everyday",
+    "prompt": "A parcel meant for you was delivered to a neighbour three doors down, who you've never met. Go round, introduce yourself and ask for it politely.",
+    "seconds": 45,
+    "targets": [
+      "parcel",
+      "sorry to bother you",
+      "thanks ever so much"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "social",
+    "prompt": "Tell a friend about the neighbour you call the \"street detective\", who knows everyone's business and reports every bin left out too long.",
+    "seconds": 45,
+    "targets": [
+      "nosy parker",
+      "goss",
+      "bless"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "everyday",
+    "prompt": "Your neighbours keep putting their recycling in your wheelie bin on bin day. Raise it with them politely and suggest a simple fix.",
+    "seconds": 30,
+    "targets": [
+      "wheelie bin",
+      "bin day",
+      "just a thought"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "everyday",
+    "prompt": "The neighbour you share a driveway with has started leaving his van across it, blocking you in. Have a calm word and agree a sensible arrangement.",
+    "seconds": 45,
+    "targets": [
+      "can I have a quick word?",
+      "not ideal",
+      "does that work for you?"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "everyday",
+    "prompt": "Your next-door neighbour has taken in your parcels all month while you worked late. Thank her warmly when you drop round with a small gift.",
+    "seconds": 30,
+    "targets": [
+      "you're a star",
+      "much appreciated",
+      "you shouldn't have"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "everyday",
+    "prompt": "A smell of smoke has been drifting into your garden every evening from a neighbour's bonfires. Explain the problem to them politely and ask if they could change what they're doing.",
+    "seconds": 45,
+    "targets": [
+      "bonfire",
+      "I'd be grateful if",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "everyday",
+    "prompt": "You're going away for a fortnight and want to ask your neighbour to water your plants and keep an eye on the house. Make the request without imposing too much.",
+    "seconds": 45,
+    "targets": [
+      "I don't suppose you could",
+      "look in on",
+      "if it's not too much trouble"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "social",
+    "prompt": "Your downstairs neighbour has complained that your footsteps are too loud. Tell a friend about the encounter and whether you think it's fair.",
+    "seconds": 30,
+    "targets": [
+      "taking the mick",
+      "miffed",
+      "to be fair"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "everyday",
+    "prompt": "A tree in your garden has dropped leaves all over your neighbour's car and conservatory roof. Apologise and propose how you'll deal with it.",
+    "seconds": 45,
+    "targets": [
+      "conservatory",
+      "my mistake",
+      "I'll see what I can do"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "everyday",
+    "prompt": "A neighbour you hardly know is moving away after twenty years on the street. Say a warm goodbye when you see her loading the removals van.",
+    "seconds": 30,
+    "targets": [
+      "removals",
+      "take care",
+      "all the best"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "everyday",
+    "prompt": "You've been asked to start a group chat for your street after a spate of parcel thefts. Introduce the idea at a residents' meeting in the community centre and explain the ground rules.",
+    "seconds": 60,
+    "targets": [
+      "neighbour",
+      "keep me posted",
+      "I'd suggest"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "social",
+    "prompt": "Your neighbour's children keep kicking their football into your garden and over your vegetables. Tell a friend what happened when you finally went round about it.",
+    "seconds": 45,
+    "targets": [
+      "cheeky",
+      "a storm in a teacup",
+      "sorted"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "everyday",
+    "prompt": "A neighbour you rarely see stops you to ask how you're finding the area. Answer warmly and ask something about her in return.",
+    "seconds": 30,
+    "targets": [
+      "settle in",
+      "lovely",
+      "how's it going?"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "everyday",
+    "prompt": "The family next door have a new baby, and you'd like to drop off a card and some food. Offer congratulations and help without overstaying your welcome.",
+    "seconds": 45,
+    "targets": [
+      "I won't keep you",
+      "can I get you anything?",
+      "lovely"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "neighbours",
+    "register": "social",
+    "prompt": "There's a long-running feud between two neighbours on your street over a fence panel. Describe the saga to a friend and say whose side you're on.",
+    "seconds": 45,
+    "targets": [
+      "barney",
+      "out of order",
+      "sit on the fence"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "landlord and repairs",
+    "register": "everyday",
+    "prompt": "Your boiler has broken in January and the landlord isn't answering. Leave a voicemail that clearly explains the problem, how urgent it is, and what you need from him.",
+    "seconds": 45,
+    "targets": [
+      "boiler",
+      "central heating",
+      "I'd appreciate it if"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "landlord and repairs",
+    "register": "everyday",
+    "prompt": "Mould has appeared on the bedroom wall of your rented flat for the second winter running. Ring the letting agent, describe the problem and ask what they'll do about it.",
+    "seconds": 45,
+    "targets": [
+      "letting agent",
+      "just following up",
+      "a bit of an issue"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "landlord and repairs",
+    "register": "everyday",
+    "prompt": "The kitchen tap has been dripping for weeks and the landlord keeps promising to send someone. Chase him up politely but firmly on the phone.",
+    "seconds": 30,
+    "targets": [
+      "tap",
+      "chase up",
+      "sorry to chase"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "landlord and repairs",
+    "register": "everyday",
+    "prompt": "You're moving out of a flat and the landlord wants to keep part of your deposit for wear and tear. Explain calmly why you think the deduction is unfair.",
+    "seconds": 60,
+    "targets": [
+      "deposit",
+      "tenancy agreement",
+      "with respect"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "landlord and repairs",
+    "register": "everyday",
+    "prompt": "The landlord has asked to show prospective tenants round your flat at very short notice. Ring back and negotiate a time that suits you better.",
+    "seconds": 45,
+    "targets": [
+      "tenancy agreement",
+      "to let",
+      "would it be possible to"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "landlord and repairs",
+    "register": "everyday",
+    "prompt": "A plumber has come round to fix your shower but turned up three hours late. Explain the problem with the power shower and what you've already tried.",
+    "seconds": 30,
+    "targets": [
+      "power shower",
+      "plughole",
+      "turn up"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "landlord and repairs",
+    "register": "social",
+    "prompt": "Tell a friend about the worst flat you've ever rented, including the landlord who fixed everything with gaffer tape.",
+    "seconds": 45,
+    "targets": [
+      "bodge",
+      "grotty",
+      "a dog's dinner"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "landlord and repairs",
+    "register": "everyday",
+    "prompt": "Your new landlord asks if you'd be happy for her to do a quick inspection every month. Explain politely why you'd prefer less frequent visits.",
+    "seconds": 45,
+    "targets": [
+      "I'd rather not",
+      "I see where you're coming from",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "landlord and repairs",
+    "register": "everyday",
+    "prompt": "The fuse box keeps tripping whenever you use the kettle and toaster together. Explain the issue to the letting agent on the phone and ask for an electrician.",
+    "seconds": 30,
+    "targets": [
+      "fuse box",
+      "kettle",
+      "on the blink"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "landlord and repairs",
+    "register": "everyday",
+    "prompt": "The landlord has sent a cheap handyman who has made the leaking roof worse. Explain to the landlord what went wrong and why you need a proper roofer.",
+    "seconds": 45,
+    "targets": [
+      "cut corners",
+      "not up to scratch",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "landlord and repairs",
+    "register": "everyday",
+    "prompt": "Your landlord wants to raise the rent by fifteen per cent at the end of your tenancy. Negotiate a smaller increase, pointing to the flat's condition and your record as a tenant.",
+    "seconds": 60,
+    "targets": [
+      "tenancy agreement",
+      "a big ask",
+      "I'd be inclined to"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "landlord and repairs",
+    "register": "everyday",
+    "prompt": "You've locked yourself out of your rented flat at eleven at night. Ring the landlord, apologise for the late call and explain what you need.",
+    "seconds": 30,
+    "targets": [
+      "sorry to bother you",
+      "I'm terribly sorry",
+      "I owe you one"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "landlord and repairs",
+    "register": "everyday",
+    "prompt": "You and your flatmate disagree on whether to tell the landlord about a crack in the window you caused. Persuade your flatmate that owning up is the better option.",
+    "seconds": 45,
+    "targets": [
+      "own up",
+      "flatmate",
+      "caught red-handed"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "landlord and repairs",
+    "register": "social",
+    "prompt": "Your landlord has finally fixed the washing machine after six weeks. Tell your mum on the phone how you felt and what you'd been doing for clean clothes.",
+    "seconds": 30,
+    "targets": [
+      "launderette",
+      "chuffed",
+      "better late than never"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "landlord and repairs",
+    "register": "everyday",
+    "prompt": "The letting agent wants to charge you for a professional clean, but you left the flat spotless. Argue your case with the photos you took on the last day.",
+    "seconds": 45,
+    "targets": [
+      "letting agent",
+      "with all due respect",
+      "I'm not convinced"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "landlord and repairs",
+    "register": "everyday",
+    "prompt": "Your radiators are only warm at the bottom and the flat is freezing. Explain the problem to the landlord and suggest they might need bleeding or a new valve.",
+    "seconds": 30,
+    "targets": [
+      "radiator",
+      "central heating",
+      "have you thought about"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "landlord and repairs",
+    "register": "everyday",
+    "prompt": "You're a first-time renter and a friend asks what to check before signing a tenancy agreement. Give them your best practical advice from experience.",
+    "seconds": 45,
+    "targets": [
+      "tenancy agreement",
+      "deposit",
+      "dot the i's and cross the t's"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "landlord and repairs",
+    "register": "everyday",
+    "prompt": "The extractor fan in your rented bathroom has stopped working and condensation is everywhere. Ring the landlord, explain the problem clearly and ask for a date for the repair.",
+    "seconds": 45,
+    "targets": [
+      "extractor fan",
+      "when you get a chance",
+      "I'll let you know"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a restaurant",
+    "register": "everyday",
+    "prompt": "Your steak has arrived well done when you asked for medium-rare, and your guests are already eating. Call the waiter over and complain politely, explaining what you'd like done.",
+    "seconds": 45,
+    "targets": [
+      "excuse me",
+      "I'm afraid",
+      "not quite what I had in mind"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a restaurant",
+    "register": "everyday",
+    "prompt": "The waiter asks \"Is everything all right with your meal?\" but your soup is lukewarm. Answer honestly without making a scene.",
+    "seconds": 30,
+    "targets": [
+      "not too bad",
+      "to be honest",
+      "if it's not too much trouble"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a restaurant",
+    "register": "everyday",
+    "prompt": "You've been waiting fifty minutes for your mains at a busy Italian restaurant and the table next to you, who arrived later, has been served. Raise it politely with the manager.",
+    "seconds": 45,
+    "targets": [
+      "sorry to bother you",
+      "I was surprised",
+      "I'd appreciate it if"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a restaurant",
+    "register": "everyday",
+    "prompt": "The bill at a café includes a service charge, but the service was slow and rude. Explain to the manager why you'd like it removed.",
+    "seconds": 45,
+    "targets": [
+      "could I have the bill?",
+      "with respect",
+      "not great"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a restaurant",
+    "register": "everyday",
+    "prompt": "You find a hair in your salad at a garden centre café. Take it back to the counter and explain the problem calmly.",
+    "seconds": 30,
+    "targets": [
+      "garden centre",
+      "I'm afraid",
+      "excuse me"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a restaurant",
+    "register": "everyday",
+    "prompt": "You booked a table for your mother's birthday, but the restaurant has lost the booking and offers a table by the toilets. Push back politely and suggest a better solution.",
+    "seconds": 45,
+    "targets": [
+      "booking",
+      "I'm sure there's a good reason",
+      "not ideal"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a restaurant",
+    "register": "everyday",
+    "prompt": "You've told the waiter twice about your nut allergy, but your dessert has arrived sprinkled with almonds. Explain firmly why this matters.",
+    "seconds": 30,
+    "targets": [
+      "I'm afraid",
+      "slightly concerned",
+      "could you possibly"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a restaurant",
+    "register": "social",
+    "prompt": "Tell a friend about the \"fine dining\" restaurant where you paid a fortune for three tiny courses and still had to get chips on the way home.",
+    "seconds": 45,
+    "targets": [
+      "cost an arm and a leg",
+      "chippy",
+      "daylight robbery"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a restaurant",
+    "register": "everyday",
+    "prompt": "The manager of the pub where you had Sunday lunch asks for feedback as you leave. The roast was poor but the staff were lovely. Give balanced, polite feedback.",
+    "seconds": 45,
+    "targets": [
+      "for what it's worth",
+      "room for improvement",
+      "lovely"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a restaurant",
+    "register": "everyday",
+    "prompt": "Your takeaway order has arrived forty minutes late and half of it is missing. Phone the restaurant and explain what you'd like them to do.",
+    "seconds": 30,
+    "targets": [
+      "eat in or take away?",
+      "sorry to be a pain",
+      "I'd be grateful if"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a restaurant",
+    "register": "everyday",
+    "prompt": "The tea room has charged you for a cream tea for four, but only three of you ate. Point out the mistake without embarrassing the young waiter, who looks flustered.",
+    "seconds": 45,
+    "targets": [
+      "excuse me",
+      "I'm a little confused",
+      "not to worry"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a restaurant",
+    "register": "social",
+    "prompt": "A friend insists on sending back every dish at every restaurant. Tell them, kindly but honestly, why it embarrasses you.",
+    "seconds": 30,
+    "targets": [
+      "I'm not being funny, but",
+      "over the top",
+      "make a mountain out of a molehill"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a shop",
+    "register": "everyday",
+    "prompt": "The new kettle you bought last week has started leaking. Take it back to the shop and ask for a refund, even though you've lost the receipt.",
+    "seconds": 45,
+    "targets": [
+      "kettle",
+      "I'm afraid",
+      "would it be possible to"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a shop",
+    "register": "everyday",
+    "prompt": "The self-service till has charged you twice for the same item. Explain the problem to the assistant without holding up the queue too much.",
+    "seconds": 30,
+    "targets": [
+      "till",
+      "shop assistant",
+      "sorry to bother you"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a shop",
+    "register": "everyday",
+    "prompt": "You ordered a sofa that arrived in the wrong colour after an eight-week wait. Ring the shop and explain what you'd like them to do about it.",
+    "seconds": 45,
+    "targets": [
+      "sofa",
+      "not quite what I had in mind",
+      "I'd appreciate it if"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a shop",
+    "register": "everyday",
+    "prompt": "A shop assistant has refused to take back a jumper because the label was removed. Calmly argue your case and ask to speak to a manager.",
+    "seconds": 45,
+    "targets": [
+      "jumper",
+      "jobsworth",
+      "with all due respect"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a shop",
+    "register": "everyday",
+    "prompt": "You've been sold the wrong size of school uniform for your child and the shop is very busy. Explain what you need and ask to swap it.",
+    "seconds": 30,
+    "targets": [
+      "sorry to be a pain",
+      "I'm afraid",
+      "is it alright if"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a shop",
+    "register": "everyday",
+    "prompt": "You bought a pair of trainers that fell apart after a month. Explain the problem to the shop and argue they're not fit for purpose.",
+    "seconds": 45,
+    "targets": [
+      "trainers",
+      "not up to scratch",
+      "I was a bit disappointed"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a shop",
+    "register": "everyday",
+    "prompt": "Your click and collect order was supposed to be ready at noon, but the staff can't find it. Explain the situation and say what you need them to do.",
+    "seconds": 45,
+    "targets": [
+      "click and collect",
+      "I'm conscious of time",
+      "could you possibly"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a shop",
+    "register": "everyday",
+    "prompt": "A shop assistant has been following you around the store and you feel uncomfortable. Politely tell them you're just browsing.",
+    "seconds": 30,
+    "targets": [
+      "just looking, thanks",
+      "I'm all right, thanks",
+      "excuse me"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a shop",
+    "register": "social",
+    "prompt": "Tell a friend about the time you tried to return a faulty toaster and ended up in a twenty-minute debate with a very determined shop manager.",
+    "seconds": 45,
+    "targets": [
+      "rigmarole",
+      "palaver",
+      "jobsworth"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a shop",
+    "register": "everyday",
+    "prompt": "Your new bike has a puncture after one ride, and the bike shop says it's your fault. Explain what happened and ask for a repair.",
+    "seconds": 45,
+    "targets": [
+      "puncture",
+      "I'm not sure that's quite right",
+      "I'd be grateful if"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a shop",
+    "register": "everyday",
+    "prompt": "The supermarket has run out of the item on offer that brought you in. Ask the staff whether they'll be getting more in or can offer something similar.",
+    "seconds": 30,
+    "targets": [
+      "I don't suppose you could",
+      "any chance you could",
+      "oh well"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a shop",
+    "register": "everyday",
+    "prompt": "You were overcharged at the dry cleaner's for a simple jacket clean. Discuss the bill with the owner politely and ask for an explanation.",
+    "seconds": 45,
+    "targets": [
+      "I'm a little confused",
+      "correct me if I'm wrong",
+      "fair enough"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a shop",
+    "register": "everyday",
+    "prompt": "You've paid for a new fitted carpet and the fitters left it uneven with gaps by the skirting boards. Ring the company and explain what needs fixing and by when.",
+    "seconds": 60,
+    "targets": [
+      "fitted carpet",
+      "skirting board",
+      "not up to scratch"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a shop",
+    "register": "everyday",
+    "prompt": "A loyalty card offer didn't come off your shopping, and you only noticed at home. Phone the store and explain what happened.",
+    "seconds": 30,
+    "targets": [
+      "loyalty card",
+      "I'm sure it's my fault",
+      "I'll leave it with you"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "complaining in a shop",
+    "register": "everyday",
+    "prompt": "The optician's has made your new glasses with the wrong prescription and you're getting headaches. Go back and explain the problem politely.",
+    "seconds": 45,
+    "targets": [
+      "optician's",
+      "spectacles",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the GP",
+    "register": "everyday",
+    "prompt": "You've been trying to book a GP appointment for days and keep being told to ring back at eight. Explain to the receptionist why you need to be seen this week.",
+    "seconds": 45,
+    "targets": [
+      "GP",
+      "surgery",
+      "I'd appreciate it if"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the GP",
+    "register": "everyday",
+    "prompt": "You need a repeat prescription but the online system won't let you order it. Phone the surgery and explain the problem clearly.",
+    "seconds": 30,
+    "targets": [
+      "prescription",
+      "surgery",
+      "could you possibly"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the GP",
+    "register": "everyday",
+    "prompt": "You've just moved to a new town and want to register with a GP. Phone the nearest surgery and ask what you need to do.",
+    "seconds": 45,
+    "targets": [
+      "register with a GP",
+      "proof of address",
+      "NHS number"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the GP",
+    "register": "everyday",
+    "prompt": "Your child has had a high temperature for two days. Phone 111 and describe the symptoms clearly and calmly.",
+    "seconds": 45,
+    "targets": [
+      "111",
+      "temperature",
+      "paracetamol"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the GP",
+    "register": "everyday",
+    "prompt": "The receptionist asks what your appointment is about and you'd rather not say. Explain politely that it's personal.",
+    "seconds": 30,
+    "targets": [
+      "I'd rather not",
+      "I hope you don't mind",
+      "if you don't mind"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the GP",
+    "register": "everyday",
+    "prompt": "You've been waiting four months for a referral to a consultant and have heard nothing. Ring the surgery to chase it up.",
+    "seconds": 45,
+    "targets": [
+      "referral",
+      "consultant",
+      "just following up"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the GP",
+    "register": "everyday",
+    "prompt": "You've woken up feeling dreadful and need to cancel your GP appointment that morning. Phone the surgery and apologise for the short notice.",
+    "seconds": 30,
+    "targets": [
+      "under the weather",
+      "apologies",
+      "sorry to bother you"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the GP",
+    "register": "everyday",
+    "prompt": "A friend from abroad asks whether they should go to A&E with a sprained ankle. Explain the difference between A&E, a GP and an urgent treatment centre.",
+    "seconds": 45,
+    "targets": [
+      "A&E",
+      "urgent treatment centre",
+      "GP"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the GP",
+    "register": "everyday",
+    "prompt": "The pharmacist says your prescription hasn't come through from the surgery. Ring the surgery and explain the mix-up.",
+    "seconds": 45,
+    "targets": [
+      "pharmacist",
+      "prescription",
+      "sorry for any confusion"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the GP",
+    "register": "everyday",
+    "prompt": "You need a sick note for work after a week off ill. Ask the surgery receptionist how to get one.",
+    "seconds": 30,
+    "targets": [
+      "sick note",
+      "off sick",
+      "is it alright if"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the GP",
+    "register": "everyday",
+    "prompt": "Your elderly father has been told to see a locum instead of his regular doctor and he's reluctant. Persuade him that it's fine to go.",
+    "seconds": 45,
+    "targets": [
+      "locum",
+      "GP",
+      "I'm sure it'll be fine"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the GP",
+    "register": "everyday",
+    "prompt": "You're trying to find an NHS dentist after moving, and every practice has a waiting list. Ring one and explain your situation.",
+    "seconds": 45,
+    "targets": [
+      "NHS dentist",
+      "waiting list",
+      "I don't suppose you could"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the GP",
+    "register": "social",
+    "prompt": "Tell a friend about the morning you spent on hold to the GP surgery, being number thirty-seven in the queue.",
+    "seconds": 30,
+    "targets": [
+      "rigmarole",
+      "do someone's head in",
+      "sod's law"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the council",
+    "register": "everyday",
+    "prompt": "Your bins haven't been collected for three weeks. Ring the council and explain the problem, including the foxes making a mess on the street.",
+    "seconds": 45,
+    "targets": [
+      "bin day",
+      "council",
+      "I'd be grateful if"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the council",
+    "register": "everyday",
+    "prompt": "There's a huge pothole outside your house that has damaged two cars this week. Report it to the council, describing exactly where it is.",
+    "seconds": 45,
+    "targets": [
+      "council",
+      "pavement",
+      "slightly concerned"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the council",
+    "register": "everyday",
+    "prompt": "Your council tax bill has arrived with the wrong band. Phone the council to query it.",
+    "seconds": 30,
+    "targets": [
+      "council tax",
+      "I'm a little confused",
+      "correct me if I'm wrong"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the council",
+    "register": "everyday",
+    "prompt": "Someone has dumped an old mattress and a fridge on the grass verge outside your house. Phone the council to report the fly-tipping.",
+    "seconds": 45,
+    "targets": [
+      "verge",
+      "council",
+      "at your earliest convenience"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the council",
+    "register": "everyday",
+    "prompt": "You want to know how to get a parking permit for your new street. Phone the council and ask the right questions.",
+    "seconds": 30,
+    "targets": [
+      "parking bay",
+      "proof of address",
+      "would it be possible to"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the council",
+    "register": "everyday",
+    "prompt": "The streetlight outside your house has been out for a month and you feel unsafe walking home. Report it to the council and explain why it matters.",
+    "seconds": 45,
+    "targets": [
+      "council",
+      "sorry to chase",
+      "I'd appreciate it if"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the council",
+    "register": "everyday",
+    "prompt": "Your elderly neighbour is struggling with her garden and you've heard the council has a scheme for help. Phone and ask about it on her behalf.",
+    "seconds": 45,
+    "targets": [
+      "council",
+      "carer",
+      "I was wondering if"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the council",
+    "register": "everyday",
+    "prompt": "The council plans to close your local library to save money. Speak for a minute at a public meeting in the town hall explaining why it matters to the community.",
+    "seconds": 60,
+    "targets": [
+      "town hall",
+      "councillor",
+      "with the greatest respect"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "phoning the council",
+    "register": "everyday",
+    "prompt": "You need to book a skip for a garden clearance and aren't sure if you need a permit. Ring the council to ask.",
+    "seconds": 30,
+    "targets": [
+      "skip",
+      "council",
+      "could you possibly"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "everyday",
+    "prompt": "Your train has been cancelled and you're told to take a rail replacement bus that will add two hours to your journey. Ring the friend you're visiting and explain the new plan.",
+    "seconds": 45,
+    "targets": [
+      "rail replacement bus",
+      "engineering works",
+      "run late"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "everyday",
+    "prompt": "The ticket inspector says your off-peak ticket isn't valid on this train and wants to charge you a penalty fare. Explain politely why you think you should be let off.",
+    "seconds": 45,
+    "targets": [
+      "off-peak",
+      "penalty fare",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "everyday",
+    "prompt": "You're stuck in a forty-minute tailback on the motorway due to an accident. Ring your host to apologise and give them a realistic arrival time.",
+    "seconds": 30,
+    "targets": [
+      "tailback",
+      "motorway",
+      "I'm terribly sorry"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "everyday",
+    "prompt": "Your flight home has been delayed overnight and the airline staff are being vague. Ask clearly what they're offering and push for a hotel room.",
+    "seconds": 45,
+    "targets": [
+      "departure lounge",
+      "hold luggage",
+      "I'd appreciate it if"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "everyday",
+    "prompt": "A tourist on the platform is confused by an announcement about a signal failure. Explain what's happening and what their options are.",
+    "seconds": 30,
+    "targets": [
+      "signal failure",
+      "platform",
+      "change at"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "social",
+    "prompt": "Tell a friend about the journey to a wedding where your sat nav sent you down a single-track road with a herd of cows in the middle.",
+    "seconds": 45,
+    "targets": [
+      "sat nav",
+      "single-track road",
+      "pear-shaped"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "everyday",
+    "prompt": "The Tube line you need is suspended and you have an important appointment in half an hour. Ask a member of station staff for the best alternative route.",
+    "seconds": 45,
+    "targets": [
+      "the Tube",
+      "the Underground",
+      "could you possibly"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "everyday",
+    "prompt": "Your car has broken down on the hard shoulder of the motorway in the rain. Phone your breakdown cover and describe exactly where you are and what happened.",
+    "seconds": 60,
+    "targets": [
+      "hard shoulder",
+      "breakdown cover",
+      "hazard lights"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "everyday",
+    "prompt": "You're on a packed train and someone is sitting in the seat you reserved. Ask them politely to move.",
+    "seconds": 30,
+    "targets": [
+      "excuse me",
+      "sorry to bother you",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "everyday",
+    "prompt": "Your train was delayed by over an hour and you want compensation. Explain to a confused friend how to claim it and why it's worth doing.",
+    "seconds": 45,
+    "targets": [
+      "it might be worth",
+      "railcard",
+      "fill in"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "social",
+    "prompt": "You missed the last train home after a night out and ended up sharing a minicab with strangers. Tell your flatmate the story the next morning.",
+    "seconds": 45,
+    "targets": [
+      "minicab",
+      "taxi rank",
+      "sod's law"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "everyday",
+    "prompt": "A diversion on the ring road has sent you round in circles for half an hour. Ring your colleague to say you'll be late to the leaving do.",
+    "seconds": 30,
+    "targets": [
+      "diversion",
+      "ring road",
+      "leaving do"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "everyday",
+    "prompt": "Your coach to the airport has broken down at the motorway services. Explain the situation to your travel insurance helpline and ask what you're covered for.",
+    "seconds": 45,
+    "targets": [
+      "motorway services",
+      "coach",
+      "would it be possible to"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "everyday",
+    "prompt": "The ferry crossing to the island has been cancelled because of high winds. Explain to your disappointed children what's happening and what you'll do instead.",
+    "seconds": 45,
+    "targets": [
+      "gale",
+      "day out",
+      "it's not the end of the world"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "everyday",
+    "prompt": "Your bus has terminated early because of roadworks. Ask the driver politely how to get the rest of the way into town.",
+    "seconds": 30,
+    "targets": [
+      "roadworks",
+      "request stop",
+      "town centre"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "everyday",
+    "prompt": "You've been stuck on a train outside a station for an hour because of leaves on the line. Chat with the passenger opposite and make the best of the situation.",
+    "seconds": 45,
+    "targets": [
+      "leaves on the line",
+      "buffet car",
+      "could be worse"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "social",
+    "prompt": "You arrived at the airport for your holiday to discover your passport had expired. Tell a friend how the day unfolded.",
+    "seconds": 30,
+    "targets": [
+      "British passport",
+      "passport control",
+      "gutted"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "everyday",
+    "prompt": "Strikes mean there are no trains on the day of your friend's wedding. Ring her and talk through how you'll still get there on time.",
+    "seconds": 45,
+    "targets": [
+      "industrial action",
+      "car share",
+      "by hook or by crook"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "everyday",
+    "prompt": "The level crossing barriers are stuck down and a queue of cars is building. Explain to the driver behind you what you've seen and what you think you should all do.",
+    "seconds": 45,
+    "targets": [
+      "level crossing",
+      "give way",
+      "hang on"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "everyday",
+    "prompt": "You've been clamped in a car park after your pay and display ticket ran out by ten minutes. Plead your case with the attendant.",
+    "seconds": 30,
+    "targets": [
+      "pay and display",
+      "wheel clamp",
+      "I'm terribly sorry"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "social",
+    "prompt": "Your Christmas journey north turned into a nine-hour ordeal. Tell your family what happened on the way as you finally walk through the door.",
+    "seconds": 45,
+    "targets": [
+      "the festive season",
+      "engineering works",
+      "all change"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "everyday",
+    "prompt": "You've left your bag on the train and only noticed as it pulled away. Explain the situation to the station staff and describe the bag.",
+    "seconds": 30,
+    "targets": [
+      "platform",
+      "carriage",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "everyday",
+    "prompt": "A tourist asks why their black cab driver took a strange route because of the congestion charge zone. Explain the charge and how London traffic works.",
+    "seconds": 45,
+    "targets": [
+      "congestion charge",
+      "black cab",
+      "the Knowledge"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "travel disruption",
+    "register": "everyday",
+    "prompt": "Your flight to Edinburgh is cancelled and your friend suggests getting the sleeper train instead. Weigh up the options and decide.",
+    "seconds": 45,
+    "targets": [
+      "sleeper",
+      "advance ticket",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "hosting friends",
+    "register": "social",
+    "prompt": "Friends are coming round for dinner tonight and you've just burnt the main course. Ring one of them and explain the change of plan with some humour.",
+    "seconds": 45,
+    "targets": [
+      "rustle up",
+      "cock-up",
+      "tell you what"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "hosting friends",
+    "register": "everyday",
+    "prompt": "A friend arrives at your door with a bottle of wine and flowers. Welcome them in warmly and offer them a drink.",
+    "seconds": 30,
+    "targets": [
+      "make yourself at home",
+      "can I get you anything?",
+      "you shouldn't have"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "hosting friends",
+    "register": "social",
+    "prompt": "You've invited friends from university to stay for the weekend and need to plan the visit. Talk your partner through what you'll do and where everyone will sleep.",
+    "seconds": 45,
+    "targets": [
+      "spare room",
+      "camp bed",
+      "muck in"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "hosting friends",
+    "register": "everyday",
+    "prompt": "A guest asks how you take your tea, and you realise you have no milk. Explain the situation and offer an alternative.",
+    "seconds": 30,
+    "targets": [
+      "how do you take it?",
+      "cuppa",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "hosting friends",
+    "register": "social",
+    "prompt": "A friend has overstayed their welcome and it's past midnight. Hint politely that it's time for them to head home.",
+    "seconds": 45,
+    "targets": [
+      "I'd better be off",
+      "I won't keep you",
+      "the thing is"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "hosting friends",
+    "register": "social",
+    "prompt": "You're hosting your first proper dinner party in a new flat. Tell a friend afterwards how it went, from the starter to the washing-up disaster.",
+    "seconds": 60,
+    "targets": [
+      "washing-up",
+      "dish up",
+      "go down well"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "hosting friends",
+    "register": "everyday",
+    "prompt": "Your friend's children are visiting and keep running into the garden. Set some friendly ground rules with the parents.",
+    "seconds": 30,
+    "targets": [
+      "mind your head",
+      "climbing frame",
+      "if you don't mind"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "hosting friends",
+    "register": "social",
+    "prompt": "You're planning a barbecue in your back garden and need your friends to bring something. Send a voice note to the group explaining what's needed.",
+    "seconds": 45,
+    "targets": [
+      "bring a bottle",
+      "chip in",
+      "sounds good"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "hosting friends",
+    "register": "social",
+    "prompt": "A guest compliments your cooking and asks for the recipe, but it was from a supermarket. Respond with good humour.",
+    "seconds": 30,
+    "targets": [
+      "oh, it's nothing",
+      "spill the beans",
+      "throw together"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "hosting friends",
+    "register": "everyday",
+    "prompt": "A visiting colleague from Japan is staying with you for the first time. Show them around your house, explaining how the boiler and shower work.",
+    "seconds": 45,
+    "targets": [
+      "combi boiler",
+      "power shower",
+      "help yourself"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "hosting friends",
+    "register": "social",
+    "prompt": "You've agreed to host a games night and want to make it a success. Describe to a friend what you've planned and how you'll keep everyone entertained.",
+    "seconds": 45,
+    "targets": [
+      "banter",
+      "have a whale of a time",
+      "count me in"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "hosting friends",
+    "register": "everyday",
+    "prompt": "A guest offers to help with the washing-up after dinner. Politely decline and suggest they relax instead.",
+    "seconds": 30,
+    "targets": [
+      "not at all",
+      "put your feet up",
+      "I'll leave you to it"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "hosting friends",
+    "register": "social",
+    "prompt": "Your friends from abroad have asked you to make a proper British Sunday roast. Explain what you'll cook and how it'll come together.",
+    "seconds": 30,
+    "targets": [
+      "tuck in",
+      "the proof of the pudding",
+      "pud"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "hosting friends",
+    "register": "everyday",
+    "prompt": "Your parents are staying with you for a week and your flatmate is getting stressed. Reassure your flatmate and agree some house rules.",
+    "seconds": 45,
+    "targets": [
+      "flatmate",
+      "I appreciate that",
+      "it's early days"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "social",
+    "prompt": "Your office Secret Santa has a ten-pound limit and you've drawn the colleague you know least. Talk a friend through your gift ideas and which one you'll go for.",
+    "seconds": 45,
+    "targets": [
+      "Secret Santa",
+      "stocking filler",
+      "tenner"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "everyday",
+    "prompt": "A colleague from Brazil is spending her first Christmas in Britain with your family. Explain what Christmas Day will look like, from crackers to the King's speech.",
+    "seconds": 60,
+    "targets": [
+      "Christmas cracker",
+      "paper hat",
+      "royal Christmas message"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "social",
+    "prompt": "Your family argue every year about who hosts Christmas dinner. Make the case to your siblings for why it should be your turn this year.",
+    "seconds": 45,
+    "targets": [
+      "Christmas dinner",
+      "to be fair",
+      "I'm not saying, but"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "social",
+    "prompt": "Tell a friend about the work Christmas do where the karaoke got out of hand and your manager sang three songs in a row.",
+    "seconds": 45,
+    "targets": [
+      "Christmas do",
+      "let your hair down",
+      "over the top"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "everyday",
+    "prompt": "A friend from overseas has been invited to see a panto and has no idea what to expect. Explain what happens and how the audience joins in.",
+    "seconds": 45,
+    "targets": [
+      "panto",
+      "panto dame",
+      "He's behind you!"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "everyday",
+    "prompt": "Your neighbour asks if you're going to the Christmas lights switch-on in the town square. Tell her your plans and what you enjoy about it.",
+    "seconds": 30,
+    "targets": [
+      "Christmas lights switch-on",
+      "mulled wine",
+      "Christmas market"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "social",
+    "prompt": "You've received a truly hideous Christmas jumper from your aunt. Tell a friend about it, and how you reacted when you opened it.",
+    "seconds": 30,
+    "targets": [
+      "Christmas jumper",
+      "you shouldn't have",
+      "naff"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "everyday",
+    "prompt": "The Boxing Day sales are on and your partner wants to go at seven in the morning. Persuade them to stay at home instead.",
+    "seconds": 45,
+    "targets": [
+      "Boxing Day sales",
+      "lie-in",
+      "not my cup of tea"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "everyday",
+    "prompt": "Your child's nativity play is this afternoon and you've just been asked to make a donkey costume. Ring a friend and ask for help, explaining the panic.",
+    "seconds": 45,
+    "targets": [
+      "nativity play",
+      "throw together",
+      "give someone a hand"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "social",
+    "prompt": "You've been asked to explain Hogmanay to some English friends coming to Edinburgh with you for New Year. Describe the traditions they should expect.",
+    "seconds": 45,
+    "targets": [
+      "Hogmanay",
+      "first-footing",
+      "Auld Lang Syne"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "everyday",
+    "prompt": "Your neighbour asks what your New Year's resolution is. Answer honestly, and say how long you think it'll last.",
+    "seconds": 30,
+    "targets": [
+      "New Year's resolution",
+      "Dry January",
+      "we'll see"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "social",
+    "prompt": "Describe the most chaotic Christmas you've ever had, from the turkey that wouldn't fit in the oven to the relative who fell asleep under the tree.",
+    "seconds": 60,
+    "targets": [
+      "Christmas Day",
+      "all over the shop",
+      "a dog's dinner"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "everyday",
+    "prompt": "You've volunteered to organise the office Christmas party but the budget is tiny. Pitch your plan to colleagues and make it sound fun.",
+    "seconds": 45,
+    "targets": [
+      "Christmas do",
+      "on a shoestring",
+      "it might be worth"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "everyday",
+    "prompt": "A colleague asks why people get so excited about mince pies and Christmas cake. Explain your own feelings about British Christmas food.",
+    "seconds": 30,
+    "targets": [
+      "mince pie",
+      "Christmas cake",
+      "not my favourite"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "social",
+    "prompt": "You've just been carol singing round your village with a group of friends. Tell your partner how it went, including the house that turned the lights off.",
+    "seconds": 45,
+    "targets": [
+      "carol singing",
+      "mulled wine",
+      "a damp squib"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "everyday",
+    "prompt": "A colleague wants to know why everyone takes Twelfth Night so seriously about taking decorations down. Explain the tradition and whether you follow it.",
+    "seconds": 45,
+    "targets": [
+      "Twelfth Night",
+      "tinsel",
+      "bauble"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "everyday",
+    "prompt": "Your child asks whether Father Christmas will be able to find them at grandma's house. Reassure them in a kind and imaginative way.",
+    "seconds": 30,
+    "targets": [
+      "Father Christmas",
+      "Christmas stocking",
+      "Christmas Eve"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "social",
+    "prompt": "Your friends want to do a Christmas market trip to a nearby city. Recommend which one to go to and what to do there.",
+    "seconds": 45,
+    "targets": [
+      "Christmas market",
+      "mulled wine",
+      "the festive season"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "Christmas",
+    "register": "everyday",
+    "prompt": "You've been asked to say a few words at the community Christmas lunch for older residents in the village hall. Welcome everyone warmly and thank the volunteers.",
+    "seconds": 45,
+    "targets": [
+      "village hall",
+      "Happy Christmas",
+      "much appreciated"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "bank holidays",
+    "register": "social",
+    "prompt": "It's the first bank holiday weekend of the summer and your friends can't agree on a plan. Make the case for a trip to the seaside.",
+    "seconds": 45,
+    "targets": [
+      "bank holiday weekend",
+      "the seaside",
+      "stick of rock"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "bank holidays",
+    "register": "everyday",
+    "prompt": "Your neighbour asks what you're doing for the May Day bank holiday. Explain that you're going to the morris dancing in town and why you enjoy it.",
+    "seconds": 30,
+    "targets": [
+      "May Day",
+      "morris dancing",
+      "maypole"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "bank holidays",
+    "register": "everyday",
+    "prompt": "A friend from abroad wonders why so many people in Britain go on a staycation rather than abroad. Explain the appeal and recommend somewhere for a long weekend.",
+    "seconds": 45,
+    "targets": [
+      "staycation",
+      "self-catering",
+      "bank holiday"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "bank holidays",
+    "register": "social",
+    "prompt": "You spent the August bank holiday at Notting Hill Carnival. Describe the atmosphere, the food and the crowds to a friend who's never been.",
+    "seconds": 45,
+    "targets": [
+      "Notting Hill Carnival",
+      "loads",
+      "have a whale of a time"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "bank holidays",
+    "register": "everyday",
+    "prompt": "Your town is holding a street party for a royal jubilee and you're on the organising committee. Explain to residents what's planned and how they can help.",
+    "seconds": 45,
+    "targets": [
+      "street party",
+      "bunting",
+      "muck in"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "bank holidays",
+    "register": "everyday",
+    "prompt": "A colleague asks whether you're doing anything for Bonfire Night. Explain your plans and what you love or dislike about it.",
+    "seconds": 30,
+    "targets": [
+      "Bonfire Night",
+      "firework display",
+      "sparkler"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "bank holidays",
+    "register": "everyday",
+    "prompt": "A colleague from abroad asks what Remembrance Sunday is and why people wear poppies. Explain it respectfully and simply.",
+    "seconds": 45,
+    "targets": [
+      "Remembrance Sunday",
+      "poppy",
+      "two-minute silence"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "bank holidays",
+    "register": "social",
+    "prompt": "Your friend has invited you to a Burns Night supper, and you've never been. Tell another friend what you're expecting and how you feel about haggis.",
+    "seconds": 30,
+    "targets": [
+      "Burns Night",
+      "ceilidh",
+      "I'm game"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "bank holidays",
+    "register": "everyday",
+    "prompt": "It's Pancake Day and your office is holding a pancake race. Explain the tradition to a new colleague and persuade them to take part.",
+    "seconds": 45,
+    "targets": [
+      "Pancake Day",
+      "pancake race",
+      "have a go"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "bank holidays",
+    "register": "everyday",
+    "prompt": "A friend asks why so many shops are shut on Easter Monday. Explain the bank holiday and how you usually spend it.",
+    "seconds": 30,
+    "targets": [
+      "Easter Monday",
+      "Good Friday",
+      "hot cross bun"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "bank holidays",
+    "register": "social",
+    "prompt": "Describe an Easter egg hunt you organised for your nieces and nephews that went hilariously wrong when the dog found the eggs first.",
+    "seconds": 45,
+    "targets": [
+      "Easter egg hunt",
+      "Easter egg",
+      "sod's law"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "bank holidays",
+    "register": "everyday",
+    "prompt": "Your friends from overseas are here for Halloween and ask if trick-or-treating is popular in Britain. Explain how it's different from America and what you think of it.",
+    "seconds": 45,
+    "targets": [
+      "Halloween",
+      "trick-or-treating",
+      "each to their own"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "bank holidays",
+    "register": "everyday",
+    "prompt": "A neighbour asks if you're going to the Mothering Sunday lunch at the local pub. Explain your plans for the day.",
+    "seconds": 30,
+    "targets": [
+      "Mothering Sunday",
+      "carvery",
+      "book in"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "sports chat",
+    "register": "social",
+    "prompt": "Your local football team has just been relegated after a last-day defeat. Commiserate with a fellow supporter in the pub and look ahead to next season.",
+    "seconds": 45,
+    "targets": [
+      "relegation",
+      "as sick as a parrot",
+      "gutted"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "sports chat",
+    "register": "social",
+    "prompt": "A colleague asks if you watched the derby at the weekend. Give your take on the match and the controversial penalty.",
+    "seconds": 30,
+    "targets": [
+      "derby",
+      "out of order",
+      "to be honest"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "sports chat",
+    "register": "everyday",
+    "prompt": "A friend from India loves cricket but has never watched village cricket in England. Describe what a Saturday match is like, from the tea interval to the rain delays.",
+    "seconds": 45,
+    "targets": [
+      "village cricket",
+      "tea interval",
+      "rain stopped play"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "sports chat",
+    "register": "social",
+    "prompt": "Your non-league team has just beaten a Premier League side in the FA Cup. Celebrate with friends and describe the winning goal.",
+    "seconds": 45,
+    "targets": [
+      "giant-killing",
+      "the FA Cup",
+      "non-league"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "sports chat",
+    "register": "social",
+    "prompt": "Your friend has never understood the offside rule and keeps asking you about it at matches. Explain it simply over a pint.",
+    "seconds": 30,
+    "targets": [
+      "it's not rocket science",
+      "pint",
+      "the penny dropped"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "sports chat",
+    "register": "everyday",
+    "prompt": "A visitor from abroad wants to go to Wimbledon. Explain how to get tickets, what the queue is like, and what to eat there.",
+    "seconds": 45,
+    "targets": [
+      "Wimbledon",
+      "queue",
+      "it might be worth"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "sports chat",
+    "register": "social",
+    "prompt": "You've joined a Sunday league football team and played your first match. Tell a friend how it went, including your own goal.",
+    "seconds": 45,
+    "targets": [
+      "Sunday league",
+      "own goal",
+      "take it on the chin"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "sports chat",
+    "register": "everyday",
+    "prompt": "Your neighbour asks if you're putting money on the Grand National in the office sweepstake. Explain how the sweepstake works and which horse you've drawn.",
+    "seconds": 30,
+    "targets": [
+      "the Grand National",
+      "sweepstake",
+      "each way"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "sports chat",
+    "register": "social",
+    "prompt": "Your friend has just bought a season ticket for a club that hasn't won anything in decades. Gently tease them and then admit why you understand the loyalty.",
+    "seconds": 45,
+    "targets": [
+      "season ticket",
+      "supporter",
+      "through thick and thin"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "sports chat",
+    "register": "everyday",
+    "prompt": "A colleague from the United States asks you to explain the Ashes and why a Test match can last five days. Give a clear, enthusiastic explanation.",
+    "seconds": 45,
+    "targets": [
+      "the Ashes",
+      "Test match",
+      "innings"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "sports chat",
+    "register": "social",
+    "prompt": "Your team scored a winner in injury time and your friend missed it because they left early. Tell them what they missed in vivid detail.",
+    "seconds": 30,
+    "targets": [
+      "injury time",
+      "you're joking",
+      "gutted"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "sports chat",
+    "register": "everyday",
+    "prompt": "Your neighbour asks how your training is going for the London Marathon. Give an honest update, aches and all.",
+    "seconds": 30,
+    "targets": [
+      "the London Marathon",
+      "on the mend",
+      "touch wood"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "sports chat",
+    "register": "social",
+    "prompt": "At the pub, a friend says darts isn't a proper sport. Argue the opposite and describe the atmosphere at a big match.",
+    "seconds": 45,
+    "targets": [
+      "darts",
+      "one hundred and eighty",
+      "I'm not sure I'd go that far"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "sports chat",
+    "register": "everyday",
+    "prompt": "You've been asked to explain the Six Nations to a colleague who has never watched rugby. Cover the teams, the atmosphere and why it matters to fans.",
+    "seconds": 45,
+    "targets": [
+      "the Six Nations",
+      "rugby",
+      "scrum"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "sports chat",
+    "register": "social",
+    "prompt": "Your five-a-side team has lost every match this season. Give a short pep talk in the changing room before tonight's game.",
+    "seconds": 30,
+    "targets": [
+      "five-a-side",
+      "pull your socks up",
+      "on the back foot"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "sports chat",
+    "register": "everyday",
+    "prompt": "A visitor asks you to explain the Boat Race and why people watch it from the riverbank. Describe the event and recommend where to stand.",
+    "seconds": 45,
+    "targets": [
+      "the Boat Race",
+      "towpath",
+      "it might be worth"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "sports chat",
+    "register": "social",
+    "prompt": "Your mate wants to become the manager of your Sunday league team. Tell him honestly whether he'd be good at it.",
+    "seconds": 45,
+    "targets": [
+      "the gaffer",
+      "all mouth and no trousers",
+      "no offence, but"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "sports chat",
+    "register": "everyday",
+    "prompt": "A neighbour sees you carrying your bowls bag and asks how you got into the sport. Tell them about the club and its members.",
+    "seconds": 30,
+    "targets": [
+      "bowls",
+      "the salt of the earth",
+      "funnily enough"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "sports chat",
+    "register": "everyday",
+    "prompt": "A friend asks you to recommend a sport for a complete beginner who wants to get fit and make friends. Suggest one and explain why.",
+    "seconds": 45,
+    "targets": [
+      "netball",
+      "parkrun",
+      "give it a whirl"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "everyday",
+    "prompt": "You're running the tombola at the village fête and the queue is building. Explain to the next customer how it works and persuade them to buy tickets.",
+    "seconds": 45,
+    "targets": [
+      "tombola",
+      "village fête",
+      "go on then"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "everyday",
+    "prompt": "The village fête committee needs a new chair, and everyone is looking at you. Explain why you're willing to take it on and what you'd change.",
+    "seconds": 60,
+    "targets": [
+      "village fête",
+      "take on",
+      "I'll see what I can do"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "everyday",
+    "prompt": "You've entered your Victoria sponge into the cake competition at the village fête. Describe it to the judge with some modest humour.",
+    "seconds": 30,
+    "targets": [
+      "village fête",
+      "not bad",
+      "oh, it's nothing"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "everyday",
+    "prompt": "The village hall needs a new roof and you're organising a fundraiser. Pitch your idea for a quiz and raffle to the parish committee.",
+    "seconds": 45,
+    "targets": [
+      "village hall",
+      "raffle",
+      "chip in"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "social",
+    "prompt": "Tell a friend about the village fête where the dog show descended into chaos when a terrier stole the sausages from the barbecue.",
+    "seconds": 45,
+    "targets": [
+      "village fête",
+      "kerfuffle",
+      "malarkey"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "everyday",
+    "prompt": "A neighbour asks whether you'd like to join the local am-dram society. Explain why you might, or why it's really not for you.",
+    "seconds": 30,
+    "targets": [
+      "am-dram",
+      "it's not really for me",
+      "we'll see"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "everyday",
+    "prompt": "You're a new member of the allotment society and the committee want to know about your plans for your plot. Describe what you hope to grow.",
+    "seconds": 45,
+    "targets": [
+      "allotment",
+      "make hay while the sun shines",
+      "rule of thumb"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "social",
+    "prompt": "Your friend has been roped into running the coconut shy at the school fair. Give them some advice on how to make it fun and profitable.",
+    "seconds": 45,
+    "targets": [
+      "coconut shy",
+      "rope in",
+      "tell you what"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "everyday",
+    "prompt": "The book club you've joined has picked a novel you found deeply boring. Give your honest view at the meeting without offending the person who chose it.",
+    "seconds": 45,
+    "targets": [
+      "it's very... different",
+      "not my cup of tea",
+      "each to their own"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "everyday",
+    "prompt": "You've joined a local walking group and a member asks how you're finding it. Tell them about your favourite walk so far.",
+    "seconds": 30,
+    "targets": [
+      "footpath",
+      "bridleway",
+      "lovely"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "everyday",
+    "prompt": "Your local brass band is struggling to recruit younger members. Make a short appeal at the village hall to persuade people to join.",
+    "seconds": 45,
+    "targets": [
+      "brass band",
+      "village hall",
+      "give it a whirl"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "everyday",
+    "prompt": "The village green is under threat from a housing development. Explain to a new resident why it matters to the community and what's being done.",
+    "seconds": 45,
+    "targets": [
+      "village green",
+      "councillor",
+      "to some extent"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "everyday",
+    "prompt": "You're selling items at a jumble sale and a customer is haggling hard over a lamp. Negotiate a fair price with humour.",
+    "seconds": 30,
+    "targets": [
+      "jumble sale",
+      "quid",
+      "suits me"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "social",
+    "prompt": "You've been asked to host the quiz night at the cricket club for the first time. Introduce yourself and explain the rules to the teams.",
+    "seconds": 45,
+    "targets": [
+      "pub quiz",
+      "banter",
+      "get the ball rolling"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "everyday",
+    "prompt": "You've been asked to judge the scarecrow competition at the village fête and it's a tie. Explain your decision to the crowd diplomatically.",
+    "seconds": 60,
+    "targets": [
+      "village fête",
+      "neck and neck",
+      "horses for courses"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "everyday",
+    "prompt": "The harvest festival is coming up and the school has asked for donations. Explain to your neighbour what's needed and how she can help.",
+    "seconds": 30,
+    "targets": [
+      "harvest festival",
+      "stock up",
+      "do you mind?"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "social",
+    "prompt": "Your friend is thinking of joining the local morris dancing side and is worried about looking silly. Encourage them to give it a go.",
+    "seconds": 45,
+    "targets": [
+      "morris dancing",
+      "have a go",
+      "you're having me on"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "everyday",
+    "prompt": "The garden club committee has asked you to give a short talk about your prize-winning roses. Describe how you grow them and offer tips.",
+    "seconds": 45,
+    "targets": [
+      "secateurs",
+      "elbow grease",
+      "rule of thumb"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "village fêtes and clubs",
+    "register": "everyday",
+    "prompt": "You've won the raffle at the village fête but the prize is something you really don't want. Respond graciously when the organiser hands it over.",
+    "seconds": 30,
+    "targets": [
+      "raffle",
+      "that's very kind of you",
+      "oh well"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "school gate",
+    "register": "everyday",
+    "prompt": "Another parent at the school gate asks whether your child is enjoying Year 7. Give a friendly, honest update.",
+    "seconds": 30,
+    "targets": [
+      "Year 7",
+      "secondary school",
+      "settle in"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "school gate",
+    "register": "everyday",
+    "prompt": "The parents' association is asking for volunteers for the summer fair and another parent asks if you'll help. Explain what you can and can't commit to.",
+    "seconds": 45,
+    "targets": [
+      "muck in",
+      "I'd rather not",
+      "up to a point"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "school gate",
+    "register": "everyday",
+    "prompt": "A new parent at the school gate seems lost and doesn't know anyone. Introduce yourself and explain how things work at the school.",
+    "seconds": 45,
+    "targets": [
+      "form tutor",
+      "half-term",
+      "feel free to"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "school gate",
+    "register": "everyday",
+    "prompt": "Another parent mentions that half-term starts next week and asks about your plans. Chat about what you're doing with the children.",
+    "seconds": 30,
+    "targets": [
+      "half-term",
+      "day out",
+      "we'll see"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "school gate",
+    "register": "everyday",
+    "prompt": "Your child came home upset about something another child said. Raise it calmly with that child's parent at the school gate.",
+    "seconds": 45,
+    "targets": [
+      "can I have a quick word?",
+      "I'm sure there's a good reason",
+      "these things happen"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "school gate",
+    "register": "everyday",
+    "prompt": "Parents' evening is tomorrow and another parent asks for advice, as it's their first one. Tell them what to expect and what questions to ask.",
+    "seconds": 45,
+    "targets": [
+      "parents' evening",
+      "form tutor",
+      "it might be worth"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "school gate",
+    "register": "everyday",
+    "prompt": "A parent asks if you'd be able to pick up her son after school on Thursday. Agree, and check the arrangements.",
+    "seconds": 30,
+    "targets": [
+      "pick up",
+      "no bother",
+      "does that work for you?"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "school gate",
+    "register": "everyday",
+    "prompt": "An INSET day has caught you by surprise and you need childcare. Ask a friend at the school gate whether her children could have yours for the day.",
+    "seconds": 45,
+    "targets": [
+      "INSET day",
+      "I don't suppose you could",
+      "I owe you one"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "school gate",
+    "register": "social",
+    "prompt": "Tell a friend about the parents' group chat that has descended into a heated row about lost jumpers.",
+    "seconds": 30,
+    "targets": [
+      "kerfuffle",
+      "a storm in a teacup",
+      "row"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "school gate",
+    "register": "everyday",
+    "prompt": "Another parent asks how you're finding the new head teacher, who has changed the uniform rules. Share a balanced opinion without getting drawn into gossip.",
+    "seconds": 45,
+    "targets": [
+      "head teacher",
+      "to be fair",
+      "it's early days"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "school gate",
+    "register": "everyday",
+    "prompt": "You're on the school run and another parent's car is blocking your drive again. Mention it to her lightly but clearly.",
+    "seconds": 30,
+    "targets": [
+      "school run",
+      "sorry to be a pain",
+      "would you mind"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "school gate",
+    "register": "everyday",
+    "prompt": "A parent at the gate asks whether you're worried about the catchment area for secondary schools. Talk through your thoughts on the choice ahead.",
+    "seconds": 45,
+    "targets": [
+      "catchment area",
+      "secondary school",
+      "the jury is still out"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "school gate",
+    "register": "everyday",
+    "prompt": "Your child has forgotten their PE kit for the third time this month. Ask another parent at the gate if there's a spare one anywhere.",
+    "seconds": 30,
+    "targets": [
+      "PE",
+      "kit",
+      "you're a star"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "school gate",
+    "register": "everyday",
+    "prompt": "The school is planning a sponsored walk and another parent wants your opinion on whether it's a good idea. Give your view and suggest how to get more families involved.",
+    "seconds": 45,
+    "targets": [
+      "have you thought about",
+      "chip in",
+      "I'd suggest"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "school gate",
+    "register": "everyday",
+    "prompt": "A parent you see every day finally introduces herself after two years. Respond warmly and make a bit of friendly conversation.",
+    "seconds": 30,
+    "targets": [
+      "nice to meet you",
+      "funnily enough",
+      "how's it going?"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "school gate",
+    "register": "everyday",
+    "prompt": "Another parent tells you their child is anxious about sitting the eleven-plus. Offer some reassurance and share what helped your family.",
+    "seconds": 45,
+    "targets": [
+      "eleven-plus",
+      "grammar school",
+      "it's not the end of the world"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "school gate",
+    "register": "everyday",
+    "prompt": "The lollipop lady outside the school is retiring after twenty years. Say a few words of thanks as parents gather to give her a card.",
+    "seconds": 30,
+    "targets": [
+      "lollipop lady",
+      "much appreciated",
+      "all the best"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "school gate",
+    "register": "everyday",
+    "prompt": "Another parent complains that the homework is far too much for their seven-year-old. Respond diplomatically, agreeing only up to a point.",
+    "seconds": 45,
+    "targets": [
+      "up to a point",
+      "I see where you're coming from",
+      "having said that"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "school gate",
+    "register": "everyday",
+    "prompt": "You've been asked to help with the school nativity costumes and you can't sew. Explain your limitations to the organiser and offer something else instead.",
+    "seconds": 45,
+    "targets": [
+      "nativity play",
+      "I'm no expert, but",
+      "I'll see what I can do"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "school gate",
+    "register": "everyday",
+    "prompt": "A parent asks whether your child has settled in at nursery. Describe the first few weeks, tears and all.",
+    "seconds": 30,
+    "targets": [
+      "nursery",
+      "settle in",
+      "it's early days"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "school gate",
+    "register": "social",
+    "prompt": "Tell a friend about the school sports day where you were talked into the parents' race and fell over at the finish line.",
+    "seconds": 45,
+    "targets": [
+      "egg-and-spoon race",
+      "rope in",
+      "drop a clanger"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "school gate",
+    "register": "everyday",
+    "prompt": "Another parent asks your advice about whether to let their child walk to school alone for the first time. Share your thoughts and how you handled it.",
+    "seconds": 45,
+    "targets": [
+      "zebra crossing",
+      "lollipop lady",
+      "I'd be inclined to"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "school gate",
+    "register": "everyday",
+    "prompt": "The school has announced an unexpected closure because of a broken boiler. Discuss with another parent how you'll each manage childcare.",
+    "seconds": 30,
+    "targets": [
+      "boiler",
+      "childminder",
+      "up in the air"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "school gate",
+    "register": "everyday",
+    "prompt": "You're running late for pick-up and need another parent to collect your child. Ring her and explain, keeping it brief but grateful.",
+    "seconds": 45,
+    "targets": [
+      "run late",
+      "I owe you one",
+      "thanks ever so much"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "school gate",
+    "register": "everyday",
+    "prompt": "A new family has joined the class from abroad and the parents are unsure how British school terms work. Explain the term dates, half-terms and INSET days.",
+    "seconds": 45,
+    "targets": [
+      "term",
+      "half-term",
+      "INSET day"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "school gate",
+    "register": "everyday",
+    "prompt": "A parent asks if your child is coming to her son's fancy-dress birthday party on Saturday. Reply warmly, and check what your child should wear and bring.",
+    "seconds": 30,
+    "targets": [
+      "fancy dress",
+      "is it alright if",
+      "lovely"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "catching up",
+    "register": "social",
+    "prompt": "You've bumped into an old school friend you haven't seen for fifteen years. Catch up on what you've both been doing since you left.",
+    "seconds": 60,
+    "targets": [
+      "bump into",
+      "donkey's years",
+      "yonks"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "catching up",
+    "register": "social",
+    "prompt": "An old university friend has rung out of the blue. Tell them what's been happening in your life since graduation.",
+    "seconds": 45,
+    "targets": [
+      "out of the blue",
+      "uni",
+      "catch up"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "catching up",
+    "register": "social",
+    "prompt": "A friend you lost touch with during a busy few years messages to suggest meeting up. Reply with a voice note explaining why you went quiet and suggesting a plan.",
+    "seconds": 45,
+    "targets": [
+      "meet up",
+      "up to my eyes",
+      "I'm game"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "catching up",
+    "register": "social",
+    "prompt": "You meet an old flatmate in a café and she asks how your love life is. Give a humorous update.",
+    "seconds": 30,
+    "targets": [
+      "other half",
+      "head over heels",
+      "tell me about it"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "catching up",
+    "register": "social",
+    "prompt": "An old friend tells you she's just quit her job to travel for a year. React and ask about her plans.",
+    "seconds": 45,
+    "targets": [
+      "take the plunge",
+      "the world is your oyster",
+      "good on you"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "catching up",
+    "register": "social",
+    "prompt": "You're having a long-overdue catch-up with your best friend, who has just had a baby. Ask about life with a newborn and share your own news.",
+    "seconds": 45,
+    "targets": [
+      "shattered",
+      "over the moon",
+      "catch up"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "catching up",
+    "register": "social",
+    "prompt": "An old friend asks whether you're still in touch with the rest of your university group. Fill them in on what everyone's up to.",
+    "seconds": 30,
+    "targets": [
+      "goss",
+      "get up to",
+      "as it happens"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "catching up",
+    "register": "social",
+    "prompt": "You're meeting a childhood friend who has moved back to your home town after twenty years abroad. Tell them how the town has changed and where they should go.",
+    "seconds": 60,
+    "targets": [
+      "high street",
+      "not a patch on",
+      "charity shop"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "catching up",
+    "register": "social",
+    "prompt": "An old colleague you haven't seen in years has just been made redundant. Catch up and offer some encouragement without sounding patronising.",
+    "seconds": 45,
+    "targets": [
+      "made redundant",
+      "a blessing in disguise",
+      "every cloud has a silver lining"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "catching up",
+    "register": "social",
+    "prompt": "You run into your old maths teacher in the supermarket. Tell them what you're doing now and thank them for something they did.",
+    "seconds": 30,
+    "targets": [
+      "maths",
+      "funnily enough",
+      "much appreciated"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "catching up",
+    "register": "social",
+    "prompt": "Your old friend reminds you of a ridiculous holiday you went on together years ago. Retell the story from your side.",
+    "seconds": 45,
+    "targets": [
+      "package holiday",
+      "go pear-shaped",
+      "Pete Tong"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "catching up",
+    "register": "social",
+    "prompt": "You've just reconnected with a cousin after a long family fallout. Talk about how you both feel and suggest a fresh start.",
+    "seconds": 45,
+    "targets": [
+      "water under the bridge",
+      "bury the hatchet",
+      "turn over a new leaf"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "catching up",
+    "register": "social",
+    "prompt": "An old school friend asks whether you've still got that terrible haircut from Year 11. Respond with a laugh and an update.",
+    "seconds": 30,
+    "targets": [
+      "Year 11",
+      "barnet",
+      "pull someone's leg"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "catching up",
+    "register": "social",
+    "prompt": "You're at a school reunion and someone you don't recognise is chatting to you as if you're best friends. Handle the situation gracefully.",
+    "seconds": 45,
+    "targets": [
+      "ring a bell",
+      "you've lost me",
+      "I'm terribly sorry"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "catching up",
+    "register": "social",
+    "prompt": "A friend has just moved to Manchester and you haven't seen her since. Ring her to find out how she's settling in and when you can visit.",
+    "seconds": 45,
+    "targets": [
+      "settle in",
+      "made up",
+      "give someone a bell"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "catching up",
+    "register": "social",
+    "prompt": "You haven't seen your godson since he was a toddler, and he's now off to university. Chat with him about his plans and offer some advice.",
+    "seconds": 60,
+    "targets": [
+      "Freshers' Week",
+      "halls",
+      "student loan"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "catching up",
+    "register": "social",
+    "prompt": "An old friend says you look exactly the same as you did twenty years ago. Respond with some modest humour.",
+    "seconds": 30,
+    "targets": [
+      "you're having me on",
+      "long in the tooth",
+      "bless"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "catching up",
+    "register": "social",
+    "prompt": "You've caught up with your oldest friend over a long lunch and she's going through a hard time. Offer support and make plans to see her again soon.",
+    "seconds": 45,
+    "targets": [
+      "through thick and thin",
+      "I'm with you",
+      "we must do this again"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "catching up",
+    "register": "social",
+    "prompt": "A friend from your gap year has come to stay. Reminisce about a memorable moment from your travels and how it changed you.",
+    "seconds": 45,
+    "targets": [
+      "gap year",
+      "on a shoestring",
+      "at a loose end"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "Your family day out at the seaside featured a seagull stealing your chips, a parking ticket and an afternoon of rain. Tell a friend the whole saga with good humour.",
+    "seconds": 60,
+    "targets": [
+      "it never rains but it pours",
+      "chippy",
+      "seafront"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "On a camping trip in Wales, your tent blew away in the night and you ended up sleeping in the car with your in-laws. Describe the weekend to a friend.",
+    "seconds": 60,
+    "targets": [
+      "cream crackered",
+      "sod's law",
+      "palaver"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "You took your parents round a stately home and your dad set off the alarm by leaning on a priceless chair. Tell a colleague what happened next.",
+    "seconds": 45,
+    "targets": [
+      "stately home",
+      "gobsmacked",
+      "put your foot in it"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "Your narrowboat holiday ended with the boat stuck in a lock and a rescue by a group of cheerful pensioners. Tell your friends the story.",
+    "seconds": 60,
+    "targets": [
+      "narrowboat",
+      "towpath",
+      "cack-handed"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "On a theme park trip with your nephews, you were the only one who was sick on the rollercoaster. Describe the day to your sister.",
+    "seconds": 45,
+    "targets": [
+      "day out",
+      "collywobbles",
+      "be sick"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "On a hen do in Blackpool, the coach broke down and you spent four hours at the motorway services in fancy dress. Tell a friend all about it.",
+    "seconds": 60,
+    "targets": [
+      "hen do",
+      "fancy dress",
+      "motorway services"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "Your romantic picnic in the park was ruined by wasps, a rainstorm and a forgotten corkscrew. Describe it to a friend, making fun of yourself.",
+    "seconds": 45,
+    "targets": [
+      "a damp squib",
+      "chucking it down",
+      "typical"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "On a walking holiday, you followed the Ordnance Survey map confidently for six miles in completely the wrong direction. Tell your colleagues how you realised.",
+    "seconds": 45,
+    "targets": [
+      "Ordnance Survey",
+      "footpath",
+      "the penny dropped"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "At a music festival, your wellies got stuck in the mud and you lost your phone, your friends and finally your tent. Describe the weekend to your flatmate.",
+    "seconds": 60,
+    "targets": [
+      "Glastonbury",
+      "wellies",
+      "all over the shop"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "You bought tickets for a day at a county cricket match and spent the entire day sheltering from rain in the pavilion. Tell a friend how you passed the time.",
+    "seconds": 45,
+    "targets": [
+      "rain stopped play",
+      "county cricket",
+      "mustn't grumble"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "You took three toddlers to the zoo and everything went wrong, from a lost shoe to a meltdown at the penguins. Describe the day to another parent.",
+    "seconds": 45,
+    "targets": [
+      "pushchair",
+      "strop",
+      "at sixes and sevens"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "At your cousin's wedding, you sat at the wrong table, spilt red wine on the bride's mother and were asked to make a speech without warning. Tell your flatmate everything.",
+    "seconds": 60,
+    "targets": [
+      "drop a clanger",
+      "put your foot in it",
+      "Dutch courage"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "You booked a city break to York and discovered at reception that the hotel booking was for the following month. Explain to a friend how you rescued the weekend.",
+    "seconds": 45,
+    "targets": [
+      "city break",
+      "youth hostel",
+      "cock-up"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "You went punting in Cambridge and fell into the river in front of a crowd of tourists. Tell a friend how it happened and what you did next.",
+    "seconds": 45,
+    "targets": [
+      "wally",
+      "plonker",
+      "take it on the chin"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "During a driving lesson you stalled at a roundabout eight times while a busload of schoolchildren watched and cheered. Retell the moment to your colleagues.",
+    "seconds": 60,
+    "targets": [
+      "roundabout",
+      "learner driver",
+      "L-plates"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "At a seaside B&B, the landlady locked the front door at ten sharp and you had to climb in through a window. Describe the night to a friend.",
+    "seconds": 45,
+    "targets": [
+      "B&B",
+      "guest house",
+      "you're having me on"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "Your day trip to the Highlands was so wet that the only thing you saw was the inside of a tea room. Tell a friend about it with dry humour.",
+    "seconds": 45,
+    "targets": [
+      "dreich",
+      "cuppa",
+      "as it happens"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "Your uncle set the garden fence on fire at the family barbecue and the fire brigade arrived during pudding. Describe the afternoon to a friend.",
+    "seconds": 60,
+    "targets": [
+      "pud",
+      "kerfuffle",
+      "over the top"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "You entered a cheese-rolling event and were knocked flat before the cheese had even left the top of the hill. Tell your mates how it went.",
+    "seconds": 45,
+    "targets": [
+      "cheese rolling",
+      "bonkers",
+      "crackers"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "You spent a whole week of a ski trip in the beginners' class with a group of five-year-olds. Describe the week to your friends.",
+    "seconds": 45,
+    "targets": [
+      "like a fish out of water",
+      "eat humble pie",
+      "take it on the chin"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "You turned up to a party dressed as a pirate, only to discover it wasn't fancy dress. Tell a colleague how you handled the evening.",
+    "seconds": 30,
+    "targets": [
+      "fancy dress",
+      "as daft as a brush",
+      "oh my days"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "Your pub quiz team had the right answer to the jackpot question but wrote it down wrong. Describe the moment the answer was read out.",
+    "seconds": 45,
+    "targets": [
+      "pub quiz",
+      "gutted",
+      "close but no cigar"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "On a coach tour of the Cotswolds, the driver got lost and you ended up reversing out of a farmyard. Tell your friends about the day.",
+    "seconds": 60,
+    "targets": [
+      "coach",
+      "country lane",
+      "cattle grid"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "While volunteering at the village fête, you accidentally sold the vicar's bicycle at the jumble sale. Describe how you discovered the mistake and put it right.",
+    "seconds": 45,
+    "targets": [
+      "jumble sale",
+      "village fête",
+      "caught red-handed"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "After a night out, you got on the wrong train, fell asleep and woke up at the end of the line. Tell your flatmate how you got home.",
+    "seconds": 45,
+    "targets": [
+      "kip",
+      "nod off",
+      "the sticks"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "You went wild swimming in a Scottish loch with friends and the water was so cold nobody lasted ten seconds. Describe the experience.",
+    "seconds": 45,
+    "targets": [
+      "baltic",
+      "nesh",
+      "bracing"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "The holiday cottage you rented in Cornwall had no phone signal, no hot water and an owner who swore it was haunted. Describe the week to a friend.",
+    "seconds": 60,
+    "targets": [
+      "cottage",
+      "holiday let",
+      "dodgy"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "You tried to impress a date by cooking a curry from scratch and set off every smoke alarm in the block. Describe the evening honestly.",
+    "seconds": 45,
+    "targets": [
+      "from scratch",
+      "make a pig's ear of",
+      "a dog's breakfast"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "Your dad tried to use the self-service till at the supermarket and somehow summoned the manager three times. Describe the scene to your brother.",
+    "seconds": 30,
+    "targets": [
+      "till",
+      "muppet",
+      "bless"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "funny story",
+    "register": "social",
+    "prompt": "You took your gran to the races for her birthday and she ended up winning more than the rest of the family put together. Tell a friend about the day.",
+    "seconds": 45,
+    "targets": [
+      "bookie",
+      "each way",
+      "minted"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "giving directions",
+    "register": "everyday",
+    "prompt": "A tourist outside the station asks you how to get to the cathedral. Give clear directions using local landmarks.",
+    "seconds": 45,
+    "targets": [
+      "traffic lights",
+      "high street",
+      "pedestrian precinct"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "giving directions",
+    "register": "everyday",
+    "prompt": "Someone stops you on the street to ask where the nearest cashpoint is. Give them simple directions.",
+    "seconds": 30,
+    "targets": [
+      "cashpoint",
+      "corner shop",
+      "newsagent"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "giving directions",
+    "register": "everyday",
+    "prompt": "A delivery driver rings because his sat nav can't find your house. Talk him through the last part of the route.",
+    "seconds": 45,
+    "targets": [
+      "sat nav",
+      "cul-de-sac",
+      "mini-roundabout"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "giving directions",
+    "register": "everyday",
+    "prompt": "A visitor asks how to get from your town to the motorway while avoiding the rush-hour traffic. Give them the best route and a tip about where to stop.",
+    "seconds": 45,
+    "targets": [
+      "slip road",
+      "dual carriageway",
+      "rat run"
+    ]
+  },
+  {
+    "domain": "social life",
+    "category": "giving directions",
+    "register": "everyday",
+    "prompt": "A lost student on campus asks where the library is. Explain the route and what landmarks to look out for.",
+    "seconds": 30,
+    "targets": [
+      "Students' Union",
+      "footpath",
+      "head off"
+    ]
+  }
+]

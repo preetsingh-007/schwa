@@ -22,6 +22,8 @@ import ResultView from './ResultView';
 type Phase = 'idle' | 'recording' | 'analyzing' | 'result';
 
 const SKIP_WORDS = /^(skip|next|skip it|next one|next prompt|pass)\.?$/i;
+/** How many recently served prompts the bandit avoids (skips leave no outcome to learn from). */
+const RECENT_MAX = 25;
 
 function spokenPrompt(p: Prompt, vocabNames: string[]): string {
   if (p.mode === 'shadow') return p.text;
@@ -77,12 +79,13 @@ export default function PracticeArena({ tierMode, focusPhoneme, clearFocus, open
    * level (with some review from the level below); Auto mixes it in with the
    * curated tiers. The bandit ranks either pool the same way.
    */
+  const recentIds = useRef<string[]>([]);
   const pickNext = useCallback(async (excludeId?: string): Promise<Prompt | null> => {
     const suggested = suggestTier(learner);
     const roll = Math.random();
     const words = tierMode === 'words' || !!focusCard || (tierMode === 'auto' && roll < 0.2);
     const shadow = !words && (tierMode === 'shadow' || (tierMode === 'auto' && roll < (suggested === 1 ? 0.6 : 0.4)));
-    const ctx = { learner, vocab: vocabCards, stats: promptStats, now: Date.now(), excludeId, focusPhoneme: focusPhoneme ?? undefined };
+    const ctx = { learner, vocab: vocabCards, stats: promptStats, now: Date.now(), excludeId, recent: new Set(recentIds.current), focusPhoneme: focusPhoneme ?? undefined };
     let chosen: Prompt | null = null;
     if (words) {
       try {
@@ -125,6 +128,7 @@ export default function PracticeArena({ tierMode, focusPhoneme, clearFocus, open
       }
     }
     if (!chosen) chosen = selectNextPrompt(allPrompts, { ...ctx, tier: typeof tierMode === 'number' ? tierMode : tierMode === 'auto' ? suggested : 1 })?.prompt ?? null;
+    if (chosen) recentIds.current = [chosen.id, ...recentIds.current.filter((x) => x !== chosen.id)].slice(0, RECENT_MAX);
     setPrompt(chosen);
     promptRef.current = chosen;
     setAttempt(1); attemptRef.current = 1;

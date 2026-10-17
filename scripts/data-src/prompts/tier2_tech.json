@@ -1,0 +1,3647 @@
+[
+  {
+    "domain": "software",
+    "category": "status update",
+    "verbose": "Actually what I wanted to tell you is that the payment integration work is going on and it is going on fine only, but there is one dependency from the other team which is still pending from their side, so that is the only thing.",
+    "reference": "The payments integration is going well — the only hold-up is one dependency on the other team.",
+    "targets": [
+      "hold up"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "incident",
+    "verbose": "So basically what happened is that last night around two o'clock the database server went down suddenly, and because of that the whole checkout was not working for almost forty minutes, and we are still trying to find out what is the root cause of the same.",
+    "reference": "The database fell over at 2 a.m. and took checkout down for forty minutes. We're still looking into why.",
+    "targets": [
+      "look into"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "estimate",
+    "verbose": "Honestly speaking I cannot give you the exact date because it depends on many-many things, but if you are asking me roughly, roughly I would say it will take somewhere around two to three weeks only, maybe little bit more if any issues are coming.",
+    "reference": "As a ballpark, two to three weeks — possibly more if anything crops up.",
+    "targets": [
+      "ballpark",
+      "crop up"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "pushback",
+    "verbose": "I don't want to say no to you, but actually if we are adding this new feature also in this same sprint, then the testing will not happen properly and the quality will go down, so I am thinking it is not a good idea to do like that.",
+    "reference": "Squeezing this into the sprint would mean cutting corners on testing, so I'd rather not.",
+    "targets": [
+      "cut corners"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "code review",
+    "verbose": "Hi, I just went through your pull request and overall it is looking good only, but there are one-two small-small things I wanted to point out, like the naming of some variables is not very clear and one function is doing too many things at the same time.",
+    "reference": "Only a few minor comments: some variable names are unclear, and one function's doing too much.",
+    "targets": [
+      "only a few minor comments"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "request",
+    "verbose": "Kindly do the needful and please review my code at the earliest possible because the release is there tomorrow itself and without your approval I cannot merge it, so please do it on priority basis if you are able to.",
+    "reference": "Any chance you could review my PR today? I need your sign-off before tomorrow's release.",
+    "targets": [
+      "any chance you could",
+      "sign-off"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "handover",
+    "verbose": "Before I go on leave I wanted to tell you everything about the project, so basically the main thing is that the deployment script is very sensitive and you have to run it in a particular order only, otherwise it will break everything, I am telling you from experience.",
+    "reference": "Before I go on leave: the deployment script is fiddly — run it in the right order or it'll break.",
+    "targets": [
+      "fiddly"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "retro",
+    "verbose": "What I am feeling is that in this sprint we took too many things on our plate at one time and that is why many tasks were half-done at the end, so next time we should take less things and complete them fully instead.",
+    "reference": "We overcommitted this sprint. Next time, let's take on less and finish it properly.",
+    "targets": [
+      "take on"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "technical debt",
+    "verbose": "The thing is that this old module was written many years back by some other people and nobody actually understands it fully now, and every time we touch it something else is breaking, so we really need to rewrite the whole thing from the beginning.",
+    "reference": "This legacy module's untenable — nobody understands it and every change breaks something. Let's rewrite it from scratch.",
+    "targets": [
+      "untenable",
+      "from scratch"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "on-call",
+    "verbose": "I wanted to inform you that I am not able to do the on-call duty this weekend because of some family function which is already fixed from before, so if possible somebody else can do it and I will do their week in return.",
+    "reference": "I can't do on-call this weekend — family commitment. Could anyone stand in for me? I'll return the favour.",
+    "targets": [
+      "stand in for"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "deployment",
+    "verbose": "So we were planning to deploy on Thursday, but now management is saying that we should prepone it to Tuesday, which is creating a lot of pressure on the team because testing is not yet completed, and I don't know what to do about it.",
+    "reference": "Management want the deploy moved up to Tuesday, but testing isn't finished. That's a big ask.",
+    "targets": [
+      "a big ask"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "architecture",
+    "verbose": "Actually what I am trying to say is that if we are going with microservices for this small application, then it will become very complex unnecessarily, and for a team of our size a single application is more than enough, according to my opinion.",
+    "reference": "For a team our size, microservices would be overkill — a single app is the pragmatic choice.",
+    "targets": [
+      "pragmatic"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "testing",
+    "verbose": "The automation tests are failing again and again randomly, sometimes they are passing and sometimes they are failing without any change in the code, so nobody is trusting the test results now and people are just ignoring them, which is not good.",
+    "reference": "Our tests are flaky, so people have stopped trusting them — not ideal.",
+    "targets": [
+      "not ideal"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "documentation",
+    "verbose": "There is no proper documentation for this API at all, so every new person who is joining is coming and asking the same-same questions to me again and again, and I am spending half of my day only answering those questions.",
+    "reference": "There's no API documentation, so I spend half my day answering the same questions. It's a real bottleneck.",
+    "targets": [
+      "bottleneck"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "stakeholder email",
+    "verbose": "Dear all, this is to inform you that the release which was planned for this Friday is getting postponed to next week due to some unavoidable issues in the testing, and we regret for the inconvenience caused to all of you.",
+    "reference": "Friday's release is slipping to next week owing to testing issues. We apologise for any inconvenience.",
+    "targets": [
+      "we apologise for any inconvenience"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "hiring",
+    "verbose": "We interviewed that candidate yesterday and technically he is very strong, no doubt about that, but the communication part was little bit weak and he was not able to explain his own design properly when we were asking questions.",
+    "reference": "Technically strong, but he struggled to articulate his own design.",
+    "targets": [
+      "articulate"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "onboarding",
+    "verbose": "For the first one week, I am thinking that the new joiner should only set up the laptop and read the code and attend the meetings, and we should not give any real work to him so quickly because that will create pressure.",
+    "reference": "Let's give the new starter a week to settle in before any real work.",
+    "targets": [
+      "settle in"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "prioritisation",
+    "verbose": "We have so many bugs in the backlog and everybody is saying their bug is the most important one, so I think we need to sit together and decide properly which ones we should do first and which ones can wait.",
+    "reference": "Everyone thinks their bug is urgent. We need to sit down and prioritise the backlog.",
+    "targets": [
+      "prioritise"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "vendor issue",
+    "verbose": "The vendor's API is giving errors from yesterday onwards and we have raised the ticket with them also, but they are not replying properly, they are just saying that they are checking and checking, and our feature is stuck because of them.",
+    "reference": "The vendor's API has been down since yesterday and their support keep stalling. I'll escalate it.",
+    "targets": [
+      "escalate"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "pushback",
+    "verbose": "With all respect, I am not agreeing with this approach of storing passwords like this, because it is not secure at all and if anything happens tomorrow then the company will be in big trouble, so we should not do it.",
+    "reference": "With respect, storing passwords like that isn't secure. I'm not convinced we should.",
+    "targets": [
+      "with respect",
+      "I'm not convinced"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "standup",
+    "verbose": "Yesterday I was working on that login bug only and I could not finish it fully because there were some more issues coming in between, so today also I will continue on the same thing and hopefully I will finish it by evening.",
+    "reference": "Still on the login bug — a few things cropped up. Should be done by this evening.",
+    "targets": [
+      "crop up"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "code review",
+    "verbose": "I saw that you have written the same code in three-four different places, which is not a good practice, because tomorrow if we need to change anything we have to change it everywhere, so better you put it in one common function.",
+    "reference": "This logic's repeated in several places — could you consolidate it into one function?",
+    "targets": [
+      "consolidate"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "estimate",
+    "verbose": "I am telling you frankly, finishing this whole migration in one week is not possible at all, even if the whole team works day and night, there is simply too much work and too many risks involved in it.",
+    "reference": "Frankly, the whole migration in a week is a tall order.",
+    "targets": [
+      "a tall order",
+      "frankly"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "incident",
+    "verbose": "The issue is now fixed, but what I want to say is that the same thing happened last month also, and we just did a quick fix that time, so we should properly sit and find out the real reason so it does not come again.",
+    "reference": "It's fixed, but it's happened twice now. Let's find the root cause and nip it in the bud.",
+    "targets": [
+      "nip it in the bud"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "request",
+    "verbose": "If it is possible for you, can you please give me access to the production logs, because I am not able to debug this issue without seeing the logs, and every time asking someone else to check is taking a lot of time.",
+    "reference": "Would it be possible to get access to the production logs? It'd save a lot of back and forth.",
+    "targets": [
+      "would it be possible to"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "handover",
+    "verbose": "So I will be handing over this ticket to you because I am moving to the other project from Monday, and I have written everything in the ticket only, but still if you have any doubts you can call me anytime, no issues.",
+    "reference": "I'm moving projects on Monday, so it's yours. Notes are in the ticket; give me a ring.",
+    "targets": [
+      "ring"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "retro",
+    "verbose": "One thing that went really well in this sprint is that the team was helping each other a lot, like when someone was stuck, others were immediately jumping in and helping without even being asked, which I really liked.",
+    "reference": "What went well: everyone mucked in whenever someone got stuck.",
+    "targets": [
+      "muck in"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "technical debt",
+    "verbose": "I know that the business wants new features every time, but if we keep on adding new features on top of this old code without cleaning anything, then after some time everything will become very slow and difficult to change.",
+    "reference": "Bolting features onto this code without tidying it will slow us down. It needs an overhaul.",
+    "targets": [
+      "overhaul"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "deployment",
+    "verbose": "We will be doing the release tonight after ten o'clock, so during that time the website may not work for some time, maybe around half an hour or so, so please inform the customers in advance so they are not getting confused.",
+    "reference": "We're releasing after ten tonight with half an hour's downtime. I'd be grateful if you could warn customers.",
+    "targets": [
+      "I'd be grateful if"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "security",
+    "verbose": "Actually I noticed one thing, that in our repository somebody has committed the secret keys directly into the code, which is very dangerous, and I think we should remove them immediately and change all the keys also, because anybody who is having access can misuse them.",
+    "reference": "I want to flag up that someone's committed secret keys to the repo. We should rotate them now.",
+    "targets": [
+      "flag up"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "estimate",
+    "verbose": "Like I said in the meeting, the estimate I gave earlier was only rough, because at that time we did not know fully about the requirements, and now after seeing the actual details it is looking like it will take more time.",
+    "reference": "My earlier estimate was provisional. Now we've seen the detail, it'll take longer.",
+    "targets": [
+      "provisional"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "pushback",
+    "verbose": "Every time the requirement is changing in the middle of the sprint itself, the developers are getting frustrated, because whatever they have done becomes waste, and then again they have to start from the beginning.",
+    "reference": "Mid-sprint changes keep sending us back to square one, and the team's fed up.",
+    "targets": [
+      "back to square one",
+      "fed up"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "code review",
+    "verbose": "I am not sure whether I am right or wrong, but I feel that this query will become very slow when there is a lot of data, because it is checking every row one by one, so maybe you can check once with an index.",
+    "reference": "I might be wrong, but this query could crawl at scale. It might be worth adding an index.",
+    "targets": [
+      "I might be wrong, but",
+      "it might be worth"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "on-call",
+    "verbose": "Last night I got paged three-four times for the same alert, and every time I checked there was nothing wrong at all, it was a false alarm only, so I could not sleep properly and today I am very tired.",
+    "reference": "I got paged four times overnight for a false alarm, so I'm shattered today.",
+    "targets": [
+      "shattered"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "onboarding",
+    "verbose": "When I joined the team, nobody was telling me how the things are working here, I had to find out everything myself by asking people, so for the next person who is joining we should make one proper document.",
+    "reference": "There was no guide when I joined, so learning the ropes took ages. Let's write one.",
+    "targets": [
+      "learn the ropes"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "vendor issue",
+    "verbose": "We are paying a lot of money to this cloud vendor every month, but their support is very slow, and whenever there is a problem we have to wait for one-one day for them to reply, which is not acceptable for us.",
+    "reference": "This cloud vendor costs a fortune, yet support takes a day to reply. It's not fit for purpose.",
+    "targets": [
+      "fit for purpose"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "status update",
+    "verbose": "As of now, around eighty percent of the work is completed and remaining twenty percent is also in progress, and I am expecting that it will be finished by the end of this week only if everything goes as per plan.",
+    "reference": "It's about eighty per cent done, and should wrap up by Friday if all goes to plan.",
+    "targets": [
+      "per cent",
+      "wrap up"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "prioritisation",
+    "verbose": "I am thinking we should first fix the performance problem before doing anything else, because customers are complaining about it every day, and new features are not useful if the app itself is so slow.",
+    "reference": "Performance should be paramount. Customers complain daily, and new features won't help a slow app.",
+    "targets": [
+      "paramount"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "request",
+    "verbose": "Sorry to disturb you again and again, but I have one small doubt regarding the authentication flow, if you are having some free time today can we connect for five-ten minutes so you can explain me once.",
+    "reference": "Sorry to be a pain — could you spare ten minutes today on the auth flow?",
+    "targets": [
+      "sorry to be a pain"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "incident",
+    "verbose": "Okay so the update is that we have identified the problem, it was a configuration change which somebody did yesterday evening without informing anybody, and we have reverted back that change and now the system is working normally.",
+    "reference": "Found it: an unannounced config change last night. We've rolled it back, so it's sorted.",
+    "targets": [
+      "sorted"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "stakeholder email",
+    "verbose": "Hi team, I am writing this mail to request all of you to please update your tasks in the tracker on daily basis, because many tasks are not updated from many days and it is becoming very difficult to know the actual status.",
+    "reference": "Just a quick reminder to update your tickets daily — lots are out of date.",
+    "targets": [
+      "just a quick reminder"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "hiring",
+    "verbose": "I think we should not hire this person only for his experience, because even though he is having twelve years experience, in the interview he was not open to new ideas at all and was very rigid in his thinking.",
+    "reference": "Twelve years' experience, but very rigid in the interview. I have some reservations.",
+    "targets": [
+      "I have some reservations"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "pushback",
+    "verbose": "I understand that the client is very important, but we cannot just say yes to every single demand of the client, because then our team will become overloaded and other projects will also suffer badly.",
+    "reference": "I see where you're coming from, but saying yes to everything would leave us swamped.",
+    "targets": [
+      "I see where you're coming from",
+      "swamped"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "retro",
+    "verbose": "What did not go well is that the meetings were too many, almost every day we had two-three meetings which were very long, and because of that we were not getting enough time to actually do the coding work.",
+    "reference": "We got bogged down in long meetings and barely had time to code.",
+    "targets": [
+      "bogged down"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "code review",
+    "verbose": "Please don't take it in a wrong way, but this pull request is very big, with almost two thousand lines of changes, and it is very difficult for anybody to review properly, so can you please break it into smaller parts.",
+    "reference": "Two thousand lines is a lot to review. Could you possibly split it up?",
+    "targets": [
+      "could you possibly"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "architecture",
+    "verbose": "We are spending so much of time to build our own login system from the beginning, when there are already very good ready-made solutions available, so I don't understand why we are doing this extra effort.",
+    "reference": "Building our own login from scratch seems a poor trade-off when good off-the-shelf options exist.",
+    "targets": [
+      "from scratch",
+      "trade-off"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "testing",
+    "verbose": "Before releasing this, I really want that somebody from the QA team should test it fully once on the real devices also, because last time we only tested on the emulator and then many issues came on the actual phones.",
+    "reference": "Let's get QA to test on real devices before release — last time the emulator missed loads.",
+    "targets": [
+      "loads"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "estimate",
+    "verbose": "See, if you want this done properly with tests and documentation and everything, it will take minimum four weeks, but if you want only a quick version just to show the client, that we can do in one week itself.",
+    "reference": "Done properly, it's four weeks. A rough-and-ready demo, one week.",
+    "targets": [
+      "rough and ready"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "standup",
+    "verbose": "Nothing much from my side today, I am still waiting for the design team to send the final screens, so until they are sending them I cannot start the frontend work, I am just sitting idle basically.",
+    "reference": "Nothing from me — I'm at a loose end until design send the final screens.",
+    "targets": [
+      "at a loose end"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "technical debt",
+    "verbose": "There are so many old feature flags lying in the code which are not used anymore by anybody, and they are making the code very confusing to read, so I am proposing that we should remove all of them in one go.",
+    "reference": "We've got loads of dead feature flags cluttering the code. I'd suggest clearing them out in one go.",
+    "targets": [
+      "I'd suggest"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "incident",
+    "verbose": "I am very sorry, actually that bug in production was because of my mistake only, I forgot to add one condition in the code and I did not test that case also, so I take full responsibility for it, and I am feeling very bad about the whole thing.",
+    "reference": "That production bug was my mistake — I missed an edge case. I'll take it on the chin.",
+    "targets": [
+      "take it on the chin"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "request",
+    "verbose": "Can you please tell me by when you will be able to give me the API changes, because my work is completely depending on your work only, and if it is getting delayed then my work will also get delayed automatically.",
+    "reference": "When might the API changes be ready? My work's contingent on them.",
+    "targets": [
+      "contingent"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "handover",
+    "verbose": "The most important thing which you should remember is that the backup job is running every night at midnight, and if it fails then you will get an email, and you have to rerun it manually before morning otherwise data will be lost.",
+    "reference": "The crux: if the midnight backup fails, you'll get an email. Rerun it before morning.",
+    "targets": [
+      "crux"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "pushback",
+    "verbose": "I am not saying that your idea is wrong, but if we are changing the database now at this stage when the launch is only two weeks away, then it is very risky and many things can go wrong.",
+    "reference": "Switching databases two weeks before launch is asking for trouble. I'd hang fire.",
+    "targets": [
+      "hang fire"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "prioritisation",
+    "verbose": "If we are trying to do all the five features in this release, then none of them will be done properly, so it is better we choose two most important features and do them nicely, and the other three can come later.",
+    "reference": "Let's do the top two features well and put the other three on the back burner.",
+    "targets": [
+      "back burner"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "stakeholder email",
+    "verbose": "This is just to let you all know that the old version of the API will be stopped completely from next quarter onwards, so all the teams who are still using it should kindly move to the new version before that.",
+    "reference": "The old API becomes obsolete next quarter, so please migrate before then.",
+    "targets": [
+      "obsolete"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "code review",
+    "verbose": "I have approved your changes, just one small thing, there is one spelling mistake in the comment on line forty, you can correct it whenever you are getting time, it is not urgent at all.",
+    "reference": "Approved. Just a typo in the comment on line forty — no rush.",
+    "targets": [
+      "no rush"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "onboarding",
+    "verbose": "Since you are new, my suggestion would be that you first take some small-small bugs to fix, so that slowly-slowly you will understand the code base, and then after that you can take bigger tasks.",
+    "reference": "Pick up a few small bugs to learn the codebase, then take on bigger work.",
+    "targets": [
+      "pick up",
+      "take on"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "status update",
+    "verbose": "I just wanted to give one update that the performance testing is done and the results are very good, the response time has improved by almost half compared to before, so the team has done a really good job.",
+    "reference": "Performance testing's done — response times have roughly halved. Brilliant work, team.",
+    "targets": [
+      "brilliant"
+    ]
+  },
+  {
+    "domain": "software",
+    "category": "vendor issue",
+    "verbose": "The open source library that we are using has a big security problem which came out yesterday, and the people who maintain it have not released any fix yet, so we have to think what we should do in the meantime.",
+    "reference": "A library we use has a serious unpatched flaw. We need an interim workaround.",
+    "targets": [
+      "interim"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "status update",
+    "verbose": "So the update from my side is that we did the user interviews last week, around twelve interviews we did, and most of the users were telling the same thing, that the onboarding is very confusing and they are dropping off in between.",
+    "reference": "The upshot of twelve interviews: onboarding confuses people and they drop off.",
+    "targets": [
+      "upshot"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "prioritisation",
+    "verbose": "We have a very long list of feature requests from the customers and sales team, but we cannot do everything at once, so I am thinking we should give some scoring to each one and then decide which one to do first.",
+    "reference": "There are too many requests to do at once. Let's score them and weigh up what comes first.",
+    "targets": [
+      "weigh up"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "pushback",
+    "verbose": "The sales team is promising features to the customers which are not even there in our roadmap, and then they are coming and telling us to build it urgently, which is completely disturbing our plans.",
+    "reference": "Sales keep promising off-roadmap features and then demanding them urgently. It's derailing our plans.",
+    "targets": [
+      "roadmap"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "stakeholder email",
+    "verbose": "Dear stakeholders, I am happy to inform you all that the new dashboard feature has been launched successfully yesterday, and the initial feedback from the customers is very positive, and we will be sharing the detailed numbers in the coming week.",
+    "reference": "The dashboard rollout went smoothly yesterday and early feedback's very positive. Full figures next week.",
+    "targets": [
+      "rollout"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "request",
+    "verbose": "I need one help from you, if you can please share the data of how many users are using the export feature every month, because I am preparing the case for the leadership on whether we should continue that feature or not.",
+    "reference": "I don't suppose you could send monthly export usage? I'm deciding whether to keep it.",
+    "targets": [
+      "I don't suppose you could"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "retro",
+    "verbose": "After the launch, what I realised is that we should have talked to the customers more in the beginning itself, because many of the things we built were not actually used by them and our effort went waste.",
+    "reference": "In hindsight, we should have spoken to customers earlier — much of what we built goes unused.",
+    "targets": [
+      "in hindsight"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "estimate",
+    "verbose": "The leadership is asking me when this whole new product will be ready to launch, and I honestly don't know what to tell them because there are so many unknowns, and the engineering team also cannot give any fixed date.",
+    "reference": "Leadership want a launch date, but with so many unknowns it's still up in the air.",
+    "targets": [
+      "up in the air"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "pushback",
+    "verbose": "I know the CEO likes this idea very much, but we have not done any research to check whether customers actually want this or not, so building it directly without validating is very risky in my opinion.",
+    "reference": "It's an appealing idea, but without research it's pie in the sky. Let's validate it first.",
+    "targets": [
+      "pie in the sky"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "handover",
+    "verbose": "Since I am going for my maternity leave from next month, I have prepared one document with all the details of the ongoing projects, the stakeholders, and the open decisions, so whoever is taking over can refer it.",
+    "reference": "Ahead of my maternity leave, I've written a handover doc covering projects, stakeholders and open decisions.",
+    "targets": [
+      "handover",
+      "stakeholder"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "requirements",
+    "verbose": "What the customer is basically asking is that they want one option where they can download all their reports together in one single file instead of downloading each and every report separately one by one.",
+    "reference": "In a nutshell, they want all their reports in one download.",
+    "targets": [
+      "in a nutshell"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "launch",
+    "verbose": "We were supposed to launch on Monday but now the legal team has raised some concerns about the privacy policy, and until they are giving clearance we cannot go ahead with the launch, so it is all stuck.",
+    "reference": "Legal have concerns about the privacy policy, so Monday's launch is on hold pending their sign-off.",
+    "targets": [
+      "sign-off"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "metrics",
+    "verbose": "The number of active users has gone down a lot in the last two months, almost fifteen percent drop is there, and we are not fully sure what is the reason behind it, we are still checking.",
+    "reference": "Active users are down fifteen per cent in two months, and we're still working out why.",
+    "targets": [
+      "work out"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "meeting",
+    "verbose": "I think we are going round and round in this meeting discussing the same points again and again, so maybe we should stop here, and I will put down all the options in one document and we can decide by email.",
+    "reference": "We're going round in circles. Let's take this offline — I'll write up the options.",
+    "targets": [
+      "let's take this offline"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "stakeholder email",
+    "verbose": "Hello sir, as discussed in yesterday's meeting, I am sending you the updated roadmap with the changes that you suggested, kindly go through it and revert back with your comments at your earliest, so that I can finalise the same.",
+    "reference": "As discussed, here's the updated roadmap with your changes. Do let me know your thoughts.",
+    "targets": [
+      "as discussed",
+      "do let me know"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "competitor",
+    "verbose": "Our competitor has just launched a feature which is almost same to same like what we were planning for next quarter, so now there is no point in us launching the same thing late, we should think something different.",
+    "reference": "A competitor's just launched our planned feature, so we've missed the boat. We need a different angle.",
+    "targets": [
+      "miss the boat"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "pushback",
+    "verbose": "You are asking for this feature to be built in two weeks, but the engineering team is already fully occupied with the payments project, they don't have any extra people available for doing this work right now.",
+    "reference": "Engineering are at capacity with payments, so two weeks isn't realistic.",
+    "targets": [
+      "at capacity"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "request",
+    "verbose": "If you can kindly join the customer call on Thursday, it will be very helpful, because they are asking many technical questions which I am not able to answer properly, and you are the best person for this.",
+    "reference": "Would you mind joining Thursday's customer call? They've got technical questions you'd answer far better.",
+    "targets": [
+      "would you mind"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "prioritisation",
+    "verbose": "The way I see it, there are some features which are very easy to build and will make many customers happy, so we should do those first, and the bigger complicated ones we can plan for later.",
+    "reference": "Let's start with the quick wins and plan the bigger pieces later.",
+    "targets": [
+      "quick win"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "retro",
+    "verbose": "One thing I want to mention is that the communication between product and engineering was not happening properly in this project, many times developers came to know about requirement changes very late, which created confusion.",
+    "reference": "Product and engineering weren't on the same page — devs heard about changes too late.",
+    "targets": [
+      "on the same page"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "feedback",
+    "verbose": "I was going through the app reviews on the store and many people are writing that the new update has made the app slower and some features are hidden now, so they are not happy with the update at all.",
+    "reference": "Reviews say the update's slower and hides features. It's gone down like a lead balloon.",
+    "targets": [
+      "go down like a lead balloon"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "pricing",
+    "verbose": "We are thinking to increase the price of the premium plan from next month, but my worry is that many of the existing customers may get angry and leave, so we should think carefully before doing this.",
+    "reference": "I'm worried a premium price rise next month could drive attrition among existing customers.",
+    "targets": [
+      "attrition"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "stakeholder email",
+    "verbose": "This is to bring to your kind notice that the discussed feature will not be part of this release due to some technical constraints, and the same will be taken up in the next release cycle.",
+    "reference": "That feature won't make this release due to technical constraints; it'll be in the next.",
+    "targets": [
+      "constraint"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "onboarding",
+    "verbose": "Welcome to the team! For the first few days, you just try to understand our product properly by using it yourself as a customer, and also sit with the support team for one day to hear the customer problems.",
+    "reference": "Welcome! Part of your onboarding is using the product yourself and spending a day with support.",
+    "targets": [
+      "onboarding"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "experiment",
+    "verbose": "So we did the A/B test for two weeks and the new version of the button is giving slightly better results, but the difference is very small only, so we cannot say with confidence that it is really better.",
+    "reference": "The new button did slightly better in the A/B test, but the difference is negligible.",
+    "targets": [
+      "negligible"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "scope",
+    "verbose": "I am feeling that the scope of this project is increasing day by day, every meeting someone is adding one more small thing, and if this continues like this then we will never be able to finish it.",
+    "reference": "Scope creep's getting out of hand — every meeting adds something. This could drag on forever.",
+    "targets": [
+      "drag on"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "vendor issue",
+    "verbose": "The analytics tool which we bought from the vendor is not giving the reports that they promised during the sales demo, and now when we are asking them they are saying that feature is coming in the future.",
+    "reference": "The analytics vendor promised reports in the demo that don't exist. Now it's jam tomorrow.",
+    "targets": [
+      "jam tomorrow"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "decision",
+    "verbose": "We have discussed this enough number of times and both the options are having their own pros and cons, so now somebody has to take the final decision, otherwise we will keep wasting time.",
+    "reference": "We've been over both options enough. Someone needs to grasp the nettle and decide.",
+    "targets": [
+      "grasp the nettle"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "customer request",
+    "verbose": "One of our biggest customers is asking us to build a special feature only for them, which nobody else will use, and they are saying if we don't build it they might move to some other company.",
+    "reference": "Our biggest client wants a bespoke feature, and they've hinted they'll leave if we refuse.",
+    "targets": [
+      "bespoke"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "status update",
+    "verbose": "Everything is going as per the plan, the design is finalised, development has started, and the testing team is also ready, so I am expecting no major issues and we should be able to launch on the planned date.",
+    "reference": "Design's done, the build's under way and QA's ready. Touch wood, we'll launch on time.",
+    "targets": [
+      "touch wood"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "pushback",
+    "verbose": "Actually, I feel that removing the free plan completely will be a very bad decision, because many of our paying customers first came through the free plan only, so we will lose our main source of new users.",
+    "reference": "Scrapping the free plan would be throwing the baby out with the bathwater.",
+    "targets": [
+      "throw the baby out with the bathwater"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "meeting",
+    "verbose": "Before we start the meeting, I just want to tell everybody that we have only thirty minutes and there are five topics to discuss, so let us please try to keep it short and to the point.",
+    "reference": "I'm conscious of time — five topics in thirty minutes, so let's be brief.",
+    "targets": [
+      "I'm conscious of time"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "hiring",
+    "verbose": "We are looking for one senior product manager who has experience in B2B software, and who can also work closely with engineering, so if you know anybody suitable please refer them to us.",
+    "reference": "We're hiring a senior PM with B2B experience. Do pass on any good names.",
+    "targets": [
+      "pass on"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "roadmap",
+    "verbose": "This roadmap is not fixed, it can change depending on what customers are telling us and what is happening in the market, so please don't treat these dates as final commitments to anybody.",
+    "reference": "Take these roadmap dates with a pinch of salt — they'll shift.",
+    "targets": [
+      "pinch of salt"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "stakeholder email",
+    "verbose": "Firstly I want to thank everybody for their hard work in this quarter, because without the support of all the teams it would not have been possible to achieve the targets that we set at the starting of the quarter.",
+    "reference": "Huge thanks for this quarter — we hit our targets, and your support was much appreciated.",
+    "targets": [
+      "much appreciated"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "feature request",
+    "verbose": "The customer success team is saying that many customers want dark mode in the app, they are asking for it again and again in every call, so maybe we can consider adding it in one of the coming releases.",
+    "reference": "Customers keep asking. Could we pencil in dark mode for an upcoming release?",
+    "targets": [
+      "pencil in"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "pushback",
+    "verbose": "I respect your experience, but the data from the last three months is clearly showing that users are not using the reports page much, so I don't think we should spend more effort on improving it.",
+    "reference": "With all due respect, hardly anyone uses the reports page. I wouldn't invest more.",
+    "targets": [
+      "with all due respect"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "incident communication",
+    "verbose": "We have received many complaints from customers that they are not getting the email notifications from yesterday, and the engineering team is looking into it, and I will update everybody as soon as I am getting more information.",
+    "reference": "Notification emails have failed since yesterday. Engineering are on it — I'll be in touch.",
+    "targets": [
+      "I'll be in touch"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "discovery",
+    "verbose": "Before we start building anything, I want that we should first understand what exactly is the problem that the customers are facing, because many times we are jumping directly to the solution without understanding the problem.",
+    "reference": "Let's not put the cart before the horse — understand the problem before jumping to solutions.",
+    "targets": [
+      "put the cart before the horse"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "stakeholder",
+    "verbose": "The marketing team is wanting one thing and the sales team is wanting exactly opposite thing, and both are coming to me and expecting me to agree with them, so I am stuck in the middle.",
+    "reference": "Marketing and sales want opposite things from me. I'm between a rock and a hard place.",
+    "targets": [
+      "between a rock and a hard place"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "launch",
+    "verbose": "The launch went very well and there were no major problems, only one or two small bugs came which we fixed on the same day itself, so overall it was quite a smooth launch.",
+    "reference": "Smooth launch — a couple of minor bugs, fixed the same day. Done and dusted.",
+    "targets": [
+      "done and dusted"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "request",
+    "verbose": "I wanted to ask whether it will be possible for your team to give some feedback on the new pricing page design by Friday, because we want to finalise it next week and send it for development.",
+    "reference": "I'd appreciate it if your team could feed back on the pricing page by Friday.",
+    "targets": [
+      "I'd appreciate it if"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "metrics",
+    "verbose": "What I am noticing in the data is that people who are using the mobile app are staying with us for much longer time compared to the people who are only using the website version.",
+    "reference": "Mobile app users stick around much longer than web-only users.",
+    "targets": [
+      "stick around"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "retro",
+    "verbose": "The biggest learning from this project for me is that we should involve the support team from the beginning only, because they know the customer problems better than anybody else in the company.",
+    "reference": "Biggest lesson: involve support from the outset — they know customers' problems best.",
+    "targets": [
+      "outset"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "pushback",
+    "verbose": "If we are launching this half-ready feature just to meet the deadline, then customers will have a bad experience and we will get bad reviews, and it will take much more time to repair our image afterwards.",
+    "reference": "Shipping it half-baked to hit the date would backfire. Better late than never.",
+    "targets": [
+      "better late than never"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "strategy",
+    "verbose": "I think instead of trying to build features for every type of customer, we should focus on one particular segment where we are strong, and become the best for them first before expanding to others.",
+    "reference": "We're trying to be a jack of all trades. Let's nail our strongest segment first.",
+    "targets": [
+      "jack of all trades"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "feedback",
+    "verbose": "I saw the prototype you shared and frankly speaking I am not fully convinced about the new navigation, it is looking nice but I feel users will take time to find the important options.",
+    "reference": "Lovely look, but I'm unsure about the navigation — key options are hard to find.",
+    "targets": [
+      "lovely"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "status update",
+    "verbose": "The beta testing has started with around fifty customers, and so far the feedback is mixed, some people are liking it very much and some people are finding it difficult to use.",
+    "reference": "Beta's live with fifty customers. Feedback's mixed, but it's early days.",
+    "targets": [
+      "it's early days"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "escalation",
+    "verbose": "I have already asked the platform team three times for this API change, but every time they are saying they will do it next week and it is not happening, so I think now I need to involve their manager.",
+    "reference": "I've asked the platform team three times and it keeps slipping. Time to escalate.",
+    "targets": [
+      "escalate"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "requirements",
+    "verbose": "In the requirement document it is written that users should be able to edit the invoice, but it is not mentioned anywhere whether they can edit it after sending also or only before sending, so we need clarity.",
+    "reference": "The spec doesn't say whether invoices can be edited after sending. Could we clarify?",
+    "targets": [
+      "clarify"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "decision",
+    "verbose": "Whatever we are deciding today, we have to make sure that all the teams are agreeing to it, otherwise later someone will come and say that they were not consulted and everything will get delayed.",
+    "reference": "Whatever we decide, we need everyone's buy-in now, or someone will object later.",
+    "targets": [
+      "buy-in"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "competitor",
+    "verbose": "The competitor's new product is looking very impressive in their marketing videos, but when I actually tried it myself, it was having many bugs and was not as good as they are showing.",
+    "reference": "Their launch video's impressive, but the product's buggy. It's all smoke and mirrors.",
+    "targets": [
+      "smoke and mirrors"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "customer call",
+    "verbose": "The customer was very angry on the call because the bug they reported two months back is still not fixed, and they were saying that if it's not fixed in this month then they will cancel the contract.",
+    "reference": "The client was livid — their two-month-old bug's unfixed, and they'll cancel this month otherwise.",
+    "targets": [
+      "livid"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "prioritisation",
+    "verbose": "Honestly, this feature request is coming from only one small customer, and building it will take almost one month of effort, so I don't think it is worth it compared to other things in the list.",
+    "reference": "A month's work for one small customer? It's small beer next to everything else.",
+    "targets": [
+      "small beer"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "planning",
+    "verbose": "I am proposing that we should have one planning session at the start of every quarter where all the team leads sit together and agree on the main goals, so that everybody is clear from the beginning.",
+    "reference": "Let's convene the team leads each quarter to agree the main goals.",
+    "targets": [
+      "convene"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "research",
+    "verbose": "We spoke to many users and what came out is that price is not the main problem for them, the main problem is actually that they find it difficult to set up the product on their own.",
+    "reference": "Users aren't put off by price — it's the set-up they struggle with.",
+    "targets": [
+      "put off"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "deprecation",
+    "verbose": "We have decided that we are going to remove the old reporting feature completely, because hardly anybody is using it now and maintaining it is costing us a lot of time and money.",
+    "reference": "Old reporting's a white elephant — barely used, costly to maintain. We're retiring it.",
+    "targets": [
+      "a white elephant"
+    ]
+  },
+  {
+    "domain": "product",
+    "category": "stakeholder update",
+    "verbose": "I just wanted to quickly inform you that the project is little bit delayed because two of our developers were sick last week, but we are trying to cover up the time and hopefully we will not miss the final deadline.",
+    "reference": "There's been some slippage with two developers off sick, but we hope to make it up.",
+    "targets": [
+      "slippage",
+      "off sick"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "status update",
+    "verbose": "The dashboard which you asked for is almost ready, only the last part where we are showing the region-wise numbers is pending, because the data from two regions is still not coming correctly into the system.",
+    "reference": "Nearly there — we're just ironing out data from two regions for the regional breakdown.",
+    "targets": [
+      "iron out"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "discrepancy",
+    "verbose": "The numbers in the finance report and the numbers in our dashboard are not matching with each other, there is a difference of around two lakh in the revenue, and we are trying to find out where is the problem.",
+    "reference": "Our revenue's about two hundred thousand out from finance's figures. We're investigating the discrepancy.",
+    "targets": [
+      "discrepancy"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "request",
+    "verbose": "Can you please send me the raw data in an Excel sheet format, because I want to do some analysis of my own on it, and the dashboard is not giving me the flexibility which I need.",
+    "reference": "Could I have the raw data as a spreadsheet? I'd like to do my own analysis.",
+    "targets": [
+      "could I have"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "pushback",
+    "verbose": "I know you want to say that the campaign increased the sales, but actually the data is not showing that clearly, because the sales were going up even before the campaign started, so we cannot say it was the campaign only.",
+    "reference": "I'm not sure I'd go that far — sales were already rising before the campaign launched.",
+    "targets": [
+      "I'm not sure I'd go that far"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "caveat",
+    "verbose": "One thing you should keep in mind while reading this report is that the data for last month is not complete yet, some of the transactions are still coming in, so the final numbers may change a little bit.",
+    "reference": "One caveat: last month's data is incomplete, so the numbers may shift slightly.",
+    "targets": [
+      "caveat"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "estimate",
+    "verbose": "Building this new data pipeline properly will take time, because first we need to understand all the source systems, then clean the data, then test everything, so it will be at least five to six weeks.",
+    "reference": "Realistically, the timescale's five to six weeks: mapping sources, cleaning, testing.",
+    "targets": [
+      "timescale"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "incident",
+    "verbose": "The data refresh which runs every morning has failed today, because of which all the dashboards are showing yesterday's data only, and I have restarted the job and it should be finished in around one hour.",
+    "reference": "The morning refresh failed, so dashboards are a day behind. It's rerunning — bear with me.",
+    "targets": [
+      "bear with me"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "stakeholder",
+    "verbose": "The marketing head is asking for so many different reports every week, and most of them are almost same with small changes only, so my whole time is going in making reports and I am not getting time for real analysis.",
+    "reference": "I'm snowed under with near-identical reports for marketing and have no time for real analysis.",
+    "targets": [
+      "snowed under"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "code review",
+    "verbose": "In your SQL query you have used select star, which is bringing all the columns from the table, even the ones we don't need, so it is making the query slow, better you mention only the required columns.",
+    "reference": "You might want to name the columns instead of SELECT star — it'll be quicker.",
+    "targets": [
+      "you might want to"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "data quality",
+    "verbose": "There are so many duplicate records in the customer table, the same customer is coming two-three times with slightly different spellings of the name, so our customer count is coming wrong, and the management is taking decisions on the basis of these wrong numbers only.",
+    "reference": "The customer data's not up to scratch — full of duplicates, so our counts are wrong.",
+    "targets": [
+      "not up to scratch"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "findings",
+    "verbose": "After doing the full analysis, the main thing which is coming out is that the customers who are contacting support in the first week are more likely to stay with us for longer time.",
+    "reference": "The salient finding is that customers who contact support in week one stay longer.",
+    "targets": [
+      "salient"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "request",
+    "verbose": "I need your approval to buy the additional storage on the cloud, because our current storage is getting full very fast and if it becomes full then the daily jobs will start failing, and then everybody will start shouting at us.",
+    "reference": "We're running out of storage headroom — could you approve more before the daily jobs fail?",
+    "targets": [
+      "headroom"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "methodology",
+    "verbose": "The sample size of this survey is very small, only forty people have responded, so honestly speaking I don't think we can make any big decisions based on these results.",
+    "reference": "Forty responses isn't enough to go on. I'd treat these results as preliminary.",
+    "targets": [
+      "preliminary"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "hiring",
+    "verbose": "We need one more data engineer in the team very urgently, because currently only two of us are handling all the pipelines of the company and if anybody takes leave then everything gets stuck.",
+    "reference": "We need more headcount: two of us run every pipeline, so one absence stalls everything.",
+    "targets": [
+      "headcount"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "pushback",
+    "verbose": "You are asking me to make the chart in such a way that the drop in sales looks smaller, but I am not comfortable doing that, because it will be misleading to the board and it is not the correct thing to do.",
+    "reference": "It's not cricket to mislead the board, so I'd rather not shrink the drop.",
+    "targets": [
+      "it's not cricket"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "handover",
+    "verbose": "All the scripts are kept in the shared folder, and there is one readme file also which explains how to run each script, but the important point is that the monthly report script has to be run only after the finance team closes the month.",
+    "reference": "Everything's in the shared folder with a readme. One proviso: run the monthly report only after finance close the month.",
+    "targets": [
+      "proviso"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "retro",
+    "verbose": "The project was delayed mainly because we started building the model before checking whether the data was good or not, and later we found that half of the data was having errors, so we had to redo everything.",
+    "reference": "We modelled before checking the data, found half was wrong, and went back to the drawing board.",
+    "targets": [
+      "back to the drawing board"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "stakeholder email",
+    "verbose": "Kindly note that from next Monday onwards the weekly sales report will be sent on Tuesday instead of Monday, because the data from the stores is reaching us late on Mondays and we are not able to complete the report in time.",
+    "reference": "The weekly sales report's being put back to Tuesdays, since store data lands late on Mondays.",
+    "targets": [
+      "put back"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "model",
+    "verbose": "The machine learning model is giving very good accuracy on the test data, but I am little bit worried that it may not work so well on the real data because the real data is quite different from what we trained it on.",
+    "reference": "The model scores well on test data, but I'm slightly concerned it won't generalise.",
+    "targets": [
+      "slightly concerned"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "definition",
+    "verbose": "Before we discuss further, I think first we should all agree on what exactly we mean by the active user, because the product team is calculating it one way and the marketing team is calculating it in another way.",
+    "reference": "We need consensus on what counts as an active user — product and marketing differ.",
+    "targets": [
+      "consensus"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "tooling",
+    "verbose": "The current reporting tool we are using is very old and it is crashing every time when we are opening big reports, so I am suggesting we should move to some better tool which can handle large data.",
+    "reference": "Our reporting tool's always on the blink with big reports. Time we moved to something robust.",
+    "targets": [
+      "on the blink",
+      "robust"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "privacy",
+    "verbose": "We should not keep the customers' personal details like phone number and address in this analytics database, because it is not needed for analysis and if there is any data leak then it will be a big problem.",
+    "reference": "Personal details shouldn't sit in the analytics database. We don't need them, and it's a compliance risk.",
+    "targets": [
+      "compliance"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "estimate",
+    "verbose": "If you want only the high-level numbers then I can give you by today evening itself, but if you want the detailed breakdown by product and region also then it will take two more days.",
+    "reference": "Headline figures by tonight; the more granular breakdown will take two more days.",
+    "targets": [
+      "granular"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "interpretation",
+    "verbose": "Just because the two numbers are going up together, it doesn't mean that one is causing the other, there can be some third reason also which is affecting both of them at the same time.",
+    "reference": "It's plausible a third factor is driving both — correlation isn't causation.",
+    "targets": [
+      "plausible"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "request",
+    "verbose": "If you are free sometime this week, can you please sit with me and explain how the forecasting model is working, because I have to present it to the leadership and I don't understand it fully.",
+    "reference": "Could we run through the forecasting model this week? I need to present it to leadership.",
+    "targets": [
+      "run through"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "status update",
+    "verbose": "The cleaning of the data is completed now, it took more time than expected because the data was very messy, but now we can finally start the actual analysis from tomorrow, and hopefully there will be no more surprises in it.",
+    "reference": "Cleaning's finally done — the data was a mess. We can crack on with analysis tomorrow.",
+    "targets": [
+      "crack on"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "pushback",
+    "verbose": "You are asking for real-time data on the dashboard, but honestly the business is only checking this dashboard once a week, so making it real-time will cost a lot extra and give no real benefit.",
+    "reference": "Real-time updates for a dashboard checked weekly? That's not value for money.",
+    "targets": [
+      "value for money"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "incident",
+    "verbose": "Somebody has accidentally deleted one important table from the production database, but don't worry, we have the backup from last night and we are restoring it now, only today's few hours of data may be lost, so there is no need to panic.",
+    "reference": "A key table got deleted, but we're restoring from backup. It's not the end of the world.",
+    "targets": [
+      "it's not the end of the world"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "onboarding",
+    "verbose": "For your first week, I will give you access to all the main databases and dashboards, and you can just explore and try to understand the data, and if you have any questions you can come and ask me directly anytime.",
+    "reference": "This week, just explore the databases and dashboards. Feel free to ask me anything.",
+    "targets": [
+      "feel free to"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "findings",
+    "verbose": "What the data is clearly showing is that most of the customer complaints are coming from only one particular delivery partner, almost seventy percent of the complaints are related to them only, which is very shocking for all of us.",
+    "reference": "One delivery partner accounts for the lion's share of complaints — about seventy per cent.",
+    "targets": [
+      "the lion's share"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "vendor issue",
+    "verbose": "The third party data provider has changed the format of their files without informing us, and because of that our whole import process broke down this morning and none of the reports got updated.",
+    "reference": "An unannounced format change broke our import — a real spanner in the works.",
+    "targets": [
+      "spanner in the works"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "prioritisation",
+    "verbose": "We have three requests now, one from finance, one from sales and one from the CEO's office, and all of them are saying it is urgent, so please tell me which one I should do first.",
+    "reference": "Finance, sales and the CEO's office all say theirs is urgent. Which should I prioritise?",
+    "targets": [
+      "prioritise"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "presentation",
+    "verbose": "In the presentation, instead of putting so many tables full of numbers, I think we should show only two-three simple charts that tell the main story, because the senior people don't have time to read all the details.",
+    "reference": "Let's cut the tables from the deck and use two or three simple charts.",
+    "targets": [
+      "deck"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "model retraining",
+    "verbose": "The model's performance is going down slowly every month, because customer behaviour has changed a lot after the new pricing, so we need to train the model again using the latest data.",
+    "reference": "Since the pricing change, the model's drifted. It needs recalibrating on fresh data.",
+    "targets": [
+      "recalibrate"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "request",
+    "verbose": "Kindly provide me the access of the finance database at the earliest, as I am having one urgent report to prepare for tomorrow morning and without the access I will not be able to do the same.",
+    "reference": "I need finance database access sharpish — there's an urgent report due tomorrow morning.",
+    "targets": [
+      "sharpish"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "stakeholder",
+    "verbose": "The sales director is saying that the forecast is too low and he wants us to increase it, but our model is based on the actual trends, so we cannot just change the numbers because he is not liking them.",
+    "reference": "The sales director wants a higher forecast, but the model's rationale is sound. I won't fudge it.",
+    "targets": [
+      "rationale"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "status update",
+    "verbose": "Just wanted to tell you that I found one small bug in the revenue calculation, it was counting refunds as sales, and I have fixed it, but because of this the last two weeks numbers were slightly higher than actual.",
+    "reference": "A bug was counting refunds as sales. I've rectified it, but the last fortnight's revenue was slightly overstated.",
+    "targets": [
+      "rectify"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "experiment",
+    "verbose": "I don't think we should stop the experiment now itself, because it has been running only for three days, and we need at least two weeks of data to say anything with confidence.",
+    "reference": "Three days is too soon to call it. Let's not jump the gun.",
+    "targets": [
+      "jump the gun"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "data ownership",
+    "verbose": "Nobody is clearly responsible for this customer data, the sales team says it is product team's job and product team says it is sales team's job, so finally nobody is updating it.",
+    "reference": "Sales and product keep passing the buck on customer data, so nobody maintains it.",
+    "targets": [
+      "pass the buck"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "request",
+    "verbose": "If you don't mind, can you check my analysis once before I send it to the client, just to make sure there are no silly mistakes, because this client is very particular about the numbers.",
+    "reference": "If you don't mind, could you check my analysis before the client sees it?",
+    "targets": [
+      "if you don't mind"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "cost",
+    "verbose": "Our cloud bill for the data warehouse has gone up almost double in the last three months, mainly because some people are running very heavy queries again and again without any need.",
+    "reference": "Needless heavy queries have nearly doubled our warehouse bill. We should curtail them.",
+    "targets": [
+      "curtail"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "findings",
+    "verbose": "After looking at the data from all angles, I can say that there is no strong evidence that the new feature has improved the customer retention, the change is too small to say anything.",
+    "reference": "There's no strong evidence the feature improved retention — the jury is still out.",
+    "targets": [
+      "the jury is still out"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "retro",
+    "verbose": "One good thing in this project was that we were sharing our progress with the business people every week, so there were no big surprises at the end and they were happy with the final result.",
+    "reference": "Sharing progress weekly meant no surprises, and it's gone down well with the business.",
+    "targets": [
+      "go down well"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "forecast",
+    "verbose": "I am telling this in advance that the forecast for the next quarter is looking quite weak, there are many problems in the market and our pipeline of deals is also lower than usual.",
+    "reference": "Next quarter looks weak: market headwinds and a thin pipeline.",
+    "targets": [
+      "headwinds"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "governance",
+    "verbose": "Every team is making their own copy of the same data and doing their own calculations, so in every meeting different teams are coming with different numbers for the same thing, and then we are wasting the whole meeting arguing about whose number is correct.",
+    "reference": "Each team keeps its own data, so meetings have rival figures. We need something joined-up.",
+    "targets": [
+      "joined-up"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "estimate",
+    "verbose": "You want me to give the forecast by today, but the data from the last week is not even loaded yet, so if I give it today it will be based on old data and it will not be accurate.",
+    "reference": "I'm afraid last week's data isn't loaded yet, so a forecast today would be inaccurate.",
+    "targets": [
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "tooling",
+    "verbose": "I have made one small script which is doing automatically what we were doing manually every Monday morning, so now it will save around two hours of time for the team every week, which we can use for some more useful work instead.",
+    "reference": "I've written a script to streamline the Monday task. It saves us two hours a week.",
+    "targets": [
+      "streamline"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "vendor issue",
+    "verbose": "We are requesting you to kindly share the complete documentation of your API, because the document which you have shared earlier is not having the details of the error codes and we are getting stuck.",
+    "reference": "I was wondering if you could send fuller API docs covering the error codes.",
+    "targets": [
+      "I was wondering if"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "scope",
+    "verbose": "Every time we deliver the report, the stakeholder comes back and says now add this one more column, now add this one more filter, and this is going on from last one month, it is never ending.",
+    "reference": "Every delivery prompts another tweak. We'll be at it till the cows come home.",
+    "targets": [
+      "till the cows come home"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "learning",
+    "verbose": "I am planning to learn Python properly this quarter, because many of the tasks which I am doing manually in Excel can be done much faster using Python, and it will be good for my career also.",
+    "reference": "I want to brush up on Python this quarter to speed up my spreadsheet work.",
+    "targets": [
+      "brush up on"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "stakeholder email",
+    "verbose": "This mail is to inform that there was an error in the last week's report which was sent to you, the conversion rate was shown wrongly as twelve percent but the actual figure is nine percent, sorry for the mistake.",
+    "reference": "Correction: last week's conversion rate should read nine per cent, not twelve. Sorry for any confusion.",
+    "targets": [
+      "sorry for any confusion"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "metric choice",
+    "verbose": "I feel we are tracking too many numbers in this dashboard, almost fifty different metrics are there, and nobody is knowing which ones are actually important, so we should reduce it to five-six main ones.",
+    "reference": "Fifty metrics is too many. Let's cut it to five or six KPIs that matter.",
+    "targets": [
+      "KPI"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "hiring",
+    "verbose": "The candidate was very good in the SQL test, he solved all the questions in very less time, but when we asked him about how he will explain the results to non-technical people, he was not having good answer.",
+    "reference": "Superb at SQL, but he struggled to explain results simply. On balance, I'd say no.",
+    "targets": [
+      "on balance"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "request",
+    "verbose": "If it is not too much of a problem, can you please run the same analysis for the last year also, so that we can compare and see whether the trend is same or it has changed, it will be very helpful for my presentation.",
+    "reference": "If it's not too much trouble, could you rerun it for last year so we can compare?",
+    "targets": [
+      "if it's not too much trouble"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "dependency",
+    "verbose": "We cannot start the analysis because the IT team has still not given us the access to the new system, I have sent them three reminders already but there is no response from their side.",
+    "reference": "Getting access from IT has dragged on despite three reminders, so we can't start.",
+    "targets": [
+      "drag on"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "quick estimate",
+    "verbose": "If you want a quick rough number right now, I can tell you that around thirty percent of the users are coming from mobile, but please don't quote me on this because I have not checked it properly.",
+    "reference": "Off the cuff, about thirty per cent are on mobile — but don't quote me.",
+    "targets": [
+      "off the cuff"
+    ]
+  },
+  {
+    "domain": "data",
+    "category": "vendor",
+    "verbose": "The new BI tool vendor is saying that the implementation will take only two weeks, but from my experience with such tools, it always takes much longer, so we should plan for more time.",
+    "reference": "The vendor says two weeks, but these things always overrun. Let's plan for longer.",
+    "targets": [
+      "overrun"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "ticket update",
+    "verbose": "Sir, I have checked your laptop issue and actually the problem is with the battery only, it is not charging properly, so I have raised the request for a new battery and it will come within two-three working days, and I will inform you once it comes.",
+    "reference": "It's the battery. I've ordered a new one — a few days — and I'll let you know.",
+    "targets": [
+      "I'll let you know"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "password reset",
+    "verbose": "For resetting your password, what you have to do is first you have to go to the login page and click on forgot password, then you will get one email on your registered email ID, and from there you can set the new password very easily.",
+    "reference": "It's a piece of cake: hit \"forgot password\" and follow the emailed link.",
+    "targets": [
+      "a piece of cake"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "outage",
+    "verbose": "We are facing some issue with the email server from morning, because of which many people are not able to send or receive the emails, and our team is working on it on top priority basis and we will update everybody shortly about the same.",
+    "reference": "Apologies — email's been down since this morning. We're on it and will update you shortly.",
+    "targets": [
+      "apologies"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "request",
+    "verbose": "Can you please do one thing, can you please restart your computer once and then try again, because many times the problem gets solved automatically after the restart, and if it is still not solved then you can call me back.",
+    "reference": "Could you try restarting? If it's still playing up, do ring back.",
+    "targets": [
+      "ring back"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "pushback",
+    "verbose": "I understand that you need admin access to install the software, but as per the company policy we cannot give admin access to anybody at all, so what you can do is you can tell me which software you need and I will install it for you myself.",
+    "reference": "Admin rights are off-limits under policy, but I'm happy to help install whatever you need.",
+    "targets": [
+      "happy to help"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "handover",
+    "verbose": "I am going on leave for one week from tomorrow onwards, so all my pending tickets I have assigned to Tom, and I have written the status in each and every ticket, so he will be able to continue from where I am leaving it without any problem.",
+    "reference": "I'm off next week, so Tom's holding the fort — each ticket has a status note.",
+    "targets": [
+      "hold the fort"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "escalation",
+    "verbose": "This issue is beyond my level, I have tried everything which I know, restarting the server, clearing the cache, checking the logs and all, but still it is not working, so I am sending this to the second level team for further checking.",
+    "reference": "I've tried everything — restarts, cache, logs — so it's being passed on to second line.",
+    "targets": [
+      "pass on"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "incident",
+    "verbose": "Due to some unexpected problem in the network, the internet on the third floor is not working from last one hour, and the network team is checking the switch, and it should be restored very soon hopefully, we are also praying for the same.",
+    "reference": "The third floor's network has been down an hour. Fingers crossed the switch fix sorts it.",
+    "targets": [
+      "fingers crossed"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "onboarding",
+    "verbose": "For all the new joiners, we will give the laptop on the first day itself, and all the accounts like email and chat will be ready from before, but the access to specific tools they have to request from their reporting manager separately.",
+    "reference": "New starters get a laptop and email on day one; other tools go through their line manager.",
+    "targets": [
+      "line manager"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "vendor issue",
+    "verbose": "The printer vendor has promised three times that the engineer will come to fix the printer, but every time nobody is coming, and now the whole office is not able to print anything from last one week, which is very frustrating for everybody.",
+    "reference": "The printer firm's promised an engineer three times, but nobody's turned up. No printing for a week.",
+    "targets": [
+      "turn up"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "request",
+    "verbose": "Kindly update the antivirus software on your system as soon as possible, because there is one new virus which is spreading nowadays, and the old version of the antivirus will not be able to catch it, so it is very much important.",
+    "reference": "Do update your antivirus — the old version misses a new virus. It's imperative.",
+    "targets": [
+      "imperative"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "phishing",
+    "verbose": "If you are getting any email which is asking for your password or your bank details or anything like that, please don't click on any link in that email and immediately forward it to the IT security team so that they can check it properly.",
+    "reference": "If you smell a rat with an email, don't click anything — forward it to security.",
+    "targets": [
+      "smell a rat"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "maintenance",
+    "verbose": "This is to inform all the employees that there will be a planned maintenance activity on this Saturday from morning ten o'clock to evening six o'clock, during which all the internal systems will not be available for usage.",
+    "reference": "Just to flag up: internal systems are offline for maintenance this Saturday, ten till six.",
+    "targets": [
+      "flag up"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "troubleshooting",
+    "verbose": "Can you please tell me exactly what error message is coming on your screen, because without knowing the exact error it is very difficult for me to understand what is the problem and how to fix the same, I cannot guess it.",
+    "reference": "Could you read me the exact error? It'll help me ascertain what's wrong.",
+    "targets": [
+      "ascertain"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "pushback",
+    "verbose": "I know you are saying it is very urgent, but there are already twenty tickets in the queue before yours, and many of them are also urgent only, so I cannot jump your ticket before others without getting the manager's approval for it.",
+    "reference": "Twenty urgent tickets are ahead of yours, so you can't jump the queue without sign-off.",
+    "targets": [
+      "jump the queue"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "status",
+    "verbose": "Your laptop is ready now, we have replaced the keyboard and also installed all the latest updates, so you can come and collect it from the IT desk anytime after lunch today, it is kept ready for you.",
+    "reference": "Your laptop's ready — new keyboard and updates. Pop in after lunch to collect it.",
+    "targets": [
+      "pop in"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "retro",
+    "verbose": "What we learnt from last month's outage is that we were not having any proper backup internet connection at all, so when the main line went down, the whole office was stuck for four hours and nobody could do any work.",
+    "reference": "Last month's outage showed we've no backup line. We need a contingency.",
+    "targets": [
+      "contingency"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "request",
+    "verbose": "I need to ask you something, are you able to come to the office tomorrow little early, around eight o'clock, because we need to change your laptop and it will take one hour, and I don't want to disturb your working hours.",
+    "reference": "Is it alright if we swap your laptop at eight tomorrow? It takes an hour.",
+    "targets": [
+      "is it alright if"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "asset",
+    "verbose": "Many of the old laptops in the office are now more than six years old and they are very-very slow, people are complaining every day about it, so I think we should replace them in this financial year itself.",
+    "reference": "Many of our laptops are long in the tooth. Let's replace them this financial year.",
+    "targets": [
+      "long in the tooth"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "incident update",
+    "verbose": "Okay, so the good news is that the email is working again, the problem was with the security certificate which had expired yesterday night and nobody noticed it, and we have now renewed it for the next two years.",
+    "reference": "Email's sorted — an expired certificate was the culprit, now renewed for two years.",
+    "targets": [
+      "sorted"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "vpn",
+    "verbose": "If you are working from home, then you must connect to the VPN first, only after that you will be able to open the internal websites, otherwise they will not open at all and you will be getting an error again and again.",
+    "reference": "Rule of thumb at home: VPN first, or internal sites won't load.",
+    "targets": [
+      "rule of thumb"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "user error",
+    "verbose": "I checked your issue and actually there is nothing wrong with the system at all, the problem was only that the caps lock was on when you were typing the password, so that is why it was saying wrong password every time.",
+    "reference": "Good news — nothing's broken. Caps lock was on. These things happen!",
+    "targets": [
+      "these things happen"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "software licence",
+    "verbose": "We have only fifty licences for this design software, and all fifty are already being used by people, so if you want one more licence then your manager has to approve the cost first and then only we will buy it.",
+    "reference": "All fifty licences are taken; another would need your manager to sanction the cost.",
+    "targets": [
+      "sanction"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "hiring",
+    "verbose": "We are looking for one IT support person who can handle both hardware and software issues, and who is also good with people, because they will be talking to employees every day and some of them are very impatient types.",
+    "reference": "We need a support hire who can do hardware and software, and build rapport with impatient users.",
+    "targets": [
+      "rapport"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "data loss",
+    "verbose": "I am very sorry to say this, but the files which were saved only on your desktop and not on the cloud drive cannot be recovered now in any way, because the hard disk is completely damaged and nothing can be done.",
+    "reference": "I'm terribly sorry, but files saved only to your desktop can't be recovered — the drive's dead.",
+    "targets": [
+      "I'm terribly sorry"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "advice",
+    "verbose": "My humble suggestion to everybody is that you should always save your important files on the shared drive only, and not on the laptop, because if anything happens to the laptop tomorrow, at least the files will be safe.",
+    "reference": "It's prudent to keep important files on the shared drive, not your laptop.",
+    "targets": [
+      "prudent"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "pushback",
+    "verbose": "You are asking me to recover an email which you deleted six months back, but our system is keeping the deleted emails only for thirty days, so after that it is not at all possible for us to recover it, sorry.",
+    "reference": "I'm afraid deleted mail is only kept for thirty days, so that one's gone.",
+    "targets": [
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "meeting room",
+    "verbose": "The video conferencing system in the big meeting room is not working properly, sometimes the camera is switching off on its own and sometimes the sound is not coming, so many important meetings are getting disturbed because of this.",
+    "reference": "The big meeting room's video kit is hit and miss — camera and sound keep cutting out.",
+    "targets": [
+      "hit and miss"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "onboarding",
+    "verbose": "When you are logging in for the very first time, the system will ask you to set up the two-step verification on your phone, so please keep your phone with you at that time, it will take only five minutes, nothing more.",
+    "reference": "First login asks for two-step verification on your phone. Five minutes — it's not rocket science.",
+    "targets": [
+      "it's not rocket science"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "ticket closing",
+    "verbose": "I am closing this ticket now because I have not received any response from your side from last one week, but if the problem comes again then you can reopen the same ticket or you can raise a new one also.",
+    "reference": "I'm closing this — no reply in a week. Do get back to me if it recurs.",
+    "targets": [
+      "get back to"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "budget",
+    "verbose": "The management is asking us to reduce the IT budget by twenty percent this year, but at the same time they are wanting us to support more users and more systems also, which is very difficult to manage, I am telling you.",
+    "reference": "We're told to cut back by a fifth while supporting more users. That's quite a squeeze.",
+    "targets": [
+      "cut back"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "vendor issue",
+    "verbose": "The software vendor has told us that the bug which is crashing the application will be fixed only in their next version, which is coming after three months, and till then we have to manage somehow with whatever we have.",
+    "reference": "The vendor's fix is three months away, so we'll have to make do till then.",
+    "targets": [
+      "make do"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "security",
+    "verbose": "We have noticed that many people are using very simple passwords like their birthday or one-two-three-four, which is very easy to guess for anybody, so from next month onwards the system will force everybody to use strong passwords.",
+    "reference": "Too many passwords are guessable, so stricter, more stringent rules start next month.",
+    "targets": [
+      "stringent"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "status update",
+    "verbose": "I have completed setting up the new desks on the second floor, all the monitors and docking stations are working fine, only two phones are pending, which will come tomorrow and then I will install them also.",
+    "reference": "Second-floor desks are done bar a few bits and bobs — two phones arrive tomorrow.",
+    "targets": [
+      "bits and bobs"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "request",
+    "verbose": "If you are having some free time today, can you please come to my desk and check why my second monitor is not working, I have tried changing the cable also but still it is showing no signal only.",
+    "reference": "When you get a chance, could you look at my second monitor? A new cable didn't help.",
+    "targets": [
+      "when you get a chance"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "hot-desking",
+    "verbose": "Since the company has started this new system where nobody is having a fixed desk, people are facing many problems every morning to connect their laptops with the different monitors and docking stations, and lot of time is going waste.",
+    "reference": "Since hot-desking began, people waste every morning connecting to different docks.",
+    "targets": [
+      "hot-desking"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "pushback",
+    "verbose": "With due respect, the problem is not with the network at all, I have checked everything from our side, the issue is coming because of the application itself, so you have to talk to the application team for this one.",
+    "reference": "With respect, you're barking up the wrong tree — the network's fine; it's the app.",
+    "targets": [
+      "barking up the wrong tree"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "outage comms",
+    "verbose": "The phone lines in the customer service team have stopped working since morning, so the customers are not able to call us at all, and we have asked the telecom company to fix it, they are saying it will take some time.",
+    "reference": "Customer service lines are down, with a knock-on effect on customers. The provider's on it.",
+    "targets": [
+      "knock-on effect"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "training",
+    "verbose": "Many people are calling the helpdesk again and again for the same small-small problems like how to share screen in video call, so I am thinking we should do one short training session for everyone in the company.",
+    "reference": "A quick session on basics like screen sharing would upskill everyone and free up the helpdesk.",
+    "targets": [
+      "upskill"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "apology",
+    "verbose": "I am extremely sorry for the delay in fixing your issue, actually we were having lot of tickets this week because of the system upgrade, and your ticket got missed somehow in between, it was our mistake only.",
+    "reference": "Apologies for the delay — the upgrade swamped us and your ticket slipped through.",
+    "targets": [
+      "apologies for the delay",
+      "swamped"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "backup test",
+    "verbose": "We should test the backups once in every quarter, because just taking the backup is not enough, we must check that we are able to restore it properly also, otherwise in an emergency it may not work and then what we will do.",
+    "reference": "Backups are worthless untested. The proof of the pudding is restoring them — quarterly.",
+    "targets": [
+      "the proof of the pudding"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "access removal",
+    "verbose": "When any employee is leaving the company, the manager must inform us on the last working day itself, so that we can remove all their access immediately, otherwise it is a very big security risk for the whole company.",
+    "reference": "The onus is on managers to tell us on a leaver's last day.",
+    "targets": [
+      "onus"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "software request",
+    "verbose": "I have seen your request for the new software, but before installing we have to check whether it is safe and whether it is approved by the security team, so it will take some days, please be patient till then.",
+    "reference": "Security need to vet it first, so it'll take a few days. Thanks for your patience.",
+    "targets": [
+      "thanks for your patience"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "migration",
+    "verbose": "We are moving all the files from the old server to the new cloud storage this weekend, so on Monday morning you may find that some shortcuts are not working properly, and you just need to create them again, nothing to worry.",
+    "reference": "Expect a few teething problems after this weekend's cloud migration, like broken shortcuts.",
+    "targets": [
+      "teething problems"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "stakeholder email",
+    "verbose": "Dear team, this is a gentle reminder that all of you have to complete the mandatory cyber security training by end of this month, and those who have not done it by then will lose their system access automatically.",
+    "reference": "Sorry to chase, but security training's due by month-end, or access is suspended.",
+    "targets": [
+      "sorry to chase"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "equipment request",
+    "verbose": "I wanted to ask whether I can get one extra monitor for working from home also, because I am working on very big spreadsheets nowadays and it is very difficult to manage everything on the small laptop screen.",
+    "reference": "Could I get a monitor for home? Big spreadsheets are fiddly on a laptop screen.",
+    "targets": [
+      "fiddly"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "incident",
+    "verbose": "Since morning, some people are getting a message on their screen that all their files are locked and they have to pay money to unlock them, so we have disconnected those computers from the network to stop it from spreading further.",
+    "reference": "We've hit ransomware on a few machines and isolated them to mitigate the spread.",
+    "targets": [
+      "mitigate"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "feedback",
+    "verbose": "Thank you so much for fixing my laptop so quickly, I was having a very important presentation in the afternoon and without your help I would not have been able to do it at all, really I am very thankful to you.",
+    "reference": "Thanks for the quick fix — you saved my afternoon presentation. You're a star.",
+    "targets": [
+      "you're a star"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "pushback",
+    "verbose": "We cannot fix your personal mobile phone because our IT support is only for the company devices, but if you want, I can tell you the name of one good repair shop which is there nearby our office.",
+    "reference": "Personal phones aren't within our remit, but I can recommend a repair shop nearby.",
+    "targets": [
+      "remit"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "status",
+    "verbose": "Most of the people have already moved to the new email system successfully, only around thirty people are remaining who were on leave during that time, and we will move them also by end of this week without fail.",
+    "reference": "The email rollout's nearly complete — about thirty left to move by Friday.",
+    "targets": [
+      "rollout"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "probation",
+    "verbose": "The new support engineer who joined last month is doing very good work, users are giving positive feedback about him, and he is closing tickets very fast also, so I think we should confirm him after the probation period is over.",
+    "reference": "Our new engineer's closing tickets fast with great feedback. I'd confirm him after probation.",
+    "targets": [
+      "probation"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "request",
+    "verbose": "Please don't install any unknown software or browser extensions on the office laptop without asking us first, because many of them are having hidden viruses inside which can steal your data without you even knowing.",
+    "reference": "New software or extensions? Do run it past us first — some hide malware.",
+    "targets": [
+      "run it past"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "wifi",
+    "verbose": "Just for your information, the guest WiFi password is changing every month for the security reasons, and the new password will be displayed on the screen at the reception, so you can check from there whenever it is needed.",
+    "reference": "Incidentally, the guest Wi-Fi password changes monthly; it's on the screen in reception.",
+    "targets": [
+      "incidentally"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "ticket",
+    "verbose": "Your ticket number is four-five-six-seven, please note it down and mention this number whenever you are calling us about the same issue, so that we can quickly find the details and help you without any delay.",
+    "reference": "There you go: ticket 4567. Quote it if you call back.",
+    "targets": [
+      "there you go"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "vendor contract",
+    "verbose": "The contract with our current IT support vendor is ending in three months, and frankly speaking their service was not good this year, so I am suggesting we should invite other vendors also before renewing it blindly.",
+    "reference": "Service has been poor, so before renewing, let's put it out to tender.",
+    "targets": [
+      "tender"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "root cause",
+    "verbose": "We found out finally that the reason for the slow internet in the whole office was that one person was downloading very big files continuously on the office network for his personal use, the whole day.",
+    "reference": "Someone was hogging the bandwidth downloading huge personal files all day.",
+    "targets": [
+      "bandwidth"
+    ]
+  },
+  {
+    "domain": "it support",
+    "category": "end of day",
+    "verbose": "I think I will finish now for today, all my tickets are closed except one, which is waiting for the user to reply, so I will continue that one tomorrow morning first thing when I come.",
+    "reference": "I'm calling it a day — all closed bar one, which I'll pick up first thing.",
+    "targets": [
+      "call it a day",
+      "pick up"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "feedback",
+    "verbose": "I saw the new design and overall I liked it very much, but one thing I wanted to tell you is that the colour of the button is not very visible on the white background, so many users may not notice it at all.",
+    "reference": "Lovely work. The button's hard to see on white — perhaps you could consider a darker shade.",
+    "targets": [
+      "perhaps you could consider"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "pushback",
+    "verbose": "The client is asking us to put so many things on the home page itself, like all offers, all products, all news, but if we put everything there then the page will become very crowded and confusing for the users.",
+    "reference": "Cram everything on the home page and there'll be no room to swing a cat.",
+    "targets": [
+      "no room to swing a cat"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "research findings",
+    "verbose": "When we did the usability testing with the users, almost every user was getting confused at the checkout page, they were not understanding where to enter the discount code, and some of them gave up completely.",
+    "reference": "The discount code field was the big sticking point in testing — some users gave up.",
+    "targets": [
+      "sticking point"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "request",
+    "verbose": "Can you please share the design files with the developers at the earliest, because they are waiting from two days to start the work, and without the files they cannot do anything, they are just sitting.",
+    "reference": "Just following up — could you share the design files? The devs have waited two days.",
+    "targets": [
+      "just following up"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "estimate",
+    "verbose": "To design the whole app from the beginning will take at least six to eight weeks, because we need to do the research, make the wireframes, test with the users, and then make the final designs, all these steps are there.",
+    "reference": "Designing the app from scratch is six to eight weeks, research to final designs.",
+    "targets": [
+      "from scratch"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "accessibility",
+    "verbose": "We should think about the people who are colour blind also, because in our current design we are showing all the errors only in red colour, and colour blind people will not be able to see the difference properly.",
+    "reference": "Have you thought about colour-blind users? Errors only show in red.",
+    "targets": [
+      "have you thought about"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "handoff",
+    "verbose": "The developer has built the screen but it is not matching with the design at all, the spacing is different, the font sizes are different, and the icons are also not the same ones which I gave to him.",
+    "reference": "The build's a far cry from the design — spacing, fonts and icons are all off.",
+    "targets": [
+      "a far cry from"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "stakeholder",
+    "verbose": "The marketing manager keeps on changing his mind about the logo colour, first he said blue, then he said green, and now he is saying go back to blue, and we have already redone it four times because of him.",
+    "reference": "We've been pushed from pillar to post on the logo — four rounds, now back to blue.",
+    "targets": [
+      "from pillar to post"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "design system",
+    "verbose": "Every designer in the team is making buttons and forms in their own different style, so our product is looking very inconsistent, and I think we need one common design system that everyone follows strictly from now.",
+    "reference": "Everyone styles components differently, so the product isn't coherent. We need a shared design system.",
+    "targets": [
+      "coherent"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "pushback",
+    "verbose": "I understand you want to add the popup asking users to subscribe as soon as they open the website, but these popups are very irritating for the users, and many of them will just close the website directly.",
+    "reference": "An instant pop-up drives people away. I'd be inclined to wait until they've scrolled.",
+    "targets": [
+      "I'd be inclined to"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "retro",
+    "verbose": "In this project we spent too much of time making the designs very perfect, with every small-small detail, and then the requirements changed and we had to throw away most of the work which we did.",
+    "reference": "We over-polished early designs, then binned them. Quicker iterations next time.",
+    "targets": [
+      "iteration"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "hiring",
+    "verbose": "We are hiring a UX designer and we need someone who is not only good at making beautiful screens, but also who can do proper user research and who can understand the business needs properly.",
+    "reference": "We need a UX designer with a holistic approach, not just a pretty-screens person.",
+    "targets": [
+      "holistic"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "onboarding",
+    "verbose": "Since you are joining the design team, first I will give you access to our design tool and the component library, and you can go through the old projects to understand our style and way of working here.",
+    "reference": "You'll get tool access today. Have a look round old projects to learn our style.",
+    "targets": [
+      "look round"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "feedback",
+    "verbose": "I am saying this with good intention only, please don't mind, but the font you have used is looking little bit old-fashioned, and for a young audience like ours, maybe a more modern font will suit better.",
+    "reference": "Just a thought — the font feels dated for a young audience. Something more modern?",
+    "targets": [
+      "just a thought"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "research",
+    "verbose": "We spoke to ten users and many of them said they want a search option in the app, but when we watched them using the app, most of them were not using the search at all, they were just browsing.",
+    "reference": "Funnily enough, users asked for search but barely used it when we watched.",
+    "targets": [
+      "funnily enough"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "handover",
+    "verbose": "All the final designs are there in the shared folder with proper names, and I have also added notes in each screen explaining the interactions, so the developers should not have any confusion while building.",
+    "reference": "Designs and interaction notes are in the shared folder, so the handover should be seamless.",
+    "targets": [
+      "seamless",
+      "handover"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "deadline",
+    "verbose": "The deadline given for this design is too short, I have only two days to design twenty screens, and if I do it in such a hurry then the quality will definitely suffer, I am telling you honestly from now itself.",
+    "reference": "Twenty screens in two days is cutting it fine — the quality will suffer.",
+    "targets": [
+      "cutting it fine"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "mobile",
+    "verbose": "Most of our users are using the website on their mobile phones only, almost seventy percent, but our designs are always done for desktop first and then we are adjusting them for mobile later, which is the wrong way.",
+    "reference": "Most users are on mobile, yet we design desktop-first. Mobile-first is best practice.",
+    "targets": [
+      "best practice"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "pushback",
+    "verbose": "My personal opinion is that we should not copy exactly what our competitor is doing in their app, because their users are different from our users, and what works for them may not work for us.",
+    "reference": "Their users aren't ours, so copying them won't necessarily work. Horses for courses.",
+    "targets": [
+      "horses for courses"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "request",
+    "verbose": "Is it possible for you to give me some feedback on these wireframes by tomorrow, nothing detailed, just your first impressions, so that I can know whether I am going in the right direction or not.",
+    "reference": "Could you be a sounding board on these wireframes by tomorrow?",
+    "targets": [
+      "sounding board"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "workshop",
+    "verbose": "I am planning to do one workshop with all the stakeholders where we will discuss the problems of the users and come up with ideas together, so that everyone feels involved in the design process from the start.",
+    "reference": "I'm running a workshop so stakeholders can come up with ideas together and feel involved.",
+    "targets": [
+      "come up with"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "vendor issue",
+    "verbose": "The agency which we hired for the illustrations has sent us the work, but it is not at all what we asked for, the style is completely different from the brief which we gave them in the beginning.",
+    "reference": "It's not quite what I had in mind — the agency's style is miles off the brief.",
+    "targets": [
+      "not quite what I had in mind"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "metrics",
+    "verbose": "After we changed the design of the sign-up form and made it shorter, the number of people who are completing the sign-up has increased by almost twenty-five percent, which is a very good result for us.",
+    "reference": "Shortening the sign-up form gave a tangible lift — completions are up a quarter.",
+    "targets": [
+      "tangible"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "critique",
+    "verbose": "In my view, the problem with this screen is that there are too many options at the same time, the user doesn't know where to look first, so we should highlight only the main action and hide the others.",
+    "reference": "There's rather too much going on. Let's make the main action stand out.",
+    "targets": [
+      "rather"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "status update",
+    "verbose": "The designs for the first phase are completed and the client has approved them also, now we are starting the work on the second phase, which is mainly about the settings and profile pages of the app.",
+    "reference": "Milestone hit: phase one's approved, and we're on to settings and profile pages.",
+    "targets": [
+      "milestone"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "accessibility",
+    "verbose": "The users who are using our app are mostly elderly people, so the text size is very small for them and the buttons are also too close to each other, they are pressing the wrong buttons by mistake.",
+    "reference": "Small text and cramped buttons are a bit of an issue for our mostly elderly users.",
+    "targets": [
+      "a bit of an issue"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "pushback",
+    "verbose": "You are asking to make the logo bigger again, but it is already quite big, and if we make it more bigger then it will take all the attention away from the main message of the page.",
+    "reference": "Any bigger and the logo would be over the top — it'd upstage the message.",
+    "targets": [
+      "over the top"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "dark mode",
+    "verbose": "Making the dark mode is not just simply changing the white colour to black, we have to check every screen, every image, every colour combination, so it is a much bigger work than what everyone is thinking.",
+    "reference": "Swapping white for black is just the tip of the iceberg — every screen needs checking.",
+    "targets": [
+      "the tip of the iceberg"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "presentation",
+    "verbose": "When I am presenting the designs to the client tomorrow, first I will explain the problems which we found in the research, and then I will show how each design is solving those problems one by one.",
+    "reference": "I'll kick off with the research findings, then show how each design tackles them.",
+    "targets": [
+      "kick off"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "copywriting",
+    "verbose": "The text written on the error messages is very technical, like error code four zero four, normal users don't understand what it means, we should write it in simple language that tells them what to do next.",
+    "reference": "Error messages should be plain and succinct — tell people what to do next.",
+    "targets": [
+      "succinct"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "retro",
+    "verbose": "One very good thing in this project was that the developers were involved from the starting itself in the design discussions, so there were no surprises later about what is possible and what is not possible.",
+    "reference": "Involving developers from day one meant no nasty surprises about feasibility.",
+    "targets": [
+      "feasibility"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "challenge",
+    "verbose": "Actually I have one doubt, are we sure that users really want this feature, because I have not seen any research or data which is showing that, it may be just our assumption only, nothing else.",
+    "reference": "Is there anything to substantiate that users want this, or is it an assumption?",
+    "targets": [
+      "substantiate"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "time off",
+    "verbose": "I wanted to inform you in advance that I will be on leave for two weeks in December, so if any design work is needed during that time, we should plan it before I go or we can ask the other designer.",
+    "reference": "I'm on annual leave for two weeks in December, so let's plan around it.",
+    "targets": [
+      "annual leave"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "prototype",
+    "verbose": "Instead of making all the final designs directly, I am thinking to first make one quick prototype and show it to five-six users, so that we can see if the idea is working or not before spending more time.",
+    "reference": "Let's build a quick prototype and sound out a few users before final designs.",
+    "targets": [
+      "sound out"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "feedback received",
+    "verbose": "The feedback which the senior designer gave me on my work was very harsh, and that also in front of the whole team, I felt very bad about it, though I agree that some of the points were valid.",
+    "reference": "The feedback was partly fair, but so harsh, in front of everyone — it's a bit much.",
+    "targets": [
+      "it's a bit much"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "icons",
+    "verbose": "We are using icons from three-four different sets in the same app, some are filled, some are outline, some are rounded, so the whole app is looking like it is made by different-different people.",
+    "reference": "Our icon sets are chalk and cheese, so the app looks cobbled together.",
+    "targets": [
+      "chalk and cheese"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "scope",
+    "verbose": "The developers are saying that this animation will take one full week to build, so I am thinking maybe we can remove it for now and add it later, because it is only for looks, not very important for the users.",
+    "reference": "The animation's the icing on the cake, and it's a week's work. Let's drop it for now.",
+    "targets": [
+      "the icing on the cake"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "user interview",
+    "verbose": "During the interview, the user was telling that she is using our app every day for her small business, but she is finding the reports section very confusing, she is downloading the data and making her own reports in Excel.",
+    "reference": "She uses the app daily but can't make head nor tail of reports, so she exports to Excel.",
+    "targets": [
+      "can't make head nor tail of"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "stakeholder email",
+    "verbose": "As per our discussion in the meeting yesterday, I have made all the changes which you suggested in the design, please find the updated design in the attachment and let me know if any further changes are required.",
+    "reference": "Further to yesterday's meeting, please find attached the updated design.",
+    "targets": [
+      "further to",
+      "please find attached"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "onboarding flow",
+    "verbose": "The onboarding in our app is having eight steps, which is too many, the users are getting bored in between and leaving, so we should reduce it to maximum three steps only, not more than that.",
+    "reference": "Eight onboarding steps loses people. Let's cut down on them — three, tops.",
+    "targets": [
+      "cut down on"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "brand",
+    "verbose": "The new brand guidelines are saying that we should use only these three colours in all the designs, but for the charts and graphs we need more colours, so I am not sure what we should do in this case.",
+    "reference": "The guidelines stipulate three colours, but charts need more. How do we square that?",
+    "targets": [
+      "stipulate"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "freelancer",
+    "verbose": "We need to hire one freelance designer for three months because our team is fully busy with the main product and there is one big marketing campaign coming which needs a lot of design work to be done.",
+    "reference": "Let's rope in a freelancer for three months — the team's flat out and the campaign's design-heavy.",
+    "targets": [
+      "rope in"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "survey",
+    "verbose": "Asking users to fill one survey with thirty questions is too much, nobody will complete it till the end, maximum we should have five-six questions which are very important for us, that is enough.",
+    "reference": "Thirty questions is too many. Let's keep to the five or six most pertinent.",
+    "targets": [
+      "pertinent"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "status",
+    "verbose": "The research report is almost ready, I am just adding the last few quotes from the users and some videos, and I will share it with everybody by tomorrow afternoon latest, that I can promise you.",
+    "reference": "The research report's nearly in the bag — just adding quotes. Tomorrow afternoon at the latest.",
+    "targets": [
+      "in the bag"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "requirements",
+    "verbose": "The brief which we got is very unclear, it is just saying make the app look more modern, but it is not telling what exactly they don't like in the current design, so it is very difficult to start.",
+    "reference": "The brief just says \"more modern\". We need to elicit what they actually dislike.",
+    "targets": [
+      "elicit"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "test plan",
+    "verbose": "For the testing session next week, we will call six users, give them five tasks to do in the app, and observe where they are getting stuck, and each session will be around forty-five minutes long.",
+    "reference": "To recap: six users, five tasks, forty-five minutes each, watching where they get stuck.",
+    "targets": [
+      "to recap"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "feature removal",
+    "verbose": "Many users are complaining that we have removed the old menu which they were used to, and they are not able to find their favourite options in the new design, so they are asking us to bring it back.",
+    "reference": "There's a bit of a kerfuffle over the old menu — users want it back.",
+    "targets": [
+      "kerfuffle"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "collaboration",
+    "verbose": "I think it will be better if designers and developers sit together for one hour every week and discuss the upcoming work, so that the problems are found early and not at the last moment before release.",
+    "reference": "A weekly design-dev session would catch problems early, not at the eleventh hour.",
+    "targets": [
+      "at the eleventh hour"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "pushback",
+    "verbose": "The director is saying he does not like the green colour, but that is just his personal choice, our research shows that users are responding very well to it, so we should not change it just because of that.",
+    "reference": "Users respond well to the green, and the research underpins that. One person's taste shouldn't override it.",
+    "targets": [
+      "underpin"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "request",
+    "verbose": "If you don't mind me asking, can you please send me the original high quality image files of the product photos, because the ones on the website are very small and blurry, and I cannot use them in the design.",
+    "reference": "I hope you don't mind — could I have the high-res product photos? The web ones are blurry.",
+    "targets": [
+      "I hope you don't mind"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "reuse",
+    "verbose": "There is no need to design a new date picker from scratch, we already have one in our component library which is working well, so we can just use that one only and save our time and effort.",
+    "reference": "We already have a date picker in the library, so let's utilise that.",
+    "targets": [
+      "utilise"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "workshop",
+    "verbose": "In the workshop yesterday, the sales team was telling many problems which customers are facing, and some of them we were not knowing at all, so it was a very useful session for us, I must say.",
+    "reference": "Sales raised customer problems we'd never heard of — real food for thought.",
+    "targets": [
+      "food for thought"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "perfectionism",
+    "verbose": "I know you want it to be perfect, but we have to send the designs to the client today itself, so let us go with what we have now, and we can make small improvements in the next round.",
+    "reference": "It's due today, so that'll do for now. We can polish it next round.",
+    "targets": [
+      "that'll do"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "naming",
+    "verbose": "The labels which we are using in the menu are internal words that only our team is understanding, like the names of the projects, but the customers will not understand these words at all, I am sure.",
+    "reference": "Our menu labels are in-house jargon customers won't get. They need an overhaul.",
+    "targets": [
+      "overhaul"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "deadline update",
+    "verbose": "The design delivery is getting delayed by two days because the client has sent the content very late, and we cannot finish the designs without the actual content, so please inform the project manager about this.",
+    "reference": "Late content means a two-day slip. Could you tell the PM? I'll leave it with you.",
+    "targets": [
+      "I'll leave it with you"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "hiring",
+    "verbose": "When we were checking the portfolio of the candidate, the designs were looking very beautiful, but she was not able to explain why she made those design decisions, which is very important for us.",
+    "reference": "Lovely portfolio, but she couldn't give the rationale behind her choices.",
+    "targets": [
+      "rationale"
+    ]
+  },
+  {
+    "domain": "design",
+    "category": "decision",
+    "verbose": "Instead of arguing in the meeting about which design is better and which is worse, why don't we test both the designs with real users and let the data decide which one we should finally go with.",
+    "reference": "Let's not split hairs: test both and let the data decide.",
+    "targets": [
+      "split hairs"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "funding update",
+    "verbose": "So the good news which I wanted to share with all of you is that we have finally closed the funding round, and the money will come in the account by next week, so now we can start hiring the people which we were planning for a long time.",
+    "reference": "We've closed the round and we're over the moon. Money lands next week, so hiring can start.",
+    "targets": [
+      "over the moon"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "runway",
+    "verbose": "I have to tell everybody very honestly that we are having money for only six more months, so if we don't get any new customers or any new funding in that time, then we will be in very big trouble, there is no doubt about it.",
+    "reference": "We've six months of cash left, so we're on thin ice without new customers or funding.",
+    "targets": [
+      "on thin ice"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "pivot",
+    "verbose": "After talking to so many customers, we have realised that the original idea is not working out, nobody is ready to pay any money for it, so we are thinking to change the direction of the product completely from next month onwards.",
+    "reference": "Customers won't pay for it — the writing is on the wall. We're changing direction.",
+    "targets": [
+      "the writing is on the wall"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "hiring",
+    "verbose": "In a small company like ours, we cannot hire people who can only do one type of work, we need people who are ready to do anything and everything, whatever is required on that particular day, without any complaining.",
+    "reference": "At our size, we need versatile people who'll chip in wherever needed.",
+    "targets": [
+      "chip in"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "investor update",
+    "verbose": "Dear investors, I am very happy to share with you all that this month our revenue has increased by forty percent compared to last month, and we have also signed two big customers, the details of which are given below in this mail.",
+    "reference": "Strong momentum this month: revenue's up forty per cent and two big customers have signed.",
+    "targets": [
+      "momentum"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "burnout",
+    "verbose": "Everybody in the team is working till midnight every single day from last two months, and people are getting very tired now, if this continues like this then people will start leaving, so we need to do something about it immediately.",
+    "reference": "The team's been burning the midnight oil for two months. If that carries on, people will leave.",
+    "targets": [
+      "burn the midnight oil",
+      "carry on"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "pushback",
+    "verbose": "I know you are very excited about this new idea, but we already have three projects running and none of them is completed yet, so starting one more new thing now will only divide our attention even more, according to me.",
+    "reference": "We've got bigger fish to fry — three unfinished projects. Another would spread us too thin.",
+    "targets": [
+      "bigger fish to fry"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "customer",
+    "verbose": "Our first big customer is very happy with the product and they are telling that they will recommend us to other companies also in their network, which will be very helpful for us to get more and more customers.",
+    "reference": "Our first big customer's delighted and will recommend us — that gives us real impetus.",
+    "targets": [
+      "impetus"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "co-founder",
+    "verbose": "Me and my co-founder are not agreeing on many things these days, like where to spend the money and whom to hire, and it is creating tension in the team also, because people can feel it, they are not stupid.",
+    "reference": "My co-founder and I keep having rows about money and hiring, and the team can feel it.",
+    "targets": [
+      "row"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "cash",
+    "verbose": "We cannot spend money on a fancy office and expensive furniture and all right now, we have to save every penny, because our first priority is building the product and getting the customers, nothing else is more important.",
+    "reference": "We can't splash out on a fancy office — every penny goes on product and customers.",
+    "targets": [
+      "splash out"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "launch",
+    "verbose": "We are launching the product next week, but honestly speaking it is not fully ready, many small features are still missing, but we have decided to launch anyway and improve it based on the feedback which we get.",
+    "reference": "We're launching next week, warts and all, and we'll improve it based on feedback.",
+    "targets": [
+      "warts and all"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "competitor funding",
+    "verbose": "Our competitor has raised a very big amount of funding, almost ten times more than us, and now they will spend a lot on the marketing, so we have to be very smart about how we compete with them going forward.",
+    "reference": "With a rival raising ten times our funding, we're on the back foot. We'll need to outsmart them.",
+    "targets": [
+      "on the back foot"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "equity",
+    "verbose": "For the early employees, we are planning to give some shares of the company also, along with the salary, because we cannot pay very high salaries right now like the big-big companies are paying.",
+    "reference": "Early staff remuneration will include equity, as we can't match big-company salaries.",
+    "targets": [
+      "remuneration"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "pitch",
+    "verbose": "When we are giving the pitch to the investors, we should not talk too much about the technology part, because they are more interested in knowing how big the market is and how exactly we will make money.",
+    "reference": "Cut to the chase with investors: market size and revenue model, not technology.",
+    "targets": [
+      "cut to the chase"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "failure",
+    "verbose": "The marketing campaign which we did last month was a complete failure, we spent so much money on it but we got very few customers, almost nothing, so we should not do the same mistake again in future.",
+    "reference": "Last month's campaign was a damp squib — lots spent, hardly any customers.",
+    "targets": [
+      "a damp squib"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "process",
+    "verbose": "Now that the team is growing day by day, we cannot work like before where everybody was doing everything without any process, we need some basic processes so that things are not getting missed in between.",
+    "reference": "Our everyone-does-everything approach isn't scalable. We need some basic processes.",
+    "targets": [
+      "scalable"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "all-hands",
+    "verbose": "For the meeting tomorrow, I want each and every person from the company to join, because I will be sharing the plans for the next year and also some important news which is affecting everybody.",
+    "reference": "Tomorrow's all-hands is for everyone — next year's plans and some important news.",
+    "targets": [
+      "all-hands"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "request",
+    "verbose": "Sir, if it is possible for you, can you please introduce us to some of your contacts in the retail industry, because we are trying to get our first retail customer and it will be very helpful if we have a warm introduction.",
+    "reference": "If I may — could you introduce us to any retail contacts? A warm intro would help.",
+    "targets": [
+      "if I may"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "layoffs",
+    "verbose": "This is very painful to say, but because of the funding problems, we have to let go of some people from the team, and we will be giving them proper support and some extra salary also to help them.",
+    "reference": "It's painful, but funding problems mean some redundancies. We'll support those affected.",
+    "targets": [
+      "redundancy"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "deadline",
+    "verbose": "The demo for the investor is on Friday morning, and the main feature is still having so many bugs, so we will have to work very hard in the next two days to make it ready in time, there is no other option.",
+    "reference": "The investor demo's Friday and the main feature's still buggy, so it'll go down to the wire.",
+    "targets": [
+      "down to the wire"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "vendor issue",
+    "verbose": "The payment gateway company is taking almost three weeks to approve our account, and without their approval we cannot start taking payments from the customers at all, which is basically stopping our whole launch.",
+    "reference": "The payment provider's approval is protracted, and we can't launch without it.",
+    "targets": [
+      "protracted"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "culture",
+    "verbose": "What I like the most about working in this startup is that there is no hierarchy at all, anybody can go and talk to the CEO directly and give their ideas, which never happened in my previous big company.",
+    "reference": "There's no hierarchy — anyone can pitch to the CEO. A far cry from my last job.",
+    "targets": [
+      "a far cry from"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "goal setting",
+    "verbose": "For this quarter, I am thinking that we should focus only on one main goal, which is getting one hundred paying customers, and everything else should be second priority only, not first priority.",
+    "reference": "Our overarching goal this quarter is a hundred paying customers; everything else is secondary.",
+    "targets": [
+      "overarching"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "expansion",
+    "verbose": "The investor is suggesting that we should expand to five new cities immediately, but I feel we are not ready yet for that, we should first become strong in our current city and then expand slowly-slowly.",
+    "reference": "The investor wants five new cities now, but I'd rather consolidate here first.",
+    "targets": [
+      "consolidate"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "workload",
+    "verbose": "Since we are only five people in the company, I am handling the sales, the customer support, and also the accounts, all three things, and it is becoming too much for me to manage everything alone.",
+    "reference": "With only five of us, I'm up to my eyes in sales, support and accounts.",
+    "targets": [
+      "up to my eyes"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "churn",
+    "verbose": "Many of the customers who joined in the first month have already stopped using the product, which is very worrying, so we need to understand why they are leaving before spending more money on getting new customers.",
+    "reference": "Let's suss out why early customers are leaving before spending on acquisition.",
+    "targets": [
+      "suss out"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "board meeting",
+    "verbose": "For the board meeting next week, we need to prepare the financial report, the product updates, and the plan for next quarter, so please send me your parts by Wednesday so I can put everything together.",
+    "reference": "Please send me your board sections by Wednesday so I can collate them.",
+    "targets": [
+      "collate"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "growth",
+    "verbose": "In the last three months, the number of users has grown very-very fast, from one thousand to ten thousand, mostly because people are telling their friends and family about our app, which is really a very big achievement for such a small team like ours.",
+    "reference": "Growth's been exponential — one to ten thousand users in three months, by word of mouth.",
+    "targets": [
+      "exponential"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "regulation",
+    "verbose": "Before we launch this feature, we must check with the lawyer whether we need any special licence or not, because if we launch without permission, the government can fine us a lot of money.",
+    "reference": "We need to do our due diligence on licensing first, or risk a hefty fine.",
+    "targets": [
+      "due diligence"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "first office",
+    "verbose": "We are thinking to take one small office space in a shared building, because working from the café every day is becoming very difficult, there is too much of noise and the internet is very slow also.",
+    "reference": "The café's noisy and the Wi-Fi's ropey. Let's get a small shared office.",
+    "targets": [
+      "ropey"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "pricing experiment",
+    "verbose": "To be very frank, we are not sure what price to keep for our product, so we are planning to try different prices with different customers for one month and see which one is working best for us, then we will decide.",
+    "reference": "We'll pilot a few price points for a month and see what sticks.",
+    "targets": [
+      "pilot"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "investor pushback",
+    "verbose": "The investor is wanting thirty percent of the company for the money they are giving, but that is too much in my opinion, other investors are asking only fifteen to twenty percent for the same amount of money.",
+    "reference": "Thirty per cent for that money? Others ask fifteen to twenty. It's daylight robbery.",
+    "targets": [
+      "daylight robbery"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "founder update",
+    "verbose": "This week was very difficult for us, we lost one big customer, and one senior developer also resigned, but on the positive side we signed two new small customers, so it was mixed only, not fully bad, I would say.",
+    "reference": "Tough week: a big client and a senior dev gone, but two small wins. Could be worse.",
+    "targets": [
+      "could be worse"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "decision speed",
+    "verbose": "In a startup we cannot take one full month to take every decision like the big companies do, we have to decide fast, and if the decision is wrong then we can always correct it later.",
+    "reference": "We can't deliberate for a month. Take the plunge and correct course if needed.",
+    "targets": [
+      "take the plunge"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "hiring mistake",
+    "verbose": "We hired that person very quickly because we needed someone urgently, but now we are realising that he is not suitable for the role at all, and it is affecting the whole team badly, and honestly I am not knowing what to do now.",
+    "reference": "We rushed the hire and he's a square peg in a round hole. The team's feeling it.",
+    "targets": [
+      "a square peg in a round hole"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "partnership",
+    "verbose": "One big company is interested in doing a partnership with us, but they are wanting us to work only with them and not with any of their competitors, which can be very risky for us in the long run.",
+    "reference": "A big firm wants an exclusive partnership, which could leave us over a barrel.",
+    "targets": [
+      "over a barrel"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "metrics",
+    "verbose": "The investors are asking for the monthly numbers in a proper format every month, but till now we were maintaining everything in different-different sheets, so we need one proper system for tracking.",
+    "reference": "Investors want consistent monthly metrics, so our patchwork of spreadsheets has to go.",
+    "targets": [
+      "metric"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "celebration",
+    "verbose": "Since we have achieved the target of the first year, I am thinking we should do one small party for the whole team this Friday evening, because everybody has worked very hard throughout the year, and they deserve it.",
+    "reference": "We've hit our first-year target, so let's have a little do on Friday. You've earned it.",
+    "targets": [
+      "do"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "scrappy",
+    "verbose": "We don't have any budget for the expensive tools right now, so we are using all the free versions of the software, and somehow we are managing to do our work with that only.",
+    "reference": "We're getting by on free versions of everything — just about.",
+    "targets": [
+      "get by"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "accelerator",
+    "verbose": "We have been selected for the accelerator programme, which means we will get mentoring from experienced people and also some small funding, and we have to move to their office for three months.",
+    "reference": "We're in the accelerator! Mentoring and seed funding — a turn-up for the books.",
+    "targets": [
+      "a turn-up for the books"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "focus",
+    "verbose": "Our early customers are giving so many suggestions every day, but if we try to build everything they are asking for, then we will lose our focus, so we have to choose very carefully what to build.",
+    "reference": "Customers suggest plenty, but we need to be judicious about what we build.",
+    "targets": [
+      "judicious"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "founder health",
+    "verbose": "I have not taken a single day off from the last eight months, and now I am feeling very tired and not able to think clearly, so I am taking one week break to recharge myself fully.",
+    "reference": "I'm worn out after eight months without a day off, so I'm taking a week.",
+    "targets": [
+      "worn out"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "sales cycle",
+    "verbose": "Selling to the big companies is taking very long time, sometimes six months also, because there are so many people involved in taking the decision, and so many approvals are needed at each and every level.",
+    "reference": "Enterprise deals drag on for months, needing sign-off from all the powers that be.",
+    "targets": [
+      "the powers that be"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "team meetups",
+    "verbose": "Since our team is spread across different cities, we are meeting in person only once in three months, but those meetings are very useful for building the relationships and planning things together.",
+    "reference": "We only meet in person quarterly, but those days are invaluable.",
+    "targets": [
+      "invaluable"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "tech decision",
+    "verbose": "We should not build our own servers and all that right now, we should just use the cloud only, because it is easy to start and we can increase or decrease it as per our needs.",
+    "reference": "Let's rule out our own servers and use the cloud — it scales with us.",
+    "targets": [
+      "rule out"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "fundraising",
+    "verbose": "We have met almost forty investors in the last two months, and most of them have said no, some are saying come back later when you have more customers, it is very demotivating for me.",
+    "reference": "Forty investor meetings, mostly noes or \"come back later\". It's grim.",
+    "targets": [
+      "grim"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "exit interview",
+    "verbose": "The developer who left last week told me in the exit interview that he was leaving because there was no clear growth path for him here, and that is something we should fix for the others also.",
+    "reference": "A leaver cited no clear career trajectory — something we need to address.",
+    "targets": [
+      "trajectory"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "optimism",
+    "verbose": "Even though the numbers are not looking very good this month, I feel that we are on the right path, and once the new feature is launched, things will improve definitely, I am very confident.",
+    "reference": "The numbers are weak, but I reckon the new feature will turn things round.",
+    "targets": [
+      "I reckon"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "weekend request",
+    "verbose": "I need everybody's help this weekend for the big launch, I know it is a weekend and everyone wants to rest, but this is very important for the company, and I will give you all off on Monday.",
+    "reference": "I know it's the weekend, but I need all hands for the launch. Monday off in lieu.",
+    "targets": [
+      "in lieu"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "operations",
+    "verbose": "We are getting so many customer emails every day that the founders themselves are replying to all of them, which is taking half of our day, so we need to hire one support person very soon.",
+    "reference": "We founders spend half the day on customer emails. We need someone to delegate to.",
+    "targets": [
+      "delegate"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "valuation",
+    "verbose": "Different investors are giving very different value for our company, one is saying five million and another one is saying twelve million, so we are totally confused what is the correct value, and nobody is able to explain us properly.",
+    "reference": "Valuations range from five to twelve million — your guess is as good as mine.",
+    "targets": [
+      "your guess is as good as mine"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "mvp",
+    "verbose": "Instead of building the full product with all the features, what I am saying is that we should first make a very basic version with only the main feature, and test it with real customers to see if they actually like it.",
+    "reference": "Let's ship a minimum viable version and test it on real customers.",
+    "targets": [
+      "viable"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "missed target",
+    "verbose": "We were expecting to get two hundred customers by the end of this quarter, but we got only one hundred and twenty, so we have missed the target by a very big margin this time, which is not good news.",
+    "reference": "We aimed for two hundred customers and got a hundred and twenty — a big shortfall.",
+    "targets": [
+      "shortfall"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "culture",
+    "verbose": "One thing I want to make very clear to everyone, in this company we will not tolerate any kind of rude behaviour with colleagues, it doesn't matter how senior you are or how good you are at your work.",
+    "reference": "I want to be unequivocal: rudeness won't be tolerated, however senior you are.",
+    "targets": [
+      "unequivocal"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "sales call",
+    "verbose": "Yesterday I had a call with one potential customer, and they were very interested, they asked many questions about pricing and integration, and they want to have one more call with their technical team next week.",
+    "reference": "A prospective customer was keen and wants a follow-up with their tech team next week.",
+    "targets": [
+      "prospective",
+      "follow up"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "morale",
+    "verbose": "Some people in the team are saying we should shut down the company because it is not working out, but I feel we should give it six more months at least before taking such a big decision, that is my honest opinion.",
+    "reference": "Some want to shut up shop, but I'd give it six months before throwing in the towel.",
+    "targets": [
+      "throw in the towel"
+    ]
+  },
+  {
+    "domain": "startup",
+    "category": "freelance help",
+    "verbose": "We cannot afford a full-time designer right now, so for the time being we will take help from a freelancer whenever needed, and once we get the funding, we can hire someone full-time in the company.",
+    "reference": "We're on a shoestring, so a freelance designer for now; a full-time hire once funded.",
+    "targets": [
+      "on a shoestring"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "camera",
+    "verbose": "I wanted to request everybody that in the team meetings please try to keep your camera on, because when everyone's camera is off, it feels like I am talking to the wall and I don't know if people are listening or not.",
+    "reference": "I'd appreciate it if everyone kept cameras on — otherwise it's like talking to a wall.",
+    "targets": [
+      "I'd appreciate it if"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "time zones",
+    "verbose": "Since half of our team is sitting in another country with a different time zone, we are having only two hours in the day when everybody is online at the same time, so we should use those two hours very carefully.",
+    "reference": "We only overlap two hours a day, so let's ring-fence them for whole-team work.",
+    "targets": [
+      "ring-fence"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "connectivity",
+    "verbose": "Sorry, I think my internet is very slow today, my voice may be breaking in between, so if you are not able to hear me properly then please tell me immediately, I will switch off my video and try.",
+    "reference": "My connection's a bit iffy, so shout if I break up and I'll kill my video.",
+    "targets": [
+      "iffy"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "async update",
+    "verbose": "Since I am not able to join the standup meeting today because of a doctor appointment, I am writing my update here only, yesterday I finished the report and today I will start working on the presentation.",
+    "reference": "Can't make stand-up — doctor's appointment. Report's done; starting the deck today.",
+    "targets": [
+      "deck"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "hybrid policy",
+    "verbose": "As per the new policy, all employees have to come to the office minimum three days in a week, and the team managers will decide which three days, so please coordinate with your manager regarding the same.",
+    "reference": "The policy's three office days a week, set by managers, so do liaise with yours.",
+    "targets": [
+      "liaise"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "loneliness",
+    "verbose": "Working from home full-time is good for saving the travel time, but honestly I am feeling very lonely sometimes, because I don't talk to anybody the whole day except in the work meetings.",
+    "reference": "Home working saves the commute, but I miss a natter outside meetings.",
+    "targets": [
+      "natter"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "boundaries",
+    "verbose": "People are sending me messages at eleven o'clock in the night and expecting an immediate reply from me, which is not fair at all, because I also need some personal time after the working hours are over.",
+    "reference": "Once I've clocked off, I shouldn't be expected to reply at eleven at night.",
+    "targets": [
+      "clock off"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "meeting overload",
+    "verbose": "Since we started working from home, the number of meetings has increased so much, every small thing is becoming a meeting, which could have been done by just sending one simple message on chat.",
+    "reference": "Since going remote, our meeting discipline's gone to pot — half could be a message.",
+    "targets": [
+      "go to pot"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "handover",
+    "verbose": "Before I log off for the day, I am sharing the status of the deployment with the team in the other time zone, so they can continue the work from where I am leaving it, and nothing gets stuck overnight.",
+    "reference": "Before logging off, I'll post a handover so nothing stalls overnight.",
+    "targets": [
+      "handover"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "onboarding",
+    "verbose": "Onboarding a new joiner remotely is very difficult, because they cannot just turn around and ask the person sitting next to them, so we should give them one buddy whom they can message anytime they want.",
+    "reference": "Remote onboarding is hard, so let's give each new starter a buddy to message.",
+    "targets": [
+      "onboarding"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "request",
+    "verbose": "Can we please shift tomorrow's meeting to little bit later, maybe after twelve o'clock, because I am having to drop my child at school in the morning and I will not be able to join on time.",
+    "reference": "Could we move tomorrow's meeting to after twelve? I've got the school run.",
+    "targets": [
+      "school run"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "async culture",
+    "verbose": "I think instead of expecting everyone to reply immediately on chat, we should accept that people may reply after some time, because everyone is working in different hours and they need some time to focus.",
+    "reference": "With everyone on flexitime, let's not expect instant replies on chat.",
+    "targets": [
+      "flexitime"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "allowance",
+    "verbose": "The company has said that they will give some money to everybody for buying a good chair and desk for working from home, so you can buy them and submit the bills to the finance team for reimbursement.",
+    "reference": "The company's chipping in for a decent chair and desk — send receipts to finance.",
+    "targets": [
+      "chip in"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "misunderstanding",
+    "verbose": "I think there is some misunderstanding because of the message I sent yesterday, I didn't mean it in a rude way at all, it's just that I was typing very quickly and it came out wrong, so please don't feel bad about it.",
+    "reference": "It's easy to get the wrong end of the stick on chat. I was rushed, not rude.",
+    "targets": [
+      "get the wrong end of the stick"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "meeting hygiene",
+    "verbose": "For every meeting, please share the agenda one day before only, so that everybody can come prepared and we don't waste the first ten minutes understanding what the meeting is about.",
+    "reference": "Please share an agenda the day before, so we don't waste ten minutes.",
+    "targets": [
+      "agenda"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "office days",
+    "verbose": "Since everybody is coming to the office on Wednesday, I am thinking we should use that day for the team discussions and brainstorming, and do the individual focus work on the home days instead.",
+    "reference": "Let's allocate Wednesdays, when we're all in, to team discussions.",
+    "targets": [
+      "allocate"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "visibility",
+    "verbose": "When you are working from home, sometimes the managers don't know how much work you are doing actually, so it is important to share your updates regularly so that your work is visible to them.",
+    "reference": "Working remotely, effort can go unnoticed, so don't be shy to blow your own trumpet.",
+    "targets": [
+      "blow your own trumpet"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "noise",
+    "verbose": "Sorry for the background noise, there is some construction work going on in the building next to my house, and it is very loud, I will keep myself on mute when I am not talking, okay.",
+    "reference": "Sorry about the racket — building work next door. I'll stay on mute.",
+    "targets": [
+      "sorry"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "retro",
+    "verbose": "One thing that is not working well is that the people who are in the office are having discussions among themselves and taking decisions, and the people at home are not getting to know about it.",
+    "reference": "Office staff decide things among themselves and remote people find out later. It's not joined-up.",
+    "targets": [
+      "joined-up"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "leave notice",
+    "verbose": "Just informing you all that tomorrow I will be on half day leave because I have to go to the bank and some other personal work also, so I will be available only till one o'clock.",
+    "reference": "I'm off from one tomorrow, so catch me in the morning.",
+    "targets": [
+      "I'm off"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "tools",
+    "verbose": "We are using too many different tools for communication, some people are on email, some on chat, some on the other app, and important messages are getting lost in between all this.",
+    "reference": "Our comms are at sixes and sevens across three tools, so messages get lost.",
+    "targets": [
+      "at sixes and sevens"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "team bonding",
+    "verbose": "Since we are all working remotely, we are not knowing each other personally at all, so I am suggesting we should do one online game or quiz every Friday for thirty minutes, just for fun.",
+    "reference": "A Friday quiz would help break the ice — we barely know each other.",
+    "targets": [
+      "break the ice"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "meeting interruption",
+    "verbose": "Sorry to cut you in between, but I think we are going out of the topic, the meeting was for discussing the budget, and we are talking about the office party from last fifteen minutes.",
+    "reference": "Sorry to interrupt, but we've drifted — this was meant to be about the budget.",
+    "targets": [
+      "sorry to interrupt"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "productivity",
+    "verbose": "Some managers are feeling that people are not working properly from home, but actually the data is clearly showing that the productivity has increased after we started working from home.",
+    "reference": "The data doesn't corroborate those doubts — productivity's risen since we went remote.",
+    "targets": [
+      "corroborate"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "commute",
+    "verbose": "Coming to the office takes me almost two hours in one direction because of the traffic, so four hours daily are going waste in travelling only, that is why I prefer working from home.",
+    "reference": "With two-hour tailbacks each way, working from home makes more sense.",
+    "targets": [
+      "tailback"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "calendar",
+    "verbose": "Please check my calendar once before booking any meeting with me, because many times people are booking meetings during my lunch time or when I am already in another meeting, and then I am having to reschedule everything again and again.",
+    "reference": "I'd be grateful if you'd check my calendar before booking — I keep getting double-booked.",
+    "targets": [
+      "I'd be grateful if"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "away day",
+    "verbose": "We are planning one team offsite next month where the whole team will meet in person for two days, there will be some planning sessions in the day and also some fun activities in the evening.",
+    "reference": "Next month's away day: two days in person, planning by day, fun by night.",
+    "targets": [
+      "away day"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "hybrid meeting",
+    "verbose": "When some people are in the meeting room and some people are joining online, the people online are not able to hear properly what is being said in the room, so we need a better microphone.",
+    "reference": "Remote attendees can't hear the room, so they end up playing second fiddle.",
+    "targets": [
+      "play second fiddle"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "flexibility",
+    "verbose": "I wanted to ask if I can work from my hometown for two weeks next month, because my parents are not keeping well, and I will be available during all the working hours as usual, no change.",
+    "reference": "Do you mind if I work from my parents' for a fortnight? They're poorly.",
+    "targets": [
+      "do you mind if",
+      "poorly"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "written comms",
+    "verbose": "When you are writing the messages on chat, please write the full information in one message only, instead of writing hi, and then waiting for reply, and then writing the actual question, which is wasting everybody's time unnecessarily.",
+    "reference": "On chat, cut to the chase — ask your question in one go, not just \"hi\".",
+    "targets": [
+      "cut to the chase"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "availability",
+    "verbose": "I will be travelling tomorrow for the whole day, so I will not be able to join any calls at all, but I will be checking my messages in between whenever possible, so you can message me if urgent.",
+    "reference": "I'm travelling tomorrow, so no calls, but I'll pop online when I can.",
+    "targets": [
+      "pop"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "wellbeing",
+    "verbose": "Since working from home, I am noticing that I am working more hours than before, because there is no clear end of the day, and I keep on checking the emails even late in the evening.",
+    "reference": "Since going remote, I find it hard to wind down — I check email all evening.",
+    "targets": [
+      "wind down"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "pushback",
+    "verbose": "Coming to the office five days a week again will be very difficult for many people, especially those who are having small children, and some people may even leave the company because of this.",
+    "reference": "A five-day return would be detrimental to parents especially, and we might lose people.",
+    "targets": [
+      "detrimental"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "documentation",
+    "verbose": "Since we are working remotely, everything should be written down properly in the shared documents, because people cannot just walk to your desk and ask, and the verbal discussions are getting forgotten.",
+    "reference": "Remotely, we need decisions and minutes written down, as verbal agreements get forgotten.",
+    "targets": [
+      "minutes"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "video fatigue",
+    "verbose": "After back-to-back video calls the whole day, I am feeling very tired by the evening, my eyes are paining, and I am not able to concentrate on any actual work after that.",
+    "reference": "Back-to-back video calls leave me worn out, with sore eyes and no focus.",
+    "targets": [
+      "worn out"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "team norms",
+    "verbose": "I am proposing that we should all agree on some rules for the team, like reply to messages within four hours, keep the status updated, and inform others if you are going away from the desk.",
+    "reference": "Rule of thumb: reply within four hours, keep your status current, flag when you step away.",
+    "targets": [
+      "rule of thumb"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "hiring",
+    "verbose": "We did the interview on video call, and the candidate was very good, but I feel we should meet once in person also before finalising, because it is a senior role and the person will be leading a whole team.",
+    "reference": "She tops our shortlist, but for a senior role I'd want to meet in person first.",
+    "targets": [
+      "shortlist"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "connectivity drop",
+    "verbose": "Sorry everyone, my internet got disconnected suddenly in between, and I missed the last five minutes of the discussion, can somebody please tell me quickly what was decided just now.",
+    "reference": "Sorry, I dropped off for five minutes. Could someone help me catch up?",
+    "targets": [
+      "catch up"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "coworking",
+    "verbose": "Some days I am going to the coworking space near my house instead of working from home, because at home there are too many distractions, and at least there I can focus properly on my work.",
+    "reference": "At home I end up pottering about, so some days I use a co-working space.",
+    "targets": [
+      "end up",
+      "potter about"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "manager check-in",
+    "verbose": "Since we are not meeting in the office, I want to have one short call with each of you every week, just to check how you are doing, not only about the work but in general also.",
+    "reference": "Let's touch base weekly, one to one — not just work, but how you're doing.",
+    "targets": [
+      "let's touch base"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "security",
+    "verbose": "When you are working from a café or any public place, please make sure nobody is able to see your screen, and do not connect to the free public WiFi without using the VPN, it is very risky.",
+    "reference": "Use discretion with your screen in public, and never use open Wi-Fi without the VPN.",
+    "targets": [
+      "discretion"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "timesheet",
+    "verbose": "From this month onwards, everybody has to fill the timesheet every Friday, mentioning how many hours they have worked on each project, because the finance team needs it for billing the clients.",
+    "reference": "From this month, please fill in your timesheet every Friday for client billing.",
+    "targets": [
+      "fill in"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "hybrid fairness",
+    "verbose": "In the hybrid meetings, the people in the room are talking among themselves and forgetting about the people online, so the chairperson should make sure everyone online also gets a chance to speak in the discussion.",
+    "reference": "Online attendees can't get a word in edgeways, so the chair must bring them in.",
+    "targets": [
+      "get a word in edgeways",
+      "chair"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "late joining",
+    "verbose": "Sorry I am joining late, actually the previous meeting got extended by fifteen minutes and I could not leave in between because my manager was presenting something very important.",
+    "reference": "Apologies — my last meeting dragged on.",
+    "targets": [
+      "drag on"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "time zone respect",
+    "verbose": "Please don't schedule the meetings at six in the morning for the team in the other country, it is not fair to them at all, we should find a time which is reasonable for both the sides.",
+    "reference": "Six a.m. calls aren't equitable — let's find a time that suits both offices.",
+    "targets": [
+      "equitable"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "deep work",
+    "verbose": "I am blocking two hours every morning in my calendar for focused work, so during that time I will not be joining any meetings or replying to messages, except if it is something very urgent.",
+    "reference": "I'm ring-fencing two hours each morning for focus — urgent things only.",
+    "targets": [
+      "ring-fence"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "kudos",
+    "verbose": "I just want to give a big thanks to the support team, they handled all the customer issues during the outage so well, even though most of them were working from home with no proper setup.",
+    "reference": "Huge thanks to support for going the extra mile during the outage, mostly from home.",
+    "targets": [
+      "go the extra mile"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "chat etiquette",
+    "verbose": "Please don't use the main team channel for personal discussions and jokes, because important announcements are getting lost in between all these messages, you can create one separate channel for that.",
+    "reference": "Please keep the main channel for work. Banter can go elsewhere.",
+    "targets": [
+      "banter"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "recording",
+    "verbose": "For the people who could not join the meeting because of the time difference, I have recorded the full session and put it in the shared folder, so they can watch it whenever they are free.",
+    "reference": "The recording's in the shared folder for other time zones — help yourself.",
+    "targets": [
+      "help yourself"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "return to office",
+    "verbose": "Today was my first day back in the office after one full year, and honestly it was very nice to meet everybody in person, though the travelling was little bit tiring for me, and I was feeling sleepy also.",
+    "reference": "First day back in a year — lovely to see everyone, though the commute was tiring.",
+    "targets": [
+      "lovely"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "action points",
+    "verbose": "After every meeting, nobody is knowing who is supposed to do what, because we discuss many things but we are not writing down who is responsible for each action point in the minutes.",
+    "reference": "Let's give every action an owner — we leave meetings unsure who's doing what.",
+    "targets": [
+      "action"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "home distractions",
+    "verbose": "I am apologising in advance because my kids are at home today due to the school holiday, so there may be some disturbance in the background, but I will try my best to manage it.",
+    "reference": "The kids are home for half-term, so bear with me if it's noisy.",
+    "targets": [
+      "half-term",
+      "bear with me"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "status update",
+    "verbose": "I wanted to share that the new hybrid working arrangement is going quite well so far, people are liking the flexibility, but some teams are still facing difficulty in planning the office days, and they are fighting with each other about which day to come in.",
+    "reference": "Hybrid's going well — people love the flexibility, though some teams are still ironing out office days.",
+    "targets": [
+      "iron out"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "feedback over video",
+    "verbose": "I am not very comfortable giving negative feedback to my team members on a video call, because I cannot read their reaction properly, and sometimes they are taking it in the wrong way.",
+    "reference": "Tricky feedback over video is hard — you lose the nuance.",
+    "targets": [
+      "nuance"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "remote hiring",
+    "verbose": "Since we are hiring fully remote, we can get good people from any part of the country, not only from the city where our office is, which gives us a much bigger talent pool to choose from.",
+    "reference": "Hiring remotely lets us leverage talent from anywhere, not just near the office.",
+    "targets": [
+      "leverage"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "ending meeting",
+    "verbose": "I think we have discussed everything which was there in the agenda, so if nobody is having any other points to discuss, we can finish the meeting now and everyone can get back to their work.",
+    "reference": "That's the agenda covered. Any other business? If not, let's wrap up.",
+    "targets": [
+      "any other business",
+      "wrap up"
+    ]
+  },
+  {
+    "domain": "remote work",
+    "category": "cover",
+    "verbose": "I will not be available on Thursday afternoon because of a family function, so if any client calls are coming during that time, can you please handle them on my behalf, if possible and let me know what happened.",
+    "reference": "Could you fill in for me on client calls Thursday afternoon? I'm at a family do.",
+    "targets": [
+      "fill in for",
+      "do"
+    ]
+  }
+]

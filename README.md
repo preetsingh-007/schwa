@@ -51,7 +51,7 @@ Tap the mode chip until it reads **Repeat** (Auto mode also mixes it in). The ne
 
 The book icon opens a searchable lexicon. The **Words** mode (mode chip → *Words*) drills it by voice:
 
-- **{{CURATED}} curated British cards** in 11 categories:
+- **3,043 curated British cards** in 11 categories:
   - UK-vs-US vocabulary for food, home and transport;
   - education, work, money and the NHS;
   - culture, customs, sport and the pub;
@@ -61,7 +61,7 @@ The book icon opens a searchable lexicon. The **Words** mode (mode chip → *Wor
   - precise professional vocabulary.
 
   Each has a register badge, gloss, usage, pragmatics, a false-friend warning where relevant, 1–2 example sentences and RP IPA. Cards with a picture or a different American word become **"name it"** drills: you see the picture or the US term and *say* the British word. Every card also has a listen-and-repeat drill on its example sentence.
-- **{{WORDS}} automatic word cards**: the most frequent English lemmas from `wordfreq`, folded to dictionary headwords, with the most common WordNet sense, a real Tatoeba example sentence where one exists, RP IPA, and pronunciation tips generated from the phonemes (BATH, non-rhoticity, GOAT, yod, weak forms…). They are drilled band by band (top 1,000, then the next 1,000…), moving on once 80% of a band is passed.
+- **20,000 automatic word cards**: the most frequent English lemmas from `wordfreq`, folded to dictionary headwords, with the most common WordNet sense, a real Tatoeba example sentence where one exists, RP IPA, and pronunciation tips generated from the phonemes (BATH, non-rhoticity, GOAT, yod, weak forms…). They are drilled band by band (top 1,000, then the next 1,000…), moving on once 80% of a band is passed.
 - **Reviews:** FSRS schedules every card you practise. Due reviews take priority over new cards.
 - **Pictures:** Wikipedia lead-image thumbnails for concrete things (every title is validated at build time, and broken or disambiguation pages are dropped), fetched only when shown and cached for offline use. Every card also links to Google Images, Wikipedia and the Cambridge Dictionary.
 - **Place names:** for famously irregular words (Southwark, Leominster, Mainwaring…) the authored RP IPA overrides espeak's spelling-based guess everywhere: the card, the scorer's target and the RP voice (`src/lib/g2pOverrides.ts`, generated).
@@ -70,7 +70,7 @@ Build: `python3 scripts/data-src/words.py …` (see the header) → `npx vite-no
 
 ## More Tier 2 & Tier 3 prompts
 
-On top of the original 640 prompts, `public/prompts/` adds **{{T2}} Tier 2 compression items** and **{{T3}} Tier 3 monologue scenarios**, each written individually (no templates). They cover tech, the public sector, business services, everyday British life, careers and academia, workplace persuasion, explaining and presenting, social life, opinions and stories. `scripts/build-prompts.ts` validates every item:
+On top of the original 640 prompts, `public/prompts/` adds **1,970 Tier 2 compression items** and **2,008 Tier 3 monologue scenarios**, each written individually (no templates). They cover tech, the public sector, business services, everyday British life, careers and academia, workplace persuasion, explaining and presenting, social life, opinions and stories. `scripts/build-prompts.ts` validates every item:
 
 - the model answer is at most about 45% of the verbose length;
 - it triggers no critical redundancy rule;

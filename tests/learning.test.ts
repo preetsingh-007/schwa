@@ -62,6 +62,11 @@ describe('bandit scheduler', () => {
     const s = scorePrompts(prompts, { learner: initialLearner(0), vocab: new Map(), stats: new Map(), now: 0, focusPhoneme: 'θ', rng: () => 0 });
     expect(s[0].prompt.id).toBe('th');
   });
+  it('avoids recently served prompts unless nothing else is eligible', () => {
+    const base = { learner: initialLearner(0), vocab: new Map(), stats: new Map(), now: 0, focusPhoneme: 'θ', rng: () => 0 };
+    expect(selectNextPrompt(prompts, { ...base, recent: new Set(['th']) })?.prompt.id).toBe('goat');
+    expect(selectNextPrompt(prompts, { ...base, recent: new Set(['th', 'goat']) })?.prompt.id).toBe('th');
+  });
 });
 
 describe('reward', () => {

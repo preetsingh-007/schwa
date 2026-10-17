@@ -50,19 +50,25 @@
    "count": 288
   },
   {
+   "id": "uk_us_food",
+   "name": "Food & drink (UK vs US)",
+   "file": "cards-uk_us_food.json",
+   "count": 230
+  },
+  {
    "id": "uk_us_home",
    "name": "Home, clothes & family (UK vs US)",
    "file": "cards-uk_us_home.json",
-   "count": 238
+   "count": 228
   },
   {
    "id": "uk_us_transport",
    "name": "Transport, roads & town (UK vs US)",
    "file": "cards-uk_us_transport.json",
-   "count": 246
+   "count": 241
   }
  ],
- "curated": 2828,
+ "curated": 3043,
  "wordShards": [
   {
    "file": "words-01.json",

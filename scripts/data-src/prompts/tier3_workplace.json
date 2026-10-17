@@ -1,0 +1,6062 @@
+[
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "Your head of department wants every Year 9 report rewritten in a new format by Monday, three days after parents' evening. Explain why the timescale is unrealistic and suggest a phased approach.",
+    "seconds": 60,
+    "targets": [
+      "timescale",
+      "a tall order",
+      "incremental"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "The ward manager asks you to cover an extra twelve-hour shift in a week when you're already doing four nights. Explain calmly why you can't, and suggest another way to fill the gap.",
+    "seconds": 60,
+    "targets": [
+      "at capacity",
+      "I'm afraid",
+      "not ideal"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "A client of your architecture practice wants a third floor added to drawings that go to planning next week. Tell them plainly what this would do to the submission date.",
+    "seconds": 45,
+    "targets": [
+      "knock-on effect",
+      "timescale",
+      "slippage"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "Your editor wants a long investigation filed by tonight, but two key sources haven't confirmed their quotes. Push back on the deadline and explain what you could responsibly publish instead.",
+    "seconds": 60,
+    "targets": [
+      "substantiate",
+      "corroborate",
+      "provisional"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "The site manager wants the concrete pour brought forward a day to catch up, but a hard frost is forecast overnight. Persuade them to keep to the original date.",
+    "seconds": 60,
+    "targets": [
+      "prudent",
+      "bring forward",
+      "contingency"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "The owner of your bistro wants a tasting menu for Friday's private party, with only two chefs on the rota. Explain the risk and propose something simpler that would still impress.",
+    "seconds": 45,
+    "targets": [
+      "a tall order",
+      "at capacity",
+      "bespoke"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "The finance director asks your team to close the month-end accounts two days early so the figures reach the board. Explain which reconciliations can't be rushed and what you can offer instead.",
+    "seconds": 60,
+    "targets": [
+      "reconcile",
+      "preliminary",
+      "sign-off"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "A product owner wants a new payment option squeezed into the sprint two days before release. Explain why adding it now puts the launch at risk, and offer an alternative.",
+    "seconds": 60,
+    "targets": [
+      "trade-off",
+      "spanner in the works",
+      "roadmap"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "A partner at your law firm wants a full disclosure review finished by Thursday on a case with forty thousand documents. Explain what is realistic and what extra help you'd need.",
+    "seconds": 45,
+    "targets": [
+      "a big ask",
+      "bandwidth",
+      "prioritise"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "The marketing lead at your charity wants the annual appeal brochure printed next week, but the case studies haven't been signed off by the families involved. Push back and explain why waiting matters.",
+    "seconds": 60,
+    "targets": [
+      "sign-off",
+      "not quite there yet",
+      "jump the gun"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "Your production manager wants the factory line to run a new product variant from Monday, before the operators have been trained. Explain the problem and suggest a sensible start date.",
+    "seconds": 45,
+    "targets": [
+      "upskill",
+      "rollout",
+      "more haste, less speed"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "A regional director asks your bus depot to add six extra routes for a summer festival with no additional drivers. Explain the constraints and propose what you can realistically run.",
+    "seconds": 60,
+    "targets": [
+      "constraint",
+      "feasible",
+      "a bit of a stretch"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "A consultant asks you, the junior doctor, to discharge five patients before noon so beds free up, but two still need test results. Explain your concern and propose a plan.",
+    "seconds": 60,
+    "targets": [
+      "I'm conscious of time",
+      "flag up",
+      "I have some reservations"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "Your client wants their website relaunched in time for a trade show in ten days, but they still haven't supplied any copy. Explain what has to happen for that date to be possible.",
+    "seconds": 45,
+    "targets": [
+      "the ball is in your court",
+      "cutting it fine",
+      "deliverable"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "The head teacher wants the whole staff trained on a new behaviour system during the last week of term. Explain why that's poor timing and suggest a better slot.",
+    "seconds": 60,
+    "targets": [
+      "I'd suggest",
+      "away day",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "A shop area manager wants your store to run a full stocktake on the busiest Saturday before Christmas. Explain why it's a bad idea and offer another date.",
+    "seconds": 45,
+    "targets": [
+      "not ideal",
+      "knock-on effect",
+      "shall we say"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "Your podcast's producer wants six episodes recorded in two days, including guests you haven't researched yet. Push back and explain what quality would suffer.",
+    "seconds": 60,
+    "targets": [
+      "bite off more than you can chew",
+      "not up to scratch",
+      "feasible"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "A government client wants a bridge inspection report delivered a fortnight early, but the structural tests take three weeks to process. Explain why the date can't move and what you can share in the meantime.",
+    "seconds": 60,
+    "targets": [
+      "interim",
+      "rigorous",
+      "preliminary"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "The hotel's general manager wants the spa reopened on Saturday, though the new boiler hasn't passed its safety check. Explain why you're not comfortable with that.",
+    "seconds": 45,
+    "targets": [
+      "I have some reservations",
+      "compliance",
+      "cut corners"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "Your team leader keeps adding \"small\" tasks to your data migration project without moving the deadline. Have the conversation in which you explain that something has to give.",
+    "seconds": 60,
+    "targets": [
+      "trade-off",
+      "bandwidth",
+      "bogged down"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "A newspaper's picture desk wants you to cover three events across London in one afternoon. Explain why it isn't possible and suggest which to prioritise.",
+    "seconds": 45,
+    "targets": [
+      "prioritise",
+      "from pillar to post",
+      "at a push"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "An investor relations director wants the annual report published on Monday, but the auditors haven't finished their checks. Explain why publishing early would be a serious mistake.",
+    "seconds": 60,
+    "targets": [
+      "due diligence",
+      "jeopardise",
+      "sign-off"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "Your client in retail wants a loyalty app built for the cost and timeline of a simple website. Explain why the two aren't comparable and propose a realistic first version.",
+    "seconds": 60,
+    "targets": [
+      "ballpark",
+      "pilot",
+      "value for money"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "The deputy head asks you to run the school trip, the Year 11 mock exams and the drama show in the same fortnight. Explain why you need to hand one of them over.",
+    "seconds": 45,
+    "targets": [
+      "have a lot on your plate",
+      "delegate",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "Your logistics manager wants deliveries rescheduled overnight so the depot can cut costs, but your drivers haven't been consulted. Push back and explain why consultation comes first.",
+    "seconds": 60,
+    "targets": [
+      "buy-in",
+      "stakeholder",
+      "detrimental"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "A theatre director wants the set rebuilt three days before opening night after a change of heart about the design. Explain what is realistically achievable.",
+    "seconds": 45,
+    "targets": [
+      "back to the drawing board",
+      "down to the wire",
+      "feasible"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "A senior engineer wants to skip the code review stage on a security patch to save a day. Explain why the review stays and how you could speed it up instead.",
+    "seconds": 60,
+    "targets": [
+      "robust",
+      "expedite",
+      "I'm not convinced"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "Your practice manager wants every GP appointment cut from ten to eight minutes to reduce the waiting list. Explain your concerns about patient safety and suggest a trial instead.",
+    "seconds": 45,
+    "targets": [
+      "pilot",
+      "slightly concerned",
+      "detrimental"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "A publishing client wants a translated novel delivered a month early to match a festival launch. Explain why rushing the translation would weaken the book, and what you could offer instead.",
+    "seconds": 60,
+    "targets": [
+      "nuance",
+      "not up to scratch",
+      "I'd suggest"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "The head chef wants the new menu printed tomorrow, though half the suppliers haven't confirmed prices. Explain why you'd rather wait a week.",
+    "seconds": 45,
+    "targets": [
+      "provisional",
+      "up in the air",
+      "hold your horses"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "Your programme director wants a council housing survey finished in half the planned time by sampling fewer streets. Explain why the results might then be meaningless.",
+    "seconds": 60,
+    "targets": [
+      "robust",
+      "threshold",
+      "extrapolate"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "A client wants your accountancy firm to file their self-assessment the day after they finally send their receipts. Explain what you need and by when.",
+    "seconds": 45,
+    "targets": [
+      "cutting it fine",
+      "timescale",
+      "I'd be grateful if"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "Your manager wants you to present a new software platform to the whole company on Friday, but testing found serious bugs yesterday. Explain why the demo should be postponed.",
+    "seconds": 60,
+    "targets": [
+      "teething problems",
+      "put back",
+      "a damp squib"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "The museum's director wants a new exhibition opened before the borrowed artefacts have finished their condition checks. Explain the risk and propose a new opening date.",
+    "seconds": 45,
+    "targets": [
+      "stipulate",
+      "jeopardise",
+      "prudent"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "A large client of your printing firm wants fifty thousand leaflets by tomorrow morning while your main press is being serviced. Explain the situation and offer realistic options.",
+    "seconds": 60,
+    "targets": [
+      "on the blink",
+      "at a push",
+      "I'll see what I can do"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "The charity's trustees want a new fundraising strategy drafted over the weekend for Monday's meeting. Explain why a one-page outline would serve them better.",
+    "seconds": 45,
+    "targets": [
+      "succinct",
+      "preliminary",
+      "in the interests of time"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "Your rail operator's control room wants a weekend engineering closure shortened by six hours. Explain to the operations manager why the work cannot be safely compressed.",
+    "seconds": 60,
+    "targets": [
+      "overrun",
+      "contingency",
+      "stringent"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "An ambitious sales director promises a client a bespoke integration in two weeks without checking with your team. Explain to the director why the promise can't be kept as it stands.",
+    "seconds": 60,
+    "targets": [
+      "bespoke",
+      "a bit of a stretch",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "The care home manager asks you to run a family open day the same week as an inspection. Explain why you'd like to move it.",
+    "seconds": 45,
+    "targets": [
+      "I'm conscious of time",
+      "on balance",
+      "knock-on effect"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "Your film's producer wants the final edit locked a week early so it can enter a festival. Explain what would have to be dropped to make that happen.",
+    "seconds": 60,
+    "targets": [
+      "trade-off",
+      "the lion's share",
+      "down to the wire"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A colleague in another department asks you to proofread their forty-page funding bid tonight. You're already behind on your own work. Say no politely, but helpfully.",
+    "seconds": 45,
+    "targets": [
+      "snowed under",
+      "I'm afraid",
+      "I'd be inclined to"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "Your manager asks you to join a new working group on office wellbeing. You care about the topic but have no spare time this quarter. Decline graciously.",
+    "seconds": 45,
+    "targets": [
+      "bandwidth",
+      "keep me posted",
+      "on this occasion"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A supplier offers your procurement team tickets to a cup final while their tender is still being assessed. Turn the offer down without causing offence.",
+    "seconds": 60,
+    "targets": [
+      "tender",
+      "I couldn't possibly",
+      "vested interest"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A parent asks you, their child's teacher, to share another pupil's test results so they can compare. Decline firmly but gently.",
+    "seconds": 45,
+    "targets": [
+      "I'm afraid",
+      "discretion",
+      "I appreciate that"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "The deputy manager of your café asks you to work every Sunday for the next two months. You have family commitments. Explain why you can only do some of them.",
+    "seconds": 60,
+    "targets": [
+      "I'd rather not",
+      "fit in",
+      "fair enough"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A friend of the managing director asks for a discount far below what your firm offers anyone else. Say no without souring the relationship.",
+    "seconds": 45,
+    "targets": [
+      "precedent",
+      "on this occasion",
+      "I appreciate that"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A senior colleague asks you to mentor two new graduates on top of your full caseload at a housing charity. Turn down one of them and explain why.",
+    "seconds": 60,
+    "targets": [
+      "at capacity",
+      "I'll see what I can do",
+      "onboarding"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A journalist on your team asks you to quote a source who wants to remain anonymous by name. Refuse and explain your reasoning.",
+    "seconds": 45,
+    "targets": [
+      "tacit",
+      "by the book",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "Your line manager wants you to give a talk at a sector conference abroad during your annual leave. Decline politely.",
+    "seconds": 45,
+    "targets": [
+      "annual leave",
+      "I'd rather not",
+      "speak soon"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A long-standing client asks your law firm to act for them in a case where you already represent the other side. Explain why you have to say no.",
+    "seconds": 60,
+    "targets": [
+      "I'm afraid",
+      "remit",
+      "untenable"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A charity volunteer coordinator asks you to lead a sponsored walk the weekend after a major deadline. Say no but offer something smaller.",
+    "seconds": 45,
+    "targets": [
+      "chip in",
+      "on this occasion",
+      "I'll see what I can do"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "An engineer from another team asks you to give them admin access to the production database \"just for an hour\". Decline and explain the proper route.",
+    "seconds": 60,
+    "targets": [
+      "by the book",
+      "sign-off",
+      "circumvent"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A customer asks you, the pharmacist, to hand over a repeat prescription early because they're going on holiday, without the GP's authorisation. Say no and explain what they can do.",
+    "seconds": 45,
+    "targets": [
+      "I'm afraid",
+      "get back to",
+      "I appreciate that"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "Your boss suggests you take over the company newsletter \"because you write well\". You don't have the time. Turn it down and recommend an alternative.",
+    "seconds": 60,
+    "targets": [
+      "sounding board",
+      "bandwidth",
+      "I'd suggest"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A contractor asks you to sign off a job as complete before the snagging list has been dealt with. Decline firmly.",
+    "seconds": 45,
+    "targets": [
+      "sign-off",
+      "not quite there yet",
+      "dot the i's and cross the t's"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A fellow nurse asks you to swap your Christmas Day shift for their New Year's Eve shift, but you've already promised the day to family. Say no warmly.",
+    "seconds": 45,
+    "targets": [
+      "I'm afraid",
+      "that's a shame",
+      "ring round"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A start-up founder you've advised informally asks you to join their board without pay. Decline while keeping the door open.",
+    "seconds": 60,
+    "targets": [
+      "mull over",
+      "sleep on it",
+      "I'd be inclined to"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "Your manager asks you to fudge a project status from red to amber before a client meeting. Refuse politely but clearly.",
+    "seconds": 45,
+    "targets": [
+      "candour",
+      "flag up",
+      "I'm not sure that's quite right"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A head of year asks you to run an after-school club for the whole spring term. You're already coaching two teams. Decline and suggest someone else.",
+    "seconds": 45,
+    "targets": [
+      "have a lot on your plate",
+      "rope in",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A client keeps asking you, their graphic designer, for \"one more small tweak\" after the agreed rounds of revisions. Explain politely that further changes will be charged.",
+    "seconds": 60,
+    "targets": [
+      "remit",
+      "happy to discuss",
+      "I appreciate that"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A colleague asks you to cover for them by saying they were at a meeting they actually skipped. Decline without lecturing them.",
+    "seconds": 45,
+    "targets": [
+      "I'd rather not",
+      "I'll leave it with you",
+      "on thin ice"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A regional newspaper asks your hospital trust to give an interview about a patient's case. Explain why you can't comment and what you can offer.",
+    "seconds": 60,
+    "targets": [
+      "I'm afraid",
+      "discretion",
+      "we regret to inform you"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A wealthy guest asks you, the hotel's front of house manager, to move another family out of a suite they've booked. Refuse courteously.",
+    "seconds": 45,
+    "targets": [
+      "I'm terribly sorry",
+      "on this occasion",
+      "I'll see what I can do"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A director asks you to take on a secondment to a struggling branch for six months, starting next week. Explain why the timing doesn't work for you and what might.",
+    "seconds": 60,
+    "targets": [
+      "secondment",
+      "timescale",
+      "I'll think about it"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A builder on your site asks to start work before the scaffolding inspection has been completed. Tell them no and explain why.",
+    "seconds": 45,
+    "targets": [
+      "by the book",
+      "stringent",
+      "sit tight"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "An old university friend messages you, asking you to slip their CV straight to the hiring manager for a role that closed last week. Decline gracefully without damaging the friendship.",
+    "seconds": 45,
+    "targets": [
+      "CV",
+      "equitable",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "Your publisher asks you to write a sequel in six months while you're still promoting the first book. Say no to the timescale but not to the idea.",
+    "seconds": 60,
+    "targets": [
+      "timescale",
+      "back burner",
+      "a tall order"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A sales manager asks you, the data analyst, to \"make the numbers look a bit better\" for a pitch. Decline and explain what you can do instead.",
+    "seconds": 45,
+    "targets": [
+      "robust",
+      "quantify",
+      "I'm not convinced"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A client asks your removals firm to move a piano up four flights with only two staff. Explain why you won't do it as asked.",
+    "seconds": 45,
+    "targets": [
+      "I'm afraid",
+      "rule of thumb",
+      "at a push"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A senior partner invites you to a weekend golf retreat with clients, but you'd already planned a rare weekend away. Decline without seeming uncommitted.",
+    "seconds": 60,
+    "targets": [
+      "take a rain check",
+      "keen",
+      "I'm terribly sorry"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "resisting cutting corners",
+    "register": "work",
+    "prompt": "Your manager suggests skipping the allergen check on a new dessert to get the menu out tonight. Explain why you won't, and how you could still meet the deadline.",
+    "seconds": 60,
+    "targets": [
+      "cut corners",
+      "rectify",
+      "paramount"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "resisting cutting corners",
+    "register": "work",
+    "prompt": "A director wants your team to deploy straight to production without running the automated tests, because a client demo is in an hour. Argue for a safer approach.",
+    "seconds": 60,
+    "targets": [
+      "robust",
+      "shoot yourself in the foot",
+      "with all due respect"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "resisting cutting corners",
+    "register": "work",
+    "prompt": "The site foreman tells you to let a crew work at height without harnesses because the job will only take ten minutes. Refuse, and explain what you'll do instead.",
+    "seconds": 60,
+    "targets": [
+      "by the book",
+      "stringent",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "resisting cutting corners",
+    "register": "work",
+    "prompt": "A senior colleague suggests filling in patient observation charts at the end of the shift rather than in real time. Explain why you're not willing to do that.",
+    "seconds": 45,
+    "targets": [
+      "rigorous",
+      "compliance",
+      "I have some reservations"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "resisting cutting corners",
+    "register": "work",
+    "prompt": "Your client asks you to backdate a contract so it falls into the previous tax year. Explain firmly why you can't, and what legitimate options exist.",
+    "seconds": 60,
+    "targets": [
+      "I'm afraid",
+      "ramifications",
+      "by the book"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "resisting cutting corners",
+    "register": "work",
+    "prompt": "A store manager suggests relabelling chilled food past its use-by date to cut waste figures. Push back and explain the risks.",
+    "seconds": 45,
+    "targets": [
+      "detrimental",
+      "cut corners",
+      "jeopardise"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "resisting cutting corners",
+    "register": "work",
+    "prompt": "Your team is under pressure to hit a recycling target, and a supervisor proposes counting contaminated waste as recycled. Argue against it at the team meeting.",
+    "seconds": 60,
+    "targets": [
+      "the proof of the pudding",
+      "undermine",
+      "with all due respect"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "resisting cutting corners",
+    "register": "work",
+    "prompt": "A trustee suggests the charity accept a large donation without the usual background checks, because the money is badly needed. Explain why due diligence still matters.",
+    "seconds": 60,
+    "targets": [
+      "due diligence",
+      "vested interest",
+      "prudent"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "resisting cutting corners",
+    "register": "work",
+    "prompt": "The production editor suggests running a headline before the legal team has checked it, to beat a rival paper. Persuade them to wait.",
+    "seconds": 45,
+    "targets": [
+      "jump the gun",
+      "shoot yourself in the foot",
+      "ramifications"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "resisting cutting corners",
+    "register": "work",
+    "prompt": "Your factory supervisor wants to switch off a sensor that keeps stopping the line, rather than investigate the fault. Explain why that's a bad trade-off.",
+    "seconds": 60,
+    "targets": [
+      "trade-off",
+      "the tip of the iceberg",
+      "rectify"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "resisting cutting corners",
+    "register": "work",
+    "prompt": "A colleague at your bank wants to approve a mortgage without verifying the applicant's income, to hit monthly targets. Explain why you won't sign it off.",
+    "seconds": 45,
+    "targets": [
+      "sign-off",
+      "compliance",
+      "jeopardise"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "resisting cutting corners",
+    "register": "work",
+    "prompt": "Your school's exams officer suggests letting a pupil finish their coursework at home to help the grade figures. Explain your concerns and what the rules allow.",
+    "seconds": 60,
+    "targets": [
+      "stipulate",
+      "by the book",
+      "jeopardise"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "resisting cutting corners",
+    "register": "work",
+    "prompt": "A delivery driver suggests leaving parcels on doorsteps without photos to speed up rounds. As shift lead, explain why the step stays.",
+    "seconds": 45,
+    "targets": [
+      "more haste, less speed",
+      "rule of thumb",
+      "cut corners"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "resisting cutting corners",
+    "register": "work",
+    "prompt": "A project manager proposes using a cheaper, uncertified fire door to save money on a refurbishment. Argue for the certified option to the client.",
+    "seconds": 60,
+    "targets": [
+      "fit for purpose",
+      "value for money",
+      "outlay"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "resisting cutting corners",
+    "register": "work",
+    "prompt": "A sous chef wants to reuse yesterday's cooked rice to save time at lunch. Explain why you won't allow it, without humiliating them.",
+    "seconds": 45,
+    "targets": [
+      "rule of thumb",
+      "I appreciate that",
+      "these things happen"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "resisting cutting corners",
+    "register": "work",
+    "prompt": "Your manager in recruitment suggests rejecting older applicants early to save interview time. Push back and explain why that's both unfair and risky.",
+    "seconds": 60,
+    "targets": [
+      "equitable",
+      "ramifications",
+      "I'm not sure that's quite right"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "resisting cutting corners",
+    "register": "work",
+    "prompt": "A housing officer suggests closing complaints as \"resolved\" without speaking to tenants, to improve the monthly figures. Explain why you object.",
+    "seconds": 60,
+    "targets": [
+      "smoke and mirrors",
+      "metric",
+      "undermine"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "resisting cutting corners",
+    "register": "work",
+    "prompt": "A colleague in software proposes copying code from a forum without checking its licence. Explain why that could cause problems later.",
+    "seconds": 45,
+    "targets": [
+      "ramifications",
+      "due diligence",
+      "a fly in the ointment"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "resisting cutting corners",
+    "register": "work",
+    "prompt": "An airline duty manager wants a delayed flight to leave without completing a minor maintenance check. As the engineer, explain why you won't certify it.",
+    "seconds": 60,
+    "targets": [
+      "sign-off",
+      "stringent",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "resisting cutting corners",
+    "register": "work",
+    "prompt": "The editor of your research report suggests dropping a set of awkward results that weaken the conclusion. Explain why you'll keep them in.",
+    "seconds": 45,
+    "targets": [
+      "warts and all",
+      "candour",
+      "substantiate"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "You run a small bakery and your flour supplier has announced a fifteen per cent price rise. Negotiate with their account manager for a smaller rise or better terms.",
+    "seconds": 60,
+    "targets": [
+      "per cent",
+      "commensurate",
+      "concede"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "A landlord of the shop unit your charity rents wants to double the rent at renewal. Negotiate a deal that keeps the shop viable.",
+    "seconds": 60,
+    "targets": [
+      "viable",
+      "outlay",
+      "on a shoestring"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "A software vendor's renewal quote for your school's learning platform has gone up sharply. Negotiate a better price, pointing to your options.",
+    "seconds": 60,
+    "targets": [
+      "leverage",
+      "value for money",
+      "benchmark"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "Your agency's client wants three extra campaign videos for no extra fee. Negotiate what they can have within the current budget.",
+    "seconds": 45,
+    "targets": [
+      "remit",
+      "trade-off",
+      "happy to discuss"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "You manage a construction firm, and a subcontractor wants payment upfront for a big job. Negotiate staged payments that protect both sides.",
+    "seconds": 60,
+    "targets": [
+      "milestone",
+      "equitable",
+      "contingent"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "A hospital trust is tendering for cleaning services and your firm's bid is slightly above budget. Negotiate in the clarification meeting without slashing quality.",
+    "seconds": 60,
+    "targets": [
+      "tender",
+      "value for money",
+      "fit for purpose"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "A freelance photographer you want to hire is asking for full rights to the images. Negotiate a licence that suits your magazine.",
+    "seconds": 45,
+    "targets": [
+      "in lieu",
+      "proviso",
+      "fair enough"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "Your team has been offered a new office that's cheaper but an hour further for most staff. Negotiate with your director for hybrid working as part of the move.",
+    "seconds": 60,
+    "targets": [
+      "flexitime",
+      "buy-in",
+      "proviso"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "A wedding venue's events manager is refusing to let your catering company use their kitchen. Negotiate an arrangement that works for both of you.",
+    "seconds": 45,
+    "targets": [
+      "I'd be grateful if",
+      "liaise",
+      "the best of both worlds"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "A haulage firm wants to end its contract with your factory early. Negotiate terms that give you time to find another carrier.",
+    "seconds": 60,
+    "targets": [
+      "interim",
+      "handover",
+      "timescale"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "You're a nurse manager negotiating with the bank staff office for more cover over winter. Make your case for extra shifts within their limits.",
+    "seconds": 60,
+    "targets": [
+      "headroom",
+      "shortfall",
+      "at capacity"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "A major retailer wants your small brand's products on its shelves but demands ninety-day payment terms. Negotiate something you can survive.",
+    "seconds": 45,
+    "targets": [
+      "pro rata",
+      "tenable",
+      "over a barrel"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "Two departments both want the same new graduate trainee for six months. As their manager, negotiate a split that keeps both heads happy.",
+    "seconds": 60,
+    "targets": [
+      "apportion",
+      "pro rata",
+      "the best of both worlds"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "A publisher offers you a book deal with a smaller advance than you hoped. Negotiate for better royalties or other terms.",
+    "seconds": 60,
+    "targets": [
+      "commensurate",
+      "concede",
+      "I'm not sure I'd go that far"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "Your client wants a fixed price for a building survey whose scope isn't clear yet. Negotiate a fair way to price it.",
+    "seconds": 45,
+    "targets": [
+      "ballpark",
+      "contingent",
+      "parameter"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "A union representative asks for overtime to be paid at double time rather than time and a half. As the operations manager, negotiate a compromise.",
+    "seconds": 60,
+    "targets": [
+      "concede",
+      "consensus",
+      "up to a point"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "A council parks department wants your festival to pay for extra security. Negotiate how the cost could be shared.",
+    "seconds": 45,
+    "targets": [
+      "apportion",
+      "foot the bill",
+      "value for money"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "A key engineer threatens to leave for a rival. Negotiate with them about what would make them stay, within what your company can offer.",
+    "seconds": 60,
+    "targets": [
+      "latitude",
+      "remuneration",
+      "I'll see what I can do"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "A travel firm wants your hotel to hold forty rooms for a conference with no deposit. Negotiate safer terms.",
+    "seconds": 45,
+    "targets": [
+      "proviso",
+      "stipulate",
+      "threshold"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "You're buying new lab equipment for a university department, and the supplier won't include training. Negotiate for training and a longer warranty.",
+    "seconds": 60,
+    "targets": [
+      "procurement",
+      "augment",
+      "value for money"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "Your marketing agency is pitching to a charity with a tiny budget. Negotiate a package that is affordable for them but still worth your while.",
+    "seconds": 60,
+    "targets": [
+      "on a shoestring",
+      "scalable",
+      "value for money"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "You were promised the window desk when you joined, but a colleague returning from parental leave has claimed it and filled it with plants. Negotiate a friendly solution.",
+    "seconds": 45,
+    "targets": [
+      "fair enough",
+      "hot-desking",
+      "I see where you're coming from"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "A theatre's touring partner wants a larger share of the ticket income. Negotiate a split that reflects who carries the risk.",
+    "seconds": 60,
+    "targets": [
+      "the lion's share",
+      "equitable",
+      "onus"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "The supplier of your restaurant's fish keeps delivering late. Negotiate a new agreement with clear delivery times and consequences.",
+    "seconds": 60,
+    "targets": [
+      "stipulate",
+      "in lieu",
+      "the last straw"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "A client of your IT support firm wants a faster response time without paying more. Negotiate a sensible service level.",
+    "seconds": 45,
+    "targets": [
+      "parameter",
+      "trade-off",
+      "I hear what you say"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "Your team's budget is being cut by a fifth. Negotiate with the finance business partner over which projects are protected.",
+    "seconds": 60,
+    "targets": [
+      "ring-fence",
+      "prioritise",
+      "shortfall"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "A buyer for a garden centre chain wants you to cover the cost of in-store displays for your plants. Negotiate who pays for what.",
+    "seconds": 45,
+    "targets": [
+      "foot the bill",
+      "apportion",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "You're a project manager negotiating with a client who wants penalties for late delivery. Agree terms that are fair if delays aren't your fault.",
+    "seconds": 60,
+    "targets": [
+      "contingent",
+      "ramifications",
+      "caveat"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "A freelancer you rely on wants a higher day rate from next month. Negotiate a rate and commitment that suits your small studio.",
+    "seconds": 45,
+    "targets": [
+      "commensurate",
+      "go on then",
+      "at a push"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "A housing association asks your building firm to finish a block of flats early in return for a bonus. Negotiate realistic terms.",
+    "seconds": 60,
+    "targets": [
+      "incentivise",
+      "feasible",
+      "a tall order"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "You think your hospital ward should switch to electronic handovers. Persuade the matron, who is sceptical about new technology, to run a trial.",
+    "seconds": 60,
+    "targets": [
+      "pilot",
+      "streamline",
+      "tangible"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "Your company's leadership team plans to cut the graduate scheme to save money. Persuade them it's a long-term investment worth protecting.",
+    "seconds": 60,
+    "targets": [
+      "trajectory",
+      "upskill",
+      "detrimental"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "You believe your retail chain should stop printing paper receipts by default. Make the case to the regional director.",
+    "seconds": 60,
+    "targets": [
+      "quick win",
+      "overheads",
+      "compelling"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "You want your head teacher to scrap homework for Year 7 in the first term. Persuade them with a clear rationale.",
+    "seconds": 45,
+    "targets": [
+      "rationale",
+      "on balance",
+      "pilot"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "The board of your charity is reluctant to invest in a new database. Persuade them that the current spreadsheets are holding you back.",
+    "seconds": 60,
+    "targets": [
+      "bottleneck",
+      "fit for purpose",
+      "outlay"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "You think your law firm should offer a four-day week trial to junior staff. Persuade the managing partner to consider it.",
+    "seconds": 60,
+    "targets": [
+      "attrition",
+      "pilot",
+      "I'd be inclined to"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "You want your newsroom to invest in a dedicated fact-checking role. Persuade the editor-in-chief it would pay for itself.",
+    "seconds": 45,
+    "targets": [
+      "indispensable",
+      "jeopardise",
+      "recoup"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "Your factory's managing director wants to buy a new machine, but you think upskilling the current operators is the better investment. Make your case.",
+    "seconds": 60,
+    "targets": [
+      "upskill",
+      "value for money",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "You believe your bus company should publish real-time delays more honestly. Persuade the communications director that transparency will reduce complaints.",
+    "seconds": 60,
+    "targets": [
+      "candour",
+      "tangible",
+      "the elephant in the room"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "You want the finance team to switch to monthly rather than quarterly forecasts. Persuade the CFO in two minutes.",
+    "seconds": 45,
+    "targets": [
+      "granular",
+      "proactive",
+      "headwinds"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "Your hotel group's owner wants to cut breakfast staff. Persuade them that guest reviews depend on breakfast more than they think.",
+    "seconds": 60,
+    "targets": [
+      "knock-on effect",
+      "detrimental",
+      "I'd suggest"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "You'd like your council team to hold monthly drop-in sessions for residents. Persuade the head of service it's worth the staff time.",
+    "seconds": 60,
+    "targets": [
+      "rapport",
+      "proactive",
+      "tangible"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "You think your architecture firm should enter a design competition that would stretch the team. Persuade the partners it's worth the risk.",
+    "seconds": 45,
+    "targets": [
+      "a feather in your cap",
+      "take the plunge",
+      "bandwidth"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "The executive team plans to bring everyone back to the office five days a week. Persuade them a hybrid pattern would keep their best people.",
+    "seconds": 60,
+    "targets": [
+      "attrition",
+      "flexitime",
+      "I see where you're coming from"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "You think your construction firm should hire an apprentice every year. Persuade the directors that it's an investment, not a cost.",
+    "seconds": 60,
+    "targets": [
+      "upskill",
+      "invaluable",
+      "foreseeable"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "At your college, teachers currently assign every extended project title. Persuade the director of studies that letting learners pick their own topics would lift motivation and results.",
+    "seconds": 45,
+    "targets": [
+      "latitude",
+      "impetus",
+      "tangible"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "You believe your airline's cabin crew need more rest time between long-haul trips. Persuade the operations director using safety and staff retention.",
+    "seconds": 60,
+    "targets": [
+      "attrition",
+      "paramount",
+      "detrimental"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "Your tech company's founders want to launch in five countries at once. Persuade them to start with one market and expand.",
+    "seconds": 60,
+    "targets": [
+      "scalable",
+      "incremental",
+      "bite off more than you can chew"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "You think your charity should stop running an annual gala that barely breaks even. Persuade the trustees to try something different.",
+    "seconds": 45,
+    "targets": [
+      "a white elephant",
+      "outlay",
+      "recoup"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "You want your NHS trust to introduce a quiet room for staff on long shifts. Persuade the director of nursing it's a sensible use of space.",
+    "seconds": 60,
+    "targets": [
+      "tangible",
+      "resilient",
+      "outlay"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "You think your manufacturing company should publish its gender pay data in more detail than the law requires. Persuade the HR director.",
+    "seconds": 60,
+    "targets": [
+      "candour",
+      "precedent",
+      "proactive"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "Your editor wants to cut the books section of the magazine. Persuade them that readers value it more than the figures suggest.",
+    "seconds": 45,
+    "targets": [
+      "metric",
+      "nuance",
+      "I'm not convinced"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "You believe your shop should close an hour earlier on weekdays because evening sales are tiny. Persuade the area manager with the figures.",
+    "seconds": 60,
+    "targets": [
+      "negligible",
+      "overheads",
+      "quantify"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "The senior leadership team plans to replace the in-house IT helpdesk with an outsourced service. Persuade them to keep a small team on site.",
+    "seconds": 60,
+    "targets": [
+      "indispensable",
+      "linchpin",
+      "circumvent"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "Your secondary school is debating whether to replace end-of-year exams in Years 7 and 8 with ongoing assessment. Persuade the governors in a five-minute slot at their evening meeting.",
+    "seconds": 60,
+    "targets": [
+      "holistic",
+      "empirical",
+      "rationale"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "You think your accounting firm should specialise in charities rather than taking any client. Persuade the partners that a niche would bring more work.",
+    "seconds": 60,
+    "targets": [
+      "diversify",
+      "flagship",
+      "compelling"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "Front desk staff at your police station face abusive callers most evenings and two have gone off sick. Persuade the station commander to fund de-escalation training.",
+    "seconds": 60,
+    "targets": [
+      "mitigate",
+      "pre-empt",
+      "tangible"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "Your restaurant group's owner wants to drop the vegetarian menu, but your booking data shows it's what wins office parties of twelve or more. Persuade them to keep it.",
+    "seconds": 45,
+    "targets": [
+      "knock-on effect",
+      "it might be worth",
+      "substantiate"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "You believe your engineering firm should pay for staff to gain chartered status. Persuade the managing director that it helps win contracts.",
+    "seconds": 60,
+    "targets": [
+      "tender",
+      "bolster",
+      "garner"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "The director of your museum wants to charge for entry. Persuade them to keep it free but introduce paid exhibitions instead.",
+    "seconds": 60,
+    "targets": [
+      "the best of both worlds",
+      "recoup",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "asking for a pay rise",
+    "register": "work",
+    "prompt": "You've taken on a departed colleague's workload for six months without extra pay. Ask your line manager for a pay review that reflects your new responsibilities.",
+    "seconds": 60,
+    "targets": [
+      "commensurate",
+      "remit",
+      "I was wondering if"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "asking for a pay rise",
+    "register": "work",
+    "prompt": "You've just learned that new starters in your team earn more than you do. Raise this with your manager and ask for your salary to be reviewed.",
+    "seconds": 60,
+    "targets": [
+      "equitable",
+      "I was a bit disappointed",
+      "remuneration"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "asking for a pay rise",
+    "register": "work",
+    "prompt": "You're a staff nurse who has completed an advanced qualification. Make the case to your ward manager for moving up a band.",
+    "seconds": 60,
+    "targets": [
+      "upskill",
+      "commensurate",
+      "tangible"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "asking for a pay rise",
+    "register": "work",
+    "prompt": "In your annual appraisal, you want to ask for a pay rise after leading a successful product launch. Make your case confidently but politely.",
+    "seconds": 60,
+    "targets": [
+      "appraisal",
+      "deliverable",
+      "substantiate"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "asking for a pay rise",
+    "register": "work",
+    "prompt": "You're a freelance copywriter who hasn't raised rates in three years. Tell a long-standing client your fees are going up.",
+    "seconds": 45,
+    "targets": [
+      "commensurate",
+      "I appreciate that",
+      "overheads"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "asking for a pay rise",
+    "register": "work",
+    "prompt": "You've been offered a job elsewhere for more money, but you'd rather stay. Have the conversation with your director about matching it.",
+    "seconds": 60,
+    "targets": [
+      "remuneration",
+      "I'd rather not",
+      "with the greatest respect"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "asking for a pay rise",
+    "register": "work",
+    "prompt": "As a teaching assistant, you've been covering lessons regularly. Ask the school business manager whether your pay can reflect this.",
+    "seconds": 60,
+    "targets": [
+      "in lieu",
+      "remit",
+      "I'd be grateful if"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "asking for a pay rise",
+    "register": "work",
+    "prompt": "You've been an acting manager in a shop for four months. Ask your area manager for the role and pay to be made permanent.",
+    "seconds": 60,
+    "targets": [
+      "interim",
+      "tenure",
+      "substantiate"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "asking for a pay rise",
+    "register": "work",
+    "prompt": "Your pay rise this year was below inflation, though your reviews were excellent. Ask your manager to explain and reconsider.",
+    "seconds": 45,
+    "targets": [
+      "I was a bit disappointed",
+      "rationale",
+      "commensurate"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "asking for a pay rise",
+    "register": "work",
+    "prompt": "You run the kitchen in a busy hotel and your hours have crept up to sixty a week. Ask the general manager for either more pay or more staff.",
+    "seconds": 60,
+    "targets": [
+      "at capacity",
+      "untenable",
+      "burn the midnight oil"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "asking for a pay rise",
+    "register": "work",
+    "prompt": "You've saved your logistics company a large sum by redesigning delivery routes. Use that to make the case for a bonus.",
+    "seconds": 60,
+    "targets": [
+      "quantify",
+      "tangible",
+      "recoup"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "asking for a pay rise",
+    "register": "work",
+    "prompt": "You're a junior solicitor and want to ask about the timing of your next salary review. Raise it without sounding demanding.",
+    "seconds": 45,
+    "targets": [
+      "I was wondering if",
+      "timescale",
+      "forthcoming"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "asking for a pay rise",
+    "register": "work",
+    "prompt": "You've been asked to train every new starter in your call centre but your pay hasn't changed. Ask for a training allowance.",
+    "seconds": 60,
+    "targets": [
+      "onboarding",
+      "commensurate",
+      "in lieu"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "asking for a pay rise",
+    "register": "work",
+    "prompt": "You work for a small charity that can't afford big rises. Negotiate for more annual leave or flexible hours in place of a pay increase.",
+    "seconds": 60,
+    "targets": [
+      "in lieu",
+      "flexitime",
+      "I appreciate that"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "asking for a pay rise",
+    "register": "work",
+    "prompt": "Your engineering role now involves managing contractors, which wasn't in your original job description. Ask HR for your grade to be re-evaluated.",
+    "seconds": 60,
+    "targets": [
+      "remit",
+      "delineate",
+      "commensurate"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "asking for a pay rise",
+    "register": "work",
+    "prompt": "A colleague in another city does the same job for more money. Raise the gap with your manager without making it personal.",
+    "seconds": 45,
+    "targets": [
+      "equitable",
+      "benchmark",
+      "for what it's worth"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "asking for a pay rise",
+    "register": "work",
+    "prompt": "You've just completed your probation at a tech firm and were promised a salary review. Remind your manager and make your case.",
+    "seconds": 60,
+    "targets": [
+      "probation",
+      "as discussed",
+      "substantiate"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "asking for a pay rise",
+    "register": "work",
+    "prompt": "You're a self-employed electrician quoting for a regular client who expects last year's rates. Explain why your prices have gone up.",
+    "seconds": 60,
+    "targets": [
+      "overheads",
+      "outlay",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "asking for a pay rise",
+    "register": "work",
+    "prompt": "Your manager suggests a new job title instead of a pay rise. Explain politely why that isn't enough on its own.",
+    "seconds": 45,
+    "targets": [
+      "tangible",
+      "I'm not sure that's quite right",
+      "I appreciate that"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "asking for a pay rise",
+    "register": "work",
+    "prompt": "As a newsroom producer, you've been working most weekends. Ask your editor for a weekend allowance or time off in lieu.",
+    "seconds": 60,
+    "targets": [
+      "in lieu",
+      "burn the midnight oil",
+      "I'd appreciate it if"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A talented junior designer on your team keeps missing client deadlines by a day or two. Give them honest feedback in your one-to-one without crushing their confidence.",
+    "seconds": 60,
+    "targets": [
+      "room for improvement",
+      "nip it in the bud",
+      "I appreciate that"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A newly qualified teacher you mentor talks over pupils and rarely lets them answer. Give them feedback after observing a lesson.",
+    "seconds": 60,
+    "targets": [
+      "you might want to",
+      "have you thought about",
+      "not quite there yet"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A senior nurse is brusque with patients' relatives, and two have complained. Raise this with them tactfully but clearly.",
+    "seconds": 60,
+    "targets": [
+      "slightly concerned",
+      "rub someone up the wrong way",
+      "I'd suggest"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A colleague's presentation to the board was full of jargon and ran ten minutes over. Give them useful feedback over coffee afterwards.",
+    "seconds": 45,
+    "targets": [
+      "succinct",
+      "for what it's worth",
+      "it might be worth"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "Your best salesperson is hitting targets but treating the support team rudely. Tell them their behaviour has to change.",
+    "seconds": 60,
+    "targets": [
+      "the elephant in the room",
+      "tread on someone's toes",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "An apprentice electrician on your site keeps leaving tools lying around in walkways. Give them feedback that makes the safety point stick.",
+    "seconds": 60,
+    "targets": [
+      "nip it in the bud",
+      "rule of thumb",
+      "I'm not sure that's quite right"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A trainee solicitor's draft letter to a client is accurate but far too long. Explain how to improve it.",
+    "seconds": 45,
+    "targets": [
+      "succinct",
+      "cut to the chase",
+      "room for improvement"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "You manage a café team, and one barista is always on their phone during quiet spells. Talk to them about it without sounding petty.",
+    "seconds": 60,
+    "targets": [
+      "a bit of an issue",
+      "I'm conscious of time",
+      "pull your socks up"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A freelance writer you commission has filed a piece that's well written but misses the brief entirely. Tell them what needs to change.",
+    "seconds": 60,
+    "targets": [
+      "not quite what I had in mind",
+      "get the wrong end of the stick",
+      "back to the drawing board"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "Your peer in the finance team keeps sending reports with small calculation errors. Raise it with them as a colleague, not a boss.",
+    "seconds": 60,
+    "targets": [
+      "discrepancy",
+      "dot the i's and cross the t's",
+      "just a thought"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A retired volunteer at your stately home gives wonderfully lively tours but keeps telling visitors a romantic legend as historical fact. Give them feedback gently.",
+    "seconds": 45,
+    "targets": [
+      "I'm no expert, but",
+      "not entirely",
+      "it might be worth"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "You lead a software team, and one developer writes clever code that nobody else can maintain. Give them feedback that respects their skill.",
+    "seconds": 60,
+    "targets": [
+      "nuance",
+      "scalable",
+      "I see where you're coming from"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A manager who reports to you has been taking credit for their team's ideas in senior meetings. Address it directly.",
+    "seconds": 60,
+    "targets": [
+      "steal someone's thunder",
+      "candour",
+      "I was a bit disappointed"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A hotel receptionist is charming with every guest, but on Friday evenings the check-in queue stretches out of the door. Coach them on what to change.",
+    "seconds": 45,
+    "targets": [
+      "streamline",
+      "room for improvement",
+      "more haste, less speed"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A colleague asks for your honest opinion on their application for a promotion, and you think it undersells them. Give constructive feedback.",
+    "seconds": 60,
+    "targets": [
+      "blow your own trumpet",
+      "tangible",
+      "for what it's worth"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "Your line manager asks for honest upward feedback. Twice this month they've rewritten the team's plans on a Friday afternoon for Monday. Tell them how this affects you, tactfully.",
+    "seconds": 60,
+    "targets": [
+      "knock-on effect",
+      "I'd be grateful if",
+      "with respect"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A trainee chef keeps over-seasoning dishes and ignoring the recipe cards. Give them feedback during a quiet moment before service.",
+    "seconds": 45,
+    "targets": [
+      "by the book",
+      "nip it in the bud",
+      "have a go"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A project lead at your construction firm is excellent technically but never updates the client. Explain why communication matters as much as the work.",
+    "seconds": 60,
+    "targets": [
+      "keep me posted",
+      "proactive",
+      "linchpin"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A journalist on your desk has written a story that's fair but includes a needlessly sensational headline. Talk them through your concerns.",
+    "seconds": 60,
+    "targets": [
+      "over the top",
+      "I have some reservations",
+      "jeopardise"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A teaching assistant is too quick to give pupils the answers. Suggest a different approach without undermining them.",
+    "seconds": 45,
+    "targets": [
+      "you might want to",
+      "latitude",
+      "it's early days"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A GP registrar's notes are thorough but take so long that their clinics overrun every day. Give them practical feedback.",
+    "seconds": 60,
+    "targets": [
+      "overrun",
+      "streamline",
+      "I'm conscious of time"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "One of your team leaders has become cynical and negative in meetings, and it's affecting morale. Have a frank but supportive conversation.",
+    "seconds": 60,
+    "targets": [
+      "the elephant in the room",
+      "momentum",
+      "I hear what you say"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A colleague's emails to clients are often curt and have caused offence. Explain the problem and suggest some changes.",
+    "seconds": 45,
+    "targets": [
+      "I'd suggest",
+      "come across",
+      "room for improvement"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "You're reviewing a junior analyst's financial model, and the assumptions aren't explained anywhere. Give them feedback on making it clearer.",
+    "seconds": 60,
+    "targets": [
+      "explicit",
+      "premise",
+      "substantiate"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "Staff at your supermarket have noticed that one shift supervisor always gives their friends the Saturday day shifts. Raise this fairness issue with the supervisor directly.",
+    "seconds": 60,
+    "targets": [
+      "equitable",
+      "turn a blind eye",
+      "I'm not sure that's quite right"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A podcast co-host you work with keeps interrupting guests mid-answer, and listeners have started to comment. Tell them how it's coming across without spoiling your partnership.",
+    "seconds": 45,
+    "targets": [
+      "get a word in edgeways",
+      "for what it's worth",
+      "slightly concerned"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A new manager in your logistics firm is micromanaging their team, and two people have asked to move. Give them feedback as their mentor.",
+    "seconds": 60,
+    "targets": [
+      "latitude",
+      "delegate",
+      "I see where you're coming from"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "Your marketing intern has produced a campaign idea that's creative but completely off-brand. Give them feedback that encourages them to keep trying.",
+    "seconds": 60,
+    "targets": [
+      "interesting",
+      "not quite what I had in mind",
+      "have a go"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "The lecturer you co-teach a first-year module with has returned essays four weeks late, and students are emailing you to complain. Raise the impact with them over coffee.",
+    "seconds": 45,
+    "targets": [
+      "knock-on effect",
+      "I'm conscious of time",
+      "protracted"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A paramedic you supervise is technically excellent but dismissive when patients are anxious. Discuss how they could improve their manner.",
+    "seconds": 60,
+    "targets": [
+      "rapport",
+      "room for improvement",
+      "nuance"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A colleague's project proposal is full of good ideas but has no budget or timeline. Give them feedback before it goes to the director.",
+    "seconds": 60,
+    "targets": [
+      "feasibility",
+      "timescale",
+      "pie in the sky"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A team member has joined the last four client video calls late, camera off and without having read the papers. Raise it before it becomes a pattern.",
+    "seconds": 45,
+    "targets": [
+      "nip it in the bud",
+      "a bit of an issue",
+      "on the dot"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A retail assistant handled a difficult customer well but broke the refund policy to do it. Praise the intention and correct the action.",
+    "seconds": 60,
+    "targets": [
+      "give someone the benefit of the doubt",
+      "by the book",
+      "well done"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "In design reviews, a senior engineer in your team waves away every suggestion from the graduates with a sigh. Two have stopped speaking up. Tell them how it's being perceived.",
+    "seconds": 60,
+    "targets": [
+      "rub someone up the wrong way",
+      "undermine",
+      "I might be wrong, but"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A trustee of your hospice charity speaks for half of every board meeting and talks over the newer members. As chair, raise it with them privately.",
+    "seconds": 45,
+    "targets": [
+      "get a word in edgeways",
+      "with the greatest respect",
+      "consensus"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "You sent a confidential salary spreadsheet to the whole department by mistake. Apologise to your manager and explain what you've done to limit the damage.",
+    "seconds": 60,
+    "targets": [
+      "my mistake",
+      "mitigate",
+      "rectify"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "A patient's appointment letter went to an old address and they missed a scan. As the clinic manager, apologise on the phone and set out what happens next.",
+    "seconds": 60,
+    "targets": [
+      "I'm terribly sorry",
+      "rectify",
+      "expedite"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "You forgot to book the venue for your team's away day, and it's now fully booked. Apologise to your colleagues and propose a plan B.",
+    "seconds": 45,
+    "targets": [
+      "away day",
+      "in hindsight",
+      "back to square one"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "Your software update crashed a client's online shop for three hours. Apologise to the client and explain what went wrong and how you'll prevent it.",
+    "seconds": 60,
+    "targets": [
+      "oversight",
+      "rectify",
+      "robust"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "At a school, you gave a pupil the wrong exam paper, and they lost twenty minutes. Apologise to the parents and explain what the school is doing.",
+    "seconds": 60,
+    "targets": [
+      "I'm terribly sorry",
+      "apologies",
+      "mitigate"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "You double-booked a meeting room and a senior client was left waiting in reception. Apologise to them as they arrive.",
+    "seconds": 45,
+    "targets": [
+      "sorry to keep you waiting",
+      "I'm terribly sorry",
+      "my mistake"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "An article you edited contained a factual error about a local business. Apologise to the owner and explain how the correction will be made.",
+    "seconds": 60,
+    "targets": [
+      "rectify",
+      "oversight",
+      "I appreciate that"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "You misquoted the price of a kitchen refit by several thousand pounds. Ring the customer, apologise and explain the correct figure.",
+    "seconds": 60,
+    "targets": [
+      "discrepancy",
+      "eat humble pie",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "A wedding party at your hotel was served the wrong menu. Apologise to the couple the next morning and offer a gesture of goodwill.",
+    "seconds": 45,
+    "targets": [
+      "I'm terribly sorry",
+      "hasn't gone entirely to plan",
+      "on the house"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "Your team missed a regulatory filing deadline, resulting in a small fine. Apologise to the finance director and explain the fix.",
+    "seconds": 60,
+    "targets": [
+      "compliance",
+      "own up",
+      "carry the can"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "During a tense budget meeting, you snapped at a colleague in front of the whole team when they questioned your figures. Apologise to them the next morning.",
+    "seconds": 45,
+    "targets": [
+      "I'm terribly sorry",
+      "I appreciate that",
+      "bite your tongue"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "A delivery from your warehouse went to the wrong shop, leaving shelves empty for a weekend. Apologise to the store manager.",
+    "seconds": 45,
+    "targets": [
+      "my mistake",
+      "knock-on effect",
+      "expedite"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "You approved invoices twice by accident and the charity overpaid a supplier. Apologise to the treasurer and explain how you'll recover the money.",
+    "seconds": 60,
+    "targets": [
+      "recoup",
+      "oversight",
+      "own up"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "An engineer from your firm turned up four hours late to fix a family's boiler in winter. Apologise on the phone and offer compensation.",
+    "seconds": 60,
+    "targets": [
+      "I'm terribly sorry",
+      "we apologise for any inconvenience",
+      "in lieu"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "You accidentally shared an unfinished draft with a client, typos and all. Apologise and explain what they should expect next.",
+    "seconds": 45,
+    "targets": [
+      "sorry for any confusion",
+      "not quite there yet",
+      "preliminary"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "Your restaurant served a customer a dish containing nuts despite their warning. Apologise in person and explain the steps you're taking.",
+    "seconds": 60,
+    "targets": [
+      "I'm terribly sorry",
+      "paramount",
+      "rectify"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "You forgot to pass on an urgent phone message to your manager, and they missed a crucial call. Apologise and explain how you'll make sure it doesn't happen again.",
+    "seconds": 60,
+    "targets": [
+      "my mistake",
+      "flag up",
+      "I'm terribly sorry"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "A train you were driving overshot a platform, inconveniencing passengers. Make an apology announcement and explain the next steps.",
+    "seconds": 45,
+    "targets": [
+      "we apologise for any inconvenience",
+      "bear with me",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "Your recommendation to switch payroll providers has caused months of problems. Apologise to the leadership team and propose a way forward.",
+    "seconds": 60,
+    "targets": [
+      "in hindsight",
+      "take it on the chin",
+      "recalibrate"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "You accidentally deleted a shared folder containing the team's project files. Apologise and explain how you're recovering them.",
+    "seconds": 60,
+    "targets": [
+      "own up",
+      "bear with me",
+      "rectify"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "At a council meeting, you gave residents incorrect information about bin collections. Apologise and give the correct details.",
+    "seconds": 45,
+    "targets": [
+      "sorry for any confusion",
+      "my mistake",
+      "to recap"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "You were curt with a junior colleague when they asked a question during a busy shift on the ward. Apologise to them afterwards.",
+    "seconds": 60,
+    "targets": [
+      "snowed under",
+      "I'm terribly sorry",
+      "these things happen"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "As a project manager, you forgot to tell the client about a planned site closure. Apologise for the surprise and explain the revised plan.",
+    "seconds": 60,
+    "targets": [
+      "keep someone in the dark",
+      "I'm terribly sorry",
+      "timescale"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "You booked the wrong train tickets for a team trip to a conference. Apologise to the group and explain the new arrangements.",
+    "seconds": 45,
+    "targets": [
+      "my mistake",
+      "bear with me",
+      "these things happen"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "An event your charity organised clashed with a religious festival, upsetting supporters. Apologise publicly and explain how planning will change.",
+    "seconds": 60,
+    "targets": [
+      "oversight",
+      "in hindsight",
+      "we regret to inform you"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "In a team meeting, you made a throwaway joke about a colleague's accent, and they've been quiet ever since. Apologise sincerely without making excuses.",
+    "seconds": 45,
+    "targets": [
+      "put your foot in it",
+      "I'm terribly sorry",
+      "own up"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "You promised a colleague you'd review their grant application by Friday and forgot entirely. Apologise and agree a plan that still gets it submitted on time.",
+    "seconds": 60,
+    "targets": [
+      "my mistake",
+      "cutting it fine",
+      "leave it with me"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "Your firm's audit missed an error that the client later discovered themselves. Apologise to the client's finance director and explain what you'll do.",
+    "seconds": 60,
+    "targets": [
+      "oversight",
+      "rigorous",
+      "rectify"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "A guest's luggage was lost by your hotel porters. Apologise and explain what you're doing to find it and compensate them.",
+    "seconds": 60,
+    "targets": [
+      "I'm terribly sorry",
+      "leave no stone unturned",
+      "keep me posted"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "You promised to organise a colleague's leaving drinks and completely forgot to book anywhere, and it's their last day tomorrow. Apologise and suggest a rescue plan.",
+    "seconds": 45,
+    "targets": [
+      "I'm terribly sorry",
+      "make up for",
+      "fingers crossed"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "An email you sent to all customers had the wrong discount code. Apologise in a recorded message and explain what customers should do.",
+    "seconds": 60,
+    "targets": [
+      "sorry for any confusion",
+      "rectify",
+      "apologies"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "You underestimated how long a building survey would take, and the client's purchase has been delayed. Apologise and set out the new timeline.",
+    "seconds": 60,
+    "targets": [
+      "in hindsight",
+      "timescale",
+      "slippage"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "You took a shortcut on a data cleaning task and the dashboard figures were wrong for a week. Own up to your manager.",
+    "seconds": 45,
+    "targets": [
+      "cut corners",
+      "own up",
+      "rectify"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "A reporter on your team published a photo of a child without parental consent. As editor, apologise to the family.",
+    "seconds": 60,
+    "targets": [
+      "I'm terribly sorry",
+      "stringent",
+      "oversight"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "You told a customer at your bank's counter that their savings account had no withdrawal penalty, and they've now been charged. Ring them, apologise and put it right.",
+    "seconds": 45,
+    "targets": [
+      "my mistake",
+      "clarify",
+      "I appreciate that"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "Your team's new rota left the care home short-staffed on a weekend. Apologise to the residents' families at the monthly meeting.",
+    "seconds": 60,
+    "targets": [
+      "hasn't gone entirely to plan",
+      "shortfall",
+      "rectify"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "As a factory supervisor, you approved a batch that later failed quality checks and had to be recalled. Explain what happened to the operations director.",
+    "seconds": 60,
+    "targets": [
+      "in hindsight",
+      "oversight",
+      "protracted"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "You forgot to submit a colleague's expenses claim and they're now out of pocket. Apologise and explain how you'll fix it.",
+    "seconds": 45,
+    "targets": [
+      "my mistake",
+      "expedite",
+      "bear with me"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "At a client pitch, you mixed up their company with a competitor in your opening line. Recover the situation with a graceful apology.",
+    "seconds": 60,
+    "targets": [
+      "put your foot in it",
+      "oh dear",
+      "sorry for any confusion"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "Your recommendation to delay a product launch was wrong, and a rival got there first. Acknowledge this to the leadership team.",
+    "seconds": 60,
+    "targets": [
+      "in hindsight",
+      "miss the boat",
+      "take it on the chin"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Two developers on your team have stopped speaking after a heated argument over code style. Bring them together and help them agree a way of working.",
+    "seconds": 60,
+    "targets": [
+      "bury the hatchet",
+      "it takes two to tango",
+      "on the same page"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Two receptionists at your GP surgery both claim the other is leaving the difficult phone calls to them. Mediate a fair arrangement.",
+    "seconds": 60,
+    "targets": [
+      "apportion",
+      "equitable",
+      "I hear what you say"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "The kitchen and front-of-house teams at your restaurant blame each other for slow service on Saturday nights. Chair a meeting to find a solution.",
+    "seconds": 60,
+    "targets": [
+      "bottleneck",
+      "pass the buck",
+      "iron out"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Two teachers both want the school hall for rehearsals on the same afternoon every week. Help them reach a compromise.",
+    "seconds": 45,
+    "targets": [
+      "six of one and half a dozen of the other",
+      "fair enough",
+      "pencil in"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Your sales team says marketing's leads are useless; marketing says sales never follows them up. Run a meeting to get both sides on the same page.",
+    "seconds": 60,
+    "targets": [
+      "on the same page",
+      "joined-up",
+      "metric"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "A long-serving site foreman and a young graduate engineer clash over how to sequence the works. Mediate between them, valuing both perspectives.",
+    "seconds": 60,
+    "targets": [
+      "know your onions",
+      "wet behind the ears",
+      "the best of both worlds"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Two nurses on your ward are arguing over who should take the Christmas break. Help them reach a solution they both accept.",
+    "seconds": 45,
+    "targets": [
+      "fair enough",
+      "whose turn is it?",
+      "equitable"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Two partners at your small accountancy firm disagree about whether to take on a large, demanding client. Facilitate a conversation that helps them decide.",
+    "seconds": 60,
+    "targets": [
+      "weigh up",
+      "facilitate",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "In your newsroom, a veteran reporter accuses a young sub-editor of rewriting their stories beyond recognition and adding errors. Mediate between them in a quiet meeting room.",
+    "seconds": 60,
+    "targets": [
+      "remit",
+      "tread on someone's toes",
+      "delineate"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Two warehouse supervisors on different shifts keep leaving problems for each other. Help them agree a better handover.",
+    "seconds": 45,
+    "targets": [
+      "handover",
+      "pass the buck",
+      "iron out"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "A charity's volunteers feel the paid staff look down on them, and the staff feel the volunteers are unreliable. Facilitate a session to rebuild trust.",
+    "seconds": 60,
+    "targets": [
+      "rapport",
+      "I see where you're coming from",
+      "in the same boat"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Two researchers in your lab both want to be first author on a joint paper. Help them settle it fairly.",
+    "seconds": 60,
+    "targets": [
+      "equitable",
+      "precedent",
+      "apportion"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Two shop assistants have fallen out over a joke one of them made. As manager, help them move past it.",
+    "seconds": 45,
+    "targets": [
+      "water under the bridge",
+      "a storm in a teacup",
+      "bury the hatchet"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Your IT team and the finance department are in a standoff over a new expenses system. Mediate a meeting so the project can move forward.",
+    "seconds": 60,
+    "targets": [
+      "impasse",
+      "stakeholder",
+      "buy-in"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Two senior consultants in your hospital disagree publicly about a treatment protocol, and junior staff feel caught in the middle. Address it with both consultants.",
+    "seconds": 60,
+    "targets": [
+      "in the same boat",
+      "consensus",
+      "with all due respect"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Two designers at your agency both claim credit for a winning pitch idea. Help them resolve it before it sours the team.",
+    "seconds": 45,
+    "targets": [
+      "steal someone's thunder",
+      "it takes two to tango",
+      "apportion"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "The night and day teams at your care home keep clashing over how residents' medication is recorded. Bring them together to agree one process.",
+    "seconds": 60,
+    "targets": [
+      "joined-up",
+      "by the book",
+      "consensus"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Two members of your project team are arguing over whether to delay a launch. Facilitate a discussion and help them reach a decision.",
+    "seconds": 60,
+    "targets": [
+      "weigh up",
+      "on balance",
+      "trade-off"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Two colleagues sharing a small office are locked in a daily battle over the window and the radiator. Help them find a practical solution before it escalates.",
+    "seconds": 45,
+    "targets": [
+      "a storm in a teacup",
+      "make do",
+      "horses for courses"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "A train driver and a conductor have both filed complaints about each other after a tense shift. Hold a conversation to clear the air between them.",
+    "seconds": 60,
+    "targets": [
+      "let off steam",
+      "bury the hatchet",
+      "I hear what you say"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Your school's English and maths departments are competing for the same small budget for resources. Facilitate a fair discussion.",
+    "seconds": 60,
+    "targets": [
+      "apportion",
+      "ring-fence",
+      "equitable"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Two junior lawyers are fighting over who gets to work on a high-profile case. Help them see a way forward.",
+    "seconds": 45,
+    "targets": [
+      "up for grabs",
+      "fair enough",
+      "equitable"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "A dispute has broken out between your factory's quality team and production team over who stops the line. Chair a meeting to agree the rules.",
+    "seconds": 60,
+    "targets": [
+      "remit",
+      "threshold",
+      "delineate"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Two board members at your charity have become hostile in meetings over the direction of the organisation. As chair, speak to them together.",
+    "seconds": 60,
+    "targets": [
+      "overarching",
+      "consensus",
+      "I don't disagree"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Your hotel's housekeeping and maintenance teams blame each other for rooms not being ready on time. Help them work out a better system.",
+    "seconds": 45,
+    "targets": [
+      "bottleneck",
+      "liaise",
+      "iron out"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Two editors on your film are clashing over the tone of the final cut. Facilitate a conversation that respects both views and gets a decision.",
+    "seconds": 60,
+    "targets": [
+      "horses for courses",
+      "on balance",
+      "nuance"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Two members of your engineering team accuse each other of not pulling their weight on a shared project. Help them divide the work fairly.",
+    "seconds": 60,
+    "targets": [
+      "apportion",
+      "equitable",
+      "carry the can"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Two colleagues in your council office have a long-running feud about noise from phone calls. Mediate a practical compromise.",
+    "seconds": 45,
+    "targets": [
+      "make do",
+      "fair point",
+      "horses for courses"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "A supplier has missed three delivery deadlines and your project is now at risk. Escalate the issue to your director and explain what you need from them.",
+    "seconds": 60,
+    "targets": [
+      "escalate",
+      "jeopardise",
+      "the last straw"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "You've raised a safety concern about a faulty lift in your hospital twice with no response. Escalate it to the estates manager in a firm but professional way.",
+    "seconds": 60,
+    "targets": [
+      "escalate",
+      "as per my last email",
+      "paramount"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "A colleague has been making inappropriate comments to a junior member of staff. Explain to HR why you're raising it formally.",
+    "seconds": 60,
+    "targets": [
+      "escalate",
+      "turn a blind eye",
+      "paramount"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "A client hasn't paid your design studio for four months despite reminders. Explain to your boss why it now needs to go to the finance team.",
+    "seconds": 45,
+    "targets": [
+      "sorry to chase",
+      "escalate",
+      "in the red"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "You've noticed a pattern of unexplained discrepancies in your shop's till counts. Escalate it to your area manager carefully.",
+    "seconds": 60,
+    "targets": [
+      "discrepancy",
+      "ascertain",
+      "flag up"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "Your team is consistently understaffed and patients are waiting too long. Escalate the issue to senior management in a meeting.",
+    "seconds": 60,
+    "targets": [
+      "at capacity",
+      "shortfall",
+      "untenable"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "A contractor on your construction site has repeatedly ignored safety instructions. Explain to the project director why you want them removed.",
+    "seconds": 45,
+    "targets": [
+      "the last straw",
+      "stringent",
+      "escalate"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "Your manager keeps changing project priorities without telling the team, and you've raised it with them already. Explain to their manager why you're coming to them.",
+    "seconds": 60,
+    "targets": [
+      "escalate",
+      "knock-on effect",
+      "I'd be grateful if"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "A software bug has caused some customers to be billed twice. Explain to the head of customer service why this needs urgent attention.",
+    "seconds": 60,
+    "targets": [
+      "escalate",
+      "expedite",
+      "ramifications"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "A parent has made threatening remarks to a teacher at the school gate. Escalate it to the head teacher and propose next steps.",
+    "seconds": 45,
+    "targets": [
+      "escalate",
+      "pre-empt",
+      "paramount"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "Your team's budget sign-off has been stuck with the finance director for three weeks. Explain politely to your own director why you need them to intervene.",
+    "seconds": 60,
+    "targets": [
+      "sign-off",
+      "bottleneck",
+      "just following up"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "A data protection breach may have exposed client information. Explain to your firm's compliance officer what happened and why it needs escalating now.",
+    "seconds": 60,
+    "targets": [
+      "compliance",
+      "escalate",
+      "ramifications"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "A regular customer has become verbally abusive to your café staff. Explain to the owner why you think it's time to ban them.",
+    "seconds": 45,
+    "targets": [
+      "the last straw",
+      "escalate",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "An engineer in your team has raised a serious concern about a product's safety, but their manager has dismissed it. Explain to the quality director why you're stepping in.",
+    "seconds": 60,
+    "targets": [
+      "escalate",
+      "step in",
+      "paramount"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "You suspect a colleague at your charity is misusing donated funds. Raise the matter with the chief executive in a calm, factual way.",
+    "seconds": 60,
+    "targets": [
+      "discretion",
+      "substantiate",
+      "smell a rat"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "A recurring IT fault is costing your call centre hours every week. Explain to the head of IT why it needs to be prioritised.",
+    "seconds": 45,
+    "targets": [
+      "prioritise",
+      "tangible",
+      "bogged down"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "A newspaper photographer has been sending you aggressive messages after a disagreement. Explain to your editor why you're escalating it.",
+    "seconds": 60,
+    "targets": [
+      "escalate",
+      "the last straw",
+      "I'd appreciate it if"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "A residents' complaint about damp in a council flat has been ignored for months. As the housing officer, escalate it to your team leader.",
+    "seconds": 60,
+    "targets": [
+      "protracted",
+      "detrimental",
+      "escalate"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "A key project stakeholder keeps cancelling meetings, delaying decisions. Explain to your sponsor why you need them to step in.",
+    "seconds": 45,
+    "targets": [
+      "stakeholder",
+      "bottleneck",
+      "step in"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "Your hotel's fire alarm system keeps failing its tests, but the owner hasn't approved repairs. Explain to the general manager why it can't wait.",
+    "seconds": 60,
+    "targets": [
+      "compliance",
+      "paramount",
+      "stringent"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "A manager in another department keeps taking your team's people for urgent work without asking. Raise the issue with your director.",
+    "seconds": 60,
+    "targets": [
+      "tread on someone's toes",
+      "bandwidth",
+      "escalate"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "A trainee driver has had three near misses at your depot. Explain to the training manager why they shouldn't drive solo yet.",
+    "seconds": 45,
+    "targets": [
+      "not quite there yet",
+      "stringent",
+      "flag up"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "An external auditor has found that your organisation's records don't match its bank statements. Explain the situation to your chief financial officer.",
+    "seconds": 60,
+    "targets": [
+      "discrepancy",
+      "reconcile",
+      "ramifications"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "Patients on your ward have complained about rudeness from a particular agency nurse. Explain to the ward manager why you're raising it formally.",
+    "seconds": 60,
+    "targets": [
+      "escalate",
+      "substantiate",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "A school supplier has delivered faulty laptops to every classroom. Explain to the business manager why you need to escalate it to the supplier's head office.",
+    "seconds": 45,
+    "targets": [
+      "escalate",
+      "fit for purpose",
+      "sorry to chase"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You pulled a product launch a week before release after spotting a security flaw, and the sales director says you've cost them their quarter. Defend the decision in the leadership meeting.",
+    "seconds": 60,
+    "targets": [
+      "untenable",
+      "paramount",
+      "in hindsight"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "As head chef, you've taken the much-loved fish pie off the menu because it loses money on every plate. The owner's regulars are grumbling. Explain your reasoning to the owner.",
+    "seconds": 60,
+    "targets": [
+      "viable",
+      "outlay",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "Governors are questioning why you chose the dearer of two school catering firms. Explain why the cheaper bid would have cost more in the long term.",
+    "seconds": 60,
+    "targets": [
+      "value for money",
+      "rationale",
+      "fit for purpose"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You spiked a reporter's exclusive because a key claim rested on a single anonymous source. They've gone over your head to the editor. Explain your decision to the editor.",
+    "seconds": 60,
+    "targets": [
+      "substantiate",
+      "corroborate",
+      "jeopardise"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You appointed a graduate over a candidate with ten years' experience. A director asks you to justify it. Explain what tipped the balance.",
+    "seconds": 60,
+    "targets": [
+      "trajectory",
+      "on balance",
+      "rationale"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You halted work on a high-rise site for a day because of gusting winds, and the client's penalty clause now looms. Defend the call to the operations director.",
+    "seconds": 60,
+    "targets": [
+      "paramount",
+      "prudent",
+      "at the end of the day"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "As a GP, you declined to prescribe antibiotics to a patient with a viral infection, and they've complained to the practice manager. Explain your reasoning to the manager.",
+    "seconds": 60,
+    "targets": [
+      "rationale",
+      "detrimental",
+      "by the book"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You've introduced a no-phones rule on the shop floor and staff are unhappy. Explain why at the Monday huddle, acknowledging their frustration.",
+    "seconds": 45,
+    "targets": [
+      "rationale",
+      "I hear what you say",
+      "I appreciate that"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You cancelled a sponsored fun run the night before because of a severe weather warning. Explain your decision to two hundred disappointed volunteers in a short video message.",
+    "seconds": 60,
+    "targets": [
+      "prudent",
+      "paramount",
+      "it's not the end of the world"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You've chosen a mature, well-known framework over the latest one for a new app, and younger developers are disappointed. Explain your reasoning.",
+    "seconds": 45,
+    "targets": [
+      "robust",
+      "pragmatic",
+      "horses for courses"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You closed a platform at a busy station for half an hour after a report of a damaged rail. An angry commuter confronts you. Explain your decision.",
+    "seconds": 60,
+    "targets": [
+      "paramount",
+      "I'm afraid",
+      "I appreciate that"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You promoted an internal candidate rather than recruiting a big name from a rival. The board asks why. Justify your choice.",
+    "seconds": 60,
+    "targets": [
+      "attrition",
+      "trajectory",
+      "invaluable"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You decided not to raise prices at your garden centre this year, despite higher costs. Your business partner disagrees. Defend your view.",
+    "seconds": 60,
+    "targets": [
+      "headwinds",
+      "on balance",
+      "tighten your belt"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You rejected a lucrative sponsorship deal for your youth football charity because of the sponsor's products. Defend the decision to your fellow trustees.",
+    "seconds": 60,
+    "targets": [
+      "vested interest",
+      "on balance",
+      "jeopardise"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You chose to deliver redundancy news in person rather than by video call, despite the travel cost. A finance colleague questions it. Explain why.",
+    "seconds": 45,
+    "targets": [
+      "nuance",
+      "rapport",
+      "outlay"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "Your factory's new shift pattern has upset some long-serving staff. At a staff forum, explain why the change was necessary.",
+    "seconds": 60,
+    "targets": [
+      "rationale",
+      "knock-on effect",
+      "I see where you're coming from"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You refused to sign off a building's handover because the fire stopping wasn't finished. The developer is furious. Explain your position on the phone.",
+    "seconds": 60,
+    "targets": [
+      "sign-off",
+      "paramount",
+      "fit for purpose"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You've ended the free staff lunch at your agency to fund a training budget. Explain the decision at the all-hands.",
+    "seconds": 45,
+    "targets": [
+      "all-hands",
+      "upskill",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You rejected a request from a senior partner to bump their client to the front of the court bundle queue. Explain your reasoning to them.",
+    "seconds": 60,
+    "targets": [
+      "precedent",
+      "equitable",
+      "with the greatest respect"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "As a ward sister, you refused to accept a patient transfer because you didn't have safe staffing. A bed manager is pressuring you. Explain your decision.",
+    "seconds": 60,
+    "targets": [
+      "at capacity",
+      "paramount",
+      "untenable"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You decided to postpone a magazine's redesign until the next financial year. The art director is disappointed. Explain why.",
+    "seconds": 45,
+    "targets": [
+      "interim",
+      "outlay",
+      "on the back foot"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You switched your logistics firm to electric vans, and some drivers say the range is a nuisance. Defend the decision at a depot briefing.",
+    "seconds": 60,
+    "targets": [
+      "teething problems",
+      "overheads",
+      "it's early days"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You allowed a struggling employee extended compassionate leave, and their manager thinks you were too lenient. Explain your reasoning.",
+    "seconds": 60,
+    "targets": [
+      "discretion",
+      "latitude",
+      "precedent"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You rejected a viral marketing idea that you thought could backfire. The marketing team thinks you're too cautious. Defend your judgement.",
+    "seconds": 45,
+    "targets": [
+      "ramifications",
+      "prudent",
+      "go down like a lead balloon"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You chose to keep a small rural branch of your bank open despite low use. The regional director challenges you. Make your case.",
+    "seconds": 60,
+    "targets": [
+      "value for money",
+      "tangible",
+      "indispensable"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You stopped an orchestra rehearsal because the stage lighting rig looked unstable. The conductor is livid at losing time. Explain why you did it.",
+    "seconds": 60,
+    "targets": [
+      "paramount",
+      "prudent",
+      "better late than never"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "As a school business manager, you chose to repair old laptops rather than buy new ones. Defend the decision to frustrated teachers.",
+    "seconds": 45,
+    "targets": [
+      "value for money",
+      "make do",
+      "interim"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You've decided to reject every late submission to your grant programme, including one from a well-known organisation. Explain why you won't make an exception.",
+    "seconds": 60,
+    "targets": [
+      "precedent",
+      "equitable",
+      "on this occasion"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You turned down a profitable contract because it would overstretch your small engineering team. Your business partner is unhappy. Defend your call.",
+    "seconds": 60,
+    "targets": [
+      "at capacity",
+      "bite off more than you can chew",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You kept a struggling restaurant open over a quiet bank holiday to retain staff. The owner questions the cost. Explain your reasoning.",
+    "seconds": 45,
+    "targets": [
+      "attrition",
+      "outlay",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A furious bride rings your florist the morning of her wedding because the bouquets are the wrong colour. Calm her down and explain what you can do in the next two hours.",
+    "seconds": 60,
+    "targets": [
+      "I'm terribly sorry",
+      "leave it with me",
+      "pull out all the stops"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A client of your web agency storms into a meeting saying their site has been slow for weeks. Acknowledge their frustration and explain your plan.",
+    "seconds": 60,
+    "targets": [
+      "I appreciate that",
+      "rectify",
+      "keep me posted"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A homeowner is angry that your building firm's skip has blocked their drive for a fortnight. Respond calmly and offer a solution.",
+    "seconds": 60,
+    "targets": [
+      "I'm terribly sorry",
+      "expedite",
+      "sorted"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A passenger on your delayed train is shouting at you on the platform. Calm the situation and explain their options.",
+    "seconds": 45,
+    "targets": [
+      "I'm afraid",
+      "bear with me",
+      "we apologise for any inconvenience"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A parent is angry that their child wasn't picked for the school play. Explain the selection process and offer next steps.",
+    "seconds": 60,
+    "targets": [
+      "I appreciate that",
+      "rationale",
+      "on this occasion"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A major client threatens to leave your accountancy firm after a tax deadline was missed. Respond professionally and propose how you'll make amends.",
+    "seconds": 60,
+    "targets": [
+      "own up",
+      "rectify",
+      "make up for"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A diner complains loudly that their steak is overcooked and the service has been slow. As the manager, handle it at the table.",
+    "seconds": 60,
+    "targets": [
+      "I'm terribly sorry",
+      "on the house",
+      "not up to scratch"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A tenant phones your letting agency, furious that their boiler has been broken for a week. Respond with empathy and a plan.",
+    "seconds": 45,
+    "targets": [
+      "I'm terribly sorry",
+      "chase up",
+      "expedite"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A client of your law firm is angry about a large bill they weren't expecting. Explain the charges calmly and offer to review them.",
+    "seconds": 60,
+    "targets": [
+      "I appreciate that",
+      "happy to discuss",
+      "forthcoming"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A hotel guest is furious that the room they booked has no sea view. Respond calmly and offer what you can.",
+    "seconds": 60,
+    "targets": [
+      "I'm terribly sorry",
+      "I'll see what I can do",
+      "on this occasion"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A customer is shouting in your shop because an online order arrived broken. Defuse the situation and explain the refund process.",
+    "seconds": 45,
+    "targets": [
+      "I'm terribly sorry",
+      "bear with me",
+      "rectify"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "An important client of your PR agency is angry about negative press coverage. Explain what went wrong and what you'll do next.",
+    "seconds": 60,
+    "targets": [
+      "mitigate",
+      "on the back foot",
+      "the tip of the iceberg"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A patient's relative is angry about how long they waited in A&E. As the nurse in charge, explain the situation calmly.",
+    "seconds": 60,
+    "targets": [
+      "I appreciate that",
+      "at capacity",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A client accuses your software firm of breaking promises in the contract. Respond calmly and clarify what was agreed.",
+    "seconds": 45,
+    "targets": [
+      "clarify",
+      "I hear what you say",
+      "as discussed"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A business owner is furious that your bank has frozen their account during a fraud check. Explain why and how long it will take.",
+    "seconds": 60,
+    "targets": [
+      "I appreciate that",
+      "stringent",
+      "bear with me"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A local resident is furious that your film crew's lorries are blocking their street. Respond calmly and offer a solution.",
+    "seconds": 60,
+    "targets": [
+      "I'm terribly sorry",
+      "make up for",
+      "liaise"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A customer at your till is getting louder because the shelf price for a pack of nappies doesn't match the price that scanned. Handle it calmly in front of the queue.",
+    "seconds": 45,
+    "targets": [
+      "discrepancy",
+      "I'm terribly sorry",
+      "on this occasion"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "An event organiser is angry that your catering company ran out of food at their gala. Apologise and explain how you'll make amends.",
+    "seconds": 60,
+    "targets": [
+      "I'm terribly sorry",
+      "in hindsight",
+      "make up for"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A client of your architecture practice is upset that the planning application was refused. Explain the reasons and next steps.",
+    "seconds": 60,
+    "targets": [
+      "I'm afraid",
+      "back to the drawing board",
+      "viable"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A taxi passenger is angry about the fare. As the firm's controller, explain how it was calculated and offer a fair resolution.",
+    "seconds": 45,
+    "targets": [
+      "clarify",
+      "I appreciate that",
+      "fair enough"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A large retailer accuses your factory of delivering a faulty batch of products. Respond calmly and set out your investigation.",
+    "seconds": 60,
+    "targets": [
+      "ascertain",
+      "rectify",
+      "bear with me"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A donor to your charity is angry that their gift was used differently from what they expected. Explain how it was used and why.",
+    "seconds": 60,
+    "targets": [
+      "I appreciate that",
+      "rationale",
+      "candour"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A guest at your theatre is furious that their seats have a restricted view. Explain the situation and offer an alternative.",
+    "seconds": 45,
+    "targets": [
+      "I'm terribly sorry",
+      "I'll see what I can do",
+      "on the house"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A client of your recruitment agency is angry that the candidate you placed left after a week. Respond calmly and propose next steps.",
+    "seconds": 60,
+    "targets": [
+      "I appreciate that",
+      "rectify",
+      "in lieu"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A parent is angry about how their child's bullying complaint was handled. As head of year, respond with care and set out next steps.",
+    "seconds": 60,
+    "targets": [
+      "I'm terribly sorry",
+      "leave no stone unturned",
+      "keep me posted"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A customer is angry that a bus didn't stop for them. As customer service, respond calmly and explain what you'll do.",
+    "seconds": 45,
+    "targets": [
+      "I'm terribly sorry",
+      "look into",
+      "we apologise for any inconvenience"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A client of your marketing agency says the campaign results are disappointing. Respond calmly and explain what you'll change.",
+    "seconds": 60,
+    "targets": [
+      "recalibrate",
+      "room for improvement",
+      "I hear what you say"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A homeowner is angry that the kitchen your firm fitted has a cracked worktop. Respond on the phone and explain the fix.",
+    "seconds": 60,
+    "targets": [
+      "I'm terribly sorry",
+      "rectify",
+      "expedite"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A guest checking out of your hotel finds three minibar charges and a film they insist they never ordered. Respond calmly and resolve it at the desk.",
+    "seconds": 45,
+    "targets": [
+      "discrepancy",
+      "I'm terribly sorry",
+      "look into"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A client of your IT firm is furious that a security update caused their systems to go down. Explain what happened and how you'll prevent it.",
+    "seconds": 60,
+    "targets": [
+      "own up",
+      "robust",
+      "rectify"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "The board has scrapped the patient booking app your team has spent a year building, a week before the pilot. Break the news at Monday's stand-up and explain what happens next.",
+    "seconds": 60,
+    "targets": [
+      "I'm afraid",
+      "upshot",
+      "hasn't gone entirely to plan"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "As a hiring manager, ring an internal candidate to tell them they didn't get the promotion. Give honest, useful feedback.",
+    "seconds": 60,
+    "targets": [
+      "I'm afraid",
+      "on this occasion",
+      "not quite there yet"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "Tell a long-standing client of your print firm that you can no longer meet their prices because paper costs have soared. Explain the new terms.",
+    "seconds": 60,
+    "targets": [
+      "I'm afraid",
+      "outlay",
+      "headwinds"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "Your café's head barista asked for Saturday off for a family event, but you can't spare them. Tell them the news gently.",
+    "seconds": 45,
+    "targets": [
+      "I'm afraid",
+      "I'm terribly sorry",
+      "make up for"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "You have to tell a nervous author that their publisher has decided not to release their second book. Break the news on a video call.",
+    "seconds": 60,
+    "targets": [
+      "we regret to inform you",
+      "on this occasion",
+      "it's not the end of the world"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "As a head teacher, tell staff that the school's budget means two teaching assistant posts will not be renewed. Explain the reasons.",
+    "seconds": 60,
+    "targets": [
+      "shortfall",
+      "I'm afraid",
+      "redundancy"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "A client has paid for a feature that your developers now say is technically impossible. Explain the situation and offer alternatives.",
+    "seconds": 60,
+    "targets": [
+      "feasible",
+      "I'm afraid",
+      "trade-off"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "Sales at your high-street bookshop are down for the third quarter running. Tell a part-time assistant, who relies on the income, that their weekly hours must be cut.",
+    "seconds": 45,
+    "targets": [
+      "I'm afraid",
+      "cut back",
+      "turnover"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "You're the site manager and must tell a homeowner their extension will be two months late due to ground problems. Explain calmly.",
+    "seconds": 60,
+    "targets": [
+      "slippage",
+      "I'm afraid",
+      "knock-on effect"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "Your bank is closing its Leeds operations centre and moving the team to Glasgow next spring. Tell your team at a hastily arranged meeting and handle their first questions with care.",
+    "seconds": 60,
+    "targets": [
+      "I'm afraid",
+      "I appreciate that",
+      "timescale"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "Tell a junior colleague that their idea won't be taken forward by senior management. Encourage them to keep contributing.",
+    "seconds": 45,
+    "targets": [
+      "on this occasion",
+      "I was a bit disappointed",
+      "food for thought"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "You have to tell a charity partner that your foundation won't renew their funding next year. Explain why and what support remains.",
+    "seconds": 60,
+    "targets": [
+      "we regret to inform you",
+      "on this occasion",
+      "interim"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "The client's new warehouse system will cost forty per cent more than quoted because their old data is in a far worse state than anyone knew. Break this to their operations director.",
+    "seconds": 60,
+    "targets": [
+      "per cent",
+      "I'm afraid",
+      "the tip of the iceberg"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "A freelance photographer spent two days shooting a food feature for your magazine, but the editor has decided to run illustrations instead. Tell them honestly and respectfully.",
+    "seconds": 45,
+    "targets": [
+      "I'm afraid",
+      "not quite what I had in mind",
+      "on this occasion"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "You're the duty manager at an airport and must tell passengers their flight has been cancelled. Explain their rights and options.",
+    "seconds": 60,
+    "targets": [
+      "we apologise for any inconvenience",
+      "I'm afraid",
+      "bear with me"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "Tell a factory team that the night shift is being discontinued, affecting twenty jobs. Explain the decision and the support on offer.",
+    "seconds": 60,
+    "targets": [
+      "redundancy",
+      "I'm afraid",
+      "headwinds"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "Tell your manager that a key supplier has gone out of business, threatening your launch date. Explain what you're doing about it.",
+    "seconds": 45,
+    "targets": [
+      "spanner in the works",
+      "contingency",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "As a hospital consultant's secretary, ring a patient to say their surgery has been postponed for the second time. Handle their frustration.",
+    "seconds": 60,
+    "targets": [
+      "I'm terribly sorry",
+      "I'm afraid",
+      "expedite"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "Tell your editor that a major interview has fallen through two days before the issue goes to print. Propose a replacement.",
+    "seconds": 60,
+    "targets": [
+      "fall through",
+      "I'm afraid",
+      "at a push"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "Tell a volunteer that they can't lead the youth group any more because of a lapsed safety check. Explain how they can resolve it.",
+    "seconds": 45,
+    "targets": [
+      "I'm afraid",
+      "compliance",
+      "interim"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "You're a solicitor and must tell your client that their case is unlikely to succeed. Explain the reasons and their options.",
+    "seconds": 60,
+    "targets": [
+      "I'm afraid",
+      "on balance",
+      "tenable"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "The company missed its profit target by a whisker, so the annual bonus your warehouse team had been counting on won't be paid. Break the news at the end-of-year briefing.",
+    "seconds": 60,
+    "targets": [
+      "I'm afraid",
+      "shortfall",
+      "I appreciate that"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "As a landlord's agent, tell a tenant that the rent will rise at renewal. Explain the reasons and the timescale.",
+    "seconds": 45,
+    "targets": [
+      "I'm afraid",
+      "timescale",
+      "commensurate"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "Tell a talented graduate that their job offer has been withdrawn because of a hiring freeze. Be honest and supportive.",
+    "seconds": 60,
+    "targets": [
+      "we regret to inform you",
+      "headcount",
+      "I'm terribly sorry"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "As the producer of a TV show, tell a presenter that their segment has been cut from the series. Handle their disappointment.",
+    "seconds": 60,
+    "targets": [
+      "on this occasion",
+      "I'm afraid",
+      "trajectory"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "A customer ordered a made-to-measure sofa for a new flat and has just learned the factory has a three-month backlog. Tell them on the phone and offer some options.",
+    "seconds": 45,
+    "targets": [
+      "I'm afraid",
+      "sorry to keep you waiting",
+      "in lieu"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "The external training budget has been frozen, so the course your team voted for in the spring is off. Tell them, and explain what learning will still happen.",
+    "seconds": 60,
+    "targets": [
+      "I'm afraid",
+      "upskill",
+      "ring-fence"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "As an engineer, explain to a client that their bridge needs urgent repairs that will close it for six weeks. Be clear about the reasons.",
+    "seconds": 60,
+    "targets": [
+      "I'm afraid",
+      "paramount",
+      "detrimental"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "Your colleague has planned a six-month sabbatical to sail round the coast, but the director has refused it during the merger. Break it to them and suggest an alternative.",
+    "seconds": 45,
+    "targets": [
+      "I'm afraid",
+      "on this occasion",
+      "timescale"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "You have to tell a care home resident's family that their relative's room must change because of building work. Explain sensitively.",
+    "seconds": 60,
+    "targets": [
+      "I'm afraid",
+      "I appreciate that",
+      "interim"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "You're a store manager and must tell staff that the shop will close permanently in three months. Explain the support on offer.",
+    "seconds": 60,
+    "targets": [
+      "I'm afraid",
+      "redundancy",
+      "the writing is on the wall"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "The trademark your client wanted for their new gin brand has been refused because it's too close to an existing mark. Explain what this means and what they could do next.",
+    "seconds": 45,
+    "targets": [
+      "we regret to inform you",
+      "on this occasion",
+      "viable"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "As a team leader, tell a colleague their contract won't be extended after their probation period. Be fair and clear.",
+    "seconds": 60,
+    "targets": [
+      "probation",
+      "I'm afraid",
+      "on this occasion"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "Tell a construction client that the cost of materials has risen and their budget will need to increase. Explain the figures.",
+    "seconds": 60,
+    "targets": [
+      "outlay",
+      "I'm afraid",
+      "contingency"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "A Year 10 pupil has failed the practical module of their engineering course and must resit it next term. Explain this to their parents at a meeting and set out the support available.",
+    "seconds": 45,
+    "targets": [
+      "I'm afraid",
+      "rationale",
+      "not quite there yet"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "As a finance manager, tell department heads that all spending must be approved by you for the rest of the year. Explain why.",
+    "seconds": 60,
+    "targets": [
+      "stringent",
+      "shortfall",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "A pensioner has bought the same brand of wool from your haberdashery for thirty years, and the mill has just closed. Tell them when they next come in, and suggest an alternative.",
+    "seconds": 60,
+    "targets": [
+      "I'm afraid",
+      "that's a shame",
+      "you might want to"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "A reporter's carefully researched feature will be cut by half to make room for breaking news about a factory fire. Explain the decision to them gently.",
+    "seconds": 45,
+    "targets": [
+      "I'm afraid",
+      "on this occasion",
+      "the powers that be"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "You're the head of a charity and must tell staff a major donor has withdrawn support. Explain the impact and the plan.",
+    "seconds": 60,
+    "targets": [
+      "shortfall",
+      "I'm afraid",
+      "contingency"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "Your client's new skincare range was due to launch in March, but the regulator wants more safety data. Explain the delay and the new dates to their marketing director.",
+    "seconds": 60,
+    "targets": [
+      "slippage",
+      "I'm afraid",
+      "put back"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "Your airline's scheduling team wants cabin crew to work a Manchester–Dubai return with only a ten-hour rest before the next duty. As crew manager, push back and propose a safer roster.",
+    "seconds": 60,
+    "targets": [
+      "stringent",
+      "paramount",
+      "a bit of a stretch"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "A TV commissioner wants your documentary cut from sixty minutes to forty-five, a week before broadcast. Explain what would be lost and suggest a compromise.",
+    "seconds": 45,
+    "targets": [
+      "nuance",
+      "trade-off",
+      "down to the wire"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "The managing partner wants your conveyancing team to take on thirty extra house sales in the spring rush with no extra staff. Explain the risk to clients.",
+    "seconds": 60,
+    "targets": [
+      "at capacity",
+      "bottleneck",
+      "jeopardise"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "Your car parts plant has been asked by a client to double next month's order with three weeks' notice. Explain to the account manager what's achievable.",
+    "seconds": 60,
+    "targets": [
+      "feasible",
+      "headroom",
+      "at a push"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "A council planning officer wants your heritage survey done in a single site visit. Explain why one visit won't give a reliable picture.",
+    "seconds": 45,
+    "targets": [
+      "rigorous",
+      "preliminary",
+      "not up to scratch"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "A celebrity guest's agent wants approval of the final edit of your radio interview. As the producer, explain why you can't agree.",
+    "seconds": 60,
+    "targets": [
+      "precedent",
+      "prerogative",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "Your regional rail franchise wants station staff to sell tickets, clean and run the café at the same time. As the union rep, make your case against.",
+    "seconds": 60,
+    "targets": [
+      "remit",
+      "at capacity",
+      "bite off more than you can chew"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "A hedge fund client wants a valuation report on a company by tomorrow. Explain why your analysts need until Friday.",
+    "seconds": 45,
+    "targets": [
+      "rigorous",
+      "due diligence",
+      "cutting it fine"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "The head of your secondary school wants every lesson recorded and uploaded for absent pupils. Explain, on behalf of staff, why this is unworkable as proposed.",
+    "seconds": 60,
+    "targets": [
+      "untenable",
+      "pilot",
+      "I have some reservations"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "A client wants your landscaping firm to lay a lawn in mid-July during a hosepipe ban. Explain why it's a poor idea and suggest timing that would work.",
+    "seconds": 45,
+    "targets": [
+      "I'd suggest",
+      "rule of thumb",
+      "hold your horses"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A wealthy donor offers your village museum a vast collection of farm machinery that you have nowhere to store. Decline graciously while keeping them as a supporter.",
+    "seconds": 45,
+    "targets": [
+      "a white elephant",
+      "I'm terribly sorry",
+      "that's very kind of you"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A rival broadcaster's head of news asks you to share unbroadcast footage from your investigation. Decline, and explain why your editorial policy forbids it.",
+    "seconds": 60,
+    "targets": [
+      "I'm afraid",
+      "precedent",
+      "stipulate"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A logistics customer asks your firm to carry hazardous chemicals your drivers aren't licensed for. Turn the work down and point them elsewhere.",
+    "seconds": 45,
+    "targets": [
+      "compliance",
+      "I'm afraid",
+      "remit"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A shareholder corners you at the annual general meeting and asks for advance details of next quarter's results. Decline politely but firmly.",
+    "seconds": 60,
+    "targets": [
+      "I couldn't possibly",
+      "discretion",
+      "forthcoming"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A tenant asks your housing association to let their adult son move in without the usual checks. Explain why you can't and what the process is.",
+    "seconds": 45,
+    "targets": [
+      "by the book",
+      "I'm afraid",
+      "get back to"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "Your factory director asks you to give a tour to visiting investors on the day of a critical safety audit. Decline and suggest another date.",
+    "seconds": 60,
+    "targets": [
+      "I'm afraid",
+      "paramount",
+      "shall we say"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A barrister in your chambers asks you to draft their skeleton argument overnight while you're preparing for your own trial. Say no tactfully.",
+    "seconds": 45,
+    "targets": [
+      "up to my eyes",
+      "I'm afraid",
+      "I'll see what I can do"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A bus passenger asks you, the driver, to let them off between stops in heavy traffic. Explain why you can't do that.",
+    "seconds": 60,
+    "targets": [
+      "I'm afraid",
+      "by the book",
+      "mind how you go"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A long-standing client of your bookkeeping service suggests you record some of their cash takings \"off the books\" this year. Refuse calmly but leave no doubt.",
+    "seconds": 45,
+    "targets": [
+      "compliance",
+      "I'm afraid",
+      "on thin ice"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A colleague invites you to co-author a paper using data you believe was collected without proper consent. Decline and explain your concern.",
+    "seconds": 60,
+    "targets": [
+      "I have some reservations",
+      "jeopardise",
+      "I'd rather not"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "You're a freelance camera operator, and a production company offers a flat fee for a shoot that will clearly run into evenings. Negotiate overtime or a better rate.",
+    "seconds": 60,
+    "targets": [
+      "pro rata",
+      "commensurate",
+      "I'd be grateful if"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "A major supermarket wants your dairy co-operative to cut its milk price by two pence a litre. Negotiate a deal your farmers can survive.",
+    "seconds": 60,
+    "targets": [
+      "tenable",
+      "over a barrel",
+      "headwinds"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "The airport wants your coffee kiosk to pay a share of takings on top of rent. Negotiate terms that keep the kiosk worthwhile.",
+    "seconds": 45,
+    "targets": [
+      "viable",
+      "overheads",
+      "threshold"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "A law firm wants to merge with yours, but its partners expect the senior roles. Negotiate a leadership structure that's fair to your partners.",
+    "seconds": 60,
+    "targets": [
+      "equitable",
+      "sticking point",
+      "concede"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "A housebuilder wants your demolition firm to clear an old dairy and only pay once the whole estate is built, perhaps three years away. Negotiate terms you can live with.",
+    "seconds": 60,
+    "targets": [
+      "milestone",
+      "outlay",
+      "contingent"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "Your printing works has been offered a large order on condition it's delivered free across the country. Negotiate who covers the carriage.",
+    "seconds": 45,
+    "targets": [
+      "foot the bill",
+      "apportion",
+      "concede"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "A university wants your engineering consultancy to supervise a student project for free. Negotiate an arrangement that benefits both sides.",
+    "seconds": 60,
+    "targets": [
+      "in lieu",
+      "the best of both worlds",
+      "rapport"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "Your local newspaper's distributor wants to stop delivering to a dozen outlying villages to save fuel. Negotiate a way to keep those readers covered.",
+    "seconds": 60,
+    "targets": [
+      "value for money",
+      "in tandem",
+      "up to a point"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "A hotel chain's procurement manager wants your laundry service on a five-year fixed price. Negotiate a review clause.",
+    "seconds": 45,
+    "targets": [
+      "proviso",
+      "stipulate",
+      "foreseeable"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "Your bus company and a local school disagree over who pays for a new route. Negotiate a sensible share of the costs.",
+    "seconds": 60,
+    "targets": [
+      "apportion",
+      "foot the bill",
+      "fair point"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "You think your bank branch should open on Saturday mornings instead of one weekday afternoon. Persuade the area director with what you've seen at the counter.",
+    "seconds": 60,
+    "targets": [
+      "tangible",
+      "on balance",
+      "it might be worth"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "Your manufacturing firm's safety committee wants to ban radios on the shop floor. Persuade them that a volume limit would work better.",
+    "seconds": 60,
+    "targets": [
+      "pragmatic",
+      "horses for courses",
+      "I see where you're coming from"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "You believe your regional newspaper should launch a free weekly newsletter. Persuade the managing editor that it will win back younger readers.",
+    "seconds": 45,
+    "targets": [
+      "pilot",
+      "impetus",
+      "quick win"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "The partners at your law firm want to stop offering free first consultations. Persuade them that the free half-hour brings in valuable work.",
+    "seconds": 60,
+    "targets": [
+      "recoup",
+      "compelling",
+      "a drop in the ocean"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "Your railway company plans to close the staffed ticket office at a small station. Persuade senior managers to keep a reduced service.",
+    "seconds": 60,
+    "targets": [
+      "indispensable",
+      "on balance",
+      "value for money"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "You think your construction firm should switch from paper site diaries to a shared app. Persuade a sceptical contracts director.",
+    "seconds": 45,
+    "targets": [
+      "streamline",
+      "quick win",
+      "seamless"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "The finance director of your charity wants to cut the volunteer expenses budget. Persuade them that it would cost more than it saves.",
+    "seconds": 60,
+    "targets": [
+      "knock-on effect",
+      "attrition",
+      "a drop in the ocean"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "You think your factory should let line workers suggest improvements and share in the savings. Persuade the plant manager to try it.",
+    "seconds": 60,
+    "targets": [
+      "incentivise",
+      "tangible",
+      "pilot"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "You want your publishing house to take a chance on a debut author with an unusual manuscript. Persuade the acquisitions meeting.",
+    "seconds": 45,
+    "targets": [
+      "compelling",
+      "take the plunge",
+      "a feather in your cap"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "Your trust's executive team wants to bring in a costly agency to run a recruitment drive. Persuade them to fund an in-house campaign instead.",
+    "seconds": 60,
+    "targets": [
+      "value for money",
+      "leverage",
+      "bespoke"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Two of your bus drivers have fallen out over route allocations, and one claims favouritism. Mediate the conversation and agree a fairer system.",
+    "seconds": 60,
+    "targets": [
+      "equitable",
+      "let off steam",
+      "fair enough"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Your regional newspaper's photographers and reporters keep arguing over who sets the story's angle on assignments. Help them agree how to work together.",
+    "seconds": 60,
+    "targets": [
+      "delineate",
+      "remit",
+      "in tandem"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Two machine operators on your production line are refusing to share a workstation after a row. Help them move on.",
+    "seconds": 45,
+    "targets": [
+      "water under the bridge",
+      "bury the hatchet",
+      "crack on"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "A senior partner and a trainee solicitor at your firm have both complained about the other's conduct on a case. Mediate a frank conversation.",
+    "seconds": 60,
+    "targets": [
+      "candour",
+      "I hear what you say",
+      "rub someone up the wrong way"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Two investment analysts have contradictory recommendations on the same company, and the client is confused. Help them agree a joint view.",
+    "seconds": 60,
+    "targets": [
+      "reconcile",
+      "consensus",
+      "nuance"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "You've spotted a pattern of near misses at a level crossing on your rail route. Escalate it to the safety director with what you've observed.",
+    "seconds": 60,
+    "targets": [
+      "escalate",
+      "pre-empt",
+      "paramount"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "A client of your financial advisory firm appears to be moving large sums in ways that look suspicious. Explain to your compliance officer why you're flagging it.",
+    "seconds": 60,
+    "targets": [
+      "flag up",
+      "compliance",
+      "smell a rat"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "A batch of components from a new supplier keeps failing inspection at your factory. Explain to the procurement director why this needs escalating.",
+    "seconds": 45,
+    "targets": [
+      "escalate",
+      "fit for purpose",
+      "the tip of the iceberg"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "A freelance contributor to your magazine claims they haven't been paid for six months. Explain to the finance director why it must be sorted this week.",
+    "seconds": 60,
+    "targets": [
+      "escalate",
+      "sorry to chase",
+      "jeopardise"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "Your client's sub-contractor keeps hiding defects behind plasterboard. As clerk of works, explain to the client why you're escalating it.",
+    "seconds": 60,
+    "targets": [
+      "escalate",
+      "cut corners",
+      "substantiate"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "Your newspaper ran a photo caption naming the wrong person in a court case. As managing editor, apologise to the person wrongly named.",
+    "seconds": 60,
+    "targets": [
+      "I'm terribly sorry",
+      "rectify",
+      "ramifications"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "A coach you dispatched broke down on the motorway, leaving a school party stranded for three hours. Apologise to the head teacher and explain what you'll do differently.",
+    "seconds": 60,
+    "targets": [
+      "I'm terribly sorry",
+      "contingency",
+      "in hindsight"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "You gave a client of your investment firm the wrong fee figure in writing. Ring them to apologise and correct it.",
+    "seconds": 45,
+    "targets": [
+      "my mistake",
+      "clarify",
+      "discrepancy"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "Your law firm missed a court filing deadline for a client's appeal. As the supervising partner, apologise and explain what you're doing.",
+    "seconds": 60,
+    "targets": [
+      "carry the can",
+      "mitigate",
+      "I'm terribly sorry"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "Your factory shipped the wrong colour of fabric to a fashion label, delaying their collection. Apologise to their buyer and set out a recovery plan.",
+    "seconds": 60,
+    "targets": [
+      "my mistake",
+      "expedite",
+      "pull out all the stops"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "Your radio show accidentally broadcast an unedited clip in which a guest made a private remark about a neighbour. Apologise to the guest on the phone.",
+    "seconds": 45,
+    "targets": [
+      "I'm terribly sorry",
+      "oversight",
+      "own up"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A newly promoted train conductor is polite but too hesitant with passengers who refuse to show tickets. Give them feedback after observing a shift.",
+    "seconds": 60,
+    "targets": [
+      "stand your ground",
+      "room for improvement",
+      "I'd suggest"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A junior reporter's copy is lively but full of unchecked claims. Give them feedback before their next assignment.",
+    "seconds": 60,
+    "targets": [
+      "substantiate",
+      "rigorous",
+      "for what it's worth"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A quality inspector at your factory passes products too quickly. Raise this with them without making them defensive.",
+    "seconds": 45,
+    "targets": [
+      "more haste, less speed",
+      "rigorous",
+      "slightly concerned"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A paralegal you supervise is quick and reliable but has misspelled client names in three letters this month, and one client noticed. Give them feedback.",
+    "seconds": 60,
+    "targets": [
+      "dot the i's and cross the t's",
+      "a bit of an issue",
+      "room for improvement"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A financial adviser in your team uses so much jargon that clients leave confused. Give them practical advice on explaining things clearly.",
+    "seconds": 60,
+    "targets": [
+      "succinct",
+      "articulate",
+      "you might want to"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "Tell a haulage driver that their licence check has revealed points that put them over the company's limit, so they'll be moved to warehouse work. Be fair and clear.",
+    "seconds": 60,
+    "targets": [
+      "I'm afraid",
+      "threshold",
+      "interim"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "As a radio station manager, tell a presenter that their breakfast show is being moved to a late-night slot. Handle their disappointment.",
+    "seconds": 60,
+    "targets": [
+      "I'm afraid",
+      "on this occasion",
+      "trajectory"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "Tell a client that the bank has declined their business loan application. Explain the reasons and alternative options.",
+    "seconds": 45,
+    "targets": [
+      "I'm afraid",
+      "on this occasion",
+      "viable"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "As the plant manager, tell staff that a major order has been lost to a cheaper overseas competitor. Explain what this means for them.",
+    "seconds": 60,
+    "targets": [
+      "headwinds",
+      "I'm afraid",
+      "knock-on effect"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "Two days before trial, the key witness in your firm's employment case has withdrawn. Tell the partner leading the case and lay out the options.",
+    "seconds": 60,
+    "targets": [
+      "I'm afraid",
+      "tenable",
+      "back to the drawing board"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You refused to run a story about a celebrity's private life, though it would boost readership. Defend the decision to the editor-in-chief.",
+    "seconds": 60,
+    "targets": [
+      "on balance",
+      "jeopardise",
+      "candour"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "As head of operations, you withdrew a train from service for a minor fault, causing delays. Explain your decision to the media relations team.",
+    "seconds": 60,
+    "targets": [
+      "paramount",
+      "prudent",
+      "I appreciate that"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You decided to invest the firm's spare cash in safe government bonds rather than shares. Defend the decision to a director who wanted higher returns.",
+    "seconds": 45,
+    "targets": [
+      "prudent",
+      "judicious",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You stopped a production line for a whole shift to investigate a minor quality issue. Defend your decision to the managing director.",
+    "seconds": 60,
+    "targets": [
+      "the tip of the iceberg",
+      "prudent",
+      "nip it in the bud"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You advised a client to settle their dispute rather than go to trial. Explain your reasoning to the client's angry partner.",
+    "seconds": 60,
+    "targets": [
+      "on balance",
+      "ramifications",
+      "protracted"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A passenger whose bag was left behind at the airport is shouting at you, the airline representative. Calm them down and explain how you'll get it back.",
+    "seconds": 60,
+    "targets": [
+      "I'm terribly sorry",
+      "bear with me",
+      "keep me posted"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A furious author says your publishing house has misspelled their name on the cover. Calm them and explain how you'll fix it.",
+    "seconds": 60,
+    "targets": [
+      "I'm terribly sorry",
+      "rectify",
+      "expedite"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A retired client of your investment firm rings, upset that their pension pot fell sharply over a turbulent quarter. Explain calmly what happened and what it means for them.",
+    "seconds": 60,
+    "targets": [
+      "I appreciate that",
+      "headwinds",
+      "nuance"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A retailer is angry that your factory's latest delivery was half the size they ordered. Calm them and explain the shortfall.",
+    "seconds": 60,
+    "targets": [
+      "shortfall",
+      "I'm terribly sorry",
+      "expedite"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A client of your law firm is angry because their case has taken a year longer than expected. Respond calmly and explain the timeline.",
+    "seconds": 60,
+    "targets": [
+      "protracted",
+      "I appreciate that",
+      "timescale"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "Your hospital's discharge lounge is being turned into an office, and the plan is to send patients home straight from the wards. As discharge coordinator, push back at the planning meeting.",
+    "seconds": 60,
+    "targets": [
+      "bottleneck",
+      "knock-on effect",
+      "I'm not convinced"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "The owner of your pub wants you to run a quiz, a curry night and live music in the same week of the cup final. Explain which to drop and why.",
+    "seconds": 45,
+    "targets": [
+      "bite off more than you can chew",
+      "prioritise",
+      "give it a miss"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "pushback",
+    "register": "work",
+    "prompt": "A magazine's advertising team wants a sponsor's product mentioned in your independent review. As reviews editor, explain why that crosses a line.",
+    "seconds": 60,
+    "targets": [
+      "undermine",
+      "precedent",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "At the end of a long day, a parent catches you in the school car park wanting to discuss their child's report there and then. Decline politely and offer a proper meeting.",
+    "seconds": 45,
+    "targets": [
+      "I'm conscious of time",
+      "shall we say",
+      "happy to discuss"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A senior manager asks you to deliver the team's restructure news because \"they trust you more\". Explain why it should come from them.",
+    "seconds": 60,
+    "targets": [
+      "onus",
+      "I'd rather not",
+      "I'll leave it with you"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "saying no",
+    "register": "work",
+    "prompt": "A guest at your boutique hotel offers you cash to upgrade them ahead of others on the waiting list. Decline courteously.",
+    "seconds": 45,
+    "targets": [
+      "I couldn't possibly",
+      "equitable",
+      "on this occasion"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "You're leaving your job and your employer wants you to work your full three-month notice, though your new firm wants you in six weeks. Negotiate an earlier release.",
+    "seconds": 60,
+    "targets": [
+      "handover",
+      "gardening leave",
+      "concede"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "A festival organiser wants your band to play for \"exposure\" rather than a fee. As the band's manager, negotiate something better.",
+    "seconds": 60,
+    "targets": [
+      "commensurate",
+      "value for money",
+      "I'm not sure I'd go that far"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "negotiation",
+    "register": "work",
+    "prompt": "Two teams want the single meeting room with video equipment every Monday morning. Negotiate a rota that works for both.",
+    "seconds": 45,
+    "targets": [
+      "fair enough",
+      "pencil in",
+      "whose turn is it?"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "You want your council to replace the paper parking permit system with an online one. Persuade the cabinet member responsible.",
+    "seconds": 60,
+    "targets": [
+      "streamline",
+      "overheads",
+      "quick win"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "Your publishing team wants to cut the copy-editing stage to save money. Persuade the managing director that errors would cost far more.",
+    "seconds": 60,
+    "targets": [
+      "jeopardise",
+      "dot the i's and cross the t's",
+      "detrimental"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "A group of Year 12 students want to run a lunchtime radio station from an unused classroom. Persuade the head of sixth form to let them trial it for a term.",
+    "seconds": 45,
+    "targets": [
+      "pilot",
+      "impetus",
+      "give it a whirl"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "persuading leaders",
+    "register": "work",
+    "prompt": "The partners in your dental practice want to stop seeing NHS patients. Persuade them to keep some NHS sessions.",
+    "seconds": 60,
+    "targets": [
+      "on balance",
+      "tangible",
+      "the best of both worlds"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A charity fundraiser on your team is brilliant at events but never logs donations properly. Give them feedback that gets the admin done.",
+    "seconds": 60,
+    "targets": [
+      "nip it in the bud",
+      "compliance",
+      "I appreciate that"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A new store manager keeps changing the shop layout every week, confusing staff and customers. Give them gentle feedback.",
+    "seconds": 45,
+    "targets": [
+      "you might want to",
+      "settle in",
+      "from pillar to post"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "difficult feedback",
+    "register": "work",
+    "prompt": "A site supervisor you manage shouts at subcontractors when they fall behind. Tell them it has to stop and suggest a better approach.",
+    "seconds": 60,
+    "targets": [
+      "read the riot act",
+      "nip it in the bud",
+      "rapport"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "You recommended a contractor to a friend of your boss, and the job went badly wrong. Apologise to your boss and explain what you'll do.",
+    "seconds": 60,
+    "targets": [
+      "put your foot in it",
+      "in hindsight",
+      "make up for"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "You forgot to cancel a supplier delivery when your café closed for refurbishment, and twenty crates of milk were wasted. Apologise to the owner.",
+    "seconds": 45,
+    "targets": [
+      "my mistake",
+      "oversight",
+      "no use crying over spilt milk"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "apology",
+    "register": "work",
+    "prompt": "You missed a typo in a council leaflet, which gave residents the wrong date for an election count. Apologise to the communications director.",
+    "seconds": 60,
+    "targets": [
+      "oversight",
+      "rectify",
+      "I'm terribly sorry"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Two of your hospital's porters have fallen out over who covers the weekend night shift. Mediate a fair solution before it affects patient care.",
+    "seconds": 60,
+    "targets": [
+      "equitable",
+      "fair enough",
+      "whose turn is it?"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "mediation",
+    "register": "work",
+    "prompt": "Your designer and copywriter disagree about whether the new brochure should be image-led or text-led. Help them agree an approach.",
+    "seconds": 45,
+    "targets": [
+      "horses for courses",
+      "the best of both worlds",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "A teacher at your school is regularly arriving late, leaving pupils unsupervised. Explain to the head why you're raising it formally.",
+    "seconds": 60,
+    "targets": [
+      "escalate",
+      "paramount",
+      "turn a blind eye"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "escalation",
+    "register": "work",
+    "prompt": "A supplier's invoices keep including charges that weren't agreed. Explain to the finance director why you want to escalate it.",
+    "seconds": 45,
+    "targets": [
+      "discrepancy",
+      "escalate",
+      "the last straw"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You refused to sign a nondisclosure agreement that would have stopped your charity speaking about a partner's failures. Defend your decision to the board.",
+    "seconds": 60,
+    "targets": [
+      "candour",
+      "precedent",
+      "untenable"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "defending a decision",
+    "register": "work",
+    "prompt": "You've decided your travel magazine will stop using stock photos and commission local photographers instead. Explain the decision to a worried art director.",
+    "seconds": 45,
+    "targets": [
+      "bespoke",
+      "outlay",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "A homeowner is furious that your removals firm broke a family heirloom. Apologise and explain how compensation will work.",
+    "seconds": 60,
+    "targets": [
+      "I'm terribly sorry",
+      "I appreciate that",
+      "look into"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "angry client",
+    "register": "work",
+    "prompt": "An influential client of your accountancy firm says the new junior on their account isn't up to the job. Respond calmly and propose a solution.",
+    "seconds": 60,
+    "targets": [
+      "I hear what you say",
+      "not quite there yet",
+      "sounding board"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "As the owner of a family bakery, tell your staff that the second shop will close after a sharp rise in energy costs. Explain what happens next.",
+    "seconds": 60,
+    "targets": [
+      "headwinds",
+      "I'm afraid",
+      "overheads"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "bad news",
+    "register": "work",
+    "prompt": "Tell a client of your translation agency that their deadline will be missed because the translator is ill. Offer options.",
+    "seconds": 45,
+    "targets": [
+      "I'm afraid",
+      "stand in for",
+      "bear with me"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "asking for a pay rise",
+    "register": "work",
+    "prompt": "You've been offered more responsibility for running your hospital's audit programme. Before accepting, ask for your banding to reflect the role.",
+    "seconds": 60,
+    "targets": [
+      "commensurate",
+      "remit",
+      "I'd appreciate it if"
+    ]
+  },
+  {
+    "domain": "workplace",
+    "category": "asking for a pay rise",
+    "register": "work",
+    "prompt": "You lead a retail team that has beaten its sales target for six months in a row. Ask the area manager for a team bonus.",
+    "seconds": 60,
+    "targets": [
+      "tangible",
+      "quantify",
+      "incentivise"
+    ]
+  }
+]

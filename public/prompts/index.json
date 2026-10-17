@@ -1,0 +1,61 @@
+{
+ "version": 1,
+ "packs": [
+  {
+   "file": "tier2-business.json",
+   "tier": 2,
+   "pack": "business",
+   "count": 388
+  },
+  {
+   "file": "tier2-careers.json",
+   "tier": 2,
+   "pack": "careers",
+   "count": 412
+  },
+  {
+   "file": "tier2-everyday.json",
+   "tier": 2,
+   "pack": "everyday",
+   "count": 401
+  },
+  {
+   "file": "tier2-public.json",
+   "tier": 2,
+   "pack": "public",
+   "count": 382
+  },
+  {
+   "file": "tier2-tech.json",
+   "tier": 2,
+   "pack": "tech",
+   "count": 387
+  },
+  {
+   "file": "tier3-explain.json",
+   "tier": 3,
+   "pack": "explain",
+   "count": 500
+  },
+  {
+   "file": "tier3-opinion.json",
+   "tier": 3,
+   "pack": "opinion",
+   "count": 501
+  },
+  {
+   "file": "tier3-social.json",
+   "tier": 3,
+   "pack": "social",
+   "count": 502
+  },
+  {
+   "file": "tier3-workplace.json",
+   "tier": 3,
+   "pack": "workplace",
+   "count": 505
+  }
+ ],
+ "tier2": 1970,
+ "tier3": 2008
+}

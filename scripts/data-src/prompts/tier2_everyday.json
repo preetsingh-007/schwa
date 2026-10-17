@@ -1,0 +1,4040 @@
+[
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "Hello, good morning, actually I am calling because I wanted to know if it is possible to get one appointment with the doctor today itself, because since yesterday night I am having very high fever and full body pain.",
+    "reference": "Hi, is there any chance of a GP appointment today? I've had a temperature since last night.",
+    "targets": [
+      "GP",
+      "temperature"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "So basically what happened is that I have recently shifted to this area only, and I wanted to ask what is the procedure for joining this surgery, like what all documents I need to bring along with me?",
+    "reference": "I've just moved to the area — what do I need to register with a GP here?",
+    "targets": [
+      "register with a GP"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "Hi, yes, I am calling regarding my regular tablets which I am taking every month, they are about to get finished, so kindly do the needful and send the request to the doctor for the renewal of the same.",
+    "reference": "Hi, I'm almost out of my regular tablets — could I order a repeat prescription?",
+    "targets": [
+      "prescription"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "My office is asking me to submit one medical certificate from the doctor, because I was not able to go to work for one full week due to my back problem, so how can I get that thing, and do I need to come in person to collect it or you can email it?",
+    "reference": "Work needs a sick note for my week off with my back — how do I get one?",
+    "targets": [
+      "sick note"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "I just wanted to check one thing, the doctor told me last month that he will send my details to the hospital specialist, but till now nobody has contacted me back, so what is the status of that, can you please check and revert back to me?",
+    "reference": "The GP said they'd refer me last month, but I've heard nothing. Could you chase up the referral?",
+    "targets": [
+      "chase up",
+      "referral"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "Sorry, I know you are very busy and all, but is there any possibility that I can see the same doctor who I saw last time, because he knows my full history and I don't want to explain everything again from the beginning?",
+    "reference": "Would it be possible to see the same doctor as last time? They know my history.",
+    "targets": [
+      "would it be possible to"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "Actually the thing is my appointment is on Thursday, but now some urgent work has come up in office, so can we please prepone it to Tuesday or Wednesday if any slot is there?",
+    "reference": "Could I bring forward my Thursday appointment to earlier in the week?",
+    "targets": [
+      "bring forward"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "I am calling to tell that I will not be able to come for my appointment tomorrow morning, so kindly cancel it, and sorry for the inconvenience caused, I don't want to waste the doctor's time and all.",
+    "reference": "I need to cancel tomorrow morning's appointment, I'm afraid — sorry for the short notice.",
+    "targets": [
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "Basically the receptionist told me that my usual doctor is on leave, and some other temporary doctor is sitting in his place, so I wanted to know whether that doctor is also okay for seeing me?",
+    "reference": "My usual GP's away — is it fine to see the locum instead?",
+    "targets": [
+      "locum"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "My son is having a small cut on his knee from the playground, nothing serious, so do I need to bring him to the doctor, or can I just put some bandage type thing at home and that will be enough, because he is not even crying much?",
+    "reference": "It's only a graze on my son's knee — will a plaster do, or should he be seen?",
+    "targets": [
+      "plaster"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "I wanted to ask whether I can get the flu injection here itself in the surgery, or I have to go somewhere else, because my office colleague told me that it is free for some people.",
+    "reference": "Can I get my flu jab here, or do I need to go elsewhere?",
+    "targets": [
+      "jab"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "Hello, actually I am having one doubt, for this cough and cold medicine, do I need the doctor's written slip, or you can just give it to me directly from the counter itself, because I don't want to wait two weeks for an appointment just for this?",
+    "reference": "Can I buy this cough medicine over the counter, or do I need a prescription?",
+    "targets": [
+      "over the counter",
+      "prescription"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "Excuse me, I came to collect my medicines which the doctor sent here electronically yesterday evening, can you please check if they are ready, my name and all I have already given at the counter.",
+    "reference": "Hi, I'm here to pick up a prescription sent over yesterday — is it ready?",
+    "targets": [
+      "pick up"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "My headache is coming and going since morning, so I just want some normal painkiller, the most basic one, which is safe and which everybody is taking for normal headaches and all.",
+    "reference": "Could I just get some paracetamol for a headache, please?",
+    "targets": [
+      "paracetamol"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "See, it is not an emergency or anything, but my chest is little bit paining since evening and the surgery is closed now, so I am confused whom to call for advice at this time, because I don't want to unnecessarily go to the hospital.",
+    "reference": "It's not an emergency, but my chest's sore and the surgery's shut — I'll ring 111.",
+    "targets": [
+      "111"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "My father slipped in the bathroom and his wrist has become very swollen and he is not able to move it at all, so I think we should take him to the hospital emergency only, what do you say?",
+    "reference": "Dad's slipped and his wrist is badly swollen — I think we need to go to A&E.",
+    "targets": [
+      "A&E"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "I just wanted to update that the medicine the doctor gave me last week is working nicely, I am feeling much better than before, the fever has gone, only little cough is remaining now, so I think there is no need to come back again.",
+    "reference": "The antibiotics are working — I'm on the mend, just a bit of a cough left.",
+    "targets": [
+      "on the mend"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "Hello, I am calling to ask whether you are taking any new patients on the government scheme, because the private dentists are charging too much money and I cannot afford it, frankly speaking.",
+    "reference": "Hi, are you taking on new patients? I'm looking for an NHS dentist.",
+    "targets": [
+      "NHS dentist",
+      "take on"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "The receptionist is telling that the earliest appointment is after three weeks, which is too long, so I wanted to know if there is any way to get my name in the list in case someone cancels?",
+    "reference": "Could you ring me on the off chance someone cancels? Three weeks is a long wait.",
+    "targets": [
+      "on the off chance"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "Basically the doctor said that I should get some exercises and treatment for my knee from the specialist, so how much time it will take to get that appointment, because it is still paining a lot.",
+    "reference": "How long's the wait for physio? My knee's still really sore.",
+    "targets": [
+      "physio"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "My eyes are getting strained a lot these days in front of the laptop, and I think my glasses number has changed, so I want to book one eye check-up whenever it is convenient for you, preferably on Saturday because weekdays I am in office.",
+    "reference": "I'd like to book an eye test with the optician — I think my glasses need updating.",
+    "targets": [
+      "optician"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "Actually my mother is staying with us for some time from abroad, and she is not feeling well, so can she also come and show to the doctor here, or there is some other process for visitors?",
+    "reference": "My mum's visiting from abroad and feeling poorly — can she see a GP here?",
+    "targets": [
+      "poorly"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "I have one small request, can the doctor just call me on phone instead of me coming there in person, because it is only regarding my blood test results which I wanted to discuss about.",
+    "reference": "Could the doctor ring me about my blood test results instead?",
+    "targets": [
+      "ring"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "What happened was, I filled up the online form for the appointment two days back, but nobody has reverted back to me till now, so I am just calling to confirm whether you have received it or not, because I am worried it has gone missing somewhere.",
+    "reference": "I filled in the online form two days ago but haven't heard back — did it come through?",
+    "targets": [
+      "fill in"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "Yesterday the doctor told me to come for a follow-up visit after two weeks to check the progress, so I wanted to just book that appointment now itself so that I don't forget later on.",
+    "reference": "Could you book me in for my two-week follow-up now, while I remember?",
+    "targets": [
+      "book in"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "My son is having chickenpox, and the itching is very bad, so what can I apply on his skin, something mild only, because he is very small, only four years old, and he is not able to sleep properly in the night also because of scratching.",
+    "reference": "My four-year-old's got chickenpox and he's ever so itchy — what would you recommend?",
+    "targets": [
+      "ever so"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "I was told I need one vaccine before travelling to India next month for the wedding, so is it possible to get it done here only at the surgery, and how many days before I should take it?",
+    "reference": "I need travel jabs for a trip next month — can I get them here, and when?",
+    "targets": [
+      "jab"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "My wife is pregnant and the first appointment with the nurse who handles pregnancies, we wanted to know when it should be booked and whether we have to call the hospital directly or here itself, because nobody has told us anything so far?",
+    "reference": "My wife's pregnant — do we book the first midwife appointment through you or the hospital?",
+    "targets": [
+      "midwife"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "Sorry for disturbing, but my little daughter has been vomiting since early morning, three times already, and she is not eating anything, so I am quite worried and I don't know what to do, should I bring her in?",
+    "reference": "My daughter's been sick three times since this morning and won't eat — I'm quite worried.",
+    "targets": [
+      "be sick"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "Hi, I am calling on behalf of my elderly neighbour, she cannot hear well on the phone, and she needs her blood pressure tablets refilled, so can I place the request for her, is that allowed?",
+    "reference": "I'm ringing for my elderly neighbour — can I order her repeat prescription?",
+    "targets": [
+      "neighbour",
+      "prescription"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "Just tell me one thing, the nurse said my blood test needs to be done on empty stomach, so does it mean I cannot even drink water in the morning, or only food is not allowed?",
+    "reference": "Sorry to bother you — for a fasting blood test, can I still drink water?",
+    "targets": [
+      "sorry to bother you"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "I wanted to know whether my test results have come or not, the nurse took my blood last Monday, and she said it will take around one week, so I thought I will check it once.",
+    "reference": "I was wondering if my blood results from last Monday are back yet.",
+    "targets": [
+      "I was wondering if"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "We had the baby three weeks ago and there is some lady from the council health department who is supposed to come home and check, but nobody has come yet, whom should I contact regarding this, because we have some questions about feeding?",
+    "reference": "Our baby's three weeks old and the health visitor hasn't been yet — who should I contact?",
+    "targets": [
+      "health visitor"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "Yes, I understand that you cannot give me appointment today, no problem, but at least can you tell me which is the nearest place where I can walk in without appointment and see a doctor today?",
+    "reference": "Fair enough — where's the nearest urgent treatment centre?",
+    "targets": [
+      "urgent treatment centre",
+      "fair enough"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "GP and health",
+    "verbose": "My mother-in-law has a bad cold and cough since last ten days and it is not going at all, she has tried all home remedies, so should she come to the doctor now or wait some more days?",
+    "reference": "My mother-in-law can't shake off a cold she's had for ten days — should she come in?",
+    "targets": [
+      "shake off"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "Hello, actually I am calling because the garbage people did not come to take our bin this week, it was kept outside on the road from early morning itself, but still they did not pick it up.",
+    "reference": "The bin men missed us this week — it was out first thing.",
+    "targets": [
+      "bin men"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "I wanted to know which day exactly the recycling collection is happening in our street, because my neighbour is telling one day and the leaflet is telling some other day, so I am totally confused.",
+    "reference": "Which day is bin day for recycling on our street? I've had conflicting answers.",
+    "targets": [
+      "bin day"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "Actually we have shifted to a new house last month only, so I wanted to inform you and know how to change the address for the local house tax payment, the monthly one, what is the process?",
+    "reference": "We moved last month — how do I update my address for council tax?",
+    "targets": [
+      "council tax"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "There is one very big hole in the road just outside our house, and it is getting bigger and bigger day by day, and yesterday one cyclist almost fell down because of it, so kindly do the needful.",
+    "reference": "I want to flag up a pothole outside our house — a cyclist nearly came off yesterday.",
+    "targets": [
+      "flag up"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "I am the only adult living in my flat, so my friend told me that I can get some discount on the council bill, so I wanted to know if that is true and how to apply for the same.",
+    "reference": "I live alone — can I get the single person discount on council tax?",
+    "targets": [
+      "council tax"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "Somebody has thrown one old sofa and mattress on the pavement near our building since last one week, and nobody is removing it, it is looking very bad and also blocking the way for prams.",
+    "reference": "Someone's dumped a sofa on the pavement by our flats — it's been a week.",
+    "targets": [
+      "pavement"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "My visitor parking permit has expired, and my relatives are coming to stay for the weekend, so I need to get a new one urgently, can you please tell me how to apply online quickly?",
+    "reference": "My visitor permit's expired — would it be possible to renew it online before Saturday?",
+    "targets": [
+      "would it be possible to"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "I got a parking fine yesterday even though I paid properly at the machine, and I have the ticket also with me as proof, so I want to complain and challenge this fine, how to do that, and is there some time limit for appealing?",
+    "reference": "I was fined despite paying at the pay and display — I've got the ticket. How do I appeal?",
+    "targets": [
+      "pay and display"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "The street light outside our house is not working since many days, it is completely dark at night, and my wife is scared to walk back from the station, so please send someone to repair it.",
+    "reference": "The street light outside ours is on the blink — it's pitch black at night.",
+    "targets": [
+      "on the blink"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "I wanted to ask whether I need to take any permission from the council for putting one big container outside my house for the building waste, because we are renovating our kitchen.",
+    "reference": "Do I need a permit to put a skip outside for our kitchen refit?",
+    "targets": [
+      "skip"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "Our little one will be four next year, so we wanted to know the process for applying to the primary school near our house, and whether our house comes under that school's area or not, because the school is very close but people are saying the area is small.",
+    "reference": "Our son starts school next year — are we in the catchment area for the local primary?",
+    "targets": [
+      "catchment area"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "Actually there is so much noise coming from the flat upstairs till two or three in the night, loud music and all, every weekend, and they are not listening even after I requested them nicely, and I am not able to sleep properly before office.",
+    "reference": "Our upstairs neighbours play music till 2 a.m. every weekend — asking nicely has fallen on deaf ears.",
+    "targets": [
+      "fall on deaf ears"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "I want to book the slot at the recycling centre to drop off some old furniture and garden waste, because I heard now we cannot just go directly without booking like before.",
+    "reference": "Do I need to book a slot to drop off furniture at the tip?",
+    "targets": [
+      "drop off"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "Hello, I wanted to know if I can renew my library books online itself or I have to come physically to the library branch, because I am out of station this week.",
+    "reference": "Can I renew my books online? I can't pop in this week.",
+    "targets": [
+      "pop in"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "Our garden waste bin is broken, the lid has come off completely and the foxes are making a mess everywhere, so can you please send us one new bin as soon as possible, because the whole road is getting littered with rubbish every single morning and the neighbours are also complaining to us?",
+    "reference": "Our garden bin's lid has snapped and the foxes are having a field day. Could we get a new one?",
+    "targets": [
+      "have a field day"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "Excuse me, I am calling to ask about the bulky items collection service, like we have one old fridge and washing machine to throw, so how much it costs and when you can come?",
+    "reference": "How much would it be to collect an old fridge-freezer and washing machine?",
+    "targets": [
+      "fridge-freezer"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "The trees in the park behind our house are hanging over our garden fence, and the branches are almost touching the window, so who is responsible for cutting them, the council or us, because we don't want to cut anything without asking and then get into trouble?",
+    "reference": "Trees from the park are overhanging our back garden — will the council cut them back?",
+    "targets": [
+      "back garden",
+      "cut back"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "I am trying to get myself added in the voters list for the local elections, because I have shifted house recently, so how should I do it, is there some online form for that, or do I need to fill some paper form and post it?",
+    "reference": "I've moved recently — how do I get on the electoral register for the local elections?",
+    "targets": [
+      "electoral register",
+      "local elections"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "My elderly father lives alone and he is finding it very difficult to manage daily things like cooking and bathing, so I wanted to know whether council provides any support at home for such people.",
+    "reference": "My elderly dad lives alone and is struggling — can the council arrange a carer?",
+    "targets": [
+      "carer"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "Hello, I wanted to know about the timings of the swimming pool in the sports centre run by the council, because on the website it is showing different timings and on the door also something else.",
+    "reference": "What are the pool times at the leisure centre? The website and the door don't match.",
+    "targets": [
+      "leisure centre"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "Sorry, but honestly speaking, I have been transferred three times already and still nobody is able to answer my simple question, so please, can you connect me to the correct person who actually deals with the housing benefits?",
+    "reference": "I've been passed from pillar to post — could you put me through to housing benefit?",
+    "targets": [
+      "from pillar to post",
+      "put through"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "The council had promised to fix the broken swings in the children's park two months back only, but still nothing has happened, so I just want to know what is the actual status of this work, or whether the plan has been cancelled.",
+    "reference": "The swings were meant to be fixed two months ago — any update, or has it fallen through?",
+    "targets": [
+      "fall through"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "Our road is getting a lot of cars coming very fast to avoid the main road traffic jam in the evenings, and it is very dangerous for the kids playing outside, so can something be done for that, like speed bumps or some signboard, anything?",
+    "reference": "Our road's become a rat run — could you look into traffic calming? It's dangerous for the kids.",
+    "targets": [
+      "rat run",
+      "look into"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "We received one letter from the council saying we are not paying the council bill since two months, but actually I have set up the automatic payment from my bank account, so how this happened, I am very confused and a little bit worried also?",
+    "reference": "Your letter says I'm two months behind, but I pay by direct debit — what's gone wrong?",
+    "targets": [
+      "direct debit"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "My neighbour has started building one big extension at the back of his house, and it is blocking all the sunlight to our garden, so I wanted to know whether he took the proper permission or not, because nobody informed us about any such plan.",
+    "reference": "Next door's extension is blocking all our light — I was wondering if it had planning permission.",
+    "targets": [
+      "I was wondering if"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "The public toilets in the park near the station are always locked, even during the daytime, so where are people supposed to go, especially with small children, please tell me who handles this.",
+    "reference": "The public toilets by the station are always locked — who deals with that?",
+    "targets": [
+      "public toilets"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "We want to get married next year, and I wanted to know how many months before we have to give the notice, and whether both of us have to come together for the appointment or not, and what documents we need to bring along.",
+    "reference": "We'd like to tie the knot next year — when do we give notice at the register office?",
+    "targets": [
+      "tie the knot",
+      "register office"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "I am very interested in growing my own vegetables, so I wanted to know if the council has some small land pieces for rent for residents, and how long is the waiting time for getting one.",
+    "reference": "Is there a waiting list for council allotments, and how long is it?",
+    "targets": [
+      "allotment",
+      "waiting list"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "I just wanted to complain that the dog owners are not cleaning up after their dogs on the footpath near the school, it is very disgusting and the children are stepping in it every day while going to school, so something has to be done.",
+    "reference": "The footpath by the school is covered in dog mess — it's grim for the kids.",
+    "targets": [
+      "footpath",
+      "grim"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "council",
+    "verbose": "Hello, the council website is showing that the leisure centre membership is cheaper for local residents, so what proof I have to show for that, will a gas bill be fine or something else is needed, like some council letter or the tenancy agreement?",
+    "reference": "What do I need for the residents' discount — will a utility bill do as proof of address?",
+    "targets": [
+      "proof of address"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "Actually I am calling because I lost my debit card yesterday evening somewhere in the market only, I searched everywhere but could not find it, so kindly block it immediately so nobody misuses it.",
+    "reference": "I've lost my debit card — could you cancel it straight away?",
+    "targets": [
+      "debit card"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "There are some transactions showing in my account which I have not done at all, like two payments from some online shopping website, so I think someone has hacked my card details or something, and I am very scared now that more money will go.",
+    "reference": "There are two payments on my bank statement I don't recognise — I think my card's been cloned.",
+    "targets": [
+      "bank statement"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "I want to open one new account here for my salary to come in, so what all documents are required, because I have just come to UK recently, so I don't have much history here, no credit score or anything.",
+    "reference": "I've just moved to the UK — what do I need to open a current account?",
+    "targets": [
+      "current account"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "My account is going in minus at the end of every month before salary comes, so I wanted to know whether I can get some limit approved for that so that payments don't bounce.",
+    "reference": "I keep running short before payday — could I arrange an overdraft?",
+    "targets": [
+      "overdraft"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "I need your bank's code number and my account number to give to my new employer for the salary, where can I find both of them, is it written somewhere on the card itself?",
+    "reference": "Where can I find my sort code and account number? My new employer needs them.",
+    "targets": [
+      "sort code"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "I want to stop the monthly payment which is going automatically to my old gym, because I already cancelled the membership, but they are still taking the money from my account every month without my permission, which is not correct at all.",
+    "reference": "I've cancelled my gym, but they're still taking money — can I stop the direct debit?",
+    "targets": [
+      "direct debit"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "Basically I want to send the rent to my landlord every month on the first date automatically, the same fixed amount, so I don't need to remember every time, how can I set that up from my side, is it possible in the app?",
+    "reference": "How do I set up a standing order for my rent on the first of each month?",
+    "targets": [
+      "standing order"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "I went to the ATM machine near the station and it took my card inside and did not give it back, and also no money came out, so what should I do now, I am very worried.",
+    "reference": "The cashpoint by the station swallowed my card and gave me no cash — what now?",
+    "targets": [
+      "cashpoint"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "Actually I want to save some money for my daughter's future studies, so which type of account is good where I don't have to pay any tax on the interest, my colleague told me something about it.",
+    "reference": "I'd like to save for my daughter's future — would a tax-free ISA make sense?",
+    "targets": [
+      "ISA"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "I received one strange call from someone saying they are from your bank and asking for my PIN and one-time password, I didn't give it, but I wanted to inform you just to be safe, because I know these kinds of frauds are very common nowadays.",
+    "reference": "Someone posing as you rang for my PIN — I didn't give it, but wanted to flag it up.",
+    "targets": [
+      "flag up"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "My contactless is not working in the shops since two days, every time I tap, it is asking me to put the card and enter PIN, so is there some problem with my card or what?",
+    "reference": "My contactless keeps failing — it asks for chip and PIN every time. Is something wrong?",
+    "targets": [
+      "contactless",
+      "chip and PIN"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "I am planning to buy my first house next year, so I wanted to understand how much loan I will be eligible for, and how much I need to save for the initial payment, roughly speaking.",
+    "reference": "Buying next year — could you give me a ballpark idea of what I could borrow?",
+    "targets": [
+      "ballpark"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "I paid my friend some money yesterday through online transfer, but by mistake I typed one digit wrong in the account number, so the money has gone to some other person, how to get it back?",
+    "reference": "My mistake — I mistyped the account number on yesterday's transfer. Can you recover it?",
+    "targets": [
+      "my mistake"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "I want to take out some foreign currency for my holiday to Spain next week, do you have euros available here in the branch, or I have to go to some other exchange shop?",
+    "reference": "Do you sell euros here, or should I find a bureau de change?",
+    "targets": [
+      "bureau de change"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "Basically I am going abroad for three weeks for holiday, so I wanted to inform the bank so that you don't block my card when I use it there, because last time this problem happened.",
+    "reference": "I'm abroad for three weeks — could you note it so my card isn't blocked?",
+    "targets": [
+      "abroad"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "Can you please tell me the exact amount which is remaining in my savings account right now, and also whether the interest for this month has been added or not, because I want to transfer some.",
+    "reference": "Could you possibly tell me my savings balance, and whether this month's interest has gone in?",
+    "targets": [
+      "could you possibly"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "I need one official letter from the bank that shows my current address, because the council and the GP surgery both are asking me for some proof of where I am staying.",
+    "reference": "Could I get a letter confirming my address? The council needs proof of address.",
+    "targets": [
+      "proof of address"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "I have been waiting in this queue for more than forty minutes on the phone, and the line got disconnected twice, so I am really frustrated, please can you just help me quickly with my problem.",
+    "reference": "I've been on hold for forty minutes and cut off twice — I'm fed up.",
+    "targets": [
+      "fed up"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "My son is turning eleven, and we want to open one account for him to keep his birthday money and his small monthly allowance, which account is suitable for a child of that age?",
+    "reference": "My son's turning eleven — which account would suit his birthday and pocket money?",
+    "targets": [
+      "pocket money"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "Is it possible to pay in a cheque into my account using the mobile app, or I have to come to the branch personally, because I received one cheque from my old insurance company as a refund for overpayment?",
+    "reference": "Can I pay in a cheque through the app, or do I need to come in?",
+    "targets": [
+      "cheque"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "I need to know how many days it will take for my new card to come by post, because my old one is expiring this month end and I have many bills to pay from that card.",
+    "reference": "When will my new card come in the post? The old one expires this month.",
+    "targets": [
+      "post"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "I have taken a car loan from a dealer on monthly instalments, and now I have some extra money, so I want to clear the full and final amount early, will there be any penalty charges?",
+    "reference": "If I settle my hire purchase early, are there any penalties?",
+    "targets": [
+      "hire purchase"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "The bank has charged me some fee of twenty-five pounds for going over my limit, but it was only for one day and by a very small amount, so can you kindly cancel that charge as a goodwill gesture, because I am a loyal customer since ten years?",
+    "reference": "Twenty-five quid for going a few pounds over — it's a bit much. Could you waive it?",
+    "targets": [
+      "quid",
+      "it's a bit much"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "My salary is supposed to come on the twenty-fifth, but it has not come in my account till now, and the company says they have sent it, so can you check if it is stuck somewhere at your end?",
+    "reference": "My salary hasn't arrived, though work says it's been sent — could you look into it?",
+    "targets": [
+      "look into"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "I am thinking of switching my savings from the big bank to one of these smaller mutual banks, because I read that they give better interest rates, is that true for your savings accounts?",
+    "reference": "I'm thinking of moving my savings to a building society — are your rates better?",
+    "targets": [
+      "building society"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "I want to withdraw a large amount of cash, like around three thousand pounds, for buying a second-hand car from a private seller, so do I need to inform you before I come to the branch, or I can just walk in and take it?",
+    "reference": "I'd like to take out three grand in cash for a car — do I need to give notice?",
+    "targets": [
+      "grand"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "Honestly, I am a little bit confused about the new statement, there are some charges written with short forms which I am not able to understand, so can you explain me what these charges are exactly and why they are applied?",
+    "reference": "I can't make head nor tail of these charges on my statement — could you explain them?",
+    "targets": [
+      "can't make head nor tail of"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "My elderly mother wants to give me the permission to manage her bank account because she is not able to come to the branch anymore, so what is the process to do that legally, and do we both have to come together to the branch?",
+    "reference": "My mum can't get to the branch now — how can I look after her account for her?",
+    "targets": [
+      "look after"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "I want to know whether I can get some cashback or reward points if I use the credit card for my weekly grocery shopping, because my friend's bank is giving him something like that.",
+    "reference": "Does your credit card give any cashback on the weekly shop?",
+    "targets": [
+      "cashback"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "bank",
+    "verbose": "The app is showing some error since morning whenever I try to log in, it is saying something went wrong and then closing automatically, so is there some problem from your side today, because I need to pay one urgent bill?",
+    "reference": "The app's been iffy all morning — it crashes when I log in. Is it your end?",
+    "targets": [
+      "iffy"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "Hello sir, actually I am calling to inform you that the hot water is not coming in the flat since yesterday morning, and also the heating is not working at all, so I think there is some problem with the boiler, kindly send someone to check it.",
+    "reference": "Hi, the boiler's packed up — no heating or hot water since yesterday morning.",
+    "targets": [
+      "boiler",
+      "pack up"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "The tap in the kitchen is leaking continuously since last one week, drop by drop, day and night, and the water bill will become very high because of this, so kindly send some plumber at the earliest to fix the same, I am at home all week.",
+    "reference": "The kitchen tap's been dripping for a week — could you send a plumber?",
+    "targets": [
+      "tap"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "I wanted to tell you that there is some black fungus coming on the bedroom wall near the window, and it is spreading more and more every single day, and now my daughter is also getting cough at night, so please do something about it urgently.",
+    "reference": "There's black mould spreading in the bedroom and my daughter's coughing — could you see to it?",
+    "targets": [
+      "see to"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "I want to know when exactly I will get back my security deposit money, because I already left the flat two months back and handed over all the keys properly, and everything was in good condition only, no damage at all, so what is the delay?",
+    "reference": "I moved out two months ago — when will my deposit be returned?",
+    "targets": [
+      "deposit"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "The thing is, my contract is ending next month, and I wanted to continue staying in the flat for one more year at least, because we are very happy here, so can we please discuss about the renewal and whether the rent amount will change or not?",
+    "reference": "My tenancy agreement ends next month — I'd like to renew. Will the rent change?",
+    "targets": [
+      "tenancy agreement"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "I am giving you the advance notice that I will be vacating the flat at the end of March month, so please let me know what is the procedure for the checkout and the inspection and all those things, so that I can plan accordingly.",
+    "reference": "I'd like to hand in my notice for the end of March — how does check-out work?",
+    "targets": [
+      "hand in your notice"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "Sorry to disturb you on Sunday, but the electricity has gone off completely in the flat, only in our flat, because the neighbours have power, so I think something has happened to the main switch, and the fridge has also stopped now.",
+    "reference": "Sorry to bother you — our power's out but next door's isn't. Is it the fuse box?",
+    "targets": [
+      "sorry to bother you",
+      "fuse box"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "I have been calling your office since one week regarding the broken window lock, and every single time someone says they will call back, but nobody is calling back, so this is my fifth call actually, and I am losing my patience now.",
+    "reference": "This is my fifth call about the window lock — could someone actually ring me back?",
+    "targets": [
+      "ring back"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "I wanted to ask your permission for one thing, is it okay if we keep a small cat in the flat, she is very calm and indoor only, and we will take full responsibility for any damage if it happens, you don't need to worry at all.",
+    "reference": "Would you mind if we had an indoor cat? We'd cover any damage.",
+    "targets": [
+      "would you mind"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "The washing machine has suddenly stopped working in the middle of the cycle and now the door is not opening at all and all the clothes are stuck inside with full water, so what should I do now, should I call someone or wait for you?",
+    "reference": "I put a wash on and the machine died mid-cycle — now the door won't open.",
+    "targets": [
+      "put a wash on"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "Your agency has charged me one admin fee of two hundred pounds for renewing the contract, but I have read online that these kinds of fees are not allowed anymore by the law in this country, so can you please clarify the same?",
+    "reference": "You've charged me a £200 renewal fee — I thought those were banned. Could you clarify?",
+    "targets": [
+      "clarify"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "Actually the neighbours in the flat below are complaining that water is coming from our bathroom into their ceiling, so I think there is some leakage in the pipe under the bath, please check urgently because they are very upset with us.",
+    "reference": "Water's leaking from our bath into the flat below — could you get someone out today?",
+    "targets": [
+      "bath"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "I just want to inform you that I am going to be out of station for two weeks for my cousin's wedding, so if any repair person needs to come in that time, kindly let me know before itself so that I can arrange the keys.",
+    "reference": "I'm away for a fortnight — if anyone needs access, let me know and I'll arrange keys.",
+    "targets": [
+      "fortnight"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "We are three friends looking for one house to share near the university, with three bedrooms and one living room at least, and our total budget is around fifteen hundred pounds per month all together, including everything if possible.",
+    "reference": "We're three friends after a three-bed house share near the uni — about fifteen hundred a month.",
+    "targets": [
+      "house share",
+      "uni"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "I saw your advertisement for the two-bedroom flat on the high street, and I wanted to come and see it once physically before deciding anything, so when is a convenient time for you to arrange the visit, I am flexible on weekends.",
+    "reference": "I saw your two-bed flat to let on the high street — when could I view it?",
+    "targets": [
+      "to let",
+      "high street"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "The smoke alarm in the hallway is beeping every few minutes since last night, very loudly, and I think the battery is finished, but I cannot reach it because it is too high on the ceiling, and nobody in the house could sleep properly.",
+    "reference": "The smoke alarm's been beeping all night and it's getting on my nerves — I can't reach it.",
+    "targets": [
+      "get on someone's nerves"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "I just want to clarify one small thing, in the contract it is mentioned that the garden maintenance is my responsibility, but does that include cutting the big tree at the back also, or is it only the grass and the small plants?",
+    "reference": "Does looking after the garden include the big tree, or just the lawn and beds?",
+    "targets": [
+      "look after"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "We have been waiting since three weeks for the repair man to come and fix the oven, and we have to eat outside every day because of this, which is costing us a lot of money, so frankly it is really not acceptable to us.",
+    "reference": "We've had no oven for three weeks and we're eating out every night — it isn't good enough.",
+    "targets": [
+      "eat out"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "I wanted to request you whether we can paint the living room walls in some light colour, because the current colour is very dark and depressing, and we will do the work properly ourselves, at our own cost, you will not have to pay anything.",
+    "reference": "Would it be possible to repaint the lounge a lighter colour, at our own cost?",
+    "targets": [
+      "would it be possible to",
+      "lounge"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "The front door lock is very stiff now, and every day it is taking ten minutes to open and close it, and yesterday my key almost broke inside the lock, so can you please get it replaced before it fully breaks and we are locked out?",
+    "reference": "The front lock's very stiff and my key nearly snapped — could we replace it before it goes pear-shaped?",
+    "targets": [
+      "go pear-shaped"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "Hi, I am just calling to check whether my reference check and credit check have been completed or not, because the move-in date is on Saturday itself and I still have not got any confirmation from your side, so I am getting tense.",
+    "reference": "Just checking my referencing has gone through — I move in on Saturday and haven't heard anything.",
+    "targets": [
+      "go through"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "There are some mice coming in the kitchen at night, we have seen the droppings near the cooker and they are eating the bread also, it is very unhygienic and my wife is very scared, so please arrange the pest control immediately.",
+    "reference": "We've got mice in the kitchen — there are droppings by the cooker. Could you arrange pest control?",
+    "targets": [
+      "cooker"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "When we moved in, the inventory report did not mention that the carpet was already stained in the bedroom, so I am worried that later on you will cut the money from my deposit for that, which is not our fault at all.",
+    "reference": "The inventory missed an old carpet stain — please don't take it from my deposit.",
+    "targets": [
+      "deposit"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "I know that the rent is due today itself, but my salary has been delayed by three days this month because of some bank holiday issue at the office, so can I pay you on Thursday instead, I am very sorry for this inconvenience.",
+    "reference": "My pay's been delayed by the bank holiday — would Thursday be okay for the rent? Sorry about this.",
+    "targets": [
+      "bank holiday"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "Actually the flat is very cold in the winter season because the windows are very old and the wind is coming inside from the gaps, so is there any plan to change the windows to the new double-layer ones, that will save the heating bill also?",
+    "reference": "The flat's freezing because the old windows are draughty — any plans for double glazing?",
+    "targets": [
+      "double glazing"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "The landlord has come inside the flat two times this month without telling us before, when we were not even at home, and this is making us very uncomfortable, so can you please speak to him about this matter once?",
+    "reference": "The landlord's let himself in twice without notice — it's a bit much. Could you speak to him?",
+    "targets": [
+      "it's a bit much"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "I am writing to inform you that the extractor fan in the bathroom is not working, so the steam is not going outside after taking shower, and the mirror and walls are getting wet and it is causing more and more mould everywhere.",
+    "reference": "The bathroom extractor fan's broken, so the steam's causing more mould.",
+    "targets": [
+      "extractor fan"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "My flatmate is moving out next month, and I have already found one new person to take his room, so what is the process to change the names on the contract, and will there be any extra charges for doing that?",
+    "reference": "My flatmate's leaving and I've found a replacement — how do we update the tenancy?",
+    "targets": [
+      "flatmate"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "The radiators in the bedrooms are only getting warm on the bottom part and the top part is completely cold, so I think there is some air trapped inside or something, can you tell me how to fix it or will you send someone?",
+    "reference": "The bedroom radiators are cold at the top — do they need bleeding? How do I do it?",
+    "targets": [
+      "radiator"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "There is some damp smell coming from the cupboard under the stairs, and when I opened it today, the walls were wet and some of our stored boxes are completely spoiled, so please come and check it when you are free.",
+    "reference": "The cupboard under the stairs is damp and some boxes are ruined — could you take a look?",
+    "targets": [
+      "cupboard"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "Is it possible that you can give us one more parking space for the second car, because we have only one allotted space and the street parking is always full in the evenings, so it is becoming very difficult for us daily.",
+    "reference": "Is there any chance of a second parking bay? The street's always full in the evenings.",
+    "targets": [
+      "parking bay"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "I wanted to check whether the rent includes the water and the internet bills also, or we have to pay separately for those things, because in the advertisement it was not very clearly mentioned anywhere, so I am confused.",
+    "reference": "Are water and broadband included in the rent? The advert wasn't clear.",
+    "targets": [
+      "advert"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "The gutter on the roof is blocked with leaves, and whenever it rains, the water is overflowing and falling down the front wall, and now there is some damp patch coming inside the front room also, near the window.",
+    "reference": "The gutter's blocked and there's now a damp patch in the front room.",
+    "targets": [
+      "front room"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "We have found one house which we really like, and our offer was accepted last week, but now the agent is saying someone else has offered more money, so I am thinking whether we should increase our offer or not, I am very confused what to do.",
+    "reference": "We think we're being gazumped on a house we love — is it worth raising our offer?",
+    "targets": [
+      "gazump"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "landlord and letting agent",
+    "verbose": "Hi, just to inform you that the gas engineer came today for the yearly safety check, he has completed his work, and he said he will email you the certificate directly, so you should be getting it soon, nothing else is pending.",
+    "reference": "Job done — the gas engineer's been and he'll email you the safety certificate.",
+    "targets": [
+      "job done"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "neighbours",
+    "verbose": "Hi, sorry to disturb, actually I am your new neighbour from number twelve, we just moved in yesterday only, so I thought I will come and introduce myself and say hello to you properly, since we will be living next to each other.",
+    "reference": "Hi, I'm your new neighbour at number twelve — we moved in yesterday. Just thought I'd say hello.",
+    "targets": [
+      "neighbour"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "neighbours",
+    "verbose": "We are having a small birthday party for my son this Saturday evening in the garden, so there may be some noise till nine or ten o'clock, I just wanted to tell you beforehand only so that you don't mind it.",
+    "reference": "We're having a garden party on Saturday till about ten — I hope you don't mind the noise.",
+    "targets": [
+      "I hope you don't mind"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "neighbours",
+    "verbose": "Excuse me, I think your parcel was delivered to our house by mistake yesterday, the delivery man just left it at our door, so I have kept it safely inside, you can come and collect it anytime when you are free.",
+    "reference": "A parcel for you was left with us yesterday — pop round whenever.",
+    "targets": [
+      "parcel",
+      "pop round"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "neighbours",
+    "verbose": "Your car is parked in front of my driveway since morning, and I need to go out urgently to take my mother to the hospital for her appointment, so can you please move it now, I am really in a big hurry.",
+    "reference": "Sorry, your car's blocking my drive and I need to get Mum to hospital. Could you move it?",
+    "targets": [
+      "mum"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "neighbours",
+    "verbose": "Our cat has been missing since two days and she has never stayed out this long before, so if by any chance you see her in your garden or in your shed, kindly inform us, we are all very worried, especially the children.",
+    "reference": "Our cat's been missing two days — could you keep an eye out, and check your shed?",
+    "targets": [
+      "shed"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "neighbours",
+    "verbose": "I wanted to ask you one favour, we are going on holiday for ten days, so can you please keep an eye on our house, and maybe take the letters inside from the letterbox so that it does not look empty from outside?",
+    "reference": "We're away for ten days — could you keep an eye on the house and take in the post?",
+    "targets": [
+      "post"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "neighbours",
+    "verbose": "The branches of your tree are hanging over our side of the fence, and the leaves are blocking our gutter every autumn, so would it be okay with you if we cut back the branches on our side only?",
+    "reference": "Your tree's blocking our gutter — would you mind if we cut it back?",
+    "targets": [
+      "cut back"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "neighbours",
+    "verbose": "Your dog is barking continuously the whole day when you are going to office, and my wife works from home and it is very disturbing for her calls, so I thought I should let you know about it, no offence.",
+    "reference": "By the way, your dog barks all day while you're out — my wife works from home.",
+    "targets": [
+      "by the way"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "neighbours",
+    "verbose": "We are getting some building work done in our kitchen next week, so there will be some drilling and noise from eight in the morning onwards, so I am apologising in advance for any disturbance caused to you and your family.",
+    "reference": "We've got builders in from eight next week — apologies in advance for the racket.",
+    "targets": [
+      "apologies"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "neighbours",
+    "verbose": "Hello, I am very sorry, but my son's football went over the fence into your garden while playing, so can he please come and take it back, or you can just throw it back over the fence, whatever is easy for you.",
+    "reference": "Sorry, my son's kicked his ball into your garden — could he nip round and get it?",
+    "targets": [
+      "nip"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "neighbours",
+    "verbose": "I am putting together a small get-together for all the neighbours in our street with food and games and music, on the bank holiday afternoon, so I wanted to know whether your family will be able to join us?",
+    "reference": "We're organising a street party with food and games — would you like to join in?",
+    "targets": [
+      "street party",
+      "join in"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "neighbours",
+    "verbose": "Can I borrow your ladder for half an hour only, because I need to clean the gutter and my own ladder is broken, and I will return it back immediately after the work is done, don't worry about that at all.",
+    "reference": "I don't suppose you could lend me your ladder for half an hour? Mine's broken.",
+    "targets": [
+      "I don't suppose you could"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "neighbours",
+    "verbose": "Our bins have been put out on the wrong day by mistake, and the foxes have torn the bags, and the rubbish is spread on your side also, I am very sorry for this, I will clean it up right now itself.",
+    "reference": "Sorry, the foxes got into our bin bags — I'll clear up your side now.",
+    "targets": [
+      "bin bag",
+      "clear up"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "neighbours",
+    "verbose": "The thing is, every morning your car alarm is going off for no reason around six o'clock, and it is waking up the whole street, including my small baby, so can you please get it checked once by the mechanic?",
+    "reference": "Your car alarm keeps going off at six and waking the baby — could you get it checked?",
+    "targets": [
+      "go off"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "neighbours",
+    "verbose": "We will be away this weekend, and tomorrow is the bin collection day, so would it be possible for you to put our bins out on the road along with yours, I will owe you one big favour for that, thank you so much.",
+    "reference": "We're away this weekend — could you put our bins out with yours? I owe you one.",
+    "targets": [
+      "put the bins out",
+      "I owe you one"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "neighbours",
+    "verbose": "Actually, the fence between our gardens has fallen down in the storm last night, and I was thinking whether we can share the cost of repairing it equally, because it belongs to both of us only, what do you think?",
+    "reference": "The storm knocked our shared fence down — shall we go halves on fixing it?",
+    "targets": [
+      "go halves"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "neighbours",
+    "verbose": "Your son came to our house asking if he can wash our car for some pocket money, and he did a very good job actually, and he is a very polite and well-mannered boy, you should be very proud of him.",
+    "reference": "Your son washed our car — lovely job, and ever so polite.",
+    "targets": [
+      "lovely",
+      "ever so"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "neighbours",
+    "verbose": "I am a bit worried because the old lady next door has not opened her curtains since two days and her milk bottles are still outside the door, so should we go and knock on her door or call someone?",
+    "reference": "Jean next door hasn't opened her curtains in two days — shall we look in on her?",
+    "targets": [
+      "look in on",
+      "curtains"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "neighbours",
+    "verbose": "We have got so many apples from our tree this year, more than we can ever eat, so I thought I will bring some for you also, please take as many as you want, otherwise they will simply go waste.",
+    "reference": "We've got loads of apples from the tree — help yourself, or they'll go to waste.",
+    "targets": [
+      "loads",
+      "help yourself"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "neighbours",
+    "verbose": "Is it you who is parking the van on the grass verge outside our house every night? Because the grass is getting completely damaged and muddy, and the council has also sent us one warning letter about it.",
+    "reference": "Is that your van on the verge every night? It's churning up the grass.",
+    "targets": [
+      "verge"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "neighbours",
+    "verbose": "Sorry, I hope you don't mind me asking, but your music was quite loud last night after midnight, and we have to get up very early for work, so maybe you can keep it a little bit lower from next time?",
+    "reference": "Sorry to be a pain, but could you turn the music down after midnight?",
+    "targets": [
+      "sorry to be a pain",
+      "turn down"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "neighbours",
+    "verbose": "I saw some strange people trying to open the doors of the cars in our street last night around two o'clock, so I wanted to warn everybody to lock their cars properly and keep the valuables inside the house only.",
+    "reference": "Someone was trying car doors on our street at 2 a.m. — it might be worth double-checking yours.",
+    "targets": [
+      "it might be worth"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "neighbours",
+    "verbose": "Would you like to come for tea at our house on Sunday afternoon? Nothing big, just some snacks and chit-chat, because we never got a chance to sit and talk properly since you moved in last month.",
+    "reference": "Fancy popping round for a cuppa on Sunday? We've not had a proper chat yet.",
+    "targets": [
+      "fancy",
+      "cuppa"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "neighbours",
+    "verbose": "I accept your parcel deliveries happily, no problem at all, but your parcels are coming almost every single day now and sometimes I am not at home, so maybe you can choose some other safe place option on the website.",
+    "reference": "Happy to take the odd parcel, but it's most days now — could you choose a safe place?",
+    "targets": [
+      "parcel"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "neighbours",
+    "verbose": "My husband is unwell and I need to go to the pharmacy urgently, so can you please watch my two kids for just twenty minutes, I will come back as fast as possible, I am really sorry for asking you like this.",
+    "reference": "Could you possibly watch the kids for twenty minutes while I nip to the chemist? My husband's poorly.",
+    "targets": [
+      "could you possibly",
+      "chemist"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "Hello, actually I need one plumber urgently because the toilet in our house is overflowing since morning and the water is not stopping even after flushing many times, so can someone come today itself, it is an emergency for us.",
+    "reference": "Our toilet's overflowing and won't stop — could someone come out today?",
+    "targets": [
+      "toilet"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "I wanted to know your charges first before you come, like what is your call-out fee and hourly rate, because last time one plumber charged me too much money without telling me anything beforehand, so I want to be clear.",
+    "reference": "Could you give me a ballpark figure for the call-out and hourly rate first?",
+    "targets": [
+      "ballpark"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "Some of the plug points in the kitchen are not working since yesterday evening, and the main switch also tripped two times, so I think there is some wiring problem somewhere, can you please come and check it as soon as possible?",
+    "reference": "Some kitchen sockets have died and the fuse box keeps tripping — could you take a look?",
+    "targets": [
+      "fuse box"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "We want to put some new lights in the back garden and one extra socket outside for the lawnmower, so can you please come and see the place and give me one estimate of the total cost, including everything, labour and all?",
+    "reference": "Could you pop round and quote for garden lights and an outdoor socket?",
+    "targets": [
+      "pop round"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "You told me that the job will be completed in two weeks, but now it is already five weeks and still the kitchen is not finished, and we are cooking in the living room only, so what is happening, please tell me honestly.",
+    "reference": "You said two weeks and it's been five — we're still cooking in the lounge. What's the hold-up?",
+    "targets": [
+      "hold up"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "I am not very happy with the tiling work in the bathroom, the lines are not straight and some tiles are already cracked, so I am expecting you to come back and do it properly before I make the final payment to you.",
+    "reference": "The tiling's not up to scratch — the lines are uneven and some tiles are cracked.",
+    "targets": [
+      "not up to scratch"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "The boiler is making some strange loud banging noise whenever the heating comes on in the morning, and the pressure is also going down every few days, so I think it needs one proper service, when can you come?",
+    "reference": "The boiler bangs when the heating comes on and keeps losing pressure — can you service it?",
+    "targets": [
+      "boiler"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "Yes, I am ready to pay the extra amount, no problem at all, but please make sure that the work is done correctly this time, because I don't want to call you again and again for the same issue, it is very irritating.",
+    "reference": "Fine, I'll pay the extra — just please make sure it's sorted this time.",
+    "targets": [
+      "sorted"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "We need the whole house painted inside, three bedrooms, living room and hallway, before we put it on the market for selling, so how many days it will take for you to finish, and when can you start the work?",
+    "reference": "How soon could you fit us in to paint the whole house before we sell?",
+    "targets": [
+      "fit in"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "I have bought one flat-pack wardrobe and I tried to assemble it myself, but it is very complicated, and now some screws are also missing from the box, so can you please come and put it together for me properly?",
+    "reference": "I've given up on a flat-pack wardrobe — could you come and assemble it?",
+    "targets": [
+      "flat-pack",
+      "wardrobe"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "Actually the kitchen sink is fully blocked, the water is not draining at all, and I already tried some chemical liquid from the shop, but nothing happened, so I think a professional is needed now, can you come?",
+    "reference": "The kitchen sink's completely blocked and drain cleaner hasn't worked. Could you have a go?",
+    "targets": [
+      "have a go"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "I am a little bit confused with your quotation, because there are some items written like first fix and second fix, so what is the meaning of these things, and why they are charged separately, can you explain me?",
+    "reference": "Could you explain \"first fix\" and \"second fix\" on the quote? I'm a little confused.",
+    "targets": [
+      "I'm a little confused"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "The neighbour is saying that your workers are parking the van on his driveway and leaving the rubbish near his gate, so please tell them to be careful, because I don't want any problem with my neighbours.",
+    "reference": "Your lads keep blocking next door's drive — could you have a word?",
+    "targets": [
+      "lad"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "After the storm last night, some roof tiles have fallen down into the garden and now there is water dripping in the loft, so can you please come today itself and fix it temporarily, before more rain comes tonight?",
+    "reference": "The storm took some tiles off and the loft's leaking — could you patch it up today?",
+    "targets": [
+      "loft"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "We are looking for someone to maintain our garden regularly, like cutting the grass and trimming the hedges every two weeks, so what will you charge for that, and which days of the week are you generally free?",
+    "reference": "We're after someone to mow and trim the hedges fortnightly — what do you charge?",
+    "targets": [
+      "fortnight"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "I am locked out of my house because I forgot my keys inside and closed the door by mistake, and my wife is out of station till tomorrow evening, so I need someone to come and open the door urgently.",
+    "reference": "I've locked myself out — any chance you could come today? My wife's away till tomorrow.",
+    "targets": [
+      "any chance you could"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "I just wanted to say thank you so much for coming at such short notice on Sunday, and you did a very good job, the shower is working perfectly fine now, and I will definitely recommend you to all my friends.",
+    "reference": "Thanks ever so much for coming out on a Sunday — the shower's perfect.",
+    "targets": [
+      "thanks ever so much"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "I want to get three or four quotes from different builders before deciding for the extension, so please don't mind, I am not saying your price is wrong or anything, I just want to compare and all, that's it.",
+    "reference": "I'm shopping around for quotes on the extension — nothing personal.",
+    "targets": [
+      "shop around"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "The light in the bathroom is flickering on and off since few days, and sometimes it is making some buzzing noise also, so I am a bit scared that it might be dangerous, can you please come and check it?",
+    "reference": "The bathroom light's on the blink and buzzing — could you check it's safe?",
+    "targets": [
+      "on the blink"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "You came for cleaning the windows last Tuesday, but I was not at home at that time, so I could not pay you, so how should I pay now, can I transfer online or you want the cash only?",
+    "reference": "Sorry I missed you on Tuesday — how much do I owe you? Is a transfer okay?",
+    "targets": [
+      "how much do I owe you?"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "The work you did is mostly fine, but there are some small-small things still pending, like the skirting is not fixed in one room and the door is not closing properly, so when can you come and finish everything?",
+    "reference": "Nearly there — just a loose skirting board and a sticking door. When can you finish?",
+    "targets": [
+      "skirting board"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "I want to change our old boiler to a new one because it is more than fifteen years old and the gas bills are coming very high, so which type of boiler you will recommend for a three-bedroom house like ours?",
+    "reference": "Our boiler's fifteen years old — would a combi boiler suit a three-bed house?",
+    "targets": [
+      "combi boiler"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "You have given me the appointment for between eight and twelve in the morning, but it is already one o'clock and still nobody has come, and I took leave from office especially for this, so where are you?",
+    "reference": "Are you running late? You said eight to twelve, and I've taken the day off.",
+    "targets": [
+      "run late"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "Honestly speaking, if I were you, I would first of all call the electrician only, not the plumber, because the shower is the electric one, so the problem is most probably in the wiring and not in the pipes.",
+    "reference": "I'd be inclined to ring an electrician first — it's an electric shower.",
+    "targets": [
+      "I'd be inclined to"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "The quote you gave me was three thousand pounds, but now the final bill is showing four and a half thousand, and you never informed me about any extra work before doing it, so I cannot pay this amount.",
+    "reference": "You quoted three grand and now it's four and a half — you never mentioned any extras.",
+    "targets": [
+      "grand"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "I need someone to put up some shelves and hang a few pictures and one mirror in the new flat, nothing very big, just small-small jobs, so can you do all of them in one visit only, to save time?",
+    "reference": "I've got some bits and bobs — shelves, pictures, a mirror. Could you do them in one go?",
+    "targets": [
+      "bits and bobs"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "When you fitted the carpet yesterday, you left one big scratch on the new door, and also there is some gap near the wall, so can you please come back and correct these small mistakes when you are free?",
+    "reference": "Could you come round and fix the gap by the skirting, and the scratch on the door?",
+    "targets": [
+      "come round"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "Sorry, I have to cancel tomorrow's appointment because my child is not well and we have to go to the doctor in the morning, so can we please reschedule it to sometime next week, whatever suits you?",
+    "reference": "Could we put tomorrow back to next week? My little one's poorly.",
+    "targets": [
+      "put back",
+      "poorly"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "I want to add one small extension at the back of the house for the kitchen, so before starting, do we need some approval from the council, or you will take care of all that paperwork from your side?",
+    "reference": "Do we need planning permission, and would you liaise with the council?",
+    "targets": [
+      "liaise"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "tradespeople",
+    "verbose": "You did the inspection and gave me the safety certificate, but my letting agent is asking for the copy in some other format, so can you please send it again by email in PDF form, sorry for troubling you.",
+    "reference": "My letting agent needs the safety certificate as a PDF — could you email it over?",
+    "targets": [
+      "letting agent"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "Hello, I bought this shirt from here last week only, but when I went home and tried it on, it is not fitting me properly at all, so I want to return it back and take my money back, I have the bill also with me.",
+    "reference": "I'm afraid this doesn't fit — could I get a refund? I've got the receipt.",
+    "targets": [
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "I don't want any exchange or store credit or voucher, actually, I want the full money back on my card itself, because I will not be using this shop again, nothing personal, but I don't need anything else from here.",
+    "reference": "A refund to my card rather than store credit, if you don't mind.",
+    "targets": [
+      "if you don't mind"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "Excuse me, I am just looking around only, I don't need any help right now, if I have any question then I will definitely come and ask you, thank you so much for asking me though, very kind of you.",
+    "reference": "I'm just looking, thanks — I'll shout if I need anything.",
+    "targets": [
+      "just looking, thanks"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "Do you have this same jacket in one size bigger, like medium instead of small, or maybe you can check in the back store room or some other branch nearby if it is available there, because I really like this one?",
+    "reference": "Have you got this in a medium? If not, could I click and collect from another branch?",
+    "targets": [
+      "click and collect"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "Excuse me, the machine at the self-checkout is again showing some error that unexpected item in the bagging area, but I have not kept anything extra there, so can you please come and help me with it, it is happening every time.",
+    "reference": "Typical — \"unexpected item in the bagging area\" again. Could you help?",
+    "targets": [
+      "typical"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "The price tag on the shelf is clearly showing three pounds for this item, but at the counter you are charging me four pounds fifty, so there is some mistake somewhere, please check it once and correct it for me.",
+    "reference": "The shelf says three pounds but it's come up as four fifty at the till.",
+    "targets": [
+      "till"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "I am buying this as a gift for my sister's birthday, so can you please remove the price sticker and pack it nicely in some gift paper, and also give me one receipt separately so that she can exchange it if needed?",
+    "reference": "Could you gift-wrap this and pop in a gift receipt? It's a present.",
+    "targets": [
+      "pop"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "The toaster I purchased from your shop two months back has suddenly stopped working completely, and it is still under the one-year warranty period, so I want either a replacement or a full repair free of cost, as per the rules.",
+    "reference": "This toaster's packed up after two months — it's still under warranty, so I'd like a replacement.",
+    "targets": [
+      "pack up"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "Actually, I ordered online and I selected the option to collect from the store, and I got the message that my order is ready for collection, so where exactly should I go to collect it, which counter or which floor?",
+    "reference": "I've got a click and collect order ready — where do I pick it up?",
+    "targets": [
+      "click and collect",
+      "pick up"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "Do you have any bags? Actually I forgot to bring my own bag from home today and I have bought so many things, so can I buy two or three bags from you, and how much is it for one bag?",
+    "reference": "I've forgotten my bags — could I buy a couple of carrier bags?",
+    "targets": [
+      "carrier bag"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "I am not very sure which one to choose between these two laptops, both are looking exactly similar to me, so can you please explain me the main difference in simple words, because I am not a very technical person.",
+    "reference": "In a nutshell, what's the difference between these two?",
+    "targets": [
+      "in a nutshell"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "The jeans I ordered online have arrived today, but the colour is totally different from what was shown on the website, it is looking very dull and faded, so I want to send them back, what is the process for that?",
+    "reference": "These jeans are a far cry from the website photo — how do I send them back?",
+    "targets": [
+      "a far cry from"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "I have some old clothes and books and toys which are in very good condition, because my children have grown up now, so do you accept donations, and is there any specific day or time for dropping them off here?",
+    "reference": "Does the charity shop take donations? I've got clothes and toys to drop off.",
+    "targets": [
+      "charity shop",
+      "drop off"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "I am sorry but I don't have any change with me, I only have one fifty-pound note, so is it okay if I pay with this, or you want me to pay by card instead, whatever is convenient for you, no problem.",
+    "reference": "Sorry, I've only got a fifty-pound note — or shall I pay by card?",
+    "targets": [
+      "note"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "The sales lady told me that there is twenty percent discount on this item, but the bill is showing the full price, so maybe the offer is not applied at the counter properly, can you please check it once again?",
+    "reference": "I was told this was twenty per cent off, but it's come up full price.",
+    "targets": [
+      "per cent"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "Is this fruit fresh, today's only? Because last week I bought from here and by next day itself it was spoiled, so I want to make sure before buying, sorry for asking like this, but I have to check, you understand.",
+    "reference": "Is this fruit fresh today? Last week's had gone off by the next day.",
+    "targets": [
+      "go off"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "Excuse me, do you sell the bus passes or the travel cards here in your shop, or I have to go to the station only, and also can I top up my card here with some money, like twenty pounds?",
+    "reference": "Can I top up my travel card here, or only at the station?",
+    "targets": [
+      "top up"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "Can you please keep this item aside for me till the evening, because I have to go and check with my wife once about the colour, and I will come back and buy it before the shop closes today, I promise.",
+    "reference": "Would you mind holding this till five? I need to run it past my wife.",
+    "targets": [
+      "run it past"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "This kettle is very expensive in your shop compared to the other shop on the main road, because they are giving the same model for ten pounds less, so can you match the price or give me some discount at least?",
+    "reference": "The shop down the road has this kettle for a tenner less — could you price-match?",
+    "targets": [
+      "tenner",
+      "kettle"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "I bought this phone case from here yesterday only, and today morning itself the corner has cracked, and I have not even dropped it once, so it is clearly some defect from the manufacturing side, not my fault at all.",
+    "reference": "This phone case was a bit ropey — it cracked overnight without a drop.",
+    "targets": [
+      "ropey"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "I need some advice on the correct size of bed sheet and quilt cover, because we have bought a new king size bed, and I am confused whether a normal double size cover will fit on it or not.",
+    "reference": "Will a double duvet cover fit a king-size, or do I need a king?",
+    "targets": [
+      "duvet cover"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "I was standing in the line for fifteen minutes and this gentleman just came and stood in front of me directly, so I think he did not see the line, can you please ask him to go back and stand in the queue properly?",
+    "reference": "Excuse me, I think there's a queue — I've been waiting fifteen minutes.",
+    "targets": [
+      "excuse me",
+      "queue"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "I want to buy some paint for my kitchen walls, but the walls get very greasy and wet from cooking, so which type of paint is best for that, and how many tins will I need for a small kitchen, roughly?",
+    "reference": "What's best for a steamy kitchen — and is there a rule of thumb for how many tins?",
+    "targets": [
+      "rule of thumb"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "I am returning these shoes because they are hurting my feet after only one day of wearing, and I know I have worn them once, but they are giving me blisters, so please consider my case and take them back.",
+    "reference": "I know it's a big ask as I've worn them once, but they're giving me blisters.",
+    "targets": [
+      "a big ask"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "Can I pay half the amount with my gift card and the remaining half with my debit card, is it possible to split the payment like that, because the gift card has only thirty pounds left in it, not the full amount?",
+    "reference": "Can I put thirty on the gift card and the rest on my debit card?",
+    "targets": [
+      "debit card"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "The man at the customer service desk is refusing to give me a refund even though I have the receipt, he is saying it is company policy, but it is very unfair, so I want to speak to the manager directly now.",
+    "reference": "With respect, I've got the receipt — could I speak to the manager?",
+    "targets": [
+      "with respect"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "Do you have any loyalty card or points system in this shop? Because I come here every single week for my shopping, so if there is any benefit or discount, I would definitely like to join it, what is the process?",
+    "reference": "Do you do a loyalty card? I'm in every week.",
+    "targets": [
+      "loyalty card"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "I bought this sofa from your store and the delivery people said it will come within two weeks, but it is already one month now, and every time I call the customer care, they are giving me different different dates.",
+    "reference": "My sofa was due in a fortnight — it's been a month and I keep getting different dates.",
+    "targets": [
+      "sofa"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "Excuse me, do you have milk? I am not able to find it anywhere, I checked in all the fridges, so maybe it is finished, or you have kept it somewhere else in the back side of the shop?",
+    "reference": "Have you run out of milk? There's none in the fridge.",
+    "targets": [
+      "run out of"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "shops and returns",
+    "verbose": "I came yesterday to buy one product which was on special offer, but by the time I reached it was already sold out completely, so will you be getting more stock again, and when exactly will it come?",
+    "reference": "I gather they're selling like hot cakes — when are you getting more in?",
+    "targets": [
+      "sell like hot cakes"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "restaurants",
+    "verbose": "Hello, I want to book one table for dinner tonight for four people, around eight o'clock, and if possible we want a table near the window, because it is my parents' anniversary, so we want it to be special for them.",
+    "reference": "I'd like to make a booking for four at eight — window table if you can?",
+    "targets": [
+      "booking"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "restaurants",
+    "verbose": "Excuse me, we have been sitting here for almost half an hour and nobody has come to take our order yet, and we have to go back to the office by two o'clock, so can you please take the order quickly?",
+    "reference": "We've waited half an hour to order and we're back at two — it's cutting it fine.",
+    "targets": [
+      "cutting it fine"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "restaurants",
+    "verbose": "Actually I am having allergy to nuts, very serious allergy, so can you please confirm with the chef whether this curry has any nuts or nut oil in it, because I cannot take any risk at all, last time I was hospitalised.",
+    "reference": "I've a serious nut allergy — I'd be grateful if you could check the curry with the chef.",
+    "targets": [
+      "I'd be grateful if"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "restaurants",
+    "verbose": "Excuse me, can we get the bill please, and also can we split the bill equally between three of us, because everybody wants to pay separately by card only, is that possible for you to do?",
+    "reference": "Could I have the bill, please — split three ways on cards?",
+    "targets": [
+      "could I have the bill?"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "pubs",
+    "verbose": "It's my turn now, I will buy drinks for everybody this time, because you all paid last time, so please don't argue with me, just tell me what each person wants to drink and I will go to the counter.",
+    "reference": "My shout — what's everyone having?",
+    "targets": [
+      "my shout"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "pubs",
+    "verbose": "Should we go for one quick drink after work today? Nothing big, just one or two drinks only, because it has been a very long and stressful week and I think we all deserve some relaxing time together.",
+    "reference": "Fancy going for a quick one after work? It's been a long week.",
+    "targets": [
+      "go for a quick one"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "restaurants",
+    "verbose": "The food I ordered is very cold, actually, the steak is not hot at all, and I asked for medium but it is looking completely raw from inside, so can you please take it back and get it corrected from the kitchen?",
+    "reference": "It's not quite what I had in mind — the steak's cold and rather underdone.",
+    "targets": [
+      "not quite what I had in mind",
+      "rather"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "pubs",
+    "verbose": "Do you serve food here also, or only drinks? Because we are very hungry and we were thinking to have something to eat along with our drinks, like some simple English food, nothing too fancy or expensive.",
+    "reference": "Do you do food? We're after some decent pub grub.",
+    "targets": [
+      "pub grub"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "pubs",
+    "verbose": "The barman just announced that they are going to close in ten minutes, so if anybody wants one more drink then we have to order quickly now only, otherwise they will not serve anything after that.",
+    "reference": "That's last orders — anyone want another?",
+    "targets": [
+      "last orders"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "restaurants",
+    "verbose": "Is it possible to order the food to take home instead of eating here, because my kids are very tired and sleepy now, so we want to just take it and eat at home comfortably, on the sofa?",
+    "reference": "Could we have it to take away? The kids are shattered.",
+    "targets": [
+      "shattered"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "restaurants",
+    "verbose": "Everything was very nice, the food, the service, the atmosphere, everything was excellent, so please tell the chef also that we really enjoyed it and we will definitely come again with our whole family.",
+    "reference": "That was lovely — please pass on our thanks to the chef.",
+    "targets": [
+      "lovely",
+      "pass on"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "pubs",
+    "verbose": "Tonight there is some quiz competition happening in the pub on our road, so I was thinking that we can make one team with our friends and go there, it will be fun only, what do you say about it?",
+    "reference": "There's a pub quiz on tonight — fancy getting a team together?",
+    "targets": [
+      "pub quiz",
+      "fancy"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "restaurants",
+    "verbose": "Excuse me, I think there is some mistake in the bill, because we did not order this dessert and this bottle of wine at all, so can you please check it once again and correct the total amount?",
+    "reference": "I'm not sure that's quite right — we didn't have the dessert or the wine.",
+    "targets": [
+      "I'm not sure that's quite right"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "pubs",
+    "verbose": "I am not drinking alcohol tonight because I am driving back home later, so I will just take some soft drink or juice, but please don't force me, I am perfectly happy with that only, thank you.",
+    "reference": "I'm alright, thanks — I'm driving, so just a lime and soda.",
+    "targets": [
+      "I'm alright, thanks"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "restaurants",
+    "verbose": "Let us all pay equally for the food bill, otherwise it will become very complicated to calculate who ate what, and anyway everybody ate almost the same amount only, so it is fair for everyone.",
+    "reference": "Let's just split it evenly and settle up — far simpler.",
+    "targets": [
+      "settle up"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "restaurants",
+    "verbose": "We don't have any booking, actually, but we were just passing by and the place looked very nice from outside, so do you have any table available for two people right now, or we have to wait for some time?",
+    "reference": "We were passing on the off chance — any table for two?",
+    "targets": [
+      "on the off chance"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "pubs",
+    "verbose": "Yesterday night I drank too much at the party and today I am feeling very bad, headache, tired, everything, so maybe I will have one beer only to feel better, my uncle always says it works.",
+    "reference": "I'm suffering after last night — maybe a hair of the dog will help.",
+    "targets": [
+      "hair of the dog"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "pubs",
+    "verbose": "That pub near the station is very dirty and the drinks are also very costly, so let us not go there today, let us try the other one near the river, it is much nicer and cheaper also.",
+    "reference": "The station pub's grotty and pricey — let's try the one by the river.",
+    "targets": [
+      "grotty"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "pubs",
+    "verbose": "Everybody went to the bar and ordered drinks only for themselves, but I think we should take turns and buy for the whole group, because that is how it works here in England, no?",
+    "reference": "Shall we do rounds? I'll get a round in.",
+    "targets": [
+      "get a round in"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "restaurants",
+    "verbose": "Excuse me, is the service charge included already in this bill, or should we leave the tip separately on the table, because I am not very sure how it works in this particular restaurant.",
+    "reference": "Excuse me, is service included, or shall we leave a tip?",
+    "targets": [
+      "excuse me"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "restaurants",
+    "verbose": "All the dishes on the menu are looking very nice and I am really confused now, so what will you suggest, which is the most popular dish here or your special dish of the day today?",
+    "reference": "It all looks lovely — what would you go for?",
+    "targets": [
+      "lovely"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "pubs",
+    "verbose": "I am really hungry now, so can we order some snacks or something with the drinks, because I came directly from the office and I have not eaten anything since lunch time, not even a biscuit.",
+    "reference": "I'm starving — shall we order some nibbles? I've not eaten since lunch.",
+    "targets": [
+      "starving"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "pubs",
+    "verbose": "Should we sit outside in the garden area, because it is very sunny and warm today, and it is too crowded and noisy inside, we cannot even hear each other properly when we are talking.",
+    "reference": "Shall we sit in the beer garden? It's heaving in here and lovely out.",
+    "targets": [
+      "beer garden",
+      "shall we?"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "restaurants",
+    "verbose": "It's my friend's birthday today, so is it possible that at the end of the dinner you can bring the dessert with one candle on top and maybe sing happy birthday, because she will be so surprised.",
+    "reference": "I don't suppose you could bring her pudding out with a candle? It's her birthday.",
+    "targets": [
+      "I don't suppose you could"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "pubs",
+    "verbose": "Wow, this place has completely changed, before it was a very old-fashioned pub, but now they have made it so modern and fancy, and the food is also very expensive like a proper restaurant now.",
+    "reference": "It's gone all gastropub since I was last here — very posh.",
+    "targets": [
+      "gastropub",
+      "posh"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "restaurants",
+    "verbose": "Actually we are in a big group of twelve people and some are vegetarian, some are vegan, and one person is gluten-free, so can you please arrange one special menu for us in advance, before we come?",
+    "reference": "We're twelve with mixed dietary needs — could you do a bespoke set menu?",
+    "targets": [
+      "bespoke"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "pubs",
+    "verbose": "Can we watch the football match here, I mean, will you be showing the big game on the TV tonight, and if yes, then can we reserve one table near the screen for six people, from seven o'clock?",
+    "reference": "Are you showing the match tonight? Could we reserve a table for six near the screen?",
+    "targets": [
+      "match"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "restaurants",
+    "verbose": "Is this dish very spicy? Because my wife cannot eat too much chilli, so if possible, can the chef make it a little bit less spicy or mild for her, without changing the taste too much?",
+    "reference": "Is this very hot? Could the chef make it mild for my wife?",
+    "targets": [
+      "mild"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "pubs",
+    "verbose": "Let us go now, it is getting very late, and the last train is at half past eleven, so if we miss it then we will have to take a costly taxi, so let us leave now and walk to the station.",
+    "reference": "We'd better make tracks — the last train's at half eleven.",
+    "targets": [
+      "make tracks"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "I really don't feel like going out tonight, honestly, I am very tired from the whole week, so you all go and enjoy, I will just stay at home, watch something on TV and sleep early.",
+    "reference": "I'll give it a miss tonight — I'm shattered. Have fun!",
+    "targets": [
+      "give it a miss",
+      "shattered"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "restaurants",
+    "verbose": "Honestly speaking, the meal was okay-okay only, nothing very special, the service was slow and the food was a little bit cold also, but overall it was not too bad, I will say.",
+    "reference": "It was nothing to write home about — slow service and lukewarm food.",
+    "targets": [
+      "nothing to write home about"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "pubs",
+    "verbose": "That place was very expensive, they charged us eight pounds for one small glass of wine, I mean, it was totally looting, I cannot believe how much they are charging people these days.",
+    "reference": "Eight quid for a small glass of wine — daylight robbery!",
+    "targets": [
+      "quid",
+      "daylight robbery"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "pubs",
+    "verbose": "Who wants to come with me to that new bar tonight? I am going anyway, so whoever wants to join can come, it will be good fun if more people are there, everybody is welcome.",
+    "reference": "I'm off to the new bar tonight — anyone want to tag along?",
+    "targets": [
+      "tag along",
+      "I'm off"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "restaurants",
+    "verbose": "Excuse me, can you please give us the table in some quiet corner, because we want to talk about some important family things and here it is very noisy near the kitchen door.",
+    "reference": "Is it alright if we move somewhere quieter, away from the kitchen?",
+    "targets": [
+      "is it alright if"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "pubs",
+    "verbose": "Brother, I am telling you honestly, that pint you are drinking is your fourth one, and you are already talking very loudly and falling over, so maybe now stop and drink some water.",
+    "reference": "Mate, that's your fourth — you're getting a bit sloshed. Have some water.",
+    "targets": [
+      "mate",
+      "sloshed"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "Excuse me, I wanted to know whether this train is going directly to Manchester, or do I need to get down somewhere in between and take another train to reach there finally?",
+    "reference": "Is this direct to Manchester, or do I change?",
+    "targets": [
+      "direct"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "Hello, I want one ticket for going to Brighton and coming back on the same day, in the evening, and I want the cheapest one possible, not in the busy morning time, I am not in a hurry.",
+    "reference": "A day return to Brighton, please — the cheapest off-peak one.",
+    "targets": [
+      "return",
+      "off-peak"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "Actually I have a railcard for young people, but I forgot to bring it today, it is at home, so can I still use the discount ticket, I can show you the photo on my phone if needed?",
+    "reference": "I've left my railcard at home — is a photo on my phone okay?",
+    "targets": [
+      "railcard"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "Sorry, I am new in London and I am very confused, which line I have to take to reach King's Cross from here, and do I have to change somewhere in between or it is direct?",
+    "reference": "Sorry, how do I get to King's Cross on the Tube from here?",
+    "targets": [
+      "the Tube"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "The train is delayed by forty-five minutes today because of some signal problem near the junction, and my connecting train will be gone by then, so what are my options now, please tell me.",
+    "reference": "A signal failure means I'll miss my connection — what are my options?",
+    "targets": [
+      "signal failure"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "Is this seat booked by someone? Because there is no reservation ticket on the top, so I thought it is free, but if somebody is coming then I can move to some other seat, no problem.",
+    "reference": "Is anyone sitting here?",
+    "targets": [
+      "is anyone sitting here?"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "Excuse me, this is the quiet coach, so can you please speak a little bit softly on the phone or go outside to the corridor area, because many people are trying to work and sleep here.",
+    "reference": "Sorry, this is the quiet carriage — would you mind taking your call outside?",
+    "targets": [
+      "quiet carriage",
+      "would you mind"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "On the escalator, people are getting annoyed with me, they are saying something, and I don't know which side I should stand on, left or right, so can you tell me what is the rule here?",
+    "reference": "On the escalator you stand on the right and walk on the left.",
+    "targets": [
+      "stand on the right"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "The ticket inspector fined me twenty pounds because the ticket machine at my station was not working and I could not buy the ticket, so I want to appeal against this penalty, how to do it?",
+    "reference": "I got a penalty fare because my station's machine was broken — how do I appeal?",
+    "targets": [
+      "penalty fare"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "This weekend there is no train service on our line because of some maintenance work on the tracks, and they are running buses instead of trains, so it will take much more time to reach.",
+    "reference": "No trains this weekend — engineering works, so it's a rail replacement bus.",
+    "targets": [
+      "engineering works",
+      "rail replacement bus"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "My card is not opening the gates at the station, it is showing some red light and beeping, and I have enough balance also, so I don't know why it is not allowing me to go inside.",
+    "reference": "My card won't open the ticket barrier, even though it's topped up.",
+    "targets": [
+      "ticket barrier",
+      "top up"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "I have booked my ticket for the 9:15 train, but I reached the station early, so can I take the 8:45 train which is just going now, or will I get a fine for taking the earlier train?",
+    "reference": "I've got an advance ticket for the 9:15 — can I hop on the 8:45?",
+    "targets": [
+      "advance ticket"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "Excuse me, driver, does this bus go to the hospital? And can you please tell me when we reach there, because I don't know the route and I don't want to miss my stop by mistake.",
+    "reference": "Does this go to the hospital? Would you mind telling me when we're there?",
+    "targets": [
+      "would you mind"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "I am trying to get one taxi since twenty minutes from the station, but all the black taxis are already taken, so is there some place where the taxis are waiting, or I should book one online?",
+    "reference": "Where's the taxi rank? I've been trying to flag down a cab for twenty minutes.",
+    "targets": [
+      "taxi rank"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "It is so crowded in this train that there is no place even to stand properly, every day it is like this in the morning, I think the train company should add more coaches, honestly.",
+    "reference": "It's chock-a-block again — they need more carriages.",
+    "targets": [
+      "chock-a-block",
+      "carriage"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "Sorry, I think we are going in the wrong direction, because the last station was not on our route, so I think we should get down at the next station and take the train coming from the other side.",
+    "reference": "We're going the wrong way — back to square one at the next stop.",
+    "targets": [
+      "back to square one"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "I left my bag in the train by mistake, it is one black rucksack with my laptop inside, the train was the 6:30 from Leeds, so how can I find out whether somebody has found it or not?",
+    "reference": "I left a black rucksack on the 6:30 from Leeds — has it been handed in?",
+    "targets": [
+      "rucksack",
+      "hand in"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "Excuse me, which platform is the train to Edinburgh leaving from, because the board is showing two different platforms, and I am getting confused, and the time is also very near now.",
+    "reference": "Which platform's the Edinburgh train? The board says two different ones.",
+    "targets": [
+      "platform"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "Is there any food trolley or café on this train, because I came directly from the office without eating anything, and the journey is very long, almost four hours, and I am very hungry.",
+    "reference": "Is there a buffet car? It's four hours and I'm starving.",
+    "targets": [
+      "buffet car",
+      "starving"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "They are announcing that please be careful of the space between the train and the platform while getting down, and that is very important especially at this station, where the gap is very big.",
+    "reference": "Mind the gap — it's huge at this station.",
+    "targets": [
+      "mind the gap"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "The train was cancelled and I had to take a taxi to reach my interview on time, so can I claim back the money for the ticket and maybe the taxi also from the train company?",
+    "reference": "My train was cancelled — can I claim my fare and taxi back from the railway?",
+    "targets": [
+      "railway"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "Sorry, I don't have the exact change for the bus ticket, I only have the card with me, so can I pay with the contactless card, or the bus is only accepting the cash?",
+    "reference": "Can I pay by contactless? I haven't got any change.",
+    "targets": [
+      "contactless"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "My mother is in a wheelchair, so we need help at the station for getting into the train and getting out at the destination, so how do I book that assistance in advance?",
+    "reference": "My mum uses a wheelchair — how do I book assistance at both ends?",
+    "targets": [
+      "mum"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "I want to sit in the first class only, but I have the normal ticket, so is it possible to pay the extra amount now on the train itself and upgrade my seat to the first class?",
+    "reference": "Can I upgrade from standard class on board?",
+    "targets": [
+      "standard class"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "The guard on the train announced that everyone must get down here, because the train is terminating at this station, and we should wait for the next train on the same platform.",
+    "reference": "All change — this train terminates here.",
+    "targets": [
+      "all change"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "There are leaves falling on the railway tracks and so the trains are getting delayed every autumn, I mean, it is very funny for me, because in my country such a small thing never stops the trains.",
+    "reference": "Trains delayed by leaves on the line — only in Britain!",
+    "targets": [
+      "leaves on the line"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "I take the train every day from the suburbs to the city for my office, so which ticket is the most economical for me, like a monthly pass or a weekly pass or some other type?",
+    "reference": "I commute daily — would a monthly season ticket be better value for money?",
+    "targets": [
+      "value for money",
+      "season ticket"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "There is so much traffic on the motorway today because of some accident near the exit, and the cars are not moving at all since thirty minutes, so I think I will be very late for the meeting.",
+    "reference": "There's a huge tailback on the motorway after an accident — I'll be really late.",
+    "targets": [
+      "tailback",
+      "motorway"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "Turn left at the next round circle thing where all the cars go around, then go straight, and after that you will see the petrol pump on your right side, near the big supermarket.",
+    "reference": "Left at the next roundabout, then the petrol station's on your right by the supermarket.",
+    "targets": [
+      "roundabout",
+      "petrol station"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "My car broke down on the motorway and I have parked it on the side emergency lane, and the engine is making smoke, so I need someone to come and help me as soon as possible, please.",
+    "reference": "I've broken down on the motorway — I'm on the hard shoulder and the engine's smoking.",
+    "targets": [
+      "hard shoulder"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "I am searching for some parking place near the town centre since twenty minutes, but every place is full, so where can I park safely without getting a ticket, do you have any idea?",
+    "reference": "Is there a car park near the town centre? I've been circling for ages.",
+    "targets": [
+      "car park",
+      "town centre"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "My car's yearly test is due next week and I wanted to book an appointment at your garage, and if any repairs are needed then please call me first before doing the work.",
+    "reference": "Could I book in for an MOT? Please ring before any repairs.",
+    "targets": [
+      "MOT",
+      "book in"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "I need one cab tomorrow early morning at five o'clock to go to Heathrow airport, and I have two big suitcases, so please send a bigger car, and what will be the fixed price for that?",
+    "reference": "Could I book a minicab to Heathrow for 5 a.m. tomorrow? Two big cases.",
+    "targets": [
+      "minicab"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "The bus stop near our house is a request stop, so I didn't know I have to put out my hand, and the bus just went without stopping, so now I have to wait another thirty minutes.",
+    "reference": "I didn't realise it was a request stop — now it's another half hour.",
+    "targets": [
+      "request stop"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "trains and transport",
+    "verbose": "The cars in the city are going so close to me when I am cycling to work, it is very scary, so is there any safer route with separate lanes for the cyclists which I can take instead?",
+    "reference": "Is there a safer route with a proper cycle lane? The traffic's terrifying.",
+    "targets": [
+      "cycle lane"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "We are planning to go somewhere for a short holiday of two or three days only, maybe one European city, nothing too far, just to relax and see some places, try the local food, visit some museums, like that.",
+    "reference": "We fancy a city break somewhere in Europe — just a few days.",
+    "targets": [
+      "city break"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "This year we have decided that we will not go abroad, we will just take a holiday within the UK only, like Cornwall or the Lake District, because the flights are too expensive and too much hassle with the kids.",
+    "reference": "We're having a staycation this year — Cornwall or the Lakes. Flights are too much hassle.",
+    "targets": [
+      "staycation"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "How much luggage can I take in the cabin with me, like is a small trolley bag allowed, and is there any weight limit for that, because I don't want to pay any extra money at the airport counter?",
+    "reference": "What's the hand luggage allowance — is a small wheelie case okay?",
+    "targets": [
+      "hand luggage"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "Hello, I have booked one room for two nights from Friday, but now my plans have changed and I will be arriving only on Saturday morning, so can you please change the booking to only one night instead?",
+    "reference": "Could I change my booking to just Saturday night? My plans have changed.",
+    "targets": [
+      "booking"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "The room you gave us is facing the main road, and there is so much traffic noise in the night that we could not sleep at all, so can you please shift us to some quieter room from today itself?",
+    "reference": "I'd appreciate it if we could move to a quieter room — the traffic kept us up.",
+    "targets": [
+      "I'd appreciate it if"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "We are thinking to book everything together, flights, hotel, airport transfers, all in one package from one company only, so that we don't have to take tension about arranging each and every thing separately.",
+    "reference": "We're thinking of a package holiday so it's all sorted in one go.",
+    "targets": [
+      "package holiday",
+      "sorted"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "Honestly, the hotel was not at all like the photos on the website, the pool was dirty, the room was small and the food was very bad, so I am going to write one strong complaint to the travel agent.",
+    "reference": "The hotel was a far cry from the photos — I'm complaining to the travel agent.",
+    "targets": [
+      "a far cry from"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "Can you please look after our cat for one week when we are on holiday? We will leave enough food and everything, you just have to come once a day, give her food and clean the litter tray.",
+    "reference": "Could you pop in once a day to feed the cat while we're away?",
+    "targets": [
+      "pop in"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "We are going camping in Wales for the long weekend in May, so I wanted to ask whether you have any spare tent or sleeping bags, because we don't want to buy new ones just for two nights only.",
+    "reference": "We're camping in Wales over the bank holiday weekend — got a spare tent we could borrow?",
+    "targets": [
+      "bank holiday weekend"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "My flight has been delayed by six hours and the airline is not giving any information to anybody, everybody is just sitting in the airport waiting and waiting, so am I eligible for some compensation or not?",
+    "reference": "Six hours in the departure lounge with no news — am I due compensation?",
+    "targets": [
+      "departure lounge"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "Let us not plan everything in detail for the holiday, let us just go there and decide day by day what to do according to the weather and our mood, because it will be more relaxing that way.",
+    "reference": "Let's not over-plan — we'll play it by ear and see what the weather does.",
+    "targets": [
+      "play it by ear"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "We are going for two weeks to Greece in August, so I have applied for leave in the office for that full time, and my manager has also approved it, so everything is confirmed and booked now.",
+    "reference": "We're off to Greece for a fortnight in August — it's all booked.",
+    "targets": [
+      "fortnight"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "I need to renew my passport urgently because it is expiring before our holiday, so is there any fast-track service available, and how many days will it take to get the new one in my hand?",
+    "reference": "My British passport expires before we go — is there a fast-track service?",
+    "targets": [
+      "British passport"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "We don't want to stay in a big hotel this time, we want something small and homely, where they give a nice breakfast in the morning, and the owner is friendly and gives us some local tips.",
+    "reference": "We'd rather a cosy B&B than a big hotel this time.",
+    "targets": [
+      "B&B"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "Is it better to change the money here in the UK before going, or is it better to take it out from the ATM there when we reach, because which option will give us a better exchange rate?",
+    "reference": "Is it better to change money here or use cashpoints there?",
+    "targets": [
+      "cashpoint"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "We have hired one cottage in the countryside for the full week, and it has its own kitchen and everything, so we will cook our own food there and only sometimes eat out in the village pub.",
+    "reference": "We've got a self-catering cottage for the week, so we'll mostly cook in.",
+    "targets": [
+      "self-catering",
+      "cottage"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "Our friends invited us to come and stay with them in Scotland for a few days, but we don't want to trouble them too much, so we are thinking to stay in some hotel nearby and just visit them.",
+    "reference": "Friends in Scotland offered to put us up, but we'll book nearby rather than impose.",
+    "targets": [
+      "put up"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "On the way to the airport, can we stop somewhere for breakfast, because the flight is very early and we will not get time to eat at home, maybe at those big food stops on the highway?",
+    "reference": "Shall we stop at the motorway services for breakfast on the way?",
+    "targets": [
+      "motorway services"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "We wanted to know whether it is safe to swim in the sea at this beach, because there are no lifeguards and the waves are looking quite big today, and the children are very excited to go in.",
+    "reference": "Is it safe to swim off the seafront today? The waves look big and there's no lifeguard.",
+    "targets": [
+      "seafront"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "The whole week it rained continuously, every single day, we could not go to the beach even once, we just stayed in the caravan playing cards, so honestly the holiday was totally spoiled.",
+    "reference": "It poured all week — stuck in the caravan. A total washout.",
+    "targets": [
+      "caravan",
+      "washout"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "Yes, the holiday was really very good, we enjoyed a lot, the weather was nice, the food was very tasty, and the kids made many friends, so overall it was a very memorable and fun time for all.",
+    "reference": "We had a whale of a time — great weather, great food, and the kids made friends.",
+    "targets": [
+      "have a whale of a time"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "Before going on the holiday we need to take some insurance for travel, because last year my friend got sick abroad and the hospital bill was very high, so it is very important to have it.",
+    "reference": "We must get travel insurance — a friend fell ill abroad last year.",
+    "targets": [
+      "abroad"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "We are going to the coast for the day on Sunday, nothing big, just walk on the pier, eat fish and chips and some ice cream, so if you are free you can also come along with us.",
+    "reference": "We're having a day out at the seaside on Sunday — fancy coming?",
+    "targets": [
+      "day out",
+      "the seaside"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "The children are getting their school holidays next week, one week break in October, so we are thinking of going somewhere nearby, but all the prices have become double during this time.",
+    "reference": "It's half-term next week and prices have doubled — typical.",
+    "targets": [
+      "half-term",
+      "typical"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "Should we hire one car there or should we use the public transport only? Because the villages are quite far from each other and the buses are not very frequent in that area, as per my research.",
+    "reference": "Should we get car hire? The buses out there are few and far between.",
+    "targets": [
+      "car hire",
+      "few and far between"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "We are going on a holiday on a long boat on the canals for one full week, where we will stay on the boat itself and drive it slowly through the countryside, it is very relaxing apparently.",
+    "reference": "We're spending a week on a narrowboat on the canals.",
+    "targets": [
+      "narrowboat"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "We went to stay with my wife's parents for the holiday, but my father-in-law was also taking me to his office to help with some work, so it was not really a holiday for me at all.",
+    "reference": "Staying with the in-laws was a busman's holiday — I ended up helping at his work.",
+    "targets": [
+      "a busman's holiday"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "The flight is at six in the morning, so we have to leave the house at three o'clock, which means we will hardly sleep, but anyway we will sleep in the plane, it is only about this one day.",
+    "reference": "It's a 6 a.m. flight, so we're leaving at three — we'll nod off on the plane.",
+    "targets": [
+      "nod off"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "See, I am a student travelling on a very small budget, so I am looking for the cheapest places to stay, like the shared dorm rooms, and I don't mind basic facilities as long as it is clean and safe.",
+    "reference": "I'm travelling on a shoestring, so a clean youth hostel will do.",
+    "targets": [
+      "on a shoestring",
+      "youth hostel"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "travel and holidays",
+    "verbose": "I am feeling very jealous honestly, because you are going for a holiday to the beach and I am stuck here in the rain with all my office work, but anyway, enjoy yourself, and send me photos.",
+    "reference": "Lucky you — I'm stuck here in the drizzle. Have a lovely time!",
+    "targets": [
+      "drizzle"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "Hi, actually I am the mother of Olivia's classmate, and I was wondering whether your son would like to come to our house to play some time after school, maybe this Friday, if you are free?",
+    "reference": "Hi, I'm Ava's mum — would your son like to come round to play on Friday?",
+    "targets": [
+      "come round"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "Is tomorrow the school holiday? Because my son told me that the teachers are having some training day and the children don't have to come, but I didn't get any letter or message about that.",
+    "reference": "Is tomorrow an INSET day? My son says so, but I've not seen a letter.",
+    "targets": [
+      "INSET day"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "I cannot come to pick up my daughter from school today because my meeting is running late in the office, so can you please take her with you, and I will collect her from your house by six?",
+    "reference": "Stuck at work — could you take Lily home? I'll grab her by six. You're a star.",
+    "targets": [
+      "you're a star"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "When is the meeting with the teachers this term where they tell us about the child's progress, because last time I missed it due to some work and I don't want to miss it again this time?",
+    "reference": "When's parents' evening this term? I missed the last one.",
+    "targets": [
+      "parents' evening"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "Our school is collecting money for the summer fair, and they are asking every parent to give some small amount, so I am going around and collecting from everyone, can you please contribute something?",
+    "reference": "We're collecting for the summer fair — could you chip in?",
+    "targets": [
+      "chip in"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "My son has forgotten his lunch box at home today, so I am bringing it now to the school office, can you please give it to him before the lunch time, he is in year three, the blue class?",
+    "reference": "I've come to drop off my son's lunch — he's in Year 3.",
+    "targets": [
+      "drop off"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "It is raining heavily today, so are they going to keep the children inside during the break time, or they will still send them outside in the playground, because my daughter has a cold?",
+    "reference": "Will they keep the kids in at break time? Mia's got a cold.",
+    "targets": [
+      "break time"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "I heard that the teacher of our children is leaving the school at the end of this term, is it true, because my daughter is very upset after hearing this news from her friends yesterday?",
+    "reference": "Is it true their teacher's leaving at the end of term? Grace is quite upset.",
+    "targets": [
+      "term"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "Do you know what is the homework for this weekend? Because my son is telling he doesn't have any, but I think he is lying to me, and he has the same teacher as your daughter, no?",
+    "reference": "Sam swears he's got no homework, but I smell a rat — has yours?",
+    "targets": [
+      "smell a rat"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "We are organising one surprise gift for the teacher from all the parents of the class at the end of the year, so if you want to join, please give five pounds by Friday to me.",
+    "reference": "We're doing a class collection for the teacher — a fiver by Friday, if you're in?",
+    "targets": [
+      "fiver"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "My son is not being chosen in the school football team every time, and he is coming home crying, so I don't know whether I should speak to the sports teacher about it or just leave it, because I don't want to make it a big issue.",
+    "reference": "Ollie keeps being left out of the team — should I mention it to the PE teacher?",
+    "targets": [
+      "PE"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "Can we share the school pick up and drop, like I will take both kids on Monday, Wednesday, Friday, and you can do Tuesday and Thursday, so that it is easier for both of us?",
+    "reference": "Shall we share the school run? I'll do three days if you do two.",
+    "targets": [
+      "school run"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "There was some fight in the playground between my son and another boy, and now I am worried that the other parents will think badly of us, but honestly it was a very small fight only.",
+    "reference": "There was a scuffle at playtime, but honestly it's a storm in a teacup.",
+    "targets": [
+      "playtime",
+      "a storm in a teacup"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "Which secondary school are you applying for your daughter, because we are very confused, both the schools near us have good reviews, but one is very far and the bus is not direct.",
+    "reference": "Which secondary school are you putting down? We're torn between the two.",
+    "targets": [
+      "secondary school"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "Their class is going on the school trip to the science museum next week, and they need some parents to come as helpers, so I was thinking whether you would like to volunteer along with me?",
+    "reference": "They need parent helpers for the museum trip — fancy volunteering with me?",
+    "targets": [
+      "fancy"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "The head of the school sent a letter saying the uniform rules are now very strict, no colourful shoes and no jewellery, so I need to go and buy new black shoes for him again, it is very costly.",
+    "reference": "The head teacher's cracking down on uniform, so it's new black shoes again.",
+    "targets": [
+      "head teacher"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "Honestly, I am feeling that the children are getting too much homework these days, every day two or three hours, they don't get any time to play, so I think we should talk to the school about it.",
+    "reference": "Hours of homework a night is a lot — shall we bring it up with the school?",
+    "targets": [
+      "bring up"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "My daughter wants to invite your son to her birthday party next Saturday at the soft play place, from two to four, and I will send the invitation card through the school bag also, so kindly confirm whether he is coming or not.",
+    "reference": "Rosie's party is Saturday, two till four — do let me know if Jack can come.",
+    "targets": [
+      "do let me know"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "Where are you sending your son for the after-school care, because my work timings are changing and I will need someone to look after my daughter till six in the evening every day?",
+    "reference": "Who does your son go to after school? I need a childminder till six.",
+    "targets": [
+      "childminder"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "Is the school closing early today because of the snow? Somebody in the parents' group chat said they are sending the children home at one o'clock, but there is no official message yet from the school office, so I don't know whether to believe it or not.",
+    "reference": "The group chat says school shuts at one — take that with a pinch of salt.",
+    "targets": [
+      "pinch of salt"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "Exams are coming next year for my son, the big important ones, and I am thinking whether we should get him one private teacher for maths, because he is struggling a little bit.",
+    "reference": "Josh is struggling with maths before his GCSEs — should we get a tutor?",
+    "targets": [
+      "GCSEs",
+      "maths"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "Their nativity play is next Thursday afternoon and my son is acting as one of the shepherds, so we need to make a costume at home, do you have any idea what we can use for that?",
+    "reference": "Theo's a shepherd in the nativity play — any ideas for a homemade costume?",
+    "targets": [
+      "nativity play"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "Your daughter is so good at reading, she is reading such big books at this young age, I am so impressed, what are you doing at home, please tell me the secret, my son is not interested at all.",
+    "reference": "Your daughter's reading is ever so advanced — what's your secret?",
+    "targets": [
+      "ever so"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "My son's school report is showing that his behaviour in class is not good, he is talking too much and disturbing others, so I think I need to tell him strictly to improve and focus.",
+    "reference": "His report says he chats in class — he needs to pull his socks up.",
+    "targets": [
+      "pull your socks up"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "All the other mothers are going for coffee after the drop-off this morning to that new café near the school, so do you want to join us, it will be nice to know each other properly?",
+    "reference": "A few of us are popping to the new café — want to come?",
+    "targets": [
+      "pop"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "Tomorrow is the dress-up day at school, they all have to come as a book character, and I completely forgot about it, so now I have to make something tonight only from whatever is there at home.",
+    "reference": "I forgot it's World Book Day tomorrow — I'll throw a costume together tonight.",
+    "targets": [
+      "throw together"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "Every morning there is a big traffic jam outside the school gate because parents are stopping their cars on the zigzag lines, and it is very dangerous for the children crossing the road.",
+    "reference": "Parents stopping on the zigzags means the lollipop lady can't see the kids.",
+    "targets": [
+      "lollipop lady"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "I don't want to complain or anything, but is your son also saying that the new teacher is shouting a lot in class, because my daughter is a little bit scared to go to school these days?",
+    "reference": "Not to make a mountain out of a molehill, but has Noah mentioned the teacher shouting?",
+    "targets": [
+      "make a mountain out of a molehill"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "My son needs to give one important exam called eleven plus for the grammar school, so do you know any good coaching class or tutor in this area who prepares children for this exam?",
+    "reference": "Do you know a good tutor for the eleven-plus?",
+    "targets": [
+      "eleven-plus"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "school gates",
+    "verbose": "Sorry, my son was very rude to your daughter yesterday in the playground, I came to know from the teacher, and I have spoken to him strictly at home, and he will apologise to her today.",
+    "reference": "So sorry Leo was rude to Amelia — I've told him off, and he'll apologise.",
+    "targets": [
+      "tell off"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "Hey, what are you doing this weekend? Are you free on Saturday evening? Because some of us are planning to go out for dinner and drinks, and I was thinking you should also come along with us.",
+    "reference": "Are you about on Saturday? A few of us are going out — fancy it?",
+    "targets": [
+      "go out"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "I am really very sorry, I cannot come tonight after all, because something urgent has come up at home and I have to stay with my mother, I hope you all have a very nice time without me.",
+    "reference": "Really sorry, something's cropped up with Mum, so I can't make it tonight. Have a good one!",
+    "targets": [
+      "crop up",
+      "have a good one"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "That new restaurant you suggested, honestly, I don't mind either way, if you want to go there we can go there, or anywhere else you prefer, I am fine with anything, you just decide.",
+    "reference": "I'm easy — you choose.",
+    "targets": [
+      "I'm easy"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "Yesterday at the party I accidentally told Sophie about the surprise trip her husband was planning for her birthday, I didn't know it was a secret, and now everybody is very angry with me, and her husband is not even talking to me properly.",
+    "reference": "I let the cat out of the bag about Sophie's trip — I'm in the doghouse.",
+    "targets": [
+      "let the cat out of the bag",
+      "in the doghouse"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "My best friend is getting married next year, and he asked me to arrange the bachelor party, so I am thinking to take all the boys for one weekend to some city with good nightlife.",
+    "reference": "I'm organising Tom's stag do — thinking a weekend away somewhere lively.",
+    "targets": [
+      "stag do"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "Oh my god, I am so tired, I have been running around the whole day doing shopping and cleaning and cooking for the party, I cannot even stand now, I just want to sit and sleep.",
+    "reference": "I'm absolutely knackered — I've been on my feet all day.",
+    "targets": [
+      "knackered"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "Did you hear the news? Emma and her boyfriend have broken up after five years together, I just heard from her sister, I am very shocked, I thought they will definitely get married.",
+    "reference": "Emma and her boyfriend have split up after five years — I'm gobsmacked.",
+    "targets": [
+      "split up",
+      "gobsmacked"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "I really wanted to get the tickets for that concert next month, but they got sold out within ten minutes, I was trying since morning, and I am feeling so sad and disappointed now.",
+    "reference": "The concert sold out in ten minutes — I'm gutted.",
+    "targets": [
+      "gutted"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "I passed my driving test today on the first attempt only, I can't believe it, I was so nervous, but the examiner said I drove very well, and I am feeling so happy and proud of myself.",
+    "reference": "I passed my driving test first time — I'm chuffed to bits!",
+    "targets": [
+      "driving test",
+      "chuffed"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "I don't have any money left this month after paying the rent and all the bills, so I cannot come for the weekend trip, sorry, maybe next time when my salary comes I will definitely join.",
+    "reference": "I'm skint till payday, so I'll sit this trip out — next time!",
+    "targets": [
+      "skint"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "Okay, let me tell you about my date last night, it was really good actually, we talked for hours and he was very funny and kind, and we have decided to meet again next week also.",
+    "reference": "Last night's date went really well — we're meeting up again next week.",
+    "targets": [
+      "meet up"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "family",
+    "verbose": "My sister's family is coming to stay with us for the whole Christmas week, three adults and three small children, so our small house will be totally full, there will be no space to move even.",
+    "reference": "My sister's lot are staying over Christmas — there'll be no room to swing a cat.",
+    "targets": [
+      "no room to swing a cat"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "family",
+    "verbose": "My parents are coming for Sunday lunch this week, so I am thinking to make the full roast chicken with potatoes and vegetables and gravy, the proper traditional British way, like they like it.",
+    "reference": "My parents are coming for Sunday lunch, so I'm doing a proper roast.",
+    "targets": [
+      "proper"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "Should we do something on Friday night? I am getting bored sitting at home every weekend, so I want to go out and have some fun, maybe go dancing or something like that, what do you think?",
+    "reference": "Let's go out on Friday and let our hair down — I'm going stir-crazy.",
+    "targets": [
+      "let your hair down"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "You know that guy who is working at the café near my house, he is very friendly and very helpful always, he remembers everyone's order, he is a really good and nice person.",
+    "reference": "The bloke at my local café is lovely — remembers everyone's order.",
+    "targets": [
+      "bloke"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "family",
+    "verbose": "I am not able to understand why my brother is always arguing with me at family functions, every time he says something irritating, and then the whole evening is spoiled for everyone.",
+    "reference": "My brother always winds me up at family dos and ruins the evening.",
+    "targets": [
+      "wind up",
+      "do"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "Did you see the match last night? Our team lost very badly, five-nil, I could not believe it, I was so angry, I switched off the TV in the second half itself.",
+    "reference": "Five-nil last night — I was fuming and switched off at half-time.",
+    "targets": [
+      "fuming",
+      "half-time"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "Can I stay at your place tonight? I missed the last train and I don't have money for a taxi, so I will sleep on the sofa only, and I will leave early in the morning, I promise.",
+    "reference": "I've missed the last train — could I kip on your sofa?",
+    "targets": [
+      "kip"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "I am going to the shop now to buy some things for dinner, so do you need anything from there, like milk or bread or something, because I can bring it for you also on my way back.",
+    "reference": "I'm nipping to the shops — need anything?",
+    "targets": [
+      "nip to the shops"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "Actually I invited you for dinner, so please don't pay, I will pay the full bill today, and you can pay next time when we meet, it is my treat for your promotion, seriously.",
+    "reference": "Put your money away — my shout. Congrats on the promotion!",
+    "targets": [
+      "my shout"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "Did you see what Jack posted online? I mean, he is always showing off his new car and holidays and expensive watches, it is too much, I don't like that type of behaviour at all.",
+    "reference": "Jack's always blowing his own trumpet online.",
+    "targets": [
+      "blow your own trumpet"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "She is always complaining about everything, the weather, her job, her husband, everything, and I cannot listen to it anymore, because every time we meet, she is complaining continuously.",
+    "reference": "She's forever having a moan about something.",
+    "targets": [
+      "moan"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "Bro, the movie we watched yesterday was totally boring and stupid, the story was very weak, and the acting was also very bad, I really wasted my money and time on that one.",
+    "reference": "That film last night was absolute pants.",
+    "targets": [
+      "pants"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "Do you remember we used to go to that small café near the college every day? I was in that area yesterday and I saw it is still there, same owner, same menu, it brought back so many memories.",
+    "reference": "I walked past our old college café yesterday — not been in for donkey's years.",
+    "targets": [
+      "donkey's years"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "I am so sorry that I forgot your birthday yesterday, I was very busy with work and completely lost track of the dates, so please don't be angry, I will take you out for dinner to make up.",
+    "reference": "So sorry I forgot your birthday — let me make up for it with dinner.",
+    "targets": [
+      "make up for"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "Are you coming to the barbecue on Sunday? Everybody is bringing something, so maybe you can bring some drinks or a salad or dessert, whatever is easy for you to bring, no pressure.",
+    "reference": "Coming to the barbecue on Sunday? Bring a bottle or a salad.",
+    "targets": [
+      "bring a bottle"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "She was looking so beautiful at the wedding, honestly, the dress, the hair, the makeup, everything was perfect, and everybody was looking at her only throughout the whole function.",
+    "reference": "She looked stunning at the wedding — dressed to the nines.",
+    "targets": [
+      "dressed to the nines"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "My husband is having just a small cold, nothing serious, but he is lying in bed the whole day and acting like he is very seriously ill, you know how men are, so dramatic.",
+    "reference": "He's got a sniffle and he's acting like it's the end — classic man flu.",
+    "targets": [
+      "man flu"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "Hey, how are you doing? Long time no see, what is going on in your life these days, everything good, how is the job and the family, tell me everything properly, I want to know.",
+    "reference": "Hiya! Long time no see — how's it going?",
+    "targets": [
+      "hiya",
+      "how's it going?"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "Yes, yes, definitely I will come with you for the cinema and dinner, I am totally free tonight, so please include me in the plan and tell me the time and place where I should meet you all.",
+    "reference": "Count me in — what time and where?",
+    "targets": [
+      "count me in"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "Last night I was telling you something important, but you were not listening at all, you were looking at your phone the whole time, it was very rude, honestly, I felt very bad.",
+    "reference": "You were glued to your phone all night — I was a bit miffed.",
+    "targets": [
+      "miffed"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "We should all meet up properly one of these days, it has been so long, and everybody is so busy, so let us fix a date now only, otherwise it will never happen, as usual.",
+    "reference": "Let's pencil in a date now, or it'll never happen.",
+    "targets": [
+      "pencil in"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "Honestly my flatmate is so irritating these days, she leaves dirty dishes everywhere and plays music loudly late at night, and she never cleans the bathroom, I am really getting frustrated.",
+    "reference": "My flatmate's doing my head in — dishes everywhere, music till all hours.",
+    "targets": [
+      "do someone's head in",
+      "flatmate"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "family",
+    "verbose": "My grandmother is turning ninety next month, so the whole family is planning one big party for her, all the cousins are coming from different cities, and it will be a very big celebration.",
+    "reference": "Nan turns ninety next month — the whole family's throwing her a big knees-up.",
+    "targets": [
+      "nan",
+      "knees-up"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "Yesterday I was walking in the market and suddenly I met my old school friend whom I have not seen for fifteen years, it was such a surprise, we went for coffee and talked for hours.",
+    "reference": "I bumped into an old school mate after fifteen years — we chatted for hours.",
+    "targets": [
+      "bump into",
+      "mate"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "gym and clubs",
+    "verbose": "I want to join the gym, but before that I want to know the monthly fees, and whether there is any joining fee extra, and also can I cancel anytime or there is some fixed contract period?",
+    "reference": "What's the monthly fee, and is there a notice period if I cancel?",
+    "targets": [
+      "notice period"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "gym and clubs",
+    "verbose": "Basically I want to freeze my gym membership for two months because I am going abroad for work, so I don't want to pay for those months when I am not using it, is that possible for you?",
+    "reference": "Can I freeze my membership for two months while I'm abroad?",
+    "targets": [
+      "abroad"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "gym and clubs",
+    "verbose": "I have not been to the gym for almost six months now, I have become very lazy, but from next Monday onwards I am definitely going to start again and also eat only healthy food.",
+    "reference": "Six months without the gym — I'm turning over a new leaf on Monday.",
+    "targets": [
+      "turn over a new leaf"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "gym and clubs",
+    "verbose": "Excuse me, are you using this machine, or can I use it now? Because I see your towel on it, but you are sitting there on the phone since fifteen minutes, so I thought I will ask.",
+    "reference": "Do you mind if I jump on this? You've been on your phone a while.",
+    "targets": [
+      "do you mind if"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "gym and clubs",
+    "verbose": "I want to join one local running group, something friendly for beginners, where people run together on the weekends, not very serious or competitive, just for fun and fitness and meeting people.",
+    "reference": "I'm after a friendly beginners' run — maybe parkrun?",
+    "targets": [
+      "parkrun"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "gym and clubs",
+    "verbose": "The personal trainer is making me do so many exercises that my whole body is paining since two days, I cannot even climb the stairs properly, it is too much, honestly speaking.",
+    "reference": "I'm completely worn out — my trainer's had me aching for two days.",
+    "targets": [
+      "worn out"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "gym and clubs",
+    "verbose": "Our five-a-side football team needs one more player for the Thursday evening matches, because one guy has injured his ankle, so are you interested, it is very casual only, nothing serious?",
+    "reference": "Our five-a-side team's a player short — are you up for it?",
+    "targets": [
+      "five-a-side",
+      "up for"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "gym and clubs",
+    "verbose": "The changing room showers are always cold in the evenings, and the lockers are also broken, so for this much monthly fee, I think the facilities should be much better than this.",
+    "reference": "Cold showers and broken lockers — not great for the price.",
+    "targets": [
+      "not great"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "gym and clubs",
+    "verbose": "Honestly, I am thinking to join the book club in the library, but I am a little bit worried that everyone will be very intelligent and I will not be able to speak anything clever about the books.",
+    "reference": "I fancy the library book club, but I'd feel like a fish out of water.",
+    "targets": [
+      "like a fish out of water"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "gym and clubs",
+    "verbose": "Can I bring one friend with me to the gym for one day only, just to try, because she is thinking about joining, so is there any guest pass or free trial day available for her?",
+    "reference": "Is it alright if I bring a friend for a trial session?",
+    "targets": [
+      "is it alright if"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "gym and clubs",
+    "verbose": "We have the tennis club annual dinner next month, and they are asking everyone to wear formal clothes, like suit and tie for men and long dress for ladies, it is very fancy.",
+    "reference": "The tennis club dinner next month is black tie.",
+    "targets": [
+      "black tie"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "gym and clubs",
+    "verbose": "I am the treasurer of our local cricket club, and the membership fees have not been paid by many members this year, so I have to remind them again and again, it is very tiring.",
+    "reference": "As club treasurer, I'm forever chasing up unpaid subs.",
+    "targets": [
+      "chase up"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "gym and clubs",
+    "verbose": "I have been going to the gym regularly for three months, but I am not seeing any difference in my body or weight, so I am thinking maybe I should change my routine or diet.",
+    "reference": "Three months of gym and no change — back to the drawing board.",
+    "targets": [
+      "back to the drawing board"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "gym and clubs",
+    "verbose": "I heard there is one drama group in the village hall, so do they take anybody, or there is some audition first, because I acted in college long back, but nothing after that, so I am rusty.",
+    "reference": "Does the village am-dram group audition? I've not acted since college.",
+    "targets": [
+      "am-dram"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "gym and clubs",
+    "verbose": "The swimming lessons for my son at the leisure centre are full for this term, so is there any waiting list where I can put his name, or should I check again next term?",
+    "reference": "The leisure centre swimming lessons are full — is there a waiting list?",
+    "targets": [
+      "leisure centre",
+      "waiting list"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "gym and clubs",
+    "verbose": "I am not able to come for the badminton practice tonight, sorry, because I am feeling very weak and tired, I think I have caught some viral fever, so I will stay at home and rest.",
+    "reference": "Sorry, I'll miss badminton tonight — I'm feeling under the weather.",
+    "targets": [
+      "under the weather"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "gym and clubs",
+    "verbose": "Our walking group is going on a long hike in the Peak District this Sunday, about fifteen miles, so if you are interested to come, wear proper shoes and bring a raincoat and lunch.",
+    "reference": "Fifteen miles in the Peaks on Sunday — bring boots, a cagoule and lunch.",
+    "targets": [
+      "cagoule"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "gym and clubs",
+    "verbose": "I was trying to cancel my gym membership online, but the website is not allowing me, they are saying I have to come in person and fill one form, it is very complicated just for cancelling.",
+    "reference": "Cancelling my gym's a palaver — I have to go in and fill in a form.",
+    "targets": [
+      "palaver",
+      "fill in"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "gym and clubs",
+    "verbose": "Shall we play one game of tennis this Saturday morning in the park? I have not played since a long time, so I will be very rusty, please don't laugh if I play very badly.",
+    "reference": "Are you up for tennis on Saturday? I'm rusty, so go easy.",
+    "targets": [
+      "up for"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "gym and clubs",
+    "verbose": "Excuse me, there is one man who is not wiping the machines after using them, and he is leaving sweat everywhere, it is very unhygienic, so can you please remind him about the rules?",
+    "reference": "Sorry to be a pain, but someone's not wiping down the machines.",
+    "targets": [
+      "sorry to be a pain"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "gym and clubs",
+    "verbose": "The football club is selling tickets for the full season for all home matches, it is much cheaper than buying each match ticket separately, so I am thinking to buy for me and my son.",
+    "reference": "I'm thinking of season tickets for me and my son — much cheaper.",
+    "targets": [
+      "season ticket"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "gym and clubs",
+    "verbose": "My knee is paining a bit after the running yesterday, so should I still do the leg exercises today, or should I rest for some days first, what do you suggest as a trainer?",
+    "reference": "My knee's a bit sore after yesterday's run — should I skip legs today?",
+    "targets": [
+      "a bit"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "gym and clubs",
+    "verbose": "My daughter wants to join the children's choir at the community centre, the one with the concerts and uniforms and all, so do you know how to sign up and whether there is a long waiting list in this area?",
+    "reference": "Lucy's keen to join the children's choir — is there a long waiting list?",
+    "targets": [
+      "keen",
+      "waiting list"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "pubs",
+    "verbose": "Hey, are you coming to the pub after the match on Saturday like usual? All the team members are going, and it will be fun, last time we stayed till very late, remember?",
+    "reference": "Coming to the pub after the match on Saturday? The whole team's going.",
+    "targets": [
+      "the pub",
+      "match"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "friends",
+    "verbose": "At the gym today one man was showing off lifting heavy weights and making loud noises, everybody was looking at him, honestly, he was making a big show of himself for nothing.",
+    "reference": "Some bloke at the gym was showing off — all mouth and no trousers.",
+    "targets": [
+      "bloke",
+      "all mouth and no trousers"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "deliveries",
+    "verbose": "Hello, I got a message saying my parcel was delivered today afternoon, but I have been at home the whole day and nobody came to the door, and I cannot find the parcel anywhere outside.",
+    "reference": "My parcel's marked as delivered, but I've been in all day and there's nothing.",
+    "targets": [
+      "parcel"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "deliveries",
+    "verbose": "The delivery man left a card saying he tried to deliver but nobody was at home, but actually I was at home only, he did not even ring the bell, he just put the card in the letterbox.",
+    "reference": "He's put a card through the letterbox without even knocking — I was in.",
+    "targets": [
+      "letterbox"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "deliveries",
+    "verbose": "Can you please leave the parcel with my neighbour at number fourteen if I am not at home, or else you can keep it behind the bin in the side garden, it will be safe there.",
+    "reference": "If I'm out, please leave it with number fourteen or behind the wheelie bin.",
+    "targets": [
+      "wheelie bin"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "deliveries",
+    "verbose": "I ordered the groceries online for delivery between six and seven in the evening, but it is already eight now and nobody has come, and nobody is picking up the phone in customer care.",
+    "reference": "Is my shopping running late? It was due at six and no one's answering.",
+    "targets": [
+      "run late"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "deliveries",
+    "verbose": "The box arrived today, but when I opened it, the glass vase inside was completely broken into pieces, and the packing was very poor, so I want a replacement or a refund immediately.",
+    "reference": "The vase arrived in pieces — the packaging was rubbish. Replacement or refund, please.",
+    "targets": [
+      "rubbish"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "deliveries",
+    "verbose": "Hi, I am the delivery driver, I have one parcel for your neighbour who is not at home, so can you please accept it on her behalf and give it to her when she comes back in the evening?",
+    "reference": "Would you mind taking a parcel in for next door?",
+    "targets": [
+      "would you mind"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "deliveries",
+    "verbose": "Actually, the parcel needs a signature, and I will not be at home tomorrow because of office, so can I collect it from the depot instead, or can you deliver it on Saturday?",
+    "reference": "It's recorded delivery and I'm out tomorrow — can I collect from the depot?",
+    "targets": [
+      "recorded delivery"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "deliveries",
+    "verbose": "The courier has thrown my parcel over the gate into the garden, and it has been raining since morning, so now the box is completely wet and the books inside are also spoiled, so I am really very upset about this.",
+    "reference": "My parcel was left in the front garden in the rain — the books are ruined.",
+    "targets": [
+      "front garden"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "deliveries",
+    "verbose": "I want to know the exact time of the delivery tomorrow, because the website is showing only between eight in the morning and six in the evening, and I cannot stay at home whole day waiting.",
+    "reference": "Any chance you could narrow down tomorrow's slot? I can't wait in all day.",
+    "targets": [
+      "any chance you could"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "deliveries",
+    "verbose": "I need to return this item, so do I have to print the label at home and go to the post office, or will some courier person come and collect it from my house directly?",
+    "reference": "Do I drop off the return at the post office, or will a courier collect?",
+    "targets": [
+      "drop off",
+      "post office"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "deliveries",
+    "verbose": "We ordered the food one hour ago, and the app is showing that the driver is still at the restaurant, so we are very hungry now, can you please check what is happening with our order?",
+    "reference": "We ordered an hour ago and the driver's still at the restaurant — what's the hold-up?",
+    "targets": [
+      "hold up"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "deliveries",
+    "verbose": "The order came, but they have missed one item, the garlic naan is not there, and also they have sent chicken curry instead of lamb, so the order is totally wrong, and I want a refund.",
+    "reference": "The order was shambolic — no garlic naan, and chicken instead of lamb.",
+    "targets": [
+      "shambolic"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "deliveries",
+    "verbose": "The furniture people are coming to deliver the wardrobe tomorrow, but our flat is on the third floor and the building has no lift, so please inform them to bring two people to carry it.",
+    "reference": "We're third floor, no lift — they'll need two people for the wardrobe.",
+    "targets": [
+      "lift",
+      "wardrobe"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "deliveries",
+    "verbose": "Can you please not ring the doorbell when you come, because my baby will be sleeping at that time, so just knock softly or send me a message, and I will come down and collect it.",
+    "reference": "Please don't ring the bell — the baby's asleep. Just text me.",
+    "targets": [
+      "ring"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "deliveries",
+    "verbose": "I keep missing my parcels because I am at work in the daytime, so is there any option that I can get them delivered to a pickup point or locker near the station instead of home?",
+    "reference": "I'm never in by day — could I pick up parcels from a station locker?",
+    "targets": [
+      "pick up"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "deliveries",
+    "verbose": "The milkman has stopped delivering milk to our house from last week without giving any information, and we have paid for the whole month in advance, so what happened, why is he not coming?",
+    "reference": "We've paid for the month, but the milk's stopped turning up.",
+    "targets": [
+      "turn up"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "deliveries",
+    "verbose": "Thank you so much for carrying the heavy boxes all the way up to the fourth floor, I know there is no lift and it was very difficult for you, I really appreciate your effort, thank you.",
+    "reference": "Thanks so much for lugging those up four flights — much appreciated.",
+    "targets": [
+      "much appreciated"
+    ]
+  },
+  {
+    "domain": "social",
+    "category": "family",
+    "verbose": "I don't feel like cooking tonight, I am very tired, so let us just order something from outside, maybe Indian or Chinese or pizza, whatever you feel like eating, I am fine with anything.",
+    "reference": "Can't be bothered to cook — shall we get a takeaway? I'm easy.",
+    "targets": [
+      "can't be bothered",
+      "I'm easy"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "deliveries",
+    "verbose": "Your app says that the delivery was handed to resident, but I live alone and I was not even at home, so who signed for it, and where is my parcel now, this is a very serious matter.",
+    "reference": "It says \"handed to resident\", but I live alone and was out — I smell a rat.",
+    "targets": [
+      "smell a rat"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "deliveries",
+    "verbose": "The supermarket delivery has replaced the items I ordered with some other brands which I don't like, without asking me, so I want to reject these substitutions and get the money back.",
+    "reference": "I won't be fobbed off with substitutions — I'd like a refund.",
+    "targets": [
+      "fob off"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "post office",
+    "verbose": "I want to send this parcel to my brother in Birmingham, and it is very important documents inside, so I want some proof that it is delivered and that he has signed for it.",
+    "reference": "Recorded delivery to Birmingham, please — it's important paperwork.",
+    "targets": [
+      "recorded delivery"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "post office",
+    "verbose": "How much is one stamp for sending a normal letter, but I want it to reach tomorrow itself if possible, not the slow one, because it is a birthday card for my mother.",
+    "reference": "A first-class stamp, please — it's a birthday card for Mum.",
+    "targets": [
+      "first-class stamp"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "post office",
+    "verbose": "I want to send this small packet to India, it has some sweets and clothes for my family, so how much will it cost and how many days it will take to reach there approximately?",
+    "reference": "How much to post this parcel to India, and how long will it take?",
+    "targets": [
+      "parcel"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "post office",
+    "verbose": "Where is the nearest post box from here? Because I have one letter to post and I don't want to stand in this long queue just for one letter, it will take half an hour.",
+    "reference": "Where's the nearest postbox? I don't want to queue for one letter.",
+    "targets": [
+      "postbox",
+      "queue"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "post office",
+    "verbose": "I received a card that my parcel is waiting at the post office because I was not at home, so I have brought the card and my ID, can you please give me my parcel?",
+    "reference": "There you go — my card and ID. I've a parcel to collect.",
+    "targets": [
+      "there you go"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "post office",
+    "verbose": "Can I renew my car tax and pay my bills here at the post office, or only letters and parcels, because my friend told me that they do many other services also these days?",
+    "reference": "Can I pay road tax here, or is it just post?",
+    "targets": [
+      "road tax"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "post office",
+    "verbose": "I need to withdraw some cash from my bank account here, because the cash machine outside is not working, and the bank branch in our town has closed down permanently last year.",
+    "reference": "The cash machine outside's broken — can I withdraw cash here?",
+    "targets": [
+      "cash machine"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "post office",
+    "verbose": "Is the post office open on Sunday also, or only Saturday half day, because I am working full week and I can come only on weekends, so I wanted to confirm the timings once.",
+    "reference": "What are your weekend opening hours? I work all week.",
+    "targets": [
+      "opening hours"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "post office",
+    "verbose": "Please wait, I have to stick these stamps on all the envelopes, there are thirty wedding invitations, so it will take some time, you can serve the next person in the meantime.",
+    "reference": "Thirty invitations to stamp — do serve the next person while I crack on.",
+    "targets": [
+      "crack on"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "post office",
+    "verbose": "I sent a parcel two weeks back to my friend in Scotland, but still she has not received it, and the tracking is also not updating since many days, so can you please find out where it is?",
+    "reference": "A parcel I sent to Scotland a fortnight ago hasn't arrived. Could you look into it?",
+    "targets": [
+      "look into"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "post office",
+    "verbose": "Sorry, I am a little bit confused, which form I have to fill for sending this parcel abroad, the customs form, and do I need to write the value of each item separately also?",
+    "reference": "Which customs form do I fill in for abroad? Do I list each item?",
+    "targets": [
+      "fill in"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "post office",
+    "verbose": "The queue in the post office was so long today, there were only two counters open and twenty people waiting, and I stood there for forty-five minutes just to post one parcel.",
+    "reference": "Forty-five minutes in the post office queue — with two counters open!",
+    "targets": [
+      "post office",
+      "queue"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "post office",
+    "verbose": "Hello, I want to redirect all my post from my old address to my new address for some months, because I have moved house and some letters are still going to the old house.",
+    "reference": "I've moved house — can I set up mail redirection from my old address?",
+    "targets": [
+      "move house"
+    ]
+  },
+  {
+    "domain": "everyday",
+    "category": "post office",
+    "verbose": "Do you sell those padded envelopes and boxes here, because I want to send one small fragile item, and I don't have proper packing material at home, so I want to buy some.",
+    "reference": "Do you sell padded envelopes? I need to post something fragile.",
+    "targets": [
+      "post"
+    ]
+  }
+]

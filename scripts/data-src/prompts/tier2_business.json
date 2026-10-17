@@ -1,0 +1,3621 @@
+[
+  {
+    "domain": "finance",
+    "category": "forecast",
+    "verbose": "Actually what I wanted to tell you is that the forecast numbers which we are giving are not final final, they are just tentative numbers only, and they may change again once the actual figures come in next week.",
+    "reference": "These forecast figures are provisional — they may change once next week's actuals come in.",
+    "targets": [
+      "provisional"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "budget overspend",
+    "verbose": "So basically the thing is that we have spent more money than what was planned in the budget for marketing, it has gone over by around ten percent, and I am thinking we need to tell this to the finance director today itself.",
+    "reference": "We need to flag up a ten per cent marketing overspend with the FD today.",
+    "targets": [
+      "flag up",
+      "per cent"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "audit preparation",
+    "verbose": "I just wanted to inform you that the auditors are coming next month for the audit, so kindly make sure that all the documents and receipts and everything are ready in proper order before they are coming, otherwise it will create problems.",
+    "reference": "The auditors are in next month — please collate all the paperwork beforehand.",
+    "targets": [
+      "collate"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "reconciliation",
+    "verbose": "One small thing I noticed is that when I was matching the bank statement with our ledger, the numbers are not matching, there is some difference of around two thousand pounds which I am not able to understand from where it is coming.",
+    "reference": "There's an unexplained discrepancy of about two grand between the bank statement and the ledger.",
+    "targets": [
+      "discrepancy"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "cash flow",
+    "verbose": "To be very frank with you, the cash position is little bit tight right now, we have some money but not too much extra money left over, so if any big payment comes suddenly we may face some difficulty in managing.",
+    "reference": "Cash is tight — we've not much headroom if a big bill lands unexpectedly.",
+    "targets": [
+      "headroom"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "variance explanation",
+    "verbose": "What happened was, the costs came higher than what we had expected this quarter, and the main reason for the same is that the price of raw materials went up, nothing else is the reason actually.",
+    "reference": "There's a cost overrun this quarter, driven mainly by raw material prices.",
+    "targets": [
+      "overrun"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "expenses policy",
+    "verbose": "Kindly note that as per company policy, all the expense claims must be submitted along with the receipts within thirty days, if not then finance will not be able to process the same and the money will not be reimbursed back to you.",
+    "reference": "The policy stipulates that claims need receipts and must be in within thirty days.",
+    "targets": [
+      "stipulate"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "cost cutting",
+    "verbose": "So the management has decided that we have to reduce down the costs in every department, and so we will be reducing the travel and also the hospitality and entertainment expenses from next month onwards, that is the decision.",
+    "reference": "Management wants costs down, so we're cutting back on travel and entertainment from next month.",
+    "targets": [
+      "cut back"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "investment case",
+    "verbose": "Basically I am trying to say that if we buy this new machine, it will cost us a lot of money in the beginning, but over the next three years it will save so much money that we will get back the full amount and even more.",
+    "reference": "The machine's a big outlay, but we'd recoup it within three years.",
+    "targets": [
+      "outlay",
+      "recoup"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "VAT query",
+    "verbose": "I am having one doubt regarding the VAT, whether we have to charge VAT on these training services which we are giving to overseas clients or not, because I am not very sure about the rules regarding the same.",
+    "reference": "Do we charge VAT on training for overseas clients? I'm not sure of the rules.",
+    "targets": [
+      "VAT"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "payroll error",
+    "verbose": "Sorry to say but there was some mistake happened in the payroll this month, because of which some of the employees got less salary than what they should have got, and we are going to correct it and pay the balance amount.",
+    "reference": "A payroll error left some staff underpaid this month; we'll rectify it and pay the difference.",
+    "targets": [
+      "rectify"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "credit control",
+    "verbose": "Just to update you, this customer has still not paid the invoice which was due two months back, we have sent so many reminders by email but there is no reply from their side, so what should we do now?",
+    "reference": "This customer's invoice is two months overdue and they're ignoring reminders — shall we escalate?",
+    "targets": [
+      "escalate"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "board report",
+    "verbose": "So for the board meeting, I am preparing the report, and in that I am thinking to put only the main main points instead of all the details, because the board members will not have time to read the full long document.",
+    "reference": "I'll keep the board report to the salient points — they won't read a long document.",
+    "targets": [
+      "salient"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "month-end close",
+    "verbose": "Basically we are not able to finish the month-end closing on time this month also, because there are so many entries which are still pending from the other departments and they are not giving the information to us.",
+    "reference": "There's slippage on month-end again; other teams still owe us entries.",
+    "targets": [
+      "slippage"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "pricing",
+    "verbose": "What I wanted to suggest is that we should increase the price slightly, because our costs have gone up a lot, but at the same time we should not increase it too much because then customers may go to the competitors.",
+    "reference": "We should raise prices modestly to cover costs without losing customers — it's a trade-off.",
+    "targets": [
+      "trade-off"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "bad debt",
+    "verbose": "Honestly speaking, I don't think that we will ever get this money back from this client because the company has closed down now, so I think it is better that we just remove it from the books and forget about it.",
+    "reference": "The client's folded, so let's bite the bullet and write it off.",
+    "targets": [
+      "bite the bullet"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "tax year end",
+    "verbose": "Please remember that the tax year is ending in April, so all of the receipts and the invoices for this year should be given to the accountant before that only, otherwise we may have to pay penalty to HMRC.",
+    "reference": "Get receipts to the accountant before the tax year ends, or HMRC may fine us.",
+    "targets": [
+      "tax year",
+      "HMRC"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "approval limits",
+    "verbose": "As per the new rule, any purchase which is above five thousand pounds cannot be done directly, it needs approval first from the finance head, only after getting the approval you can go ahead and place the order.",
+    "reference": "Anything over five grand needs the finance head's sign-off before you order.",
+    "targets": [
+      "sign-off"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "budget allocation",
+    "verbose": "So we have got a fixed amount of money for the training this year, and what we are planning to do is divide it between the different teams based on how many people are there in each team, that is the plan.",
+    "reference": "We'll allocate the training budget pro rata by team size.",
+    "targets": [
+      "allocate",
+      "pro rata"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "margins",
+    "verbose": "The thing is that our fixed costs like rent, electricity, insurance and all these things are very high compared to how much we are selling, so the profit is becoming very less because of that reason.",
+    "reference": "Our overheads are too high for our sales volume, and it's squeezing margins.",
+    "targets": [
+      "overheads"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "rough estimate",
+    "verbose": "I know you are asking for the exact number but right now I cannot give the exact figure, but roughly speaking I can say that it will be somewhere around fifty thousand, plus or minus little bit.",
+    "reference": "I can't be exact yet, but fifty thousand is a ballpark figure.",
+    "targets": [
+      "ballpark"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "discretionary spend",
+    "verbose": "My personal opinion is that this is not the right time to spend so much money on new office furniture and all, because the market is not good and we don't know what will happen in the next few months.",
+    "reference": "With the market as it is, new furniture isn't a prudent spend right now.",
+    "targets": [
+      "prudent"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "audit finding",
+    "verbose": "During the audit, the auditors have pointed out that in some cases the same person is raising the purchase order and also approving it, which they are saying is not correct and is a big risk for the company.",
+    "reference": "The auditors found a lack of oversight — some people approve their own purchase orders.",
+    "targets": [
+      "oversight"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "revenue gap",
+    "verbose": "We were expecting that the sales this quarter will bring in two hundred thousand pounds, but what actually came in is only one hundred and sixty, so there is a gap of forty thousand which is missing.",
+    "reference": "Sales came in at one-sixty against two hundred — a forty-thousand shortfall.",
+    "targets": [
+      "shortfall"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "bank loan",
+    "verbose": "Before the final accounts are ready, which will take some more time, we can give the bank some temporary accounts for the time being so that they can process the loan application without waiting for the final ones.",
+    "reference": "We can give the bank interim accounts so the loan isn't held up.",
+    "targets": [
+      "interim"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "exchange rates",
+    "verbose": "Basically the exchange rate has become very bad for us these days, the pound has gone down, and because we are buying most of our materials from abroad, it is making everything more expensive for us.",
+    "reference": "The weak pound is creating headwinds, as most of our materials are imported.",
+    "targets": [
+      "headwinds"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "acquisition",
+    "verbose": "Before we sign and buy this company, we must check everything properly about their accounts, their debts, any legal cases going on, everything, so that later we don't get any surprises after buying it.",
+    "reference": "We must do proper due diligence before buying, so there are no nasty surprises.",
+    "targets": [
+      "due diligence"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "cost sharing",
+    "verbose": "The question is how we should divide the cost of the new software between the three departments, because all three will be using it but not equally, some will use it more and some will use it less.",
+    "reference": "How should we apportion the software cost, given the departments use it unequally?",
+    "targets": [
+      "apportion"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "supplier payments",
+    "verbose": "Our supplier has called me and complained that we have not paid their last three invoices, and they are saying that if we don't pay within this week itself then they will stop the deliveries to us.",
+    "reference": "We're on thin ice — three unpaid invoices, and they'll stop deliveries this week.",
+    "targets": [
+      "on thin ice"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "management accounts",
+    "verbose": "Can you please give me more detailed breakdown of the numbers, like department wise and month wise and also product wise, because the summary which you sent is too high level and I cannot understand from it.",
+    "reference": "Could I have a more granular breakdown — by department, month and product?",
+    "targets": [
+      "granular"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "capital spend",
+    "verbose": "Since the cash is little bit less this year, I think we should postpone the purchase of new vans to next year instead of buying them now, that will help us to manage the money better.",
+    "reference": "With cash tight, let's defer the van purchase until next year.",
+    "targets": [
+      "defer"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "interest rates",
+    "verbose": "The change in the interest rate will affect us only very very little, actually almost nothing, because most of our loans are on a fixed rate, so we don't need to worry too much about it at all.",
+    "reference": "The rate change is negligible for us — most of our borrowing is fixed.",
+    "targets": [
+      "negligible"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "revenue caveat",
+    "verbose": "These revenue numbers are looking good, but one thing I want to mention is that they are including one big order which may get cancelled, so please keep that in mind when you are looking at them.",
+    "reference": "The revenue looks good, with one caveat: it includes a big order that might be cancelled.",
+    "targets": [
+      "caveat"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "quarterly results",
+    "verbose": "See, the good news I wanted to share is that sales have been increasing steadily from the last three quarters continuously, one after another, and if we continue in this same way then we will cross our target for the full year very easily.",
+    "reference": "Three strong quarters on the trot — keep the momentum and we'll beat the annual target.",
+    "targets": [
+      "on the trot",
+      "momentum"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "project budget",
+    "verbose": "I am sorry to tell you but the account for the project is showing negative balance now, we have spent more than what was there, so we cannot spend anything more until the new funds are coming.",
+    "reference": "The project account's in the red, so spending's frozen until new funds arrive.",
+    "targets": [
+      "in the red"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "cost comparison",
+    "verbose": "I was thinking that we should compare our finance team costs with other similar companies in the same industry, just to see whether we are spending more or spending less than what they are spending.",
+    "reference": "Let's benchmark our finance costs against similar firms.",
+    "targets": [
+      "benchmark"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "systems",
+    "verbose": "The new invoicing system is very complicated to use actually, there are so many small small steps and fields to fill, and it is taking so much time to raise even one simple invoice for the customer.",
+    "reference": "The new invoicing system's really fiddly — even a simple invoice takes ages.",
+    "targets": [
+      "fiddly"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "governance",
+    "verbose": "The decision about the budget has been taken by the finance committee already, but it still needs to be formally approved by the full board in the next meeting before it becomes official and final.",
+    "reference": "The committee's agreed the budget, but the board must ratify it next meeting.",
+    "targets": [
+      "ratify"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "supplier value",
+    "verbose": "I am not sure that this consultant is giving us good value, because we are paying them so much every month but honestly I am not seeing much benefit or results coming out from their work.",
+    "reference": "I'm not convinced the consultant is value for money.",
+    "targets": [
+      "I'm not convinced",
+      "value for money"
+    ]
+  },
+  {
+    "domain": "finance",
+    "category": "tax status",
+    "verbose": "One thing I want to tell you, as you are now working as a contractor and not as an employee, you have to file your own tax return every year by yourself, the company will not be deducting the tax for you.",
+    "reference": "As a contractor, you'll need to do Self Assessment — we won't deduct tax.",
+    "targets": [
+      "Self Assessment"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "contract renewal",
+    "verbose": "Kindly note that as per the contract, if we want to end it, we have to inform the other party in writing at least ninety days before the renewal date, otherwise it will get renewed automatically for one more year.",
+    "reference": "The contract stipulates ninety days' written notice, or it renews for another year.",
+    "targets": [
+      "stipulate"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "negotiation",
+    "verbose": "The main problem in the negotiation is the clause about liability, they want us to accept unlimited liability but we are not ready for that at all, and because of this only the whole deal is stuck.",
+    "reference": "Unlimited liability is the sticking point — we won't accept it.",
+    "targets": [
+      "sticking point"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "confidentiality",
+    "verbose": "Before we share any of our confidential information with them, I think we should first make them sign one non-disclosure agreement, just to be on the safe side, because you never know what they may do with it.",
+    "reference": "It'd be prudent to get an NDA signed before we share anything confidential.",
+    "targets": [
+      "prudent"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "dispute",
+    "verbose": "Honestly speaking, their position in this dispute is very weak, they don't have any proper evidence and their argument is not standing on any strong ground, so I don't think they can continue with it for long.",
+    "reference": "Their position is untenable — they've no real evidence.",
+    "targets": [
+      "untenable"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "settlement",
+    "verbose": "So my advice is that instead of going to the court and spending so much money and time on the case, it will be better if we try to settle the matter with them outside of the court only.",
+    "reference": "I'd suggest settling out of court rather than paying for a long case.",
+    "targets": [
+      "I'd suggest"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "refund exception",
+    "verbose": "If we agree to give this one customer a refund even after the deadline is over, then all the other customers will also come and demand the same thing from us, and then it will become a big problem.",
+    "reference": "Refunding late would set a precedent the others will expect too.",
+    "targets": [
+      "precedent"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "contract drafting",
+    "verbose": "This clause in the agreement is not very clear actually, it can be understood in two different ways, so we should ask the other side to explain exactly what they mean before we go ahead and sign it.",
+    "reference": "This clause is ambiguous — let's ask them to clarify before signing.",
+    "targets": [
+      "clarify"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "data protection",
+    "verbose": "We need to make sure that the way we are storing the customers' personal data is following all the data protection rules and regulations, otherwise we can get very heavy fines from the regulator.",
+    "reference": "We must ensure compliance with data protection rules, or face heavy fines.",
+    "targets": [
+      "compliance"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "lease advice",
+    "verbose": "For this kind of matter, which is related to property and the lease, I think it is better that we take advice from one proper solicitor who is expert in this area rather than trying to handle it ourselves.",
+    "reference": "This is a lease matter — we should instruct a specialist solicitor.",
+    "targets": [
+      "solicitor"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "court deadline",
+    "verbose": "The last date for submitting the documents to the court is this Friday, and if we miss this date then there is a big chance that the whole case may get dismissed, so it is very very important.",
+    "reference": "Hitting Friday's filing deadline is paramount — missing it could sink the case.",
+    "targets": [
+      "paramount"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "intellectual property",
+    "verbose": "One thing which is not mentioned clearly in the contract is that who will own the designs which the agency creates for us, whether it will be us or them, and this point should be written down clearly.",
+    "reference": "The contract should make explicit who owns the agency's designs.",
+    "targets": [
+      "explicit"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "indemnity",
+    "verbose": "The supplier has added one clause where we have to pay for any losses they face even if it is their own fault, which is not at all fair, so I think we should not agree to this and simply say no.",
+    "reference": "Their indemnity clause covers their own negligence — we should push back on that.",
+    "targets": [
+      "push back"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "sensitive matters",
+    "verbose": "I think we should not discuss about this legal matter in this big meeting in front of everybody, it is better if we discuss the same separately later with only the legal team present in the room.",
+    "reference": "Let's take this offline with just the legal team.",
+    "targets": [
+      "let's take this offline"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "terms update",
+    "verbose": "We have made some changes in our terms and conditions, so we have to inform all of our existing customers about the changes properly before the new terms are coming into effect from next month.",
+    "reference": "We need to disseminate the revised terms to customers before next month.",
+    "targets": [
+      "disseminate"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "restrictive covenants",
+    "verbose": "This issue about the non-compete clause is a very sensitive one, many people are having strong opinions about it and there may be a lot of arguments, so we need to handle it very carefully in the meeting.",
+    "reference": "The non-compete clause is contentious, so we'll handle it carefully.",
+    "targets": [
+      "contentious"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "conditional agreement",
+    "verbose": "We are okay to agree to the extension of the deadline, but only on one condition, that they will pay the remaining amount in full before the new deadline, otherwise we will not agree to it.",
+    "reference": "We'll agree to the extension, with the proviso that they pay in full first.",
+    "targets": [
+      "proviso"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "verbal agreements",
+    "verbose": "Even though we had that verbal agreement over the phone, the written contract is what will be counted in the end, so whatever is written in the contract is final, not what was said on the phone call.",
+    "reference": "Notwithstanding the phone call, the written contract prevails.",
+    "targets": [
+      "notwithstanding"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "dismissal risk",
+    "verbose": "If we dismiss this employee without following the proper procedure step by step, then there is a high chance that the employee may take us to the employment tribunal and we may even lose the case.",
+    "reference": "Skip the proper procedure and we risk an employment tribunal.",
+    "targets": [
+      "employment tribunal"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "contract review",
+    "verbose": "Legal team is having too much work these days, so they are saying that they cannot review this contract this week, it will take at least two weeks more for them to look at it properly.",
+    "reference": "Legal are snowed under, so the review will take another fortnight.",
+    "targets": [
+      "snowed under",
+      "fortnight"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "product claim",
+    "verbose": "They are saying that our product caused damage to their machine, but they have not given any proof or evidence for the same, so we cannot just accept their claim like that without any proof.",
+    "reference": "We can't accept their damage claim unless they substantiate it.",
+    "targets": [
+      "substantiate"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "merger",
+    "verbose": "This news about the merger is very confidential right now, so please don't tell anybody about it, not even to your team members, until the official announcement comes from the management side.",
+    "reference": "Please keep the merger under wraps until it's officially announced.",
+    "targets": [
+      "under wraps"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "regulation",
+    "verbose": "The new regulation which is coming next year may have a lot of effects on our business in many different ways, and we need to properly understand what all those effects will be before it starts.",
+    "reference": "We need to understand the new regulation's ramifications before it takes effect.",
+    "targets": [
+      "ramifications"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "expired contracts",
+    "verbose": "Whether the clause applies to the old contracts or not, I feel it doesn't really matter anymore, because all the old contracts have already expired last month itself, so there is no point discussing about it.",
+    "reference": "It's a moot point now — the old contracts all expired last month.",
+    "targets": [
+      "moot"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "breach",
+    "verbose": "The supplier has not delivered the goods by the date which was agreed in the contract, and this is the third time this is happening, so I think we can clearly say that they have broken the contract.",
+    "reference": "They've missed the agreed date three times — that's an unequivocal breach.",
+    "targets": [
+      "unequivocal"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "weak argument",
+    "verbose": "If you see carefully, basically their whole argument is based on the assumption that the contract was signed in March, but actually it was signed in May, so if that assumption is wrong then their entire argument becomes wrong.",
+    "reference": "Their argument rests on a false premise — the contract was signed in May, not March.",
+    "targets": [
+      "premise"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "letter approval",
+    "verbose": "Before you send this letter to the customer, please make sure that the legal team has checked and approved it, because some of the words used in the letter can create legal problems for us later on.",
+    "reference": "Get legal's sign-off before sending — some of the wording's risky.",
+    "targets": [
+      "sign-off"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "data request",
+    "verbose": "One customer has requested a copy of all the personal data which we are holding about them, and as per the law we have to give it within one month, so we must start working on it immediately.",
+    "reference": "A customer's asked for their data; we've a month to respond, so let's crack on.",
+    "targets": [
+      "crack on"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "lease terms",
+    "verbose": "In our office lease agreement there is one option which allows us to end the lease early after three years, so if we want to move out, we can use that option without paying any penalty.",
+    "reference": "The break clause gives us latitude to leave penalty-free after three years.",
+    "targets": [
+      "latitude"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "deadlock",
+    "verbose": "We have been discussing with them for many weeks now about this disputed amount, but neither they are ready to move from their position nor we are ready, so there is no progress at all.",
+    "reference": "We've reached an impasse over the disputed sum — neither side will budge.",
+    "targets": [
+      "impasse"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "mediation",
+    "verbose": "Since both of us are not able to agree, maybe we can bring in one neutral third person who can listen to both sides and help us to find some solution which both of us can accept.",
+    "reference": "It might be worth bringing in a mediator, since we're deadlocked.",
+    "targets": [
+      "it might be worth"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "final version",
+    "verbose": "I am just confirming once again that the version of the contract which we signed yesterday is the final one, and the earlier drafts which were sent before are not valid anymore, so please ignore them.",
+    "reference": "Yesterday's signed contract supersedes all earlier drafts.",
+    "targets": [
+      "supersede"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "warranty",
+    "verbose": "As per the agreement, the warranty is valid only for twelve months from the date of delivery, so since the machine is now fifteen months old, unfortunately we are not able to repair it free of cost.",
+    "reference": "I'm afraid the twelve-month warranty has expired, so the repair is chargeable.",
+    "targets": [
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "copyright",
+    "verbose": "The image which the marketing team has used in the brochure, I am not sure if we have the permission to use it or not, because they just downloaded it from the internet, and this can create copyright issues.",
+    "reference": "I'm slightly concerned about the brochure image — we may not have the rights.",
+    "targets": [
+      "slightly concerned"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "record keeping",
+    "verbose": "As per the law, we need to keep the financial records for minimum six years, after that only we can destroy them, so please don't throw away any of the old files without checking first with me.",
+    "reference": "The law mandates keeping financial records for six years, so please check before binning anything.",
+    "targets": [
+      "mandate"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "litigation",
+    "verbose": "If they continue to refuse to pay even after our final letter, then we may have no other option left except taking them to the court, but that should be the last option only, not the first one.",
+    "reference": "If they ignore the final letter, when push comes to shove we'll go to court.",
+    "targets": [
+      "when push comes to shove"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "legal fees",
+    "verbose": "Before we hire this law firm, can we ask them to give us one rough estimate of how much the total fees will be for the whole case, so that we don't get any shocks later on when the bill comes?",
+    "reference": "Can we get the firm to quantify their fees upfront, so there are no shocks?",
+    "targets": [
+      "quantify"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "witness statements",
+    "verbose": "The employee's statement is saying that the manager shouted at him in the meeting, and the two other colleagues who were present there at that time have also said the same thing in their statements.",
+    "reference": "Two colleagues corroborate his account of the manager shouting.",
+    "targets": [
+      "corroborate"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "internal controls",
+    "verbose": "Some of the staff have found one way to avoid the approval process, by splitting one big order into many small small orders, so that each one is below the limit and doesn't need any approval.",
+    "reference": "Some staff are circumventing approvals by splitting orders below the limit.",
+    "targets": [
+      "circumvent"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "scope of advice",
+    "verbose": "Actually this question about tax planning is not really something that I can advise on, because my job is only related to contracts, so you should ask the tax team about this and they will guide you.",
+    "reference": "Tax planning's outside my remit — best ask the tax team.",
+    "targets": [
+      "remit"
+    ]
+  },
+  {
+    "domain": "legal",
+    "category": "partnership decision",
+    "verbose": "We have to make sure that all the partners in the firm are agreeing to this new policy before we announce it, because if even one or two are not agreeing then it will create problems later.",
+    "reference": "We need consensus among the partners before announcing the policy.",
+    "targets": [
+      "consensus"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "scope creep",
+    "verbose": "Actually what is happening is that the client keeps on adding more and more new requirements every week which were not there in the original agreement, and we are doing all of it without charging them anything extra.",
+    "reference": "The client keeps widening our remit for free — we need to push back.",
+    "targets": [
+      "remit",
+      "push back"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "deliverable delay",
+    "verbose": "So the final report which we promised to give to the client by end of this month, I think it will take two more weeks extra, because the data which the client was supposed to send us came very late.",
+    "reference": "The final deliverable will slip two weeks, as the client's data arrived late.",
+    "targets": [
+      "deliverable"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "stakeholder support",
+    "verbose": "Even if our recommendations are very good, if the senior people in the client's company are not agreeing and supporting them, then nothing will happen and they will not implement anything at all.",
+    "reference": "Without senior buy-in, our recommendations won't be implemented.",
+    "targets": [
+      "buy-in"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "kick-off meeting",
+    "verbose": "So the plan is that we will have the first meeting with the client team on Monday, where we will introduce everyone, explain the plan and timeline, and also understand what exactly they are expecting from us.",
+    "reference": "Monday's kick-off will cover introductions, the plan and their expectations.",
+    "targets": [
+      "kick-off"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "early results",
+    "verbose": "Before we start the big long transformation programme, I think we should first do some small small changes which are easy and give results fast, so that the client sees some benefit early and trusts us more.",
+    "reference": "Let's start with some quick wins to build the client's confidence.",
+    "targets": [
+      "quick win"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "capacity",
+    "verbose": "Honestly I am having too much work on my plate right now with the other two clients, so I don't think I will be able to take any more responsibility on this new project, at least for this month.",
+    "reference": "I've no bandwidth for the new project this month.",
+    "targets": [
+      "bandwidth"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "organisational review",
+    "verbose": "Instead of looking at each department separately one by one, we should look at the whole organisation together as one, because the problems in one department are affecting the other departments also.",
+    "reference": "We need a holistic view — each department's problems affect the others.",
+    "targets": [
+      "holistic"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "findings",
+    "verbose": "So after doing all the interviews with the staff and analysing all the data and everything, the main conclusion which is coming out is that the managers are not communicating properly with their teams.",
+    "reference": "The upshot of the interviews is that managers aren't communicating with their teams.",
+    "targets": [
+      "upshot"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "workshop prep",
+    "verbose": "For the workshop next week, I am thinking that we should first send the agenda to everybody in advance, so that they come prepared and we don't waste time in the beginning explaining everything.",
+    "reference": "Let's circulate the workshop agenda beforehand so people come prepared.",
+    "targets": [
+      "agenda"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "bid decision",
+    "verbose": "The government department has invited companies to submit their proposals and prices for this project, and the last date for submitting is next Thursday, so should we apply for it or not?",
+    "reference": "Shall we bid for the department's tender? It closes next Thursday.",
+    "targets": [
+      "tender"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "client requirements",
+    "verbose": "The client is not wanting a standard solution which we give to everybody, they want something which is specially designed only for their own business needs and their own specific problems.",
+    "reference": "The client wants a bespoke solution, not our standard offering.",
+    "targets": [
+      "bespoke"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "steering committee",
+    "verbose": "In the steering committee tomorrow, I think we should tell them honestly that the project is little bit behind the schedule, rather than hiding it, because they will anyway find out about it later.",
+    "reference": "We should mention the slippage to the steering committee — they'll find out anyway.",
+    "targets": [
+      "slippage"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "justifying recommendations",
+    "verbose": "The client is asking why we are recommending to close down the two regional offices, so we need to explain them clearly the reasons behind this recommendation with proper facts and figures.",
+    "reference": "The client wants the rationale for closing two regional offices, backed by figures.",
+    "targets": [
+      "rationale"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "peer review",
+    "verbose": "Can I just discuss my ideas with you once before I present them to the client, because I want somebody to listen and tell me honestly whether they are making sense or not making sense?",
+    "reference": "Could you be a sounding board for my ideas before I present to the client?",
+    "targets": [
+      "sounding board"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "trial rollout",
+    "verbose": "Before rolling out this new process in all the hundred branches, maybe we should first try it in two or three branches only, see how it is working, and then decide whether to go ahead or not.",
+    "reference": "Let's pilot the process in a few branches before rolling it out.",
+    "targets": [
+      "pilot"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "change resistance",
+    "verbose": "The staff in the client company are not at all happy with the changes we are suggesting, many of them are saying that the old way of working was better and they don't want to change anything.",
+    "reference": "Staff are resisting change and want to keep the status quo.",
+    "targets": [
+      "status quo"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "progress update",
+    "verbose": "For the meeting on Friday, I will prepare some slides showing the main findings till now, even though the analysis is not fully complete yet, just so that they can see the progress we have made.",
+    "reference": "I'll put together a deck of interim findings for Friday.",
+    "targets": [
+      "deck",
+      "interim"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "client expectations",
+    "verbose": "The client is expecting that we will complete the entire restructuring of their business within just six weeks, which is honestly very difficult to do, almost impossible I would say.",
+    "reference": "Restructuring the whole business in six weeks is a tall order.",
+    "targets": [
+      "a tall order"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "unspoken issues",
+    "verbose": "Everybody in the meeting knows that the main problem is the chief executive's management style, but nobody is talking about it openly because they are all scared of saying anything in front of him.",
+    "reference": "The chief executive's style is the elephant in the room — nobody dares mention it.",
+    "targets": [
+      "the elephant in the room"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "data requests",
+    "verbose": "We had asked the client's finance team to send us the cost data two weeks back, and we have reminded them many times also, but still they have not sent it to us till now, what to do?",
+    "reference": "I'll chase up the client's finance team — the cost data's two weeks overdue.",
+    "targets": [
+      "chase up"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "stakeholder mapping",
+    "verbose": "There are so many different people involved in this project from the client side, and each one is having different interests, so we should make a list of them and understand who is important.",
+    "reference": "Let's map the stakeholders and their interests.",
+    "targets": [
+      "stakeholder"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "extending engagement",
+    "verbose": "The client seems very happy with our work so far, so I am thinking that this is a good time to suggest them that we can also help them with the second phase of the project.",
+    "reference": "The client's pleased, so let's capitalise on that and pitch phase two.",
+    "targets": [
+      "capitalise on"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "client proposal",
+    "verbose": "The idea which the client's team gave is good on paper, but practically speaking, with their small budget and only few staff, I don't think they will be able to actually do it in reality.",
+    "reference": "Their idea's fine on paper, but with their budget and staffing it isn't viable.",
+    "targets": [
+      "viable"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "lessons learned",
+    "verbose": "After the client presentation is over, let us all sit together for some time and discuss what went well, what didn't go well, and what we can do better for next time.",
+    "reference": "Let's debrief after the presentation and agree what to improve.",
+    "targets": [
+      "debrief"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "report writing",
+    "verbose": "The executive summary which you have written is very long, it is almost three pages, but the senior people will not read so much, so can you please make it shorter and more to the point?",
+    "reference": "Could you make the executive summary more succinct? Three pages is too long.",
+    "targets": [
+      "succinct"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "scoping",
+    "verbose": "Before we start the review, we should agree clearly with the client what exactly is included in the review and what is not included, so that later there is no confusion between us and them.",
+    "reference": "Let's agree clear terms of reference before starting the review.",
+    "targets": [
+      "terms of reference"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "client feedback",
+    "verbose": "The client called me yesterday and said that they are not happy with the junior consultant who is working on site, they are feeling that he is not experienced enough for this kind of work.",
+    "reference": "The client feels our junior consultant is a bit wet behind the ears.",
+    "targets": [
+      "wet behind the ears"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "early evaluation",
+    "verbose": "We have implemented the new process three weeks back, but it is too early to say whether it is working or not, we need to wait some more time to see the actual results coming.",
+    "reference": "It's early days — we'll need longer to judge the new process.",
+    "targets": [
+      "it's early days"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "strategy session",
+    "verbose": "The client wants to take their full leadership team outside the office for one full day to discuss about the strategy for next year, and they want us to organise and run that whole session.",
+    "reference": "The client wants us to run a strategy away day for their leadership team.",
+    "targets": [
+      "away day"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "core issue",
+    "verbose": "So after all the long long discussions which we had for so many days, the main and most important issue is actually very simple, that their prices are too high compared to their competitors, everything else is secondary only.",
+    "reference": "The crux of it is that their prices are too high; everything else is secondary.",
+    "targets": [
+      "crux"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "timeline check",
+    "verbose": "Before we commit to the client that we can finish it by March, we should properly check whether it is really possible to do it by that time with the team which we are having.",
+    "reference": "Let's check the March timescale is feasible before we commit.",
+    "targets": [
+      "timescale",
+      "feasible"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "clear recommendation",
+    "verbose": "In the report we have given many options but we have not clearly said which one we are recommending, and the client is wanting us to give a clear opinion instead of being neutral.",
+    "reference": "The client wants a clear recommendation — we can't sit on the fence.",
+    "targets": [
+      "sit on the fence"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "team alignment",
+    "verbose": "Before the meeting with the client, I think all of us in our team should agree on what we are going to say, so that we are not contradicting each other in front of them.",
+    "reference": "Let's make sure we're all on the same page before the client meeting.",
+    "targets": [
+      "on the same page"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "data quality",
+    "verbose": "The industry data which we found online is not very reliable, because it is from a small survey and it is also a bit old, so we should not depend on it too much in our report.",
+    "reference": "Take that industry data with a pinch of salt — it's a small, dated survey.",
+    "targets": [
+      "pinch of salt"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "exit planning",
+    "verbose": "Once our contract finishes next month, the client's own team will have to continue the work, so we must make sure that we explain everything to them properly before we leave.",
+    "reference": "We need a thorough handover before we leave next month.",
+    "targets": [
+      "handover"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "programme goals",
+    "verbose": "What I want to highlight is that all these different small projects which we are doing in parallel are actually connected with one main bigger goal, which is to reduce the client's costs by twenty percent in two years.",
+    "reference": "Every workstream serves one overarching goal: cutting costs by twenty per cent in two years.",
+    "targets": [
+      "overarching",
+      "per cent"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "hours overrun",
+    "verbose": "We had estimated that the project will take around two hundred hours, but we have already used two hundred and fifty hours and it is still not finished, so we are going over the estimate.",
+    "reference": "We've overrun the two-hundred-hour estimate by fifty, and we're not done.",
+    "targets": [
+      "overrun"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "client politics",
+    "verbose": "One thing I want to tell everybody is that we have to be little bit careful while giving suggestions about the IT department, because the IT director is very sensitive and may feel that we are interfering in his area of work.",
+    "reference": "We need to be judicious with IT suggestions — the director's protective of his patch.",
+    "targets": [
+      "judicious"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "implementation plan",
+    "verbose": "We should give the client a clear plan showing which changes will happen in which month over the next one year, so that they can see the full picture and plan accordingly from their side.",
+    "reference": "Let's give the client a twelve-month roadmap so they can plan.",
+    "targets": [
+      "roadmap"
+    ]
+  },
+  {
+    "domain": "consulting",
+    "category": "rescheduling",
+    "verbose": "Just to inform you all, the client has called and asked whether we can prepone the review meeting to Tuesday instead of Thursday, that means two days before the original date, because their director is travelling on Thursday.",
+    "reference": "The client wants to bring forward the review to Tuesday — their director's away Thursday.",
+    "targets": [
+      "bring forward"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "pipeline",
+    "verbose": "We are having a few big deals which are under discussion right now with some new clients, they are not confirmed yet, but if they come through then our numbers for next quarter will look very good.",
+    "reference": "We've some big deals in the pipeline that would make next quarter look strong.",
+    "targets": [
+      "in the pipeline"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "discount negotiation",
+    "verbose": "The client is asking for twenty percent discount, but if we give that much discount then we will not make any profit at all, so maybe we can offer ten percent and see what they say.",
+    "reference": "Twenty per cent would wipe out our margin, so let's offer ten and see.",
+    "targets": [
+      "per cent"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "follow-up email",
+    "verbose": "Dear sir, first of all thank you so much for taking the time to talk to me today on the call, as discussed I am sending you the brochure and price list, kindly go through the same and revert back to me with your feedback.",
+    "reference": "Thanks for today's call. As discussed, the brochure and prices are attached — do let me know your thoughts.",
+    "targets": [
+      "as discussed",
+      "do let me know"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "renewal risk",
+    "verbose": "The client's contract is coming for renewal next month, but from the last few conversations I am feeling that they are not very happy and they may not renew it with us this time.",
+    "reference": "Their renewal's next month and I'm not sure they're happy — it's touch and go.",
+    "targets": [
+      "touch and go"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "missed target",
+    "verbose": "This quarter I could not achieve my sales target, I reached only eighty percent of it, mainly because two big clients postponed their orders to next quarter at the very last moment.",
+    "reference": "I hit eighty per cent of target — two big clients deferred their orders.",
+    "targets": [
+      "defer"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "price objection",
+    "verbose": "Basically what is happening is that the customer is saying that our product is too expensive compared to the other company, but what they are not understanding is that our product will last much longer and needs less maintenance.",
+    "reference": "We're pricier, but we last longer and need less upkeep — better value for money.",
+    "targets": [
+      "value for money"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "cold call",
+    "verbose": "Hello, good morning sir, I hope you are doing well, I am calling from the company regarding our new software product, I just wanted to take two minutes of your precious time to explain you about it, if you are free.",
+    "reference": "Morning — have you got a minute? I'd like to tell you briefly about our new software.",
+    "targets": [
+      "have you got a minute?"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "awaiting decision",
+    "verbose": "We have sent them the final proposal with the best price which we can give, now we have nothing more to do from our side, we just have to wait for them to decide.",
+    "reference": "We've made our best offer, so we'll hang fire until they decide.",
+    "targets": [
+      "hang fire"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "upselling",
+    "verbose": "Since this client is already using our basic package and they are very happy with it, maybe we can suggest them to move to the premium package which is having more features.",
+    "reference": "Let's sound out the client about upgrading — they love the basic package.",
+    "targets": [
+      "sound out"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "account review",
+    "verbose": "I would like to fix one meeting with you sometime next week to discuss about how the last six months have gone and what we can do better going forward for your business.",
+    "reference": "Can we pencil in a review of the last six months next week?",
+    "targets": [
+      "pencil in"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "commission query",
+    "verbose": "There is some confusion regarding my commission for the last quarter, because the big deal which I closed in March is not showing in my commission statement, maybe it is missing by mistake.",
+    "reference": "My March deal's missing from my commission statement — could you look into it?",
+    "targets": [
+      "look into"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "lost deal",
+    "verbose": "Unfortunately the client has decided to go with the other company, they told me that the other company's price was lower, and they also said that they had used them before also.",
+    "reference": "We lost out to a cheaper, familiar rival — back to the drawing board.",
+    "targets": [
+      "back to the drawing board"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "payment terms",
+    "verbose": "The client is asking to pay us after ninety days instead of thirty days, but if we agree then our cash flow will become very difficult, so we need to find some middle way between both.",
+    "reference": "Ninety-day terms would hurt our cash flow — shall we say sixty?",
+    "targets": [
+      "shall we say"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "new starter",
+    "verbose": "The new account manager who is joining next week already knows this industry very well and has worked with similar clients before, so she will be able to start working properly from the very first day.",
+    "reference": "Our new account manager knows the sector, so she'll hit the ground running.",
+    "targets": [
+      "hit the ground running"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "client complaint",
+    "verbose": "The client has complained that our sales representative is calling them too many times every week and pushing them too much to buy, and they are feeling very irritated because of this.",
+    "reference": "The client says our rep calls constantly, and it's a bit much.",
+    "targets": [
+      "it's a bit much"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "quote validity",
+    "verbose": "Kindly note that the price which we have quoted to you is valid only till the end of this month, after that the prices may increase because our suppliers are also increasing their rates.",
+    "reference": "The quote's valid until month-end; after that it's contingent on supplier prices.",
+    "targets": [
+      "contingent"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "rush order",
+    "verbose": "So the problem is that the client is now wanting us to deliver five hundred units within one week, which is honestly very difficult for us, because normally we are taking three weeks for this much quantity.",
+    "reference": "Five hundred units in a week is a big ask — we normally need three.",
+    "targets": [
+      "a big ask"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "CRM discipline",
+    "verbose": "Please make sure that after every meeting or call with the client you are updating the details in the system on the same day only, otherwise the information gets lost and nobody knows what happened.",
+    "reference": "Please update the CRM after every call — it's best practice.",
+    "targets": [
+      "best practice"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "territory change",
+    "verbose": "Since I am moving to the northern region from next month, I will introduce my clients to the new person who is taking over my area and explain them everything about each account.",
+    "reference": "I'll brief my successor on each account before I move north next month.",
+    "targets": [
+      "brief"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "free trial",
+    "verbose": "What we can do is, we can give them the software free for one month, and if they like it and find it useful, then they can buy the full version after that one month is over.",
+    "reference": "Why not offer a month's free trial? They can give it a whirl first.",
+    "targets": [
+      "give it a whirl"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "case studies",
+    "verbose": "We should use the success story of our work with the hospital group when we are talking to the other hospitals, because it will show them that we have done this before successfully.",
+    "reference": "Let's leverage the hospital group case study with other hospitals.",
+    "targets": [
+      "leverage"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "sales forecast",
+    "verbose": "My honest opinion is that the sales numbers which the team has put in the forecast are too optimistic, I don't think we will actually be able to sell that much in such a short time.",
+    "reference": "The team's forecast looks a bit of a stretch to me.",
+    "targets": [
+      "a bit of a stretch"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "unresponsive client",
+    "verbose": "I tried calling the client so many times last week and also sent emails, but I am not getting any response from their side, I don't know what happened, maybe they are busy.",
+    "reference": "The client's been silent all week; I'll follow up again tomorrow.",
+    "targets": [
+      "follow up"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "bundling",
+    "verbose": "What I am thinking is, if we combine the cleaning service with the security service and offer both together to the client as one package, it will be cheaper for them and better business for us also.",
+    "reference": "There's real synergy in bundling cleaning and security — cheaper for them, better for us.",
+    "targets": [
+      "synergy"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "team results",
+    "verbose": "I am very happy to tell everyone that this month our team has sold the highest amount ever in the history of the company, it is a record, and everybody has worked very very hard for it.",
+    "reference": "We've had a record month — brilliant work, everyone.",
+    "targets": [
+      "brilliant"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "decision maker",
+    "verbose": "The person whom we are meeting is very friendly and likes our product, but he is not the one who will take the final decision, the final decision will be taken by his boss only.",
+    "reference": "Our contact's keen, but his boss makes the final call.",
+    "targets": [
+      "keen"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "price increase",
+    "verbose": "I wanted to inform you in advance that from next January we will be increasing our prices by around five percent, because the cost of materials and labour has increased a lot this year.",
+    "reference": "I'm afraid our prices rise about five per cent in January, reflecting higher costs.",
+    "targets": [
+      "I'm afraid",
+      "per cent"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "demanding client",
+    "verbose": "We have already done so many things for this client, we have given discount, free delivery, extra support, everything, but still they are asking for more and more from us.",
+    "reference": "We've been bending over backwards for this client, yet they still want more.",
+    "targets": [
+      "bend over backwards"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "no-show",
+    "verbose": "The client did not come for the meeting which was fixed for today, and they also didn't inform us before, so we wasted our whole morning just sitting and waiting for them.",
+    "reference": "The client didn't turn up today, and didn't warn us.",
+    "targets": [
+      "turn up"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "referrals",
+    "verbose": "Since you are very happy with our service, would it be possible for you to tell about us to other companies whom you know who may also be needing the same kind of service?",
+    "reference": "Since you're happy with us, would you mind recommending us to others?",
+    "targets": [
+      "would you mind"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "proving value",
+    "verbose": "The client is asking us to show them some real proof that our service is actually giving them benefits, not just nice words, like actual savings or numbers which they can see.",
+    "reference": "They want tangible evidence of the savings we've delivered.",
+    "targets": [
+      "tangible"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "sales incentives",
+    "verbose": "From next quarter, each salesperson will be measured on how many new clients they are bringing, not just on total sales, so that everybody focuses on getting new business also.",
+    "reference": "Next quarter, new-client wins become a KPI for everyone.",
+    "targets": [
+      "KPI"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "trade show leads",
+    "verbose": "So as you all know, at the trade show which happened last week we met so many people and collected so many business cards, so now we need to call all of them one by one before they forget about us.",
+    "reference": "We collected loads of leads at the trade show — let's get cracking before they go cold.",
+    "targets": [
+      "get cracking"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "competitor pricing",
+    "verbose": "The competitor has reduced their price drastically, it is much lower than ours now, and many of our small clients are asking us why we are charging so much more than them.",
+    "reference": "A competitor's undercut us, and we're on the back foot with smaller clients.",
+    "targets": [
+      "on the back foot"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "exclusivity",
+    "verbose": "The client is saying that they will sign the contract only if we promise not to sell this same product to any of their competitors in this region for the next two years.",
+    "reference": "Let's mull over their demand for two years' regional exclusivity.",
+    "targets": [
+      "mull over"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "closing call",
+    "verbose": "So just to repeat once again everything we discussed today, you will send the purchase order by Friday, we will deliver by the fifteenth, and the payment will be within thirty days.",
+    "reference": "To recap: your order by Friday, delivery by the fifteenth, payment in thirty days.",
+    "targets": [
+      "to recap"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "overpromising",
+    "verbose": "Please don't promise the client any delivery dates or special features without checking with the operations team first, because many times we promise and then we are not able to deliver.",
+    "reference": "Please run it past ops before promising dates or features.",
+    "targets": [
+      "run it past"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "customer churn",
+    "verbose": "We are losing many customers every month, they are cancelling their subscriptions and not coming back, and if this continues like this then our revenue will go down a lot.",
+    "reference": "Customer attrition is rising, and it'll hit revenue if it continues.",
+    "targets": [
+      "attrition"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "relationship building",
+    "verbose": "With this particular client it is very important to first become friendly and build a good relationship, because they don't like it when people start talking about business immediately.",
+    "reference": "With this client, build rapport before talking business.",
+    "targets": [
+      "rapport"
+    ]
+  },
+  {
+    "domain": "sales",
+    "category": "quarter end",
+    "verbose": "The deal is still not signed and today is the last day of the quarter, the client has promised they will sign by evening, but we are still waiting and it is very tense here.",
+    "reference": "It's going down to the wire — they've promised to sign by this evening.",
+    "targets": [
+      "down to the wire"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "delivery delay",
+    "verbose": "Sorry sir, sorry for the inconvenience caused to you, actually there is some delay in your delivery due to some issues at our warehouse, we are trying our level best to send it as early as possible.",
+    "reference": "I'm terribly sorry — a warehouse problem has delayed your order; we're on it.",
+    "targets": [
+      "I'm terribly sorry"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "escalation",
+    "verbose": "I understand that you are not happy with my answer, so what I will do is I will pass your complaint to my senior manager, and he will look into the matter and call you back.",
+    "reference": "I'll escalate this to my manager, who'll call you back.",
+    "targets": [
+      "escalate"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "refund",
+    "verbose": "Your refund request has been approved from our side, and the amount will be credited back to your same card within five to seven working days, kindly wait for that much time.",
+    "reference": "Your refund's approved — expect it within a week. Thanks for your patience.",
+    "targets": [
+      "thanks for your patience"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "hold",
+    "verbose": "Can you please hold the line for two minutes sir, I am just checking your details in our system, please don't disconnect the call, I will come back to you very quickly.",
+    "reference": "Bear with me a moment while I check your details.",
+    "targets": [
+      "bear with me"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "callback",
+    "verbose": "I will check with the technical team about your problem and once I get the answer from them, I will call you back today itself before the end of the day, don't worry.",
+    "reference": "I'll check with tech and get back to you by the end of today.",
+    "targets": [
+      "get back to"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "service outage",
+    "verbose": "We are aware that the service is not working since morning for many customers, our engineers are working on it continuously and we are expecting that it will be fixed within two to three hours.",
+    "reference": "We apologise for any inconvenience — engineers expect to restore service within three hours.",
+    "targets": [
+      "we apologise for any inconvenience"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "billing error",
+    "verbose": "I checked your bill and you are correct, there is one mistake, you have been charged two times for the same month by mistake, so we will refund the extra amount back to your account.",
+    "reference": "You're right, you were charged twice — I've sorted a refund for the extra.",
+    "targets": [
+      "sorted"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "returns policy",
+    "verbose": "Unfortunately as per our policy we are not able to give refund after thirty days of purchase, but what we can do is we can give you store credit which you can use anytime in future.",
+    "reference": "We can't refund after thirty days, but on this occasion we can offer store credit.",
+    "targets": [
+      "on this occasion"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "angry caller",
+    "verbose": "Sir please calm down, I am understanding that you are very angry and frustrated, and you have every right to be angry, but please give me one chance to solve your problem for you.",
+    "reference": "I appreciate that you're frustrated; please give me a chance to put it right.",
+    "targets": [
+      "I appreciate that"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "repeat contact",
+    "verbose": "The customer is saying that every time she calls, the agents are just giving some excuse and telling her to call back later, but nobody is actually solving her problem properly.",
+    "reference": "She feels fobbed off — every agent stalls and nobody fixes anything.",
+    "targets": [
+      "fob off"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "case ownership",
+    "verbose": "This customer has called us five times in the last two weeks for the same issue only, and every time it is getting more complicated, so I think somebody senior should take ownership now.",
+    "reference": "She's called five times in two weeks — someone senior should take on the case.",
+    "targets": [
+      "take on"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "goodwill gesture",
+    "verbose": "Because of our mistake you had to wait for so many days, so as a small gesture from our side, we would like to give you one month of the service completely free of cost.",
+    "reference": "To make up for the delay, we'll give you a month free.",
+    "targets": [
+      "make up for"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "survey",
+    "verbose": "We would be very grateful to you if you can take two minutes of your time to fill the small feedback form which we will send you on email after this call is over.",
+    "reference": "I'd be grateful if you could fill in our short survey afterwards.",
+    "targets": [
+      "I'd be grateful if",
+      "fill in"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "missed delivery",
+    "verbose": "The delivery person came to your house yesterday but nobody was there at home to receive the parcel, so he took it back, and now we can arrange to send it again on any day you want.",
+    "reference": "The driver couldn't deliver your parcel yesterday; when shall we try again?",
+    "targets": [
+      "parcel"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "faulty product",
+    "verbose": "I am really sorry that the kettle which you bought is not working properly, please don't worry, we will send you a brand new replacement and you can return the faulty one to us free of cost.",
+    "reference": "Sorry your kettle's faulty — we'll send a replacement, and returns are free.",
+    "targets": [
+      "kettle"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "security check",
+    "verbose": "Before I can give you any details about the account, I need to confirm that you are the account holder, so kindly tell me your date of birth and the first line of your address.",
+    "reference": "Could I have your date of birth and the first line of your address, please?",
+    "targets": [
+      "could I have"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "unreasonable demand",
+    "verbose": "The customer is demanding a full refund plus extra compensation plus a free upgrade for a delay of only one day, which honestly speaking is too much and not fair at all.",
+    "reference": "A refund, compensation and an upgrade for a one-day delay is over the top.",
+    "targets": [
+      "over the top"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "transfers",
+    "verbose": "I will now transfer your call to the billing department because they are the right people who can help you with this issue, please stay on the line and don't cut the call.",
+    "reference": "Billing can help with that — hang on while I transfer you.",
+    "targets": [
+      "hang on"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "long queues",
+    "verbose": "We are getting very high number of calls today because of the problem in the system, so the waiting time is very long, and we are really sorry for keeping you waiting for so long.",
+    "reference": "Sorry to keep you waiting — we're swamped with calls today.",
+    "targets": [
+      "sorry to keep you waiting",
+      "swamped"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "self-service",
+    "verbose": "Most of the questions which customers are asking us on the phone are very simple and repeated, so if we put the answers on our website, then they can find it themselves and calls will reduce.",
+    "reference": "An online FAQ would cut down on simple, repetitive calls.",
+    "targets": [
+      "cut down on"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "root cause",
+    "verbose": "Many customers are complaining about the same problem with the app login, so instead of solving each complaint one by one, we should find out what is the main reason and fix it permanently.",
+    "reference": "Let's suss out what's behind the login complaints, not just patch each one.",
+    "targets": [
+      "suss out"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "call handling",
+    "verbose": "When you are talking to customers on the phone, please try to be polite and friendly but also don't make it too long, just solve their problem and finish the call nicely.",
+    "reference": "On calls, be warm but brief — solve the problem and wrap up.",
+    "targets": [
+      "wrap up"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "vulnerable customer",
+    "verbose": "The customer on the phone sounds very old and confused, and I think she doesn't understand what I am explaining, so maybe I should speak slowly and explain everything step by step.",
+    "reference": "She sounds confused, so I'll slow down and talk through each step.",
+    "targets": [
+      "talk through"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "resolution",
+    "verbose": "So I have now cancelled the extra subscription from your account and refunded the money, so your problem is fully solved now, is there anything else I can help you with today?",
+    "reference": "That's cancelled and refunded — job done. Anything else I can help with?",
+    "targets": [
+      "job done"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "formal response",
+    "verbose": "We are writing to tell you that after doing a full investigation into your complaint, we have found that the charges were correct, and so we are not able to remove them from your bill.",
+    "reference": "Having investigated, we regret to inform you that the charges stand.",
+    "targets": [
+      "we regret to inform you"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "missed appointment",
+    "verbose": "The engineer was supposed to come to the customer's house between eight and twelve today, but it is two o'clock now and he has not come, and the customer is very very angry.",
+    "reference": "The engineer missed the morning slot and the customer's hit the roof.",
+    "targets": [
+      "hit the roof"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "complaint spike",
+    "verbose": "I just wanted to bring to your notice that from last Monday onwards the number of complaints is suddenly increasing a lot, almost double than normal, and most of them are about the new pricing change which we did recently.",
+    "reference": "Complaints have doubled since Monday — the price change has gone down like a lead balloon.",
+    "targets": [
+      "go down like a lead balloon"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "broken promise",
+    "verbose": "Last time when the customer called, the agent had promised her that someone will call back within twenty-four hours, but nobody called her, so now she is even more upset than before.",
+    "reference": "We promised a callback and nobody rang — that's the last straw for her.",
+    "targets": [
+      "the last straw"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "disputed delivery",
+    "verbose": "The customer is saying that the parcel was never delivered, although our tracking is showing delivered, but since she is a very old and loyal customer, I think we should just believe her this time.",
+    "reference": "Tracking says delivered, but she's loyal, so let's use our discretion and resend.",
+    "targets": [
+      "discretion"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "abusive callers",
+    "verbose": "If any customer is using bad language and abusing you on the phone, you don't have to tolerate it, you can warn them once and if they continue you can end the call.",
+    "reference": "You needn't put up with abuse — warn them once, then end the call.",
+    "targets": [
+      "put up with"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "status update",
+    "verbose": "I am just calling to give you an update about your complaint, the investigation is still going on and we have not got the final answer yet, but I will update you again by Friday.",
+    "reference": "Just an update: we're still investigating, and I'll be in touch by Friday.",
+    "targets": [
+      "I'll be in touch"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "misunderstanding",
+    "verbose": "I think there is some misunderstanding, the customer is thinking that she will get the full money back, but actually she will only get the amount for the item, not the delivery charges.",
+    "reference": "Sorry for any confusion — the refund covers the item, not delivery.",
+    "targets": [
+      "sorry for any confusion"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "manager request",
+    "verbose": "Actually what is happening here is that the customer is insisting that she wants to talk only to the manager and nobody else, she is refusing to explain her problem to me even after I asked her many many times.",
+    "reference": "She won't explain the problem and insists on a manager — could you step in?",
+    "targets": [
+      "step in"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "proactive contact",
+    "verbose": "Instead of waiting for the customers to call us and complain about the delay, I think we should send them a message first ourselves and inform them about the delay before they find out.",
+    "reference": "Let's be proactive and warn customers about the delay before they ring.",
+    "targets": [
+      "proactive"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "resolution targets",
+    "verbose": "The management wants that every complaint should be fully solved within forty-eight hours of receiving it, and they will be checking this number every week in the review meeting.",
+    "reference": "Management wants complaints resolved within forty-eight hours, tracked weekly as a metric.",
+    "targets": [
+      "metric"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "shift handover",
+    "verbose": "Before you finish your shift and go home, please write down the details of all the open cases which are still pending, so that the next person can continue them without asking you.",
+    "reference": "Before you clock off, note your open cases for the next shift.",
+    "targets": [
+      "clock off"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "retention",
+    "verbose": "The customer is saying that if we don't solve her internet problem by tomorrow, then she will cancel her contract and move to another provider, and she sounded very serious about it.",
+    "reference": "She'll leave if it's not fixed by tomorrow, so let's prioritise her case.",
+    "targets": [
+      "prioritise"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "agent training",
+    "verbose": "Many of the new agents are not knowing how to handle the billing related questions, they are transferring all those calls to the senior people, which is creating more load on them.",
+    "reference": "We need to upskill new agents on billing so they stop transferring those calls.",
+    "targets": [
+      "upskill"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "tone coaching",
+    "verbose": "Instead of saying again and again 'as per policy we cannot do', try to say what we can do for the customer, because when they hear 'cannot' again and again they become more angry.",
+    "reference": "Telling customers what we can do goes down well; quoting policy doesn't.",
+    "targets": [
+      "go down well"
+    ]
+  },
+  {
+    "domain": "customer service",
+    "category": "thanking",
+    "verbose": "Thank you so much for calling us and for being so patient with us while we were fixing the problem, we really appreciate your patience and understanding in this matter.",
+    "reference": "Thanks for bearing with us while we fixed that — much appreciated.",
+    "targets": [
+      "much appreciated"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "performance conversation",
+    "verbose": "I wanted to talk to you because from last few months your work is not up to the mark, many deadlines are getting missed and the quality also is not good like before.",
+    "reference": "Recently your work's not up to scratch — deadlines and quality have slipped.",
+    "targets": [
+      "not up to scratch"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "appraisals",
+    "verbose": "Your annual performance review meeting is scheduled for next week, so before that kindly fill the self-assessment form and send it to me so that I can go through the same before meeting.",
+    "reference": "Your appraisal's next week — please send your self-assessment beforehand.",
+    "targets": [
+      "appraisal"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "probation",
+    "verbose": "We have decided that we will extend your trial period by three more months, because in some areas you have improved but there are still some areas where we need to see more improvement.",
+    "reference": "We're extending your probation by three months to see further improvement.",
+    "targets": [
+      "probation"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "leave request",
+    "verbose": "I wanted to take leave from the twelfth to the twenty-third of next month for going to my native place for one family function, so kindly approve my leave application and do the needful.",
+    "reference": "Could I take annual leave from the twelfth to the twenty-third for a family event?",
+    "targets": [
+      "annual leave"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "sickness absence",
+    "verbose": "One of my team members has been not coming to the office because of illness for more than one week now, so what is the process, does he need to give any medical certificate or not?",
+    "reference": "He's been off sick over a week — does he need a sick note?",
+    "targets": [
+      "off sick",
+      "sick note"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "restructuring",
+    "verbose": "It is very sad but due to the financial situation of the company, some of the roles in this department will not be continued, and the people in those roles may unfortunately lose their jobs.",
+    "reference": "Sadly, the company's finances mean some roles here are at risk of redundancy.",
+    "targets": [
+      "redundancy"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "recruitment",
+    "verbose": "We have got more than two hundred applications for the job, so first we need to go through all of them and select maybe ten best candidates whom we can call for the interview.",
+    "reference": "We've two hundred applicants; let's shortlist ten for interview.",
+    "targets": [
+      "shortlist"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "pre-employment checks",
+    "verbose": "Before we give the final offer letter to the candidate, we should contact the people from his previous companies and ask them about how his work and behaviour was there.",
+    "reference": "Let's take up references before making a final offer.",
+    "targets": [
+      "take up"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "onboarding",
+    "verbose": "For the new joiners, we should make one proper plan for the first week so that they know whom to meet, what training to do, and what systems to learn, instead of just sitting idle.",
+    "reference": "New starters need a structured first-week onboarding plan.",
+    "targets": [
+      "onboarding"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "grievance",
+    "verbose": "One of the employees has made a formal complaint against her manager saying that he is treating her unfairly and giving her all the difficult work, so we need to investigate this properly.",
+    "reference": "She's filed a formal complaint about her manager — the investigation must be rigorous.",
+    "targets": [
+      "rigorous"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "flexible working",
+    "verbose": "Many staff are asking whether they can come late and leave late, or come early and leave early, according to their own convenience, as long as they complete their total hours.",
+    "reference": "Lots of staff are asking for flexitime, provided they work their hours.",
+    "targets": [
+      "flexitime"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "office space",
+    "verbose": "Since many people are working from home now on some days, we are planning that nobody will have their fixed desk, and whoever comes can sit on any desk which is free that day.",
+    "reference": "With hybrid working, we're moving to hot-desking.",
+    "targets": [
+      "hot-desking"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "pay discussion",
+    "verbose": "I wanted to discuss with you regarding my salary, because I have been working here for three years now and taking more responsibility, but my salary has not increased according to that.",
+    "reference": "Could we discuss a pay rise? My responsibilities have grown over three years.",
+    "targets": [
+      "pay rise"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "resignation",
+    "verbose": "I have decided to leave the company and I am giving my resignation letter today, and as per my contract I will be working for one more month before my last working day.",
+    "reference": "I'm resigning today and will work my one-month notice period.",
+    "targets": [
+      "notice period"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "leavers",
+    "verbose": "Since the employee is joining our competitor, we don't want him to come to office or access any systems during his last one month, but we will continue to pay his full salary.",
+    "reference": "As he's joining a competitor, we'll put him on gardening leave.",
+    "targets": [
+      "gardening leave"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "disciplinary",
+    "verbose": "Because of the repeated late coming and the incident last week, we will have to call him for one formal meeting where he can explain his side, and he can bring one colleague with him also.",
+    "reference": "We'll hold a formal hearing; he can explain and bring a colleague.",
+    "targets": [
+      "colleague"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "hiring freeze",
+    "verbose": "The management has told us that for the next six months we cannot hire any new people, even if somebody leaves, we cannot replace them, we have to manage with the same team.",
+    "reference": "There's a six-month headcount freeze, even for leavers.",
+    "targets": [
+      "headcount"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "feedback skills",
+    "verbose": "One small tip from my side, when you are giving negative feedback to your team member, don't go round and round in circles, tell him directly what the problem is but in a polite and respectful way.",
+    "reference": "When giving tough feedback, don't beat about the bush — be direct but respectful.",
+    "targets": [
+      "beat about the bush"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "staff retention",
+    "verbose": "Many good people are leaving the company from last one year, and when we asked them, most of them said that they are not seeing any growth or career progression here.",
+    "reference": "Staff turnover's high; leavers say they see no career progression.",
+    "targets": [
+      "turnover"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "development",
+    "verbose": "There is an opportunity for you to go and work in our Manchester office for six months on a temporary basis, and after that you will come back to your current role here only.",
+    "reference": "There's a six-month secondment to Manchester, after which you'd return to this role.",
+    "targets": [
+      "secondment"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "overtime",
+    "verbose": "Since you worked extra hours on the weekend for the project launch, instead of paying you overtime we can give you the same number of hours off on some other day.",
+    "reference": "You can take time off in lieu for the weekend hours.",
+    "targets": [
+      "time off in lieu"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "management training",
+    "verbose": "We are planning to send all the managers for one leadership training course, because many of them were promoted recently and they don't have much experience of managing people.",
+    "reference": "Many line managers are newly promoted, so we're sending them on leadership training.",
+    "targets": [
+      "line manager"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "hybrid policy",
+    "verbose": "Sir, I am understanding that you want me to come to office all five days, but the company policy is clearly saying that we are allowed to work from home two days in a week, isn't it?",
+    "reference": "With all due respect, policy allows two home-working days a week.",
+    "targets": [
+      "with all due respect"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "cover",
+    "verbose": "Since Sarah is going on maternity leave from next month for one year, we need to find someone who can do her work temporarily until she comes back to the office.",
+    "reference": "We need cover while Sarah's on maternity leave next month.",
+    "targets": [
+      "maternity leave"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "pay equity",
+    "verbose": "We found in the review that some women in the same role are getting less salary than men who are doing exactly the same work, which is not fair and we need to correct it.",
+    "reference": "The review found unequal pay for the same role — we must make it equitable.",
+    "targets": [
+      "equitable"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "return to work",
+    "verbose": "When an employee comes back after being sick for a long time, the manager should sit with them and talk about how they are feeling and whether they need any support at work.",
+    "reference": "After long-term sickness, a return-to-work chat helps managers gauge what support's needed.",
+    "targets": [
+      "gauge"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "job offer",
+    "verbose": "The salary and other benefits which we are offering to you for this position, like pension, bonus and health insurance, all the details are mentioned in the offer letter which I am sending.",
+    "reference": "Your full remuneration package is set out in the offer letter.",
+    "targets": [
+      "remuneration"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "interviewing",
+    "verbose": "In the candidate's resume, there is a gap of almost two years where nothing is written, so we should ask him in the interview what he was doing during that time period.",
+    "reference": "Let's ask about the two-year gap on his CV.",
+    "targets": [
+      "CV"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "team conflict",
+    "verbose": "I wanted to bring one thing to your notice, that two people in my team are not talking to each other properly from last few weeks because of some argument, and it is affecting the whole team's work and the atmosphere also.",
+    "reference": "Two of my team have fallen out — let's nip it in the bud before it spreads.",
+    "targets": [
+      "nip it in the bud"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "workload",
+    "verbose": "Honestly speaking, I am having too much work these days, I am staying late every day and working weekends also, and still I am not able to finish everything which is given to me.",
+    "reference": "I'm up to my eyes — working late and weekends, and still not keeping up.",
+    "targets": [
+      "up to my eyes"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "improvement plan",
+    "verbose": "We will make one plan with clear targets for the next eight weeks, and we will meet every two weeks to check how you are doing against those targets, and support you wherever needed.",
+    "reference": "We'll set an eight-week plan with clear milestones and regular check-ins.",
+    "targets": [
+      "milestone"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "dress code",
+    "verbose": "Some of the employees are coming to office in very casual clothes like shorts and slippers, which is not suitable, especially on the days when clients are visiting the office.",
+    "reference": "Shorts and flip-flops aren't suitable on client days — smart casual, please.",
+    "targets": [
+      "smart casual"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "recognition",
+    "verbose": "I just wanted to say that the work you did on the project last month was really very excellent, everyone appreciated it a lot, and it made a big difference to the whole team.",
+    "reference": "Your work on last month's project made a real difference. Well done.",
+    "targets": [
+      "well done"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "exit interviews",
+    "verbose": "In the exit interview, we want the employees who are leaving to tell us honestly and openly about why they are leaving, even if it is negative, so that we can improve ourselves.",
+    "reference": "We want candour in exit interviews, even if it's critical.",
+    "targets": [
+      "candour"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "policy rollout",
+    "verbose": "The senior management has approved the new policy, now every manager has to explain this policy to their own team members in their team meetings so that everyone knows about it.",
+    "reference": "Managers should cascade the new policy to their teams.",
+    "targets": [
+      "cascade"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "company meeting",
+    "verbose": "Next Friday we are planning one big meeting with all the employees of the company together, where the chief executive will talk about the results of the year and the plans for next year.",
+    "reference": "Next Friday's all-hands will cover the year's results and next year's plans.",
+    "targets": [
+      "all-hands"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "retirement",
+    "verbose": "Since Tom is retiring after twenty-five years in the company, we are planning to organise a small party for him on his last day where everybody can come and say goodbye to him.",
+    "reference": "We're throwing Tom a leaving do on his last day.",
+    "targets": [
+      "leaving do"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "hard-to-fill roles",
+    "verbose": "The hiring for the two developer positions is taking too much time, it's already three months and we have not found anybody suitable, and the team is suffering because of the extra workload.",
+    "reference": "Good developers are like gold dust; three months on, both roles are unfilled.",
+    "targets": [
+      "like gold dust"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "pensions",
+    "verbose": "As per the law, all the eligible employees will be automatically added into the company's pension scheme, but if somebody does not want it, they can choose to opt out of it.",
+    "reference": "Eligible staff are auto-enrolled in the workplace pension but can opt out.",
+    "targets": [
+      "workplace pension"
+    ]
+  },
+  {
+    "domain": "human resources",
+    "category": "confidentiality",
+    "verbose": "Please don't discuss about this investigation with anyone in the office, not even with your close colleagues, because it is a confidential matter and it can affect the people involved.",
+    "reference": "This investigation's confidential, so mum's the word — even with close colleagues.",
+    "targets": [
+      "mum's the word"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "supplier delay",
+    "verbose": "The supplier just now called and informed that the raw materials which were supposed to come on Monday will now come only on Thursday because of some problem in their factory.",
+    "reference": "The supplier's pushed Monday's delivery to Thursday, which will have a knock-on effect.",
+    "targets": [
+      "knock-on effect"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "production",
+    "verbose": "The whole production is getting delayed because of the packing section, all the other sections are working fast but the packing section is very slow and everything is getting stuck there.",
+    "reference": "Packing is the bottleneck holding up production.",
+    "targets": [
+      "bottleneck"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "warehouse space",
+    "verbose": "Our warehouse is completely full right now, there is no space at all to keep any more stock, so if new goods come this week we don't know where we will keep them.",
+    "reference": "The warehouse is at capacity, so we've nowhere for this week's deliveries.",
+    "targets": [
+      "at capacity"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "supply risk",
+    "verbose": "What if the main supplier is not able to supply for some reason in future, we don't have any other backup option ready, so I think we should arrange one second supplier also.",
+    "reference": "We need a contingency — a second supplier in case the main one fails.",
+    "targets": [
+      "contingency"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "shipment tracking",
+    "verbose": "The customer is asking where is the shipment, and when I checked the tracking, it is showing stuck at the port for the last four days, and there is no update after that.",
+    "reference": "The shipment's been stuck at port four days; I'll liaise with the freight agent.",
+    "targets": [
+      "liaise"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "stock-out",
+    "verbose": "We have finished all the stock of the medium size boxes, and the next delivery is coming only next week, so for this week we will not be able to send any orders which need that size.",
+    "reference": "We've run out of medium boxes until next week, so those orders are on hold.",
+    "targets": [
+      "run out of"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "process improvement",
+    "verbose": "The process for approving the dispatch is having too many steps, it is going to three different people for signature, which is taking lot of time unnecessarily for no reason.",
+    "reference": "Dispatch approval needs three signatures — we should streamline it.",
+    "targets": [
+      "streamline"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "maintenance scheduling",
+    "verbose": "The machine maintenance which we have planned for Tuesday, can we shift it to the weekend instead, because on Tuesday we have a big order to complete and we need all the machines running.",
+    "reference": "Can we put back Tuesday's maintenance to the weekend? We need every machine.",
+    "targets": [
+      "put back"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "quality control",
+    "verbose": "In the last batch which came from the supplier, many of the items are having defects, around fifteen percent are broken or damaged, which is much higher than what is normally acceptable.",
+    "reference": "Fifteen per cent of the last batch is defective — well above our threshold.",
+    "targets": [
+      "threshold"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "route planning",
+    "verbose": "If we change the delivery routes slightly so that the drivers don't have to go back and forth so many times, we can save a lot of fuel and also time every single day.",
+    "reference": "Smarter routing would save fuel and time — it's not rocket science.",
+    "targets": [
+      "it's not rocket science"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "seasonal demand",
+    "verbose": "Every year in December the orders go up very much because of Christmas, so we should start preparing from now itself, like hiring extra staff and ordering extra stock in advance.",
+    "reference": "December always spikes, so let's stock up and hire temps now.",
+    "targets": [
+      "stock up"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "driver shortage",
+    "verbose": "We are facing a problem these days that we don't have enough drivers, many drivers have left and the new ones are not easily available, so some deliveries are getting delayed.",
+    "reference": "Drivers are thin on the ground, so some deliveries are slipping.",
+    "targets": [
+      "thin on the ground"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "overtime costs",
+    "verbose": "To complete the order on time, the only option is that the staff will have to work extra hours on Saturday and Sunday, but that will cost us a lot of money in overtime payments.",
+    "reference": "The only way is weekend overtime — and it'll cost an arm and a leg.",
+    "targets": [
+      "cost an arm and a leg"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "site safety",
+    "verbose": "I am very worried because I have noticed that some of the workers in the warehouse are not wearing their safety shoes and helmets properly, which is very dangerous, and if any accident happens, the company will be responsible.",
+    "reference": "Some warehouse staff are ignoring safety kit — a serious health and safety risk.",
+    "targets": [
+      "health and safety"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "performance tracking",
+    "verbose": "We should start measuring how many orders are going out on time every day, so that we can see whether we are improving or not, and where exactly the problems are coming.",
+    "reference": "Tracking daily on-time dispatch would show our trajectory and pinpoint problems.",
+    "targets": [
+      "trajectory"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "supplier pricing",
+    "verbose": "The supplier has informed that from next month they are increasing their prices by twelve percent, which is very high, so we should talk to them and try to reduce it or find another supplier.",
+    "reference": "A twelve per cent rise is steep; let's negotiate or shop around.",
+    "targets": [
+      "shop around"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "lean inventory",
+    "verbose": "We are keeping very less stock in the warehouse to save the money, but because of that, if any delivery is delayed even by one day, the whole production stops completely.",
+    "reference": "With such low stock, one late delivery throws a spanner in the works.",
+    "targets": [
+      "spanner in the works"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "courier performance",
+    "verbose": "The current courier company is very unreliable, many parcels are getting lost or delivered late, so I am thinking we should change to some other courier company as soon as possible.",
+    "reference": "Our courier's become hit and miss, so let's switch.",
+    "targets": [
+      "hit and miss"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "stocktake",
+    "verbose": "Tomorrow we are going to do the full stock counting in the warehouse, so all the dispatches will be stopped for the whole day, kindly inform all the customers in advance about the same.",
+    "reference": "Dispatches stop tomorrow for the stocktake — please pass on the news to customers.",
+    "targets": [
+      "pass on"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "shift rota",
+    "verbose": "I have made the shift schedule for next week, but two people are on leave on Wednesday, so we are short of staff on that day, can someone from the other team cover?",
+    "reference": "Wednesday's two short — could someone from another team fill in?",
+    "targets": [
+      "fill in"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "customs",
+    "verbose": "The container is held up at the customs because some document was missing in the paperwork which the supplier sent, and until we submit that document they will not release it.",
+    "reference": "A missing document is holding up the container at customs.",
+    "targets": [
+      "hold up"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "fleet",
+    "verbose": "Most of our delivery vans are very old now, they are breaking down frequently and the repair costs are very high, so maybe it is better to replace them with new ones.",
+    "reference": "The vans keep breaking down — an overhaul of the fleet is overdue.",
+    "targets": [
+      "overhaul"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "tight deadline",
+    "verbose": "The order will be ready on Thursday evening and the client needs it on Friday morning, so there is very little time in between, if anything goes wrong it will be late.",
+    "reference": "Ready Thursday evening for a Friday morning delivery — that's cutting it fine.",
+    "targets": [
+      "cutting it fine"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "shipment planning",
+    "verbose": "Instead of sending three small shipments separately to the same customer, we can combine them all together into one big shipment, which will save the transport cost for us.",
+    "reference": "Let's consolidate the three shipments into one to save on transport.",
+    "targets": [
+      "consolidate"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "equipment fault",
+    "verbose": "The forklift in the warehouse is not working properly since morning, it is stopping again and again, so the loading of the trucks is getting very slow today.",
+    "reference": "The forklift's on the blink, so loading's slow today.",
+    "targets": [
+      "on the blink"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "dual sourcing",
+    "verbose": "Since this supplier has delayed three times this year, we should start buying some part of our materials from another supplier also, so that if this one fails again we are not completely stuck.",
+    "reference": "Let's split orders with a second supplier to mitigate the risk.",
+    "targets": [
+      "mitigate"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "new systems",
+    "verbose": "Just to update everyone, the new warehouse system which we started using from last week is having some small small problems in the beginning, like scanning errors, but slowly slowly it will become fine.",
+    "reference": "The new warehouse system has a few teething problems, but it'll settle down.",
+    "targets": [
+      "teething problems"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "capacity planning",
+    "verbose": "If we get the big contract which we are bidding for, then the current team and the space we have will not be enough, we will need more people and a bigger warehouse.",
+    "reference": "If we win the contract, our current setup simply isn't scalable.",
+    "targets": [
+      "scalable"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "waste reduction",
+    "verbose": "We are throwing away lots of packaging material every day which is still in good condition, so maybe we can reuse it for the outgoing parcels instead of buying new packaging.",
+    "reference": "We could make do with reused packaging rather than buying new.",
+    "targets": [
+      "make do"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "driver hours",
+    "verbose": "As per the rules, the drivers cannot drive more than a certain number of hours in one day, so for this long route to Scotland we will need two drivers or one overnight stop.",
+    "reference": "HGV hours rules mean the Scotland run needs two drivers or an overnight stop.",
+    "targets": [
+      "HGV"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "order cut-off",
+    "verbose": "Kindly inform the sales team that any order which comes after three o'clock in the afternoon cannot be dispatched on the same day, it will be dispatched only on the next working day.",
+    "reference": "Can you brief sales? Orders after three dispatch the next working day.",
+    "targets": [
+      "brief"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "vendor selection",
+    "verbose": "As you know, as per the company rules we have to go through the formal procurement process for selecting the new logistics partner, which means we have to invite at least three companies to give quotation and then compare.",
+    "reference": "Procurement rules mean we need at least three quotes for the new logistics partner.",
+    "targets": [
+      "procurement"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "unit costs",
+    "verbose": "If we can find some way to reduce the cost of each delivery even by small amount, like fifty pence, then over the full year it will become a very big saving for the company.",
+    "reference": "Shaving even fifty pence per delivery adds up to a big saving over the year.",
+    "targets": [
+      "pence"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "overstock",
+    "verbose": "We ordered too much stock of the summer products this year, and now the summer is finished but we still have so much stock left which nobody is buying from us.",
+    "reference": "In hindsight, we over-ordered summer stock, and it's not shifting.",
+    "targets": [
+      "in hindsight"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "transport disruption",
+    "verbose": "We had planned everything properly for the delivery, but suddenly there was one problem that the road was closed due to accident, so the truck had to take a long route.",
+    "reference": "A road closure cropped up, forcing a long detour.",
+    "targets": [
+      "crop up"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "supplier audit",
+    "verbose": "Before we sign the contract with the new supplier from abroad, someone from our team should go and visit their factory personally to check the quality and working conditions there.",
+    "reference": "Someone should visit and scrutinise the supplier's factory before we sign.",
+    "targets": [
+      "scrutinise"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "shift communication",
+    "verbose": "What happened was that the night shift people didn't tell the morning shift that one of the machines was making strange noise, so the morning shift started using it and it broke down completely.",
+    "reference": "The night shift didn't flag up the noisy machine, so it broke down.",
+    "targets": [
+      "flag up"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "delivery slots",
+    "verbose": "The customer is requesting that the delivery should come only between nine and eleven in the morning because after that their loading bay will be busy with other deliveries.",
+    "reference": "Could we squeeze in a nine-to-eleven slot? Their bay's busy later.",
+    "targets": [
+      "squeeze in"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "lost consignment",
+    "verbose": "There is one serious problem, one pallet of goods which was dispatched from our warehouse has not reached the customer, and the transport company is saying they don't know where it is.",
+    "reference": "A pallet's missing in transit; we need to ascertain where it went astray.",
+    "targets": [
+      "ascertain"
+    ]
+  },
+  {
+    "domain": "operations",
+    "category": "legacy systems",
+    "verbose": "If we don't upgrade the old system soon, there is a risk that it may fail completely during the busy season, and then all the Christmas orders will be affected badly.",
+    "reference": "If the old system fails in peak season, it could jeopardise Christmas orders.",
+    "targets": [
+      "jeopardise"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "staff rota",
+    "verbose": "Sorry to say but for the next week, the staff timetable is not finalised yet because two people have asked for leave on Saturday, which is our busiest day, so I am still trying to adjust it.",
+    "reference": "Next week's rota is still up in the air — two people want Saturday off.",
+    "targets": [
+      "up in the air"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "shrinkage",
+    "verbose": "To be very honest with you, from last few weeks lot of items are going missing from the store, especially the small expensive ones like headphones and perfumes, and we think some customers are stealing them.",
+    "reference": "Shoplifting of small, pricey items is rising — we need to curtail it.",
+    "targets": [
+      "curtail"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "area manager visit",
+    "verbose": "The area manager is coming for visit tomorrow morning, so today itself we have to make sure that the shop is fully clean, all the shelves are full, and everything is looking proper.",
+    "reference": "The area manager's in tomorrow, so let's tidy up and fill the shelves today.",
+    "targets": [
+      "tidy up"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "promotions",
+    "verbose": "The buy one get one free offer which we did last month was very successful, the sales increased a lot, but our profit was less because we gave so much free.",
+    "reference": "The offer was selling like hot cakes, but it dented our margins.",
+    "targets": [
+      "sell like hot cakes"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "cashing up",
+    "verbose": "When we counted the cash in the till at closing time yesterday, it was twenty pounds less than what the system was showing, and we are not sure what happened.",
+    "reference": "Last night's till was twenty pounds down on the system.",
+    "targets": [
+      "till"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "checkout queues",
+    "verbose": "So many many customers are complaining again and again that they have to wait in the line for very long time at the checkout during lunch time, because only one counter is open at that time.",
+    "reference": "Customers are fed up with the lunchtime queue — we need more tills open.",
+    "targets": [
+      "fed up",
+      "queue"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "lateness",
+    "verbose": "I noticed that you have come late to work four times in the last two weeks, and because of that the morning opening is getting delayed, so I wanted to understand what is the reason.",
+    "reference": "Can I have a quick word? You've been late four times recently.",
+    "targets": [
+      "can I have a quick word?"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "visual merchandising",
+    "verbose": "I think we should change the display in the front window because it is the same from last two months, and people are just walking past without even looking at it.",
+    "reference": "The window display's looking old hat; let's refresh it.",
+    "targets": [
+      "old hat"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "online orders",
+    "verbose": "Many customers are ordering online and then coming to the store to pick up their order, but the collection area is at the back of the shop and it is difficult to find.",
+    "reference": "Click and collect customers struggle to find the collection point at the back.",
+    "targets": [
+      "click and collect"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "customer data",
+    "verbose": "We should encourage customers to sign up for our points card, because then we can understand what they are buying and send them offers which are relevant to them.",
+    "reference": "Pushing loyalty card sign-ups would help us target offers.",
+    "targets": [
+      "loyalty card"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "clearance",
+    "verbose": "The winter coats are not selling much now and the spring stock is coming at the end of January, so we should reduce the price of the coats and clear them out quickly.",
+    "reference": "Let's reduce the coats in the January sales to clear space for spring.",
+    "targets": [
+      "the January sales"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "busy weekend",
+    "verbose": "Saturday was very busy and we didn't have enough staff, so the customers were waiting and some of them left without buying, we lost lot of sales because of this.",
+    "reference": "The shop was chock-a-block and short-staffed on Saturday, so customers walked out.",
+    "targets": [
+      "chock-a-block"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "head office instructions",
+    "verbose": "The head office has sent the new layout plan for how the products should be arranged on the shelves, and all stores have to follow it exactly by Monday without fail.",
+    "reference": "The powers that be want the new shelf layout in place by Monday.",
+    "targets": [
+      "the powers that be"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "receipts",
+    "verbose": "Madam, without the receipt we are not able to give you the cash refund as per our policy, but what we can do is we can give you exchange or credit note for the same amount.",
+    "reference": "I'm afraid without a receipt we can only offer an exchange or credit note.",
+    "targets": [
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "daily target",
+    "verbose": "Our target for today is to sell five thousand pounds, and till now at two o'clock we have done only two thousand, so we have to push much more in the afternoon.",
+    "reference": "We're two grand into a five-grand target — we need a strong afternoon.",
+    "targets": [
+      "grand"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "new starter",
+    "verbose": "The new girl who joined today, she will work along with you for the full week and observe how you do everything, so please teach her properly and patiently.",
+    "reference": "Our new starter will shadow you this week while she learns the ropes.",
+    "targets": [
+      "learn the ropes"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "product recall",
+    "verbose": "The supplier has informed us that one batch of the baby food may have some contamination problem, so we have to remove all those products from the shelves immediately.",
+    "reference": "A baby food batch may be contaminated; it's imperative we pull it today.",
+    "targets": [
+      "imperative"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "trading hours",
+    "verbose": "From next month onwards, we are thinking to open the store one hour earlier on weekdays because many office people want to do their shopping before going to work.",
+    "reference": "We'll extend weekday opening hours to catch shoppers before work.",
+    "targets": [
+      "opening hours"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "late delivery",
+    "verbose": "So what happened today morning was, the delivery truck which was supposed to come at six in the morning came at eleven, so the staff could not fill the shelves before opening and the store looked empty.",
+    "reference": "The six o'clock delivery turned up at eleven, so we opened with empty shelves.",
+    "targets": [
+      "turn up"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "mystery shopper",
+    "verbose": "I am sorry to say that the mystery shopper report has finally come and our store got very low marks, mainly because the staff did not greet the customer and nobody offered any help to them.",
+    "reference": "The mystery shopper score shows room for improvement — nobody greeted or offered help.",
+    "targets": [
+      "room for improvement"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "store refit",
+    "verbose": "As you all know, the store renovation work which is planned will happen for three weeks, and during that time some sections will be closed, so the sales may go down a little bit temporarily.",
+    "reference": "The refit shuts some sections for three weeks; we'll have to weather the storm.",
+    "targets": [
+      "weather the storm"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "price matching",
+    "verbose": "The customer is saying that the same television is available cheaper in the other shop on the high street, and he wants us to give the same price, otherwise he will go there.",
+    "reference": "He's seen the TV cheaper up the high street and wants a price match.",
+    "targets": [
+      "high street"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "morale",
+    "verbose": "After the changes in the shift timings, many of the staff are unhappy and complaining, and their energy and motivation at work has become very low.",
+    "reference": "Since the shift changes, the team's down in the dumps.",
+    "targets": [
+      "down in the dumps"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "ordering error",
+    "verbose": "Very embarrassing to say, but by mistake, instead of ordering fifty units of the item we ordered five hundred units, because one extra zero was typed, and now the stock room is full of it.",
+    "reference": "An extra zero got us five hundred units, not fifty — I'll carry the can.",
+    "targets": [
+      "carry the can"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "seasonal hiring",
+    "verbose": "For the Christmas season we will need some extra temporary staff for six weeks, so we should start the hiring process from now itself, otherwise all the good people will be taken.",
+    "reference": "Let's hire Christmas temps now or we'll miss the boat.",
+    "targets": [
+      "miss the boat"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "complaint about staff",
+    "verbose": "A customer has written a complaint saying that one of our cashiers was very rude to her and didn't say thank you or even look at her while billing.",
+    "reference": "A customer's complained a cashier was rude; I'll see to it today.",
+    "targets": [
+      "see to"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "footfall",
+    "verbose": "The number of people coming into the store has reduced from last few months, maybe because of the new shopping mall which opened nearby, so we need to do something to attract them.",
+    "reference": "Footfall's dropped since the new shopping centre opened nearby.",
+    "targets": [
+      "shopping centre"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "store standards",
+    "verbose": "I have observed that the fitting rooms are always very very messy, with clothes lying here and there and everywhere, so somebody from the staff should go and check and clean them every one hour at least, without fail.",
+    "reference": "The fitting rooms are at sixes and sevens — someone should tidy them hourly.",
+    "targets": [
+      "at sixes and sevens"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "holiday cover",
+    "verbose": "Just to inform everyone, I am going on leave for two weeks starting from Monday, so my deputy will look after the store, and if there is any urgent issue then you can contact the area manager directly.",
+    "reference": "My deputy will hold the fort while I'm away; urgent issues go to the area manager.",
+    "targets": [
+      "hold the fort"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "staff discount",
+    "verbose": "Some staff are using their staff discount to buy items for their friends and relatives also, which is not allowed as per the policy, it is only for the staff themselves.",
+    "reference": "We can't turn a blind eye to staff using their discount for friends.",
+    "targets": [
+      "turn a blind eye"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "home delivery",
+    "verbose": "There is one complaint, the sofa which the customer had bought from us was supposed to be delivered on Saturday, but the delivery team didn't come and nobody informed her, so she is very upset.",
+    "reference": "Her sofa didn't arrive Saturday and no one told her — she's understandably upset.",
+    "targets": [
+      "sofa"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "seasonal display",
+    "verbose": "Since the weather is becoming very hot now, I am thinking that we should bring the sunglasses and the sun cream to the front of the store near the entrance where everybody can see.",
+    "reference": "With the heatwave, let's move sunglasses and sun cream by the entrance.",
+    "targets": [
+      "heatwave"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "parking",
+    "verbose": "Many customers are complaining that the parking near our store is always full and they have to go round and round to find a space, so they are going to other shops.",
+    "reference": "Customers say the car park's always full, so they're going elsewhere.",
+    "targets": [
+      "car park"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "stock rotation",
+    "verbose": "When you are filling the shelves, please put the new stock at the back and move the old stock to the front, so that the old items get sold first before expiry.",
+    "reference": "As a rule of thumb, older stock goes at the front.",
+    "targets": [
+      "rule of thumb"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "regional comparison",
+    "verbose": "When we compare with the other stores in our region, our sales are the lowest, even though our store size and location is similar to them, so something is not right.",
+    "reference": "We're not a patch on similar stores in the region.",
+    "targets": [
+      "not a patch on"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "wet floor",
+    "verbose": "There is water on the floor near the entrance because of the rain, and someone may slip and fall, so please put the warning sign and clean it immediately.",
+    "reference": "Please clear up the wet entrance floor and put a sign out.",
+    "targets": [
+      "clear up"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "self-checkouts",
+    "verbose": "The new self-checkout machines are confusing for many older customers, they don't know how to use them and keep calling the staff for help again and again.",
+    "reference": "Lots of older customers can't make head nor tail of the self-checkouts.",
+    "targets": [
+      "can't make head nor tail of"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "holiday trading",
+    "verbose": "Next Monday is a public holiday and we are expecting the store to be very busy, so everybody who is free please try to come, and you will get extra pay for that day.",
+    "reference": "It's a bank holiday Monday, so all hands welcome — there's extra pay.",
+    "targets": [
+      "bank holiday"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "store success",
+    "verbose": "I am so happy to announce to everyone that this month, our store has achieved the highest sales in the whole region, and the area manager has also sent a congratulations message to all of us.",
+    "reference": "We topped the region this month — the area manager's over the moon.",
+    "targets": [
+      "over the moon"
+    ]
+  },
+  {
+    "domain": "retail",
+    "category": "customer suggestion",
+    "verbose": "Actually one of our regular customers has given a good suggestion that we should keep some chairs near the fitting rooms because the husbands and the older people get tired of standing while waiting.",
+    "reference": "A customer suggested seating by the fitting rooms — food for thought.",
+    "targets": [
+      "food for thought"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "overbooking",
+    "verbose": "Unfortunately the hotel is fully booked tonight because of some mistake in the booking system, we have given your room to someone else by mistake, but we have arranged a room for you in our partner hotel nearby.",
+    "reference": "Apologies — we've overbooked, but we've secured you a room at a partner hotel nearby.",
+    "targets": [
+      "apologies"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "late check-out",
+    "verbose": "Yes madam, there is no problem at all, you can definitely stay in the room till two o'clock instead of the normal check-out time of eleven, we have no issue with that.",
+    "reference": "By all means — a two o'clock check-out is fine.",
+    "targets": [
+      "by all means"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "allergies",
+    "verbose": "One of the guests in the wedding party is having severe allergy to nuts, so please inform the kitchen team very clearly that none of her dishes should have any nuts at all.",
+    "reference": "A wedding guest has a severe nut allergy, so the kitchen needs stringent precautions.",
+    "targets": [
+      "stringent"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "online reviews",
+    "verbose": "Did you see, there is one bad review which came online yesterday about our restaurant, the customer has written that the food was cold and the waiter was rude, and to be honest it is partly true.",
+    "reference": "The cold food and rude waiter review is fair — let's take it on the chin.",
+    "targets": [
+      "take it on the chin"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "kitchen staffing",
+    "verbose": "Big problem, the head chef has just now called and said he is not well and cannot come today, and tonight we have a full booking of eighty covers, so I don't know how we will manage.",
+    "reference": "The head chef's ill with eighty covers booked — can anyone stand in for him?",
+    "targets": [
+      "stand in for"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "event booking",
+    "verbose": "To confirm the booking of the hall for your party, we need you to pay twenty-five percent of the total amount as an advance, and the remaining amount can be paid one week before the event.",
+    "reference": "A twenty-five per cent deposit secures the hall; the balance is due a week before.",
+    "targets": [
+      "deposit"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "noise complaint",
+    "verbose": "The guest in room two-oh-four has called the reception and complained that the people in the next room are making too much noise and he is not able to sleep at all.",
+    "reference": "Room two-oh-four can't sleep for the noise next door — could someone pop up?",
+    "targets": [
+      "pop up"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "menu pricing",
+    "verbose": "The thing is, you see, since the prices of the vegetables and meat have increased so much, either we have to increase the menu prices or we have to make the portions smaller, there is no other option.",
+    "reference": "It's higher prices or smaller portions — we're between a rock and a hard place.",
+    "targets": [
+      "between a rock and a hard place"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "food hygiene",
+    "verbose": "Please everyone note that the food safety inspector is coming next week to check the kitchen, so we have to make sure everything is clean, all the temperature records are updated, and the fridges are labelled properly.",
+    "reference": "The inspector's due next week; cleaning, temperature logs and labelling must be done and dusted.",
+    "targets": [
+      "done and dusted"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "service recovery",
+    "verbose": "Since the guest had a bad experience last time with the air conditioning not working, this time we can give her a better room free of charge to make her happy.",
+    "reference": "After last time's air-con trouble, let's give her the upgrade on the house.",
+    "targets": [
+      "on the house"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "wedding planning",
+    "verbose": "Honestly I don't know what to do, the bride's mother has called again for the fifth time this week, changing the seating plan and the menu again, and the event is only three days away now.",
+    "reference": "The bride's mother is still changing the seating and menu at the eleventh hour.",
+    "targets": [
+      "at the eleventh hour"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "service charge",
+    "verbose": "The customer is asking whether the service charge is compulsory or not, and he is saying that he is not happy with the service, so he doesn't want to pay that extra amount.",
+    "reference": "He's unhappy with the service, so on balance I'd waive the optional charge.",
+    "targets": [
+      "on balance"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "staff turnover",
+    "verbose": "In our restaurant, the waiters and kitchen staff keep leaving after just two or three months, so we are always hiring and training new people again and again, which wastes time.",
+    "reference": "Staff leave within months, so we're constantly back to square one with training.",
+    "targets": [
+      "back to square one"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "conference setup",
+    "verbose": "For tomorrow's conference, kindly do the needful and please arrange the room properly in classroom style for sixty people, with projector, microphone, water bottles and notepads on every table before eight o'clock.",
+    "reference": "Sixty, classroom style, with AV and stationery — ready to a T by eight.",
+    "targets": [
+      "to a T"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "lost property",
+    "verbose": "One more thing, a guest who checked out yesterday has called and said that she left her phone charger and one scarf in the room, and she is asking whether we found it or not.",
+    "reference": "I'll check lost property for her charger and scarf and get back to her.",
+    "targets": [
+      "get back to"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "group booking",
+    "verbose": "There is a group of twenty ladies who want to book the private area for a hen party on Saturday night, and they are asking for a drinks package and some food also.",
+    "reference": "A hen do of twenty wants the private area Saturday, with food and drinks.",
+    "targets": [
+      "hen do"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "licensing",
+    "verbose": "Very important point for everyone, please make sure that you always check the ID of anyone who looks younger than twenty-five before serving them alcohol, because if we serve someone underage we can lose our licence.",
+    "reference": "Bar staff must ID anyone who looks under twenty-five, or we risk our licence.",
+    "targets": [
+      "bar staff"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "slow service",
+    "verbose": "The customers on table seven have been waiting for their main course for more than forty-five minutes, and they are very annoyed, so can you check with kitchen what is the delay?",
+    "reference": "Table seven have waited forty-five minutes for mains — what's the hold-up?",
+    "targets": [
+      "hold up"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "occupancy",
+    "verbose": "During the weekdays the hotel is mostly empty, only thirty percent rooms are occupied, so we should make some special offer for business travellers to fill the rooms.",
+    "reference": "Midweek occupancy's thirty per cent, so let's incentivise business travellers.",
+    "targets": [
+      "incentivise"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "guest apology",
+    "verbose": "Madam, first of all I am really very very sorry that your anniversary dinner was spoiled because of the mix-up with the table, please allow us to make it up to you by inviting you again as our guests.",
+    "reference": "I'm sorry the mix-up spoiled your evening; to make up for it, next time's on us.",
+    "targets": [
+      "make up for"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "supplier reliability",
+    "verbose": "I wanted to complain that the laundry company which washes our bed sheets and towels has delivered late three times this month, and one day we almost ran out of towels for the guests.",
+    "reference": "The laundry's been late three times; once, towels arrived in the nick of time.",
+    "targets": [
+      "in the nick of time"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "event budget",
+    "verbose": "The client wants a three-course dinner, open bar and live band for one hundred people, but their budget is very low, it is not possible to give all this in that price.",
+    "reference": "On that budget, dinner and the band at a push, but not the bar.",
+    "targets": [
+      "at a push"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "housekeeping",
+    "verbose": "During my inspection I found that in three rooms the bathrooms were not cleaned properly, there was hair in the basin and the towels were not changed at all.",
+    "reference": "Three bathrooms failed inspection — hair in the basin and unchanged towels.",
+    "targets": [
+      "basin"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "upselling",
+    "verbose": "When the guests are checking in, please ask them politely whether they would like to add breakfast to their booking, because many of them don't know that we have that option.",
+    "reference": "At check-in, you might want to mention breakfast — many guests don't realise.",
+    "targets": [
+      "you might want to"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "festive bookings",
+    "verbose": "Many companies are calling to book their Christmas parties, and we have only few dates left in December, so we should tell them to confirm quickly before the dates are gone.",
+    "reference": "Christmas do dates are nearly gone, so urge companies to confirm.",
+    "targets": [
+      "Christmas do"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "power cut",
+    "verbose": "Yesterday what happened was, suddenly there was a power cut in the kitchen during dinner service, and for almost thirty minutes nothing was working, so many orders got delayed and the customers were very very upset with us.",
+    "reference": "A power cut left the kitchen in chaos for half an hour — not ideal.",
+    "targets": [
+      "not ideal"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "no-shows",
+    "verbose": "Many people are booking tables for the weekend and then not coming and not even cancelling, so we are losing a lot of business, maybe we should take a card deposit for bookings.",
+    "reference": "Weekend no-shows are costing us; let's take a card for every booking.",
+    "targets": [
+      "booking"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "outdoor seating",
+    "verbose": "I was thinking that since the weather is becoming nice now, we should open the outside garden area for customers and put some more tables and umbrellas there, because everyone wants to sit outside.",
+    "reference": "With the weather turning, let's open the beer garden with extra tables and parasols.",
+    "targets": [
+      "beer garden"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "cancellation terms",
+    "verbose": "The couple has cancelled their wedding booking just two months before the date, and as per our terms, the deposit is non-refundable, but they are asking for the full money back.",
+    "reference": "With respect, the terms make the deposit non-refundable at two months' notice.",
+    "targets": [
+      "with respect"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "tips",
+    "verbose": "The staff are asking how the tips which customers are giving should be divided, whether it should be equally between everyone or based on the hours each person worked.",
+    "reference": "Should tips be shared equally or pro rata to hours worked?",
+    "targets": [
+      "pro rata"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "refurbishment",
+    "verbose": "We are going to close the third floor for renovation for one month, so please don't give any bookings on that floor, and inform the guests about some noise during the day.",
+    "reference": "The third floor's shut for refurbishment; let's pre-empt complaints by warning guests about noise.",
+    "targets": [
+      "pre-empt"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "concierge",
+    "verbose": "If any guest is asking about good traditional British food nearby, you can tell them about the pub restaurant which is just round the corner, it is walking distance only, no need of taxi.",
+    "reference": "For British food, suggest the gastropub round the corner — it's an easy walk.",
+    "targets": [
+      "gastropub"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "food waste",
+    "verbose": "We are throwing away so much food every night at closing time, especially bread and salads, so we need to order less or find some way to use it.",
+    "reference": "We bin too much bread and salad nightly, so let's recalibrate our orders.",
+    "targets": [
+      "recalibrate"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "seasonal staff",
+    "verbose": "My suggestion is that since many new seasonal staff are joining for the summer, we should do one quick training session on the first day to explain them the basic rules, menu and service standards.",
+    "reference": "Let's run through the rules, menu and standards with summer staff on day one.",
+    "targets": [
+      "run through"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "fire drill",
+    "verbose": "Just for your information, we will be doing a fire alarm test tomorrow at ten o'clock in the morning, so please inform all the guests in advance so that they don't get scared or confused.",
+    "reference": "Just a quick reminder: fire alarm test at ten tomorrow, so please warn guests.",
+    "targets": [
+      "just a quick reminder"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "corporate rates",
+    "verbose": "This company sends many of their employees to stay in our hotel every month, so they are asking whether we can give them a special lower rate for all their bookings.",
+    "reference": "They're regulars asking for a corporate rate; I'd be inclined to agree.",
+    "targets": [
+      "I'd be inclined to"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "standards slipping",
+    "verbose": "Because we have less housekeeping staff today, some of them are cleaning the rooms very quickly without doing everything properly, which may create complaints from guests.",
+    "reference": "Short-staffed housekeepers are cutting corners, which will bring complaints.",
+    "targets": [
+      "cut corners"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "event feedback",
+    "verbose": "The conference yesterday went very well, the client was extremely happy with everything, the food, the arrangements, the staff, and they want to book again for next year.",
+    "reference": "The client was tickled pink with yesterday's conference and has rebooked.",
+    "targets": [
+      "tickled pink"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "early arrival",
+    "verbose": "Your room is not ready yet madam because the housekeeping is still cleaning it, it will take maybe thirty more minutes, meanwhile you can relax in the lounge and have some tea.",
+    "reference": "Your room's nearly ready — do relax in the lounge with some tea meanwhile.",
+    "targets": [
+      "lounge"
+    ]
+  },
+  {
+    "domain": "hospitality",
+    "category": "closing time",
+    "verbose": "Kindly announce to all the customers that the bar will close in ten minutes, so if anyone wants to order any more drinks, they should do it now itself before closing.",
+    "reference": "Call last orders — the bar closes in ten minutes.",
+    "targets": [
+      "last orders"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "weather delay",
+    "verbose": "Because of the continuous heavy rain from the last two weeks, the work on the foundation is getting delayed, and we may not be able to finish the first phase by the date which we promised.",
+    "reference": "Constant downpours have delayed the foundations, so phase one may slip.",
+    "targets": [
+      "downpour"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "snagging",
+    "verbose": "Before the client takes the handover of the building, we need to go around and check every room for small defects like paint marks, loose handles, cracks, and get all of them fixed.",
+    "reference": "Before handover, let's walk round and iron out every snag.",
+    "targets": [
+      "iron out"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "variations",
+    "verbose": "The client has asked to add one more extra bathroom on the first floor, which was not in the original plan, so this will increase the cost and also the time of the project.",
+    "reference": "An extra first-floor bathroom is a variation — it'll add cost and time.",
+    "targets": [
+      "first floor"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "subcontractors",
+    "verbose": "The electrician who was supposed to come today morning has not come, and he is not even picking up his phone, so the plasterers are also waiting because they cannot start without him.",
+    "reference": "The electrician hasn't turned up, so the plasterers can't start.",
+    "targets": [
+      "turn up"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "cost overrun",
+    "verbose": "I am sorry to inform you that the total cost of the project has already gone above the budget by almost fifteen percent, mainly because the steel prices increased, and we still have two months of work left.",
+    "reference": "Steel prices have pushed us fifteen per cent over budget, with two months to go.",
+    "targets": [
+      "per cent"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "planning",
+    "verbose": "As I told you earlier also, we cannot start the construction of the extension until the council gives the approval for planning permission, and they are saying it may take eight to ten weeks for that.",
+    "reference": "We can't start until the council grants planning permission — eight to ten weeks.",
+    "targets": [
+      "council"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "tenant repairs",
+    "verbose": "The tenant has called again about the boiler, she is saying that there is no hot water from three days and it is very cold, and nobody has come to repair it yet.",
+    "reference": "The tenant's had no hot water for three days — the boiler repair's urgent.",
+    "targets": [
+      "boiler"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "rent review",
+    "verbose": "The landlord has sent the letter saying that from the next renewal they want to increase the rent of the office by fifteen percent, which is much more than the market rate in this area.",
+    "reference": "The landlord wants fifteen per cent more at renewal — well above market rate.",
+    "targets": [
+      "landlord"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "viewings",
+    "verbose": "The couple who came to see the flat yesterday liked it very much, but they felt that the price is little bit high, so they may give an offer slightly less than the asking price.",
+    "reference": "Yesterday's viewers loved the flat but may offer below the asking price.",
+    "targets": [
+      "flat"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "site incident",
+    "verbose": "I have to tell you about one incident, yesterday one worker fell from the scaffolding, luckily he is not badly hurt, but we need to report it properly and check why the safety rails were not fixed there.",
+    "reference": "A worker fell but he's fine; we'll report it and look into the missing rails.",
+    "targets": [
+      "look into"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "quotes",
+    "verbose": "We have received four quotations from different builders, but the lowest one is very very low compared to others, so I am worried that they may do poor quality work.",
+    "reference": "The lowest of four quotes is so cheap I smell a rat.",
+    "targets": [
+      "smell a rat"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "buying costs",
+    "verbose": "When you buy this property, along with the price of the house you will also have to pay some tax to the government depending on the price, so please keep that money also ready.",
+    "reference": "Budget for stamp duty on top of the purchase price.",
+    "targets": [
+      "stamp duty"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "sale delays",
+    "verbose": "The buyers of our house are waiting for their own house to be sold first, and their buyers are also waiting for another sale, so everything is depending on each other and getting delayed.",
+    "reference": "We're stuck in a long property chain, so everything's delayed.",
+    "targets": [
+      "property chain"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "lost purchase",
+    "verbose": "We had agreed the price with the seller and everything was going fine, but now suddenly the seller has accepted a higher offer from another buyer, even after agreeing with us.",
+    "reference": "We've been gazumped — the seller's accepted a higher offer.",
+    "targets": [
+      "gazump"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "programme recovery",
+    "verbose": "To finish the building on time, we need to work on two things together at the same time, like doing the electrical work while the roofing is going on, instead of one after another.",
+    "reference": "To recover the programme, we'll run electrics and roofing in tandem.",
+    "targets": [
+      "in tandem"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "building control",
+    "verbose": "The building inspector from the council is coming on Thursday to check the drainage work, so we must not cover the trenches with soil until he has seen and approved them.",
+    "reference": "Hang fire on backfilling the trenches until Thursday's inspection.",
+    "targets": [
+      "hang fire"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "retention dispute",
+    "verbose": "The main contractor is not releasing our final payment which is five percent of the contract, saying there are still some defects, but we have already fixed all the defects which they told us.",
+    "reference": "Withholding our retention over defects we've already fixed is untenable.",
+    "targets": [
+      "untenable"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "commercial lease",
+    "verbose": "The new tenant is asking that for the first three months they should not have to pay any rent, because they need time to do the fit-out of the office before they can start using it.",
+    "reference": "A three-month rent-free period for the fit-out is par for the course.",
+    "targets": [
+      "par for the course"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "rent arrears",
+    "verbose": "The tenant in flat three has not paid the rent for last two months, we have called and written to her but she is not responding, so what is the next step we should take?",
+    "reference": "Flat three's two months behind and ignoring us — should the letting agent take over?",
+    "targets": [
+      "letting agent"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "materials shortage",
+    "verbose": "There is shortage of bricks in the market these days, all the suppliers are saying they don't have stock and it will take minimum six weeks for the next delivery to come.",
+    "reference": "Bricks are few and far between; suppliers quote six weeks at least.",
+    "targets": [
+      "few and far between"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "design changes",
+    "verbose": "The client keeps changing the design of the kitchen again and again, first she wanted island, then she didn't want, now again she wants it, and every time we have to redo the drawings.",
+    "reference": "She's changed her mind on the kitchen island three times; each iteration means new drawings.",
+    "targets": [
+      "iteration"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "neighbour relations",
+    "verbose": "The neighbours of the site have complained to the council that the construction noise is starting very early in the morning, before seven o'clock, and disturbing their sleep.",
+    "reference": "Neighbours have complained to the council about noise before seven.",
+    "targets": [
+      "neighbour"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "survey results",
+    "verbose": "So finally the survey report of the house has come, and it is showing that there is some damp problem in the back wall and the roof also needs some repair work in the next few years.",
+    "reference": "The survey shows damp and an ageing roof — a bit of an issue, but negotiable.",
+    "targets": [
+      "a bit of an issue"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "late payment",
+    "verbose": "We have finished the work two months back and sent the final invoice, but the developer is still not paying us, and we have to pay our workers and suppliers from our own pocket.",
+    "reference": "We finished two months ago and still haven't been paid — it's not cricket.",
+    "targets": [
+      "it's not cricket"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "handover pack",
+    "verbose": "Along with the keys, we will also give you one file which is having all the manuals, warranties, and certificates for the boiler, electrics, and other equipment in the building.",
+    "reference": "You'll get the keys plus a comprehensive file of manuals, warranties and certificates.",
+    "targets": [
+      "comprehensive"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "tenancy deposit",
+    "verbose": "The tenant who left last week is asking for the full deposit back, but there are some damages on the walls and the carpet is stained, so we want to deduct some amount for repairs.",
+    "reference": "We'll offset the wall and carpet repairs against the departing tenant's deposit.",
+    "targets": [
+      "offset"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "plant hire",
+    "verbose": "The crane hire company has informed that the crane cannot come on Monday because of some technical problem, it will come only on Wednesday, so the steel lifting will be delayed.",
+    "reference": "The crane's been put back to Wednesday, so steel lifting slips too.",
+    "targets": [
+      "put back"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "value engineering",
+    "verbose": "To reduce the cost of the project, we can use some cheaper materials in the areas where nobody will see, like inside the walls, without reducing the quality of the visible areas.",
+    "reference": "Cheaper hidden materials would cut costs without affecting the finish — a pragmatic saving.",
+    "targets": [
+      "pragmatic"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "lettings compliance",
+    "verbose": "Before we can rent out the flat to new tenants, by law we need to get the energy certificate done, and the current rating is very low, so we may have to do some improvements first.",
+    "reference": "We can't let the flat until its poor energy rating's improved and certified.",
+    "targets": [
+      "let"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "site meeting",
+    "verbose": "In yesterday's site meeting, we discussed many points and took some decisions, so I will write all of them down and send to everyone so that nobody forgets who is doing what.",
+    "reference": "I'll circulate the minutes from yesterday's site meeting with actions.",
+    "targets": [
+      "minutes"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "lease end",
+    "verbose": "At the end of the lease, the landlord is saying that we have to repair and repaint the whole office and bring it back to the original condition like how it was when we took it.",
+    "reference": "Restoring the office to its original state at lease end will cost a pretty penny.",
+    "targets": [
+      "a pretty penny"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "completion penalties",
+    "verbose": "If the building is not completed by the date written in the contract, then we will have to pay penalty to the client for every week of delay, so we must try our best to finish.",
+    "reference": "Every week we overrun costs us in penalties, so we must finish on time.",
+    "targets": [
+      "overrun"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "valuation",
+    "verbose": "The estate agent came and checked the house today and said that according to him the house can be sold for around four hundred and fifty thousand pounds in today's market.",
+    "reference": "The estate agent valued the house at around four hundred and fifty grand.",
+    "targets": [
+      "estate agent"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "site deliveries",
+    "verbose": "The council has said that big lorries can deliver materials to our site only between ten and four, because before and after that time there is too much traffic and school children on the road.",
+    "reference": "Lorries can only deliver between ten and four, because of school-run traffic.",
+    "targets": [
+      "lorry",
+      "school run"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "repairs backlog",
+    "verbose": "We are having so many repair requests from the tenants, more than sixty are pending, so we need to decide which ones are urgent like leaks and heating, and do them first.",
+    "reference": "With sixty repairs pending, let's prioritise leaks and heating.",
+    "targets": [
+      "prioritise"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "defect liability",
+    "verbose": "The roof is leaking now, and the roofer is saying it is the plumber's fault, and the plumber is saying it is the roofer's fault, and nobody is ready to take responsibility for it.",
+    "reference": "The roofer and plumber are passing the buck over the leak.",
+    "targets": [
+      "pass the buck"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "vacant property",
+    "verbose": "This office building has been empty for more than one year now, nobody is taking it, maybe because the rent is too high or the building is too old and outdated.",
+    "reference": "Empty for a year, the building's becoming a white elephant.",
+    "targets": [
+      "a white elephant"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "energy upgrades",
+    "verbose": "If we put insulation in the loft and change the old windows to double glazing, the tenants' heating bills will reduce a lot, and the property value will also increase.",
+    "reference": "Loft insulation and double glazing would cut heating bills and raise the value.",
+    "targets": [
+      "double glazing",
+      "loft"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "completion",
+    "verbose": "The solicitor has confirmed that all the paperwork is ready, and the final money transfer will happen on Friday, after which you will officially become the owner and can collect the keys.",
+    "reference": "The solicitor confirms completion on Friday — you can collect the keys then.",
+    "targets": [
+      "solicitor"
+    ]
+  },
+  {
+    "domain": "property",
+    "category": "safety briefing",
+    "verbose": "Every Monday morning before starting work, the site manager should take ten minutes to talk to all the workers about safety rules and any new risks on the site that week.",
+    "reference": "Start every Monday with a ten-minute safety briefing for the crew.",
+    "targets": [
+      "brief"
+    ]
+  }
+]

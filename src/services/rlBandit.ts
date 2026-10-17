@@ -156,6 +156,8 @@ export interface BanditContext {
   now: number;
   tier?: Tier;
   excludeId?: string;
+  /** prompts served recently (skipped or not): avoided while anything else is eligible */
+  recent?: ReadonlySet<string>;
   /** optional focus phoneme (dashboard drill) */
   focusPhoneme?: string;
   rng?: () => number;
@@ -172,7 +174,10 @@ export interface ScoredPrompt { prompt: Prompt; score: number; parts: { phonetic
 export function scorePrompts(prompts: Prompt[], ctx: BanditContext): ScoredPrompt[] {
   const totalServed = Array.from(ctx.stats.values()).reduce((s, x) => s + x.n, 0);
   const rng = ctx.rng ?? Math.random;
-  const pool = prompts.filter((p) => (!ctx.tier || p.tier === ctx.tier) && p.id !== ctx.excludeId);
+  const eligible = prompts.filter((p) => (!ctx.tier || p.tier === ctx.tier) && p.id !== ctx.excludeId);
+  // A skip records no outcome, so without this the argmax would bounce between the same two prompts.
+  const fresh = ctx.recent?.size ? eligible.filter((p) => !ctx.recent!.has(p.id)) : eligible;
+  const pool = fresh.length ? fresh : eligible;
   const scored = pool.map((prompt) => {
     const phon = Array.from(new Set(prompt.phonemes ?? []));
     let phonetic = 0;

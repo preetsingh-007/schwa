@@ -1,0 +1,6002 @@
+[
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "Your finance director asks why the new invoicing system rejects some supplier invoices automatically. Explain, without jargon, how the matching rules work and why they save the team time.",
+    "seconds": 60,
+    "targets": [
+      "streamline",
+      "threshold",
+      "discrepancy"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "everyday",
+    "prompt": "Your gran wants to know how contactless payment works and whether it's safe. Explain it simply over a cup of tea, reassuring her without dismissing her worries.",
+    "seconds": 45,
+    "targets": [
+      "contactless",
+      "it's not rocket science",
+      "I appreciate that"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "A new trustee at the charity where you work asks how Gift Aid adds money to donations. Explain the basic mechanism and what the team must do to claim it properly.",
+    "seconds": 60,
+    "targets": [
+      "compliance",
+      "in a nutshell",
+      "collate"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "everyday",
+    "prompt": "Your teenage nephew asks how a mortgage actually works. Explain deposits, interest and monthly repayments in plain terms while you're driving him home from football.",
+    "seconds": 45,
+    "targets": [
+      "mortgage",
+      "deposit",
+      "rule of thumb"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "The operations manager asks how the warehouse's barcode scanning tells the website when something is out of stock. Walk her through the chain of events in plain English.",
+    "seconds": 60,
+    "targets": [
+      "seamless",
+      "knock-on effect",
+      "in tandem"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "At a team away day, a colleague from sales asks how the engineering team decides what to build each fortnight. Explain the planning cycle simply and honestly.",
+    "seconds": 45,
+    "targets": [
+      "prioritise",
+      "roadmap",
+      "bandwidth"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "everyday",
+    "prompt": "Your neighbour can't understand why her energy bill went up when she used less gas. Explain standing charges and unit rates patiently over the garden fence.",
+    "seconds": 45,
+    "targets": [
+      "to be fair",
+      "the thing is",
+      "work out"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "A board member with a legal background asks how your machine-learning model flags suspicious transactions. Explain the idea in non-technical terms, including its limitations.",
+    "seconds": 60,
+    "targets": [
+      "caveat",
+      "threshold",
+      "plausible"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "A junior colleague from HR asks how payroll gets from the timesheet system into people's bank accounts. Explain the steps and where things typically go wrong.",
+    "seconds": 45,
+    "targets": [
+      "payslip",
+      "PAYE",
+      "bottleneck"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "everyday",
+    "prompt": "Your flatmate asks how council tax bands are worked out and why you pay more than friends in the next borough. Explain it simply over dinner.",
+    "seconds": 45,
+    "targets": [
+      "council tax",
+      "by and large",
+      "I reckon"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "A visiting school group at your water treatment works asks how murky river water becomes drinkable. Explain the main stages in an engaging way for fourteen-year-olds.",
+    "seconds": 60,
+    "targets": [
+      "does that make sense?",
+      "rigorous",
+      "stringent"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "Your new marketing director asks how search engines decide which pages appear first. Explain the basics simply and say what your team can realistically influence.",
+    "seconds": 60,
+    "targets": [
+      "it's not rocket science",
+      "tangible",
+      "leverage"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "everyday",
+    "prompt": "A friend visiting London asks how daily capping on the Tube means they'll never pay more than a set amount. Explain it quickly while you wait on the platform.",
+    "seconds": 30,
+    "targets": [
+      "contactless",
+      "top up",
+      "work out"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "A non-clinical manager at your hospital trust asks how triage works in A&E and why some patients wait far longer than others. Explain the logic clearly and sympathetically.",
+    "seconds": 60,
+    "targets": [
+      "A&E",
+      "prioritise",
+      "rationale"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "The office manager asks why the backup system needs a copy kept off site. Explain how backups protect the firm, using a simple everyday comparison.",
+    "seconds": 45,
+    "targets": [
+      "contingency",
+      "prudent",
+      "rule of thumb"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "everyday",
+    "prompt": "Your mum asks how her workplace pension grows and why she shouldn't stop contributing. Explain employer contributions and compounding without patronising her.",
+    "seconds": 45,
+    "targets": [
+      "workplace pension",
+      "for what it's worth",
+      "invaluable"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "A client's finance team asks how your firm calculates the carbon footprint figure in their annual report. Explain the method in plain terms and its key assumptions.",
+    "seconds": 60,
+    "targets": [
+      "premise",
+      "caveat",
+      "extrapolate"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "A new volunteer at your food bank asks how the stock rotation system stops tins going out of date. Explain it simply so they can follow it on their first shift.",
+    "seconds": 45,
+    "targets": [
+      "rule of thumb",
+      "by the book",
+      "in a nutshell"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "An investor with no engineering background asks how your battery storage units help smooth out demand on the grid. Explain the idea using a simple analogy.",
+    "seconds": 60,
+    "targets": [
+      "crux",
+      "scalable",
+      "robust"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "everyday",
+    "prompt": "Your dad asks how two-factor authentication works and why his bank keeps texting him codes. Explain it patiently and say why it's worth the hassle.",
+    "seconds": 45,
+    "targets": [
+      "it's not rocket science",
+      "bear with me",
+      "I appreciate that"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "A councillor asks how your team's traffic model predicts congestion from a proposed housing estate. Explain the approach in everyday language and how reliable the forecasts are.",
+    "seconds": 60,
+    "targets": [
+      "pinch of salt",
+      "ballpark",
+      "extrapolate"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "A retail assistant on her first day asks how the click-and-collect system knows when an order is ready. Explain the process simply before the shop opens.",
+    "seconds": 45,
+    "targets": [
+      "run through",
+      "seamless",
+      "flag up"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "A newly appointed governor at your primary school asks how pupil progress is tracked between Key Stages. Explain the system clearly without education jargon.",
+    "seconds": 60,
+    "targets": [
+      "Key Stage",
+      "benchmark",
+      "granular"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "everyday",
+    "prompt": "Your friend can't understand why the clocks go back every autumn and who decided it. Explain the reasoning in a light-hearted way at the pub.",
+    "seconds": 45,
+    "targets": [
+      "the clocks go back",
+      "to be fair",
+      "funnily enough"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "The head of facilities asks how the building's new heat pumps work and why the radiators now feel warm rather than hot. Explain the principle in plain English.",
+    "seconds": 60,
+    "targets": [
+      "efficacy",
+      "in a nutshell",
+      "the thing is"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "A customer services team leader asks how the chatbot decides when to pass a conversation to a human. Explain the rules simply and where they fall short.",
+    "seconds": 45,
+    "targets": [
+      "threshold",
+      "escalate",
+      "room for improvement"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "everyday",
+    "prompt": "Your sister asks how Premium Bonds work and whether they're a sensible place for her savings. Explain the idea and give her a balanced view.",
+    "seconds": 45,
+    "targets": [
+      "Premium Bonds",
+      "on balance",
+      "ISA"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "At a sixth-form open evening, a worried parent asks how the university Clearing process works. Explain the steps clearly and reassure them about the timing.",
+    "seconds": 60,
+    "targets": [
+      "Clearing",
+      "UCAS",
+      "conditional offer"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "A procurement officer touring your recycling plant asks how plastics are separated automatically. Explain the sorting stages simply and what still has to be done by hand.",
+    "seconds": 60,
+    "targets": [
+      "fiddly",
+      "in tandem",
+      "rigorous"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "everyday",
+    "prompt": "A visiting friend from abroad asks how you know whose turn it is at a busy pub bar when there's no actual queue. Explain the unwritten rules.",
+    "seconds": 30,
+    "targets": [
+      "at the bar",
+      "jump the queue",
+      "What are you having?"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "A new finance assistant asks how depreciation affects the company's profit figure. Explain it with a simple example involving a delivery van.",
+    "seconds": 45,
+    "targets": [
+      "to recap",
+      "offset",
+      "work out"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "The chief executive asks how the cyber security team spots phishing emails before staff open them. Explain the filtering process in non-technical language.",
+    "seconds": 60,
+    "targets": [
+      "robust",
+      "flag up",
+      "caveat"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "everyday",
+    "prompt": "Your elderly neighbour asks how her new smart meter knows how much electricity she's using. Explain it simply and address her worry about privacy.",
+    "seconds": 45,
+    "targets": [
+      "I appreciate that",
+      "by and large",
+      "the thing is"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "A journalist visiting your genetics lab asks how DNA sequencing actually works. Explain it vividly but accurately for a general readership.",
+    "seconds": 60,
+    "targets": [
+      "in a nutshell",
+      "rigorous",
+      "nuance"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "A store manager asks how the new rota software decides who works which shifts. Explain the logic and how staff preferences are taken into account.",
+    "seconds": 45,
+    "targets": [
+      "parameter",
+      "equitable",
+      "constraint"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "everyday",
+    "prompt": "Your nine-year-old niece asks how aeroplanes manage to stay up in the air. Explain it in a way she'll understand and remember.",
+    "seconds": 45,
+    "targets": [
+      "it's not rocket science",
+      "work out",
+      "sort of"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "A trustee of the local museum asks how the new climate-control system protects fragile paintings. Explain what it monitors and why stable humidity matters so much.",
+    "seconds": 60,
+    "targets": [
+      "paramount",
+      "threshold",
+      "mitigate"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "A sales colleague asks how the company's pricing tool sets discounts for large orders. Explain the main factors in plain terms so they can explain it to customers.",
+    "seconds": 45,
+    "targets": [
+      "parameter",
+      "commensurate",
+      "rule of thumb"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "everyday",
+    "prompt": "Your friend asks how the electoral register works and why being on it affects her mortgage application. Explain it clearly over coffee.",
+    "seconds": 45,
+    "targets": [
+      "electoral register",
+      "proof of address",
+      "the thing is"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "The head of a client firm asks how your cloud hosting keeps their website running if a data centre fails. Explain the idea of redundancy using a simple comparison.",
+    "seconds": 60,
+    "targets": [
+      "resilient",
+      "contingency",
+      "seamless"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "A newly elected parish councillor asks how a planning application moves through the system. Explain the main stages and typical timings simply.",
+    "seconds": 45,
+    "targets": [
+      "council",
+      "timescale",
+      "stakeholder"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "everyday",
+    "prompt": "Your partner asks how the boiler's timer and thermostat work together, since the house keeps getting cold in the evenings. Explain the settings and suggest a fix.",
+    "seconds": 45,
+    "targets": [
+      "put the heating on",
+      "work out",
+      "sorted"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "A charity's new fundraising lead asks how your database scores donors for their likelihood of giving again. Explain the scoring in plain English and its pitfalls.",
+    "seconds": 60,
+    "targets": [
+      "metric",
+      "caveat",
+      "granular"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "work",
+    "prompt": "A visiting MP on a factory tour asks how your robotic welding line checks quality. Explain it briefly and clearly as you walk past the line.",
+    "seconds": 45,
+    "targets": [
+      "rigorous",
+      "stringent",
+      "seamless"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain how it works",
+    "register": "everyday",
+    "prompt": "A friend who has just moved to London asks how Oyster cards, contactless and railcards fit together. Explain the cheapest way to get around.",
+    "seconds": 45,
+    "targets": [
+      "contactless",
+      "top up",
+      "rule of thumb"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "Your director has five minutes before a board meeting and asks for the headlines of a forty-page customer satisfaction survey. Summarise the key findings and the one action that matters most.",
+    "seconds": 45,
+    "targets": [
+      "upshot",
+      "salient",
+      "actionable"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "The operations director missed the external audit debrief. Summarise what the auditors found, what's serious, and what's merely housekeeping, in under a minute.",
+    "seconds": 60,
+    "targets": [
+      "discrepancy",
+      "compliance",
+      "negligible"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "Your managing director asks what the consultants' report on office space actually recommends. Give her the gist, including the cost implications.",
+    "seconds": 45,
+    "targets": [
+      "clarify",
+      "outlay",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "You've read a long staff wellbeing survey report. Your director, walking to a meeting, wants to know whether there's anything worrying in it. Summarise it honestly.",
+    "seconds": 45,
+    "targets": [
+      "attrition",
+      "slightly concerned",
+      "to some extent"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "The finance director asks for a quick summary of the quarterly sales report, which shows growth overall but a sharp drop in the north-east. Summarise and flag the concern.",
+    "seconds": 45,
+    "targets": [
+      "flag up",
+      "shortfall",
+      "trajectory"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "Your head of department asks you to summarise a sixty-page government white paper on apprenticeships and say what it means for your college.",
+    "seconds": 60,
+    "targets": [
+      "white paper",
+      "implication",
+      "apprenticeship"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "The chief executive asks for the bottom line of the IT security assessment ahead of the insurance renewal. Summarise the risks and what needs fixing first.",
+    "seconds": 60,
+    "targets": [
+      "paramount",
+      "mitigate",
+      "prioritise"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "Your director is about to ring a key supplier and wants a thirty-second summary of their performance review. Give her the essentials.",
+    "seconds": 30,
+    "targets": [
+      "benchmark",
+      "slippage",
+      "succinct"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "The director of nursing asks what the latest patient falls report shows across the wards. Summarise the trend and the main contributing factors.",
+    "seconds": 60,
+    "targets": [
+      "ward",
+      "trajectory",
+      "salient"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "Summarise a market research report on a potential new product for your director, who needs to decide this week whether to fund a pilot.",
+    "seconds": 60,
+    "targets": [
+      "pilot",
+      "viable",
+      "caveat"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "Your director asks what last month's website analytics report is telling us. Summarise the key trends without drowning her in numbers.",
+    "seconds": 45,
+    "targets": [
+      "metric",
+      "upshot",
+      "by and large"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "The head of estates needs to brief the board on the building condition survey. Summarise what's urgent, what can wait, and the rough costs.",
+    "seconds": 60,
+    "targets": [
+      "ballpark",
+      "back burner",
+      "paramount"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "Your managing partner asks you to summarise a competitor analysis your team produced. Highlight where the firm is ahead, where it's behind, and what it means.",
+    "seconds": 60,
+    "targets": [
+      "on the back foot",
+      "compelling",
+      "implication"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "Summarise a long legal opinion on a contract dispute for your director, who wants to know whether to settle or fight.",
+    "seconds": 60,
+    "targets": [
+      "on balance",
+      "tenable",
+      "ramifications"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "The chief executive of a housing association asks for the main findings of a tenant survey on repairs. Summarise the complaints and the obvious quick wins.",
+    "seconds": 45,
+    "targets": [
+      "quick win",
+      "room for improvement",
+      "salient"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "Your director asks you to summarise the energy efficiency audit of your three offices and recommend where to start.",
+    "seconds": 45,
+    "targets": [
+      "quick win",
+      "outlay",
+      "prioritise"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "You've just spent two days at an industry conference. Your director wants the three things actually worth knowing. Summarise them concisely.",
+    "seconds": 45,
+    "targets": [
+      "pertinent",
+      "food for thought",
+      "succinct"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "The head teacher asks you to summarise the draft Ofsted report before tonight's governors' meeting. Give the strengths, the weaknesses and the questions governors are likely to ask.",
+    "seconds": 60,
+    "targets": [
+      "Ofsted",
+      "room for improvement",
+      "pre-empt"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "Summarise an analysis of staff exit interviews for your HR director, explaining why people are leaving and what could realistically be done about it.",
+    "seconds": 60,
+    "targets": [
+      "attrition",
+      "remuneration",
+      "tangible"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "Your director needs a summary of the project risk register before a steering committee. Pick out the top three risks and how each is being handled.",
+    "seconds": 45,
+    "targets": [
+      "mitigate",
+      "contingency",
+      "knock-on effect"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "The chief financial officer asks what the pricing study found about customers' willingness to pay more. Summarise the findings and how confident we can be in them.",
+    "seconds": 45,
+    "targets": [
+      "pinch of salt",
+      "threshold",
+      "plausible"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "Summarise a health and safety inspection report for your plant manager, who wants to know whether anything in it could halt production.",
+    "seconds": 45,
+    "targets": [
+      "health and safety",
+      "stringent",
+      "rectify"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "Your director asks what the customer complaints analysis says about the new mobile app. Summarise the themes and the most pressing fix.",
+    "seconds": 45,
+    "targets": [
+      "teething problems",
+      "prioritise",
+      "upshot"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "The chair of trustees asks you to summarise the charity's annual impact report in under a minute, so she can use it in a speech to donors.",
+    "seconds": 45,
+    "targets": [
+      "tangible",
+      "milestone",
+      "in a nutshell"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "Summarise a lengthy feasibility study on opening a second café for the owner, who's deciding over the weekend.",
+    "seconds": 60,
+    "targets": [
+      "feasibility",
+      "outlay",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "Your regional director asks for the highlights of a footfall report showing weekday sales falling but weekends booming. Summarise it and suggest what it implies.",
+    "seconds": 45,
+    "targets": [
+      "trajectory",
+      "implication",
+      "to some extent"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "Summarise an employee engagement survey for the leadership team, including one uncomfortable message they need to hear.",
+    "seconds": 60,
+    "targets": [
+      "the elephant in the room",
+      "candour",
+      "salient"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "Your director wants your view of a supplier's sustainability report before signing a contract. Summarise it and say whether their claims stand up.",
+    "seconds": 45,
+    "targets": [
+      "substantiate",
+      "smoke and mirrors",
+      "due diligence"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "The commercial director has skimmed a tender evaluation and wants you to explain, in summary, why the cheapest bidder scored lowest.",
+    "seconds": 45,
+    "targets": [
+      "tender",
+      "value for money",
+      "rationale"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "Summarise an independent review of your call centre's response times for your director, who faces questions from the regulator next week.",
+    "seconds": 60,
+    "targets": [
+      "benchmark",
+      "shortfall",
+      "pre-empt"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "Your director wants a neutral summary of a long email chain between engineering and sales about a disputed delivery date. Give her just the facts.",
+    "seconds": 45,
+    "targets": [
+      "sticking point",
+      "timescale",
+      "to recap"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "Summarise the findings of a six-month four-day-week pilot for your chief operating officer, including the limitations of the evidence.",
+    "seconds": 60,
+    "targets": [
+      "pilot",
+      "caveat",
+      "empirical"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "The artistic director of a regional theatre asks for the headlines from an audience survey. Summarise who's coming, who isn't, and why.",
+    "seconds": 45,
+    "targets": [
+      "by and large",
+      "salient",
+      "implication"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "Your director asks what the stock reconciliation report shows after goods went missing from the warehouse. Summarise the gap and the likely causes.",
+    "seconds": 45,
+    "targets": [
+      "reconcile",
+      "discrepancy",
+      "negligible"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "Summarise a technical due diligence report on a small company your firm might acquire, for a director who isn't technical.",
+    "seconds": 60,
+    "targets": [
+      "due diligence",
+      "a red herring",
+      "ramifications"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "Your head of service asks you to summarise feedback from a public consultation on library opening hours ahead of a council meeting.",
+    "seconds": 60,
+    "targets": [
+      "consensus",
+      "stakeholder",
+      "contentious"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "The managing director asks for the key points of a five-year IT strategy drafted by consultants. Summarise it and give your honest view.",
+    "seconds": 60,
+    "targets": [
+      "roadmap",
+      "overarching",
+      "for what it's worth"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "Summarise the post-incident report on last week's power outage at your data centre for your director, who has to brief the board tomorrow.",
+    "seconds": 45,
+    "targets": [
+      "upshot",
+      "rectify",
+      "contingency"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "Your director asks you to summarise a report on graduate recruitment showing applications up but quality down. Give the headlines and one recommendation.",
+    "seconds": 45,
+    "targets": [
+      "graduate scheme",
+      "shortlist",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "summarise a report",
+    "register": "work",
+    "prompt": "Summarise the main findings of a travel expenses review for your finance director, highlighting where money is quietly leaking.",
+    "seconds": 45,
+    "targets": [
+      "overheads",
+      "curtail",
+      "value for money"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "You redesigned how your team handles customer refunds, cutting the wait from ten days to three. Describe to your manager what was wrong before and what you changed.",
+    "seconds": 60,
+    "targets": [
+      "bottleneck",
+      "streamline",
+      "sign-off"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Describe to your department head how you introduced a shared checklist that stopped month-end reports going out with errors.",
+    "seconds": 45,
+    "targets": [
+      "rigorous",
+      "dot the i's and cross the t's",
+      "quick win"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Explain to the leadership team how moving the weekly planning meeting from Monday morning to Tuesday afternoon improved attendance and decisions.",
+    "seconds": 45,
+    "targets": [
+      "incremental",
+      "tangible",
+      "momentum"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Your warehouse used to pick orders in the sequence they arrived. Describe how batching them by aisle changed productivity, and what resistance you met.",
+    "seconds": 60,
+    "targets": [
+      "buy-in",
+      "streamline",
+      "teething problems"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Describe to your line manager how you automated a fiddly data transfer between two spreadsheets that used to take a whole afternoon each week.",
+    "seconds": 45,
+    "targets": [
+      "fiddly",
+      "streamline",
+      "quick win"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "At a ward meeting, describe how your team changed the handover between night and day shifts to reduce missed information about patients.",
+    "seconds": 60,
+    "targets": [
+      "handover",
+      "ward",
+      "robust"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Describe how your school office cut paper use by moving permission slips online, including how parents reacted at first.",
+    "seconds": 45,
+    "targets": [
+      "rollout",
+      "teething problems",
+      "by and large"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Explain to colleagues how a new system of flagged email folders meant urgent client queries stopped getting buried.",
+    "seconds": 45,
+    "targets": [
+      "prioritise",
+      "flag up",
+      "swamped"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Describe to your director how you shortened the time it takes to approve new suppliers without weakening the checks.",
+    "seconds": 60,
+    "targets": [
+      "due diligence",
+      "sign-off",
+      "protracted"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Describe a change you made to how your café takes orders at lunchtime that shortened the queue noticeably.",
+    "seconds": 45,
+    "targets": [
+      "queue",
+      "bottleneck",
+      "in tandem"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Explain to the operations committee how introducing a single request form cut duplicated work on the IT helpdesk.",
+    "seconds": 60,
+    "targets": [
+      "streamline",
+      "consolidate",
+      "knock-on effect"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Describe how your team replaced a long weekly status meeting with a short written update, and what you learnt from the switch.",
+    "seconds": 45,
+    "targets": [
+      "learnings",
+      "succinct",
+      "bandwidth"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Describe to a visiting manager how your factory introduced colour-coded tool boards and what effect they had on downtime.",
+    "seconds": 45,
+    "targets": [
+      "tangible",
+      "rule of thumb",
+      "incremental"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Explain to your head of finance how you cut the invoice approval chain from five signatures to two.",
+    "seconds": 45,
+    "targets": [
+      "sign-off",
+      "protracted",
+      "rationale"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Describe how your housing team now schedules repair visits so tenants get a two-hour slot instead of waiting in all day.",
+    "seconds": 60,
+    "targets": [
+      "timescale",
+      "value for money",
+      "seamless"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Describe to your manager how adding a peer-review step before publishing reports caught errors and improved trust with clients.",
+    "seconds": 45,
+    "targets": [
+      "rigorous",
+      "corroborate",
+      "in hindsight"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Explain how your sales team started logging calls in the CRM consistently, and how you persuaded the sceptics.",
+    "seconds": 60,
+    "targets": [
+      "buy-in",
+      "talk round",
+      "tangible"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Describe how your library introduced self-service returns and freed staff to spend more time helping visitors.",
+    "seconds": 45,
+    "targets": [
+      "allocate",
+      "rollout",
+      "by and large"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Explain to the board how a single one-page dashboard replaced six separate monthly reports that nobody had time to read.",
+    "seconds": 45,
+    "targets": [
+      "consolidate",
+      "metric",
+      "succinct"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Describe the change you made to onboarding that means new starters now have a laptop and logins on their very first morning.",
+    "seconds": 60,
+    "targets": [
+      "onboarding",
+      "hit the ground running",
+      "liaise"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Describe how your events team cut last-minute catering problems by confirming final numbers a week earlier.",
+    "seconds": 45,
+    "targets": [
+      "cutting it fine",
+      "knock-on effect",
+      "stipulate"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Explain how your GP surgery changed its phone system so patients aren't stuck in a queue at eight in the morning.",
+    "seconds": 60,
+    "targets": [
+      "surgery",
+      "bottleneck",
+      "mitigate"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Describe how your marketing team began reusing templates for campaign briefs instead of starting each one from nothing, and what time it saved.",
+    "seconds": 45,
+    "targets": [
+      "from scratch",
+      "streamline",
+      "quick win"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Explain to the senior team how you reduced overtime in the distribution centre by staggering shift start times.",
+    "seconds": 60,
+    "targets": [
+      "overheads",
+      "curtail",
+      "pragmatic"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Describe how your lab introduced a sample-tracking system after a mix-up, and how colleagues have taken to it.",
+    "seconds": 60,
+    "targets": [
+      "robust",
+      "in hindsight",
+      "rectify"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Describe how you changed the way your team handles customer complaints so that each one now has a single named owner.",
+    "seconds": 45,
+    "targets": [
+      "onus",
+      "escalate",
+      "joined-up"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Explain how your accounts team now closes the books in four working days instead of nine.",
+    "seconds": 45,
+    "targets": [
+      "reconcile",
+      "in tandem",
+      "streamline"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Describe a small change to your shop's layout that reduced shoplifting without making customers feel watched.",
+    "seconds": 45,
+    "targets": [
+      "tangible",
+      "mitigate",
+      "by and large"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Describe how your council department moved parking permit applications online, including what went wrong in the first week.",
+    "seconds": 60,
+    "targets": [
+      "teething problems",
+      "rollout",
+      "iron out"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Explain how pairing junior and senior developers on code reviews improved both quality and morale.",
+    "seconds": 45,
+    "targets": [
+      "upskill",
+      "rapport",
+      "incremental"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Describe how you reorganised the team's shared drive so people could actually find documents again.",
+    "seconds": 45,
+    "targets": [
+      "chock-a-block",
+      "consolidate",
+      "rule of thumb"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Describe how your hotel's housekeeping team began cleaning rooms in order of guests' arrival times, and what guests noticed.",
+    "seconds": 45,
+    "targets": [
+      "prioritise",
+      "knock-on effect",
+      "seamless"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Explain to your manager how a rule of no meetings on Wednesday afternoons affected the team's output over three months.",
+    "seconds": 45,
+    "targets": [
+      "bandwidth",
+      "tangible",
+      "to some extent"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Describe how your recruitment team cut the time to hire by booking interview panels before the advert even closed.",
+    "seconds": 45,
+    "targets": [
+      "shortlist",
+      "protracted",
+      "liaise"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Describe how your charity improved volunteer retention by changing how newcomers are welcomed and matched to roles.",
+    "seconds": 60,
+    "targets": [
+      "attrition",
+      "onboarding",
+      "rapport"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Explain how your call centre introduced callback slots during busy periods and what happened to complaints.",
+    "seconds": 45,
+    "targets": [
+      "mitigate",
+      "at capacity",
+      "by and large"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Describe a change in your restaurant kitchen's prep routine that cut food waste by a quarter.",
+    "seconds": 45,
+    "targets": [
+      "tangible",
+      "rule of thumb",
+      "cut down on"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Describe how you simplified the expenses claim process so people stopped submitting receipts months late.",
+    "seconds": 45,
+    "targets": [
+      "fiddly",
+      "streamline",
+      "threshold"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Explain how your project team adopted a single shared timeline after two missed handovers between departments.",
+    "seconds": 45,
+    "targets": [
+      "joined-up",
+      "handover",
+      "slippage"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe a process improvement",
+    "register": "work",
+    "prompt": "Describe how your secondary school introduced a staggered lunchtime to ease pressure on the dining hall.",
+    "seconds": 45,
+    "targets": [
+      "bottleneck",
+      "pragmatic",
+      "knock-on effect"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "In an interview, you're asked: \"Tell me about a time you had to deliver bad news to a client.\" Answer with a specific example, covering situation, task, action and result.",
+    "seconds": 60,
+    "targets": [
+      "candour",
+      "in hindsight",
+      "tangible"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "An interviewer asks for an example of when you handled a conflict between two members of your team. Answer using the STAR structure.",
+    "seconds": 60,
+    "targets": [
+      "sound out",
+      "rapport",
+      "consensus"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Describe a time you missed a deadline.\" Answer honestly in STAR format, showing what you learnt and what you now do differently.",
+    "seconds": 60,
+    "targets": [
+      "in hindsight",
+      "slippage",
+      "own up"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "An interviewer for a project manager role asks about a time you had to juggle competing priorities. Answer with a specific STAR example.",
+    "seconds": 60,
+    "targets": [
+      "prioritise",
+      "snowed under",
+      "stakeholder"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Tell me about a time you improved a process.\" Answer concisely in STAR format at an assessment centre for a graduate scheme.",
+    "seconds": 45,
+    "targets": [
+      "streamline",
+      "quantify",
+      "proactive"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Give an example of when you had to persuade someone more senior to change their mind.\" Answer using STAR, keeping your tone modest.",
+    "seconds": 60,
+    "targets": [
+      "compelling",
+      "buy-in",
+      "substantiate"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "In a civil service interview, you're asked to describe a time you made a decision with incomplete information. Answer using STAR.",
+    "seconds": 60,
+    "targets": [
+      "on balance",
+      "provisional",
+      "judicious"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Tell me about a time you failed.\" Answer in STAR format for a team leader role, focusing on what you changed afterwards.",
+    "seconds": 60,
+    "targets": [
+      "hasn't gone entirely to plan",
+      "learnings",
+      "in hindsight"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Describe a situation where you went beyond your job description.\" Answer with a concrete, believable STAR example.",
+    "seconds": 45,
+    "targets": [
+      "go the extra mile",
+      "step in",
+      "tangible"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "An interviewer asks about a time you dealt with a furious customer. Answer using STAR for a customer service manager role.",
+    "seconds": 60,
+    "targets": [
+      "I appreciate that",
+      "escalate",
+      "pour oil on troubled waters"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Tell me about a time you worked with someone you found difficult.\" Answer diplomatically in STAR format without criticising them.",
+    "seconds": 60,
+    "targets": [
+      "rub someone up the wrong way",
+      "rapport",
+      "give someone the benefit of the doubt"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "For a nursing post, you're asked: \"Describe a time you had to act quickly in an emergency.\" Answer in STAR format.",
+    "seconds": 60,
+    "targets": [
+      "prioritise",
+      "escalate",
+      "as cool as a cucumber"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Give an example of when you used data to make a decision.\" Answer for a junior analyst role using the STAR structure.",
+    "seconds": 60,
+    "targets": [
+      "empirical",
+      "granular",
+      "upshot"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Tell me about a time you had to learn something new very quickly.\" Answer in STAR format for a consultancy interview.",
+    "seconds": 45,
+    "targets": [
+      "hit the ground running",
+      "brush up on",
+      "learn the ropes"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Describe a time you led a team through a major change.\" Answer for a head of department role using STAR.",
+    "seconds": 60,
+    "targets": [
+      "buy-in",
+      "momentum",
+      "cascade"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "An interviewer asks: \"When have you challenged the way things were always done?\" Answer with a STAR example that shows judgement, not just boldness.",
+    "seconds": 60,
+    "targets": [
+      "status quo",
+      "rationale",
+      "pragmatic"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Tell me about a time you delivered something on a very tight budget.\" Answer for an events coordinator role using STAR.",
+    "seconds": 45,
+    "targets": [
+      "on a shoestring",
+      "outlay",
+      "value for money"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Give an example of when you received critical feedback.\" Answer in STAR format, showing how you responded and what changed.",
+    "seconds": 60,
+    "targets": [
+      "take it on the chin",
+      "room for improvement",
+      "incremental"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "For a teaching post, you're asked to describe a time you supported a pupil who was falling behind. Answer using STAR.",
+    "seconds": 60,
+    "targets": [
+      "pupil",
+      "bespoke",
+      "tangible"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Describe a time when you had to say no to an important stakeholder.\" Answer in STAR format, showing tact.",
+    "seconds": 45,
+    "targets": [
+      "push back",
+      "stakeholder",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Tell me about a time you spotted a risk before it became a problem.\" Answer in STAR format for a compliance officer role.",
+    "seconds": 45,
+    "targets": [
+      "flag up",
+      "pre-empt",
+      "mitigate"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"When have you worked with people whose background or expectations were very different from yours?\" Answer with a STAR example.",
+    "seconds": 60,
+    "targets": [
+      "rapport",
+      "nuance",
+      "on the same page"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"What's your biggest achievement at work?\" Answer with a STAR example without blowing your own trumpet.",
+    "seconds": 45,
+    "targets": [
+      "blow your own trumpet",
+      "milestone",
+      "tangible"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "For a sales role, you're asked: \"Tell me about a deal you lost and what you learnt from it.\" Answer in STAR format.",
+    "seconds": 60,
+    "targets": [
+      "in hindsight",
+      "pip someone at the post",
+      "learnings"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Give an example of when you delegated effectively.\" Answer in STAR format for a first-time manager role.",
+    "seconds": 45,
+    "targets": [
+      "delegate",
+      "bandwidth",
+      "keep me posted"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Describe a time you met a deadline that seemed impossible.\" Answer in STAR format, being honest about the cost.",
+    "seconds": 60,
+    "targets": [
+      "a tall order",
+      "burn the midnight oil",
+      "prioritise"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Tell me about a mistake you made that affected other people.\" Answer honestly using the STAR structure.",
+    "seconds": 60,
+    "targets": [
+      "own up",
+      "rectify",
+      "knock-on effect"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "For a charity partnerships role, describe a time you built a relationship with a reluctant partner organisation. Use STAR.",
+    "seconds": 60,
+    "targets": [
+      "rapport",
+      "talk round",
+      "tangible"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Describe a time you had to explain something complex to a non-expert.\" Answer in STAR format.",
+    "seconds": 45,
+    "targets": [
+      "succinct",
+      "articulate",
+      "the penny dropped"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"When have you had to adapt to a sudden change of plan?\" Answer for a logistics coordinator role using STAR.",
+    "seconds": 60,
+    "targets": [
+      "spanner in the works",
+      "contingency",
+      "take something in your stride"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Tell me about a time you lifted a team's morale.\" Answer with a STAR example for a retail supervisor job.",
+    "seconds": 45,
+    "targets": [
+      "galvanise",
+      "rapport",
+      "tangible"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Give an example of a time you showed integrity under pressure.\" Answer in STAR format.",
+    "seconds": 60,
+    "targets": [
+      "cut corners",
+      "stand your ground",
+      "by the book"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "At a graduate interview, you're asked about a time you worked in a team at university. Answer using STAR, highlighting your own contribution.",
+    "seconds": 45,
+    "targets": [
+      "seminar",
+      "muck in",
+      "deliverable"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Describe a time you had to manage an underperforming colleague.\" Answer using STAR, showing fairness as well as firmness.",
+    "seconds": 60,
+    "targets": [
+      "appraisal",
+      "candour",
+      "cut someone some slack"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Tell me about a project you built from nothing.\" Answer in STAR format for a product manager role.",
+    "seconds": 60,
+    "targets": [
+      "from scratch",
+      "milestone",
+      "get the ball rolling"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Describe a time you had to negotiate a better deal.\" Answer in STAR format for a procurement role.",
+    "seconds": 60,
+    "targets": [
+      "procurement",
+      "concede",
+      "upshot"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "For an NHS administrator role, describe a time you handled confidential information carefully. Answer using STAR.",
+    "seconds": 45,
+    "targets": [
+      "discretion",
+      "by the book",
+      "stringent"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Tell me about a time you used your initiative without being asked.\" Answer briefly but concretely in STAR format.",
+    "seconds": 45,
+    "targets": [
+      "proactive",
+      "step in",
+      "quick win"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Give an example of when you had to balance quality against speed.\" Answer in STAR format for an engineering role.",
+    "seconds": 60,
+    "targets": [
+      "trade-off",
+      "cut corners",
+      "pragmatic"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Describe a time you motivated people who didn't report to you.\" Answer using STAR for a programme coordinator role.",
+    "seconds": 60,
+    "targets": [
+      "buy-in",
+      "liaise",
+      "galvanise"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Tell me about a time you had to work with no clear brief.\" Answer in STAR format for a strategy role.",
+    "seconds": 60,
+    "targets": [
+      "up in the air",
+      "provisional",
+      "clarify"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"When have you taken responsibility for a team failure?\" Answer using STAR, without either grovelling or deflecting.",
+    "seconds": 60,
+    "targets": [
+      "carry the can",
+      "in hindsight",
+      "learnings"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "For a hospitality manager role, describe a time a big event nearly went wrong. Answer in STAR format.",
+    "seconds": 60,
+    "targets": [
+      "in the nick of time",
+      "contingency",
+      "keep calm and carry on"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Describe a time you won over a sceptical audience.\" Answer using STAR for a training manager role.",
+    "seconds": 45,
+    "targets": [
+      "compelling",
+      "buy-in",
+      "I take your point"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Tell me about a time you identified a cost saving.\" Answer in STAR format for a management accountant role.",
+    "seconds": 45,
+    "targets": [
+      "overheads",
+      "recoup",
+      "quantify"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Give an example of a time you mentored someone.\" Answer using STAR, showing what the other person gained.",
+    "seconds": 45,
+    "targets": [
+      "sounding board",
+      "upskill",
+      "learn the ropes"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Describe a time you raised a concern with your manager.\" Answer in STAR format, showing tact and timing.",
+    "seconds": 45,
+    "targets": [
+      "flag up",
+      "have you got a minute?",
+      "slightly concerned"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Tell me about a time you juggled several client projects at once.\" Answer in STAR format for a creative agency role.",
+    "seconds": 45,
+    "targets": [
+      "have a lot on your plate",
+      "prioritise",
+      "keep me posted"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Describe a time a complaint turned into an opportunity.\" Answer using STAR for a customer experience role.",
+    "seconds": 60,
+    "targets": [
+      "a blessing in disguise",
+      "rectify",
+      "rapport"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Give an example of when you worked to a strict regulatory requirement.\" Answer in STAR format for a pharmaceutical quality role.",
+    "seconds": 60,
+    "targets": [
+      "compliance",
+      "stringent",
+      "rigorous"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Tell me about a time you managed someone with unrealistic expectations.\" Answer using STAR for an account director role.",
+    "seconds": 60,
+    "targets": [
+      "a tall order",
+      "push back",
+      "timescale"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "For a police staff call handler role, describe a time you stayed calm under pressure. Answer in STAR format.",
+    "seconds": 45,
+    "targets": [
+      "as cool as a cucumber",
+      "prioritise",
+      "calm down"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Describe a time you brought a struggling project back on track.\" Answer using STAR for a programme manager role.",
+    "seconds": 60,
+    "targets": [
+      "slippage",
+      "recalibrate",
+      "momentum"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Tell me about a time you took a calculated risk.\" Answer using STAR for a role at a small, fast-growing company.",
+    "seconds": 45,
+    "targets": [
+      "take the plunge",
+      "prudent",
+      "upshot"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "STAR interview answer",
+    "register": "work",
+    "prompt": "\"Describe a time you changed your approach after listening to feedback.\" Answer in STAR format for a teaching assistant post.",
+    "seconds": 45,
+    "targets": [
+      "teaching assistant",
+      "I take your point",
+      "incremental"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Your team's website relaunch went live two weeks late and with broken links. Give a balanced post-mortem at the retrospective: what went wrong, what went well, and what you'd change.",
+    "seconds": 60,
+    "targets": [
+      "in hindsight",
+      "slippage",
+      "learnings"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "A charity gala you organised raised half the expected amount. Lead the post-mortem with the trustees, explaining the causes honestly without blaming individuals.",
+    "seconds": 60,
+    "targets": [
+      "shortfall",
+      "in hindsight",
+      "a damp squib"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Give a post-mortem on a product launch where demand far outstripped stock and customers waited weeks. Explain what happened and what you'd do differently.",
+    "seconds": 60,
+    "targets": [
+      "sell like hot cakes",
+      "at capacity",
+      "contingency"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Your office move happened on schedule, but staff were unhappy for weeks afterwards. Lead a post-mortem on how the change was managed.",
+    "seconds": 60,
+    "targets": [
+      "buy-in",
+      "teething problems",
+      "in hindsight"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "A data migration corrupted three days of customer records. Present a calm, blame-free post-mortem to the IT steering group.",
+    "seconds": 60,
+    "targets": [
+      "rectify",
+      "rigorous",
+      "contingency"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Lead a post-mortem on a marketing campaign that got lots of attention online but very few sales.",
+    "seconds": 45,
+    "targets": [
+      "a flash in the pan",
+      "metric",
+      "learnings"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "A conference you ran had excellent speakers but chaotic registration. Give a post-mortem to the events committee.",
+    "seconds": 45,
+    "targets": [
+      "bottleneck",
+      "on balance",
+      "iron out"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Give a post-mortem to your partners on a bid the firm lost to a rival despite being the favourite.",
+    "seconds": 60,
+    "targets": [
+      "pip someone at the post",
+      "in hindsight",
+      "compelling"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Your team's pilot of a new online booking system was abandoned after a month. Explain to stakeholders why, and what was learnt.",
+    "seconds": 60,
+    "targets": [
+      "pilot",
+      "viable",
+      "learnings"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "The primary school's summer fair ran out of food by two o'clock. Give a light but honest post-mortem to the PTA committee.",
+    "seconds": 45,
+    "targets": [
+      "in hindsight",
+      "contingency",
+      "go down well"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Lead a post-mortem after your software release caused a two-hour outage on a Friday afternoon.",
+    "seconds": 60,
+    "targets": [
+      "go pear-shaped",
+      "rollout",
+      "rigorous"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Give a post-mortem on a building refurbishment that finished on time but forty per cent over budget.",
+    "seconds": 60,
+    "targets": [
+      "overrun",
+      "per cent",
+      "in hindsight"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Your new staff intranet launched to almost no use. Present a post-mortem explaining why so few people adopted it.",
+    "seconds": 60,
+    "targets": [
+      "buy-in",
+      "fall on deaf ears",
+      "go down like a lead balloon"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "A training course you designed got poor feedback from its first cohort. Lead an honest post-mortem with your manager.",
+    "seconds": 45,
+    "targets": [
+      "not quite there yet",
+      "room for improvement",
+      "iteration"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Your team moved a client's entire server room over a weekend and it went perfectly. Give a post-mortem on why it worked so the approach can be repeated.",
+    "seconds": 45,
+    "targets": [
+      "done and dusted",
+      "best practice",
+      "contingency"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Give a post-mortem on a switch of supplier that saved money but triggered months of quality complaints.",
+    "seconds": 60,
+    "targets": [
+      "trade-off",
+      "in hindsight",
+      "knock-on effect"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "A recruitment drive attracted hundreds of applicants but none were suitable. Lead a post-mortem with the HR team.",
+    "seconds": 45,
+    "targets": [
+      "shortlist",
+      "in hindsight",
+      "fit for purpose"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Give a post-mortem on a two-day hackathon your company ran, which staff loved but which produced nothing usable.",
+    "seconds": 45,
+    "targets": [
+      "tangible",
+      "deliverable",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Your council team's consultation on a new cycle lane drew angry responses. Lead a post-mortem on how the plans were communicated.",
+    "seconds": 60,
+    "targets": [
+      "contentious",
+      "stakeholder",
+      "in hindsight"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "A product recall was handled quickly, but customers felt kept in the dark. Give a post-mortem focused on communication.",
+    "seconds": 60,
+    "targets": [
+      "keep someone in the dark",
+      "candour",
+      "learnings"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Your restaurant's new tasting menu was dropped after six weeks. Explain to the owner what went wrong and what you'd try next.",
+    "seconds": 45,
+    "targets": [
+      "nothing to write home about",
+      "viable",
+      "back to the drawing board"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Lead a post-mortem on the merger of two departments, which left several people feeling sidelined.",
+    "seconds": 60,
+    "targets": [
+      "in hindsight",
+      "rapport",
+      "tread on someone's toes"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Give a post-mortem on a charity fun run where the route was badly signposted and dozens of runners got lost.",
+    "seconds": 45,
+    "targets": [
+      "go pear-shaped",
+      "in hindsight",
+      "it's not the end of the world"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Your research grant application was rejected. Give a post-mortem to your co-applicants based on the reviewers' comments.",
+    "seconds": 60,
+    "targets": [
+      "compelling",
+      "rationale",
+      "back to the drawing board"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "A customer loyalty scheme you launched cost more than it earned. Present a post-mortem to the commercial team.",
+    "seconds": 45,
+    "targets": [
+      "recoup",
+      "outlay",
+      "in hindsight"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Lead a post-mortem on a sprint where the team delivered everything, but only by working late every night.",
+    "seconds": 45,
+    "targets": [
+      "burn the midnight oil",
+      "bandwidth",
+      "at capacity"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Give a post-mortem on a client workshop where the main stakeholder walked out halfway through.",
+    "seconds": 60,
+    "targets": [
+      "the elephant in the room",
+      "in hindsight",
+      "pre-empt"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Your team's trade show stand cost a fortune but generated very few leads. Lead a post-mortem with the marketing department.",
+    "seconds": 45,
+    "targets": [
+      "a white elephant",
+      "outlay",
+      "metric"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Give a post-mortem on a volunteer litter-pick that drew three times the expected turnout and ran out of equipment.",
+    "seconds": 45,
+    "targets": [
+      "turn up",
+      "contingency",
+      "a turn-up for the books"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Lead a post-mortem on a delayed hospital ward refurbishment that disrupted patient care for a month.",
+    "seconds": 60,
+    "targets": [
+      "ward",
+      "knock-on effect",
+      "mitigate"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Your app's redesign received angry reviews from long-standing users. Give a post-mortem to the product team.",
+    "seconds": 60,
+    "targets": [
+      "throw the baby out with the bathwater",
+      "in hindsight",
+      "iteration"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Give a post-mortem on this year's staff survey, which had the lowest response rate on record.",
+    "seconds": 45,
+    "targets": [
+      "in hindsight",
+      "fall on deaf ears",
+      "incentivise"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Lead a post-mortem on a housing development where late scaffolding pushed back every trade on site.",
+    "seconds": 60,
+    "targets": [
+      "knock-on effect",
+      "slippage",
+      "contingency"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Give a post-mortem on a webinar series that started strong but whose audience steadily dwindled.",
+    "seconds": 45,
+    "targets": [
+      "tail off",
+      "go off the boil",
+      "momentum"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Your team's Christmas do was poorly attended. Give a light-hearted but useful post-mortem to the social committee.",
+    "seconds": 45,
+    "targets": [
+      "Christmas do",
+      "in hindsight",
+      "a damp squib"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Lead a post-mortem on a price increase that lost far more customers than the forecast predicted.",
+    "seconds": 60,
+    "targets": [
+      "attrition",
+      "extrapolate",
+      "in hindsight"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Give a post-mortem on a three-month hot-desking trial that left staff hunting for chairs and chargers every morning.",
+    "seconds": 45,
+    "targets": [
+      "hot-desking",
+      "pilot",
+      "teething problems"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Lead a post-mortem on an incident where complaints on social media snowballed before the comms team responded.",
+    "seconds": 60,
+    "targets": [
+      "escalate",
+      "in hindsight",
+      "nip it in the bud"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Give a post-mortem on a trainee programme where three of the five recruits left within six months.",
+    "seconds": 60,
+    "targets": [
+      "attrition",
+      "onboarding",
+      "learnings"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "project post-mortem",
+    "register": "work",
+    "prompt": "Lead a post-mortem on a supplier audit that passed a factory, only for a major customer to find serious problems there later.",
+    "seconds": 60,
+    "targets": [
+      "rigorous",
+      "oversight",
+      "in hindsight"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Your director must choose between hiring two junior analysts or one senior one. Recommend an option and explain the trade-offs clearly.",
+    "seconds": 60,
+    "targets": [
+      "trade-off",
+      "on balance",
+      "bandwidth"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "The team must decide whether to patch an ageing system or replace it entirely. Present your recommendation with the costs and risks of each.",
+    "seconds": 60,
+    "targets": [
+      "overhaul",
+      "outlay",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Recommend to the owner whether your independent bookshop should open on Sundays, weighing extra sales against staff costs and goodwill.",
+    "seconds": 45,
+    "targets": [
+      "trade-off",
+      "overheads",
+      "turnover"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Your company is choosing between building its own booking tool or buying an off-the-shelf product. Recommend one and explain why.",
+    "seconds": 60,
+    "targets": [
+      "bespoke",
+      "trade-off",
+      "scalable"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Present a recommendation on whether the office should trial a four-day week, acknowledging the risks honestly.",
+    "seconds": 60,
+    "targets": [
+      "pilot",
+      "caveat",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Recommend whether your charity should accept a large donation from a company some supporters disapprove of. Explain the trade-offs carefully.",
+    "seconds": 60,
+    "targets": [
+      "trade-off",
+      "ramifications",
+      "judicious"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Your manager asks whether to launch the product next month with known bugs or delay by a quarter. Recommend and justify your choice.",
+    "seconds": 60,
+    "targets": [
+      "teething problems",
+      "trade-off",
+      "momentum"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Recommend to the head teacher whether to replace the school's ageing whiteboards or spend the money on extra teaching assistants.",
+    "seconds": 45,
+    "targets": [
+      "value for money",
+      "teaching assistant",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Present a recommendation on whether to outsource payroll, weighing the savings against loss of control.",
+    "seconds": 60,
+    "targets": [
+      "trade-off",
+      "oversight",
+      "overheads"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Your director wants to know whether to cut the training budget to protect this year's bonuses. Recommend a course of action and explain the trade-offs.",
+    "seconds": 60,
+    "targets": [
+      "detrimental",
+      "trade-off",
+      "shoot yourself in the foot"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Recommend whether your team should move from monthly to weekly software releases, and what would need to change first.",
+    "seconds": 45,
+    "targets": [
+      "incremental",
+      "trade-off",
+      "robust"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Recommend to the partners whether the GP surgery should extend opening into the evenings, weighing patient demand against staff wellbeing.",
+    "seconds": 60,
+    "targets": [
+      "surgery",
+      "trade-off",
+      "at capacity"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Present a recommendation on whether to keep the company's central London office or go fully remote.",
+    "seconds": 60,
+    "targets": [
+      "overheads",
+      "trade-off",
+      "rapport"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Recommend whether to renew a contract with a reliable but expensive supplier or switch to a cheaper newcomer.",
+    "seconds": 60,
+    "targets": [
+      "value for money",
+      "trade-off",
+      "due diligence"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Your board asks whether to expand into a second city now or wait a year. Give your recommendation and the risks either way.",
+    "seconds": 60,
+    "targets": [
+      "prudent",
+      "momentum",
+      "headwinds"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Recommend whether the local museum should introduce an entry charge, explaining the likely effect on visitors and income.",
+    "seconds": 60,
+    "targets": [
+      "trade-off",
+      "shortfall",
+      "equitable"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Recommend whether your team should adopt a new project management tool mid-project or wait until the next one starts.",
+    "seconds": 45,
+    "targets": [
+      "teething problems",
+      "trade-off",
+      "juncture"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Recommend whether to offer a cheaper basic package, given the risk that existing customers will downgrade from the premium one.",
+    "seconds": 60,
+    "targets": [
+      "trade-off",
+      "proposition",
+      "ramifications"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Present a recommendation to the council on whether to switch some street lights off after midnight to save money.",
+    "seconds": 60,
+    "targets": [
+      "trade-off",
+      "value for money",
+      "contentious"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Recommend whether to promote an internal candidate or hire externally for a new team leader post.",
+    "seconds": 45,
+    "targets": [
+      "trade-off",
+      "rapport",
+      "learn the ropes"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Your restaurant's menu has grown to forty dishes. Recommend whether to shorten it, balancing customer choice against quality and waste.",
+    "seconds": 45,
+    "targets": [
+      "trade-off",
+      "streamline",
+      "cut down on"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Your director asks whether to automate a manual process or keep the two people who currently do it. Recommend an approach, handling the people side with care.",
+    "seconds": 60,
+    "targets": [
+      "trade-off",
+      "upskill",
+      "outlay"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Recommend whether the firm should take on a big but demanding new client that would stretch the team.",
+    "seconds": 60,
+    "targets": [
+      "a bit of a stretch",
+      "trade-off",
+      "at capacity"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Recommend whether this year's conference should be in person, online or hybrid, weighing cost, reach and atmosphere.",
+    "seconds": 60,
+    "targets": [
+      "trade-off",
+      "the best of both worlds",
+      "outlay"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Present a recommendation on whether to raise prices by five per cent or absorb rising costs for another year.",
+    "seconds": 45,
+    "targets": [
+      "per cent",
+      "trade-off",
+      "attrition"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Recommend whether the engineering team should spend the next quarter on new features or on fixing the fragile systems underneath.",
+    "seconds": 60,
+    "targets": [
+      "trade-off",
+      "back burner",
+      "robust"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Recommend whether your hospital should centralise its outpatient clinics on one site, considering patients who travel by bus.",
+    "seconds": 60,
+    "targets": [
+      "outpatient",
+      "trade-off",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Recommend whether to accept a client's demand for a fixed-price contract on a project with lots of unknowns.",
+    "seconds": 60,
+    "targets": [
+      "trade-off",
+      "contingency",
+      "ring-fence"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Recommend to the senior leadership whether your secondary school should ban mobile phones entirely or allow them at break time.",
+    "seconds": 45,
+    "targets": [
+      "break time",
+      "trade-off",
+      "pragmatic"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "The local non-league football club has asked your firm to sponsor its kit. Recommend whether to do it, weighing visibility against cost.",
+    "seconds": 45,
+    "targets": [
+      "trade-off",
+      "tangible",
+      "value for money"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Recommend to the finance director whether to lease or buy a new fleet of delivery vans.",
+    "seconds": 60,
+    "targets": [
+      "outlay",
+      "trade-off",
+      "offset"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Present a recommendation on whether to merge your three regional call centres into one site in the Midlands.",
+    "seconds": 60,
+    "targets": [
+      "consolidate",
+      "trade-off",
+      "knock-on effect"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Your design agency has thirty clients across a dozen sectors. Recommend whether to specialise in one sector or stay a generalist.",
+    "seconds": 60,
+    "targets": [
+      "jack of all trades",
+      "trade-off",
+      "horses for courses"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Recommend whether to delay a product launch to add accessibility features requested by disabled users.",
+    "seconds": 60,
+    "targets": [
+      "trade-off",
+      "imperative",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Recommend whether to keep the annual staff conference or put the money into team away days instead.",
+    "seconds": 45,
+    "targets": [
+      "away day",
+      "trade-off",
+      "value for money"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Your firm is fitting out a new office. Recommend whether it should be open-plan, weighing collaboration against noise and concentration.",
+    "seconds": 45,
+    "targets": [
+      "trade-off",
+      "hot-desking",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Recommend whether the hotel should accept large discounted group bookings during the quiet winter months.",
+    "seconds": 45,
+    "targets": [
+      "trade-off",
+      "offset",
+      "turnover"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Recommend whether your research lab should share its data openly now or keep it private until publication.",
+    "seconds": 60,
+    "targets": [
+      "trade-off",
+      "precedent",
+      "scrutinise"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Recommend whether to introduce flexible working across the whole organisation or pilot it in one department first.",
+    "seconds": 60,
+    "targets": [
+      "flexitime",
+      "pilot",
+      "trade-off"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Present a recommendation on replacing paper timesheets with a mobile app for construction site workers.",
+    "seconds": 45,
+    "targets": [
+      "teething problems",
+      "trade-off",
+      "rollout"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Recommend whether to close a loss-making legacy service that a small group of loyal customers still rely on.",
+    "seconds": 60,
+    "targets": [
+      "trade-off",
+      "bite the bullet",
+      "ramifications"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Recommend whether the company should switch its van fleet to electric now or wait three years.",
+    "seconds": 60,
+    "targets": [
+      "trade-off",
+      "outlay",
+      "foreseeable"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "Recommend to the board whether the regional theatre should programme more popular musicals or keep championing new writing.",
+    "seconds": 60,
+    "targets": [
+      "trade-off",
+      "sell like hot cakes",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "After an audit found twelve different laptop models in use, recommend whether to centralise IT purchasing or let departments keep buying their own.",
+    "seconds": 45,
+    "targets": [
+      "procurement",
+      "trade-off",
+      "latitude"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "recommendation with trade-offs",
+    "register": "work",
+    "prompt": "The chief executive wants a new report in two weeks. Recommend to your manager whether to accept the deadline or negotiate a later date.",
+    "seconds": 45,
+    "targets": [
+      "a tall order",
+      "trade-off",
+      "push back"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A customer rings to ask why their broadband slows to a crawl every evening. Explain shared capacity and peak demand in simple terms.",
+    "seconds": 45,
+    "targets": [
+      "in a nutshell",
+      "bottleneck",
+      "I appreciate that"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A homeowner asks why their new solar panels produce far less in winter, even on bright days. Explain clearly and manage their expectations.",
+    "seconds": 45,
+    "targets": [
+      "by and large",
+      "rule of thumb",
+      "tangible"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "The owner of a small florist asks what moving their files to \"the cloud\" actually means. Explain it without jargon.",
+    "seconds": 45,
+    "targets": [
+      "it's not rocket science",
+      "the penny dropped",
+      "seamless"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "At the garage, a customer is puzzled about why their car needs a software update during its service. Explain what the update does and why it matters.",
+    "seconds": 45,
+    "targets": [
+      "in a nutshell",
+      "flag up",
+      "paramount"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A client asks why their website needs a security certificate and what the little padlock in the browser means. Explain it simply.",
+    "seconds": 45,
+    "targets": [
+      "does that make sense?",
+      "paramount",
+      "by and large"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "As a pharmacist, a customer asks why they must finish the whole course of antibiotics even though they feel better. Explain in plain English.",
+    "seconds": 45,
+    "targets": [
+      "prescription",
+      "rule of thumb",
+      "the thing is"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A customer asks why their car insurance went up despite making no claims. Explain in general terms how insurers price risk.",
+    "seconds": 45,
+    "targets": [
+      "I appreciate that",
+      "to some extent",
+      "the thing is"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A buyer asks why their building survey recommends treating rising damp before they move in. Explain the problem and the fix in everyday terms.",
+    "seconds": 60,
+    "targets": [
+      "in a nutshell",
+      "knock-on effect",
+      "prudent"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A café owner asks why their card machine sometimes refuses contactless and asks for a PIN instead. Explain the security limit simply.",
+    "seconds": 30,
+    "targets": [
+      "contactless",
+      "chip and PIN",
+      "threshold"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A customer complains that their new heat pump runs all day instead of switching on and off like their old boiler. Explain why that's normal.",
+    "seconds": 45,
+    "targets": [
+      "efficacy",
+      "the thing is",
+      "rule of thumb"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A retailer asks what \"machine learning\" really means in the stock-forecasting tool you've sold them. Explain the idea simply and honestly.",
+    "seconds": 60,
+    "targets": [
+      "crux",
+      "extrapolate",
+      "caveat"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "In a phone shop, a customer asks why their battery drains much faster after two years. Explain battery ageing clearly and suggest options.",
+    "seconds": 45,
+    "targets": [
+      "by and large",
+      "rule of thumb",
+      "it's not the end of the world"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A client asks why your contract requires their customer data to be stored in the UK. Explain the basics of data protection in plain terms.",
+    "seconds": 60,
+    "targets": [
+      "compliance",
+      "stipulate",
+      "stringent"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A first-time buyer asks why the mortgage offer depends on the lender's own valuation of the property. Explain the lender's reasoning.",
+    "seconds": 45,
+    "targets": [
+      "mortgage",
+      "prudent",
+      "in a nutshell"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A homeowner asks why they need a structural engineer before knocking two rooms into one. Explain load-bearing walls simply.",
+    "seconds": 45,
+    "targets": [
+      "prudent",
+      "ramifications",
+      "to recap"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A small charity asks what a backup really protects them against, since their files already sync. Explain the difference between backing up and syncing.",
+    "seconds": 45,
+    "targets": [
+      "contingency",
+      "the thing is",
+      "invaluable"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A customer asks why their parcel tracking has said \"in transit\" for three days. Explain how the delivery network moves parcels between depots.",
+    "seconds": 45,
+    "targets": [
+      "bear with me",
+      "in tandem",
+      "by and large"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A client asks why their staff need training before go-live when the software is \"meant to be intuitive\". Explain tactfully.",
+    "seconds": 60,
+    "targets": [
+      "I take your point",
+      "onboarding",
+      "teething problems"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "At a garden centre, a gardener asks why your peat-free compost behaves differently from what they're used to. Explain clearly.",
+    "seconds": 45,
+    "targets": [
+      "by and large",
+      "rule of thumb",
+      "nuance"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A landlord asks why the electrician insists the old fuse box must be replaced. Explain the safety issue plainly.",
+    "seconds": 45,
+    "targets": [
+      "paramount",
+      "obsolete",
+      "fit for purpose"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A customer asks why their energy tariff has a much cheaper rate overnight. Explain how off-peak pricing works and how they could benefit.",
+    "seconds": 45,
+    "targets": [
+      "in a nutshell",
+      "work out",
+      "rule of thumb"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A school business manager asks why your firm recommends separate Wi-Fi networks for staff and pupils. Explain the security reasons simply.",
+    "seconds": 60,
+    "targets": [
+      "stringent",
+      "mitigate",
+      "pupil"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A client asks why the printer rejected the logo they sent for their banners. Explain image resolution and colour differences simply.",
+    "seconds": 45,
+    "targets": [
+      "fiddly",
+      "clarify",
+      "fit for purpose"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "In your bike shop, a commuter asks whether disc brakes are worth the extra cost. Explain how they work and the trade-offs.",
+    "seconds": 45,
+    "targets": [
+      "trade-off",
+      "outlay",
+      "come rain or shine"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A customer asks why the \"eco\" cycle on their new washing machine takes three hours but uses less energy. Explain why longer can mean cheaper.",
+    "seconds": 45,
+    "targets": [
+      "the thing is",
+      "rule of thumb",
+      "funnily enough"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A business client asks why their emails keep landing in recipients' spam folders. Explain the main causes in plain terms and what you'll fix.",
+    "seconds": 60,
+    "targets": [
+      "flag up",
+      "in a nutshell",
+      "rectify"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A client asks why their small rear extension needs planning permission when the neighbour's didn't. Explain the rules simply.",
+    "seconds": 45,
+    "targets": [
+      "stipulate",
+      "council",
+      "threshold"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "As a radiographer, a nervous patient asks what an MRI scan actually does. Explain it simply and reassuringly.",
+    "seconds": 45,
+    "targets": [
+      "succinct",
+      "I appreciate that",
+      "bear with me"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A homeowner asks why their loft needs ventilation now that it's been insulated. Explain condensation simply.",
+    "seconds": 45,
+    "targets": [
+      "knock-on effect",
+      "the thing is",
+      "rule of thumb"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A customer asks how your budgeting app can show their bank balance without ever storing their banking password. Explain secure shared access in plain terms.",
+    "seconds": 60,
+    "targets": [
+      "in a nutshell",
+      "stringent",
+      "seamless"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A café owner in London asks why their new coffee machine needs descaling so often. Explain hard water simply.",
+    "seconds": 30,
+    "targets": [
+      "rule of thumb",
+      "by and large",
+      "knock-on effect"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A client asks why your software is priced per user per month rather than as a one-off fee. Explain the subscription model fairly.",
+    "seconds": 60,
+    "targets": [
+      "pro rata",
+      "outlay",
+      "scalable"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "At a dealership, a customer asks why their electric car's range drops in cold weather. Explain it simply.",
+    "seconds": 45,
+    "targets": [
+      "by and large",
+      "rule of thumb",
+      "nippy"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A shop owner asks why they must update their till software before the new tax year. Explain the reason in simple terms.",
+    "seconds": 45,
+    "targets": [
+      "tax year",
+      "compliance",
+      "HMRC"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A client asks why a professional translation of their brochure costs more than using a free online tool. Explain what a human translator adds.",
+    "seconds": 60,
+    "targets": [
+      "nuance",
+      "value for money",
+      "bespoke"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A homeowner asks whether the water softener the plumber recommended is really worth it. Explain the trade-offs honestly.",
+    "seconds": 45,
+    "targets": [
+      "trade-off",
+      "outlay",
+      "on balance"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A self-employed client asks why you, their accountant, need receipts for every expense. Explain the reasons simply.",
+    "seconds": 45,
+    "targets": [
+      "HMRC",
+      "Self Assessment",
+      "substantiate"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A customer asks why their new video doorbell keeps disconnecting. Explain simply why it needs a strong Wi-Fi signal at the front door.",
+    "seconds": 30,
+    "targets": [
+      "the thing is",
+      "the penny dropped",
+      "on the blink"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A start-up client asks why their hosting bill tripled after their product went viral. Explain usage-based pricing clearly.",
+    "seconds": 60,
+    "targets": [
+      "scalable",
+      "exponential",
+      "headroom"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a technical concept to a customer",
+    "register": "work",
+    "prompt": "A farmer asks how the soil sensors your company installed decide when to water the crops. Explain the logic simply.",
+    "seconds": 45,
+    "targets": [
+      "threshold",
+      "parameter",
+      "in a nutshell"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At an industry drinks reception, someone asks what you actually do. Describe your role in a way that's memorable and invites further conversation.",
+    "seconds": 45,
+    "targets": [
+      "does that make sense?",
+      "remit",
+      "the thing is"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At a careers fair at your old university, a student asks what a typical day looks like in your job. Describe it honestly and encouragingly.",
+    "seconds": 60,
+    "targets": [
+      "by and large",
+      "learn the ropes",
+      "the best of both worlds"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At a networking breakfast, you have thirty seconds to introduce yourself and your team to the room. Make it crisp and engaging.",
+    "seconds": 30,
+    "targets": [
+      "spearhead",
+      "in a nutshell",
+      "remit"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "During a conference coffee break, a stranger asks how you got into your field. Tell the story briefly and naturally.",
+    "seconds": 45,
+    "targets": [
+      "funnily enough",
+      "as it happens",
+      "take the plunge"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At a local business association meeting, explain what your small bakery offers other businesses and why they should order from you.",
+    "seconds": 45,
+    "targets": [
+      "bespoke",
+      "value for money",
+      "rustle up"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At a professional dinner, the person beside you works in a completely different sector. Describe your role so they genuinely understand it.",
+    "seconds": 45,
+    "targets": [
+      "liaise",
+      "stakeholder",
+      "crux"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At a trade show, a potential partner asks what makes your consultancy different. Describe your offer without overselling.",
+    "seconds": 45,
+    "targets": [
+      "bespoke",
+      "blow your own trumpet",
+      "tangible"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "A recruiter at an alumni event asks what you're looking for next in your career. Answer clearly and positively.",
+    "seconds": 45,
+    "targets": [
+      "keen",
+      "remit",
+      "prospective"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At a charity fundraising dinner, a guest asks what your job at the charity involves. Describe it warmly and concisely.",
+    "seconds": 45,
+    "targets": [
+      "tangible",
+      "muck in",
+      "jack of all trades"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At a meetup for start-up founders, describe what your company does and the problem it solves in under a minute.",
+    "seconds": 45,
+    "targets": [
+      "in a nutshell",
+      "scalable",
+      "bottleneck"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At a regional NHS conference, someone from another trust asks about your role in the digital team. Describe it and what you're working on.",
+    "seconds": 45,
+    "targets": [
+      "in the pipeline",
+      "rollout",
+      "liaise"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "everyday",
+    "prompt": "At your partner's work party, someone asks what you do for a living. Describe your job as a quantity surveyor in a friendly, jargon-free way.",
+    "seconds": 30,
+    "targets": [
+      "to recap",
+      "sort of",
+      "it's not rocket science"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At a women-in-engineering networking evening, describe your career path and the role you hold now.",
+    "seconds": 60,
+    "targets": [
+      "spearhead",
+      "milestone",
+      "as it happens"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At a conference reception, someone asks what your research group does. Give a quick, engaging overview.",
+    "seconds": 45,
+    "targets": [
+      "in a nutshell",
+      "empirical",
+      "food for thought"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At a council-run event for local employers, explain what your social enterprise does and how other businesses can get involved.",
+    "seconds": 45,
+    "targets": [
+      "chip in",
+      "tangible",
+      "rope in"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At a networking lunch, you're asked to describe a recent project you're proud of. Do it without sounding boastful.",
+    "seconds": 45,
+    "targets": [
+      "blow your own trumpet",
+      "milestone",
+      "spearhead"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At an industry awards evening, someone from a rival firm asks what you've been working on. Answer openly but give nothing confidential away.",
+    "seconds": 45,
+    "targets": [
+      "under wraps",
+      "in the pipeline",
+      "keep it under your hat"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At a breakfast seminar, someone asks what a product manager actually does all day. Describe your role clearly.",
+    "seconds": 45,
+    "targets": [
+      "prioritise",
+      "stakeholder",
+      "roadmap"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "everyday",
+    "prompt": "At a family friend's barbecue, someone asks what working in procurement involves. Describe it so it doesn't sound dull.",
+    "seconds": 45,
+    "targets": [
+      "procurement",
+      "as dull as ditchwater",
+      "funnily enough"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At a business school alumni evening, describe a career change you made and why you made it.",
+    "seconds": 60,
+    "targets": [
+      "take the plunge",
+      "in hindsight",
+      "a blessing in disguise"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At a Chamber of Commerce event, introduce your accountancy practice and the kind of clients you work best with.",
+    "seconds": 45,
+    "targets": [
+      "bespoke",
+      "horses for courses",
+      "proactive"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At a conference, a delegate asks what your role as a data protection officer involves. Explain it in an approachable way.",
+    "seconds": 45,
+    "targets": [
+      "compliance",
+      "remit",
+      "it's not rocket science"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At a networking event, a senior figure asks what you think the biggest challenge in your industry is. Answer with a clear view.",
+    "seconds": 45,
+    "targets": [
+      "headwinds",
+      "on balance",
+      "I'd have thought"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At a makers' market, describe your role running a small pottery studio to a shop owner who might stock your work.",
+    "seconds": 45,
+    "targets": [
+      "bespoke",
+      "on a shoestring",
+      "from scratch"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At a sector networking evening, explain what your role as sustainability lead involves and what you're trying to change.",
+    "seconds": 60,
+    "targets": [
+      "tangible",
+      "overarching",
+      "buy-in"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At a hospital volunteers' celebration, a visiting guest asks what being volunteer coordinator involves. Describe your role warmly and concretely.",
+    "seconds": 45,
+    "targets": [
+      "muck in",
+      "rope in",
+      "invaluable"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "everyday",
+    "prompt": "A fellow parent at the school gate asks what you do for a living. Describe your job as a software tester in friendly terms.",
+    "seconds": 30,
+    "targets": [
+      "sort of",
+      "funnily enough",
+      "pick up"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At a legal sector networking event, describe your role as a paralegal and what you hope to do next.",
+    "seconds": 45,
+    "targets": [
+      "solicitor",
+      "remit",
+      "keen"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At a creative industries meetup, describe what you do as a freelance illustrator and the kind of work you're looking for.",
+    "seconds": 45,
+    "targets": [
+      "self-employed",
+      "bespoke",
+      "up for"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At a logistics conference, describe your role managing a regional depot to someone who works in tech.",
+    "seconds": 45,
+    "targets": [
+      "at capacity",
+      "bottleneck",
+      "clarify"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At an engineering institution dinner, describe the infrastructure project you're working on to a guest from the arts.",
+    "seconds": 60,
+    "targets": [
+      "in a nutshell",
+      "milestone",
+      "flagship"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At a networking event, you meet someone who might hire your team. Describe what your team does best and suggest a follow-up.",
+    "seconds": 45,
+    "targets": [
+      "let's touch base",
+      "bespoke",
+      "happy to discuss"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At an education conference, describe your role as a special educational needs coordinator to a policy officer.",
+    "seconds": 45,
+    "targets": [
+      "SEND",
+      "bespoke",
+      "liaise"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At a hospitality trade fair, describe your role as a hotel revenue manager in plain terms.",
+    "seconds": 45,
+    "targets": [
+      "succinct",
+      "metric",
+      "threshold"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "describe your role at a networking event",
+    "register": "work",
+    "prompt": "At a graduate recruitment fair, describe what your firm's graduate scheme offers to an interested student.",
+    "seconds": 45,
+    "targets": [
+      "graduate scheme",
+      "secondment",
+      "hit the ground running"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "A new graduate joins your team today. Brief them on how the team works, who to ask for what, and what to focus on in their first week.",
+    "seconds": 60,
+    "targets": [
+      "learn the ropes",
+      "line manager",
+      "no rush"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "A newly qualified nurse is starting on your ward. Brief her on the shift pattern, the handover process and the one thing she must never skip.",
+    "seconds": 60,
+    "targets": [
+      "handover",
+      "ward",
+      "paramount"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a new barista on how the morning rush works in your café and how to stay calm when the queue builds.",
+    "seconds": 45,
+    "targets": [
+      "queue",
+      "keep calm and carry on",
+      "rule of thumb"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "A new account manager is inheriting three of your clients. Brief them on each client's quirks and priorities.",
+    "seconds": 60,
+    "targets": [
+      "handover",
+      "sticking point",
+      "rub someone up the wrong way"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a new warehouse operative on the safety rules before their first shift, without it sounding like a lecture.",
+    "seconds": 45,
+    "targets": [
+      "health and safety",
+      "by the book",
+      "mind out"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "A new teaching assistant joins your Year 7 class tomorrow. Brief them on the pupils' needs and the classroom routine.",
+    "seconds": 60,
+    "targets": [
+      "teaching assistant",
+      "Year 7",
+      "bespoke"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a new software developer on how code reviews and releases work in your team.",
+    "seconds": 60,
+    "targets": [
+      "rollout",
+      "iteration",
+      "flag up"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "A contractor is covering your role while you're on annual leave. Brief them on what's urgent and what can wait.",
+    "seconds": 45,
+    "targets": [
+      "annual leave",
+      "back burner",
+      "hold the fort"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a new receptionist at your GP surgery on handling callers who insist on an appointment today.",
+    "seconds": 45,
+    "targets": [
+      "surgery",
+      "prioritise",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "A new volunteer is joining your charity shop. Brief them on pricing donations, using the till and the regular customers.",
+    "seconds": 45,
+    "targets": [
+      "rule of thumb",
+      "bits and bobs",
+      "pop in"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a new finance assistant on the month-end close timetable and where things usually get stuck.",
+    "seconds": 60,
+    "targets": [
+      "bottleneck",
+      "reconcile",
+      "timescale"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "A new project manager is taking over a struggling project from you. Brief them honestly on its history and the key relationships.",
+    "seconds": 60,
+    "targets": [
+      "stakeholder",
+      "the elephant in the room",
+      "slippage"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a new joiner on your team's unwritten rules: how meetings run, how people communicate, and what counts as urgent.",
+    "seconds": 45,
+    "targets": [
+      "rule of thumb",
+      "bandwidth",
+      "keep me posted"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a new site manager taking over a building project that's two weeks behind schedule.",
+    "seconds": 45,
+    "targets": [
+      "slippage",
+      "knock-on effect",
+      "crack on"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "A new sales rep starts on Monday. Brief them on the product range and how to handle the objection customers raise most often.",
+    "seconds": 60,
+    "targets": [
+      "push back",
+      "compelling",
+      "in a nutshell"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a new trainee at your law firm on how recording billable time works and why it matters.",
+    "seconds": 45,
+    "targets": [
+      "by the book",
+      "granular",
+      "solicitor"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a colleague on secondment to your team about the project they'll be helping with and what you need from them.",
+    "seconds": 45,
+    "targets": [
+      "secondment",
+      "deliverable",
+      "hit the ground running"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "A new chef joins your kitchen. Brief them on the pass, the menu and how service runs on a busy Saturday night.",
+    "seconds": 60,
+    "targets": [
+      "chock-a-block",
+      "rule of thumb",
+      "in tandem"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a new member of the customer support team on when and how to escalate tricky cases.",
+    "seconds": 45,
+    "targets": [
+      "escalate",
+      "threshold",
+      "bear with me"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "A new research assistant joins your lab. Brief them on safety, data handling and how the group's weekly meetings work.",
+    "seconds": 60,
+    "targets": [
+      "rigorous",
+      "by the book",
+      "seminar"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a new council officer on handling the steady stream of calls from residents about missed bin collections.",
+    "seconds": 45,
+    "targets": [
+      "put the bins out",
+      "I appreciate that",
+      "chase up"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a new night manager at your seaside hotel on handling late arrivals, noise complaints and genuine emergencies.",
+    "seconds": 60,
+    "targets": [
+      "contingency",
+      "escalate",
+      "keep calm and carry on"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "A new marketing assistant asks what they need to know about the brand. Brief them on tone, audience, and dos and don'ts.",
+    "seconds": 45,
+    "targets": [
+      "coherent",
+      "rule of thumb",
+      "on the same page"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a new apprentice electrician on what they'll do in their first month and how to ask questions on site.",
+    "seconds": 45,
+    "targets": [
+      "apprenticeship",
+      "learn the ropes",
+      "wet behind the ears"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a new team member on the main tools your team uses and which ones they can safely ignore for now.",
+    "seconds": 45,
+    "targets": [
+      "fiddly",
+      "back burner",
+      "bits and bobs"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a new HR adviser on how the six-month probation process works for new staff and where managers tend to slip up.",
+    "seconds": 45,
+    "targets": [
+      "probation",
+      "appraisal",
+      "by the book"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a new library assistant on the busiest times and how to run the Saturday children's story session.",
+    "seconds": 45,
+    "targets": [
+      "rule of thumb",
+      "chock-a-block",
+      "muck in"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a new data analyst on where the team's data comes from and the known quirks in it.",
+    "seconds": 60,
+    "targets": [
+      "caveat",
+      "discrepancy",
+      "pinch of salt"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a new support worker at your care home on the residents' routines and how to build their trust.",
+    "seconds": 60,
+    "targets": [
+      "care home",
+      "rapport",
+      "by and large"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a new events assistant on the run sheet for tomorrow's conference, from the early registration desk to the final panel.",
+    "seconds": 45,
+    "targets": [
+      "run through",
+      "contingency",
+      "on the dot"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "A colleague has just been promoted to lead your old team. Brief them on the personalities in the team without gossiping.",
+    "seconds": 60,
+    "targets": [
+      "tread on someone's toes",
+      "rapport",
+      "give someone the benefit of the doubt"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a new joiner on how expenses, annual leave and flexitime work in your organisation.",
+    "seconds": 45,
+    "targets": [
+      "annual leave",
+      "flexitime",
+      "fiddly"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a new regional manager on the three shops they'll oversee and which one needs most attention.",
+    "seconds": 60,
+    "targets": [
+      "turnover",
+      "prioritise",
+      "on thin ice"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a new copy editor on your magazine's house style and the mistakes you see most often.",
+    "seconds": 45,
+    "targets": [
+      "rule of thumb",
+      "dot the i's and cross the t's",
+      "stringent"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a new delivery driver on the route, the trickier drop-offs and what to do if they're running late.",
+    "seconds": 45,
+    "targets": [
+      "run late",
+      "knock-on effect",
+      "the thing is"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a new trustee on the organisation's current priorities and the big decisions coming up this year.",
+    "seconds": 60,
+    "targets": [
+      "overarching",
+      "juncture",
+      "pertinent"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a new joiner who'll be working remotely on how to stay connected with the rest of the team.",
+    "seconds": 45,
+    "targets": [
+      "let's touch base",
+      "bandwidth",
+      "rapport"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a new school governor on what to expect at their first governing body meeting.",
+    "seconds": 45,
+    "targets": [
+      "agenda",
+      "minutes",
+      "matters arising"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief a new security officer at a shopping centre on patrol routes and how to handle incidents.",
+    "seconds": 45,
+    "targets": [
+      "escalate",
+      "by the book",
+      "keep your eye on the ball"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "brief a new joiner",
+    "register": "work",
+    "prompt": "Brief the colleague covering for you before you start maternity leave, covering live projects and key contacts.",
+    "seconds": 60,
+    "targets": [
+      "maternity leave",
+      "handover",
+      "keep me posted"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "A client's kitchen renovation will be three weeks late because the worktops arrived damaged. Ring them, explain the delay and set out the new plan.",
+    "seconds": 60,
+    "targets": [
+      "I'm afraid",
+      "knock-on effect",
+      "apologies for the delay"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "The software your team is building won't be ready for the client's launch date. Explain why, take responsibility and propose a phased alternative.",
+    "seconds": 60,
+    "targets": [
+      "slippage",
+      "interim",
+      "I'm terribly sorry"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "A client's annual accounts will be late because their own records arrived incomplete. Explain tactfully without blaming them outright.",
+    "seconds": 45,
+    "targets": [
+      "forthcoming",
+      "timescale",
+      "I appreciate that"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "A couple's wedding cake will be smaller than planned because your supplier let you down. Explain and offer a solution they'll be happy with.",
+    "seconds": 45,
+    "targets": [
+      "bespoke",
+      "I'm terribly sorry",
+      "make up for"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "Explain to a client why the survey report on their property will take another week because you couldn't get into the loft.",
+    "seconds": 45,
+    "targets": [
+      "I'm afraid",
+      "timescale",
+      "bear with me"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "A client's translation project is running late because the source documents keep changing. Explain the impact and suggest a way forward.",
+    "seconds": 60,
+    "targets": [
+      "knock-on effect",
+      "sign-off",
+      "timescale"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "A client's office furniture delivery is held up at the port. Explain the situation and what you're doing about it.",
+    "seconds": 45,
+    "targets": [
+      "hold up",
+      "I'll be in touch",
+      "contingency"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "Explain to a client why the research findings they commissioned are delayed after an ethics committee asked for changes.",
+    "seconds": 60,
+    "targets": [
+      "stipulate",
+      "rigorous",
+      "I appreciate that"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "You've paused a client's website migration after finding a security flaw. Explain why you stopped and give the new timeline.",
+    "seconds": 45,
+    "targets": [
+      "flag up",
+      "prudent",
+      "timescale"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "The venue has double-booked, and you must move a client's conference back by a week. Explain and reassure them.",
+    "seconds": 60,
+    "targets": [
+      "I'm terribly sorry",
+      "contingency",
+      "we apologise for any inconvenience"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "Explain to a client why the prototype they're waiting for failed testing and needs redesigning.",
+    "seconds": 45,
+    "targets": [
+      "back to the drawing board",
+      "rigorous",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "A client's court hearing has been adjourned. As their solicitor, explain what that means and what happens next.",
+    "seconds": 45,
+    "targets": [
+      "I appreciate that",
+      "protracted",
+      "solicitor"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "A client's brochure print run will be late because of a paper shortage. Explain and offer them some options.",
+    "seconds": 45,
+    "targets": [
+      "shortfall",
+      "interim",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "Explain to a long-standing client why a piece of work you promised for Friday will now arrive next Wednesday.",
+    "seconds": 45,
+    "targets": [
+      "I'm terribly sorry",
+      "bandwidth",
+      "make up for"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "A client's loft conversion is on hold because the planning officer wants more drawings. Explain patiently what happens now.",
+    "seconds": 45,
+    "targets": [
+      "council",
+      "stipulate",
+      "timescale"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "Explain to a client why their data analysis is late after you discovered errors in the figures they supplied.",
+    "seconds": 60,
+    "targets": [
+      "discrepancy",
+      "rigorous",
+      "rectify"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "A client's handmade dining table is delayed because the timber failed a quality check. Explain why you won't cut corners.",
+    "seconds": 45,
+    "targets": [
+      "cut corners",
+      "fit for purpose",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "Explain to a policyholder why their insurance claim is taking longer than expected to settle.",
+    "seconds": 45,
+    "targets": [
+      "bear with me",
+      "corroborate",
+      "I appreciate that"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "A client's campaign launch must move because they still haven't approved the final artwork. Explain diplomatically.",
+    "seconds": 60,
+    "targets": [
+      "sign-off",
+      "forthcoming",
+      "knock-on effect"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "Explain to a block of flats' managing agent why the engineers can't fix the broken lift until a specialist part arrives.",
+    "seconds": 45,
+    "targets": [
+      "I'm afraid",
+      "interim",
+      "bear with me"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "A client's documentary edit is running late because the music rights haven't cleared. Explain the situation honestly.",
+    "seconds": 60,
+    "targets": [
+      "up in the air",
+      "timescale",
+      "keep someone in the dark"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "Explain to a client why their recruitment campaign hasn't yet produced a shortlist of candidates.",
+    "seconds": 45,
+    "targets": [
+      "shortlist",
+      "thin on the ground",
+      "I appreciate that"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "A client's laptop rollout is delayed because your supplier went into administration. Explain and propose alternatives.",
+    "seconds": 60,
+    "targets": [
+      "rollout",
+      "contingency",
+      "spanner in the works"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "A client's garden landscaping is weeks behind after relentless rain. Explain and reset their expectations.",
+    "seconds": 45,
+    "targets": [
+      "washout",
+      "knock-on effect",
+      "bear with me"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "Explain to a client why the audit you're carrying out must be extended by two weeks.",
+    "seconds": 45,
+    "targets": [
+      "rigorous",
+      "due diligence",
+      "I'm afraid"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "A client's mobile app has been rejected by the app store for a technical reason. Explain what happened and how you'll fix it.",
+    "seconds": 45,
+    "targets": [
+      "rectify",
+      "stipulate",
+      "teething problems"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "Explain to a client why their bespoke training day has been postponed because the trainer is ill.",
+    "seconds": 45,
+    "targets": [
+      "off sick",
+      "I'm terribly sorry",
+      "interim"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "As an estate agent, explain to a seller why their sale has stalled because of a slow chain further down the line.",
+    "seconds": 45,
+    "targets": [
+      "I appreciate that",
+      "knock-on effect",
+      "bear with me"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "Explain to a client why their architectural drawings must be revised after a building regulations review.",
+    "seconds": 45,
+    "targets": [
+      "stipulate",
+      "compliance",
+      "timescale"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "The corporate lunch a client ordered from you will arrive forty minutes late. Ring them and explain.",
+    "seconds": 30,
+    "targets": [
+      "run late",
+      "I'm terribly sorry",
+      "make up for"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "Explain to a client why the grant funding they're expecting is still stuck in processing.",
+    "seconds": 45,
+    "targets": [
+      "protracted",
+      "bear with me",
+      "forthcoming"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "A client's product photos must be reshot because the samples arrived in the wrong colour. Explain and agree a new date.",
+    "seconds": 45,
+    "targets": [
+      "I'm afraid",
+      "rectify",
+      "fit for purpose"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "Explain to a client why their quarterly report will be late because the analyst working on it has just resigned.",
+    "seconds": 45,
+    "targets": [
+      "handover",
+      "I'm terribly sorry",
+      "bandwidth"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "A client's office fit-out has stopped after asbestos was found during the works. Explain calmly and set out the next steps.",
+    "seconds": 60,
+    "targets": [
+      "paramount",
+      "stringent",
+      "knock-on effect"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "Explain to a client why their shipment of machinery is stuck at customs over missing paperwork.",
+    "seconds": 45,
+    "targets": [
+      "bear with me",
+      "chase up",
+      "I'll be in touch"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "A client's consultancy report is late because their own staff interviews kept being rescheduled. Explain tactfully.",
+    "seconds": 45,
+    "targets": [
+      "forthcoming",
+      "put back",
+      "knock-on effect"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "Explain to a client why the training videos they ordered need re-recording after a legal review.",
+    "seconds": 45,
+    "targets": [
+      "compliance",
+      "I'm afraid",
+      "back to square one"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "A charity's appeal mailing is delayed because your printer made an error. Explain and say how you'll put it right.",
+    "seconds": 45,
+    "targets": [
+      "rectify",
+      "make up for",
+      "we apologise for any inconvenience"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "Explain to a client why their new booking system can't go live until their staff complete training.",
+    "seconds": 45,
+    "targets": [
+      "onboarding",
+      "prudent",
+      "teething problems"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain a delay to a client",
+    "register": "work",
+    "prompt": "A portrait you've been commissioned to paint will be late because you underestimated the work. Explain honestly to the client.",
+    "seconds": 45,
+    "targets": [
+      "own up",
+      "bite off more than you can chew",
+      "I'm terribly sorry"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "everyday",
+    "prompt": "You're best man at your oldest friend's wedding and have one minute for a toast. Share a short, warm anecdote and raise a glass to the couple.",
+    "seconds": 45,
+    "targets": [
+      "tie the knot",
+      "through thick and thin",
+      "get on like a house on fire"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "work",
+    "prompt": "A colleague of twenty years is retiring. Give a short leaving speech at the office that's affectionate and funny without embarrassing them.",
+    "seconds": 60,
+    "targets": [
+      "leaving do",
+      "a good innings",
+      "hang up your boots"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "everyday",
+    "prompt": "Give a toast at your parents' fortieth wedding anniversary dinner in their favourite local restaurant.",
+    "seconds": 45,
+    "targets": [
+      "through thick and thin",
+      "chalk and cheese",
+      "head over heels"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "work",
+    "prompt": "Your team has just won a major contract. Give a short speech at the celebration drinks thanking everyone involved.",
+    "seconds": 45,
+    "targets": [
+      "pull out all the stops",
+      "go the extra mile",
+      "well done"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "everyday",
+    "prompt": "Give a short speech officially opening your village fête and thanking the volunteers who set it up.",
+    "seconds": 45,
+    "targets": [
+      "village fête",
+      "muck in",
+      "come rain or shine"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "everyday",
+    "prompt": "You've been asked to say a few words at your grandfather's ninetieth birthday party in the village hall.",
+    "seconds": 60,
+    "targets": [
+      "village hall",
+      "a good innings",
+      "the salt of the earth"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "work",
+    "prompt": "Give a toast at the company Christmas do, looking back on a tough year with good humour.",
+    "seconds": 45,
+    "targets": [
+      "Christmas do",
+      "weather the storm",
+      "let your hair down"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "everyday",
+    "prompt": "Give a short speech at your sister's hen do dinner, telling a story that captures exactly who she is.",
+    "seconds": 45,
+    "targets": [
+      "hen do",
+      "full of beans",
+      "the life and soul of the party"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "work",
+    "prompt": "Welcome a new chief executive at an all-hands meeting with a short, warm introduction that also acknowledges a difficult year.",
+    "seconds": 45,
+    "targets": [
+      "all-hands",
+      "hit the ground running",
+      "momentum"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "everyday",
+    "prompt": "Say a few words at your friends' housewarming, wishing them well in their new home.",
+    "seconds": 30,
+    "targets": [
+      "housewarming",
+      "make yourself at home",
+      "as safe as houses"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "work",
+    "prompt": "Give a short speech at an awards evening, accepting a team award on behalf of your colleagues.",
+    "seconds": 45,
+    "targets": [
+      "blow your own trumpet",
+      "pull out all the stops",
+      "invaluable"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "everyday",
+    "prompt": "Give a toast at your cricket club's end-of-season dinner, celebrating a decidedly mixed season of rain, near misses and one famous win.",
+    "seconds": 45,
+    "targets": [
+      "village cricket",
+      "rain stopped play",
+      "take it on the chin"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "work",
+    "prompt": "Give a farewell speech in the office kitchen for a colleague who's leaving to start her own catering business.",
+    "seconds": 45,
+    "targets": [
+      "take the plunge",
+      "the world is your oyster",
+      "sounding board"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "everyday",
+    "prompt": "At a surprise fiftieth birthday party in a pub function room, give a short toast to your best friend.",
+    "seconds": 45,
+    "targets": [
+      "through thick and thin",
+      "tickled pink",
+      "as fit as a fiddle"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "work",
+    "prompt": "Give a short speech at the opening of your company's new office, thanking the people who made the move happen.",
+    "seconds": 60,
+    "targets": [
+      "milestone",
+      "go the extra mile",
+      "teething problems"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "everyday",
+    "prompt": "As chair of the PTA, give a short speech at the end of the school year thanking parents and staff.",
+    "seconds": 45,
+    "targets": [
+      "muck in",
+      "chip in",
+      "thanks ever so much"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "work",
+    "prompt": "Give a toast at the launch party for a product your team spent two years building.",
+    "seconds": 45,
+    "targets": [
+      "milestone",
+      "burn the midnight oil",
+      "the proof of the pudding"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "everyday",
+    "prompt": "You're the parent of the bride. Give a short, warm welcome speech to the guests at the reception.",
+    "seconds": 60,
+    "targets": [
+      "head over heels",
+      "tie the knot",
+      "over the moon"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "work",
+    "prompt": "Give a short speech thanking the volunteers at your charity's annual celebration evening, mentioning what their hours have made possible.",
+    "seconds": 45,
+    "targets": [
+      "invaluable",
+      "go the extra mile",
+      "tangible"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "everyday",
+    "prompt": "Give a toast at your book club's tenth anniversary, gently teasing members about their reading habits.",
+    "seconds": 45,
+    "targets": [
+      "tongue in cheek",
+      "nothing to write home about",
+      "each to their own"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "work",
+    "prompt": "Give a short speech congratulating a colleague who has just qualified as a chartered accountant.",
+    "seconds": 45,
+    "targets": [
+      "with flying colours",
+      "burn the midnight oil",
+      "a feather in your cap"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "everyday",
+    "prompt": "Say a few words at your running club's party after several members completed the London Marathon.",
+    "seconds": 45,
+    "targets": [
+      "the London Marathon",
+      "by the skin of your teeth",
+      "over the moon"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "work",
+    "prompt": "Give the opening remarks at your team away day, setting the tone and goals for the day ahead.",
+    "seconds": 60,
+    "targets": [
+      "away day",
+      "let your hair down",
+      "momentum"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "everyday",
+    "prompt": "Give a toast at your friends' engagement party in the back room of their local pub.",
+    "seconds": 45,
+    "targets": [
+      "tie the knot",
+      "head over heels",
+      "on cloud nine"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "work",
+    "prompt": "Thank your outgoing manager at their leaving drinks, mentioning what you learnt from working with them.",
+    "seconds": 45,
+    "targets": [
+      "sounding board",
+      "learn the ropes",
+      "leaving do"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "everyday",
+    "prompt": "Give a short, gentle speech at a memorial gathering in the community centre for a much-loved neighbour.",
+    "seconds": 60,
+    "targets": [
+      "the salt of the earth",
+      "a good innings",
+      "through thick and thin"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "work",
+    "prompt": "At a party for staff and regular customers, give a toast celebrating ten years since your small business first opened its doors.",
+    "seconds": 45,
+    "targets": [
+      "on a shoestring",
+      "milestone",
+      "through thick and thin"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "everyday",
+    "prompt": "Give a short speech at your allotment society's harvest supper, thanking the committee for their work.",
+    "seconds": 45,
+    "targets": [
+      "allotment",
+      "muck in",
+      "come rain or shine"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "work",
+    "prompt": "Congratulate a colleague on their promotion with a short, light-hearted toast at a team lunch.",
+    "seconds": 30,
+    "targets": [
+      "well done",
+      "a feather in your cap",
+      "hit the ground running"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "everyday",
+    "prompt": "Give a speech at your brother's graduation party, mixing pride with a little gentle teasing.",
+    "seconds": 45,
+    "targets": [
+      "graduation",
+      "burn the midnight oil",
+      "pull someone's leg"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "work",
+    "prompt": "As host, give a short speech at a conference dinner welcoming international delegates to your city.",
+    "seconds": 60,
+    "targets": [
+      "make yourself at home",
+      "off the beaten track",
+      "by all means"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "everyday",
+    "prompt": "Give a toast at a reunion of your old university housemates, twenty years after you lived together.",
+    "seconds": 45,
+    "targets": [
+      "halls",
+      "water under the bridge",
+      "as thick as thieves"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "work",
+    "prompt": "Give a short speech at a project close, thanking a partner organisation for its support.",
+    "seconds": 45,
+    "targets": [
+      "in tandem",
+      "invaluable",
+      "milestone"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "everyday",
+    "prompt": "Give a quick toast at a friend's barbecue to celebrate their new job. Keep it short and cheerful.",
+    "seconds": 30,
+    "targets": [
+      "over the moon",
+      "the world is your oyster",
+      "cheers"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "work",
+    "prompt": "Give a thank-you speech honouring the cleaning and porter staff at your hospital's annual staff awards.",
+    "seconds": 45,
+    "targets": [
+      "invaluable",
+      "go the extra mile",
+      "come rain or shine"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "everyday",
+    "prompt": "Give a short speech after your community choir's concert, thanking the audience and the conductor.",
+    "seconds": 45,
+    "targets": [
+      "thanks ever so much",
+      "village hall",
+      "chip in"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "work",
+    "prompt": "Give a short speech at the leaving do of an apprentice who's finished their training and is moving on.",
+    "seconds": 45,
+    "targets": [
+      "apprenticeship",
+      "learn the ropes",
+      "with flying colours"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "everyday",
+    "prompt": "Give a toast at a Burns Night supper you're hosting for friends in your flat.",
+    "seconds": 45,
+    "targets": [
+      "Burns Night",
+      "ceilidh",
+      "let your hair down"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "work",
+    "prompt": "Say a few words at a team celebration after you finally closed a long-running, difficult project.",
+    "seconds": 45,
+    "targets": [
+      "done and dusted",
+      "protracted",
+      "all's well that ends well"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "give a toast or short speech",
+    "register": "everyday",
+    "prompt": "Give a short speech at your road's street party, thanking the neighbours who organised it.",
+    "seconds": 45,
+    "targets": [
+      "street party",
+      "bunting",
+      "muck in"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "At a university open day, a parent asks what your PhD research is about. Explain it clearly and say why it matters beyond academia.",
+    "seconds": 60,
+    "targets": [
+      "the penny dropped",
+      "empirical",
+      "tangible"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "everyday",
+    "prompt": "Your gran asks what you're actually studying for your master's. Explain your dissertation in a way she'll understand.",
+    "seconds": 45,
+    "targets": [
+      "dissertation",
+      "in a nutshell",
+      "sort of"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "You have one minute in a research pitch competition to hook the audience. Explain your research question and why anyone should care.",
+    "seconds": 60,
+    "targets": [
+      "crux",
+      "compelling",
+      "does that make sense?"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "Explain your team's research on reducing hospital readmissions to the trust's board, focusing on what it means for patients.",
+    "seconds": 60,
+    "targets": [
+      "empirical",
+      "implication",
+      "tangible"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "A local journalist asks about your study linking green spaces to children's wellbeing. Explain the findings without overstating them.",
+    "seconds": 45,
+    "targets": [
+      "caveat",
+      "plausible",
+      "to some extent"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "everyday",
+    "prompt": "A friend at the pub asks what your research on bumblebees actually involves. Explain it in an engaging, down-to-earth way.",
+    "seconds": 45,
+    "targets": [
+      "funnily enough",
+      "the thing is",
+      "in a nutshell"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "Explain to a funding panel why your research on flood defences deserves a grant, in plain English.",
+    "seconds": 60,
+    "targets": [
+      "compelling",
+      "rationale",
+      "ramifications"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "At your viva, the examiner asks you to summarise your thesis's main contribution. Answer concisely and confidently.",
+    "seconds": 45,
+    "targets": [
+      "viva",
+      "thesis",
+      "crux"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "Explain your market research findings on how people in their twenties manage money to the product team at your bank.",
+    "seconds": 60,
+    "targets": [
+      "salient",
+      "by and large",
+      "implication"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "A policy officer asks what your research on rural bus services reveals about loneliness in villages. Explain the key finding.",
+    "seconds": 45,
+    "targets": [
+      "implication",
+      "pertinent",
+      "thin on the ground"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "everyday",
+    "prompt": "Your flatmate asks why you spend all day counting cells under a microscope. Explain what your lab work is trying to discover.",
+    "seconds": 45,
+    "targets": [
+      "fiddly",
+      "crux",
+      "the thing is"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "Present your research on hybrid working to your organisation's leadership, including what surprised you most.",
+    "seconds": 60,
+    "targets": [
+      "empirical",
+      "nuance",
+      "funnily enough"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "A secondary school invites you to explain your archaeology research to Year 11 pupils. Make it vivid and concrete.",
+    "seconds": 45,
+    "targets": [
+      "Year 11",
+      "in a nutshell",
+      "bits and bobs"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "Explain to a charity's trustees what your evaluation of their mentoring programme found, including its limitations.",
+    "seconds": 60,
+    "targets": [
+      "caveat",
+      "tangible",
+      "empirical"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "At a conference poster session, a passer-by asks what your work on battery materials is about. Give a quick, clear pitch.",
+    "seconds": 30,
+    "targets": [
+      "to recap",
+      "scalable",
+      "in the pipeline"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "everyday",
+    "prompt": "At a family dinner, your uncle asks whether your climate research means the weather's going to get worse. Explain carefully and calmly.",
+    "seconds": 45,
+    "targets": [
+      "to some extent",
+      "nuance",
+      "by and large"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "Explain to the local council what your research on air quality outside primary schools found and what they might do about it.",
+    "seconds": 60,
+    "targets": [
+      "implication",
+      "stringent",
+      "mitigate"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "A colleague from finance asks what your user research uncovered about why customers abandon their online baskets. Explain briefly.",
+    "seconds": 45,
+    "targets": [
+      "salient",
+      "fiddly",
+      "quick win"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "Explain your historical research on a local Victorian mill to the village history society, focusing on one surprising discovery.",
+    "seconds": 60,
+    "targets": [
+      "funnily enough",
+      "as it happens",
+      "a turn-up for the books"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "Your supervisor asks for a quick update on your research progress and the main obstacle you're facing.",
+    "seconds": 45,
+    "targets": [
+      "sticking point",
+      "provisional",
+      "bogged down"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "Explain to a patient support group what your clinical trial is testing and what taking part would involve.",
+    "seconds": 60,
+    "targets": [
+      "rigorous",
+      "I appreciate that",
+      "in a nutshell"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "Explain to your line manager why your survey results contradict last year's and why you trust the new figures.",
+    "seconds": 45,
+    "targets": [
+      "discrepancy",
+      "rigorous",
+      "substantiate"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "everyday",
+    "prompt": "Your partner's friends ask what your linguistics research is about. Explain it in an amusing but accurate way.",
+    "seconds": 45,
+    "targets": [
+      "funnily enough",
+      "nuance",
+      "tongue in cheek"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "Explain your research on sleep and night shifts to the operations director of a distribution company.",
+    "seconds": 60,
+    "targets": [
+      "implication",
+      "tangible",
+      "detrimental"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "A peer reviewer asks why your sample size is so small. Explain your methodological choices and their limits.",
+    "seconds": 45,
+    "targets": [
+      "caveat",
+      "pragmatic",
+      "extrapolate"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "Present your research on customer churn to the commercial team, highlighting one finding they can act on now.",
+    "seconds": 60,
+    "targets": [
+      "attrition",
+      "actionable",
+      "salient"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "Explain to a gallery curator what your analysis of the pigments in an old painting has revealed.",
+    "seconds": 45,
+    "targets": [
+      "corroborate",
+      "clarify",
+      "as it happens"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "everyday",
+    "prompt": "Your ten-year-old nephew asks why you study volcanoes and whether it's dangerous. Explain your work in an exciting way.",
+    "seconds": 45,
+    "targets": [
+      "funnily enough",
+      "by and large",
+      "sort of"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "Explain your research on social prescribing to a group of GPs, focusing on what it means for their day-to-day practice.",
+    "seconds": 60,
+    "targets": [
+      "GP",
+      "implication",
+      "tangible"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "A potential industry partner asks how your university research on wheat yields could be turned into a product.",
+    "seconds": 45,
+    "targets": [
+      "scalable",
+      "viable",
+      "in the pipeline"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "Explain to a regional planning committee what your transport research says about the proposed rail link.",
+    "seconds": 60,
+    "targets": [
+      "ramifications",
+      "extrapolate",
+      "caveat"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "Explain to your research group why you want to change direction halfway through your project.",
+    "seconds": 45,
+    "targets": [
+      "rationale",
+      "recalibrate",
+      "in hindsight"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "everyday",
+    "prompt": "At a dinner party, someone asks whether your psychology research means you can read minds. Explain what you really do, with good humour.",
+    "seconds": 45,
+    "targets": [
+      "tongue in cheek",
+      "in a nutshell",
+      "nuance"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "Explain your team's research on ageing road bridges to highways engineers, focusing on practical recommendations.",
+    "seconds": 60,
+    "targets": [
+      "actionable",
+      "robust",
+      "prioritise"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "A history undergraduate asks what your research on medieval manuscripts involves day to day. Describe a typical working day.",
+    "seconds": 45,
+    "targets": [
+      "fiddly",
+      "by and large",
+      "as it happens"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "Explain to the board of a housing association what your research on damp and mould in their homes found.",
+    "seconds": 60,
+    "targets": [
+      "implication",
+      "paramount",
+      "rectify"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "Explain to a sceptical colleague why your in-depth interviews with twenty people are as valid as a big survey.",
+    "seconds": 45,
+    "targets": [
+      "nuance",
+      "rigorous",
+      "I take your point"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "Present your findings on what motivates volunteers to a national charity's leadership team in plain terms.",
+    "seconds": 60,
+    "targets": [
+      "salient",
+      "incentivise",
+      "tangible"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "work",
+    "prompt": "Explain to your funder why your project's final results are delayed and what the early findings suggest.",
+    "seconds": 45,
+    "targets": [
+      "preliminary",
+      "provisional",
+      "bear with me"
+    ]
+  },
+  {
+    "domain": "explaining",
+    "category": "explain your research",
+    "register": "everyday",
+    "prompt": "Your neighbour asks what your research on coastal erosion means for the seaside town where her parents live. Explain honestly and kindly.",
+    "seconds": 45,
+    "targets": [
+      "I appreciate that",
+      "to some extent",
+      "the seaside"
+    ]
+  }
+]
