@@ -75,8 +75,10 @@ async function main() {
     const info = phonemes.find((x) => x.symbol === ph);
     // 1. example words: the phoneme card's own examples first, then common words with the sound
     const has = (x: (typeof words)[number]) => x.phones.some((p) => p.p === ph && (!isVowel(ph) || ph === 'ə' || p.stress > 0));
+    // CURE words (sure, poor, tour, your) are /ɔː/ for some RP speakers and /ʊə/ for others: no use as /ɔː/ examples
+    const cure = (x: (typeof words)[number]) => ph === 'ɔː' && /(ure|oor|our)/.test(x.w);
     const ex = [...new Set([...(info?.examples ?? []).filter((w) => /^[a-z]+$/.test(w)),
-      ...words.filter((x) => has(x) && syllables(x) <= 2).sort((a, b) => a.r - b.r).map((x) => x.w)])].slice(0, N_WORDS);
+      ...words.filter((x) => has(x) && !cure(x) && syllables(x) <= 2).sort((a, b) => a.r - b.r).map((x) => x.w)])].filter((w) => !cure({ w } as (typeof words)[number])).slice(0, N_WORDS);
 
     // 2. minimal pairs with the contrast phoneme
     const q = CONTRAST[ph];
