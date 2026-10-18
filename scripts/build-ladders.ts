@@ -53,11 +53,15 @@ async function main() {
 
   // ---- corpus candidates (levels 1–4), analysed once
   const index = read<CorpusIndex>('public/corpus/index.json');
+  // Tatoeba is full of its regulars (Tom, Mary, Sami, Skura): odd practice material, so skip sentences with names.
+  const known = new Set(lexicon.map((x) => x.w));
+  const named = (text: string) => text.split(/\s+/).map((w) => w.replace(/[^\p{L}']/gu, ''))
+    .some((w, i) => /^\p{Lu}/u.test(w) && !/^I('|$)/.test(w) && (i > 0 || !known.has(w.toLowerCase())));
   const rows: { row: CorpusRow; n: number; phones: string[] }[] = [];
   for (const lvl of index.levels.filter((l) => l.level <= 4)) {
     for (const row of read<CorpusRow[]>(`public/corpus/${lvl.file}`)) {
       const n = row.text.split(/\s+/).length;
-      if (n < 2 || n > 12 || /[\d"“”]/.test(row.text)) continue;
+      if (n < 2 || n > 12 || /[\d"“”]/.test(row.text) || named(row.text)) continue;
       const target = await targetFromText(row.text);
       rows.push({ row, n, phones: target.flatMap((w) => w.phones.map((p) => p.p)) });
     }

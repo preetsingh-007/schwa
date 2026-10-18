@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useRef, useState } from 'react';
+import { useCallback, useEffect, useRef, useState, type ReactNode } from 'react';
 import { useApp } from '../store';
 import type { TierMode } from '../App';
 import type { Prompt } from '../types';
@@ -35,9 +35,12 @@ function spokenPrompt(p: Prompt, vocabNames: string[]): string {
   return `${p.text} ${vocabNames.length ? `Try to use: ${vocabNames.join(', ')}.` : ''}`;
 }
 
-function promptLabel(p: Prompt, tierMode: TierMode): string {
+const isWordDrill = (p: Prompt) => (p.drill?.kind === 'buildup' && p.drill.part === 'word') || (p.drill?.kind === 'ladder' && (p.drill.content === 'words' || p.drill.content === 'pairs'));
+
+function promptLabel(p: Prompt, tierMode: TierMode): ReactNode {
   if (p.drill?.kind === 'buildup') return `Build-up · step ${p.drill.step + 1} of ${p.drill.steps}`;
-  if (p.drill?.kind === 'ladder') return `Sounds · /${p.drill.phoneme}/ · ${STAGE_NAMES[p.drill.stage]}`;
+  // the label is upper-cased; IPA must not be (ɔ → Ɔ is a different symbol)
+  if (p.drill?.kind === 'ladder') return <>Sounds · <span className="ipa">/{p.drill.phoneme}/</span> · {STAGE_NAMES[p.drill.stage]}</>;
   if (tierMode === 'sounds' && p.title.startsWith('Diagnostic')) return 'Sounds · quick check';
   if (p.mode === 'nameit') return 'Words · name it';
   if (p.mode === 'shadow' && p.cardId) return 'Words · listen & repeat';
@@ -504,7 +507,8 @@ export default function PracticeArena({ tierMode, focusPhoneme, clearFocus, open
                   ? `Downloading RP voice · ${Math.round(voiceProgress.loaded / 1e6)} / ${Math.round(voiceProgress.total / 1e6)} MB`
                   : 'Preparing RP voice…'
                 : refState === 'error' ? 'Neural voice unavailable — using the system voice'
-                  : 'Listen, then repeat it — copy the rhythm and the melody, not just the words.'}
+                  : isWordDrill(prompt) ? 'Listen, then repeat — each word on its own, scored on the sounds.'
+                    : 'Listen, then repeat it — copy the rhythm and the melody, not just the words.'}
             </span>
           </div>
         )}
