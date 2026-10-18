@@ -1,9 +1,11 @@
 """Original score for the demo video, synthesised from scratch (no samples, no licences).
 
-    python3 scripts/demo/music.py <outDir> [trailerSeconds]
+    python3 scripts/demo/music.py score <sections.json> <out.wav>
 
-Writes trailer.wav (builds, then lands on the logo), sting.wav (chapter cards)
-and bed.wav (a quiet loopable pad for the setup guide). 48 kHz stereo.
+sections.json is a list of {"kind", "start", "bars"} in time order, where kind is
+intro (pads, building), hit (big chord, then the groove starts), groove,
+breakdown (pads and soft plucks) or outro (final hit, ringing out). A swell
+leads into every groove section. 100 BPM, A minor, 48 kHz stereo.
 """
 import sys, wave
 import numpy as np
@@ -145,77 +147,52 @@ def write(path, x):
         w.writeframes(x16.tobytes())
 
 
-def trailer(total):
-    """Intro (pads) → groove → build → hit on the logo → ring out."""
-    bars = int(np.ceil(total / BAR))
-    hit_bar = bars - 3          # the logo lands here
-    n = int((bars * BAR + 3) * SR)
-    pads, plucks, drums, bass = (np.zeros((n, 2)) for _ in range(4))
+def score(sections):
+    end = sections[-1]['start'] + sections[-1]['bars'] * BAR
+    n = int((end + 4) * SR)
+    pads, plucks, drums, bass, fx = (np.zeros((n, 2)) for _ in range(5))
     kicks = []
-    for b in range(bars):
-        ch = PROG[b % 4]
-        t0 = b * BAR
-        if b < hit_bar:
-            place(pads, pad_chord(ch, BAR + 0.7, 900 + 700 * min(1, b / hit_bar)), t0)
-        if 2 <= b < hit_bar:
-            arp = [ch[0] + 12, ch[1] + 12, ch[2] + 12, ch[3] + 12, ch[2] + 12, ch[1] + 12, ch[3] + 12, ch[2] + 24]
-            for k in range(8):
-                place(plucks, pluck(arp[k], vel=0.75 + 0.25 * (k % 2 == 0)), t0 + k * BEAT / 2)
-        if 4 <= b < hit_bar:
-            place(bass, sub(ch[0], BAR), t0)
-            steps = [0, 2] if b < 8 else [0, 1, 2, 3]
-            for k in steps:
-                place(drums, kick(), t0 + k * BEAT); kicks.append(t0 + k * BEAT)
-        if 8 <= b < hit_bar:
-            for k in range(4):
-                place(drums, hat(), t0 + k * BEAT + BEAT / 2)
-        if b == hit_bar - 1:
-            place(pads, swell(BAR), t0)
-    # the hit: big chord + low boom, ringing out
-    th = hit_bar * BAR
-    place(pads, pad_chord([45, 57, 60, 64, 69, 72], 3 * BAR, 2200) * 1.4, th)
-    place(drums, kick(1.3), th)
-    for k, m in enumerate([81, 76, 72, 69]):
-        place(plucks, pluck(m, 1.2, 0.8), th + k * BEAT / 2)
-    mix = duck(pads * 0.9 + bass, kicks) + plucks * 0.8 + drums
+    bar_i = 0
+    for k, sec in enumerate(sections):
+        kind, t0 = sec['kind'], sec['start']
+        for b in range(int(round(sec['bars']))):
+            t = t0 + b * BAR
+            ch = PROG[bar_i % 4]
+            bar_i += 1
+            if kind == 'outro':
+                break
+            if kind in ('intro', 'breakdown', 'groove', 'hit'):
+                bright = 900 if kind == 'intro' else 1300 if kind == 'breakdown' else 1700
+                place(pads, pad_chord(ch, BAR + 0.7, bright) * (0.8 if kind == 'breakdown' else 1), t)
+            if kind in ('groove', 'hit', 'breakdown'):
+                arp = [ch[0] + 12, ch[1] + 12, ch[2] + 12, ch[3] + 12, ch[2] + 12, ch[1] + 12, ch[3] + 12, ch[2] + 24]
+                for i in range(8):
+                    place(plucks, pluck(arp[i], vel=(0.45 if kind == 'breakdown' else 0.75) + 0.2 * (i % 2 == 0)), t + i * BEAT / 2)
+            if kind in ('groove', 'hit'):
+                place(bass, sub(ch[0], BAR), t)
+                for i in range(4):
+                    place(drums, kick(0.9), t + i * BEAT); kicks.append(t + i * BEAT)
+                    place(drums, hat(0.8), t + i * BEAT + BEAT / 2)
+        if kind == 'hit':
+            place(pads, pad_chord([45, 57, 60, 64, 69, 72], 2 * BAR, 2200) * 1.2, t0)
+            place(drums, kick(1.3), t0)
+        if kind == 'outro':
+            place(pads, pad_chord([45, 57, 60, 64, 69, 72], 3 * BAR, 2200) * 1.4, t0)
+            place(drums, kick(1.3), t0)
+            for i, m in enumerate([81, 76, 72, 69]):
+                place(plucks, pluck(m, 1.2, 0.8), t0 + i * BEAT / 2)
+        nxt = sections[k + 1] if k + 1 < len(sections) else None
+        if nxt and nxt['kind'] in ('groove', 'hit', 'outro'):
+            place(fx, swell(min(BAR, nxt['start'] - t0)), nxt['start'] - min(BAR, nxt['start'] - t0))
+    mix = duck(pads * 0.9 + bass, kicks) + plucks * 0.8 + drums + fx
     mix = reverb(mix)
-    fade = int(2.5 * SR)
+    fade = int(3 * SR)
     mix[-fade:] *= np.linspace(1, 0, fade)[:, None]
-    return master(mix), th
-
-
-def sting():
-    n = int(4.5 * SR)
-    x = np.zeros((n, 2))
-    place(x, pad_chord([48, 55, 60, 64, 67], 4.0, 1800), 0)
-    for k, m in enumerate([72, 76, 79, 84]):
-        place(x, pluck(m, 1.0, 0.7), 0.15 + k * 0.12)
-    x = reverb(x, 2.0, 0.35)
-    x[-int(1.2 * SR):] *= np.linspace(1, 0, int(1.2 * SR))[:, None]
-    return master(x, 0.7)
-
-
-def bed(total=120):
-    bars = int(np.ceil(total / BAR))
-    n = int((bars * BAR + 1) * SR)
-    x = np.zeros((n, 2))
-    for b in range(bars):
-        ch = PROG[b % 4]
-        place(x, pad_chord(ch, BAR + 0.7, 800) * 0.8, b * BAR)
-        for k, m in enumerate([ch[0] + 12, ch[2] + 12, ch[3] + 12, ch[1] + 24]):
-            place(x, pluck(m, 0.8, 0.35), b * BAR + k * BEAT)
-    x = reverb(x, 3.0, 0.4)
-    f = int(2 * SR)
-    x[:f] *= np.linspace(0, 1, f)[:, None]
-    x[-f:] *= np.linspace(1, 0, f)[:, None]
-    return master(x, 0.6)
+    return master(mix)
 
 
 if __name__ == '__main__':
-    out = sys.argv[1]
-    total = float(sys.argv[2]) if len(sys.argv) > 2 else 56
-    tr, hit = trailer(total)
-    write(f'{out}/trailer.wav', tr)
-    write(f'{out}/sting.wav', sting())
-    write(f'{out}/bed.wav', bed())
-    print(f'trailer {tr.shape[0] / SR:.1f}s, logo hit at {hit:.2f}s; bar = {BAR:.2f}s')
+    import json
+    if sys.argv[1] != 'score':
+        sys.exit(__doc__)
+    write(sys.argv[3], score(json.load(open(sys.argv[2]))))

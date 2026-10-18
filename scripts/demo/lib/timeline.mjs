@@ -11,7 +11,8 @@ export function loadTimeline(dir) {
   return JSON.parse(readFileSync(join(dir, 'timeline.json'), 'utf8'));
 }
 
-export function buildVideo(dir, out, { fps = 30 } = {}) {
+/** size: 'W:H' to scale frames to exactly that (phone footage); default fits 1920×1080. */
+export function buildVideo(dir, out, { fps = 30, size } = {}) {
   const tl = loadTimeline(dir);
   const fr = tl.frames;
   let list = '';
@@ -26,7 +27,7 @@ export function buildVideo(dir, out, { fps = 30 } = {}) {
   // Frames should be 1920×1080 (+/- a row); if the viewport came out short, fill
   // the height and trim the (blank) side margins instead of letterboxing.
   const [w, h] = execFileSync('ffprobe', ['-v', 'error', '-show_entries', 'stream=width,height', '-of', 'csv=p=0', join(dir, 'frames', fr[0].name)]).toString().trim().split(',').map(Number);
-  const fit = h * (1920 / w) >= 1080 ? 'scale=1920:-2:flags=lanczos,crop=1920:1080:0:0' : 'scale=-2:1080:flags=lanczos,crop=1920:1080';
+  const fit = size ? `scale=${size}:flags=lanczos` : h * (1920 / w) >= 1080 ? 'scale=1920:-2:flags=lanczos,crop=1920:1080:0:0' : 'scale=-2:1080:flags=lanczos,crop=1920:1080';
   execFileSync('ffmpeg', ['-y', '-loglevel', 'error', '-f', 'concat', '-safe', '0', '-i', join(dir, 'frames.txt'),
     '-vf', `${fit},fps=${fps}`, '-c:v', 'libx264', '-preset', 'medium', '-crf', '17', '-pix_fmt', 'yuv420p', out]);
   return tl.duration;

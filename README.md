@@ -17,7 +17,7 @@ Open the app, tap **Load offline engine** (a one-time download, about 305 MB, ca
 
 ### Demo video
 
-`scripts/demo/` records a trailer, setup guide and tutorial from the real app: real models and real scores, with a synthesised learner voice. See [`scripts/demo/README.md`](scripts/demo/README.md).
+`scripts/demo/` records a two-minute, phone-first demo (16:9 and 9:16) from the real app: real models and real scores, with a synthesised learner voice. See [`scripts/demo/README.md`](scripts/demo/README.md).
 
 ### Deploying
 

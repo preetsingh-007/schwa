@@ -1,6 +1,6 @@
-// Drives the real app in Chromium for the demo recording: a cursor that moves
-// like a person's, narration and learner speech rendered by the Kokoro voice
-// server, and every sound the app plays captured onto the video timeline.
+// Drives the real app in Chromium for the demo recording: a pointer (or, on a
+// phone, a tap indicator) that moves like a person's, learner speech rendered by
+// the Kokoro voice server, and every sound the app plays captured onto the timeline.
 import { chromium } from 'playwright-core';
 import { createHash } from 'node:crypto';
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
@@ -9,7 +9,6 @@ import { Recorder } from './recorder.mjs';
 
 const VOICE = process.env.VOICE_URL ?? 'http://127.0.0.1:5199/render';
 const CHROME = process.env.CHROME ?? '/opt/pw-browsers/chromium-1194/chrome-linux/chrome';
-export const NARRATOR = { voice: 'bm_george', rp: true };
 export const LEARNER = 'bm_fable';
 
 export const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -25,8 +24,13 @@ function wavFromInt16(i16buf, sr) {
 const wavInfo = (buf) => ({ sr: buf.readUInt32LE(24), pcm: buf.subarray(44), dur: (buf.length - 44) / 2 / buf.readUInt32LE(24) });
 
 export class Session {
-  constructor(outDir, { profile, cacheDir, url = 'http://127.0.0.1:5173/' }) {
+  /**
+   * viewport: CSS size of the page; scale: device pixel ratio of the capture.
+   * phone: touch emulation and a tap indicator instead of a mouse pointer.
+   */
+  constructor(outDir, { profile, cacheDir, url = 'http://127.0.0.1:5173/', viewport = { width: 1280, height: 720 }, scale = 1.5, phone = false }) {
     this.out = outDir; this.profile = profile; this.url = url;
+    this.viewport = viewport; this.scale = scale; this.phone = phone;
     this.cache = cacheDir; mkdirSync(cacheDir, { recursive: true });
     mkdirSync(join(outDir, 'audio'), { recursive: true });
     this.audioN = 0; this.appAudioEnd = 0; this.cur = { x: 640, y: 400 };
@@ -35,25 +39,31 @@ export class Session {
   async launch() {
     this.ctx = await chromium.launchPersistentContext(this.profile, {
       executablePath: CHROME, headless: true,
-      // Chrome's own scale factor (not Playwright's) so the screencast is full
-      // resolution; the window height leaves a 1280×720 CSS viewport.
+      // Chrome's own scale factor (not Playwright's), so the screencast is full resolution.
       viewport: null,
-      args: ['--autoplay-policy=no-user-gesture-required', '--hide-scrollbars', '--window-size=1280,806', '--force-device-scale-factor=1.5'],
+      args: ['--autoplay-policy=no-user-gesture-required', '--hide-scrollbars', `--window-size=${this.viewport.width},${this.viewport.height + 90}`, `--force-device-scale-factor=${this.scale}`],
     });
     this.page = this.ctx.pages()[0] ?? await this.ctx.newPage();
-    // Browser UI height varies; resize the window so the viewport is exactly 720 CSS px.
+    // Browser UI size varies (and windows have a minimum width); resize so the viewport is exact.
     const cdp = await this.ctx.newCDPSession(this.page);
     const { windowId, bounds } = await cdp.send('Browser.getWindowForTarget');
-    const inner = await this.page.evaluate(() => innerHeight);
-    if (inner !== 720) await cdp.send('Browser.setWindowBounds', { windowId, bounds: { height: bounds.height + 720 - inner } });
+    const [iw, ih] = await this.page.evaluate(() => [innerWidth, innerHeight]);
+    await cdp.send('Browser.setWindowBounds', { windowId, bounds: { width: bounds.width + this.viewport.width - iw, height: bounds.height + this.viewport.height - ih } });
     await cdp.detach();
+    if (this.phone) {
+      // keep the session: touch emulation lives as long as it does
+      this.touch = await this.ctx.newCDPSession(this.page);
+      await this.touch.send('Emulation.setTouchEmulationEnabled', { enabled: true, maxTouchPoints: 5 });
+      await this.ctx.addInitScript('window.__touchMode = true;');
+    }
+    this.cur = { x: this.viewport.width / 2, y: this.viewport.height * 0.6 };
     this.page.on('console', (m) => { if (m.type() === 'error') console.log('[page]', m.text().slice(0, 300)); });
     await this.page.exposeFunction('__onAppAudio', (a) => this.onAppAudio(a));
     await this.page.exposeFunction('__onAppAudioStop', (id) => this.onAppAudioStop(id));
     await this.page.exposeFunction('__onMediaPlay', (src) => this.onMediaPlay(src));
     await this.page.exposeFunction('__onSystemSpeak', (t) => console.log('[system voice]', t));
     await this.ctx.addInitScript({ path: new URL('./inject.js', import.meta.url).pathname });
-    this.rec = new Recorder(this.page, this.out);
+    this.rec = new Recorder(this.page, this.out, { width: this.viewport.width * this.scale, height: this.viewport.height * this.scale + 20 });
   }
 
   // ---------------- audio ----------------
@@ -104,21 +114,17 @@ export class Session {
     }
     return { file, ...wavInfo(readFileSync(file)) };
   }
-  /** Warm the cache without touching the timeline. */
+  /** Warm the cache without touching the timeline (one request per clip, however often asked). */
   prerender(text, opts) {
     const key = createHash('sha1').update(JSON.stringify([text, opts])).digest('hex').slice(0, 16);
     if (existsSync(join(this.cache, `${key}.wav`))) return Promise.resolve();
-    return fetch(VOICE, { method: 'POST', body: JSON.stringify({ text, ...opts }) })
-      .then((r) => r.arrayBuffer()).then((b) => writeFileSync(join(this.cache, `${key}.wav`), Buffer.from(b))).catch(() => undefined);
-  }
-
-  /** Narrator line: cue it, and (unless async) hold the picture while it plays. */
-  async say(text, { wait = true, gap = 250 } = {}) {
-    const clip = await this.render(text, NARRATOR);
-    this.rec.cue(clip.file, { kind: 'narration', text, dur: clip.dur });
-    const done = sleep(clip.dur * 1000 + gap);
-    if (wait) await done;
-    return done;
+    this.inflight ??= new Map();
+    if (!this.inflight.has(key)) {
+      this.inflight.set(key, fetch(VOICE, { method: 'POST', body: JSON.stringify({ text, ...opts }) })
+        .then((r) => r.arrayBuffer()).then((b) => writeFileSync(join(this.cache, `${key}.wav`), Buffer.from(b))).catch(() => undefined)
+        .finally(() => this.inflight.delete(key)));
+    }
+    return this.inflight.get(key);
   }
 
   /** The learner speaks into the virtual microphone. */
@@ -163,7 +169,6 @@ export class Session {
     await sleep(900);
   }
   async scrollTop() { await this.page.evaluate(() => window.scrollTo({ top: 0, behavior: 'smooth' })); await sleep(900); }
-  async keycap(html) { await this.page.evaluate((h) => window.__keycap(h), html); }
 
   async close() { const d = await this.rec.stop(); await this.ctx.close(); return d; }
 }

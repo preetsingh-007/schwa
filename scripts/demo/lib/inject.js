@@ -59,19 +59,21 @@
   const css = `#__cur{position:fixed;left:0;top:0;width:26px;height:26px;z-index:2147483647;pointer-events:none;transform:translate(-3px,-2px);transition:opacity .2s;filter:drop-shadow(0 2px 3px rgba(0,0,0,.35))}
   .__rip{position:fixed;z-index:2147483646;pointer-events:none;width:44px;height:44px;margin:-22px 0 0 -22px;border-radius:50%;border:3px solid #2563eb;background:rgba(37,99,235,.18);animation:__rip .55s ease-out forwards}
   @keyframes __rip{from{transform:scale(.3);opacity:1}to{transform:scale(1.6);opacity:0}}
-  #__key{position:fixed;left:50%;bottom:28px;transform:translateX(-50%);z-index:2147483647;pointer-events:none;font:600 18px Inter,sans-serif;color:#fff;background:rgba(10,10,10,.82);padding:10px 18px;border-radius:10px;opacity:0;transition:opacity .2s}`;
+  .__touch #__cur{display:none}
+  .__touch .__rip{width:46px;height:46px;margin:-23px 0 0 -23px;border:2px solid rgba(255,255,255,.9);background:rgba(60,60,67,.38);box-shadow:0 2px 10px rgba(0,0,0,.25);animation:__tap .5s ease-out forwards}
+  @keyframes __tap{0%{transform:scale(.6);opacity:.95}35%{transform:scale(1);opacity:.95}100%{transform:scale(1.15);opacity:0}}
+`;
   const mount = () => {
     if (document.getElementById('__cur')) return;
     const st = document.createElement('style'); st.textContent = css; document.head.appendChild(st);
+    if (window.__touchMode) document.documentElement.classList.add('__touch');
     const c = document.createElement('div'); c.id = '__cur';
     c.innerHTML = '<svg viewBox="0 0 24 24" width="26" height="26"><path d="M4 2l16 9.5-7 1.6-3.6 6.4z" fill="#111" stroke="#fff" stroke-width="1.6" stroke-linejoin="round"/></svg>';
     document.body.appendChild(c);
-    const k = document.createElement('div'); k.id = '__key'; document.body.appendChild(k);
     const p = window.__curPos || { x: -50, y: -50 }; c.style.left = p.x + 'px'; c.style.top = p.y + 'px';
   };
   window.__cursor = (x, y) => { mount(); window.__curPos = { x, y }; const c = document.getElementById('__cur'); c.style.left = x + 'px'; c.style.top = y + 'px'; };
   window.__ripple = (x, y) => { const r = document.createElement('div'); r.className = '__rip'; r.style.left = x + 'px'; r.style.top = y + 'px'; document.body.appendChild(r); setTimeout(() => r.remove(), 700); };
-  window.__keycap = (txt) => { mount(); const k = document.getElementById('__key'); if (!txt) { k.style.opacity = 0; return; } k.innerHTML = txt; k.style.opacity = 1; };
   document.addEventListener('mousemove', (e) => window.__cursor(e.clientX, e.clientY), true);
   document.addEventListener('mousedown', (e) => window.__ripple(e.clientX, e.clientY), true);
   document.addEventListener('DOMContentLoaded', mount);
