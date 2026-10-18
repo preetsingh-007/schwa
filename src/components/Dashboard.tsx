@@ -4,6 +4,7 @@ import { db } from '../services/db';
 import PhonemeHeatmap from './PhonemeHeatmap';
 import { TIPS } from '../lib/tips';
 import { recallProbability } from '../services/fsrs';
+import { loadLadders, STAGE_NAMES, weakSounds } from '../services/ladders';
 import type { SessionLog } from '../types';
 import type { Diagnosis } from '../services/ipaAligner';
 
@@ -104,6 +105,9 @@ export default function Dashboard({ onDrill }: { onDrill: (phoneme: string) => v
   const wordsPractised = cardsPractised.filter((c) => c.id.startsWith('w_')).length;
   const dueNow = cardsPractised.filter((c) => c.due <= now).length;
   const band = learner.wordBand ?? 1;
+  const ladders = Object.entries(learner.ladders ?? {}).sort((a, b) => b[1].updatedAt - a[1].updatedAt);
+  const [weak, setWeak] = useState<string[]>([]);
+  useEffect(() => { void loadLadders().then((l) => setWeak(weakSounds(learner, l).filter((p) => !learner.ladders?.[p]).slice(0, 6))).catch(() => setWeak([])); }, [learner]);
 
   return (
     <main>
@@ -114,6 +118,25 @@ export default function Dashboard({ onDrill }: { onDrill: (phoneme: string) => v
           <span className="small muted">{learner.totalTurns} spoken turns · {passedTurns} passed</span>
         </div>
         <div className="section"><PhonemeHeatmap onDrill={onDrill} /></div>
+      </section>
+
+      <section className="section card">
+        <div className="row">
+          <div className="label">Sound ladders</div>
+          <span className="spacer" />
+          <span className="small muted">words → minimal pairs → phrases → sentences</span>
+        </div>
+        <div className="row section small">
+          {ladders.map(([p, lp]) => (
+            <button key={p} className="chip" onClick={() => onDrill(p)} title={lp.stage === 5 ? 'Ladder complete' : `Next: ${STAGE_NAMES[lp.stage]}`}>
+              <span className="ipa">/{p}/</span> {lp.stage === 5 ? '✓ done' : `${lp.stage} of 4`}
+            </button>
+          ))}
+          {weak.map((p) => (
+            <button key={p} className="chip" onClick={() => onDrill(p)} title="Start this ladder"><span className="ipa">/{p}/</span> start</button>
+          ))}
+          {!ladders.length && !weak.length && <span className="muted">Practise a few sentences (or use Sounds mode) and your weakest sounds will appear here.</span>}
+        </div>
       </section>
 
       <section className="section card">

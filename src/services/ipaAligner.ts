@@ -39,9 +39,17 @@ export interface AcousticCalibration {
    * below `threshold` ⇒ /r/ pronounced (crimson); below `soft` ⇒ possible /r/ (amber).
    */
   rhotic?: { threshold: number; soft: number; balancedAccuracy: number; falseAlarmRate: number };
+  /**
+   * The same measurement on words said one at a time (word lists, minimal pairs),
+   * where the model reads RP differently: without sentence context an RP /ɔː/
+   * comes out as [oː]. Used on top of the sentence rates for word drills only.
+   */
+  isolated?: { accept: Record<string, Record<string, number>>; insertions: Record<string, Record<string, number>> };
 }
 
 let CAL: AcousticCalibration | null = null;
+/** True while aligning a word drill (see AcousticCalibration.isolated). */
+let ISOLATED = false;
 /** Threshold above which a reference-speech deviation is treated as model-equivalent. */
 export const CALIBRATION_ACCEPT = 0.2;
 
@@ -52,13 +60,14 @@ export function setAcousticCalibration(c: AcousticCalibration | null): void {
 function calRate(t: TargetPhone, p: string): number {
   if (!CAL) return 0;
   if (t.weakWord && CAL.weakForms[t.weakWord]) return CAL.weakForms[t.weakWord][p] ?? 0;
-  return CAL.accept[t.p]?.[p] ?? 0;
+  const rate = CAL.accept[t.p]?.[p] ?? 0;
+  return ISOLATED && CAL.isolated ? Math.max(rate, CAL.isolated.accept[t.p]?.[p] ?? 0) : rate;
 }
 function calInsertRate(prev: string | undefined, p: string, tok?: string): number {
   if (!CAL || !prev) return 0;
-  const m = CAL.insertions[prev];
-  if (!m) return 0;
-  return Math.max(tok && tok !== p ? m[`${p}@${tok}`] ?? 0 : 0, m[p] ?? 0);
+  const rate = (m: Record<string, number> | undefined) => (m ? Math.max(tok && tok !== p ? m[`${p}@${tok}`] ?? 0 : 0, m[p] ?? 0) : 0);
+  const r = rate(CAL.insertions[prev]);
+  return ISOLATED && CAL.isolated ? Math.max(r, rate(CAL.isolated.insertions[prev])) : r;
 }
 
 export interface AlignedPair {
@@ -273,7 +282,17 @@ function applyRhoticEvidence(pairs: AlignedPair[], measures: RhoticMeasure[], ca
   }
 }
 
-export function alignToTarget(words: TargetWord[], produced: ProducedPhone[], audio?: Float32Array, sampleRate = 16000): AlignmentResult {
+/** `isolated`: the words were said one at a time (a word drill), so use the isolated-word calibration too. */
+export function alignToTarget(words: TargetWord[], produced: ProducedPhone[], audio?: Float32Array, sampleRate = 16000, { isolated = false } = {}): AlignmentResult {
+  ISOLATED = isolated;
+  try {
+    return alignWords(words, produced, audio, sampleRate);
+  } finally {
+    ISOLATED = false;
+  }
+}
+
+function alignWords(words: TargetWord[], produced: ProducedPhone[], audio: Float32Array | undefined, sampleRate: number): AlignmentResult {
   const target = words.flatMap((w) => w.phones);
   const pairs = alignSequences(target, produced);
   let rhoticity: RhoticMeasure[] = [];

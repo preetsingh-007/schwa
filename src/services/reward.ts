@@ -14,6 +14,8 @@ export const TIER_WEIGHTS: Record<Tier, [number, number, number]> = {
 };
 /** Listen-and-repeat: pronunciation-led, with prosody judged against a real reference rendering. */
 export const SHADOW_WEIGHTS: [number, number, number] = [0.6, 0.4, 0.0];
+/** single words and word pairs: the sounds alone */
+export const PHONETIC_WEIGHTS: [number, number, number] = [1, 0, 0];
 export const PASS_THRESHOLD = 80;
 
 const clamp01 = (x: number) => Math.max(0, Math.min(1, x));
@@ -123,7 +125,7 @@ export function compositeReward(o: {
   if (o.phonetic === null) {
     // Stream B disabled (low-memory mode): renormalise over the remaining streams.
     const rest = w2 + w3;
-    [w1, w2, w3] = [0, w2 / rest, w3 / rest];
+    [w1, w2, w3] = rest > 0 ? [0, w2 / rest, w3 / rest] : [0, 1, 0];
   }
   const reward = w1 * (o.phonetic ?? 0) + w2 * o.prosody + w3 * o.lexical;
   const blockers: string[] = [];

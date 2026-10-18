@@ -8,6 +8,7 @@
  * on 409/422 (someone else pushed) re-fetch, re-merge and retry.
  */
 import { ALPHA } from './rlBandit';
+import { mergeLadders } from './ladders';
 import type { ConfusionState, Ewma, LearnerState, PromptStat, SessionLog, SyncDocument, VocabCard } from '../types';
 
 const API = 'https://api.github.com';
@@ -72,6 +73,7 @@ export function mergeLearner(local: LearnerState, remote: LearnerState): Learner
     if (v) habits[key] = v;
   }
   const P = localNewer ? local.prosody : remote.prosody;
+  const ladders = mergeLadders(local.ladders, remote.ladders);
   return {
     id: 'learner',
     version: 1,
@@ -81,6 +83,8 @@ export function mergeLearner(local: LearnerState, remote: LearnerState): Learner
     totalTurns: Math.max(local.totalTurns, remote.totalTurns),
     shadowLevel: Math.max(local.shadowLevel ?? 1, remote.shadowLevel ?? 1),
     wordBand: Math.max(local.wordBand ?? 1, remote.wordBand ?? 1),
+    // absent on both sides in state saved before ladders existed; keep it absent then
+    ...(ladders ? { ladders } : {}),
     updatedAt: Math.max(local.updatedAt, remote.updatedAt),
   };
 }

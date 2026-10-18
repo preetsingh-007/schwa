@@ -99,7 +99,7 @@ export default function PhonemeHeatmap({ onDrill }: { onDrill: (p: string) => vo
         </div>
       </div>
       <div className="row small section" style={{ minHeight: 22 }}>
-        {info ? <span className="mono">{info}</span> : <span className="muted">Hover for detail · tap any phoneme to launch a targeted calibration drill.</span>}
+        {info ? <span className="mono">{info}</span> : <span className="muted">Hover for detail · tap any phoneme to practise it on its sound ladder.</span>}
       </div>
       <div className="row tiny muted">
         <span>Mastery M<sub>P</sub>[i,i]:</span>

@@ -103,6 +103,39 @@ export interface Prompt {
   level?: number;
   /** attribution for corpus items */
   source?: { name: string; by?: string; license: string; url: string };
+  /** generated practice step: a build-up of a failed sentence, or a rung of a sound ladder */
+  drill?: BuildUpDrill | LadderDrill;
+}
+
+/** One step of breaking a failed sentence down: a problem word, then phrases built from the end. */
+export interface BuildUpDrill {
+  kind: 'buildup';
+  /** the sentence being broken down */
+  parent: Prompt;
+  /** 0-based step, of `steps` */
+  step: number;
+  steps: number;
+  part: 'word' | 'phrase';
+}
+
+/** Ladder rungs, easiest first: example words, minimal pairs, short phrases, sentences. */
+export type LadderStage = 1 | 2 | 3 | 4;
+export interface LadderDrill {
+  kind: 'ladder';
+  phoneme: string;
+  stage: LadderStage;
+  /** what the step shows; rare sounds without pairs or sentences fall back to simpler content */
+  content: 'words' | 'pairs' | 'phrase' | 'sentence';
+  /** the sound it is most often confused with (minimal pairs contrast the two) */
+  contrast?: string;
+}
+
+/** Progress on one sound's ladder; stage 5 means the ladder is complete. */
+export interface LadderProgress {
+  stage: LadderStage | 5;
+  /** passes at the current stage */
+  wins: number;
+  updatedAt: number;
 }
 
 export interface CorpusIndex {
@@ -169,6 +202,8 @@ export interface LearnerState {
   shadowLevel?: number;
   /** current frequency band (1 = top 1,000 words) for Words mode */
   wordBand?: number;
+  /** sound ladders by phoneme (absent in state saved before ladders existed) */
+  ladders?: Record<string, LadderProgress>;
   updatedAt: number;
 }
 

@@ -40,7 +40,22 @@ The learner state S_t is a 44 × 61 phoneme confusion matrix (44 RP phonemes, pl
 p* = argmax  β1·Σφ(1 − M_P[φ,φ])/√|Φp|  +  β2·Σv(1 − P_recall(v,t))  +  β3·√(2 ln N / (n_p + 1))
 ```
 
-Tapping a phoneme on the dashboard heatmap biases the bandit toward prompts containing that phoneme (a targeted drill).
+Tapping a phoneme on the dashboard heatmap opens its sound ladder (below).
+
+## Sound ladders: sounds → words → sentences
+
+Tap the mode chip until it reads **Sounds** (Auto mode mixes it in too). If schwa hasn't heard enough of you yet, it starts with a **quick check**: a few diagnostic sentences that cover the sounds of RP. After that it picks your weakest sound and walks it up a ladder:
+
+1. **Words**: three common words with the sound, said one at a time ("Thin. Think. Both.").
+2. **Minimal pairs**: the sound against the one it's most often confused with ("Three, tree. Path, part."). Sounds without good pairs get more words.
+3. **Short phrases**: everyday sentences of 2–5 words with the sound.
+4. **Sentences**: 6–12 words with the sound at least twice.
+
+Two passes at a stage move you up a step (one at the sentence stage), and failing never moves you back. A step passes when the pronunciation score is at least 80 and the sound itself was right at least two times out of three. Words and pairs are scored on the sounds alone, because rhythm and melody need a phrase. Progress shows as dots on the prompt and as chips on the dashboard; tap a chip to carry on with that sound. The content (`public/data/ladders.json`) is built from the lexicon and the corpus by `npx vite-node scripts/build-ladders.ts`.
+
+## Build-up: when a sentence won't come
+
+After three missed attempts at a sentence, schwa offers to **break it down**: first the words that went wrong, one at a time, then the sentence rebuilt from the end ("ten" → "half past ten" → "the Thursday call to half past ten"), so every step keeps the natural fall at the end, and then the whole sentence again. In hands-free mode it starts on its own. If a step still won't pass after two tries, you can move on.
 
 ## Listen & repeat (the endless course)
 
@@ -95,6 +110,7 @@ What the calibration found:
 
 - **Judged normally:** BATH /ɑː/ vs [æ] (the model hears this one correctly), the GOAT monophthong [oː], retroflexion, /v/–/w/, /θ ð/, vowel length, and weak forms of *to, the, a, an, for, them, than, could, should*.
 - **Model-equivalent (the model can't tell them apart, so they're not judged):** GOAT [əʊ] vs [oʊ], parts of LOT, SQUARE and NEAR, the model's r-coloured units, and weak forms of *of, and, at, was, from, but, have, are*. For these words the model outputs the strong vowel even when the speaker reduces it, and even invents the /d/ of "and".
+- **Words said on their own read differently:** without a sentence around it, the model writes RP /ɔː/ as [oː] (which is closer to how modern RP actually says it). `calibrate-acoustic.ts --isolated` measures the sound-ladder word lists and minimal pairs the same way, and stores the result separately (`isolated`). It applies only to word drills, so sentence scoring is unaffected.
 - **Why the voice is phoneme-driven:** Kokoro's own en-GB front end gives BATH words a short northern vowel ("ask" as [æsk]) and doesn't reduce function words. The first calibration run, on that input, would have hidden BATH errors entirely.
 
 Calibration removes the bias, but it would also make rhoticity invisible, because the model writes [ɑːɹ] for British "car" too. So rhoticity is judged **acoustically**: an LPC formant tracker measures the third formant (F3) at the end of each spelled-r vowel, relative to your own baseline. A pronounced /r/ pulls F3 down sharply. `scripts/calibrate-rhotic.ts` sets the thresholds by contrasting British and American renderings of 130 sentences (281 measurements). The check is deliberately conservative. **"/r/ heard"** (crimson) fires on about 6% of non-rhotic vowels and catches about 25% of pronounced /r/. **"possible /r/"** (amber) catches about 52% at about 10% false alarms.
@@ -109,6 +125,7 @@ Calibration removes the bias, but it would also make rhoticity invisible, becaus
 | `vocab_curriculum.json` | 83 register-badged items (🟢 48 · 🟡 24 · 🔴 11) following the PRD card schema |
 | `redundancy_rules.json` | 615 patterns: scaffolds, fillers, wordy phrases, pleonasms, Indian-English set phrases, hedges, intensifiers, British upgrades |
 | `prompts_tiered.json` | 71 Tier 1 drills, 58 Tier 2 compression items, 511 Tier 3 scenarios (51 templates × 10 workplace domains, plus 1 general) |
+| `ladders.json` | A sound ladder for each of the 44 phonemes: example words, minimal pairs, phrases and sentences (`scripts/build-ladders.ts`) |
 
 The JSON is generated from `scripts/data-src/*.py` (`python3 scripts/data-src/gen.py`) and then annotated by `npm run annotate`. Annotation runs the same espeak G2P as the browser and fills in each prompt's phoneme set and each vocab example's connected IPA. Always run both steps after editing the content.
 
@@ -146,7 +163,7 @@ If you paste a Google AI Studio key and enable it, Tier 3 results gain three Bri
 src/workers/speechEngine.worker.ts   Streams A–D in a Web Worker
 src/workers/tts.worker.ts            Kokoro neural RP voice (separate, unloadable)
 src/lib/{ipa,connectedSpeech,g2p,prosody,formants,rhotic,ctc,audioUtils,tips}.ts
-src/services/{ipaAligner,rlBandit,fsrs,reward,redundancy,evaluate,corpus}.ts
+src/services/{ipaAligner,rlBandit,fsrs,reward,redundancy,evaluate,corpus,ladders,buildup}.ts
 src/services/{db,githubSync,syncManager,geminiEnhancer,audio,tts,rpVoice,engine}.ts
 src/components/{PracticeArena,ResultView,VocabRegisterCard,PhonemeHeatmap,Dashboard,SettingsVault,Waveform}.tsx
 ```
