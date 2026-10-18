@@ -27,7 +27,7 @@ export function onSyncStatus(l: Listener): () => void {
 
 export function repoConfig(s: Settings): RepoConfig | null {
   if (!s.ghOwner.trim() || !s.ghRepo.trim() || !s.ghToken.trim()) return null;
-  return { owner: s.ghOwner.trim(), repo: s.ghRepo.trim(), token: s.ghToken.trim(), path: s.ghPath.trim() || 'state/lexiphon_state.json' };
+  return { owner: s.ghOwner.trim(), repo: s.ghRepo.trim(), token: s.ghToken.trim(), path: s.ghPath.trim() || 'state/schwa_state.json' };
 }
 
 export async function refreshSyncStatus(): Promise<void> {
@@ -75,7 +75,7 @@ export async function verifyAndPush(): Promise<string> {
   const cfg = repoConfig(s);
   if (!cfg) throw new Error('Enter owner, repo and token first');
   const info = await verifyRepo(cfg);
-  if (!info.private) throw new Error(`${info.fullName} is PUBLIC — LexiPhon only syncs to a private repo. Make it private first.`);
+  if (!info.private) throw new Error(`${info.fullName} is PUBLIC — schwa only syncs to a private repo. Make it private first.`);
   await syncNow();
   if (status.state === 'error') throw new Error(status.error ?? 'sync failed');
   return `Synced with private repo ${info.fullName}`;
@@ -99,7 +99,7 @@ export async function exportBackupBlob(): Promise<Blob> {
 
 export async function importBackup(text: string, mode: 'merge' | 'replace'): Promise<void> {
   const parsed = JSON.parse(text) as unknown;
-  if (!isSyncDocument(parsed)) throw new Error('Not a LexiPhon backup file');
+  if (!isSyncDocument(parsed)) throw new Error('Not a schwa backup file');
   await withStateLock(async () => {
     const doc: SyncDocument = mode === 'replace' ? parsed : mergeDocuments(await exportDocument(), parsed);
     await writeDocument(doc);

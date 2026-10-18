@@ -49,16 +49,16 @@ describe('syncWithRemote', () => {
         if (!stored) return new Response('{"message":"Not Found"}', { status: 404 });
         return Response.json({ content: encodeBase64Utf8(stored), encoding: 'base64', sha: 'abc' });
       }
-      if (method === 'GET') return Response.json({ private: true, full_name: 'me/lexiphon-data' });
+      if (method === 'GET') return Response.json({ private: true, full_name: 'me/schwa-data' });
       puts++;
       if (puts === 1) { stored = JSON.stringify(doc()); return new Response('{"message":"sha mismatch"}', { status: 409 }); }
       const body = JSON.parse(String(init!.body)) as { sha?: string; content: string };
       expect(body.sha).toBe('abc');
       return Response.json({ content: { sha: 'def' } });
     }) as typeof fetch;
-    const res = await syncWithRemote({ owner: 'me', repo: 'lexiphon-data', token: 't', path: 'state/lexiphon_state.json' }, doc(), fake);
+    const res = await syncWithRemote({ owner: 'me', repo: 'schwa-data', token: 't', path: 'state/schwa_state.json' }, doc(), fake);
     expect(res.sha).toBe('def');
     expect(puts).toBe(2);
-    expect(calls[0]).toContain('/contents/state/lexiphon_state.json');
+    expect(calls[0]).toContain('/contents/state/schwa_state.json');
   });
 });

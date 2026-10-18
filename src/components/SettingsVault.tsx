@@ -38,7 +38,7 @@ export default function SettingsVault({ onClose }: { onClose: () => void }) {
     const blob = await exportBackupBlob();
     const a = document.createElement('a');
     a.href = URL.createObjectURL(blob);
-    a.download = `lexiphon-backup-${new Date().toISOString().slice(0, 10)}.json`;
+    a.download = `schwa-backup-${new Date().toISOString().slice(0, 10)}.json`;
     a.click();
     setTimeout(() => URL.revokeObjectURL(a.href), 1000);
   };
@@ -141,7 +141,7 @@ export default function SettingsVault({ onClose }: { onClose: () => void }) {
         <button className="btn ghost section" disabled={busy} onClick={() => void run(async () => { await speak('The crux of the issue is the bottleneck in code review, so let\'s ask for a bit more time.', { voice: settings.ttsVoice }); })}>Test voice</button>
 
         <h3>GitHub private-repo sync</h3>
-        <p className="tiny muted">Create a private repo (e.g. <span className="mono">lexiphon-data</span>) and a fine-grained PAT scoped to <b>only that repo</b> with <b>Contents: Read and write</b>. The token is stored only in this browser's IndexedDB.</p>
+        <p className="tiny muted">Create a private repo (e.g. <span className="mono">schwa-data</span>) and a fine-grained PAT scoped to <b>only that repo</b> with <b>Contents: Read and write</b>. The token is stored only in this browser's IndexedDB.</p>
         <div className="field"><label className="small" htmlFor="gho">Repo owner</label><input id="gho" autoComplete="off" value={settings.ghOwner} onChange={(e) => void updateSettings({ ghOwner: e.target.value })} /></div>
         <div className="field"><label className="small" htmlFor="ghr">Private repo name</label><input id="ghr" autoComplete="off" value={settings.ghRepo} onChange={(e) => void updateSettings({ ghRepo: e.target.value })} /></div>
         <div className="field">
@@ -180,7 +180,7 @@ export default function SettingsVault({ onClose }: { onClose: () => void }) {
 
         <h3>Danger zone</h3>
         <button className="btn danger" onClick={() => { if (confirm('Erase all local progress on this device? (Your GitHub copy is not touched.)')) void resetAll().then(refresh); }}>Reset local progress</button>
-        <p className="tiny muted section">LexiPhon v{__APP_VERSION__} · MIT · runs entirely on-device.</p>
+        <p className="tiny muted section">schwa v{__APP_VERSION__} · MIT · runs entirely on-device.</p>
       </aside>
     </>
   );

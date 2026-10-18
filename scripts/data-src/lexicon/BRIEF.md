@@ -1,6 +1,6 @@
 # Lexicon authoring brief
 
-These files hold the curated British-English lexicon for LexiPhon, a speaking
+These files hold the curated British-English lexicon for schwa, a speaking
 coach for Modern Received Pronunciation (RP) and concise, natural British
 English. Learners are educated speakers from an Indian or international
 English background who read English well. Every card is practised **aloud**.

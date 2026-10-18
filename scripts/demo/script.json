@@ -1,0 +1,37 @@
+{
+  "voices": { "F": "bf_emma", "M": "bm_george" },
+  "speed": 1.04,
+  "url": "preetsingh-007.github.io/schwa",
+  "lines": {
+    "cold1": { "who": "M", "text": "You've learned the grammar. You know the words." },
+    "cold2": { "who": "F", "text": "But your accent, and all the extra words, still get in the way." },
+    "logo1": { "who": "F", "text": "Meet schwa." },
+    "logo2": { "who": "M", "text": "Your pocket coach for modern British English." },
+
+    "f1": { "who": "F", "text": "Read a sentence aloud, and schwa shows exactly which sounds you made, phoneme by phoneme." },
+    "f2": { "who": "M", "text": "Tap any sound to see how it's made. Then say it again. You only move on when you get it right." },
+    "f3": { "who": "F", "text": "Say it shorter. Waffle gets struck out, and a crisp British version is waiting for you." },
+    "f4": { "who": "M", "text": "Hear a natural British voice, repeat after it, and see your melody traced against theirs." },
+    "f5": { "who": "F", "text": "Learn the words Britons actually use, from the supermarket to place names like Leicester." },
+    "f6": { "who": "M", "text": "Every sound you practise lands on your progress map. Tap a weak one, and schwa drills it." },
+    "f7": { "who": "F", "text": "On a walk or the commute, go hands-free. schwa reads the prompt, listens, and coaches you out loud." },
+    "f8": { "who": "M", "text": "And it all runs on your phone. No account, no subscription, and it even works in flight mode." },
+
+    "g1": { "who": "F", "text": "Getting it takes a minute." },
+    "g2": { "who": "M", "text": "Open the link in Safari or Chrome, and add schwa to your Home Screen." },
+    "g3": { "who": "F", "text": "Tap Load offline engine, just once. After that, it's yours." },
+
+    "out1": { "who": "M", "text": "schwa." },
+    "out2": { "who": "F", "text": "Free. Private. Yours." }
+  },
+  "features": {
+    "f1": { "num": "01", "title": "Hear what you really said", "sub": "Phoneme-by-phoneme feedback against Modern RP" },
+    "f2": { "num": "02", "title": "Fix it, then say it again", "sub": "Tap a sound to see how it's made. Pass to move on." },
+    "f3": { "num": "03", "title": "Say it shorter", "sub": "Waffle struck out. Crisp British phrasing in." },
+    "f4": { "num": "04", "title": "Copy the melody", "sub": "Listen and repeat with a neural British voice" },
+    "f5": { "num": "05", "title": "Speak like a local", "sub": "3,000+ British words, idioms and place names" },
+    "f6": { "num": "06", "title": "Practise what you need", "sub": "A 44-sound progress map that picks your next drill" },
+    "f7": { "num": "07", "title": "Hands-free mode", "sub": "Practise on a walk or the commute" },
+    "f8": { "num": "08", "title": "Private by design", "sub": "On your phone, offline and free. No account." }
+  }
+}

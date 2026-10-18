@@ -1,4 +1,4 @@
-# LexiPhon
+# schwa
 
 **Modern RP & lexical compression coach.** An offline-first, installable PWA where every learning interaction is spoken. It transcribes what you *meant* (Whisper), what your vocal tract *actually produced* (a wav2vec2 IPA model), and what a Modern RP speaker *would* say (espeak-ng + connected-speech rules). It then aligns them phoneme by phoneme and coaches you to say it again: shorter, crisper and more British.
 
@@ -14,6 +14,10 @@ npm run build        # static PWA in dist/
 ```
 
 Open the app, tap **Load offline engine** (a one-time download, about 305 MB, cached for offline use), then tap the mic or hold **Space**. The neural RP voice (about 92 MB) downloads the first time you need it.
+
+### Demo video
+
+`scripts/demo/` records a two-minute, phone-first demo (16:9 and 9:16) from the real app: real models and real scores, with a synthesised learner voice. See [`scripts/demo/README.md`](scripts/demo/README.md).
 
 ### Deploying
 
@@ -112,11 +116,11 @@ The JSON is generated from `scripts/data-src/*.py` (`python3 scripts/data-src/ge
 
 ## Sync (your data, your repo)
 
-1. Create a **private** repo, for example `lexiphon-data`.
+1. Create a **private** repo, for example `schwa-data`.
 2. Create a **fine-grained PAT** with access to *only that repo* and the **Contents: Read and write** permission.
-3. In Settings, enter the owner, repo and token, then tap **Verify & push now**. LexiPhon refuses to push to a public repo.
+3. In Settings, enter the owner, repo and token, then tap **Verify & push now**. schwa refuses to push to a public repo.
 
-The state is written to `state/lexiphon_state.json` through the Contents API with SHA optimistic locking. On a conflict the app re-pulls, merges and retries. Merging is deterministic:
+The state is written to `state/schwa_state.json` through the Contents API with SHA optimistic locking. On a conflict the app re-pulls, merges and retries. Merging is deterministic:
 
 - vocabulary: the latest review wins and histories are unioned
 - confusion-matrix rows: EWMA blend with λ = 1 − (1 − α)^k, where k is the number of local observations since the last sync

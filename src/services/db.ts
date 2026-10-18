@@ -19,9 +19,9 @@ export interface CachedAudio {
 export const DEFAULT_SETTINGS: Settings = {
   id: 'settings',
   ghOwner: '',
-  ghRepo: 'lexiphon-data',
+  ghRepo: 'schwa-data',
   ghToken: '',
-  ghPath: 'state/lexiphon_state.json',
+  ghPath: 'state/schwa_state.json',
   geminiKey: '',
   geminiEnabled: false,
   handsFree: false,
@@ -45,6 +45,8 @@ class LexiDB extends Dexie {
   promptStats!: Table<PromptStat, string>;
   audioCache!: Table<CachedAudio, string>;
 
+  // The app was first called LexiPhon. Storage ids (this database, the sync schema
+  // 'lexiphon/state@1', cache names) keep that name so existing progress survives.
   constructor(name = 'lexiphon') {
     super(name);
     this.version(1).stores({

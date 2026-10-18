@@ -69,6 +69,7 @@ export default function PhonemeHeatmap({ onDrill }: { onDrill: (p: string) => vo
         </div>
         <div>
           <div className="label">Consonants (place × manner; voiceless | voiced)</div>
+          <div className="cgrid-wrap">
           <table className="cgrid">
             <thead><tr><th />{PLACES.map((p) => <th key={p}>{p.slice(0, 5)}</th>)}</tr></thead>
             <tbody>
@@ -94,6 +95,7 @@ export default function PhonemeHeatmap({ onDrill }: { onDrill: (p: string) => vo
               ))}
             </tbody>
           </table>
+          </div>
         </div>
       </div>
       <div className="row small section" style={{ minHeight: 22 }}>

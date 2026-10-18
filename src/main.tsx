@@ -24,7 +24,7 @@ async function boot() {
       </StrictMode>,
     );
   } catch (e) {
-    root.render(<div className="boot-error">LexiPhon failed to start: {e instanceof Error ? e.message : String(e)}</div>);
+    root.render(<div className="boot-error">schwa failed to start: {e instanceof Error ? e.message : String(e)}</div>);
   }
 }
 

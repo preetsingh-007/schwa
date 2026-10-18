@@ -1,7 +1,7 @@
 /**
  * OPTIONAL Google AI Studio (Gemini 2.5 Flash) enhancer — Bring Your Own Key.
  *
- * Hard rule: nothing in LexiPhon depends on this. Every call has a timeout and
+ * Hard rule: nothing in schwa depends on this. Every call has a timeout and
  * returns null on any failure, and callers always render the local result
  * first. The only data sent is the transcript text of the current turn and
  * the prompt (never audio, never state).

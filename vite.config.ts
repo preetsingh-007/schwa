@@ -1,7 +1,9 @@
 import { defineConfig } from 'vitest/config';
 import react from '@vitejs/plugin-react';
 import { VitePWA } from 'vite-plugin-pwa';
-import { readFileSync } from 'node:fs';
+import { createReadStream, existsSync, readFileSync } from 'node:fs';
+import { basename } from 'node:path';
+import type { Plugin } from 'vite';
 
 // GitHub Pages serves the app from /<repo>/. The deploy workflow sets BASE_PATH;
 // locally we serve from the root.
@@ -9,10 +11,30 @@ const base = process.env.BASE_PATH ?? '/';
 
 const pkg = JSON.parse(readFileSync(new URL('./package.json', import.meta.url), 'utf8')) as { version: string };
 
+// ORT dynamically imports /ort/*.mjs at runtime. The dev server refuses to
+// serve public/ files to import(), so hand those over untransformed.
+function serveOrtRaw(): Plugin {
+  return {
+    name: 'serve-ort-raw',
+    apply: 'serve',
+    configureServer(server) {
+      server.middlewares.use((req, res, next) => {
+        const path = (req.url ?? '').split('?')[0];
+        if (!path.startsWith(`${base}ort/`) || !path.endsWith('.mjs')) return next();
+        const file = new URL(`./public/ort/${basename(path)}`, import.meta.url);
+        if (!existsSync(file)) return next();
+        res.setHeader('Content-Type', 'text/javascript');
+        createReadStream(file).pipe(res);
+      });
+    },
+  };
+}
+
 export default defineConfig({
   base,
   define: { __APP_VERSION__: JSON.stringify(pkg.version) },
   plugins: [
+    serveOrtRaw(),
     react(),
     VitePWA({
       registerType: 'autoUpdate',
