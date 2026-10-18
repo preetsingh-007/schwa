@@ -15,6 +15,11 @@
  *
  * Usage: npx vite-node scripts/calibrate-acoustic.ts [--limit N]
  * Writes public/data/acoustic_calibration.json (and a raw dump for inspection).
+ *
+ * With --isolated it measures the sound-ladder word lists and minimal pairs
+ * instead (words said one at a time read differently: an RP /ɔː/ comes out as
+ * [oː]) and merges only { isolated: {...} } into the file, leaving the sentence
+ * rates untouched. Run after build-ladders.
  */
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs';
 import { join } from 'node:path';
@@ -27,19 +32,33 @@ import { resample, chunkBoundaries } from '../src/lib/audioUtils';
 import { alignSequences, setAcousticCalibration } from '../src/services/ipaAligner';
 import { MODELS } from '../src/workers/protocol';
 import { normalizeWord } from '../src/lib/connectedSpeech';
+import { ladderPrompt, type Ladders } from '../src/services/ladders';
 import type { Prompt, VocabEntry } from '../src/types';
 
 if (process.env.HF_CACHE_DIR) env.cacheDir = process.env.HF_CACHE_DIR;
 const ROOT = process.cwd();
-const RAW = process.env.CAL_RAW ?? join(ROOT, 'node_modules', '.cache', 'lexiphon-calibration-raw.json');
+const ISOLATED = process.argv.includes('--isolated');
+const RAW = process.env.CAL_RAW ?? join(ROOT, 'node_modules', '.cache', `lexiphon-calibration-raw${ISOLATED ? '-isolated' : ''}.json`);
 const VOICES = ['bf_emma', 'bm_george', 'bm_fable', 'bf_isabella'];
 const limit = Number(process.argv[process.argv.indexOf('--limit') + 1]) || Infinity;
+const OUT = join(ROOT, 'public/data/acoustic_calibration.json');
 
 interface RawPair { t?: string; p?: string; tok?: string; weak?: string; prev?: string; next?: string }
 interface RawUtt { text: string; voice: string; pairs: RawPair[] }
 
 function rng(seed: number) {
   return () => ((seed = (seed * 1664525 + 1013904223) >>> 0) / 2 ** 32);
+}
+
+/** Every word list and minimal-pair list the sound ladders can show. */
+function isolatedTexts(): string[] {
+  const ladders = (JSON.parse(readFileSync(join(ROOT, 'public/data/ladders.json'), 'utf8')) as { phonemes: Ladders }).phonemes;
+  const out: string[] = [];
+  for (const [ph, set] of Object.entries(ladders)) {
+    for (let seed = 0; seed < 4; seed++) out.push(ladderPrompt(ph, set, 1, seed).text);
+    for (let seed = 0; seed < 3; seed++) out.push(ladderPrompt(ph, set, 2, seed).text);
+  }
+  return Array.from(new Set(out));
 }
 
 function texts(): string[] {
@@ -67,12 +86,12 @@ async function collect(): Promise<RawUtt[]> {
   for (const [k, v] of Object.entries(vocabMap)) vocab[v] = k;
   const proc = await AutoProcessor.from_pretrained(MODELS.phoneme.id);
   const model = await AutoModelForCTC.from_pretrained(MODELS.phoneme.id, { dtype: 'q4' });
-  const all = texts().slice(0, Math.min(limit, 260));
+  const all = ISOLATED ? isolatedTexts().slice(0, limit) : texts().slice(0, Math.min(limit, 260));
   const out = [...prev];
   let i = 0;
   for (const text of all) {
-    // Every text with two voices, rotating through the four best British voices.
-    for (const voice of [VOICES[i % 4], VOICES[(i + 1) % 4]]) {
+    // Every text with two voices (one for the short isolated lists), rotating through the four best British voices.
+    for (const voice of ISOLATED ? [VOICES[i % 4]] : [VOICES[i % 4], VOICES[(i + 1) % 4]]) {
       if (done.has(`${voice}|${text}`)) continue;
       const a = await tts.generate_from_ids(tts.tokenizer(await kokoroPhonemes(text), { truncation: true }).input_ids, { voice: voice as 'bf_emma' });
       const x = resample(a.audio as Float32Array, a.sampling_rate, 16000);
@@ -147,16 +166,22 @@ async function main() {
   setAcousticCalibration(null); // measure the raw, uncalibrated behaviour
   const utts = await collect();
   const s = summarise(utts);
-  const doc = {
-    version: 1,
-    generatedAt: new Date().toISOString().slice(0, 10),
-    reference: `Kokoro-82M en-GB voices (${VOICES.join(', ')}) decoded by ${MODELS.phoneme.id}`,
-    utterances: utts.length,
-    minRate: 0.12,
-    ...s,
-  };
-  writeFileSync(join(ROOT, 'public/data/acoustic_calibration.json'), JSON.stringify(doc, null, 1) + '\n');
-  console.log(JSON.stringify({ accept: s.accept, insertions: s.insertions, weakForms: s.weakForms }, null, 1));
+  const prev = existsSync(OUT) ? JSON.parse(readFileSync(OUT, 'utf8')) as Record<string, unknown> : {};
+  const doc = ISOLATED
+    ? { ...prev, isolated: { utterances: utts.length, accept: s.accept, insertions: s.insertions } }
+    : {
+      version: 1,
+      generatedAt: new Date().toISOString().slice(0, 10),
+      reference: `Kokoro-82M en-GB voices (${VOICES.join(', ')}) decoded by ${MODELS.phoneme.id}`,
+      utterances: utts.length,
+      minRate: 0.12,
+      ...s,
+      // measured by calibrate-rhotic and the --isolated run; keep them
+      ...(prev.rhotic ? { rhotic: prev.rhotic } : {}),
+      ...(prev.isolated ? { isolated: prev.isolated } : {}),
+    };
+  writeFileSync(OUT, JSON.stringify(doc, null, 1) + '\n');
+  console.log(JSON.stringify({ accept: s.accept, insertions: s.insertions, ...(ISOLATED ? {} : { weakForms: s.weakForms }) }, null, 1));
 }
 
 void main();

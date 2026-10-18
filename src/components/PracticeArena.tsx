@@ -7,6 +7,8 @@ import { engine, cosine } from '../services/engine';
 import { scorePrompts, selectNextPrompt, suggestTier } from '../services/rlBandit';
 import { loadLevel, warmLevels } from '../services/corpus';
 import { ensureEntry, entryPrompts, loadAllCurated, loadWordBand } from '../services/lexicon';
+import { advanceLadder, ladderProgress, ladderPrompt, loadLadders, needsCheck, pickLadderSound, STAGE_NAMES } from '../services/ladders';
+import { planBuildUp, shouldBuildUp, STEP_TRIES } from '../services/buildup';
 import { rpVoice, type Reference } from '../services/rpVoice';
 import { evaluateTurn, commitTurn, type TurnResult } from '../services/evaluate';
 import { scheduleSync } from '../services/syncManager';
@@ -26,10 +28,21 @@ const SKIP_WORDS = /^(skip|next|skip it|next one|next prompt|pass)\.?$/i;
 const RECENT_MAX = 25;
 
 function spokenPrompt(p: Prompt, vocabNames: string[]): string {
+  if (p.drill?.kind === 'buildup') return `${p.drill.part === 'word' ? 'Just this word.' : 'Now this part.'} ${p.text}`;
   if (p.mode === 'shadow') return p.text;
   if (p.tier === 1) return `Read aloud. ${p.text}`;
   if (p.tier === 2) return `Compress this in ten seconds${vocabNames.length ? `, using ${vocabNames.join(' and ')}` : ''}. ${p.text}`;
   return `${p.text} ${vocabNames.length ? `Try to use: ${vocabNames.join(', ')}.` : ''}`;
+}
+
+function promptLabel(p: Prompt, tierMode: TierMode): string {
+  if (p.drill?.kind === 'buildup') return `Build-up · step ${p.drill.step + 1} of ${p.drill.steps}`;
+  if (p.drill?.kind === 'ladder') return `Sounds · /${p.drill.phoneme}/ · ${STAGE_NAMES[p.drill.stage]}`;
+  if (tierMode === 'sounds' && p.title.startsWith('Diagnostic')) return 'Sounds · quick check';
+  if (p.mode === 'nameit') return 'Words · name it';
+  if (p.mode === 'shadow' && p.cardId) return 'Words · listen & repeat';
+  if (p.mode === 'shadow') return `Listen & repeat · Level ${p.level}`;
+  return `Tier ${p.tier} · ${p.tier === 1 ? 'Articulatory calibration' : p.tier === 2 ? 'Lexical compression' : 'Open-ended monologue'}`;
 }
 
 function critique(r: TurnResult): string {
@@ -71,6 +84,15 @@ export default function PracticeArena({ tierMode, focusPhoneme, clearFocus, open
   const nextShadow = useRef<Prompt | null>(null);
   const interacted = useRef(false);
   refRef.current = ref;
+  // Build-up: steps offered after repeated misses, and the run in progress (refs mirror state for async loops).
+  const [offer, setOffer] = useState<Prompt[] | null>(null);
+  const [buildup, setBuildup] = useState<{ steps: Prompt[]; index: number; parentAttempt: number } | null>(null);
+  const buildupRef = useRef(buildup);
+  buildupRef.current = buildup;
+  const builtUp = useRef(new Set<string>());
+  const [stepFails, setStepFails] = useState(0);
+  const stepFailsRef = useRef(0);
+  const [notice, setNotice] = useState<string | null>(null);
 
   promptRef.current = prompt;
   attemptRef.current = attempt;
@@ -81,12 +103,36 @@ export default function PracticeArena({ tierMode, focusPhoneme, clearFocus, open
    */
   const recentIds = useRef<string[]>([]);
   const pickNext = useCallback(async (excludeId?: string): Promise<Prompt | null> => {
+    setOffer(null); setBuildup(null); buildupRef.current = null; setNotice(null);
     const suggested = suggestTier(learner);
     const roll = Math.random();
     const words = tierMode === 'words' || !!focusCard || (tierMode === 'auto' && roll < 0.2);
-    const shadow = !words && (tierMode === 'shadow' || (tierMode === 'auto' && roll < (suggested === 1 ? 0.6 : 0.4)));
+    // Sounds mode, a heatmap tap, or about one in five Auto turns once there's a weak sound to work on.
+    const sounds = !words && (tierMode === 'sounds' || (tierMode === 'auto' && roll < 0.4));
+    const shadow = !words && !sounds && (tierMode === 'shadow' || (tierMode === 'auto' && roll < (suggested === 1 ? 0.7 : 0.55)));
     const ctx = { learner, vocab: vocabCards, stats: promptStats, now: Date.now(), excludeId, recent: new Set(recentIds.current), focusPhoneme: focusPhoneme ?? undefined };
     let chosen: Prompt | null = null;
+    if (sounds) {
+      try {
+        const ladders = await loadLadders();
+        if (tierMode === 'sounds' && !focusPhoneme && needsCheck(learner)) {
+          // Not enough heard yet to know the weak sounds: a few diagnostic sentences first.
+          chosen = selectNextPrompt(allPrompts.filter((p) => p.title.startsWith('Diagnostic')), { ...ctx, focusPhoneme: undefined })?.prompt ?? null;
+          setNotice('Quick sound check: read a few sentences so schwa can find the sounds to work on.');
+        } else {
+          const ph = pickLadderSound(learner, ladders, focusPhoneme);
+          if (ph) {
+            const lp = ladderProgress(learner, ph);
+            const stage = lp.stage === 5 ? 4 : lp.stage;
+            for (let i = 0; i < 4 && (!chosen || chosen.id === excludeId); i++) chosen = ladderPrompt(ph, ladders[ph], stage, Math.floor(Math.random() * 997));
+          } else if (tierMode === 'sounds') {
+            setNotice('No weak sounds to work on right now. Here is a sentence instead.');
+          }
+        }
+      } catch {
+        chosen = null; // ladders not downloaded yet (offline): fall back below
+      }
+    }
     if (words) {
       try {
         if (focusCard) {
@@ -108,7 +154,7 @@ export default function PracticeArena({ tierMode, focusPhoneme, clearFocus, open
         chosen = null; // lexicon not downloaded yet (offline): fall back below
       }
     }
-    if (shadow) {
+    if (shadow || (sounds && !chosen && tierMode === 'auto')) {
       try {
         const level = learner.shadowLevel ?? 1;
         warmLevels(level);
@@ -198,6 +244,47 @@ export default function PracticeArena({ tierMode, focusPhoneme, clearFocus, open
 
   const vocabNames = (p: Prompt) => p.targetVocab.map((id) => vocabById.get(id)?.headword).filter((x): x is string => !!x);
 
+  // ---- Build-up: problem words, then phrases from the end, then the whole sentence again ----
+  const showStep = (step: Prompt) => {
+    setPrompt(step); promptRef.current = step;
+    setAttempt(1); attemptRef.current = 1;
+    stepFailsRef.current = 0; setStepFails(0);
+    setResult(null); setError(null); setPhase('idle');
+  };
+  const startBuildUp = (steps: Prompt[]) => {
+    const parent = steps[0].drill?.kind === 'buildup' ? steps[0].drill.parent : null;
+    if (parent) builtUp.current.add(parent.id);
+    const run = { steps, index: 0, parentAttempt: attemptRef.current };
+    buildupRef.current = run; setBuildup(run); setOffer(null); setNotice(null);
+    showStep(steps[0]);
+  };
+  /** Next step, or back to the whole sentence after the last one. */
+  const advanceBuildUp = (toSentence = false) => {
+    const run = buildupRef.current;
+    if (!run) return;
+    const index = run.index + 1;
+    if (!toSentence && index < run.steps.length) {
+      const next = { ...run, index };
+      buildupRef.current = next; setBuildup(next);
+      showStep(run.steps[index]);
+      return;
+    }
+    const d = run.steps[0].drill;
+    buildupRef.current = null; setBuildup(null);
+    if (d?.kind !== 'buildup') return;
+    setPrompt(d.parent); promptRef.current = d.parent;
+    setAttempt(run.parentAttempt); attemptRef.current = run.parentAttempt;
+    setResult(null); setError(null); setPhase('idle');
+    setNotice('Now the whole sentence again.');
+  };
+  /** After a pass: the next build-up step, or a new prompt. */
+  const nextAfterPass = (p: Prompt | null) => (p?.drill?.kind === 'buildup' ? advanceBuildUp() : void pickNext(p?.id));
+  const skip = () => {
+    const run = buildupRef.current;
+    const d = run?.steps[0].drill;
+    void pickNext(d?.kind === 'buildup' ? d.parent.id : promptRef.current?.id);
+  };
+
   /** Run all four streams on one utterance, score it, commit the RL update. */
   const process = useCallback(async (audio: Float32Array): Promise<TurnResult | null> => {
     const p = promptRef.current;
@@ -229,7 +316,22 @@ export default function PracticeArena({ tierMode, focusPhoneme, clearFocus, open
       await commitTurn(r, data);
       void refresh();
       scheduleSync();
+      if (p.drill?.kind === 'ladder') {
+        const before = ladderProgress(learner, p.drill.phoneme);
+        const after = advanceLadder(learner.ladders?.[p.drill.phoneme], p.drill, r.reward.passed, Date.now());
+        if (after.stage !== before.stage) setNotice(after.stage === 5 ? `/${p.drill.phoneme}/ ladder complete!` : `Up a step for /${p.drill.phoneme}/: ${STAGE_NAMES[after.stage as 1 | 2 | 3 | 4].toLowerCase()} next.`);
+      }
       if (!r.reward.passed) { setAttempt((a) => a + 1); attemptRef.current += 1; }
+      if (!r.reward.passed && p.drill?.kind === 'buildup') {
+        stepFailsRef.current += 1; setStepFails(stepFailsRef.current);
+        if (settings.handsFree && stepFailsRef.current >= STEP_TRIES) advanceBuildUp();
+      } else if (!r.reward.passed && shouldBuildUp(p, attemptRef.current - 1) && !builtUp.current.has(p.id)) {
+        const steps = planBuildUp(p, r);
+        if (steps.length) {
+          if (settings.handsFree) startBuildUp(steps);
+          else setOffer(steps);
+        }
+      }
       if (p.tier === 3 && isGeminiAvailable(settings.geminiKey, settings.geminiEnabled)) {
         void enhanceMonologue(settings.geminiKey, { prompt: p.text, transcript: r.transcript, targetWords: vocabNames(p) }).then((g) => {
           setResult((cur) => (cur && cur.audio === r.audio ? { ...cur, gemini: g } : cur));
@@ -242,7 +344,7 @@ export default function PracticeArena({ tierMode, focusPhoneme, clearFocus, open
       return null;
     }
   // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [data, refresh, settings.geminiEnabled, settings.geminiKey, settings.rpVoice, settings.kokoroVoice, pickNext]);
+  }, [data, refresh, learner, settings.geminiEnabled, settings.geminiKey, settings.rpVoice, settings.kokoroVoice, settings.handsFree, pickNext]);
 
   const startRecording = useCallback(async () => {
     if (!promptRef.current || engineState !== 'ready') return;
@@ -272,8 +374,9 @@ export default function PracticeArena({ tierMode, focusPhoneme, clearFocus, open
   /** Primary control: next prompt after a pass, else record / stop. */
   const onMic = useCallback(() => {
     if (phase === 'recording') { void stopRecording(); return; }
-    if (phase === 'result' && result?.reward.passed) { void pickNext(prompt?.id); return; }
+    if (phase === 'result' && result?.reward.passed) { nextAfterPass(prompt); return; }
     void startRecording();
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [phase, result, prompt, pickNext, startRecording, stopRecording]);
 
   // Spacebar push-to-talk (hold), or "next" after a pass.
@@ -282,7 +385,7 @@ export default function PracticeArena({ tierMode, focusPhoneme, clearFocus, open
     const down = (e: KeyboardEvent) => {
       if (e.code !== 'Space' || e.repeat || isField(e.target) || settings.handsFree) return;
       e.preventDefault();
-      if (phase === 'result' && result?.reward.passed) { void pickNext(prompt?.id); return; }
+      if (phase === 'result' && result?.reward.passed) { nextAfterPass(prompt); return; }
       void startRecording();
     };
     const up = (e: KeyboardEvent) => {
@@ -311,14 +414,15 @@ export default function PracticeArena({ tierMode, focusPhoneme, clearFocus, open
     });
     (async () => {
       try { await recorder.open(); } catch (e) { setError(`Microphone unavailable: ${String(e)}`); return; }
-      let lastSpoken = '';
+      let lastSpoken = '', lastId = '';
       while (!cancelled && handsFreeRef.current) {
         const p = promptRef.current ?? await pickNext();
         if (!p) break;
         const key = `${p.id}:${attemptRef.current}`;
         if (lastSpoken !== key) {
-          await speak(attemptRef.current === 1 ? spokenPrompt(p, vocabNames(p)) : 'Your turn.', { voice: settings.ttsVoice });
-          lastSpoken = key;
+          // a new prompt (or back to the sentence after a build-up) is read in full; a retry just gets a cue
+          await speak(attemptRef.current === 1 || p.id !== lastId ? spokenPrompt(p, vocabNames(p)) : 'Your turn.', { voice: settings.ttsVoice });
+          lastSpoken = key; lastId = p.id;
         }
         if (cancelled) break;
         setPhase('idle');
@@ -327,7 +431,10 @@ export default function PracticeArena({ tierMode, focusPhoneme, clearFocus, open
         const r = await process(audio);
         if (!r || cancelled) continue;
         await speak(critique(r), { voice: settings.ttsVoice });
-        if (r.reward.passed) await pickNext(p.id);
+        if (r.reward.passed) {
+          if (p.drill?.kind === 'buildup') advanceBuildUp();
+          else await pickNext(p.id);
+        }
       }
     })();
     return () => { cancelled = true; handsFreeRef.current = false; recorder.cancel(); stopSpeaking(); };
@@ -367,14 +474,26 @@ export default function PracticeArena({ tierMode, focusPhoneme, clearFocus, open
     <main>
       <section className="section card" aria-live="polite">
         <div className="prompt-head">
-          <span className="label">{prompt.mode === 'nameit' ? 'Words · name it' : prompt.mode === 'shadow' && prompt.cardId ? 'Words · listen & repeat' : prompt.mode === 'shadow' ? `Listen & repeat · Level ${prompt.level}` : `Tier ${prompt.tier} · ${prompt.tier === 1 ? 'Articulatory calibration' : prompt.tier === 2 ? 'Lexical compression' : 'Open-ended monologue'}`}</span>
+          <span className="label">{promptLabel(prompt, tierMode)}</span>
+          {prompt.drill?.kind === 'ladder' && <LadderDots stage={ladderProgress(learner, prompt.drill.phoneme).stage} />}
           <span className="spacer" />
           {focusPhoneme && <button className="chip" onClick={clearFocus} title="Clear drill focus">Drill <span className="ipa">/{focusPhoneme}/</span> ✕</button>}
           {attempt > 1 && <span className="chip">Retry #{attempt - 1}</span>}
-          <button className="iconbtn" onClick={() => void pickNext(prompt.id)} title="Skip (or say “skip”)" aria-label="Skip prompt"><SkipIcon /></button>
+          <button className="iconbtn" onClick={skip} title="Skip (or say “skip”)" aria-label="Skip prompt"><SkipIcon /></button>
         </div>
+        {notice && <div className="notice small">{notice}</div>}
         <div className="small muted">{prompt.title}</div>
         <p className={`prompt-text ${prompt.tier === 2 ? 'verbose' : prompt.tier === 3 ? 'scenario' : ''}`}>{prompt.text}</p>
+        {prompt.drill?.kind === 'buildup' && (
+          <div className="small muted">
+            From: “{prompt.drill.parent.text}”{' '}
+            <button className="linkbtn" onClick={() => advanceBuildUp(true)}>Back to the whole sentence</button>
+          </div>
+        )}
+        {prompt.drill?.kind === 'ladder' && (() => {
+          const info = data.phonemes.find((x) => x.symbol === (prompt.drill as { phoneme: string }).phoneme);
+          return info ? <div className="notice small"><b><span className="ipa">/{info.symbol}/</span> as in {info.keyword.split(' / ')[0].toLowerCase()}.</b> {info.mechanics}</div> : null;
+        })()}
         {prompt.mode === 'shadow' && (
           <div className="row">
             <button className="btn" onClick={() => void listen(false)} disabled={refState === 'rendering'}><SpeakerIcon /> Listen</button>
@@ -463,9 +582,39 @@ export default function PracticeArena({ tierMode, focusPhoneme, clearFocus, open
           </div>
         </div>
         {error && <div className="notice err">{error}</div>}
+        {offer && phase === 'result' && !result?.reward.passed && (
+          <div className="notice">
+            <b>This one is tough. Let's break it down</b>: {describeSteps(offer)}, then the whole sentence again.
+            <div className="row section">
+              <button className="btn" onClick={() => startBuildUp(offer)}>Break it down</button>
+              <button className="btn ghost" onClick={() => { builtUp.current.add(prompt.id); setOffer(null); }}>Keep trying</button>
+            </div>
+          </div>
+        )}
+        {buildup && phase === 'result' && !result?.reward.passed && stepFails >= STEP_TRIES && (
+          <div className="row section">
+            <span className="small muted">No problem, it'll come back round.</span>
+            <button className="btn ghost" onClick={() => advanceBuildUp()}>Move on</button>
+          </div>
+        )}
       </section>
 
       {result && <ResultView r={result} />}
     </main>
+  );
+}
+
+function describeSteps(steps: Prompt[]): string {
+  const words = steps.filter((s) => s.drill?.kind === 'buildup' && s.drill.part === 'word').length;
+  const phrases = steps.length - words;
+  return [words && `${words} word${words > 1 ? 's' : ''}`, phrases && `${phrases} phrase${phrases > 1 ? 's' : ''}`].filter(Boolean).join(', ');
+}
+
+/** Four dots for a sound's ladder: filled up to the current stage, all green when complete. */
+function LadderDots({ stage }: { stage: number }) {
+  return (
+    <span className="ladder-dots" title={stage === 5 ? 'Ladder complete' : `Step ${stage} of 4`}>
+      {[1, 2, 3, 4].map((i) => <i key={i} className={stage === 5 ? 'done' : i < stage ? 'on' : i === stage ? 'now' : ''} />)}
+    </span>
   );
 }

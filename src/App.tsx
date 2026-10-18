@@ -10,7 +10,7 @@ import { onSyncStatus, type SyncStatus } from './services/syncManager';
 import { configureVoice } from './services/tts';
 import type { Tier } from './types';
 
-export type TierMode = 'auto' | Tier | 'shadow' | 'words';
+export type TierMode = 'auto' | 'sounds' | Tier | 'shadow' | 'words';
 
 function ago(ts: number | null): string {
   if (!ts) return 'never';
@@ -50,7 +50,7 @@ export default function App() {
   const [tierMode, setTierMode] = useState<TierMode>('auto');
   const [focusPhoneme, setFocusPhoneme] = useState<string | null>(null);
 
-  const cycleTier = () => setTierMode((t) => (t === 'auto' ? 1 : t === 1 ? 2 : t === 2 ? 3 : t === 3 ? 'shadow' : t === 'shadow' ? 'words' : 'auto'));
+  const cycleTier = () => setTierMode((t) => (t === 'auto' ? 'sounds' : t === 'sounds' ? 1 : t === 1 ? 2 : t === 2 ? 3 : t === 3 ? 'shadow' : t === 'shadow' ? 'words' : 'auto'));
   const practise = (id: string) => { setFocusCard(id); setTierMode('words'); setView('arena'); openVocab(null); };
 
   // Route speak() to the neural RP voice or the system synthesiser.
@@ -63,8 +63,8 @@ export default function App() {
           <button className="iconbtn" onClick={() => setView('arena')} aria-label="Back to practice"><BackIcon /></button>
         ) : null}
         <div className="brand"><span className="glyph">ə</span><span className="name">schwa</span></div>
-        <button className="chip tier" onClick={cycleTier} title="Mode: tap to cycle Auto → Tier 1 → 2 → 3 → Listen & repeat → Words">
-          {tierMode === 'auto' ? 'Auto' : tierMode === 'shadow' ? 'Repeat' : tierMode === 'words' ? 'Words' : `Tier ${tierMode}`}
+        <button className="chip tier" onClick={cycleTier} title="Mode: tap to cycle Auto → Sounds → Tier 1 → 2 → 3 → Listen & repeat → Words">
+          {tierMode === 'auto' ? 'Auto' : tierMode === 'sounds' ? 'Sounds' : tierMode === 'shadow' ? 'Repeat' : tierMode === 'words' ? 'Words' : `Tier ${tierMode}`}
         </button>
         <span className="spacer" />
         <button
@@ -88,7 +88,7 @@ export default function App() {
       ) : view === 'lexicon' ? (
         <LexiconView />
       ) : (
-        <Dashboard onDrill={(p) => { setFocusPhoneme(p); setTierMode(1); setView('arena'); }} />
+        <Dashboard onDrill={(p) => { setFocusPhoneme(p); setTierMode('sounds'); setView('arena'); }} />
       )}
 
       {settingsOpen && <SettingsVault onClose={() => setSettingsOpen(false)} />}

@@ -4,13 +4,14 @@
  */
 import { alignToTarget, type AlignmentResult, type Diagnosis, type ProducedPhone } from './ipaAligner';
 import { concisenessReport, vocabUsed, tokenize, type ConcisenessReport } from './redundancy';
-import { compositeReward, lexicalScore, phoneticScore, prosodyScore, SHADOW_WEIGHTS, type LexicalBreakdown, type ProsodyBreakdown, type RewardResult } from './reward';
+import { compositeReward, lexicalScore, phoneticScore, prosodyScore, PHONETIC_WEIGHTS, SHADOW_WEIGHTS, type LexicalBreakdown, type ProsodyBreakdown, type RewardResult } from './reward';
 import { updateConfusion, updateHabits, updateProsodyVector, spokenGrade, ewmaUpdate } from './rlBandit';
 import { newCard, review } from './fsrs';
 import { db, getLearner, markDirty } from './db';
 import { withStateLock } from './lock';
 import { nextShadowLevel } from './corpus';
 import { getEntry, nextWordBand } from './lexicon';
+import { advanceLadder, focusAccuracy, FOCUS_PASS } from './ladders';
 import type { TargetWord } from '../lib/connectedSpeech';
 import { normalizeWord } from '../lib/connectedSpeech';
 import type { ProsodyMetrics } from '../lib/prosody';
@@ -64,6 +65,16 @@ function wordCoverage(expected: string, heard: string): number {
   return hit / exp.length;
 }
 
+/** Share of words with at least half their sounds right (match or drift). */
+function soundCoverage(a: AlignmentResult): number {
+  if (!a.words.length) return 0;
+  const said = a.words.filter((w) => {
+    const t = w.pairs.filter((p) => p.target);
+    return t.length > 0 && t.filter((p) => p.kind !== 'error' && (p.produced || p.calibrated)).length * 2 >= t.length;
+  });
+  return said.length / a.words.length;
+}
+
 /** Did a > 500 ms silence immediately precede the word (lexical-retrieval hesitation)? */
 function hesitatedBefore(start: number | undefined, prosody: ProsodyMetrics): boolean {
   if (start === undefined) return false;
@@ -85,7 +96,10 @@ function vocabPool(data: CuratedData, ids: string[]): VocabEntry[] {
 export function evaluateTurn(input: TurnInput, data: CuratedData): TurnResult {
   const { prompt } = input;
   const tier = prompt.tier;
-  const alignment = input.produced ? alignToTarget(input.target, input.produced, input.audio) : null;
+  // Single words and word pairs are judged on the sounds alone: rhythm and melody need a phrase.
+  const d = prompt.drill;
+  const wordDrill = (d?.kind === 'buildup' && d.part === 'word') || (d?.kind === 'ladder' && (d.content === 'words' || d.content === 'pairs'));
+  const alignment = input.produced ? alignToTarget(input.target, input.produced, input.audio, 16000, { isolated: wordDrill }) : null;
   const fillers = (input.transcript.match(FILLER_RE) ?? []).length;
   const schwaRate = alignment && alignment.schwa.expected > 0 ? alignment.schwa.reduced / alignment.schwa.expected : null;
   const prosodyBreakdown = prosodyScore(input.prosody, schwaRate, fillers, input.reference?.prosody);
@@ -102,9 +116,12 @@ export function evaluateTurn(input: TurnInput, data: CuratedData): TurnResult {
     : null;
 
   // Name-it passes when the British word (or one of its forms) was said; read-aloud needs the words of the text.
+  // Word drills also count a word as said when its sounds were mostly heard: with no sentence
+  // around it the transcriber guesses ("law, all, more" → "since I old my"), and a mispronounced
+  // word becomes a different word ("four" → "far") when that's exactly what the drill should mark.
   const coverage = prompt.mode === 'nameit'
     ? (prompt.cardId && usedVocab.includes(prompt.cardId) ? 1 : 0)
-    : tier === 1 ? wordCoverage(prompt.reference ?? prompt.text, input.transcript) : null;
+    : tier === 1 ? Math.max(wordCoverage(prompt.reference ?? prompt.text, input.transcript), wordDrill && alignment ? soundCoverage(alignment) : 0) : null;
   const reward = compositeReward({
     tier,
     phonetic: alignment ? phoneticScore(alignment) : null,
@@ -112,9 +129,19 @@ export function evaluateTurn(input: TurnInput, data: CuratedData): TurnResult {
     lexical: lexical?.score ?? 0,
     criticalRedundancies: concise?.critical ?? 0,
     wordCoverage: coverage ?? undefined,
-    weights: prompt.mode === 'shadow' ? SHADOW_WEIGHTS : undefined,
+    weights: wordDrill ? PHONETIC_WEIGHTS : prompt.mode === 'shadow' ? SHADOW_WEIGHTS : undefined,
     coverageMessage: prompt.mode === 'nameit' ? `Say the British word — the answer is “${prompt.reference}”` : undefined,
   });
+  // A ladder step also needs the sound(s) it practises to be right most of the time.
+  if (d?.kind === 'ladder' && alignment) {
+    for (const ph of [d.phoneme, ...(d.contrast ? [d.contrast] : [])]) {
+      const { hit, total } = focusAccuracy(alignment, [ph]);
+      if (total > 0 && hit / total < FOCUS_PASS) {
+        reward.blockers.push(`/${ph}/ right ${hit} of ${total} times`);
+        reward.passed = false;
+      }
+    }
+  }
 
   const hesitatedVocab: string[] = [];
   const retrievalPauses: number[] = [];
@@ -227,6 +254,12 @@ async function commitTurnUnlocked(r: TurnResult, data: CuratedData): Promise<Ses
   if (shadowLevel !== undefined && shadowLevel === (learner.shadowLevel ?? 1)) {
     const recent = await db.sessions.orderBy('ts').reverse().filter((x) => x.shadowLevel === shadowLevel).limit(20).toArray();
     next.shadowLevel = nextShadowLevel(shadowLevel, [log, ...recent]);
+  }
+
+  // Sound ladders: climb after enough passes at the current stage.
+  if (r.prompt.drill?.kind === 'ladder') {
+    const ph = r.prompt.drill.phoneme;
+    next.ladders = { ...(learner.ladders ?? {}), [ph]: advanceLadder(learner.ladders?.[ph], r.prompt.drill, r.reward.passed, now) };
   }
 
   // Words mode: move to the next frequency band once 80 % of the current one has been passed.
