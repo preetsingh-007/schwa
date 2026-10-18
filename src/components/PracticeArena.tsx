@@ -449,15 +449,15 @@ export default function PracticeArena({ tierMode, focusPhoneme, clearFocus, open
               {settings.handsFree ? (
                 <span>{phase === 'recording' ? '● Listening…' : phase === 'analyzing' ? 'Analysing…' : 'Hands-free: speak after the prompt is read'}</span>
               ) : phase === 'recording' ? (
-                <span className={`countdown ${remaining < 3 ? 'low' : ''}`}>● {remaining.toFixed(1)} s left — tap or release <span className="kbd">Space</span> to finish</span>
+                <span className={`countdown ${remaining < 3 ? 'low' : ''}`}>● {remaining.toFixed(1)} s left — tap<span className="kbd-hint"> or release <span className="kbd">Space</span></span> to finish</span>
               ) : phase === 'analyzing' ? (
                 <span><span className="spinner" /> Running Streams A–D on device…</span>
               ) : phase === 'result' && result?.reward.passed ? (
-                <span>Passed — tap ▶ or press <span className="kbd">Space</span> for the next prompt</span>
+                <span>Passed — tap ▶<span className="kbd-hint"> or press <span className="kbd">Space</span></span> for the next prompt</span>
               ) : phase === 'result' ? (
-                <span><b>Spoken retry required</b> — tap the mic or hold <span className="kbd">Space</span> and say it again</span>
+                <span><b>Spoken retry required</b> — tap the mic<span className="kbd-hint"> or hold <span className="kbd">Space</span></span> and say it again</span>
               ) : (
-                <span>Tap the mic or hold <span className="kbd">Space</span> to speak · {engine.device.toUpperCase()}{!engineModels.phoneme ? ' · Stream B off' : ''}</span>
+                <span>Tap the mic<span className="kbd-hint"> or hold <span className="kbd">Space</span></span> to speak · {engine.device.toUpperCase()}{!engineModels.phoneme ? ' · Stream B off' : ''}</span>
               )}
             </div>
           </div>
