@@ -187,13 +187,13 @@ export async function fetchRemote(c: RepoConfig, fetchImpl: typeof fetch = fetch
     text = await raw.text();
   }
   const doc = JSON.parse(text) as SyncDocument;
-  if (doc?.schema !== 'lexiphon/state@1') throw new SyncError('Remote file is not a LexiPhon state document');
+  if (doc?.schema !== 'lexiphon/state@1') throw new SyncError('Remote file is not a schwa state document');
   return { doc, sha: j.sha };
 }
 
 export async function pushRemote(c: RepoConfig, doc: SyncDocument, sha: string | null, fetchImpl: typeof fetch = fetch): Promise<string> {
   const body = {
-    message: `LexiPhon sync · ${new Date(doc.exportedAt).toISOString()}`,
+    message: `schwa sync · ${new Date(doc.exportedAt).toISOString()}`,
     content: encodeBase64Utf8(JSON.stringify(doc)),
     ...(sha ? { sha } : {}),
   };

@@ -1,6 +1,6 @@
 """
 Builds the automatic word layer (the ~20,000 most frequent English lemmas)
-for the LexiPhon lexicon.
+for the schwa lexicon.
 
 Sources (all open):
   * wordfreq (Robyn Speer et al.) frequency ranks — data CC BY-SA 4.0

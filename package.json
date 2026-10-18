@@ -1,7 +1,7 @@
 {
-  "name": "lexiphon",
+  "name": "schwa",
   "version": "0.1.0",
-  "description": "LexiPhon — offline-first Modern RP & lexical compression coach (100% voice-in PWA).",
+  "description": "schwa — offline-first Modern RP & lexical compression coach (100% voice-in PWA).",
   "scripts": {
     "copy-ort": "node scripts/copy-ort.mjs",
     "predev": "npm run copy-ort",

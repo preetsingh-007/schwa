@@ -1,6 +1,6 @@
 {
-  "name": "LexiPhon — Modern RP & Lexical Compression Coach",
-  "short_name": "LexiPhon",
+  "name": "schwa — Modern RP & Lexical Compression Coach",
+  "short_name": "schwa",
   "description": "Offline-first, 100% voice-in coach for Modern Received Pronunciation and concise British English.",
   "lang": "en-GB",
   "start_url": "./",

@@ -1,6 +1,6 @@
 # Prompt authoring brief (Tier 2 and Tier 3)
 
-These prompts are for LexiPhon, a speaking coach that trains Modern RP and concise, natural British English. Learners are educated speakers from an Indian or international English background. They tend to pad their speech with verbal scaffolding ("actually what I am trying to say is…", "do the needful", "revert back", "small-small issues", "kindly", "prepone", repetition and stacked hedges). Every answer is **spoken aloud**.
+These prompts are for schwa, a speaking coach that trains Modern RP and concise, natural British English. Learners are educated speakers from an Indian or international English background. They tend to pad their speech with verbal scaffolding ("actually what I am trying to say is…", "do the needful", "revert back", "small-small issues", "kindly", "prepone", repetition and stacked hedges). Every answer is **spoken aloud**.
 
 `headwords.tsv` lists every vocabulary item the app has a card for, with its register (GREEN = formal-safe, AMBER = colleague or everyday, RED = social only) and category. **Targets must be copied exactly from this list.**
 

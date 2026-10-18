@@ -342,7 +342,7 @@ export default function PracticeArena({ tierMode, focusPhoneme, clearFocus, open
       <section className="section card empty">
         <h2 style={{ marginTop: 0 }}>Offline speech engine</h2>
         <p className="muted small" style={{ maxWidth: 520, margin: '0 auto' }}>
-          LexiPhon runs Whisper (what you meant), a wav2vec2 IPA model (what your vocal tract produced) and espeak-ng (the RP target)
+          schwa runs Whisper (what you meant), a wav2vec2 IPA model (what your vocal tract produced) and espeak-ng (the RP target)
           entirely on this device. The first load downloads ~{total} MB once; after that it works in flight mode.
         </p>
         <div className="section">

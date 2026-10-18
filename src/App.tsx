@@ -62,7 +62,7 @@ export default function App() {
         {view !== 'arena' ? (
           <button className="iconbtn" onClick={() => setView('arena')} aria-label="Back to practice"><BackIcon /></button>
         ) : null}
-        <div className="brand"><span className="glyph">ə</span><span className="name">LexiPhon</span></div>
+        <div className="brand"><span className="glyph">ə</span><span className="name">schwa</span></div>
         <button className="chip tier" onClick={cycleTier} title="Mode: tap to cycle Auto → Tier 1 → 2 → 3 → Listen & repeat → Words">
           {tierMode === 'auto' ? 'Auto' : tierMode === 'shadow' ? 'Repeat' : tierMode === 'words' ? 'Words' : `Tier ${tierMode}`}
         </button>
