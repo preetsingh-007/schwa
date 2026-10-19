@@ -83,7 +83,7 @@ export default function SettingsVault({ onClose }: { onClose: () => void }) {
         <div className="field">
           <label className="small" htmlFor="dev">Compute device</label>
           <select id="dev" value={settings.device} onChange={(e) => void updateSettings({ device: e.target.value as typeof settings.device })}>
-            <option value="auto">Auto (WebGPU if available)</option>
+            <option value="auto">Auto (WebGPU on computers, WASM on phones)</option>
             <option value="webgpu">WebGPU</option>
             <option value="wasm">WASM (CPU)</option>
           </select>
@@ -92,7 +92,7 @@ export default function SettingsVault({ onClose }: { onClose: () => void }) {
           <input type="checkbox" checked={settings.phonemeModel === 'off'} onChange={(e) => void updateSettings({ phonemeModel: e.target.checked ? 'off' : 'full' })} />
           Low-memory mode (skip Stream B ~{MODELS.phoneme.approxMB} MB; no phoneme-level diff)
         </label>
-        <div className="notice">Device/mode changes apply on the next reload of the engine. On older iPhones, low-memory mode avoids Safari terminating the engine.</div>
+        <div className="notice">Device/mode changes apply on the next reload of the engine. If the app keeps closing on your phone, schwa switches to WASM and then to low-memory mode by itself.</div>
 
         <h3>Reference voice (RP)</h3>
         <label className="toggle small">

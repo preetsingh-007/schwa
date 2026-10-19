@@ -7,6 +7,51 @@ export interface ProgressInfo { model: ModelKey; file: string; loaded: number; t
 
 type DistributiveOmit<T, K extends keyof T> = T extends unknown ? Omit<T, K> : never;
 
+/** iPhone, iPad or a device reporting ≤ 4 GB: Safari/Chrome kill pages there long before a laptop would. */
+export function constrainedDevice(): boolean {
+  const nav = navigator as Navigator & { deviceMemory?: number };
+  const ios = /iPhone|iPad|iPod/.test(nav.userAgent) || (/Macintosh/.test(nav.userAgent) && nav.maxTouchPoints > 1);
+  return ios || (nav.deviceMemory !== undefined && nav.deviceMemory <= 4);
+}
+
+/**
+ * Crash breadcrumb. When the models need more memory than the phone allows, the OS kills
+ * the whole page (iOS then shows "A problem repeatedly occurred"), so nothing can catch it.
+ * A note is written before loading or analysing and removed afterwards; if one is still
+ * there on the next start, that attempt took the page down (see takeEngineCrash).
+ */
+const CRASH_KEY = 'schwa:engine-busy';
+export interface EngineCrash { at: number; step: 'init' | 'analyze'; device: InitOptions['device']; phonemeModel: InitOptions['phonemeModel']; constrained: boolean }
+function markBusy(step: EngineCrash['step'], o: Omit<InitOptions, 'base'>) {
+  try { localStorage.setItem(CRASH_KEY, JSON.stringify({ at: Date.now(), step, device: o.device, phonemeModel: o.phonemeModel, constrained: !!o.constrained })); } catch { /* storage unavailable */ }
+}
+function clearBusy() {
+  try { localStorage.removeItem(CRASH_KEY); } catch { /* storage unavailable */ }
+}
+/** The engine attempt that killed the page last time, if it was recent (and forget it). */
+export function takeEngineCrash(maxAgeMs = 10 * 60_000): EngineCrash | null {
+  try {
+    const raw = localStorage.getItem(CRASH_KEY);
+    localStorage.removeItem(CRASH_KEY);
+    const c = raw ? JSON.parse(raw) as EngineCrash : null;
+    return c && Date.now() - c.at < maxAgeMs ? c : null;
+  } catch {
+    return null;
+  }
+}
+/** Safer settings after a crash: WebGPU → WASM → low-memory mode, and what to tell the learner. */
+export function crashRecovery(c: EngineCrash): { settings: Partial<Pick<InitOptions, 'device' | 'phonemeModel'>>; message: string } {
+  const killed = 'Last time the speech engine used more memory than this device allows, and the browser closed the app. Your progress is safe.';
+  if (c.device === 'webgpu' || (c.device === 'auto' && !c.constrained)) {
+    return { settings: { device: 'wasm' }, message: `${killed} schwa has switched the compute device to WASM, which needs less memory. Tap Load to try again.` };
+  }
+  if (c.phonemeModel === 'full') {
+    return { settings: { phonemeModel: 'off' }, message: `${killed} schwa has switched on low-memory mode: the large phoneme model is skipped, so you get word and rhythm feedback but no sound-by-sound scoring. You can turn it back on in Engine settings.` };
+  }
+  return { settings: {}, message: `${killed} Close other apps and tabs, then tap Load to try again.` };
+}
+const settle = <T>(p: Promise<T>): Promise<T> => p.then((v) => { clearBusy(); return v; }, (e) => { clearBusy(); throw e; });
+
 class EngineClient {
   private worker: Worker | null = null;
   private seq = 0;
@@ -16,6 +61,7 @@ class EngineClient {
   ready: Record<ModelKey, boolean> = { asr: false, phoneme: false, embed: false };
   device = 'wasm';
   private readyListeners = new Set<() => void>();
+  private opts: Omit<InitOptions, 'base'> | null = null;
 
   private ensure(): Worker {
     if (!this.worker) {
@@ -80,12 +126,16 @@ class EngineClient {
     return () => this.readyListeners.delete(l);
   }
 
-  init(opts: Omit<InitOptions, 'base'>): Promise<{ device: string }> {
-    return this.call({ type: 'init', payload: { ...opts, base: import.meta.env.BASE_URL } });
+  init(o: Omit<InitOptions, 'base' | 'constrained'>): Promise<{ device: string }> {
+    const opts = { ...o, constrained: constrainedDevice() };
+    this.opts = opts;
+    markBusy('init', opts);
+    return settle(this.call({ type: 'init', payload: { ...opts, base: import.meta.env.BASE_URL } }));
   }
   analyze(req: AnalyzeRequest): Promise<AnalyzeResponse> {
     const copy = req.audio.slice();
-    return this.call({ type: 'analyze', payload: { ...req, audio: copy } }, [copy.buffer]);
+    if (this.opts) markBusy('analyze', this.opts);
+    return settle(this.call({ type: 'analyze', payload: { ...req, audio: copy } }, [copy.buffer]));
   }
   g2p(text: string): Promise<TargetWord[]> {
     return this.call({ type: 'g2p', payload: { text } });
