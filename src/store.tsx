@@ -1,7 +1,7 @@
 import { createContext, useCallback, useContext, useEffect, useMemo, useState, type ReactNode } from 'react';
 import type { CuratedData, LearnerState, PromptStat, Settings, VocabCard, VocabEntry } from './types';
 import { db, getLearner, getSettings, saveSettings } from './services/db';
-import { engine } from './services/engine';
+import { crashRecovery, engine, takeEngineCrash } from './services/engine';
 import { setAcousticCalibration, type AcousticCalibration } from './services/ipaAligner';
 import type { ModelKey } from './workers/protocol';
 import { getEntry, loadAllCurated, onLexiconChange } from './services/lexicon';
@@ -95,6 +95,14 @@ export function AppProvider({ data, initialSettings, initialLearner, children }:
   }, []);
 
   useEffect(() => { void refresh(); }, [refresh]);
+  // The engine took the whole page down last time (out of memory): step down to safer settings.
+  useEffect(() => {
+    const crash = takeEngineCrash();
+    if (!crash) return;
+    const { settings: safer, message } = crashRecovery(crash);
+    if (Object.keys(safer).length) void saveSettings(safer).then(setSettings);
+    setEngineError(message);
+  }, []);
   useEffect(() => engine.onReady(() => {
     setEngineModels({ ...engine.ready });
     if (!engine.ready.asr) setEngineState((s) => (s === 'ready' ? 'idle' : s));

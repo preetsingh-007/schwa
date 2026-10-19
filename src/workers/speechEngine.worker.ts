@@ -42,8 +42,8 @@ function progressFor(model: ModelKey) {
   };
 }
 
-async function pickDevice(pref: InitOptions['device']): Promise<'webgpu' | 'wasm'> {
-  if (pref === 'wasm') return 'wasm';
+async function pickDevice(pref: InitOptions['device'], constrained = false): Promise<'webgpu' | 'wasm'> {
+  if (pref === 'wasm' || (pref === 'auto' && constrained)) return 'wasm';
   const gpu = (navigator as Navigator & { gpu?: { requestAdapter(): Promise<unknown> } }).gpu;
   if (!gpu) return 'wasm';
   try {
@@ -82,7 +82,7 @@ async function init(opts: InitOptions): Promise<void> {
     wasm.wasmPaths = `${opts.base}ort/`;
     wasm.numThreads = self.crossOriginIsolated ? Math.min(4, navigator.hardwareConcurrency || 1) : 1;
   }
-  device = await pickDevice(opts.device);
+  device = await pickDevice(opts.device, opts.constrained);
 
   if (!asr) {
     asr = (await pipeline('automatic-speech-recognition', MODELS.asr.id, {

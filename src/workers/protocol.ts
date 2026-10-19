@@ -13,6 +13,8 @@ export interface InitOptions {
   device: 'auto' | 'webgpu' | 'wasm';
   phonemeModel: 'full' | 'off';
   embeddings: boolean;
+  /** Phone or low-memory device: "auto" picks WASM, since WebGPU's extra memory gets the page killed. */
+  constrained?: boolean;
   /** Vite BASE_URL, used to locate /ort/*.wasm */
   base: string;
 }
